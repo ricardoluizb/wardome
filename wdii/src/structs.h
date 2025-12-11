@@ -756,7 +756,7 @@ typedef signed long		sh_long;
 typedef unsigned long		ush_long;
 
 #if !defined(__cplusplus)       /* Anyone know a portable method? */
-typedef char                    bool;
+#include <stdbool.h>
 #endif
 
 #ifndef CIRCLE_WINDOWS

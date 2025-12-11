@@ -25,6 +25,7 @@ void    basic_mud_log(const char *format, ...) __attribute__ ((format (printf, 1
 int     touch(const char *path);
 void    mudlog(const char *str, int type, int level, int file);
 void    log_death_trap(struct char_data *ch);
+void    die_in_dt(struct char_data *ch);
 int     number(int from, int to);
 int     dice(int number, int size);
 void    sprintbit(long vektor, const char *names[], char *result);

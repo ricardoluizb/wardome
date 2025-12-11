@@ -42,7 +42,7 @@ typedef signed char sbyte;
 typedef unsigned char ubyte;
 typedef signed short int sh_int;
 typedef unsigned short int ush_int;
-typedef char bool;
+#include <stdbool.h>
 typedef char byte;
 
 typedef sh_int room_num;

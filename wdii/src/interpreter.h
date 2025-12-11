@@ -34,6 +34,11 @@ int     is_number(const char *str);
 int     find_command(const char *command);
 void    skip_spaces(char **string);
 char    *delete_doubledollar(char *string);
+int     find_name(char *name);
+int     _parse_name(char *arg, char *name);
+int     Valid_Name(char *newname);
+int     reserved_word(char *argument);
+void    roll_real_abils(struct char_data *ch);
 
 /* for compatibility with 2.20: */
 #define argument_interpreter(a, b, c) two_arguments(a, b, c)
