@@ -1,0 +1,6 @@
+# docker/.dockerignore
+wdii/log
+wdii/syslog*
+wdii/lib/pfiles
+wdii/lib/plrobjs
+wdii/bin
