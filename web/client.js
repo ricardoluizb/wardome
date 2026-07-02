@@ -8,7 +8,14 @@ const ws = new WebSocket('ws://localhost:8080');
 
 function stripAnsi(text) {
   // Strip ANSI escape codes for this milestone; color rendering is a later task.
-  return text.replace(/\x1b\[[0-9;]*m/g, '');
+  // Also strip raw Telnet IAC negotiation sequences (e.g. IAC WILL/WONT/DO/DONT ECHO)
+  // that the bridge passes through unmodified; without this they render as garbage
+  // characters around prompts like "Password:". Real password masking (switching the
+  // input to type="password" based on server echo state) is out of scope here and is
+  // deferred alongside the ANSI-color work.
+  return text
+    .replace(/\x1b\[[0-9;]*m/g, '')
+    .replace(/\xff[\xfb-\xfe]./g, '');
 }
 
 ws.addEventListener('open', () => {
