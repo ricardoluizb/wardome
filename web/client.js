@@ -2,6 +2,13 @@
 const output = document.getElementById('output');
 const roomIdEl = document.getElementById('room-id');
 const roomArtEl = document.getElementById('room-art');
+const hpBarFillEl = document.getElementById('hp-bar-fill');
+const hpTextEl = document.getElementById('hp-text');
+const manaBarFillEl = document.getElementById('mana-bar-fill');
+const manaTextEl = document.getElementById('mana-text');
+const moveBarFillEl = document.getElementById('move-bar-fill');
+const moveTextEl = document.getElementById('move-text');
+const statLineEl = document.getElementById('stat-line');
 const form = document.getElementById('input-form');
 const input = document.getElementById('command-input');
 
@@ -11,6 +18,26 @@ const MVP_ROOM_ART = new Set([3001, 3054, 3059, 3060, 3061, 18600, 18601, 18602,
 
 function setRoomArt(id) {
   roomArtEl.src = MVP_ROOM_ART.has(id) ? `assets/rooms/${id}.jpg` : 'assets/rooms/placeholder.jpg';
+}
+
+function barColor(pct) {
+  if (pct > 0.5) return '#4caf50';
+  if (pct > 0.25) return '#d4af37';
+  return '#e05252';
+}
+
+function setBar(fillEl, textEl, current, max) {
+  const pct = max > 0 ? Math.max(0, Math.min(1, current / max)) : 0;
+  fillEl.style.width = `${pct * 100}%`;
+  fillEl.style.backgroundColor = barColor(pct);
+  textEl.textContent = `${current}/${max}`;
+}
+
+function setStats(stats) {
+  setBar(hpBarFillEl, hpTextEl, stats.hp, stats.maxHp);
+  setBar(manaBarFillEl, manaTextEl, stats.mana, stats.maxMana);
+  setBar(moveBarFillEl, moveTextEl, stats.move, stats.maxMove);
+  statLineEl.textContent = `Lvl ${stats.level} · ${stats.gold} gold · ${stats.exp} exp`;
 }
 
 function stripAnsi(text) {
@@ -37,6 +64,8 @@ ws.addEventListener('message', (event) => {
   } else if (msg.type === 'room') {
     roomIdEl.textContent = msg.id;
     setRoomArt(msg.id);
+  } else if (msg.type === 'stats') {
+    setStats(msg);
   }
 });
 

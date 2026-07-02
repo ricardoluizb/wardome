@@ -46,6 +46,55 @@ body {
   color: #d4af37;
 }
 
+.hud-heading {
+  margin-top: 16px;
+}
+
+#hud {
+  font-size: 12px;
+}
+
+.stat-bar-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 6px;
+}
+
+.stat-label {
+  width: 24px;
+  color: #888;
+  font-weight: bold;
+}
+
+.stat-bar {
+  flex: 1;
+  height: 10px;
+  background: #0d0d0d;
+  border: 1px solid #333;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.stat-bar-fill {
+  height: 100%;
+  width: 0%;
+  background-color: #4caf50;
+  transition: width 0.2s ease, background-color 0.2s ease;
+}
+
+.stat-value {
+  width: 70px;
+  text-align: right;
+  color: #ccc;
+  font-size: 11px;
+}
+
+#stat-line {
+  margin-top: 8px;
+  color: #aaa;
+}
+
 #terminal-panel {
   flex: 1;
   display: flex;

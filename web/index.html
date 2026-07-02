@@ -12,6 +12,25 @@
       <img id="room-art" src="assets/rooms/placeholder.jpg" alt="Room illustration">
       <h2>Room</h2>
       <div id="room-id">—</div>
+      <h2 class="hud-heading">Status</h2>
+      <div id="hud">
+        <div class="stat-bar-row">
+          <span class="stat-label">HP</span>
+          <div class="stat-bar"><div id="hp-bar-fill" class="stat-bar-fill"></div></div>
+          <span id="hp-text" class="stat-value">—/—</span>
+        </div>
+        <div class="stat-bar-row">
+          <span class="stat-label">MP</span>
+          <div class="stat-bar"><div id="mana-bar-fill" class="stat-bar-fill"></div></div>
+          <span id="mana-text" class="stat-value">—/—</span>
+        </div>
+        <div class="stat-bar-row">
+          <span class="stat-label">MV</span>
+          <div class="stat-bar"><div id="move-bar-fill" class="stat-bar-fill"></div></div>
+          <span id="move-text" class="stat-value">—/—</span>
+        </div>
+        <div id="stat-line">Lvl — · — gold · — exp</div>
+      </div>
     </div>
     <div id="terminal-panel">
       <pre id="output"></pre>
