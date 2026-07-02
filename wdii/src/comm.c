@@ -1206,6 +1206,18 @@ char *make_prompt(struct descriptor_data *d)
   else if (d->str)
     strcpy(prompt, "] ");
   else if (STATE(d) == CON_PLAYING && !IS_NPC(d->character)) {
+
+    {
+      char stats_tag_buf[160];
+      snprintf(stats_tag_buf, sizeof(stats_tag_buf),
+        "$$STATS:%d/%d/%d/%d/%d/%d/%d/%d/%d$$\r\n",
+        GET_HIT(d->character), GET_MAX_HIT(d->character),
+        GET_MANA(d->character), GET_MAX_MANA(d->character),
+        GET_MOVE(d->character), GET_MAX_MOVE(d->character),
+        GET_EXP(d->character), GET_GOLD(d->character), GET_LEVEL(d->character));
+      write_to_descriptor(d->descriptor, stats_tag_buf);
+    }
+
     *prompt = '\0';
 
    if(PRF_FLAGGED(d->character, PRF_INFO_START))
