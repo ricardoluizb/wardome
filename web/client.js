@@ -1,10 +1,17 @@
 // web/client.js
 const output = document.getElementById('output');
 const roomIdEl = document.getElementById('room-id');
+const roomArtEl = document.getElementById('room-art');
 const form = document.getElementById('input-form');
 const input = document.getElementById('command-input');
 
 const ws = new WebSocket('ws://localhost:8080');
+
+const MVP_ROOM_ART = new Set([3001, 3054, 3059, 3060, 3061, 18600, 18601, 18602, 18603]);
+
+function setRoomArt(id) {
+  roomArtEl.src = MVP_ROOM_ART.has(id) ? `assets/rooms/${id}.jpg` : 'assets/rooms/placeholder.jpg';
+}
 
 function stripAnsi(text) {
   // Strip ANSI escape codes for this milestone; color rendering is a later task.
@@ -29,6 +36,7 @@ ws.addEventListener('message', (event) => {
     output.scrollTop = output.scrollHeight;
   } else if (msg.type === 'room') {
     roomIdEl.textContent = msg.id;
+    setRoomArt(msg.id);
   }
 });
 
