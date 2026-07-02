@@ -40,16 +40,86 @@ function setStats(stats) {
   statLineEl.textContent = `Lvl ${stats.level} · ${stats.gold} gold · ${stats.exp} exp`;
 }
 
-function stripAnsi(text) {
-  // Strip ANSI escape codes for this milestone; color rendering is a later task.
-  // Also strip raw Telnet IAC negotiation sequences (e.g. IAC WILL/WONT/DO/DONT ECHO)
-  // that the bridge passes through unmodified; without this they render as garbage
-  // characters around prompts like "Password:". Real password masking (switching the
-  // input to type="password" based on server echo state) is out of scope here and is
-  // deferred alongside the ANSI-color work.
-  return text
-    .replace(/\x1b\[[0-9;]*m/g, '')
-    .replace(/\xff[\xfb-\xfe]./g, '');
+// Maps the 8 base ANSI foreground color codes used by wdii/src/screen.h
+// (KRED=31, KGRN=32, ... KWHT=37, both normal "0;NN" and bold "1;NN" forms)
+// to colors that stay readable on this terminal's dark background.
+const ANSI_COLORS = {
+  30: '#6b6b6b',
+  31: '#e05252',
+  32: '#4caf50',
+  33: '#d4af37',
+  34: '#4a90d9',
+  35: '#b366cc',
+  36: '#4dd0c4',
+  37: '#e0e0e0',
+};
+
+function escapeHtml(text) {
+  return text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+function stripTelnetIac(text) {
+  // Raw Telnet IAC negotiation sequences (e.g. IAC WILL/WONT/DO/DONT ECHO) that the
+  // bridge passes through unmodified; without this they render as garbage characters
+  // around prompts like "Password:". Real password masking (switching the input to
+  // type="password" based on server echo state) is a separate, still-deferred task.
+  return text.replace(/\xff[\xfb-\xfe]./g, '');
+}
+
+function ansiToHtml(rawText) {
+  const text = stripTelnetIac(rawText);
+  const parts = text.split(/(\x1b\[[0-9;]*[A-Za-z])/);
+  let html = '';
+  let openSpan = false;
+  let bold = false;
+  let dim = false;
+  let underline = false;
+  let color = null;
+
+  for (const part of parts) {
+    if (/^\x1b\[[0-9;]*[A-Za-z]$/.test(part)) {
+      if (!part.endsWith('m')) {
+        continue; // non-SGR CSI sequence (e.g. clear-screen "\x1b[2J"), drop it
+      }
+      const codes = part.slice(2, -1).split(';').filter(Boolean).map(Number);
+      const effectiveCodes = codes.length ? codes : [0];
+      for (const code of effectiveCodes) {
+        if (code === 0) {
+          bold = false;
+          dim = false;
+          underline = false;
+          color = null;
+        } else if (code === 1) {
+          bold = true;
+        } else if (code === 2) {
+          dim = true;
+        } else if (code === 4) {
+          underline = true;
+        } else if (ANSI_COLORS[code]) {
+          color = ANSI_COLORS[code];
+        }
+      }
+      if (openSpan) {
+        html += '</span>';
+        openSpan = false;
+      }
+      const styles = [];
+      if (color) styles.push(`color:${color}`);
+      if (bold) styles.push('font-weight:bold');
+      if (dim) styles.push('opacity:0.6');
+      if (underline) styles.push('text-decoration:underline');
+      if (styles.length > 0) {
+        html += `<span style="${styles.join(';')}">`;
+        openSpan = true;
+      }
+    } else if (part) {
+      html += escapeHtml(part);
+    }
+  }
+  if (openSpan) {
+    html += '</span>';
+  }
+  return html;
 }
 
 ws.addEventListener('open', () => {
@@ -59,7 +129,7 @@ ws.addEventListener('open', () => {
 ws.addEventListener('message', (event) => {
   const msg = JSON.parse(event.data);
   if (msg.type === 'text') {
-    output.textContent += stripAnsi(msg.data);
+    output.insertAdjacentHTML('beforeend', ansiToHtml(msg.data));
     output.scrollTop = output.scrollHeight;
   } else if (msg.type === 'room') {
     roomIdEl.textContent = msg.id;
