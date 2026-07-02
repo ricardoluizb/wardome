@@ -1276,6 +1276,12 @@ void look_at_room(struct char_data * ch, int ignore_brief)
 		return;
 	}
 
+  {
+    char room_tag_buf[32];
+    snprintf(room_tag_buf, sizeof(room_tag_buf), "$$ROOM:%d$$\r\n", GET_ROOM_VNUM(IN_ROOM(ch)));
+    send_to_char(room_tag_buf, ch);
+  }
+
   send_to_char(CCCYN(ch, C_NRM), ch);
   if (!IS_NPC(ch) && GET_LEVEL(ch) >= LVL_ROOMFLAGS) {
     sprintbit(ROOM_FLAGS(ch->in_room), room_bits, buf);
