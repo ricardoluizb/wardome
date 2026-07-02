@@ -7,26 +7,53 @@ const GAME_PORT = parseInt(process.env.GAME_PORT || '4000', 10);
 const BRIDGE_PORT = parseInt(process.env.BRIDGE_PORT || '8080', 10);
 
 const ROOM_TAG_RE = /\$\$ROOM:(\d+)\$\$\r?\n?/g;
+const STATS_TAG_RE = /\$\$STATS:(-?\d+)\/(\d+)\/(-?\d+)\/(\d+)\/(-?\d+)\/(\d+)\/(-?\d+)\/(-?\d+)\/(\d+)\$\$\r?\n?/g;
 
 const wss = new WebSocket.Server({ port: BRIDGE_PORT });
+
+function extractTag(text, re, onMatch) {
+  let cleaned = '';
+  let lastIndex = 0;
+  re.lastIndex = 0;
+  let match;
+  while ((match = re.exec(text)) !== null) {
+    cleaned += text.slice(lastIndex, match.index);
+    lastIndex = re.lastIndex;
+    onMatch(match);
+  }
+  cleaned += text.slice(lastIndex);
+  return cleaned;
+}
 
 wss.on('connection', (ws) => {
   const tcp = net.createConnection({ host: GAME_HOST, port: GAME_PORT });
 
   tcp.on('data', (chunk) => {
     const text = chunk.toString('binary');
-    let cleaned = '';
-    let lastIndex = 0;
-    ROOM_TAG_RE.lastIndex = 0;
-    let match;
-    while ((match = ROOM_TAG_RE.exec(text)) !== null) {
-      cleaned += text.slice(lastIndex, match.index);
-      lastIndex = ROOM_TAG_RE.lastIndex;
+
+    let cleaned = extractTag(text, ROOM_TAG_RE, (match) => {
       if (ws.readyState === WebSocket.OPEN) {
         ws.send(JSON.stringify({ type: 'room', id: parseInt(match[1], 10) }));
       }
-    }
-    cleaned += text.slice(lastIndex);
+    });
+
+    cleaned = extractTag(cleaned, STATS_TAG_RE, (match) => {
+      if (ws.readyState === WebSocket.OPEN) {
+        ws.send(JSON.stringify({
+          type: 'stats',
+          hp: parseInt(match[1], 10),
+          maxHp: parseInt(match[2], 10),
+          mana: parseInt(match[3], 10),
+          maxMana: parseInt(match[4], 10),
+          move: parseInt(match[5], 10),
+          maxMove: parseInt(match[6], 10),
+          exp: parseInt(match[7], 10),
+          gold: parseInt(match[8], 10),
+          level: parseInt(match[9], 10),
+        }));
+      }
+    });
+
     if (cleaned.length > 0 && ws.readyState === WebSocket.OPEN) {
       ws.send(JSON.stringify({ type: 'text', data: cleaned }));
     }
