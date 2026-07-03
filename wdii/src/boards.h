@@ -8,7 +8,7 @@
 *  CircleMUD is based on DikuMUD, Copyright (C) 1990, 1991.               *
 ************************************************************************ */
 
-#define NUM_OF_BOARDS           16       /* change if needed! */
+#define NUM_OF_BOARDS           3        /* trimmed to the boards that actually exist in this fork's world data (3096, 3097, 3098) — see docs/superpowers/specs/2026-07-03-board-crash-fix-design.md */
 #define MAX_BOARD_MESSAGES      60      /* arbitrary -- change if needed */
 #define MAX_MESSAGE_LENGTH      4096    /* arbitrary -- change if needed */
 

@@ -69,23 +69,9 @@ format: vnum, read lvl, write lvl, remove lvl, filename, 0 at end
 Be sure to also change NUM_OF_BOARDS in board.h
 */
 struct board_info_type board_info[NUM_OF_BOARDS] = {
-  {500, 0, 2, LVL_GOD, LIB_ETC"board.mort", 0},
-  {509, 0, 2, LVL_GOD, LIB_ETC"board.path", 0},
-  {512, 0, 2, LVL_GOD, LIB_ETC"board.quest", 0},
   {3098, LVL_IMMORT, LVL_IMMORT, LVL_GRGOD, LIB_ETC"board.immort", 0},
-  {98, LVL_IMMORT, LVL_IMMORT, LVL_GRGOD, LIB_ETC"board.builder", 0},
-  {97, 0, 2, LVL_IMMORT, LIB_ETC"board.coder", 0},
   {3097, 0, 0, LVL_GOD, LIB_ETC"board.freeze", 0}, /*purple dragons clan*/
   {3096, 0, 0, LVL_IMMORT, LIB_ETC"board.social", 0},
-  {3077, 0, 0, LVL_GOD, LIB_ETC"board.bugs", 0},
-  {31001, 0, 0, LVL_GOD, LIB_ETC"board.titans", 0},
-  {30100, 0, 0, LVL_GOD, LIB_ETC"board.ultimates", 0},
-  {1300, 0, LVL_GOD, LVL_GOD, LIB_ETC"board.questbook", 0},
- /* {3099, 0, 0, LVL_GOD, LIB_ETC"board.mort", 0},*/
-  {9403, 0,0, LVL_GOD, LIB_ETC"board.helms", 0},
-  {507, 0, 0, LVL_GOD, LIB_ETC"board.idea", 0},
-  {30401, 0, 0, LVL_GOD, LIB_ETC"board.sith", 0}, /*sith clan*/
-  {1901, 0, 0, LVL_GOD, LIB_ETC"board.hells", 0}, //hells angels clan
 };
 
 /* local functions */
