@@ -39,6 +39,7 @@ extern struct room_data *world;
 extern struct descriptor_data *descriptor_list;
 extern struct char_data *character_list;
 extern struct obj_data *object_list;
+extern struct index_data *mob_index;
 extern struct spell_info_type spell_info[];
 extern struct message_data mess_info;
 extern int top_of_world;
@@ -810,6 +811,12 @@ void look_at_char(struct char_data * i, struct char_data * ch)
 
   if (!ch->desc)
     return;
+
+  if (IS_NPC(i)) {
+    char mob_tag_buf[32];
+    snprintf(mob_tag_buf, sizeof(mob_tag_buf), "$$MOB:%d$$\r\n", GET_MOB_VNUM(i));
+    send_to_char(mob_tag_buf, ch);
+  }
 
    if (i->player.description)
     send_to_char(i->player.description, ch);
