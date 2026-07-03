@@ -25,23 +25,17 @@ function setMobArt(id) {
   roomArtEl.src = MVP_MOB_ART.has(id) ? `assets/mobs/${id}.jpg` : 'assets/mobs/placeholder.jpg';
 }
 
-function barColor(pct) {
-  if (pct > 0.5) return '#4caf50';
-  if (pct > 0.25) return '#d4af37';
-  return '#e05252';
-}
-
-function setBar(fillEl, textEl, current, max) {
+function setBar(fillEl, textEl, current, max, color) {
   const pct = max > 0 ? Math.max(0, Math.min(1, current / max)) : 0;
   fillEl.style.width = `${pct * 100}%`;
-  fillEl.style.backgroundColor = barColor(pct);
+  fillEl.style.backgroundColor = color;
   textEl.textContent = `${current}/${max}`;
 }
 
 function setStats(stats) {
-  setBar(hpBarFillEl, hpTextEl, stats.hp, stats.maxHp);
-  setBar(manaBarFillEl, manaTextEl, stats.mana, stats.maxMana);
-  setBar(moveBarFillEl, moveTextEl, stats.move, stats.maxMove);
+  setBar(hpBarFillEl, hpTextEl, stats.hp, stats.maxHp, '#e05252');
+  setBar(manaBarFillEl, manaTextEl, stats.mana, stats.maxMana, '#4a90d9');
+  setBar(moveBarFillEl, moveTextEl, stats.move, stats.maxMove, '#d4af37');
   statLineEl.textContent = `Lvl ${stats.level} · ${stats.gold} gold · ${stats.exp} exp`;
 }
 
