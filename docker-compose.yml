@@ -1,0 +1,9 @@
+services:
+  game:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    image: wardome-server
+    container_name: wardome-server
+    ports:
+      - "4000:4000"
