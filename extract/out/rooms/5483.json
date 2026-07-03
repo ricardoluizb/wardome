@@ -1,0 +1,29 @@
+{
+  "id": 5483,
+  "zone_id": 54,
+  "name": "River Ishtar",
+  "description": "High above you on the top of the city wall guards look down to see if\nyou wish to exit the city via water.  To do so they must open the iron\ngrating in front  of you from above.  The horrid smell of the dump wafts\ndown from the shore.",
+  "header_raw": "54 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5624
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "grating",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5484
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

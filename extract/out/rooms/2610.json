@@ -1,0 +1,21 @@
+{
+  "id": 2610,
+  "zone_id": 25,
+  "name": "A Store Room",
+  "description": "You are in a small store room.  Large chunks of clay, stone, wood and\nmany other raw materials are here.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2609
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
+}

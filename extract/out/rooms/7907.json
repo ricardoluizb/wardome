@@ -10,36 +10,12 @@
     {
       "dir": 2,
       "description": "",
-      "keywords": "door wooden larder~ 1 -1 7906 S #7908 The Fridge~    This place is LOADED with drink, water and booze.",
-      "door_flag": 79,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 3,
-      "description": "",
-      "keywords": "door fridge~ 1 -1 7906 S #7909 On The Stairs~    You can see up and down the stairway.  It seems to take forever, either going up OR down.  It is just a seemingly insurmountable climb, either way. Up is the bedroom of Redferne, and down leads to the southern end of the hall.",
-      "door_flag": 79,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 4,
-      "description": "",
-      "keywords": "",
-      "door_flag": 0,
+      "keywords": "door wooden larder",
+      "door_flag": 1,
       "key": -1,
-      "to": 7911
-    },
-    {
-      "dir": 5,
-      "description": "",
-      "keywords": "",
-      "door_flag": 0,
-      "key": -1,
-      "to": 7901
+      "to": 7906
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/79.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/79.wld"
 }

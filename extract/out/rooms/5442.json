@@ -1,0 +1,34 @@
+{
+  "id": 5442,
+  "zone_id": 54,
+  "name": "East Ishtar Drive",
+  "description": "The sound of squawking gulls and the smell of rotting fish gives you\na hint of your location.  The River Ishtar flows south of you, but looks\ncrystal clear, so it cannot be the source of this putrid smell.\nLooking north you notice a small sign hanging over the dump.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5547
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5441
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "#====================================================#\n|                                                    |\n|              THE DUMP OF NEW THALOS                |\n|                                                    |\n|                                                    |\n|                      -----                         |\n|                                                    |\n|             Enter at your own risk.                |\n|                            -the management         |\n|                                                    |\n#====================================================#"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

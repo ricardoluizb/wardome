@@ -1,0 +1,29 @@
+{
+  "id": 6214,
+  "zone_id": 62,
+  "name": "The River's Edge",
+  "description": "A beautiful river flows swiftly by, the current looking\nquite dangerous in fact.  Out in the center of the river\nyou spot the energy barrier enclosure... no way out here.\nLooking up, you see a bird fly right through the barrier\noverhead and wonder as to the force field's nature.  This\npath leads south into the forest, and westwards along the\nriver's edge.",
+  "header_raw": "62 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6213
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6215
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

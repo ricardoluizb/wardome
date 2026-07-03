@@ -1,0 +1,29 @@
+{
+  "id": 5464,
+  "zone_id": 54,
+  "name": "Guildsman's Row",
+  "description": "This small cramped road is worn with travel as apprentices to the\nguilds run merchandise from the guildhouses to the shops on Market\nSquare.\n   The guildhouses lie to the north and Main street is to the south.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5463
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5428
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

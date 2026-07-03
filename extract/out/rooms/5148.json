@@ -1,0 +1,29 @@
+{
+  "id": 5148,
+  "zone_id": 51,
+  "name": "The Dias",
+  "description": "You stand upon a dias behind the altar.  Above you is a enormous illusion\nof a female drow turning into a giant spider and back again.  There is a door \nto the west.",
+  "header_raw": "51 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5145
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 5115,
+      "to": 5149
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/51.wld"
+}

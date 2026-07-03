@@ -1,0 +1,34 @@
+{
+  "id": 5471,
+  "zone_id": 54,
+  "name": "Alley",
+  "description": "You are in a tiny ally between the temple and the bank.  You hear\nsome shouting and general roadwork to the south.  The ground is rough\nand in need of repair.  In the road is a small pothole.",
+  "header_raw": "54 ac 1",
+  "flags_text": "ac",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5469
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5425
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "pothole",
+      "description": "Why are you looking in a pothole?  Are you poor or something?"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 5475,
+  "zone_id": 54,
+  "name": "Underground",
+  "description": "You are in a small underground passage beneath the city.  You see a\nsmall glint of light from above and the passage continues south.",
+  "header_raw": "54 ad 1",
+  "flags_text": "ad",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5476
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "man hole manhole",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5459
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

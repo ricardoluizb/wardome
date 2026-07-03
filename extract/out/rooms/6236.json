@@ -1,0 +1,37 @@
+{
+  "id": 6236,
+  "zone_id": 62,
+  "name": "A Forest Trail",
+  "description": "The trail continues here to the east and west, with a \nsmall trail splitting off towards a large clearing to the\nsouth.  Two wooden poles with skulls on top warn you away\nfrom the south, and succeed in making you feel quite\nuncomfortable.  Strange...",
+  "header_raw": "62 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6235
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6237
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6238
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

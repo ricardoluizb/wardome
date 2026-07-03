@@ -1,0 +1,45 @@
+{
+  "id": 5416,
+  "zone_id": 54,
+  "name": "Northeastern Market Square",
+  "description": "Pandemonium.  Chaos.  Madness.  A few other choice words come to mind\nas you gaze into this corner of the market.  The vegetable stand seems\nquiet enough so you have to assume the noise comes from the Butchery.\nYou have to think for a while before you muster the will to enter this\nshop.  The market continues to the south and west.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5515
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5522
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5417
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5415
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

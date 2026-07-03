@@ -1,0 +1,37 @@
+{
+  "id": 6519,
+  "zone_id": 65,
+  "name": "A Path By The Hospital",
+  "description": "Here the path passes by the Hospital to the north.  It continues\nto the east to the barracks, and to the west.",
+  "header_raw": "65 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6534
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6520
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6518
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/65.wld"
+}

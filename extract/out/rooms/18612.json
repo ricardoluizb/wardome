@@ -10,10 +10,18 @@
     {
       "dir": 0,
       "description": "A nice shiny hallway!",
-      "keywords": "door~ 1 -1 18604 D3 A corner in the passage lies to the west.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 18604
+    },
+    {
+      "dir": 3,
+      "description": "A corner in the passage lies to the west.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 18611
     },
     {
       "dir": 5,
@@ -30,5 +38,5 @@
       "description": "The sign next to the stairs says:\n\nIf you are below level 7 and alone, or below level 4 then bugger off!\nOr else don't blame me if you die..."
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/186.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/186.wld"
 }

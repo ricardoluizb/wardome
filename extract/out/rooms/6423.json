@@ -10,10 +10,18 @@
     {
       "dir": 0,
       "description": "",
-      "keywords": "door~ 1 -1 6424 D1",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 6424
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6422
     }
   ],
   "extra_descriptions": [
@@ -22,5 +30,5 @@
       "description": "Many of these show scenes of high magic and heroism.\nJust like almost every tapestry and painting you've seen."
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/64.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/64.wld"
 }

@@ -1,0 +1,37 @@
+{
+  "id": 6346,
+  "zone_id": 63,
+  "name": "The Quiet Tree Top",
+  "description": "This is a quiet tree top.  Downwards you can see a familiar path\nthat may lead back to Midgaard.",
+  "header_raw": "63 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6345
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6347
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6132
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/63.wld"
+}

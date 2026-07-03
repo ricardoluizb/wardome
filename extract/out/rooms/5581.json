@@ -1,0 +1,21 @@
+{
+  "id": 5581,
+  "zone_id": 54,
+  "name": "A Guest Room",
+  "description": "This is another room made up for visiting nobles.  There is a dresser\nup against the eastern wall with a mirror above it and a queen sized bed,\nmade up in satin sheets, against the south wall.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5582
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

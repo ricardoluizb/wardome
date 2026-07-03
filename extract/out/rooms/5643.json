@@ -1,0 +1,29 @@
+{
+  "id": 5643,
+  "zone_id": 54,
+  "name": "The River Of Lost Souls",
+  "description": "The river makes a sharp bend here and heads south into a large\nmountain and north through a valley.  On a ledge above you, and to\nthe west, you can see movement.",
+  "header_raw": "54 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5642
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5004
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

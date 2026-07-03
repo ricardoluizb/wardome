@@ -18,12 +18,20 @@
     {
       "dir": 2,
       "description": "",
-      "keywords": "door steel~ 1 -1 2590 D3",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door steel",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2590
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2585
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
 }

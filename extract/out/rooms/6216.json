@@ -1,0 +1,21 @@
+{
+  "id": 6216,
+  "zone_id": 62,
+  "name": "The River's Edge",
+  "description": "A large out-cropping of rock blocks this path along the\nriver to the west, and you don't spot any way around it; \nthe woods are too thick to the south, the river too swift \nto the north, the magical barrier above you.  This is a \nnice area, however, as evidenced by the amount of traffic\nthis path gets.  From the marks in the grass, you guess \nthat this is a favored resting spot.",
+  "header_raw": "62 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6215
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

@@ -10,12 +10,20 @@
     {
       "dir": 2,
       "description": "The sun seems to shine out there, warmly and comforting.",
-      "keywords": "doors~ 1 -1 7912 D5",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "doors",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7912
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7909
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/79.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/79.wld"
 }

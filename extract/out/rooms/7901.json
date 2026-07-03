@@ -18,18 +18,34 @@
     {
       "dir": 1,
       "description": "You see a tall oak door there.  It looks quite tightly closed to you.\nOn it little runes are chiselled into the wood.",
-      "keywords": "door oak tall~ 1 -1 7910 D2 Here you see a REAL door.  It would be more proper to call this a 'GATE', rather than a 'door'.  It is really HUGE!  On it hangs a large sign with very large letters spelling:                  EMERGENCY EXIT",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door oak tall",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7910
+    },
+    {
+      "dir": 2,
+      "description": "Here you see a REAL door.  It would be more proper to call this a\n'GATE', rather than a 'door'.  It is really HUGE!  On it hangs a\nlarge sign with very large letters spelling:\n\n                EMERGENCY EXIT",
+      "keywords": "gate iron huge",
+      "door_flag": 2,
+      "key": 7901,
+      "to": 7900
     },
     {
       "dir": 3,
       "description": "This looks like a 'door' in the meaning of the word.  The ashen wood\nis painted in a peculiar yellow color.  Small letters are written\nwith black on it.",
-      "keywords": "door ashen ash yellow~ 1 -1 7902 D4 You see the staircase extending upwards into the very high tower. It ends in what seems like a large bedroom up there.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door ashen ash yellow",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7902
+    },
+    {
+      "dir": 4,
+      "description": "You see the staircase extending upwards into the very high tower.\nIt ends in what seems like a large bedroom up there.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7909
     }
   ],
   "extra_descriptions": [
@@ -42,5 +58,5 @@
       "description": "They read:\n\n                LIBRARY"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/79.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/79.wld"
 }

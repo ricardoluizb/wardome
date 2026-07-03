@@ -1,0 +1,37 @@
+{
+  "id": 6513,
+  "zone_id": 65,
+  "name": "Inside The Entrance",
+  "description": "Everything here is covered in soot and very grimy.  The path continues\nto the east and north, and there is a door to the west.",
+  "header_raw": "65 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The little underground path continues to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6514
+    },
+    {
+      "dir": 1,
+      "description": "The path leads outside the entrance.",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 6515,
+      "to": 6505
+    },
+    {
+      "dir": 3,
+      "description": "This looks like an entrance to some type of store room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6526
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/65.wld"
+}

@@ -10,10 +10,18 @@
     {
       "dir": 1,
       "description": "The rock wall to the east looks like it might be able to be moved.",
-      "keywords": "wall rock~ 1 -1 4119 D3",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "wall rock",
+      "door_flag": 1,
+      "key": -1,
+      "to": 4119
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4122
     }
   ],
   "extra_descriptions": [
@@ -22,5 +30,5 @@
       "description": "The rock wall to the east looks like it might be able to be moved."
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/40.wld"
 }

@@ -1,0 +1,29 @@
+{
+  "id": 5413,
+  "zone_id": 54,
+  "name": "Inside The South Gate Of New Thalos",
+  "description": "Two large stone towers rise up to greet you with the massive iron\ngate swinging on ornately crafted hinges and emblazoned with the crest\nof New Thalos.  The makers of the city spared no expense in rebuilding\nthe defenses or their home.  The River Ishtar bridge lies to the north\nand the desert to the south.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5412
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": 5401,
+      "to": 5411
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

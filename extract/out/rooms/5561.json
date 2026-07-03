@@ -1,0 +1,29 @@
+{
+  "id": 5561,
+  "zone_id": 54,
+  "name": "The Kitchen",
+  "description": "Your footsteps echo off the stone tiles of the kitchen.  On the south\nwall you see the large fire place and a huge copper pot bubbling merrily.\nThe chef is busy chopping up greens and other vegetables at the wooden\ntable for tonight's meal.  Servants scurry about grabbing utensils and\npreparing fresh hares.\n   A small door leads out into the hall northward and the doorway to the\ndining hall is west.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5563
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5571
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

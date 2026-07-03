@@ -26,33 +26,17 @@
     {
       "dir": 5,
       "description": "",
-      "keywords": "trapdoor~ 1 -1 7300 E ladder~ This is funny enough a wooden ladder and, after closer inspection, you discover it is magically held to the wall!  You can't, even with your greatest effort, move it at ALL!",
-      "door_flag": null,
-      "key": null,
-      "to": null
-    },
-    {
-      "dir": 2,
-      "description": "To the south there is less mud than here!  It actually seems to end there!\nYou have a felling it would be nice to have your feet free from mud again.",
-      "keywords": "",
-      "door_flag": 0,
+      "keywords": "trapdoor",
+      "door_flag": 1,
       "key": -1,
-      "to": 7104
-    },
-    {
-      "dir": 3,
-      "description": "You can see a room in which mud drips from the roof onto the floor in \ngreat cakes of sludge.  There doesn't seem to be any exits from that room\napart from in you direction.",
-      "keywords": "",
-      "door_flag": 0,
-      "key": -1,
-      "to": 7101
+      "to": 7300
     }
   ],
   "extra_descriptions": [
     {
-      "keywords": "mud",
-      "description": "You never saw such disgusting matter before, it nearly makes you puke."
+      "keywords": "ladder",
+      "description": "This is funny enough a wooden ladder and, after closer inspection, you\ndiscover it is magically held to the wall!  You can't, even with your\ngreatest effort, move it at ALL!"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/71.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/71.wld"
 }

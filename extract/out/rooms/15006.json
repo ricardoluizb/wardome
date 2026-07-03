@@ -10,12 +10,20 @@
     {
       "dir": 1,
       "description": "The door is small and uninteresting.",
-      "keywords": "door small~ 1 -1 15007 D3 You hear clanging of pots, and smell cooking meat.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door small",
+      "door_flag": 1,
+      "key": -1,
+      "to": 15007
+    },
+    {
+      "dir": 3,
+      "description": "You hear clanging of pots, and smell cooking meat.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15005
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/150.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/150.wld"
 }

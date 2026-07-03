@@ -1,0 +1,34 @@
+{
+  "id": 5469,
+  "zone_id": 54,
+  "name": "Alley",
+  "description": "This is a tiny corner in the alley.  The temple walls are north and\nwest.  You notice a fair amount of footprints to the east.",
+  "header_raw": "54 a 1",
+  "flags_text": "a",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5470
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5471
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "footprint",
+      "description": "Kind of looks like a yeti has been here... Hmmmm."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

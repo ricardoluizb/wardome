@@ -10,28 +10,12 @@
     {
       "dir": 1,
       "description": "",
-      "keywords": "curtain~ 1 -1 2571 S #2574 A Hallway~    You are in a long hallway leading east and west.  The walls emit a faint magical glow which provides enough light to see by.    A half-closed door can be seen to the north.",
-      "door_flag": 25,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 0,
-      "description": "A dark room can be seen through the half-opened door.",
-      "keywords": "door wooden~ 1 -1 2575 D1",
-      "door_flag": null,
-      "key": null,
-      "to": null
-    },
-    {
-      "dir": 3,
-      "description": "",
-      "keywords": "",
-      "door_flag": 0,
+      "keywords": "curtain",
+      "door_flag": 1,
       "key": -1,
-      "to": 2576
+      "to": 2571
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
 }

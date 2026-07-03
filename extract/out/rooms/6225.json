@@ -1,0 +1,29 @@
+{
+  "id": 6225,
+  "zone_id": 62,
+  "name": "A Forest Trail",
+  "description": "This trail leads east-west through the forest foilage,\naround the trees and up and down the slight rises.  The\narea is quiet and serene, except for the energy barrier\nkeeping you in to the south.  For just a moment, you wonder\nif you're still being watched...",
+  "header_raw": "62 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6222
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6226
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

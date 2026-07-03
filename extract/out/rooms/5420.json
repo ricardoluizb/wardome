@@ -1,0 +1,45 @@
+{
+  "id": 5420,
+  "zone_id": 54,
+  "name": "Sultan's Walk",
+  "description": "The road here between the Palace and the Dancing Daemon Inn seems well\nworn by the travel of horses, carts, and leather boots.  From the west you\nhear the faint sound of trumpets announcing the arrival of some duke or\nduchess to the Palace.  Safe haven awaits you to the east in the halls\nof the Daemon, and Sultan's Walk continues north and south.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5421
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5400
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5419
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5558
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

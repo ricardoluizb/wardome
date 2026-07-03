@@ -1,0 +1,37 @@
+{
+  "id": 5508,
+  "zone_id": 54,
+  "name": "Inside The Temple",
+  "description": "The temple continues here, but not on such a grand scale.  The place\nstill looks immaculate.  To the north you see the chamber of the High\nPriest and a sign on the door in BIG letters thats reads 'DO NOT DISTURB'\nTo the south is the entrance to the Clerics' Guild.",
+  "header_raw": "54 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5504
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5509
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5512
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

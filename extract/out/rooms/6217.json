@@ -1,0 +1,29 @@
+{
+  "id": 6217,
+  "zone_id": 62,
+  "name": "A Forest Trail",
+  "description": "This well-used forest trail leads south.  Among the \nfoot-tracks in the dirt, you spot a few animal tracks as \nwell, leading you to believe that these trails are used by\nhunters.  Why would they be enclosed in this manner, \nhowever?\n   There is a clearing to the north, and the path\ncontinues to the south.",
+  "header_raw": "62 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6212
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6219
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

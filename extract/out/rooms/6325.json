@@ -1,0 +1,29 @@
+{
+  "id": 6325,
+  "zone_id": 63,
+  "name": "The Tether Path",
+  "description": "Another tether path just like the rest of them.  Surprisingly\nwell-lit by the golden orbs that hang from the sides, you can see\nthe paths become finer and finer in quality.",
+  "header_raw": "63 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6326
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6324
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/63.wld"
+}

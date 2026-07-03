@@ -1,0 +1,21 @@
+{
+  "id": 7908,
+  "zone_id": 79,
+  "name": "The Fridge",
+  "description": "This place is LOADED with drink, water and booze.",
+  "header_raw": "79 cdj 0",
+  "flags_text": "cdj",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door fridge",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7906
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/79.wld"
+}

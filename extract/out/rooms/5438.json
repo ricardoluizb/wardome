@@ -1,0 +1,29 @@
+{
+  "id": 5438,
+  "zone_id": 54,
+  "name": "East Ishtar Drive",
+  "description": "The wide road bordering the south of town continues to the east west\nhere, bordered only by the hay-loft to the north and the River Ishtar to\nthe south.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5440
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5439
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

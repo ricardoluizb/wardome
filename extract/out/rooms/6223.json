@@ -1,0 +1,29 @@
+{
+  "id": 6223,
+  "zone_id": 62,
+  "name": "A Forest Trail",
+  "description": "The trail leads east and west here through the forest.  \nTo the west you spot an area where a smaller path breaks \noff from the main track.  Eastwards seems to be another \nsmall clearing that seems to be well used; there are many\ntracks leading in that direction.",
+  "header_raw": "62 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6224
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6222
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

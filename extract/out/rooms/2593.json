@@ -18,12 +18,20 @@
     {
       "dir": 1,
       "description": "",
-      "keywords": "door bronze~ 1 -1 2595 D2",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door bronze",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2595
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2591
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
 }

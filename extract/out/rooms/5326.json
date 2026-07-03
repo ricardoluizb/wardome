@@ -18,12 +18,21 @@
     {
       "dir": 3,
       "description": "You see a large stone coffin.",
-      "keywords": "coffin lid~ 2 5312 5327 E coffin lid~ The coffin is sculpted into the form of a man, standing several heads above you, and clad in the garments of pharoahs.  It has apparently been untouched by the ravages of time and the activities of looters.  Several markings on the  side indicate spots where unsuccessful attempts were made to open the coffin.  You can't see any way to open it.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "coffin lid",
+      "door_flag": 2,
+      "key": 5312,
+      "to": 5327
     }
   ],
-  "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/53.wld"
+  "extra_descriptions": [
+    {
+      "keywords": "coffin lid",
+      "description": "The coffin is sculpted into the form of a man, standing several heads above\nyou, and clad in the garments of pharoahs.  It has apparently been untouched\nby the ravages of time and the activities of looters.  Several markings on the \nside indicate spots where unsuccessful attempts were made to open the coffin.\n\nYou can't see any way to open it."
+    },
+    {
+      "keywords": "man garments pharoah",
+      "description": "As you look closer at the figure sculpted into the stone coffin you notice a\nsmall marking carved into its chest.  It looks like a scarab or small beetle\nwould fit into the small space, if properly sized.\n\nHmmm."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/53.wld"
 }

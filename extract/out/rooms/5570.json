@@ -1,0 +1,21 @@
+{
+  "id": 5570,
+  "zone_id": 54,
+  "name": "Outside The Wall",
+  "description": "You are in a small clearing outside the east wall of the city.  The\nground seems well trodden but you can see no apparent exit save that\nto the north.",
+  "header_raw": "54 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5568
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

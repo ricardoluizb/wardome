@@ -1,0 +1,21 @@
+{
+  "id": 6534,
+  "zone_id": 65,
+  "name": "The Hospital",
+  "description": "You are inside the Dwarven Hospital.  It smells like rubbing\nalcohol, and there is blood all over the walls.",
+  "header_raw": "65 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6519
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/65.wld"
+}

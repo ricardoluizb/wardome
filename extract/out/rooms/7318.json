@@ -10,10 +10,18 @@
     {
       "dir": 1,
       "description": "You see a wooden door.",
-      "keywords": "door wooden~ 1 -1 7321 D2 Another part of the lair.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door wooden",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7321
+    },
+    {
+      "dir": 2,
+      "description": "Another part of the lair.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7317
     },
     {
       "dir": 3,
@@ -30,5 +38,5 @@
       "description": "The sign says 'Gods of War I call you, my sword is by my side,\n               I seek a light free from all false pride'\n                       Reyemle Grug..."
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/72.wld"
 }

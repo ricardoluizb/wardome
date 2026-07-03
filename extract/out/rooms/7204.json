@@ -26,17 +26,25 @@
     {
       "dir": 2,
       "description": "You see the lair entrance.",
-      "keywords": "door wooden~ 1 -1 7208 E skull skulls bones decay~ On all the skulls you notice that there is a three inch hole in the  forehead.  All the bones are broken and old.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door wooden",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7208
     }
   ],
   "extra_descriptions": [
+    {
+      "keywords": "skull skulls bones decay",
+      "description": "On all the skulls you notice that there is a three inch hole in the \nforehead.  All the bones are broken and old."
+    },
+    {
+      "keywords": "slime",
+      "description": "The slime is slimy and uninteresting."
+    },
     {
       "keywords": "torch sconce",
       "description": "The torch is bolted to the sconce and the sconce to the wall."
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/72.wld"
 }

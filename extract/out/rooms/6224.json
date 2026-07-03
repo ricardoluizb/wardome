@@ -1,0 +1,21 @@
+{
+  "id": 6224,
+  "zone_id": 62,
+  "name": "The Dead End",
+  "description": "The ground has been cleared of vegetation in this small\nclearing, and several large, man-made salt licks lie on\nthe ground and stand on poles here.  There are many animal\ntracks in the earth -- the salt licks must attract \nwildlife for miles around.  You think this would be a good\nplace to hide and wait for dinner if you were a hunter...",
+  "header_raw": "62 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6223
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

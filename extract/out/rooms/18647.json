@@ -1,0 +1,50 @@
+{
+  "id": 18647,
+  "zone_id": 186,
+  "name": "The South Stairs",
+  "description": "Here, the hall opens into a wide room, with a high domed roof.  Now that\nthat you have come clear of the enclosed passage, you can see that the stair\nleads upward to an open air balcony overlooking the area.  to the north the\nroom continues, and another stair is visible matching the one in front of\nyou.",
+  "header_raw": "186 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Another stairway is to the north, as well as a passage to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18642
+    },
+    {
+      "dir": 2,
+      "description": "A narrow passage to the south, ending in a wood door.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18604
+    },
+    {
+      "dir": 3,
+      "description": "Back down the bright hallway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18646
+    },
+    {
+      "dir": 4,
+      "description": "An open air balcony.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18645
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "staircase stair stairs",
+      "description": "They are constructed of smooth, beautiful marble."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/186.wld"
+}

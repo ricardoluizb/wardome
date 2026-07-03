@@ -1,0 +1,29 @@
+{
+  "id": 5694,
+  "zone_id": 54,
+  "name": "Near The Shore",
+  "description": "The road ends here turning into a small dirt path leading down the\nbeach and onto a dock.  To the north and south you see the coastline\nstretching out before you.  West of here the lowlands roll up into\nhuge snow capped mountains.",
+  "header_raw": "54 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5695
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5693
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

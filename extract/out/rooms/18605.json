@@ -1,0 +1,21 @@
+{
+  "id": 18605,
+  "zone_id": 186,
+  "name": "The Dark Pit",
+  "description": "Ick... a dark damp dirty pit.  Even worse, what is that dark damp\ndirty thing looking at you from the corner?  Ewww... maybe you should\ngo back up where it is a bit safer, unless you think you can tackle\nthat thing in the corner.",
+  "header_raw": "186 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "You see a ladder leading up",
+      "keywords": "grate",
+      "door_flag": 1,
+      "key": 18608,
+      "to": 18606
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/186.wld"
+}

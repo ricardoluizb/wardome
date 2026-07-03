@@ -1,0 +1,29 @@
+{
+  "id": 5540,
+  "zone_id": 54,
+  "name": "The Warehouse",
+  "description": "You are standing in a large room used to store merchandise made in the\ncity before it is shipped off.  All the items here are made in New Thalos\nand shipped to other parts of the land.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5541
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5433
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

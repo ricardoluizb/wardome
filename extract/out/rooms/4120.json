@@ -1,0 +1,34 @@
+{
+  "id": 4120,
+  "zone_id": 40,
+  "name": "The Passage",
+  "description": "You stand in a fairly normal passage, slightly wider than is\nnecessary for one person, but not quite wide enough for two.  The\nceiling dips here rather surprisingly, or wait, is that because the\nfloor climbs upwards toward it?  The tunnel seems to narrow slightly\nmore as you look to the south, and widens up somewhat as you look\nnorthward.  The light to the south continues to flicker.",
+  "header_raw": "40 ad 3",
+  "flags_text": "ad",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4116
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4125
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "light",
+      "description": "It nearly is enough to light the passage."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/40.wld"
+}

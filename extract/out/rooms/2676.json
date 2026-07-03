@@ -18,49 +18,12 @@
     {
       "dir": 2,
       "description": "",
-      "keywords": "door white ivory~ 2 2595 2675 S #2677 The Audience Chamber~    You are in a large chamber.  Small bolts of energy leap from wall to wall, crackling with power.  The floor is a swirl of indeterminable colours and patterns ever changing.  Bright bursts of colour seem to explode into the air and fade again at random times.  All this splendor plays about and draws attention to a large throne in the center of the room, it seems to be cut from a single enormous emerald.",
-      "door_flag": 25,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 0,
-      "description": "",
-      "keywords": "",
-      "door_flag": 0,
-      "key": -1,
-      "to": 2680
-    },
-    {
-      "dir": 1,
-      "description": "",
-      "keywords": "",
-      "door_flag": 0,
-      "key": -1,
-      "to": 2678
-    },
-    {
-      "dir": 2,
-      "description": "",
-      "keywords": "",
-      "door_flag": 0,
-      "key": -1,
-      "to": 2676
-    },
-    {
-      "dir": 3,
-      "description": "",
-      "keywords": "",
-      "door_flag": 0,
-      "key": -1,
-      "to": 2679
+      "keywords": "door white ivory",
+      "door_flag": 2,
+      "key": 2595,
+      "to": 2675
     }
   ],
-  "extra_descriptions": [
-    {
-      "keywords": "throne",
-      "description": "The giant emerald is flawless, and must be incredibly valuable."
-    }
-  ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
 }

@@ -1,0 +1,29 @@
+{
+  "id": 6508,
+  "zone_id": 65,
+  "name": "The Narrow North-South Path",
+  "description": "This path leads to the north and south.  To the north you can see a\ndoor, and to the south the path continues.",
+  "header_raw": "65 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6509
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6507
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/65.wld"
+}

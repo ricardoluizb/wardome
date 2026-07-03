@@ -1,0 +1,21 @@
+{
+  "id": 5109,
+  "zone_id": 51,
+  "name": "The Throne Room",
+  "description": "The throne room of the 2nd house is just a little more decorative than\nthe inner courtyard having an altar in the center of the room.",
+  "header_raw": "51 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5108
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/51.wld"
+}

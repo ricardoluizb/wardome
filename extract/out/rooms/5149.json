@@ -1,0 +1,21 @@
+{
+  "id": 5149,
+  "zone_id": 51,
+  "name": "The Treasury",
+  "description": "This is obviously only a temporary storage place for the collected \ntreasure being rather bare.",
+  "header_raw": "51 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 5115,
+      "to": 5148
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/51.wld"
+}

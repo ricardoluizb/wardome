@@ -1,0 +1,37 @@
+{
+  "id": 5431,
+  "zone_id": 54,
+  "name": "Inside the Eastern Gate of New Thalos",
+  "description": "Two large stone towers imbedded in the wall loom over you.  The\nmassive iron gate, emblazened with the crest of New Thalos, swings\neasily on four ornately crafted hinges.  It is obvious the makers\nof this city spared no expense in protecting their home.\n   Main street heads towards the market westward and the wilderness\nbeckons from the east.  To the north lies the entrance to the Mages'\nGuild.",
+  "header_raw": "54 c 1",
+  "flags_text": "c",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5525
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": 5401,
+      "to": 5568
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5430
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

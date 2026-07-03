@@ -1,0 +1,21 @@
+{
+  "id": 5116,
+  "zone_id": 51,
+  "name": "The Clerics' Academy",
+  "description": "This is the most lavish of the academies being that it is for the clerics.",
+  "header_raw": "51 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5115
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/51.wld"
+}

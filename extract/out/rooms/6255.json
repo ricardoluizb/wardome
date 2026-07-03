@@ -1,0 +1,29 @@
+{
+  "id": 6255,
+  "zone_id": 62,
+  "name": "A Tunnel",
+  "description": "This forking off from the mail tunnel seems odd; the \nwalls are strangely smooth, as if they were carved out by \nforces unknown.  The end is abrupt and short, but there is\na steel door inset in the wall of the west side of the \ntunnel.  The smell from the lower tunnel doesn't seem \nnearly as bad here... this might be a good place to rest\nand catch your breath.",
+  "header_raw": "62 acd 4",
+  "flags_text": "acd",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6243
+    },
+    {
+      "dir": 3,
+      "description": "A large steel door.  There seems to be no hinges or knob,\nbut there is a small keyhole in the exact center of it.",
+      "keywords": "door steel",
+      "door_flag": 2,
+      "key": 6200,
+      "to": 6256
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

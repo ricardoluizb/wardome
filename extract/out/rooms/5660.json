@@ -1,0 +1,29 @@
+{
+  "id": 5660,
+  "zone_id": 54,
+  "name": "The Headwaters Of The Dark River",
+  "description": "A large natural spring issues forth from the heart of the mountain\nand flows west down the mountain.  It looks like there was a terrible\nearthquake here not too long ago, and a path that leads eastwards\nthrough the mountains is covered with rocks, making passage difficult.",
+  "header_raw": "54 a 7",
+  "flags_text": "a",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5654
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5661
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

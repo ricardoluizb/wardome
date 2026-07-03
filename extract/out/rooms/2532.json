@@ -10,41 +10,12 @@
     {
       "dir": 2,
       "description": "",
-      "keywords": "door wooden~ 1 -1 2530 S #2533 A Broom Closet~    You are in a dark broom closet.  Many straw brooms and other cleaning instruments have been left here, apparently unused (perhaps the maid quit?).    The only exit leads back north to the hallway.",
-      "door_flag": 25,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 0,
-      "description": "",
-      "keywords": "door wooden~ 1 -1 2530 S #2534 A Hallway~    You are in a long hallway leading north and south.  The walls emit a faint magical glow which provides enough light to see by.",
-      "door_flag": 25,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 0,
-      "description": "",
-      "keywords": "",
-      "door_flag": 0,
+      "keywords": "door wooden",
+      "door_flag": 1,
       "key": -1,
-      "to": 2538
-    },
-    {
-      "dir": 1,
-      "description": "",
-      "keywords": "door wooden~ 1 -1 2537 D2",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "to": 2530
     }
   ],
-  "extra_descriptions": [
-    {
-      "keywords": "walls wall",
-      "description": "The walls shed a warm light"
-    }
-  ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
 }

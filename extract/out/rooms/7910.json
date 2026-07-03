@@ -10,12 +10,20 @@
     {
       "dir": 1,
       "description": "",
-      "keywords": "safe steel~ 2 7900 7903 D3 You see a tall oak door.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "safe steel",
+      "door_flag": 2,
+      "key": 7900,
+      "to": 7903
+    },
+    {
+      "dir": 3,
+      "description": "You see a tall oak door.",
+      "keywords": "door oak tall",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7901
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/79.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/79.wld"
 }

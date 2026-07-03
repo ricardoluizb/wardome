@@ -42,12 +42,21 @@
     {
       "dir": 5,
       "description": "You see some sandy stones pressed closely together to form a hard surface.",
-      "keywords": "stones~ 1 -1 5308 E stones~ As you look closer you can make out a crack in the center of the stones beneath your feet.  With some effort you might be able to lift that  section up and get inside!",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "stones",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5308
     }
   ],
-  "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/53.wld"
+  "extra_descriptions": [
+    {
+      "keywords": "stones",
+      "description": "As you look closer you can make out a crack in the center of the stones\nbeneath your feet.  With some effort you might be able to lift that \nsection up and get inside!"
+    },
+    {
+      "keywords": "plaque",
+      "description": "The plaque reads:\n\n                        The Great Pyramid\n\n                Created by the Andersen work crew."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/53.wld"
 }

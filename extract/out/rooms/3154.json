@@ -18,25 +18,12 @@
     {
       "dir": 2,
       "description": "The chapel door is made of dark wood.",
-      "keywords": "door~ 1 -1 3155 S #3155 Inside The Chapel~    You are in a small, dark chapel.  The dark brown glass in the tiny windows do not let much light through.  A few rows of worn wooden benches stand here and an ancient altar sits in the middle of the floor.",
-      "door_flag": 34,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 0,
-      "description": "The chapel door is made of dark wood.",
-      "keywords": "door~ 1 -1 3154 E glass windows~ The windows must be meant to be dark.  At least they are completely clean.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3155
     }
   ],
-  "extra_descriptions": [
-    {
-      "keywords": "benches rows",
-      "description": "The benches are not of the comfortable kind."
-    }
-  ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/31.wld"
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/31.wld"
 }

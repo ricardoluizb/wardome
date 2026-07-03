@@ -1,0 +1,21 @@
+{
+  "id": 5699,
+  "zone_id": 54,
+  "name": "The Lair Of The Ixitxachitl",
+  "description": "Blood swirls around in the water as the Ixitxachitl devours the \nlast of its meal.  Swirling around quickly as you intrude upon his\nmeal the large sting ray attacks!",
+  "header_raw": "54 1 7",
+  "flags_text": "1",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "grate",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5698
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 6333,
+  "zone_id": 63,
+  "name": "Above The Clouds",
+  "description": "You can see all of Midgaard in this ethereal web.  Many\nof the larger dragons that do wish to fly seem to fly away\nfrom the sticky strands of the web.",
+  "header_raw": "63 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6331
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6334
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6335
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/63.wld"
+}

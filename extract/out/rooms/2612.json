@@ -10,12 +10,20 @@
     {
       "dir": 4,
       "description": "",
-      "keywords": "trapdoor~ 1 -1 2609 D5",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "trapdoor",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2609
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "vent",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2581
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
 }

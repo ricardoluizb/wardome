@@ -1,0 +1,37 @@
+{
+  "id": 5444,
+  "zone_id": 54,
+  "name": "West Casbah",
+  "description": "The air takes on a somber note as you stand before the entrance to the\njailhouse of New Thalos.  Hopefully you won't ever see this structure from\nthe inside.  The northwest tower stands here with a spiral staircase \nleading up.  The Avenue ends here, only exiting to the east.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5445
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 2,
+      "key": 5493,
+      "to": 5553
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5559
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

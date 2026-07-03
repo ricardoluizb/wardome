@@ -1,0 +1,21 @@
+{
+  "id": 6267,
+  "zone_id": 62,
+  "name": "A Cage",
+  "description": "This is a small, dirty cage, with only a bucket for \nwastes, another bucket for food, and a dirty towel for a \nbed.  The whole room has a terrible stench about it.",
+  "header_raw": "62 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "A steel cell door.",
+      "keywords": "door cell",
+      "door_flag": 1,
+      "key": 6200,
+      "to": 6266
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

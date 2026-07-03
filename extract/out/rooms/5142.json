@@ -1,0 +1,37 @@
+{
+  "id": 5142,
+  "zone_id": 51,
+  "name": "The Eastern Side Of The Main Chamber",
+  "description": "You are on the eastern side of the chamber overlooking the pit.  To the\neast is a door while to the north is an altar.",
+  "header_raw": "51 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5145
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5146
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5141
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/51.wld"
+}

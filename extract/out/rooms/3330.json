@@ -10,28 +10,12 @@
     {
       "dir": 2,
       "description": "It is a sturdy wooden door.",
-      "keywords": "door wooden~ 1 -1 3329 S #3331 A Cave Passageway~    You are standing south of the main entrance to this  cave.  The passage you are in continues south, very badly  lit along its length by the sconces lining the walls  every fifteen feet or so.  From somewhere deep in the  recesses of the cave, you hear a faint, rhythmic thumping  sound distorted by the passage's strange acoustics.",
-      "door_flag": 33,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 0,
-      "description": "",
-      "keywords": "",
-      "door_flag": 0,
+      "keywords": "door wooden",
+      "door_flag": 1,
       "key": -1,
-      "to": 3318
-    },
-    {
-      "dir": 2,
-      "description": "",
-      "keywords": "",
-      "door_flag": 0,
-      "key": -1,
-      "to": 3332
+      "to": 3329
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/33.wld"
 }

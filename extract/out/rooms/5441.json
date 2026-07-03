@@ -1,0 +1,37 @@
+{
+  "id": 5441,
+  "zone_id": 54,
+  "name": "East Ishtar Drive",
+  "description": "Your highly acute sense of smell reports you have reached the\nentrance to the fish market.  Although renowned for it fresh catches\nand wide selection of aquarian delicacies you wonder how much longer\nyou can endure the smell!  The River Ishtar flows alongside to the\nsouth with the drive running along side it east to west.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5432
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5442
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5440
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

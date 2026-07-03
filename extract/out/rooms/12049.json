@@ -10,12 +10,21 @@
     {
       "dir": 3,
       "description": "There is a door, reinforced with steel, in that direction.",
-      "keywords": "door~ 2 12038 12042 E workbench workbenches tubes beakers crucibles dishes~ These are all tools of great power.  You cannot even begin to understand what any of this stuff does.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 12038,
+      "to": 12042
     }
   ],
-  "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+  "extra_descriptions": [
+    {
+      "keywords": "workbench workbenches tubes beakers crucibles dishes",
+      "description": "These are all tools of great power.  You cannot even begin to understand what\nany of this stuff does."
+    },
+    {
+      "keywords": "cinders ashes pile",
+      "description": "The ashes are a very fine grayish white powder that seems to be the only \nworldly remains of Froboz's \"test specimens\"."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/120.wld"
 }

@@ -1,0 +1,29 @@
+{
+  "id": 5453,
+  "zone_id": 54,
+  "name": "The Casbah",
+  "description": "You have almost reached the end of the Avenue in this direction.\nWalking towards the north-east corner of the city you notice the\npopulation density here is much less then the rest of the town.  A\nfew old men hobbling on canes and young men intent on studies are\nthe only travelers of the path to the library on a regular basis.\n   The Avenue continues east and west from here.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5454
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5452
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

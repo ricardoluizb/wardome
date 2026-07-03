@@ -1,0 +1,21 @@
+{
+  "id": 5562,
+  "zone_id": 54,
+  "name": "The Northeast Tower",
+  "description": "You stand on one of the four towers guarding the city.  To the north\nyou see the wide plains and then the forset.  South of here you see the\ncity and the Great Eastern Desert beyond.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5454
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5560,
+  "zone_id": 54,
+  "name": "The Guard House",
+  "description": "You stand inside the northern of the two main guard houses.  Strong\nguards are seated here, playing cards.  The stone interior is clean but\nbare walled save the weapons and armor mounted in the walls.\n   The only exit is south.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5550
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

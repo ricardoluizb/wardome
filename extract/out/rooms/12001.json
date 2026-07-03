@@ -10,12 +10,21 @@
     {
       "dir": 5,
       "description": "There is a rickety ladder leading down.",
-      "keywords": "trapdoor~ 1 12033 12002 E scorecards~ The cards all have been filled in with the judges evaluations of today's  combatants.  It seems that Sparticus is having a good day.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "trapdoor",
+      "door_flag": 1,
+      "key": 12033,
+      "to": 12002
     }
   ],
-  "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+  "extra_descriptions": [
+    {
+      "keywords": "scorecards",
+      "description": "The cards all have been filled in with the judges evaluations of today's \ncombatants.  It seems that Sparticus is having a good day."
+    },
+    {
+      "keywords": "pencils pencil",
+      "description": "An ordinary #2 lead pencil.  Judging by the teeth marks on the shaft, the\nuser should see a dentist very soon!"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/120.wld"
 }

@@ -1,0 +1,37 @@
+{
+  "id": 6532,
+  "zone_id": 65,
+  "name": "The Queen's Bedroom",
+  "description": "This is the Queen's bedroom.  The bed is all ruffled, and there\nis a stack of dirty sheets piled in the corner.  There is a ladder\nthat leads down, out of the castle, and you can leave the room\nto the south.  There is also a small wooden door to the west.\nThere is a sign that says:\n\n      -------------------------\n      |  I'm busy right now,  |\n      |  and don't know when  |\n      |  Ill be back, but if  |\n      |  there is a key here  |\n      |  take it and PLEASE,  |\n      |  try to get my birth  |\n      |  control pills back!  |\n      |  I've heard they can  |\n      |  be found somewhere,  |\n      |  deep in the mines..  |\n      -------------------------",
+  "header_raw": "65 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 6531
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door wooden",
+      "door_flag": 2,
+      "key": 6500,
+      "to": 6554
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6533
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/65.wld"
+}

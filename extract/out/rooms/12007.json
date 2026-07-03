@@ -1,0 +1,26 @@
+{
+  "id": 12007,
+  "zone_id": 120,
+  "name": "The Back Room",
+  "description": "If you thought that there were a lot of weapons in the front of the store,\nyou haven't seen anything yet!!  There is barely enough room to walk amongst\nthe crates of armor and swords.  No wonder Rome will stand for a thousand\nyears.  The only exit is through a door to the north.",
+  "header_raw": "120 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Through the piles of weapons, you can see a door leading north to the rest of \nthe store.",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 12034,
+      "to": 12006
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "weapons swords crates armor weapon sword crate",
+      "description": "There are literally thousands of each.  Take your pick."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/120.wld"
+}

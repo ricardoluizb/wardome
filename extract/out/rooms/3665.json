@@ -1,0 +1,21 @@
+{
+  "id": 3665,
+  "zone_id": 36,
+  "name": "The Black Treasury",
+  "description": "You are standing in the treasury of the Black Court.  Hopefully no one \nhas looted the Crown's treasure.",
+  "header_raw": "36 adj 0",
+  "flags_text": "adj",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "A small staircase rises above you.",
+      "keywords": "marble square",
+      "door_flag": 2,
+      "key": 3614,
+      "to": 3604
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/36.wld"
+}

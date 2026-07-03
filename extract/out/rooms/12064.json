@@ -18,28 +18,12 @@
     {
       "dir": 3,
       "description": "",
-      "keywords": "gate~ 1 -1 12051 S #12065 Clay Road~    You travel upon an East-West road wide enough for 30 men to march abreast.  It is packed hard through heavy use.  To the west, your eyes catch the splendors of a mighty city.",
-      "door_flag": 120,
-      "key": null,
-      "to": 1
-    },
-    {
-      "dir": 1,
-      "description": "",
-      "keywords": "",
-      "door_flag": 0,
+      "keywords": "gate",
+      "door_flag": 1,
       "key": -1,
-      "to": 12066
-    },
-    {
-      "dir": 3,
-      "description": "",
-      "keywords": "",
-      "door_flag": 0,
-      "key": -1,
-      "to": 12064
+      "to": 12051
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/120.wld"
 }

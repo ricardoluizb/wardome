@@ -1,0 +1,29 @@
+{
+  "id": 6335,
+  "zone_id": 63,
+  "name": "A Link In The Ethereal Web",
+  "description": "This is another link in the ethereal web.  Various creatures seem\nto get caught (or hypnotized) by its sticky strands.",
+  "header_raw": "63 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6336
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6331
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/63.wld"
+}

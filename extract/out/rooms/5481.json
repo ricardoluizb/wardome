@@ -1,0 +1,37 @@
+{
+  "id": 5481,
+  "zone_id": 54,
+  "name": "Underground",
+  "description": "The small passage heads north and east from here.  You here the sounds\nof the city above you.",
+  "header_raw": "54 ad 1",
+  "flags_text": "ad",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5480
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5482
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "manhole man hole",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5474
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

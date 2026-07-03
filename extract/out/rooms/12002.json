@@ -10,12 +10,20 @@
     {
       "dir": 4,
       "description": "You see a rickety ladder with a trapdoor leading up.",
-      "keywords": "trapdoor~ 1 12033 12001 D5 There is a marble staircase leading down.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "trapdoor",
+      "door_flag": 1,
+      "key": 12033,
+      "to": 12001
+    },
+    {
+      "dir": 5,
+      "description": "There is a marble staircase leading down.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12003
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/120.wld"
 }

@@ -1,0 +1,21 @@
+{
+  "id": 2533,
+  "zone_id": 25,
+  "name": "A Broom Closet",
+  "description": "You are in a dark broom closet.  Many straw brooms and other cleaning\ninstruments have been left here, apparently unused (perhaps the maid\nquit?).\n   The only exit leads back north to the hallway.",
+  "header_raw": "25 adg 0",
+  "flags_text": "adg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door wooden",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2530
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
+}

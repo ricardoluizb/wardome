@@ -1,0 +1,21 @@
+{
+  "id": 5583,
+  "zone_id": 54,
+  "name": "The Garden Gazebo",
+  "description": "Walking through the gardens you come across a small white wooden\nstructure.  The sounds of birds, the smell of flowers, ahhh, paradise.\nYou believe that you have never been in a more peaceful setting.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5578
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

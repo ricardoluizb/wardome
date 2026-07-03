@@ -1,0 +1,45 @@
+{
+  "id": 2540,
+  "zone_id": 25,
+  "name": "A Hallway",
+  "description": "You are in a long hallway leading west from here.  The walls emit a\nfaint magical glow which provides enough light to see by.  Some faint\nmoonlight can be seen in the cul de sac to the east.\n   The hallway continues west and stairs lead down to the level below.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door oak",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2542
+    },
+    {
+      "dir": 1,
+      "description": "Faint moonlight can be seen to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2541
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2543
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2538
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
+}

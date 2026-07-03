@@ -1,0 +1,29 @@
+{
+  "id": 6510,
+  "zone_id": 65,
+  "name": "On The Path To The Castle",
+  "description": "You are on a path that will eventually lead to the castle.  It\ncontinues north to the castle, and there is a door in the southern\nwall.",
+  "header_raw": "65 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6511
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 6503,
+      "to": 6509
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/65.wld"
+}

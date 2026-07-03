@@ -1,0 +1,37 @@
+{
+  "id": 5454,
+  "zone_id": 54,
+  "name": "The Casbah",
+  "description": "The Avenue ends here, turning south to become Kali Row.  Traveling in\nthat direction will take you to the Library and the grand dance hall of\nthe city.\n   The northeast tower of the wall is accessible here up a spiral staircase.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5455
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5453
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5562
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

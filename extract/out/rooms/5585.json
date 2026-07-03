@@ -1,0 +1,21 @@
+{
+  "id": 5585,
+  "zone_id": 54,
+  "name": "The Guard Room",
+  "description": "You stand in a barren chamber lined with nothing but cots and\nfootlockers.  The guards come here when off duty to sleep, for\nthey may only leave the Palace grounds with special permission.\n   The only exit is to the south.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5584
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 18606,
+  "zone_id": 186,
+  "name": "A Small Room",
+  "description": "Hmmm... this is an interesting little room.  Ack, and there is\nan interesting little creature staring at you too.  He looks a bit\nsurprised at your intrusion.  You can leave via the doors north or\neast, or you can stay and annoy him a bit more.  There also appears\nto be some type of well down here also, but it has a rather secure\ngrate covering it.",
+  "header_raw": "186 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "More of the hallway there... how exciting!",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 18602
+    },
+    {
+      "dir": 1,
+      "description": "More of the hallway there... how exciting!",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 18607
+    },
+    {
+      "dir": 5,
+      "description": "A ladder leads down into darkness.",
+      "keywords": "grate",
+      "door_flag": 1,
+      "key": 18608,
+      "to": 18605
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/186.wld"
+}

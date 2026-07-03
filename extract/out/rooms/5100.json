@@ -1,0 +1,34 @@
+{
+  "id": 5100,
+  "zone_id": 51,
+  "name": "The City Entrance",
+  "description": "You are at the entrance to a small underground city.  A great adamantite\ngate lies open to the west allowing entrance into the city.",
+  "header_raw": "51 acd 0",
+  "flags_text": "acd",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "A huge gate opens to the west allowing entrance into the city.",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5101
+    },
+    {
+      "dir": 4,
+      "description": "A passageway opens up into a fairly large cave above.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5011
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "gate",
+      "description": "A large adamantite gate with giant spider shaped emblems stands here."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/51.wld"
+}

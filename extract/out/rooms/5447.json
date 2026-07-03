@@ -1,0 +1,29 @@
+{
+  "id": 5447,
+  "zone_id": 54,
+  "name": "The Casbah",
+  "description": "As you travel down the road towards towards the City Hall you look up\nat the guards walking along the wall keeping watch.  South of you stands\nthe great walls of the Palace and the Avenue goes east and west.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5448
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5446
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

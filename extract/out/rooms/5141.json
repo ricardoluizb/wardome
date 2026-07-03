@@ -1,0 +1,37 @@
+{
+  "id": 5141,
+  "zone_id": 51,
+  "name": "The Main Chamber",
+  "description": "This is the south side of a large auditorium used for services by the\ndrow priestesses.  In the center is a large sacrificial pit and beyond that\nis an altar.",
+  "header_raw": "51 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5142
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "doors door golden gold",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5140
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5144
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/51.wld"
+}

@@ -1,0 +1,42 @@
+{
+  "id": 6208,
+  "zone_id": 62,
+  "name": "In The Forest",
+  "description": "Here the field changes color, becoming almost\ntransparent.  Beyond, you think you can make out a few\nshapes, but nothing too terribly distinct.  From the north\ncomes the rushing sound of water, and through the trees\nyou believe you can see a river cutting through the\nforest.  The trail you are on leads north-south through\nthe woods, following the energy barrier all along its\nlength.",
+  "header_raw": "62 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6209
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6207
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6210
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "barrier energy",
+      "description": "You can see a clearing beyond, the barrier not fully blocking\nout the area behind.  You think it might be possible to push\nyour way through, if the damn thing doesn't kill you first."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

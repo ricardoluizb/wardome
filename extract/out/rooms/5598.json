@@ -1,0 +1,21 @@
+{
+  "id": 5598,
+  "zone_id": 54,
+  "name": "The Cell",
+  "description": "You are in a cold, cramped chamber with only one exit.",
+  "header_raw": "54 adfj 0",
+  "flags_text": "adfj",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "cell",
+      "door_flag": 2,
+      "key": 5493,
+      "to": 5593
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

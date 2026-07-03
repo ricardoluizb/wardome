@@ -1,0 +1,37 @@
+{
+  "id": 5463,
+  "zone_id": 54,
+  "name": "Guildsman's Row",
+  "description": "After the guilds were built the people of the city used some of the\nextra space to erect a shrine to their patron saints.  The result of\nthis labor became the Museum of the Greater Gods.\n   You may enter the sacred hall to the east.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5462
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5516
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5464
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

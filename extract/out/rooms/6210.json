@@ -1,0 +1,29 @@
+{
+  "id": 6210,
+  "zone_id": 62,
+  "name": "Just Passing Through...",
+  "description": "The energy barrier seems to push against you\nineffectively as you shove your way through it.  All your\nhairs stick up on your body from the static electricity,\nand electric shocks sting your body from every metallic\npiece of equipment you are carrying.  You think with a\nfinal shove, you can break through to the other side...",
+  "header_raw": "62 c 5",
+  "flags_text": "c",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6208
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6211
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

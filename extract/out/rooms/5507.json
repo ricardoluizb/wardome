@@ -1,0 +1,21 @@
+{
+  "id": 5507,
+  "zone_id": 54,
+  "name": "The Craftsmans' Guild",
+  "description": "You have entered a busy workshop filled with people running amok\nwith various tools and materials.  The air is tense with the rush to\ncomplete various projects and creations.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5461
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

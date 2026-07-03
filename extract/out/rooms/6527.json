@@ -1,0 +1,21 @@
+{
+  "id": 6527,
+  "zone_id": 65,
+  "name": "The Wine Cellar",
+  "description": "This room smells like wine, and you can only assume it used to be\na wine cellar at one time.",
+  "header_raw": "65 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "trapdoor",
+      "door_flag": 1,
+      "key": -1,
+      "to": 6526
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/65.wld"
+}

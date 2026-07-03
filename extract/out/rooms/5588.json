@@ -1,0 +1,29 @@
+{
+  "id": 5588,
+  "zone_id": 54,
+  "name": "A Small room",
+  "description": "This is secret chamber allowing the Sultan direct access to his harem\nat any time he chooses.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5589
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door secret",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5587
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

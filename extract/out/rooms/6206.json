@@ -1,0 +1,34 @@
+{
+  "id": 6206,
+  "zone_id": 62,
+  "name": "In The Forest",
+  "description": "The woods thicken here, and surpisingly, you see a tree\ncompletely cut in half by the magical barrier running\nnorth-south here.  The tree looks healthy and unaffected\nby the energy field passing right through its center.\nOdd...",
+  "header_raw": "62 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6207
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6205
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "barrier energy",
+      "description": "You can faintly see the woods continue beyond it, but it\nseems there's no way through.  The field rises high up\ninto the air, and seems to form a ceiling above the woods,\npreventing a flying entrance.  You'd also bet it extends\ndeep into the ground."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

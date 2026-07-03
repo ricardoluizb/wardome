@@ -1,0 +1,29 @@
+{
+  "id": 3353,
+  "zone_id": 33,
+  "name": "A Small Road",
+  "description": "The road ends here, leading up to a stone house\nto the south.  Smoke rises from the chimney in a dark\nstream, and the windows are frosted over with humidity.\nNorth, you see the main intersection of Stanneg.",
+  "header_raw": "33 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3348
+    },
+    {
+      "dir": 2,
+      "description": "A normal looking front door made of wood serves as the entrance.",
+      "keywords": "door front",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3354
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/33.wld"
+}

@@ -18,17 +18,25 @@
     {
       "dir": 2,
       "description": "",
-      "keywords": "door small round~ 1 -1 7280 E small round door~ The door is completely round without a keyhole.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door small round",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7280
     }
   ],
   "extra_descriptions": [
+    {
+      "keywords": "small round door",
+      "description": "The door is completely round without a keyhole."
+    },
+    {
+      "keywords": "red light",
+      "description": "The red light glows from the walls."
+    },
     {
       "keywords": "walls",
       "description": "The walls look alive."
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/72.wld"
 }

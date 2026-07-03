@@ -1,0 +1,21 @@
+{
+  "id": 3354,
+  "zone_id": 33,
+  "name": "A Private Home",
+  "description": "This home strikes you as unbearable warm and uncomfortable.\nThe fireplace is going at a full-bonfire, a mammoth stack of\nfirewood beside it against the wall.  The decorations seem\nsomewhat spartan and plain; a landscape, an old hunting \nbow... nothing much of interest.",
+  "header_raw": "33 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a normal looking wooden door.",
+      "keywords": "door front",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3353
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/33.wld"
+}

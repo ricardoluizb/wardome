@@ -1,0 +1,29 @@
+{
+  "id": 5623,
+  "zone_id": 54,
+  "name": "River Ishtar",
+  "description": "The river flows under the wall of the city to the east and stretches\noff towards high snow capped mountains far far to the west.",
+  "header_raw": "54 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "grating",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5487
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5649
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

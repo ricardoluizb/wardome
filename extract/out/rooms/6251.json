@@ -1,0 +1,45 @@
+{
+  "id": 6251,
+  "zone_id": 62,
+  "name": "A Cave",
+  "description": "You are standing just inside a largish cave, about a \nhundred feet in diameter.  A few dim make-shift lanterns \nburning animal fat illuminate the area, just enough so you\ncan see the rotted food on the floor, and a few bodies \nsprawled throughout the whole area.  Your disgust quickly \nturns to horror as you see a horrible creature, half...\nwell, half something and half orc dash between two \nstalagmites.",
+  "header_raw": "62 d 4",
+  "flags_text": "d",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6248
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6245
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6254
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6250
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

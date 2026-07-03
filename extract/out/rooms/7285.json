@@ -10,12 +10,21 @@
     {
       "dir": 2,
       "description": "It is too dark to tell.",
-      "keywords": "door iron~ 1 -1 7286 E skeletons~ When you look at the skeletons, you can see that they once had been in great  pain.  They are hanging in their arms, and some of them were killed with a sharp instrument.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door iron",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7286
     }
   ],
-  "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+  "extra_descriptions": [
+    {
+      "keywords": "skeletons",
+      "description": "When you look at the skeletons, you can see that they once had been in great \npain.  They are hanging in their arms, and some of them were killed with a\nsharp instrument."
+    },
+    {
+      "keywords": "big metal box",
+      "description": "The metal box is covered with dust.  You notice that it was once filled with\ncoal, as you see some small pieces of it."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/72.wld"
 }

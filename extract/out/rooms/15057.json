@@ -10,18 +10,34 @@
     {
       "dir": 0,
       "description": "A small wooden door blocks the way out of the prison.",
-      "keywords": "door wooden~ 1 15017 15056 D1 A cell door is set into the eastern wall.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door wooden",
+      "door_flag": 1,
+      "key": 15017,
+      "to": 15056
+    },
+    {
+      "dir": 1,
+      "description": "A cell door is set into the eastern wall.",
+      "keywords": "door cell",
+      "door_flag": 2,
+      "key": 15017,
+      "to": 15060
     },
     {
       "dir": 2,
       "description": "The cell door to the south has been double padlocked and there is a\nplaque placed in the keystone above the door.",
-      "keywords": "door cell~ 2 15017 15059 D3 A cell door is set into the western wall.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door cell",
+      "door_flag": 2,
+      "key": 15017,
+      "to": 15059
+    },
+    {
+      "dir": 3,
+      "description": "A cell door is set into the western wall.",
+      "keywords": "door cell",
+      "door_flag": 2,
+      "key": 15017,
+      "to": 15058
     }
   ],
   "extra_descriptions": [
@@ -30,5 +46,5 @@
       "description": "The plaque in the keystone is engraved with four simple words:\n\n                Ergan, Murderer of Townsbridge"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/150.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/150.wld"
 }

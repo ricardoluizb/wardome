@@ -10,10 +10,18 @@
     {
       "dir": 1,
       "description": "The door is large and made out of oak.",
-      "keywords": "door oak large~ 1 15014 15050 D2 You see the corridor.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door oak large",
+      "door_flag": 1,
+      "key": 15014,
+      "to": 15050
+    },
+    {
+      "dir": 2,
+      "description": "You see the corridor.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15045
     },
     {
       "dir": 4,
@@ -38,5 +46,5 @@
       "description": "The stairs are made of marble, and there are pillars carved in the\nlikenesses of trees with little animals running up and down the\ntrunks."
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/150.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/150.wld"
 }

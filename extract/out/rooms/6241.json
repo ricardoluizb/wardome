@@ -1,0 +1,37 @@
+{
+  "id": 6241,
+  "zone_id": 62,
+  "name": "A Rocky Trail",
+  "description": "The forest is just to your west, with a side trail \nleading deep inside from here.  The main trail you are on,\nhowever, heads north towards the river, and south near \nwhere a trail leads up to a cave in the mountain side.  \nThere doesn't seem to be a whole lot to capture your \nattention here...",
+  "header_raw": "62 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6240
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6238
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6234
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

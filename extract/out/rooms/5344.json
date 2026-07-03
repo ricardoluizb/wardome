@@ -1,0 +1,38 @@
+{
+  "id": 5344,
+  "zone_id": 53,
+  "name": "The Tomb Entrance",
+  "description": "You are in a small, dark chamber that has stood undisturbed for\nmany years.  To the north stands a massive stone tomb, which is\ncovered in hieroglyphics and gold-lined carvings that mark it as the\nfinal resting place of the mighty pharoahs of this land.",
+  "header_raw": "53 acd 0",
+  "flags_text": "acd",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the tomb of the pharoahs.",
+      "keywords": "tomb",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5345
+    },
+    {
+      "dir": 4,
+      "description": "The stone ceiling has some cracks in it, through which a dim light streams.",
+      "keywords": "ceiling",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5343
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "tomb",
+      "description": "The tomb looks like it has stood for many years, much like the pyramid\nwhich encloses it.  It is covered in small hieroglyphics."
+    },
+    {
+      "keywords": "hieroglyphics carvings",
+      "description": "The markings indicate that this tomb is indeed the tomb of the greatest\npharoahs of the ancient civilization that built this massive pyramid."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/53.wld"
+}

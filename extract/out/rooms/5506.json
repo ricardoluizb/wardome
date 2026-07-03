@@ -1,0 +1,21 @@
+{
+  "id": 5506,
+  "zone_id": 54,
+  "name": "The Weavers' Guild",
+  "description": "Rows and rows of uncut cloth lie about waiting to be hemed up\ninto tailored clothes.  Cotten is brought in from the country side\nand spun up into cloth and dyed different colors.  A young boy walks\nin, grabs a pile of clothing and leaves.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5461
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

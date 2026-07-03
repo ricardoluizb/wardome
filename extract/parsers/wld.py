@@ -15,6 +15,30 @@ def parse_wld_dir(path: Path):
     return rooms, warnings
 
 
+def read_tilde_field(lines, i):
+    """Read a DikuMUD '~'-terminated string field starting at line i.
+
+    The terminating '~' may be on its own line, or appended directly to
+    the last line of content (e.g. a single-line exit keyword like
+    "door~"). A line whose stripped text ENDS with '~' is always the
+    field's last line, regardless of whether that leaves any text
+    before the tilde on that same line.
+
+    Returns (field_text, next_i).
+    """
+    parts = []
+    while i < len(lines):
+        line = lines[i]
+        stripped = line.rstrip()
+        if stripped.endswith('~'):
+            parts.append(stripped[:-1])
+            i += 1
+            break
+        parts.append(line)
+        i += 1
+    return '\n'.join(parts).strip(), i
+
+
 def parse_wld_file(path: Path):
     rooms = []
     with path.open('r', encoding='utf-8', errors='replace') as f:
@@ -29,15 +53,8 @@ def parse_wld_file(path: Path):
         if line.startswith('#') and line[1:].strip().isdigit():
             vnum = int(line[1:].strip())
             i += 1
-            name = lines[i].rstrip('~')
-            i += 1
-            # description until a line with single '~'
-            desc_lines = []
-            while i < len(lines) and lines[i].strip() != '~':
-                desc_lines.append(lines[i])
-                i += 1
-            # skip '~'
-            i += 1
+            name, i = read_tilde_field(lines, i)
+            desc, i = read_tilde_field(lines, i)
             # flags/sector line (raw)
             header = lines[i].strip()
             i += 1
@@ -53,18 +70,8 @@ def parse_wld_file(path: Path):
                 if l.startswith('D') and l[1:].isdigit():
                     dirnum = int(l[1:])
                     i += 1
-                    # exit description
-                    ex_desc = []
-                    while i < len(lines) and lines[i].strip() != '~':
-                        ex_desc.append(lines[i])
-                        i += 1
-                    i += 1  # skip '~'
-                    # exit keyword(s)
-                    ex_kw = []
-                    while i < len(lines) and lines[i].strip() != '~':
-                        ex_kw.append(lines[i])
-                        i += 1
-                    i += 1  # skip '~'
+                    ex_desc, i = read_tilde_field(lines, i)
+                    ex_kw, i = read_tilde_field(lines, i)
                     # exit numbers line: door_flag key to_vnum
                     nums = lines[i].strip().split()
                     i += 1
@@ -73,8 +80,8 @@ def parse_wld_file(path: Path):
                     to_vnum = try_int(nums[2]) if len(nums) > 2 else None
                     exits.append({
                         'dir': dirnum,
-                        'description': '\n'.join(ex_desc).strip(),
-                        'keywords': ' '.join(ex_kw).strip(),
+                        'description': ex_desc,
+                        'keywords': ex_kw,
                         'door_flag': door_flag,
                         'key': key_vnum,
                         'to': to_vnum
@@ -82,14 +89,9 @@ def parse_wld_file(path: Path):
                 elif l == 'E':
                     # extra description block
                     i += 1
-                    kw = lines[i].rstrip('~')
-                    i += 1
-                    ex = []
-                    while i < len(lines) and lines[i].strip() != '~':
-                        ex.append(lines[i])
-                        i += 1
-                    i += 1  # skip '~'
-                    extra_desc.append({'keywords': kw, 'description': '\n'.join(ex).strip()})
+                    kw, i = read_tilde_field(lines, i)
+                    ex, i = read_tilde_field(lines, i)
+                    extra_desc.append({'keywords': kw, 'description': ex})
                 else:
                     # unknown line in room; store raw and advance
                     i += 1
@@ -100,7 +102,7 @@ def parse_wld_file(path: Path):
                 'id': vnum,
                 'zone_id': zone_id,
                 'name': name.strip(),
-                'description': '\n'.join(desc_lines).strip(),
+                'description': desc,
                 'header_raw': header,
                 'flags_text': flags,
                 'sector': sector,

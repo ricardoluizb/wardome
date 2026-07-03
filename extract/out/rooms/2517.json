@@ -1,0 +1,29 @@
+{
+  "id": 2517,
+  "zone_id": 25,
+  "name": "A Dark Hallway",
+  "description": "You are in a dark hallway.  It is apparent that this area is seldom\nused by the regular occupants of the tower.  Dust covers the floors\nhere.\n   The faint outline of a trapdoor can be seen in the dust.",
+  "header_raw": "25 adg 0",
+  "flags_text": "adg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2514
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "trapdoor",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2521
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
+}

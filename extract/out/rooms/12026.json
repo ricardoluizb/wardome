@@ -18,10 +18,18 @@
     {
       "dir": 2,
       "description": "It looks like a Nobleman's estate.  We are talking RICH nobleman's estate.",
-      "keywords": "estate house~ 0 -1 12027 D3 The road leads west towards the highway.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "estate house",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12027
+    },
+    {
+      "dir": 3,
+      "description": "The road leads west towards the highway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12019
     }
   ],
   "extra_descriptions": [
@@ -30,5 +38,5 @@
       "description": "That would probably be the Coliseum.  There are a few good matches scheduled\nfor today."
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/120.wld"
 }

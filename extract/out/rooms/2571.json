@@ -10,12 +10,20 @@
     {
       "dir": 2,
       "description": "",
-      "keywords": "door wooden~ 1 -1 2570 D3",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door wooden",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2570
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "curtain",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2573
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
 }

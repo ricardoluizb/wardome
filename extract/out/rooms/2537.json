@@ -1,0 +1,21 @@
+{
+  "id": 2537,
+  "zone_id": 25,
+  "name": "A Guest Bedroom",
+  "description": "You are in a comfortable looking bedroom.  A small globe of magical\nenergy floats overhead, providing light.  A small cot is in one corner\nlooking ever so comfortable, so comfortable in fact... someone is sleeping\nin it.\n   The only apparent exit leads back west to the hallway.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door wooden",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2534
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
+}

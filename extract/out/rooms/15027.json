@@ -1,0 +1,26 @@
+{
+  "id": 15027,
+  "zone_id": 150,
+  "name": "The Butler's Quarters",
+  "description": "You see at once that this must be the butler's room, for it lies\nin the servants' wing, and still it is large and comfortable; almost\nluxurious, in fact.  There is a large bed and a drawer in the room.\nThe only exit is via the door to the south.",
+  "header_raw": "150 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see the corridor.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 15009,
+      "to": 15022
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "bed",
+      "description": "Looks very comfortable indeed."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/150.wld"
+}

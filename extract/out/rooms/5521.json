@@ -1,0 +1,21 @@
+{
+  "id": 5521,
+  "zone_id": 54,
+  "name": "The Bank",
+  "description": "You stand in a large building decorated with black marble and red\nsatin.  Huge pillars support an arched ceiling far above your head.\nYou wonder at the skill the dwarves have for detail as you examine\nthe trim.  Fine silver seperates the polished blocks that make up the\nfloor.",
+  "header_raw": "54 de 0",
+  "flags_text": "de",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5414
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

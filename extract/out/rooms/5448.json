@@ -1,0 +1,29 @@
+{
+  "id": 5448,
+  "zone_id": 54,
+  "name": "The Casbah",
+  "description": "The cobblestone pavement runs along the north wall here.  South of you\nstand the great walls of the Palace and the Avenue goes east and west.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5422
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5447
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 6234,
+  "zone_id": 62,
+  "name": "A Rocky Trail",
+  "description": "The ground is getting very rocky here, causing the \ntrees of the woods to become more sparse.  Several bushes \nhave found purchase in the soil, but not near enough to \nblock free movement in this area.  The trail leads on up \nto what appears to be a cave in the side of the mountain \nto the west, and a side trail runs along the forest's edge\nto the north.  To the east, the trail runs deep into the \nforest out of sight.",
+  "header_raw": "62 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6241
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6233
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6242
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5514,
+  "zone_id": 54,
+  "name": "Ahkeem's Stuff",
+  "description": "You step into a shop swirling with smoke.  Ahkeem seems to have a\nliking for things not of this world... very strange stuff indeed.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5414
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

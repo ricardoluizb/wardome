@@ -1,0 +1,29 @@
+{
+  "id": 5618,
+  "zone_id": 54,
+  "name": "On A Road",
+  "description": "You stand on a well maintained road leading east towards New Thalos\nand west towards the Eastern Mountains.  To the north you can see wide\nplains stretching out as far as the eye can see.  South of you begins\na dark green forest.",
+  "header_raw": "54 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5569
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5617
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

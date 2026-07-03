@@ -1,0 +1,21 @@
+{
+  "id": 5547,
+  "zone_id": 54,
+  "name": "The Dump",
+  "description": "This is the place where the people of the city dump their trash.  Due\nto the constant winds blowing down the moutains the smell is usually blown\noutside the walls and over the desert.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5442
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

@@ -10,10 +10,18 @@
     {
       "dir": 1,
       "description": "The city gate is to the east.",
-      "keywords": "gate~ 1 3112 3040 D3 The forest edge is to the west.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": 3112,
+      "to": 3040
+    },
+    {
+      "dir": 3,
+      "description": "The forest edge is to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6092
     }
   ],
   "extra_descriptions": [
@@ -34,5 +42,5 @@
       "description": "It is built from large grey rocks that have been fastened to each other with\nsome kind of mortar.  It is far too high to climb."
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/30.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/30.wld"
 }

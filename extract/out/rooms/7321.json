@@ -10,12 +10,20 @@
     {
       "dir": 3,
       "description": "You can see a wooden door.",
-      "keywords": "door wooden~ 1 -1 7318 D1 You can see a muddy tunnel.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door wooden",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7318
+    },
+    {
+      "dir": 1,
+      "description": "You can see a muddy tunnel.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7302
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/72.wld"
 }

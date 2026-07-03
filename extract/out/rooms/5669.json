@@ -1,0 +1,37 @@
+{
+  "id": 5669,
+  "zone_id": 54,
+  "name": "On The Dark River",
+  "description": "The river slowly flows west towards the heart of the mountain.  There\nare small cracks in the passage wall to the north where you might be able\nto get up out of the water.",
+  "header_raw": "54 ad 7",
+  "flags_text": "ad",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5672
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5668
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5670
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

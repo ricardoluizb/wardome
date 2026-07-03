@@ -10,12 +10,20 @@
     {
       "dir": 1,
       "description": "The backside of a movable bookcase.",
-      "keywords": "book bookcase~ 1 -1 6412 D5",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "book bookcase",
+      "door_flag": 1,
+      "key": -1,
+      "to": 6412
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "trapdoor trap",
+      "door_flag": 1,
+      "key": -1,
+      "to": 6416
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/64.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/64.wld"
 }

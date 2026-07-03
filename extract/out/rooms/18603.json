@@ -10,10 +10,18 @@
     {
       "dir": 0,
       "description": "A brighter hallway leads off that way.",
-      "keywords": "door~ 1 -1 18644 D1 A brighter hallway leads off that way.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 18644
+    },
+    {
+      "dir": 1,
+      "description": "A brighter hallway leads off that way.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 18646
     },
     {
       "dir": 2,

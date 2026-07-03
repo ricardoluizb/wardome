@@ -10,10 +10,18 @@
     {
       "dir": 2,
       "description": "You see a strange-looking black shape.",
-      "keywords": "sesame~ 2 5323 5323 D4 It is too dark for you to see anything along the crevasse.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "sesame",
+      "door_flag": 2,
+      "key": 5323,
+      "to": 5323
+    },
+    {
+      "dir": 4,
+      "description": "It is too dark for you to see anything along the crevasse.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5321
     }
   ],
   "extra_descriptions": [
@@ -26,5 +34,5 @@
       "description": "You are now certain that the wind is the cold breath of some unearthly\ngiant animal, whose voice rumbles lowly on the breeze, and whose\nmassive jaws could easily swallow you whole.\n\nYou move closer for a better look, when suddenly a pair of eyes flashes.\nA cold voice echoes: 'SEEK YE THE DIAMOND... IN THE ROUGH...'\n\n... Then all is silent."
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/53.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/53.wld"
 }

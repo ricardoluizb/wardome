@@ -1,0 +1,21 @@
+{
+  "id": 6330,
+  "zone_id": 63,
+  "name": "The Young Wormkin's Crib",
+  "description": "A playpen of sorts, with maggots of wasps and other baby\nvermin lying about.  You feel that humans have been played with\nhere too, and eaten later.  You sense that the maker of this\nplace has an appetite for dragon meat, and uses this room as a\nbreeding area.",
+  "header_raw": "63 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6331
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/63.wld"
+}

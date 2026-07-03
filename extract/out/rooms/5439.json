@@ -1,0 +1,37 @@
+{
+  "id": 5439,
+  "zone_id": 54,
+  "name": "East Ishtar Drive",
+  "description": "Small clumps of hay strewn about the ground alerts you to the fact\nthat you have reached the stables.  Arabian stallions as well as many\nother  fine breeds of horses can be purchased for a price.  Ishtar Drive\ncontinues east and west.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5545
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5438
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5437
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

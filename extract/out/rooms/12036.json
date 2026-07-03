@@ -1,0 +1,46 @@
+{
+  "id": 12036,
+  "zone_id": 120,
+  "name": "The Emperor's Private Office",
+  "description": "You are standing in the Emperor's private office.  The room is richly\nfurnished with the finest of the loot brought back from conquests of far\naway lands.  There is a massive, intricately carved desk here, upon which\nare important documents, decrees and other paperwork involved in running\nthe empire.  On the far wall, there is a marble bookcase that is well\nstocked with the works of Homer, Plato, Socrates and other wise men.\nFurther, it seems that the current Emperor likes flowers as there are\nmany potted and cut specimens throughout the room.  There is a french\ndoor leading to the waiting room and a wooden door to the south.",
+  "header_raw": "120 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Through the door, you see a waiting room.",
+      "keywords": "doors french",
+      "door_flag": 2,
+      "key": 12035,
+      "to": 12043
+    },
+    {
+      "dir": 2,
+      "description": "The south door leads directly to the senate chambers.",
+      "keywords": "door wooden",
+      "door_flag": 2,
+      "key": 12035,
+      "to": 12037
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "desk",
+      "description": "The desk is made of solid walnut and gold inlay.  It is exquisitely carved\nwith superior craftsmanship, the likes of which has rarely been seen.  It\nwas probably brought to Rome from Gaul."
+    },
+    {
+      "keywords": "documents decrees paperwork document decree papers paper",
+      "description": "The documents are all written on reed scrolls made in Egypt and have been\nsealed with wax."
+    },
+    {
+      "keywords": "bookcase books",
+      "description": "The books are very old and contain the wisdom of wise men from throughout the\nentire Roman empire.  They appear to be collecting dust."
+    },
+    {
+      "keywords": "flowers plants flower plant",
+      "description": "The plants contribute to a very relaxing atmosphere."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/120.wld"
+}

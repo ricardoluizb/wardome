@@ -1,0 +1,45 @@
+{
+  "id": 5408,
+  "zone_id": 54,
+  "name": "Southwestern Market Square",
+  "description": "This area of the market seems relatively quiet, save the high pitch\nbanter of the shopkeepers attempting to lure you into their stores.\nSouth you see the bread stand and west is the entrance to the general\nstore.\n   The market's sprawl continues east and north of here.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5409
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5405
+    },
+    {
+      "dir": 2,
+      "description": "You see the grocer's.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5535
+    },
+    {
+      "dir": 3,
+      "description": "You see the general store.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5528
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

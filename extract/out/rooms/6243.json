@@ -1,0 +1,42 @@
+{
+  "id": 6243,
+  "zone_id": 62,
+  "name": "A Tunnel Forking",
+  "description": "The tunnel forks here, one branch leading north, the \nother west.  Additionally, you can head back outside to \nthe east, which seems like a very good idea to your \ntortured nasal passages.  Your eyes water from the stench,\nand you clench your left hand tightly to keep control of \nyour bile.\n   Forcing your eyes open, you notice the warning signs\npainted around the tunnel to the north.",
+  "header_raw": "62 ad 4",
+  "flags_text": "ad",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6255
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6242
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6244
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "painting sign signs",
+      "description": "They are orcish, and you could swear they were all warning\nsymbols."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

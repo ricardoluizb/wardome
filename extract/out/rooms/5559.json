@@ -1,0 +1,21 @@
+{
+  "id": 5559,
+  "zone_id": 54,
+  "name": "The Northwest Tower",
+  "description": "You stand on one of the four towers guarding the city.  The view from\nhere is great!  To the west you see the tall mountains that make up the\ndivide between here and Midgaard.  The River Ishtar slowly flows from that\ndirection.  South you can see the entire city of New Thalos and the Great\nEastern Desert to the south.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5444
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

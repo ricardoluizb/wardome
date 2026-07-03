@@ -18,25 +18,12 @@
     {
       "dir": 5,
       "description": "You see the sewers.",
-      "keywords": "grate~ 2 3005 7030 S #3031 The Pet Shop~    The Pet Shop is a small crowded store, full of cages and animals of various sizes.  There is a sign on the wall.",
-      "door_flag": 30,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 0,
-      "description": "You see the main street.",
-      "keywords": "",
-      "door_flag": 0,
-      "key": -1,
-      "to": 3015
+      "keywords": "grate",
+      "door_flag": 2,
+      "key": 3005,
+      "to": 7030
     }
   ],
-  "extra_descriptions": [
-    {
-      "keywords": "sign",
-      "description": "The sign reads:\n\n  Use 'List' to see the available pets.\n  Use 'Buy <pet>' to buy yourself a pet.\n\n  Instructions for having pets:\n\n  You can use 'order <pet> <instructions>' to order your pets around.\n  If you abuse your pet, it will no longer regard you as its master.\n  If you have several pets you may use 'order followers <instructions>'\n\n  You can name the pet you buy with: 'buy <pet> <name>'\n\n Regards,\n\n The Shopkeeper"
-    }
-  ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/30.wld"
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/30.wld"
 }

@@ -1,0 +1,42 @@
+{
+  "id": 6203,
+  "zone_id": 62,
+  "name": "In The Forest",
+  "description": "The northern pathway stops abruptly here, halted by\nsome sort of glowing energy barrier running through the\nwoods.  A game trail, seemingly well traveled, runs east-\nwest along the magical barrier's length.  Very strange.",
+  "header_raw": "62 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6204
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6139
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6202
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "barrier energy",
+      "description": "You can faintly see the woods continue beyond it, but it\nseems there's no way through.  The field rises high up\ninto the air, and seems to form a ceiling above the woods,\npreventing a flying entrance.  You'd also bet it extends\ndeep into the ground."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

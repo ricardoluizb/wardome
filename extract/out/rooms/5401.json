@@ -1,0 +1,21 @@
+{
+  "id": 5401,
+  "zone_id": 54,
+  "name": "The Reception Area",
+  "description": "You are now standing in the reception of New Thalos.  A huge mahogany\ndesk is here along with two sofas and a coffee table covered in magazines.\nThe plush carpeting under your feet is a nice change from the rugged paths\nyou are used to travelling.  A chrome stairway spirals downstairs to the\ntavern of the Dancing Daemon Inn, and your future adventures in New Thalos.",
+  "header_raw": "54 deh 0",
+  "flags_text": "deh",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "The stairs lead down to the Daemon.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5400
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

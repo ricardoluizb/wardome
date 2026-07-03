@@ -1,0 +1,21 @@
+{
+  "id": 5554,
+  "zone_id": 54,
+  "name": "City Hall",
+  "description": "You stand inside the administrative head of the city.  Here the\ndecisions regarding city policy are made.  Although the Sultan's\nword is law, he usually spends his time on affairs outside the city\nwall.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5445
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

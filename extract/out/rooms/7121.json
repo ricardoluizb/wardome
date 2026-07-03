@@ -26,17 +26,25 @@
     {
       "dir": 5,
       "description": "The Abyss lies down there.  Who knows what might lurk down there?",
-      "keywords": "rock step edge~ 2 -1 7279 E edge odd-looking~ This is truly a weird piece of craftsmanship in your eyes.  The edge seems to form a step leading down, but WHAT a STEP DOWN.  The Abyss opens down there  leading to seemingly total destruction.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "rock step edge",
+      "door_flag": 2,
+      "key": -1,
+      "to": 7279
     }
   ],
   "extra_descriptions": [
+    {
+      "keywords": "edge odd-looking",
+      "description": "This is truly a weird piece of craftsmanship in your eyes.  The edge seems to\nform a step leading down, but WHAT a STEP DOWN.  The Abyss opens down there \nleading to seemingly total destruction."
+    },
+    {
+      "keywords": "step",
+      "description": "A small rock sticks out right under it, otherwise the way is DOWN, DOWN, and\nSPLAT!!!"
+    },
     {
       "keywords": "rock",
       "description": "It looks as if it can be opened in a door-like fashion.  Maybe this will lead\nthe way down."
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/71.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/71.wld"
 }

@@ -1,0 +1,37 @@
+{
+  "id": 6503,
+  "zone_id": 65,
+  "name": "The Top Of The Mountain",
+  "description": "You are now on the top of the mountain.  To the south you see a path\nleading down the mountain.  To the east and west you see entrances to\nwhat seems like mines.",
+  "header_raw": "65 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "An entrance to the mountain which seems to lead underground.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6540
+    },
+    {
+      "dir": 2,
+      "description": "The path leads down the mountain to the main city of Midgaard.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6502
+    },
+    {
+      "dir": 3,
+      "description": "There is an entrance to the mountain.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6505
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/65.wld"
+}

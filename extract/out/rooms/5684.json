@@ -1,0 +1,29 @@
+{
+  "id": 5684,
+  "zone_id": 54,
+  "name": "River Ishtar",
+  "description": "The river broadens even more here and the waters become murky.\nThe smell of saltwater has reached you from the east.  The Dragon\nSea cannot be far away.  To the east you can see the faint outline\nof a city and to the north you see a large expanse of grass.",
+  "header_raw": "54 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5685
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5626
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

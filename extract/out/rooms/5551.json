@@ -1,0 +1,21 @@
+{
+  "id": 5551,
+  "zone_id": 54,
+  "name": "The Library",
+  "description": "This building holds the vast collection of books and documents\nthat have been brought here by the commitee apointed to recover the\nlost knowledge of Thalos.  Rows of shelves filled with book in every\ncondition line the walls.  The air has the aroma of old parchment\nand glue.",
+  "header_raw": "54 df 0",
+  "flags_text": "df",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5455
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

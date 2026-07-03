@@ -1,0 +1,29 @@
+{
+  "id": 5671,
+  "zone_id": 54,
+  "name": "On The Dark River",
+  "description": "The river flows south through a narrowing part of the passage as it\nprogresses deeper into the mountain.",
+  "header_raw": "54 ad 7",
+  "flags_text": "ad",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5670
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5005
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

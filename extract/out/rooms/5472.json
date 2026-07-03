@@ -1,0 +1,29 @@
+{
+  "id": 5472,
+  "zone_id": 54,
+  "name": "Alley",
+  "description": "You are on a small alley between the repair shop and the general\nstore.  Nothing much here but small rodents and dust.",
+  "header_raw": "54 ac 1",
+  "flags_text": "ac",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5425
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5473
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

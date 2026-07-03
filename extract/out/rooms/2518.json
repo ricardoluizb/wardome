@@ -1,0 +1,21 @@
+{
+  "id": 2518,
+  "zone_id": 25,
+  "name": "The Mages' Tavern",
+  "description": "You are in the mages' tavern.  The air is smokey and filled with the\nsmells of foreign food and drink.  The other patrons pay you little heed,\nas they obviously have more interesting things to contemplate.\n   The only exit leads back west.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2514
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
+}

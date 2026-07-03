@@ -1,0 +1,21 @@
+{
+  "id": 6231,
+  "zone_id": 62,
+  "name": "A Clearing",
+  "description": "The trees have been cut down around here, and many of \nthe trunks hollowed out with sharp stones and lined with \ntreated leather to make almost-waterproof tubs.  A foul \nsmelling brown fluid, tannin evidently, fills many of \nthese, soaking into various bits and pieces of animal \nhides.  Crude, but workable.",
+  "header_raw": "62 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6230
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

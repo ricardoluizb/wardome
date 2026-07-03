@@ -1,0 +1,37 @@
+{
+  "id": 5400,
+  "zone_id": 54,
+  "name": "The Entrance To The Dancing Daemon Inn",
+  "description": "You find yourself in an entrance foyer to the Dancing Daemon Inn.\nChrome plated stairs spiral up to the reception area.  To the south\nyou hear the sounds of merriment and drinking and from the west you\nhear the bustling activity of New Thalos.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see people dancing and drinking.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5402
+    },
+    {
+      "dir": 3,
+      "description": "You see people walking by on Sultan's Walk.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5420
+    },
+    {
+      "dir": 4,
+      "description": "The spiral stairs lead up to the reception area.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5401
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

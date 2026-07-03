@@ -1,0 +1,29 @@
+{
+  "id": 5610,
+  "zone_id": 54,
+  "name": "The Ledge Around The Valley",
+  "description": "You are walking around a small ledge overlooking a large valley\ndeep within the eastern mountains.  The ledge turns north following\nthe shape of the valley and a steep trail continues to the east.",
+  "header_raw": "54 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "This can be used to add something onto... such as the valley that is \nsupposed to exist here. (=",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": -1
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5611
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

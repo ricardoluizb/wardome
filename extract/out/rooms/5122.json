@@ -1,0 +1,21 @@
+{
+  "id": 5122,
+  "zone_id": 51,
+  "name": "The Slave Chamber",
+  "description": "The room is in shambles.  Straw is strewn all about the room as beds for\nthe unfortunate creatures who have fallen prey to drow imperialism.",
+  "header_raw": "51 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5101
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/51.wld"
+}

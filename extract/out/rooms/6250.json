@@ -1,0 +1,45 @@
+{
+  "id": 6250,
+  "zone_id": 62,
+  "name": "A Cave",
+  "description": "Several grass sleeping pallets are here, clustered \naround the remains of an old fire.  The sloping of the \ncave's ceiling allow for smoke ventilation towards the \nsurface in here you note, lucky for the orcs.  A few \nstrings of burnt meat still hang over the fire, untended \nand uneaten.  On the floor near your feet you spy a small, \ntwisted piece of wire... one orc's idea of a treasured ring, \nno doubt.  Kicking the trinket away, you try to push the \npity out of your heart for these wretches.",
+  "header_raw": "62 d 4",
+  "flags_text": "d",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6247
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6251
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6253
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6249
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

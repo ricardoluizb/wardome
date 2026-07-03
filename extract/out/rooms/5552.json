@@ -1,0 +1,26 @@
+{
+  "id": 5552,
+  "zone_id": 54,
+  "name": "The Dance Hall",
+  "description": "You seem to have missed a huge party.  The janitors are here cleaning\nup the confetti and pieces of food.  Hundreds of empty beer mugs on the \ntables surrounding the dance floor suggest that the citizens love their\ndrink.  There is still a banner on the wall.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5456
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "banner",
+      "description": "========================================================================\n                     \n             H A P P Y   B I R T H D A Y   T O   U S\n\n========================================================================"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

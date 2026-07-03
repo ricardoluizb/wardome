@@ -10,10 +10,18 @@
     {
       "dir": 1,
       "description": "",
-      "keywords": "door~ 1 -1 6413 D3 A big bookcase, that looks rather odd.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 6413
+    },
+    {
+      "dir": 3,
+      "description": "A big bookcase, that looks rather odd.",
+      "keywords": "bookcase",
+      "door_flag": 1,
+      "key": -1,
+      "to": 6414
     }
   ],
   "extra_descriptions": [
@@ -22,5 +30,5 @@
       "description": "There are lots of books about everything here!"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/64.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/64.wld"
 }

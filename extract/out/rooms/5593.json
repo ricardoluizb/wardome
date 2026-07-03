@@ -1,0 +1,45 @@
+{
+  "id": 5593,
+  "zone_id": 54,
+  "name": "A Tunnel In The Dungeon",
+  "description": "You stand in a roughly hewn stone tunnel with cells to the north and\nsouth.  The tunnel continues east and west.",
+  "header_raw": "54 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "cell",
+      "door_flag": 2,
+      "key": 5493,
+      "to": 5598
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5594
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "cell",
+      "door_flag": 2,
+      "key": 5493,
+      "to": 5602
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5592
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

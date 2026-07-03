@@ -1,0 +1,21 @@
+{
+  "id": 5504,
+  "zone_id": 54,
+  "name": "The Chamber Of The High Priest",
+  "description": "You have entered the chamber of the most holy man in New Thalos.  The\nHigh Priest advises the Sultan on all matters in the world of the sacred.\nFrom what you have heard however, this holy man has a bit of a temper,\nand he doesn't look very happy that you've disturbed his prayers.\n   The only obvious exit is south.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5508
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 6211,
+  "zone_id": 62,
+  "name": "By The Barrier",
+  "description": "To the west the magical energy barrier crackles and\nhums to itself, almost looking harmless.  Almost -- all\naround on the ground are charred corpses and bodies.\nSeveral poles with skulls on top face to the west, warning\ntravellers on the forest paths away from here.  The air\nsmells of death and decay, and the air is very still.  You\nfeel uncomfortable.",
+  "header_raw": "62 c 3",
+  "flags_text": "c",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6210
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6212
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "corpse body bodies corpses skull skulls",
+      "description": "Demi-human, from the size.  The foreheads slop down to a\nblocky brow, and the braincase seems rather small.  On\na hunch, you check one of the feet of a torched body.\nCloven, like a pig's... Orcs."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

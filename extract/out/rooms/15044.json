@@ -1,0 +1,26 @@
+{
+  "id": 15044,
+  "zone_id": 150,
+  "name": "The Bedroom",
+  "description": "This room is dominated by the huge four-poster bed, that stands\nagainst the northern wall.  The room is large and cosy, and the bed\nvirtually begs you to lie down in it and sleep.",
+  "header_raw": "150 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see the living room of the suite.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15039
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "bed",
+      "description": "Large, comfortable, bolstered... Invites you to sleep in it."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/150.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 5620,
+  "zone_id": 54,
+  "name": "River Ishtar",
+  "description": "The river calms a bit after being thrashed in the interior of\nthe mountain.  Although still deep within the rocks you can see\nfaint traces of green to the east.",
+  "header_raw": "54 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5621
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5639
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

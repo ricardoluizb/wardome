@@ -1,0 +1,29 @@
+{
+  "id": 6305,
+  "zone_id": 63,
+  "name": "Beneath The Busy Path",
+  "description": "You here the sounds of crawling arachnids above.  The rhythms of\nthe footsteps suggest a primitive order in there movement.  The light\nseems brighter upwards.",
+  "header_raw": "63 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6304
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6306
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/63.wld"
+}

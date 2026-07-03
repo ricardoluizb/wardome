@@ -1,0 +1,34 @@
+{
+  "id": 6506,
+  "zone_id": 65,
+  "name": "A Bend In The Narrow Path",
+  "description": "This is a narrow path that bends to the east here.  The trees hang\nover the path, and it is very overgrown.  The narrow path continues to\nthe south and to the east.",
+  "header_raw": "65 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6507
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6504
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "tree trees",
+      "description": "They hang over the road in the most ominous of ways."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/65.wld"
+}

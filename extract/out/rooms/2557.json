@@ -10,28 +10,12 @@
     {
       "dir": 0,
       "description": "",
-      "keywords": "door sturdy iron~ 1 -1 2555 S #2558 A Hallway~    You are in a long hallway leading east and west.  The walls emit a faint magical glow providing enough light to see by.    A small door can be seen to the south.",
-      "door_flag": 25,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 1,
-      "description": "",
-      "keywords": "",
-      "door_flag": 0,
+      "keywords": "door sturdy iron",
+      "door_flag": 1,
       "key": -1,
-      "to": 2560
-    },
-    {
-      "dir": 2,
-      "description": "",
-      "keywords": "door small~ 1 -1 2561 D3",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "to": 2555
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
 }

@@ -1,0 +1,29 @@
+{
+  "id": 6235,
+  "zone_id": 62,
+  "name": "A Forest Trail",
+  "description": "The trail you are on bends around a large double-\ntrunked tree and leads away to the north and west.  The \ngreen canopy of leaves overhead make this area fairly dark\nand ominous, and that creepy 'watched' feeling returns to\nhit you with full force.",
+  "header_raw": "62 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6229
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6236
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

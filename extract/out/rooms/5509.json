@@ -1,0 +1,45 @@
+{
+  "id": 5509,
+  "zone_id": 54,
+  "name": "Inside The Temple",
+  "description": "Huge marble pillars rise on either side of you and grab hold of\nthe ceiling.  Between each of these, fine softstone frescoes have\nbeen carved depicting scenes from the religous history of New Thalos.\nRows of pews face forward giving their full attention to the pulpit\nrising high above the ground.  The deep red carpeting underfoot shows\nnot a speck of wear or dirt.  It is obvious that New Thalonians take\nreligion seriously.",
+  "header_raw": "54 dgh 0",
+  "flags_text": "dgh",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5505
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5510
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5513
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5508
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

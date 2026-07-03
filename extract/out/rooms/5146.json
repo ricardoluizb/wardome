@@ -1,0 +1,29 @@
+{
+  "id": 5146,
+  "zone_id": 51,
+  "name": "The Slave Cells",
+  "description": "This is the main room to the cell chambers for the slaves to be \nsacrificed.  You notice there are no guards around.",
+  "header_raw": "51 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "cell",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5147
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5142
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/51.wld"
+}

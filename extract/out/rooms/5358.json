@@ -18,17 +18,25 @@
     {
       "dir": 2,
       "description": "On the southern side of the sand dune is a small hole in the sand.\nFor some reason you seem unable to get to it.",
-      "keywords": "riddle~ 2 5317 5359 E sand dune~ The sand is very white, and very sandy.  There sure is a lot of it.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "riddle",
+      "door_flag": 2,
+      "key": 5317,
+      "to": 5359
     }
   ],
   "extra_descriptions": [
+    {
+      "keywords": "sand dune",
+      "description": "The sand is very white, and very sandy.  There sure is a lot of it."
+    },
+    {
+      "keywords": "riddle",
+      "description": "A vision forms before your eyes, in glowing hieroglyphic symbols."
+    },
     {
       "keywords": "hieroglyphics symbols",
       "description": "Like most of the ancient hieroglyphics of this land, the symbols are\ntotally incomprehensible to you.  Perhaps the Sphinx has the answer\nto this ancient riddle."
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/53.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/53.wld"
 }

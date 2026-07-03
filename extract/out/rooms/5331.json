@@ -18,36 +18,17 @@
     {
       "dir": 5,
       "description": "You see a seam in the stone floor.",
-      "keywords": "tomb~ 1 -1 5332 E pedestal writings~ The writings are covered in sand and worn nearly away by the passage of time: 'I am Ramses the Damned, once counselor and aide to the mightiest of pharoahs and queens of this land.  Much time has passed since I last walked the earth.  Disturb my rest at your peril.'",
-      "door_flag": null,
-      "key": null,
-      "to": null
-    },
-    {
-      "dir": 4,
-      "description": "That leads back the way you came.",
-      "keywords": "tomb~ 1 -1 5331 S #5333 A Ransacked Tomb~   This tomb has been completely ransacked and destroyed by the actions of pyramid thieves and looters.  The floor is littered with junk.",
-      "door_flag": 53,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 1,
-      "description": "To the east is a low-ceilinged tunnel.",
-      "keywords": "",
-      "door_flag": 0,
+      "keywords": "tomb",
+      "door_flag": 1,
       "key": -1,
-      "to": 5334
-    },
-    {
-      "dir": 3,
-      "description": "To the west is another tomb.",
-      "keywords": "",
-      "door_flag": 0,
-      "key": -1,
-      "to": 5325
+      "to": 5332
     }
   ],
-  "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/53.wld"
+  "extra_descriptions": [
+    {
+      "keywords": "pedestal writings",
+      "description": "The writings are covered in sand and worn nearly away by the passage\nof time: 'I am Ramses the Damned, once counselor and aide to the mightiest\nof pharoahs and queens of this land.  Much time has passed since I last\nwalked the earth.  Disturb my rest at your peril.'"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/53.wld"
 }

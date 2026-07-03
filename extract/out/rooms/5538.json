@@ -1,0 +1,21 @@
+{
+  "id": 5538,
+  "zone_id": 54,
+  "name": "Smuggler's Inn",
+  "description": "You are inside a filthy inn, that seemingly has been cleaned in\ndecades.  Poker tables line the walls and everyone stares at you as\nyou walk in, you don't feel very welcome.  The bar has numerous\nknife holes in it and the bartender leans over waiting for your\norder.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5467
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

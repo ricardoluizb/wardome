@@ -1,0 +1,29 @@
+{
+  "id": 6258,
+  "zone_id": 62,
+  "name": "A Tunnel",
+  "description": "This tunnel opens up into a large room to the north, \nand to the south, leads towards a set of doors.  The light\nis crisp and bright, clearly showing the lack of tool \nmarks on the hewn walls... magic?  The room just ahead is \nlarge, and also well-lighted, giving it an almost clinical\natmosphere.  Somewhere in the recesses of that room \nsomething cries out in a horrible crackling voice.  Not \ngood.",
+  "header_raw": "62 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6266
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6256
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

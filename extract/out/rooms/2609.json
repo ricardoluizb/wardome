@@ -1,0 +1,45 @@
+{
+  "id": 2609,
+  "zone_id": 25,
+  "name": "The Golem Master's Workshop",
+  "description": "You are in the golem master's workshop.  A few unfinished looking humanoid\nforms of different make are here, some moving, some not.  The animated forms\nlunge to attack you.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2610
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door rusty",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2608
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2611
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "trapdoor",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2612
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
+}

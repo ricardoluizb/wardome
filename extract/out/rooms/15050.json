@@ -18,17 +18,25 @@
     {
       "dir": 3,
       "description": "The door is large, and made out of oak.",
-      "keywords": "door large oak~ 1 15014 15049 E fire fireplace~ The fire is built out of logs, and seems to be able to burn for  quite a while longer.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door large oak",
+      "door_flag": 1,
+      "key": 15014,
+      "to": 15049
     }
   ],
   "extra_descriptions": [
+    {
+      "keywords": "fire fireplace",
+      "description": "The fire is built out of logs, and seems to be able to burn for \nquite a while longer."
+    },
+    {
+      "keywords": "table",
+      "description": "The table is made of mahogany, and elegant in a cosy way(!)"
+    },
     {
       "keywords": "chairs",
       "description": "The chairs are arranged around the fireplace."
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/150.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/150.wld"
 }

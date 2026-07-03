@@ -1,0 +1,37 @@
+{
+  "id": 6238,
+  "zone_id": 62,
+  "name": "A Forest Trail",
+  "description": "The trail splits here, one fork heading north towards \nthe rushing sounds of a river, and west where the forest \nseems to be thinning out a lot.  A sudden motion out of \nthe corner of your eye catches your eyes, and you turn \nyour head.  Nothing, there's nothing there at all.\n   You wonder if you're being stalked.",
+  "header_raw": "62 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6239
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6236
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6241
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

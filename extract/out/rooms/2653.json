@@ -1,0 +1,29 @@
+{
+  "id": 2653,
+  "zone_id": 25,
+  "name": "The Antechamber",
+  "description": "You are in the antechamber of the Master Magician of the Grey Light.\nA feeling of strong magic floats in the air about you, almost as if you\ncould taste the power held within these walls.\n   Once your eyes adjust to the semi-light, you can make out a larger\nroom to the south.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door grey",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2652
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2654
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
+}

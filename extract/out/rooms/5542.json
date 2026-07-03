@@ -1,0 +1,29 @@
+{
+  "id": 5542,
+  "zone_id": 54,
+  "name": "The Shipwright",
+  "description": "The wood under you feet creaks from years of being soaked in saltwater.\nAn old man with a curly, grey beard stand behind a small counter waiting\nto take your order.  Behind him are mounted various model sailboats and\nlarge fish.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5543
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5435
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

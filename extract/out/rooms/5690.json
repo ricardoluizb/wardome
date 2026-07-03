@@ -1,0 +1,29 @@
+{
+  "id": 5690,
+  "zone_id": 54,
+  "name": "On A Road",
+  "description": "The people of New Thalos take great pride in the services their\ncity may provide.  One of these services is the construction crews\nthe go to great lengths to keep all the roads in order.  Although\nthe taxes in New Thalos are higher then other cities in the realm\nmost of the money is used for the good of the people.",
+  "header_raw": "54 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5691
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5568
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

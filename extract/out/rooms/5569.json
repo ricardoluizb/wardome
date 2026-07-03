@@ -1,0 +1,29 @@
+{
+  "id": 5569,
+  "zone_id": 54,
+  "name": "Outside The West Gate Of New Thalos",
+  "description": "You stand outside the city walls, the iron gate to the east.  The city\nlies in that direction and the road to Midgaard lies west.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": 5401,
+      "to": 5423
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5618
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

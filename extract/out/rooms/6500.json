@@ -1,0 +1,29 @@
+{
+  "id": 6500,
+  "zone_id": 65,
+  "name": "The Path To The Dwarven Village",
+  "description": "You are walking down a path that leads to the dwarven village.  Above\nyou, you can see the Turning Point, and to the north the path continues \ntoward the mountains.",
+  "header_raw": "65 c 2",
+  "flags_text": "c",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The path continues.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6501
+    },
+    {
+      "dir": 4,
+      "description": "You can see the city of Midgaard.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3502
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/65.wld"
+}

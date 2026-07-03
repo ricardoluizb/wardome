@@ -1,0 +1,29 @@
+{
+  "id": 5489,
+  "zone_id": 54,
+  "name": "A Dark Passage",
+  "description": "The small passage continues east and west from here.  Again you\nnotice something peculiar about the wall, this time to the north,\nbut you fail to find any secret doors.  Voices can be faintly heard\nfrom the north.",
+  "header_raw": "54 ad 1",
+  "flags_text": "ad",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5490
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5488
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5523,
+  "zone_id": 54,
+  "name": "The Witch's Brew",
+  "description": "The first thing you notice as you walk into this spacious shop is\nthe hundreds of candles that line the shelves.  The swirling mist that\nsurrounds your feet makes it seem that you have stepped into a gateway\nto another plane.  A cluttered table stands near the far wall, opposite\nthe doorway.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5429
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

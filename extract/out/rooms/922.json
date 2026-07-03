@@ -1,0 +1,21 @@
+{
+  "id": 922,
+  "zone_id": 9,
+  "name": "The Royal Chamber",
+  "description": "The treasure room of Minos is dark save for your lantern.\nHopefully it has not been looted yet by the many legendary thieves\nof Midgaard.  A clever looking secret passage leads upward from here.",
+  "header_raw": "9 adj 0",
+  "flags_text": "adj",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 910
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/9.wld"
+}

@@ -10,18 +10,34 @@
     {
       "dir": 0,
       "description": "You see a red dragon's head hanging on the wall.",
-      "keywords": "head red~ 2 0 7324 D1 You see a green dragon's head hanging on the wall.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "head red",
+      "door_flag": 2,
+      "key": 0,
+      "to": 7324
+    },
+    {
+      "dir": 1,
+      "description": "You see a green dragon's head hanging on the wall.",
+      "keywords": "head green",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7325
     },
     {
       "dir": 2,
       "description": "You see a blue dragon's head hanging on the wall.",
-      "keywords": "head blue~ 2 0 7324 D3 You see a room far away.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "head blue",
+      "door_flag": 2,
+      "key": 0,
+      "to": 7324
+    },
+    {
+      "dir": 3,
+      "description": "You see a room far away.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7323
     }
   ],
   "extra_descriptions": [
@@ -42,5 +58,5 @@
       "description": "This looks like a good dragon."
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/72.wld"
 }

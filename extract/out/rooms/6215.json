@@ -1,0 +1,29 @@
+{
+  "id": 6215,
+  "zone_id": 62,
+  "name": "The River's Edge",
+  "description": "The river flows on its course, unhampered by the energy\nbarrier passing right down its center for as far as you\ncan see in both directions.  The path you are on travels\nalong the length of the river to the east and west\ninbetween the water and the forest's edge.  Once again you\nshiver and feel that unmistakeable sense that you are\nbeing watched.  Disturbing.",
+  "header_raw": "62 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6214
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6216
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 5410,
+  "zone_id": 54,
+  "name": "The Common Square",
+  "description": "People pass by talking to each other, or rest their weary bones on this\ngrassy field.  You can hear faint sounds of the river to the south of you\nas it passes through the city.  Ishtar drive heads east and west from here\nand the Medina is to the north.  South lies the River Ishtar Bridge and the\nsouthern gate.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the medina.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5403
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5437
+    },
+    {
+      "dir": 2,
+      "description": "You see the bridge over the river.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5412
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5436
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

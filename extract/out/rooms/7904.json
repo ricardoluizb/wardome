@@ -1,0 +1,45 @@
+{
+  "id": 7904,
+  "zone_id": 79,
+  "name": "The Northern End Of The Hall",
+  "description": "You are standing in the northern end of the huge hall.  This part is\nunder the grand wooden staircase so the light seems to be a little less\nbright here, but this doesn't affect your sight at all.  To the north\nlies the kitchen.  To the south lies the southern end of the hall.  To\nthe east there is a huge metal door.  To the west there is a large\naspenwood door.",
+  "header_raw": "79 cdj 0",
+  "flags_text": "cdj",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7906
+    },
+    {
+      "dir": 1,
+      "description": "You see a huge metal door.  From it a foul stench emanates.  The smell is\nthe most awful experience in your entire life.  A thought seeps through this\nterrible stench and into your mind: 'Monsters', you feel BAD about opening\nthat door.",
+      "keywords": "door metal huge",
+      "door_flag": 2,
+      "key": -1,
+      "to": 7913
+    },
+    {
+      "dir": 2,
+      "description": "The rest of the hall lies in that direction, and so does the exit.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7901
+    },
+    {
+      "dir": 3,
+      "description": "The door has 'SITTING ROOM' written on it.  It is made from Aspenwood and\nis beautifully carved with small elves as main issue of sculpture.",
+      "keywords": "door aspen wood",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7905
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/79.wld"
+}

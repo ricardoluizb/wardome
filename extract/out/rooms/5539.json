@@ -1,0 +1,29 @@
+{
+  "id": 5539,
+  "zone_id": 54,
+  "name": "The Filthy Unicorn",
+  "description": "A draft chills your bones as you enter, though you see no open\nwindow or door.  Hooded figures lurk around in the shadows and speak\nin low voices.  A flash of steel lets you know that weapons are in\ngreat abundance in this crowd.  As you quickly check your beltpouch\nyou notice a small staircase leading down.",
+  "header_raw": "54 deh 0",
+  "flags_text": "deh",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5532
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5546
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

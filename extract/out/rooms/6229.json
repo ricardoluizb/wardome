@@ -1,0 +1,29 @@
+{
+  "id": 6229,
+  "zone_id": 62,
+  "name": "A Forest Trail",
+  "description": "A north-south trail leads through the woods here, with \na small side trail leading off to the east.  The trees \nprovide adequate cover from the sky, but through a few \nholes in the foilage you spot the magical barrier above \nyou, keeping you from escaping by flight.  You feel \nslightly captured.",
+  "header_raw": "62 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6228
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6230
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

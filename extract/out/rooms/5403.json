@@ -1,0 +1,29 @@
+{
+  "id": 5403,
+  "zone_id": 54,
+  "name": "The Medina",
+  "description": "You stand on the Medina, on the larger open areas in New Thalos.\nPeople walk to and fro carrying on their day to day business.  The\nCommon Square of the people opens up to the south and the Medina\ncontinues north.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see Medina.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5404
+    },
+    {
+      "dir": 2,
+      "description": "You see the Common Square.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5410
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

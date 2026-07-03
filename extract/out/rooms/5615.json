@@ -1,0 +1,37 @@
+{
+  "id": 5615,
+  "zone_id": 54,
+  "name": "A Rocky Trail",
+  "description": "The faint sound of a flowing river reaches your ears from the south and \nthrough the trees you can see water.  The path you are on continues north\nand east from here.",
+  "header_raw": "54 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5614
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5630
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5645
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

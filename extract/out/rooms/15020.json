@@ -18,12 +18,20 @@
     {
       "dir": 1,
       "description": "The door is quite small and unobtrusive.",
-      "keywords": "door~ 1 -1 15021 D2 The passage continues to the south.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 15021
+    },
+    {
+      "dir": 2,
+      "description": "The passage continues to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15015
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/150.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/150.wld"
 }

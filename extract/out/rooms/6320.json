@@ -1,0 +1,29 @@
+{
+  "id": 6320,
+  "zone_id": 63,
+  "name": "The Webless Path",
+  "description": "Strange.  No webbing here.  In fact, no sounds whatsoever.  \nThe path continues northward, where you find that you may have\nto tightrope your way across a ravine.",
+  "header_raw": "63 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6309
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6321
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/63.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 5486,
+  "zone_id": 54,
+  "name": "River Ishtar",
+  "description": "This part of the river seems alive with activity.  Boats moored to\nthe docks near the ramp north of here make navigation a bit more trying.\nAs the river flows eastward you can see the southern bridge in that\ndirection.",
+  "header_raw": "54 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5443
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5485
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5487
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

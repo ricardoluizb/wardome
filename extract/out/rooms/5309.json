@@ -34,10 +34,18 @@
     {
       "dir": 3,
       "description": "You see a large stone door, covered in sigils and hieroglyphs.",
-      "keywords": "door stone~ 1 -1 5310 D4 A small rickety ladder leads up.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door stone",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5310
+    },
+    {
+      "dir": 4,
+      "description": "A small rickety ladder leads up.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5308
     }
   ],
   "extra_descriptions": [
@@ -50,5 +58,5 @@
       "description": "You cannot understand the strange glyphs that cover the door, but most of\nthem seem to depict scenes of fire and massive creatures of apparently\ntremendous strength.  You have a feeling that the glyphs are serving as a\nwarning."
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/53.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/53.wld"
 }

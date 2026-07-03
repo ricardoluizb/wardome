@@ -1,0 +1,29 @@
+{
+  "id": 5525,
+  "zone_id": 54,
+  "name": "The Entrance To The Mages' Tower",
+  "description": "The entrance hall is a small poor lighted room.  It would seem its\nonly purpose is to house the powerful sorcerer standing here guarding \nthe entrance.",
+  "header_raw": "54 deh 0",
+  "flags_text": "deh",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5518
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5431
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

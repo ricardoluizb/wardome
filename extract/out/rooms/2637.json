@@ -1,0 +1,45 @@
+{
+  "id": 2637,
+  "zone_id": 25,
+  "name": "The Entrance To The Library",
+  "description": "You are in the entrance to the great library of magic.  A giant desk is\nhere, covered with books parchments and scrolls.  Long shelves loaded with\nrow upon row of books stretch out in every direction as far as the eye can\nsee.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "All you can see are books.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2639
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door wooden",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2636
+    },
+    {
+      "dir": 2,
+      "description": "All you can see are books.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2640
+    },
+    {
+      "dir": 3,
+      "description": "All you can see are books.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2638
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
+}

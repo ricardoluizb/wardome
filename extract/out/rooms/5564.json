@@ -1,0 +1,26 @@
+{
+  "id": 5564,
+  "zone_id": 54,
+  "name": "The Tanners' Guild",
+  "description": "You first notice the pungent smell of freshly tanned leather goods as\nyou enter this strange place.  The next thing that grabs your attention\nis the many colors that these people have transformed the beautiful\nskins into.  The people are streaching the leather and cutting it into\nthe shapes they need.\nYou notice a small message on a wall.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5462
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "message",
+      "description": "The message appears to read:\n\n                       I hate being a Tanner"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

@@ -10,10 +10,18 @@
     {
       "dir": 1,
       "description": "The door might lead into the judge's private chambers.",
-      "keywords": "door~ 1 12039 12055 D2 The holding cells lie in that direction.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 12039,
+      "to": 12055
+    },
+    {
+      "dir": 2,
+      "description": "The holding cells lie in that direction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12060
     },
     {
       "dir": 3,
@@ -34,5 +42,5 @@
       "description": "The seal of the Emperor is mounted above the judge's stand."
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/120.wld"
 }

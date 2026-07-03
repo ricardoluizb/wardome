@@ -1,0 +1,21 @@
+{
+  "id": 5596,
+  "zone_id": 54,
+  "name": "The Secret Cell",
+  "description": "This room seems more like a lair than a cell.  Small bits of hay lie\nstrewn about the floor covering bones of unkown origin.  Spatterd blood\nand tufts of grey hair lie matted in one corner.  As you turn to leave\nyou notice a pair of small red eyes peering at you from the darkness.",
+  "header_raw": "54 adfj 0",
+  "flags_text": "adfj",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "crack",
+      "door_flag": 2,
+      "key": 5400,
+      "to": 5595
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

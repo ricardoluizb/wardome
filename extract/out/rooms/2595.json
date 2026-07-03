@@ -1,0 +1,29 @@
+{
+  "id": 2595,
+  "zone_id": 25,
+  "name": "The Charm Master's Chamber",
+  "description": "You are in the chambers of the tower's Master of Charm.  Some straw\nand dirt litters the floor here, it looks to have been recently used by\nwild animals.\n   Strange sounds can be heard through the bars to the north.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "cage bars",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2597
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door bronze",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2593
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
+}

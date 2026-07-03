@@ -1,0 +1,29 @@
+{
+  "id": 6228,
+  "zone_id": 62,
+  "name": "A Forest Trail",
+  "description": "This path leads from the main clearing to the west to \nintersect with a north-south path just to the east.  A \nsmall sapling on the north side of the trail has a rope \ntied around one of its top branches; an unused snare \nevidently.  You still feel as if you're being watched in \nthe back of your mind, and adrenaline pumps into your\nbrain like a lightning fuzz.",
+  "header_raw": "62 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6212
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6229
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

@@ -10,20 +10,12 @@
     {
       "dir": 1,
       "description": "You see a rather large oak door bound with iron and securely locked.",
-      "keywords": "door oak~ 2 900 922 S #922 The Royal Chamber~    The treasure room of Minos is dark save for your lantern. Hopefully it has not been looted yet by the many legendary thieves of Midgaard.  A clever looking secret passage leads upward from here.",
-      "door_flag": 9,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 4,
-      "description": "",
-      "keywords": "",
-      "door_flag": 0,
-      "key": -1,
-      "to": 910
+      "keywords": "door oak",
+      "door_flag": 2,
+      "key": 900,
+      "to": 922
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/9.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/9.wld"
 }

@@ -1,0 +1,45 @@
+{
+  "id": 5429,
+  "zone_id": 54,
+  "name": "East Main Street",
+  "description": "As you walk by the mercenary guild a cold chill causes you to shiver\nuncontrollably.  You see some shady looking characters lurking about the\nentrance to this house of 'helpful' people.  Perhaps curiosity gets the\nbest of you, but you wonder what could be going on inside.  To the north\nyou see the open doors of the apothecary shop where one may buy many\nmagical livations.\n   Main Street continues east and west from here.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5523
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5430
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5530
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5428
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

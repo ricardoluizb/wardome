@@ -1,0 +1,29 @@
+{
+  "id": 5647,
+  "zone_id": 54,
+  "name": "River Ishtar",
+  "description": "The river continues its journey eastward flowing through the\nplains.  To the west you see the peaks of large snow capped\nmountains and to the east you see the outline of a large city.",
+  "header_raw": "54 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5648
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5646
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

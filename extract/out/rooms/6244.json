@@ -1,0 +1,29 @@
+{
+  "id": 6244,
+  "zone_id": 62,
+  "name": "A Tunnel",
+  "description": "The floor is slick with the humidity that boils out of\nthe lower reaches of this cave, bringing that most awful \nsmell with it.  Again, you consider saving your nose the \ntrip west and down the tunnel, and heading back east to \nthe cave entrance.",
+  "header_raw": "62 ad 4",
+  "flags_text": "ad",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6243
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6245
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

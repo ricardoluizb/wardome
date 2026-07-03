@@ -1,0 +1,21 @@
+{
+  "id": 5672,
+  "zone_id": 54,
+  "name": "On A Small Ledge",
+  "description": "You clamber out of the water up onto this narrow ledge to see if\nit leads deeper into the mountain.  Unfortunately, the ledge is only\nwide enough to rest upon for a while and there does not appear to be\nany other exits other than rejoining the underground river.",
+  "header_raw": "54 ad 2",
+  "flags_text": "ad",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5669
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

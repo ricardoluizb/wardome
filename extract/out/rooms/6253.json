@@ -1,0 +1,37 @@
+{
+  "id": 6253,
+  "zone_id": 62,
+  "name": "A Cave",
+  "description": "Many sleeping pallets are arranged near the walls, each\nmade of heavy fur padding for comfort and warmth.  Many \nare covered with blood and other, unidentifiable \nsubstances.  Looking around, your only coherent thought \nis, 'Don't want to know... don't want to know...'",
+  "header_raw": "62 d 4",
+  "flags_text": "d",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6250
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6254
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6252
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

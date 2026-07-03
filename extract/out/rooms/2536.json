@@ -1,0 +1,26 @@
+{
+  "id": 2536,
+  "zone_id": 25,
+  "name": "A Guest Bedroom",
+  "description": "You are in a small guest bedroom.  A small cot is in one corner, and a\ndusty mirror on one wall, other than that the room looks quite bare, and\nunused.\n   The only apparent exit leads back west to the hallway.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door wooden",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2531
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "mirror",
+      "description": "Why, someone seems to be looking back at you from the other side!"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
+}

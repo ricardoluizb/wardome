@@ -10,12 +10,20 @@
     {
       "dir": 1,
       "description": "You see a large stone door.",
-      "keywords": "door stone~ 1 -1 5309 D3 You see a small chamber filled with fire.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door stone",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5309
+    },
+    {
+      "dir": 3,
+      "description": "You see a small chamber filled with fire.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5311
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/53.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/53.wld"
 }

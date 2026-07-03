@@ -10,20 +10,36 @@
     {
       "dir": 0,
       "description": "",
-      "keywords": "door~ 2 2515 2579 D1",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 2515,
+      "to": 2579
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door iron",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2578
     },
     {
       "dir": 2,
       "description": "",
-      "keywords": "door~ 1 -1 2582 D4",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2582
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "vent",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2612
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
 }

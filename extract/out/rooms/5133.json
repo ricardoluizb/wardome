@@ -1,0 +1,21 @@
+{
+  "id": 5133,
+  "zone_id": 51,
+  "name": "The Warriors' Barracks",
+  "description": "The room is a complete mess.  None of the beds are made, clothes and other\nitems have been left all about the room.  Well drow warriors never were known\nfor neatness.",
+  "header_raw": "51 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5131
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/51.wld"
+}

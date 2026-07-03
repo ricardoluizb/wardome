@@ -1,0 +1,21 @@
+{
+  "id": 5332,
+  "zone_id": 53,
+  "name": "The Tomb Of Ramses",
+  "description": "You stand in an empty tomb, a cubicle no more then ten feet to a side.",
+  "header_raw": "53 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "That leads back the way you came.",
+      "keywords": "tomb",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5331
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/53.wld"
+}

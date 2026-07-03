@@ -1,0 +1,29 @@
+{
+  "id": 5608,
+  "zone_id": 54,
+  "name": "The Edge Of The Ravine",
+  "description": "The ground drops off below down to a rushing river.  A small rope\nbridge sways to and fro in the wind giving you access to the other\nside.",
+  "header_raw": "54 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5609
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5607
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

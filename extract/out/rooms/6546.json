@@ -1,0 +1,29 @@
+{
+  "id": 6546,
+  "zone_id": 65,
+  "name": "The Mine Maze",
+  "description": "You have entered the maze of the mines.  To the east you can see\nsome inscriptions, and you can exit to the south.",
+  "header_raw": "65 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6547
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 6516,
+      "to": 6544
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/65.wld"
+}

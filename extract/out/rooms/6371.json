@@ -1,0 +1,29 @@
+{
+  "id": 6371,
+  "zone_id": 63,
+  "name": "The Single Spider Line",
+  "description": "A single spider line supports you once more.  As you look across\nthe ether you seen a single shack up ahead with a light in the window.\nYou sense a great evil coming from the north and feel inclined to go\nback on the ethereal web and take your chances there.",
+  "header_raw": "63 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6331
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6372
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/63.wld"
+}

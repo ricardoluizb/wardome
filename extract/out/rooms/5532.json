@@ -1,0 +1,29 @@
+{
+  "id": 5532,
+  "zone_id": 54,
+  "name": "Entrance To The Thieves' Guild",
+  "description": "This small, dark room has a single torch mounted in the wall for\nlight. There is a small wooden bench and a book lying on it.  The\nassassin guarding the entrance from 'outsiders' stands as you walk\nin.",
+  "header_raw": "54 adeh 0",
+  "flags_text": "adeh",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5539
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door secret",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5530
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

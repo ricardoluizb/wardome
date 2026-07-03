@@ -1,0 +1,29 @@
+{
+  "id": 2598,
+  "zone_id": 25,
+  "name": "The End Of The Hallway",
+  "description": "You are at the end of a long north-south hallway.  The walls emit\na faint magical glow which provides enough light to see by.\n   Stairs here lead up to the next level, and the hallway continues\nsouth.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2596
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2599
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 5482,
+  "zone_id": 54,
+  "name": "Underground",
+  "description": "The tunnel continues you west and east.  Hopefully you have a good sense\nof direction.",
+  "header_raw": "54 ad 1",
+  "flags_text": "ad",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5492
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5481
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

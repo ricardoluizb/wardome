@@ -1,0 +1,21 @@
+{
+  "id": 6554,
+  "zone_id": 65,
+  "name": "The Treasury",
+  "description": "This room appears to be the Queen's Treasury.  There is one\nexit, back to the east.",
+  "header_raw": "65 dj 1",
+  "flags_text": "dj",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 6500,
+      "to": 6532
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/65.wld"
+}

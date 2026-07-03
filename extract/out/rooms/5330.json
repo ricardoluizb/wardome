@@ -10,10 +10,18 @@
     {
       "dir": 0,
       "description": "You see a seam in the stone wall.",
-      "keywords": "stone~ 1 -1 5329 D2 You see a small raised dais.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "stone",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5329
+    },
+    {
+      "dir": 2,
+      "description": "You see a small raised dais.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5331
     }
   ],
   "extra_descriptions": [
@@ -22,5 +30,5 @@
       "description": "You don't understand the meaning of these symbols."
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/53.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/53.wld"
 }

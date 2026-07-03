@@ -10,20 +10,12 @@
     {
       "dir": 1,
       "description": "",
-      "keywords": "door wooden~ 1 -1 2516 S #2521 Below The Trapdoor~    You are below the trapdoor.  It is very dark and dusty here, very little light filters through from above.  A faint sound of dripping water can be heard in the distance below.    A rope ladder leads down.",
-      "door_flag": 25,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 4,
-      "description": "",
-      "keywords": "trapdoor~ 1 -1 2517 D5",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door wooden",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2516
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
 }

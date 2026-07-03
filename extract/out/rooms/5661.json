@@ -1,0 +1,29 @@
+{
+  "id": 5661,
+  "zone_id": 54,
+  "name": "On The Dark River",
+  "description": "The river flows down the mountain through a large crevasse to the west\nand up into the mountains east.",
+  "header_raw": "54 a 7",
+  "flags_text": "a",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5660
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5662
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 6523,
+  "zone_id": 65,
+  "name": "The First Barrack Room",
+  "description": "Here is the first of two main rooms of barracks.  The barracks\ncontinue to the south, and you can leave the room to the north.",
+  "header_raw": "65 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 6521
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6524
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/65.wld"
+}

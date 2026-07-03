@@ -1,0 +1,37 @@
+{
+  "id": 5587,
+  "zone_id": 54,
+  "name": "The Harem",
+  "description": "This is the room where the Sultan keeps the beautiful women of his\nPalace.  There are ten girls here lying about the room dressed in silks\nyou can almost see through.  In the western end of the room stands a\nlarge mound of pillows and a beautiful young maiden sits perched atop.\nIt is unfortunate for you that only the Sultan is allowed in here.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door secret",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5588
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 5401,
+      "to": 5582
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5586
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

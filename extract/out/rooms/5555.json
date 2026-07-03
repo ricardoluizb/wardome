@@ -1,0 +1,21 @@
+{
+  "id": 5555,
+  "zone_id": 54,
+  "name": "The Boyer/Fletchers' Guild",
+  "description": "The walls in this room are covered with pegs that hold various types\nof bows.  There are few people working here, lending to the fact that\nthe skills are rare to come by in the general populas.  A few boys are\nbusy in the corner preparing feathers for the fine shafts used in making\narrows.  Some Elven craftsmen are carefuly inspecting each bow as it is\nfinnished.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5460
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 5484,
+  "zone_id": 54,
+  "name": "River Ishtar",
+  "description": "The gentle flow of the river carries you eastward, looking up you\nsee couples strolling along the road.  To the west you see the southern\nbridge and to the east you see the iron grating protecting the city from\nunwanted guests.",
+  "header_raw": "54 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "grating",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5483
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5485
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

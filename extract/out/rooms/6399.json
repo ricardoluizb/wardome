@@ -1,0 +1,21 @@
+{
+  "id": 6399,
+  "zone_id": 63,
+  "name": "The Lair Of Arachnos",
+  "description": "This is the lair of the Empress Spider, Arachnos.  You can\nsee a lavishly adorned rainbow web, her lair allows her to move\nto any universe she wishes by using her magical strands to the\nPrime Material Plane.  Coffers upon coffers of gold, magical\njewels and gems await.  Unfortunately Arachnos is a baggy spider\ntoo, and webs all her treasures to her beautiful silken body.",
+  "header_raw": "63 g 2",
+  "flags_text": "g",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 6300,
+      "to": 6392
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/63.wld"
+}

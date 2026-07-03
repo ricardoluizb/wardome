@@ -1,0 +1,29 @@
+{
+  "id": 5487,
+  "zone_id": 54,
+  "name": "River Ishtar",
+  "description": "The river flows through a huge iron grating from the wilderness\nthrough the city.  Strong guards above await word to open the portal\nshould any citizen require exit or entry.",
+  "header_raw": "54 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5486
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "grating",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5623
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

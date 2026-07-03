@@ -1,0 +1,21 @@
+{
+  "id": 15059,
+  "zone_id": 150,
+  "name": "Ergan's Cell",
+  "description": "This large cell is almost like a living quarters with a cot\nin one corner serving as a bed, a small table built out of the\nwall in another corner.  There is even a rug in the center of\nthe floor to keep some warmth.  It seems that the prisoner kept\nhere is treated quite well, almost too well for a murderer of\nan entire town...",
+  "header_raw": "150 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The cell door to the north leads back to the prison hallway.",
+      "keywords": "door cell",
+      "door_flag": 2,
+      "key": 15017,
+      "to": 15057
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/150.wld"
+}

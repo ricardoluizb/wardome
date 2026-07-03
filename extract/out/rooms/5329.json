@@ -10,10 +10,18 @@
     {
       "dir": 2,
       "description": "You see a seam in the stone wall.",
-      "keywords": "stone~ 1 -1 5330 D4 It is too dark to see up the stairway.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "stone",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5330
+    },
+    {
+      "dir": 4,
+      "description": "It is too dark to see up the stairway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5328
     }
   ],
   "extra_descriptions": [
@@ -22,5 +30,5 @@
       "description": "The hieroglyphics are covered with a thick layer of dust.  You clear the\ndust away with your hand, and find that you cannot comprehend them."
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/53.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/53.wld"
 }

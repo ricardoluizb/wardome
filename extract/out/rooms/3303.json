@@ -10,12 +10,20 @@
     {
       "dir": 1,
       "description": "It is a normal front door to a house.",
-      "keywords": "door front~ 1 -1 3304 D3",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door front",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3304
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3302
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/33.wld"
 }

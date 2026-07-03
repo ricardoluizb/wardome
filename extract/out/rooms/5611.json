@@ -1,0 +1,29 @@
+{
+  "id": 5611,
+  "zone_id": 54,
+  "name": "A Path Through The Mountains",
+  "description": "You are walking through a rock strewn path deep within the mountains\neast of Midgaard.  The going is rough and you constantly twist your\nankle on the small stones lying about.",
+  "header_raw": "54 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5606
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5610
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

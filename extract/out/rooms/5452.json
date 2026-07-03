@@ -1,0 +1,29 @@
+{
+  "id": 5452,
+  "zone_id": 54,
+  "name": "The Casbah",
+  "description": "You walk between the solid stone wall of the city and that of the\nMasons' Guild.  Young children with their nannies walk around enjoying\nthe saftey of the city.\n   The Avenue runs east and west from here.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5453
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5451
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

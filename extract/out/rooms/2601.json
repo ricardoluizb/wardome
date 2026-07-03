@@ -10,12 +10,20 @@
     {
       "dir": 2,
       "description": "",
-      "keywords": "door silver~ 1 -1 2600 D3",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door silver",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2600
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door silver",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2602
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
 }

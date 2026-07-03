@@ -10,12 +10,20 @@
     {
       "dir": 0,
       "description": "It is too dark to tell.",
-      "keywords": "door iron~ 1 -1 7285 D3 It is too dark to tell.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door iron",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7285
+    },
+    {
+      "dir": 3,
+      "description": "It is too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7283
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/72.wld"
 }

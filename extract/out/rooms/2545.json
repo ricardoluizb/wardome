@@ -1,0 +1,37 @@
+{
+  "id": 2545,
+  "zone_id": 25,
+  "name": "A Hallway",
+  "description": "You are in a long hallway leading east and west.  The walls emit a\nfaint magical glow which provides enough light to see by.  Flashes of\nlight can be seen under the doorway to the north.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A flash of blue light momentarily lights up the door's outline.",
+      "keywords": "door oak",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2546
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2543
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2547
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
+}

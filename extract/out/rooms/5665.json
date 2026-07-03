@@ -1,0 +1,29 @@
+{
+  "id": 5665,
+  "zone_id": 54,
+  "name": "On The Dark River",
+  "description": "The river, following a low spot in the foothills, bends and twists.\nTall mountains can be seen off to the south and east.",
+  "header_raw": "54 a 7",
+  "flags_text": "a",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5664
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5666
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

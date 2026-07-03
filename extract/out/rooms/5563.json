@@ -1,0 +1,29 @@
+{
+  "id": 5563,
+  "zone_id": 54,
+  "name": "A Hall",
+  "description": "You are at the eastern end of the southern hallway.  A small servants'\nentrance gives access to the kitchen and the hall continues west.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door small",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5561
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5572
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

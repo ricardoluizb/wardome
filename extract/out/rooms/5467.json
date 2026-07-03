@@ -1,0 +1,37 @@
+{
+  "id": 5467,
+  "zone_id": 54,
+  "name": "Alley",
+  "description": "Even with your light you cannot seem to penetrate the magical cloak of\ndarkness covering this alley.",
+  "header_raw": "54 a 1",
+  "flags_text": "a",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5538
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5468
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5466
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

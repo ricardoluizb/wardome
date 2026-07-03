@@ -1,0 +1,29 @@
+{
+  "id": 5693,
+  "zone_id": 54,
+  "name": "On A Road",
+  "description": "This is the man land route through the land.  Merchants can bring\ntheir goods to the coastline and have them ferried onto ships for\nexport.  Travel by foot west will take you through New Thalos up and\nover the Eastern Mountains and down into Midgaard.",
+  "header_raw": "54 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5694
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5692
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 6266,
+  "zone_id": 62,
+  "name": "The Laboratory",
+  "description": "This is a fairly roomy laboratory that extends to the \nnorth, with cages set on the east side of the room.  A \nmetal table here is empty, although you can see some \noutlines in the dust that suggest books had laid here \nonce.",
+  "header_raw": "62 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6263
+    },
+    {
+      "dir": 1,
+      "description": "A steel cell door.",
+      "keywords": "cell door",
+      "door_flag": 1,
+      "key": 6200,
+      "to": 6267
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6258
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6265
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

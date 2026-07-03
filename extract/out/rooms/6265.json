@@ -1,0 +1,29 @@
+{
+  "id": 6265,
+  "zone_id": 62,
+  "name": "The Laboratory",
+  "description": "This is the southwest corner of the lab.  There's no \nequipment here, merely several pairs of heavy steel \nshackles on the southern wall.  There's also some a few \nsmall bloodstains on the floor beneath the shackles.",
+  "header_raw": "62 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6262
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6266
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

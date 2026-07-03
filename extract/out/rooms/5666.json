@@ -1,0 +1,29 @@
+{
+  "id": 5666,
+  "zone_id": 54,
+  "name": "On The Dark River",
+  "description": "The river makes a wide sweeping turn here into the mountain.",
+  "header_raw": "54 a 7",
+  "flags_text": "a",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5665
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5667
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

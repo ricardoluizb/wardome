@@ -10,10 +10,18 @@
     {
       "dir": 2,
       "description": "Through the peep hole at the top of the small wooden door you can see\nthat there is a small corridor leading past several cells.",
-      "keywords": "door wooden~ 1 15017 15057 D3 A small stairwell built into the western wall of the room leads upwards.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door wooden",
+      "door_flag": 1,
+      "key": 15017,
+      "to": 15057
+    },
+    {
+      "dir": 3,
+      "description": "A small stairwell built into the western wall of the room leads upwards.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15055
     }
   ],
   "extra_descriptions": [
@@ -26,5 +34,5 @@
       "description": "The card on the floor seems to be the Ace of Spades... a bad card to find\nindeed.  What could be the bad luck brought about by this discovery?"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/150.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/150.wld"
 }

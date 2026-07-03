@@ -10,12 +10,21 @@
     {
       "dir": 3,
       "description": "The courtroom lies in that direction.",
-      "keywords": "door~ 1 12039 12050 E tombs books~ The books are very large and filled with Roman legal precedent.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 12039,
+      "to": 12050
     }
   ],
-  "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+  "extra_descriptions": [
+    {
+      "keywords": "tombs books",
+      "description": "The books are very large and filled with Roman legal precedent."
+    },
+    {
+      "keywords": "papers documents",
+      "description": "There are hundreds of pages of petitions, lawsuits and court orders sitting\non the desk.  One particularly interesting case involves a nobleman, a slave\nand a roll of toilet paper."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/120.wld"
 }

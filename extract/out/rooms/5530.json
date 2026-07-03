@@ -1,0 +1,29 @@
+{
+  "id": 5530,
+  "zone_id": 54,
+  "name": "The Mercenaries' Guild",
+  "description": "This guild is frowned upon by most of the population of New Thalos,\nbut the laws of supply and demand are irresistable.  People come here\nwhen they feel unable or are unwilling to fight their own battles.  For\na small fee you may hire a henchman.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5429
+    },
+    {
+      "dir": 1,
+      "description": "You notice some small scratches in the floor next to the eastern wall.",
+      "keywords": "door secret",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5532
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

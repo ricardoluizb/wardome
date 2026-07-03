@@ -1,0 +1,29 @@
+{
+  "id": 5111,
+  "zone_id": 51,
+  "name": "The 1st House",
+  "description": "You stand in the inner courtyard of the 1st and largest house in the city.\nThe room is extremely large and decorative.  Mural and paintings hang on the \nwalls depicting some battles and a spider queen.",
+  "header_raw": "51 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5110
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5112
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/51.wld"
+}

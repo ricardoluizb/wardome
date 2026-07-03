@@ -10,36 +10,12 @@
     {
       "dir": 2,
       "description": "",
-      "keywords": "door~ 1 -1 6420 S #6422 The Stairwell~    This stairwell leads up and down, and there is a big open room to your west.",
-      "door_flag": 64,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 3,
-      "description": "",
-      "keywords": "",
-      "door_flag": 0,
+      "keywords": "door",
+      "door_flag": 1,
       "key": -1,
-      "to": 6423
-    },
-    {
-      "dir": 4,
-      "description": "",
-      "keywords": "",
-      "door_flag": 0,
-      "key": -1,
-      "to": 6415
-    },
-    {
-      "dir": 5,
-      "description": "",
-      "keywords": "",
-      "door_flag": 0,
-      "key": -1,
-      "to": 6425
+      "to": 6420
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/64.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/64.wld"
 }

@@ -1,0 +1,45 @@
+{
+  "id": 5409,
+  "zone_id": 54,
+  "name": "Western Market Square",
+  "description": "This area of the square seems a bit more subdued than the rest.\nYou notice that most of the outland adventurers mill around the\nsouthern end of the market, while the townfolk seem to keep their\nbusiness in the northern end.\n   West Main street begins here and heads for the gate, the market's \nexpanse fills the other directions.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5414
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5406
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5408
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5426
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

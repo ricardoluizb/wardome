@@ -1,0 +1,45 @@
+{
+  "id": 5435,
+  "zone_id": 54,
+  "name": "West Ishtar Drive",
+  "description": "The cobblestone road is moist here, the trail of water heading down to\nthe boat ramp.  Catching your balance as you start to slide on the slick\npavement you grab on to the handrail someone has conveniently placed here.\n   To the north is the Shipwright and Ishtar Drive continues east and west.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5542
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5436
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5443
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5434
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

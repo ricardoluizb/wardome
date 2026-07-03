@@ -1,0 +1,29 @@
+{
+  "id": 6311,
+  "zone_id": 63,
+  "name": "The Tree Trunk",
+  "description": "You feel that you can rest here safely.  There is evidence of\nwebbing here, but it is of a finer quality.",
+  "header_raw": "63 c 2",
+  "flags_text": "c",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6310
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6312
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/63.wld"
+}

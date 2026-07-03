@@ -1,0 +1,34 @@
+{
+  "id": 18645,
+  "zone_id": 186,
+  "name": "The Balcony",
+  "description": "Here you can look out and observe the world around.  Constructed in a\nsemi-circle around the dome of the room, the balcony allows you to look out\nin almost any direction.  Wandering to the south end, you can see the great\ncity of Midgaard off to the south-west.",
+  "header_raw": "186 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The north end of the balcony.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18643
+    },
+    {
+      "dir": 5,
+      "description": "Back down the south staircase.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18647
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "staircase stair stairs",
+      "description": "They are constructed of smooth, beautiful marble."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/186.wld"
+}

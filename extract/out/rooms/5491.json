@@ -1,0 +1,34 @@
+{
+  "id": 5491,
+  "zone_id": 54,
+  "name": "A Dark Passage",
+  "description": "The small passage ends here for no apparent reason.  Looking around\nyou find a small ladder half buried in the dirt.  setting it up you find\na trap door in the ceiling.  The passage continues west from here.",
+  "header_raw": "54 ad 1",
+  "flags_text": "ad",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5490
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "secret",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5570
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "fire",
+      "description": "Moving closer you see this fire is actually FROZEN in place.  The\nflames still radiate heat, but are not actually burning.  Looking\naround you notice a small hole about the size of a piece of charcoal\nat the base of the flames."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

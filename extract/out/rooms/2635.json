@@ -10,52 +10,12 @@
     {
       "dir": 3,
       "description": "",
-      "keywords": "door black~ 1 -1 2634 S #2636 A Corridor~    You have reached an end in the long corridor.  Obsidian walls engraved with ancient runes of power stretch out before you.  The sound of snoring can barely be heard through the door to the west.",
-      "door_flag": 25,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 1,
-      "description": "",
-      "keywords": "",
-      "door_flag": 0,
+      "keywords": "door black",
+      "door_flag": 1,
       "key": -1,
-      "to": 2633
-    },
-    {
-      "dir": 3,
-      "description": "",
-      "keywords": "door wooden~ 1 -1 2637 S #2637 The Entrance To The Library~    You are in the entrance to the great library of magic.  A giant desk is here, covered with books parchments and scrolls.  Long shelves loaded with row upon row of books stretch out in every direction as far as the eye can see.",
-      "door_flag": 25,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 0,
-      "description": "All you can see are books.",
-      "keywords": "",
-      "door_flag": 0,
-      "key": -1,
-      "to": 2639
-    },
-    {
-      "dir": 1,
-      "description": "",
-      "keywords": "door wooden~ 1 -1 2636 D2 All you can see are books.",
-      "door_flag": null,
-      "key": null,
-      "to": null
-    },
-    {
-      "dir": 3,
-      "description": "All you can see are books.",
-      "keywords": "",
-      "door_flag": 0,
-      "key": -1,
-      "to": 2638
+      "to": 2634
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
 }

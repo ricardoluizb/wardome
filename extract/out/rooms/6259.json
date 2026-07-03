@@ -1,0 +1,29 @@
+{
+  "id": 6259,
+  "zone_id": 62,
+  "name": "The Laboratory",
+  "description": "A full fledge operating table is set up here, outfitted\nwith a full set of restraints.  A ledge nearby has a whole\narray of sterile medical equipment on it, covered over by \na clear lid.  There's a drain in the floor with gradients \nleading to it to carry away the blood.  For some reason, \nyou don't imagine this as a voluntary operating theatre...",
+  "header_raw": "62 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6260
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6262
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

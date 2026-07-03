@@ -1,0 +1,29 @@
+{
+  "id": 5545,
+  "zone_id": 54,
+  "name": "The Royal Stables",
+  "description": "Nothing you wouldn't expect is here.  Several stalls hold the\nSultan's choice Arabian Stallions, and each has their own trough\nfor drinking.  A small boy wanders in sometimes with a shovel to\nremove the offensive by-product of such beasts.",
+  "header_raw": "54 d 1",
+  "flags_text": "d",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5549
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5439
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

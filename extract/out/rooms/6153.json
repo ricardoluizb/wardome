@@ -10,12 +10,20 @@
     {
       "dir": 3,
       "description": "The door is carved beautifully.",
-      "keywords": "door~ 1 -1 6152 D5 The steps look appear like they will hold your weight.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 6152
+    },
+    {
+      "dir": 5,
+      "description": "The steps look appear like they will hold your weight.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6154
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/61.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/61.wld"
 }

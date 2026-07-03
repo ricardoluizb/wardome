@@ -1,0 +1,21 @@
+{
+  "id": 5566,
+  "zone_id": 54,
+  "name": "The Shrine Of Allah",
+  "description": "As you step into this room you seem to leave the material plane.\nThe walls here are decorated with beautiful, multi-colored tiles.\nThere is a strange stillness about the air.  You sense the presence\nof an all-mighty being.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5565
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

@@ -18,28 +18,12 @@
     {
       "dir": 5,
       "description": "An ancient trapdoor, grimed with earth and age.",
-      "keywords": "trapdoor trap~ 1 -1 6407 S #6407 A Stairwell~    This small room is the top of a stairwell leading down deep into the tower.  A small trapdoor overhead leaks the light of day around its edges.  To the south is a  wooden door, preserved through the ages by means  unknown.  To the west is a short hall.",
-      "door_flag": 64,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 2,
-      "description": "",
-      "keywords": "door~ 1 -1 6408 D3",
-      "door_flag": null,
-      "key": null,
-      "to": null
-    },
-    {
-      "dir": 4,
-      "description": "An ancient trapdoor, grimed with earth and age.",
-      "keywords": "trapdoor trap~ 1 -1 6406 D5",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "trapdoor trap",
+      "door_flag": 1,
+      "key": -1,
+      "to": 6407
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/64.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/64.wld"
 }

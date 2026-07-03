@@ -1,0 +1,37 @@
+{
+  "id": 7906,
+  "zone_id": 79,
+  "name": "The Kitchen Of Naris",
+  "description": "This must be the place of food and drink.  You can hear the faint noise\nof rats feasting on meat and bread from somewhere undeterminable.  The sound\nmakes you feel the agony of HUNGER.  The only visible exit is south to the\nNorthern end of the hall.",
+  "header_raw": "79 cdj 0",
+  "flags_text": "cdj",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "It is dark in there.  But the sounds from there are unmistakable.  The rats\nare here for your information.",
+      "keywords": "larder wooden cupboard",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7907
+    },
+    {
+      "dir": 1,
+      "description": "You can see the fridge from here.  There are drinks all over the place.",
+      "keywords": "fridge",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7908
+    },
+    {
+      "dir": 2,
+      "description": "You can see the northern end of the hall.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7904
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/79.wld"
+}

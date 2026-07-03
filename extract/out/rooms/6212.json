@@ -1,0 +1,50 @@
+{
+  "id": 6212,
+  "zone_id": 62,
+  "name": "A Clearing In The Forest",
+  "description": "Several trails in the forest intersect here in a small\nclearing.  The dirt seems matted down, and you see many\nfootprints in the soil.   Nearby you hear a bird's chirp\nabruptly cut off in a loud squawk, and then silence.  The\npaths seem well-traveled, the undergrowth matted down and\nthe foilage hacked away to leave plenty of room or a\ntraveller to pass in every cardinal direction, excepting\nthe west path seems fairly overgrown...\n   You feel watched.",
+  "header_raw": "62 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6213
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6211
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6217
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6228
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "foot footprint footprints print prints",
+      "description": "Cloven hoofs, two feet... they walk erect whatever they are."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

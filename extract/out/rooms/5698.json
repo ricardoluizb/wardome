@@ -1,0 +1,29 @@
+{
+  "id": 5698,
+  "zone_id": 54,
+  "name": "Under The dock",
+  "description": "You are swiming underneath the dock.  You can see the four wooden\npylons that support the structure.  The murky water clouds you vision\nas you gaze westward, but you think you can make out an iron grating\nin that direction.",
+  "header_raw": "54 1 7",
+  "flags_text": "1",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "grate",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5699
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5697
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

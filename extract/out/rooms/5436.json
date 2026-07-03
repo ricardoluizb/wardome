@@ -1,0 +1,29 @@
+{
+  "id": 5436,
+  "zone_id": 54,
+  "name": "West Ishtar Drive",
+  "description": "A cool breeze blows up off the river chilling the sweat otherwise\npresent on your skin.  Orders and sometimes curses can be heard from\nthe west in the direction of the warehouses.  The common square opens\nup to the east and Ishtar Drive continues west.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5410
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5435
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

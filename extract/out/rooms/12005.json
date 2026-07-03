@@ -26,49 +26,17 @@
     {
       "dir": 3,
       "description": "The gate has been permanently rusted shut and is further secured by a large \nchain and padlock.  Don't even bother THINKING about trying to open it.",
-      "keywords": "gate~ 2 -1 -1 E gate~ The gate has been permanently rusted shut and is further secured by a large  chain and padlock.  Don't even bother THINKING about trying to open it.",
-      "door_flag": null,
-      "key": null,
-      "to": null
-    },
-    {
-      "dir": 0,
-      "description": "You can see a city gate to the north.",
-      "keywords": "",
-      "door_flag": 0,
+      "keywords": "gate",
+      "door_flag": 2,
       "key": -1,
-      "to": 12005
-    },
-    {
-      "dir": 2,
-      "description": "There is a very secure looking door blocking your progress.",
-      "keywords": "door~ 2 12034 12007 E swords weapons armor halberds whips~ Titus has enough hardware in here to outfit a large army.  Maybe that's why he has a lucrative contract to sell weapons to the Emperor's armies for  outrageous prices.",
-      "door_flag": null,
-      "key": null,
-      "to": null
-    },
-    {
-      "dir": 0,
-      "description": "Through the piles of weapons, you can see a door leading north to the rest of \nthe store.",
-      "keywords": "door~ 2 12034 12006 E weapons swords crates armor weapon sword crate~ There are literally thousands of each.  Take your pick.",
-      "door_flag": null,
-      "key": null,
-      "to": null
-    },
-    {
-      "dir": 5,
-      "description": "Watch your step!",
-      "keywords": "",
-      "door_flag": 0,
-      "key": -1,
-      "to": 12015
+      "to": -1
     }
   ],
   "extra_descriptions": [
     {
-      "keywords": "landscape country",
-      "description": "You can see the entire city of Rome from here.  The buildings housing the \nRoman government are to the east.  To the south east, off in the distance,\nis the massive aqueduct and further in that direction lies the Mountain of\nthe Gods."
+      "keywords": "gate",
+      "description": "The gate has been permanently rusted shut and is further secured by a large \nchain and padlock.  Don't even bother THINKING about trying to open it."
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/120.wld"
 }

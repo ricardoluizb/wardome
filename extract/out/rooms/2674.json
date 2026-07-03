@@ -10,12 +10,20 @@
     {
       "dir": 0,
       "description": "",
-      "keywords": "door obsidian black~ 2 2594 2675 D2",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door obsidian black",
+      "door_flag": 2,
+      "key": 2594,
+      "to": 2675
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door metal grey",
+      "door_flag": 2,
+      "key": 2593,
+      "to": 2673
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
 }

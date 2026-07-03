@@ -10,10 +10,18 @@
     {
       "dir": 0,
       "description": "The wooden door is quite sturdy but does not appear to be equipped with a lock.",
-      "keywords": "door wooden~ 1 -1 6010 D2 The small path leads south through the dense forest.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door wooden",
+      "door_flag": 1,
+      "key": -1,
+      "to": 6010
+    },
+    {
+      "dir": 2,
+      "description": "The small path leads south through the dense forest.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6014
     },
     {
       "dir": 3,
@@ -38,5 +46,5 @@
       "description": "The trees are fairly young, not much more than a hundred years or so."
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/60.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/60.wld"
 }

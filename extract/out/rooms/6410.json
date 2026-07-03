@@ -1,0 +1,21 @@
+{
+  "id": 6410,
+  "zone_id": 64,
+  "name": "A Bathroom",
+  "description": "This is some sort of bathroom, like you've never seen\nbefore...  Water appliances leading from nowhere deliver\nhot and cold running water to basins that drain to...\nwhere?  How strange!",
+  "header_raw": "64 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 6409
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/64.wld"
+}

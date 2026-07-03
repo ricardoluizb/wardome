@@ -10,12 +10,20 @@
     {
       "dir": 2,
       "description": "You look back through the door into the lair.",
-      "keywords": "door wooden~ 1 -1 7202 D3 You see the treasury.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door wooden",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7202
+    },
+    {
+      "dir": 3,
+      "description": "You see the treasury.",
+      "keywords": "door stone",
+      "door_flag": 2,
+      "key": 7205,
+      "to": 7200
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/72.wld"
 }

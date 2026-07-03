@@ -1,0 +1,37 @@
+{
+  "id": 6247,
+  "zone_id": 62,
+  "name": "A Cave",
+  "description": "A single corpse lies here, well away from a pile of \nsimilars to the east.  There are several sharpened stakes \nand rocks sitting about conveniently.  The way the corpse \nis lying, the stone next to its hand... this is a suicide \narea!  You look down upon the orc and comprehend its \nsuffering in its twisted form.  How sad.",
+  "header_raw": "62 d 4",
+  "flags_text": "d",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6248
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6250
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6246
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

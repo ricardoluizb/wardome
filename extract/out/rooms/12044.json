@@ -1,0 +1,37 @@
+{
+  "id": 12044,
+  "zone_id": 120,
+  "name": "The Entrance Foyer",
+  "description": "You have just entered the main government building of the Roman Empire\nand are standing in a massive room with an elaborately decorated domed roof.\nThere are many people here; messengers and senators being the most numerous.\nThere is a large, ornate door to the west, a hallway leads north and marble\nstairs that lead out of the building are to the south.",
+  "header_raw": "120 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a hallway leading north to what looks like a waiting room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12043
+    },
+    {
+      "dir": 3,
+      "description": "There is a large door to the west that blocks your path.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 12036,
+      "to": 12037
+    },
+    {
+      "dir": 5,
+      "description": "You see a stairway leading out of the building.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12045
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/120.wld"
+}

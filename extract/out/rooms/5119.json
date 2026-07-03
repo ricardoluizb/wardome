@@ -1,0 +1,29 @@
+{
+  "id": 5119,
+  "zone_id": 51,
+  "name": "The Entrance To The Temple Of Lloth",
+  "description": "The temple is the largest building in the city.  Even its doors are beyond\nimagination.  Inside of the temple entrance, the walls are made of gold and \nadamantite.",
+  "header_raw": "51 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "gates gate",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5117
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5126
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/51.wld"
+}

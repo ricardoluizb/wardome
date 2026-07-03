@@ -10,10 +10,18 @@
     {
       "dir": 0,
       "description": "A beam of red light seeps through a hole in the door.",
-      "keywords": "door small round~ 1 -1 7281 D4",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door small round",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7281
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "altar secret",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7116
     }
   ],
   "extra_descriptions": [
@@ -26,5 +34,5 @@
       "description": "The triangle is filled with small symbols.  They seem to be a language\nyou have never seen before."
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/72.wld"
 }

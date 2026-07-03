@@ -1,0 +1,29 @@
+{
+  "id": 6552,
+  "zone_id": 65,
+  "name": "The End Of The Maze",
+  "description": "You have solved the maze.  You can tell by the last few moves\nthat there is no way that a dumb worker could have figured that\nout.  It seems pretty desolate here.  To the south is a bleak\nroom.  To the north, you see the maze.  There is a sign above\nthe south exit:\n\nTHOSE WHO ENTER, PLAN ON A TIMELY DEATH.\n(ESPECIALLY IF YOU'RE LOYAL TO THE QUEEN)",
+  "header_raw": "65 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6550
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6553
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/65.wld"
+}

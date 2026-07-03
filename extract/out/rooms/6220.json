@@ -1,0 +1,29 @@
+{
+  "id": 6220,
+  "zone_id": 62,
+  "name": "A Forest Trail",
+  "description": "This is a winding east-west path through the thickening\nforest.  The grass along the path is matted down from \nfrequent traffic.  The path continues to the east, and \nthere seems to be a small clearing to the west.\n   A faint noise makes you stand stock still.  You could \nhave sworn you heard a voice nearby.  Whatever it was, it \nwasn't speaking common.",
+  "header_raw": "62 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6219
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6221
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

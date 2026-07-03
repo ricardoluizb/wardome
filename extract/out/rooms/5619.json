@@ -1,0 +1,29 @@
+{
+  "id": 5619,
+  "zone_id": 54,
+  "name": "The Headwaters Of The River Of Lost Souls",
+  "description": "You are at the headwaters of what is oft called the darkest river\nin the land.  Looking at the swampy water pooling in this rocky valley,\nyou can see why the water downstream is so dark.  The rock walls reach\nup around you blocking all exits except that to the north up onto the\nbanks, and to the south where the river flows.",
+  "header_raw": "54 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "There is a small path leading away from the bank just to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1500
+    },
+    {
+      "dir": 2,
+      "description": "The waters of this swampy pool are flowing slowly towards the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5634
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

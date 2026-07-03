@@ -1,0 +1,37 @@
+{
+  "id": 6262,
+  "zone_id": 62,
+  "name": "The Laboratory",
+  "description": "Some small cages sit here, containing many different \ntypes of rodents.  Leaning down to look better, you are \nvery surprised as a tiny, common garden mouse growls at \nyou and tries to rip your face off through the bars.  \nThere are some bulges on its back, and it doesn't seem to \nbe in a very good mood.  It quivers some, not fully in\ncontrol of its motor functions.  Poor thing.",
+  "header_raw": "62 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6259
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6263
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6265
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

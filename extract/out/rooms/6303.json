@@ -1,0 +1,21 @@
+{
+  "id": 6303,
+  "zone_id": 63,
+  "name": "The Wasp Hive",
+  "description": "Drones scuttle about in this room.  The cells on the walls are\nhoneycomb in shape and many of the maggots and wasps you see have\nfang-marks on their bodies.  You sense some order in their markings.",
+  "header_raw": "63 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6302
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/63.wld"
+}

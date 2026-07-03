@@ -1,0 +1,29 @@
+{
+  "id": 5667,
+  "zone_id": 54,
+  "name": "On The Dark River",
+  "description": "The river flows west from here into the heart of the mountain and\neast towards the foothills once more.",
+  "header_raw": "54 ad 7",
+  "flags_text": "ad",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5666
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5668
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

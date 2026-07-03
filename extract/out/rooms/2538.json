@@ -1,0 +1,37 @@
+{
+  "id": 2538,
+  "zone_id": 25,
+  "name": "A hallway",
+  "description": "You are in a long hallway leading from the south.  The walls emit a\nfaint magical glow which provides enough light to see by.\n   Stairs lead up to the next level and the hallway leads back south.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door wooden",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2539
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2534
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2540
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
+}

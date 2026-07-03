@@ -10,28 +10,12 @@
     {
       "dir": 4,
       "description": "",
-      "keywords": "trapdoor trap~ 1 -1 6414 S #6417 A Hallway~    This hall runs through the tower.  There's more hall to the west, and doors to your north and south.  A door to the east leads back to the stairwell.",
-      "door_flag": 64,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 0,
-      "description": "",
-      "keywords": "door~ 1 -1 6419 D1",
-      "door_flag": null,
-      "key": null,
-      "to": null
-    },
-    {
-      "dir": 2,
-      "description": "",
-      "keywords": "door~ 1 -1 6418 D3",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "trapdoor trap",
+      "door_flag": 1,
+      "key": -1,
+      "to": 6414
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/64.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/64.wld"
 }

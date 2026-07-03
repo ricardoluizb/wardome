@@ -18,28 +18,12 @@
     {
       "dir": 2,
       "description": "",
-      "keywords": "door oak~ 1 -1 2543 S #2545 A Hallway~    You are in a long hallway leading east and west.  The walls emit a faint magical glow which provides enough light to see by.  Flashes of light can be seen under the doorway to the north.",
-      "door_flag": 25,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 0,
-      "description": "A flash of blue light momentarily lights up the door's outline.",
-      "keywords": "door oak~ 1 -1 2546 D1",
-      "door_flag": null,
-      "key": null,
-      "to": null
-    },
-    {
-      "dir": 3,
-      "description": "",
-      "keywords": "",
-      "door_flag": 0,
+      "keywords": "door oak",
+      "door_flag": 1,
       "key": -1,
-      "to": 2547
+      "to": 2543
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
 }

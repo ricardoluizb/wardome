@@ -1,0 +1,45 @@
+{
+  "id": 5460,
+  "zone_id": 54,
+  "name": "Guildsman's Row",
+  "description": "This Row is a hive of activity second only to the actual Market \nSquare itself.  Along this row stands all the guilds of the working\nclass citizens of New Thalos, here all the items sold in the Square\nare made.  Along this particular stretch of the row lie the Boyer/\nFletcher to the west and the Masons' to the east.\n   The Row leads off to the south and East Casbah is to the north.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5451
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5556
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5461
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5555
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

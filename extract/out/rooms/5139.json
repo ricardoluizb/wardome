@@ -1,0 +1,21 @@
+{
+  "id": 5139,
+  "zone_id": 51,
+  "name": "The Clerics' Barracks",
+  "description": "The bed chamber is brightly decorated with spider shaped statues, murals\nand the like.  Large beds line the floor making this a comfortable room to\nlive in.",
+  "header_raw": "51 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5138
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/51.wld"
+}

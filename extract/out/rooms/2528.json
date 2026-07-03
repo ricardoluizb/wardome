@@ -1,0 +1,21 @@
+{
+  "id": 2528,
+  "zone_id": 25,
+  "name": "The Jailor's office",
+  "description": "You are in the Jailor's office.  It is rather messy here.  Judging\nby the sleeping form of the Jailor on duty, you can surmise that very\nfew, if any prisoners survive long enough to spend much time in these\ndank dungeons.\n   The only exit leads back west.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2524
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
+}

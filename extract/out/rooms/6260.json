@@ -1,0 +1,37 @@
+{
+  "id": 6260,
+  "zone_id": 62,
+  "name": "The Laboratory",
+  "description": "Another table is set up will all sorts of alchemical \napparatus here, vials and beakers, distillation equipment \nand et cetera.  The stuff looks expensive, but bulky and \nfragile; not good treasure to cart away with you at all.",
+  "header_raw": "62 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A steel cell door.",
+      "keywords": "door steel",
+      "door_flag": 1,
+      "key": 6200,
+      "to": 6261
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6263
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6259
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

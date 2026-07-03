@@ -10,10 +10,18 @@
     {
       "dir": 2,
       "description": "You can see an opening behind the stone.",
-      "keywords": "stone flat round~ 1 -1 7305 D3",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "stone flat round",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7305
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7303
     }
   ],
   "extra_descriptions": [
@@ -22,5 +30,5 @@
       "description": "The stone looks very uninteresting.  BUT as you are about to turn away, you\nsee a strip of light coming through a small hole.  Conclusion: The stone is\nmoveable."
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/72.wld"
 }

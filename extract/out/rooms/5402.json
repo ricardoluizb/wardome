@@ -1,0 +1,26 @@
+{
+  "id": 5402,
+  "zone_id": 54,
+  "name": "The Dancing Daemon Inn",
+  "description": "A huge circling wet-bar takes up most of the east end of the Daemon.  An\nold mage reclines against the mirror behind the bar absentmindedly pouring\nseveral drinks at once with his refined telekinesis.  The Lokettes, a local\nband, are playing their usual gig on the stage.  The large booths along the\nall are filled with people drinking and having a grand time.  You feel like\npartying here.\nThe only obvious exit is to the north.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the entrance to the Daemon.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5400
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "bar",
+      "description": "The bar looks slightly out of place and you can only assume the powerful\nmagic of the bartender allows it to revolve."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

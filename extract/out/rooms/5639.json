@@ -1,0 +1,37 @@
+{
+  "id": 5639,
+  "zone_id": 54,
+  "name": "A Split In The River",
+  "description": "The waters of the river crash down upon a rock and split into\ntwo bodies of water.  The river you are on continues its southern\ncourse and the new river heads off to the east.  To your west you\nnotice that the rocks have split and crumbled as if torn asunder\nby some massive force.  It looks impossible to traverse.  The River\nof Lost Souls also continues to the north.",
+  "header_raw": "54 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5638
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5620
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5640
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

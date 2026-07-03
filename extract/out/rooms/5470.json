@@ -1,0 +1,29 @@
+{
+  "id": 5470,
+  "zone_id": 54,
+  "name": "Alley",
+  "description": "This is a dead end to the tiny alley.  There is an unusual amount of\nwear apparent on the ground.",
+  "header_raw": "54 a 1",
+  "flags_text": "a",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5469
+    },
+    {
+      "dir": 5,
+      "description": "You see a small iron circle imbedded in the ground.",
+      "keywords": "manhole man hole",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5478
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

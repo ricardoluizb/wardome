@@ -1,0 +1,29 @@
+{
+  "id": 3355,
+  "zone_id": 33,
+  "name": "Main Road",
+  "description": "The main road through Stanneg ends here at a large well\nthat leads deep, deep into the earth.  To the north of the \nwell is a large building, with a large WELCOME mat outside \nits front door.  Westwards you see the a road intersection \nin the center of the tiny village.  Around you is a rocky \nterrain in the middle of this mountain range...not very \nmany places else to go.",
+  "header_raw": "33 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "There is a large set of double doors, made of wood blocking the way.",
+      "keywords": "door doors double",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3356
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3348
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/33.wld"
+}

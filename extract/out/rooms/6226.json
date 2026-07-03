@@ -1,0 +1,21 @@
+{
+  "id": 6226,
+  "zone_id": 62,
+  "name": "A Forest Trail",
+  "description": "The trail bends here, leading away to the north and \neast.  Far off the the distance you hear the squawk of a \nlarge bird-of-prey searching the skies for a meal.  The \nferns around you rustle gently in the light breeze.  \nSomehow, the threatening aura that pervades over the rest\nof the area seems absent here.  You feel almost relaxed...",
+  "header_raw": "62 c 3",
+  "flags_text": "c",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6218
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

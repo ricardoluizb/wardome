@@ -49,6 +49,24 @@
       "zone_id": 120
     },
     {
+      "file": "rooms/12006.json",
+      "id": 12006,
+      "name": "Swords 'R  Us",
+      "zone_id": 120
+    },
+    {
+      "file": "rooms/12007.json",
+      "id": 12007,
+      "name": "The Back Room",
+      "zone_id": 120
+    },
+    {
+      "file": "rooms/12008.json",
+      "id": 12008,
+      "name": "Peanut Heaven",
+      "zone_id": 120
+    },
+    {
       "file": "rooms/12009.json",
       "id": 12009,
       "name": "The Practice And Warm-up Area",
@@ -229,9 +247,27 @@
       "zone_id": 120
     },
     {
+      "file": "rooms/12036.json",
+      "id": 12036,
+      "name": "The Emperor's Private Office",
+      "zone_id": 120
+    },
+    {
       "file": "rooms/12037.json",
       "id": 12037,
       "name": "The Senate Chambers",
+      "zone_id": 120
+    },
+    {
+      "file": "rooms/12038.json",
+      "id": 12038,
+      "name": "The House Of Commons",
+      "zone_id": 120
+    },
+    {
+      "file": "rooms/12039.json",
+      "id": 12039,
+      "name": "Clay Avenue",
       "zone_id": 120
     },
     {
@@ -262,6 +298,12 @@
       "file": "rooms/12043.json",
       "id": 12043,
       "name": "The Waiting Room",
+      "zone_id": 120
+    },
+    {
+      "file": "rooms/12044.json",
+      "id": 12044,
+      "name": "The Entrance Foyer",
       "zone_id": 120
     },
     {
@@ -388,6 +430,12 @@
       "file": "rooms/12064.json",
       "id": 12064,
       "name": "Before Rome",
+      "zone_id": 120
+    },
+    {
+      "file": "rooms/12065.json",
+      "id": 12065,
+      "name": "Clay Road",
       "zone_id": 120
     },
     {
@@ -559,6 +607,12 @@
       "zone_id": 150
     },
     {
+      "file": "rooms/15022.json",
+      "id": 15022,
+      "name": "The End Of The Servants' Corridor",
+      "zone_id": 150
+    },
+    {
       "file": "rooms/15023.json",
       "id": 15023,
       "name": "The Training Room",
@@ -580,6 +634,24 @@
       "file": "rooms/15026.json",
       "id": 15026,
       "name": "The Servants' Quarters",
+      "zone_id": 150
+    },
+    {
+      "file": "rooms/15027.json",
+      "id": 15027,
+      "name": "The Butler's Quarters",
+      "zone_id": 150
+    },
+    {
+      "file": "rooms/15028.json",
+      "id": 15028,
+      "name": "The Guards' Barracks",
+      "zone_id": 150
+    },
+    {
+      "file": "rooms/15029.json",
+      "id": 15029,
+      "name": "The Stairs",
       "zone_id": 150
     },
     {
@@ -637,6 +709,12 @@
       "zone_id": 150
     },
     {
+      "file": "rooms/15038.json",
+      "id": 15038,
+      "name": "The Guest Wing",
+      "zone_id": 150
+    },
+    {
       "file": "rooms/15039.json",
       "id": 15039,
       "name": "The Guest Suite",
@@ -647,6 +725,12 @@
       "id": 1504,
       "name": "A Long Road",
       "zone_id": 15
+    },
+    {
+      "file": "rooms/15040.json",
+      "id": 15040,
+      "name": "The Corridor",
+      "zone_id": 150
     },
     {
       "file": "rooms/15041.json",
@@ -664,6 +748,12 @@
       "file": "rooms/15043.json",
       "id": 15043,
       "name": "A Guest Room",
+      "zone_id": 150
+    },
+    {
+      "file": "rooms/15044.json",
+      "id": 15044,
+      "name": "The Bedroom",
       "zone_id": 150
     },
     {
@@ -757,10 +847,28 @@
       "zone_id": 150
     },
     {
+      "file": "rooms/15059.json",
+      "id": 15059,
+      "name": "Ergan's Cell",
+      "zone_id": 150
+    },
+    {
       "file": "rooms/1506.json",
       "id": 1506,
       "name": "Halls of the Forgotten",
       "zone_id": 15
+    },
+    {
+      "file": "rooms/15060.json",
+      "id": 15060,
+      "name": "A Cell",
+      "zone_id": 150
+    },
+    {
+      "file": "rooms/15061.json",
+      "id": 15061,
+      "name": "An Overgrown Trail",
+      "zone_id": 150
     },
     {
       "file": "rooms/15062.json",
@@ -1075,6 +1183,30 @@
       "zone_id": 186
     },
     {
+      "file": "rooms/18605.json",
+      "id": 18605,
+      "name": "The Dark Pit",
+      "zone_id": 186
+    },
+    {
+      "file": "rooms/18606.json",
+      "id": 18606,
+      "name": "A Small Room",
+      "zone_id": 186
+    },
+    {
+      "file": "rooms/18607.json",
+      "id": 18607,
+      "name": "More Of The Hallway",
+      "zone_id": 186
+    },
+    {
+      "file": "rooms/18608.json",
+      "id": 18608,
+      "name": "An Open Field By The Great Field",
+      "zone_id": 186
+    },
+    {
       "file": "rooms/18609.json",
       "id": 18609,
       "name": "The End Of The Passage",
@@ -1249,9 +1381,21 @@
       "zone_id": 186
     },
     {
+      "file": "rooms/18645.json",
+      "id": 18645,
+      "name": "The Balcony",
+      "zone_id": 186
+    },
+    {
       "file": "rooms/18646.json",
       "id": 18646,
       "name": "A Bright Hallway",
+      "zone_id": 186
+    },
+    {
+      "file": "rooms/18647.json",
+      "id": 18647,
+      "name": "The South Stairs",
       "zone_id": 186
     },
     {
@@ -1333,6 +1477,12 @@
       "zone_id": 25
     },
     {
+      "file": "rooms/2513.json",
+      "id": 2513,
+      "name": "Inside The High Tower Of Sorcery",
+      "zone_id": 25
+    },
+    {
       "file": "rooms/2514.json",
       "id": 2514,
       "name": "Common Room",
@@ -1351,6 +1501,18 @@
       "zone_id": 25
     },
     {
+      "file": "rooms/2517.json",
+      "id": 2517,
+      "name": "A Dark Hallway",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2518.json",
+      "id": 2518,
+      "name": "The Mages' Tavern",
+      "zone_id": 25
+    },
+    {
       "file": "rooms/2519.json",
       "id": 2519,
       "name": "The Magic Shop",
@@ -1360,6 +1522,12 @@
       "file": "rooms/2520.json",
       "id": 2520,
       "name": "The Kitchen",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2521.json",
+      "id": 2521,
+      "name": "Below The Trapdoor",
       "zone_id": 25
     },
     {
@@ -1399,6 +1567,18 @@
       "zone_id": 25
     },
     {
+      "file": "rooms/2528.json",
+      "id": 2528,
+      "name": "The Jailor's office",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2529.json",
+      "id": 2529,
+      "name": "Below The Stagnant Pool",
+      "zone_id": 25
+    },
+    {
       "file": "rooms/2530.json",
       "id": 2530,
       "name": "The Hallway",
@@ -1417,15 +1597,51 @@
       "zone_id": 25
     },
     {
+      "file": "rooms/2533.json",
+      "id": 2533,
+      "name": "A Broom Closet",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2534.json",
+      "id": 2534,
+      "name": "A Hallway",
+      "zone_id": 25
+    },
+    {
       "file": "rooms/2535.json",
       "id": 2535,
       "name": "The Guardians' chamber",
       "zone_id": 25
     },
     {
+      "file": "rooms/2536.json",
+      "id": 2536,
+      "name": "A Guest Bedroom",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2537.json",
+      "id": 2537,
+      "name": "A Guest Bedroom",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2538.json",
+      "id": 2538,
+      "name": "A hallway",
+      "zone_id": 25
+    },
+    {
       "file": "rooms/2539.json",
       "id": 2539,
       "name": "The Burnt Room",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2540.json",
+      "id": 2540,
+      "name": "A Hallway",
       "zone_id": 25
     },
     {
@@ -1453,9 +1669,21 @@
       "zone_id": 25
     },
     {
+      "file": "rooms/2545.json",
+      "id": 2545,
+      "name": "A Hallway",
+      "zone_id": 25
+    },
+    {
       "file": "rooms/2546.json",
       "id": 2546,
       "name": "The Apprentices' Workshop",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2547.json",
+      "id": 2547,
+      "name": "A Bend In The Hallway",
       "zone_id": 25
     },
     {
@@ -1465,9 +1693,45 @@
       "zone_id": 25
     },
     {
+      "file": "rooms/2549.json",
+      "id": 2549,
+      "name": "A Classroom",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2550.json",
+      "id": 2550,
+      "name": "A Hallway",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2551.json",
+      "id": 2551,
+      "name": "A Hallway",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2552.json",
+      "id": 2552,
+      "name": "An Empty Classroom",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2553.json",
+      "id": 2553,
+      "name": "A Bend In The Hallway",
+      "zone_id": 25
+    },
+    {
       "file": "rooms/2554.json",
       "id": 2554,
       "name": "An Empty Classroom",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2555.json",
+      "id": 2555,
+      "name": "A Hallway",
       "zone_id": 25
     },
     {
@@ -1483,15 +1747,33 @@
       "zone_id": 25
     },
     {
+      "file": "rooms/2558.json",
+      "id": 2558,
+      "name": "A Hallway",
+      "zone_id": 25
+    },
+    {
       "file": "rooms/2559.json",
       "id": 2559,
       "name": "The Training Room",
       "zone_id": 25
     },
     {
+      "file": "rooms/2560.json",
+      "id": 2560,
+      "name": "A Bend In The Hallway",
+      "zone_id": 25
+    },
+    {
       "file": "rooms/2561.json",
       "id": 2561,
       "name": "A Dueling Room",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2562.json",
+      "id": 2562,
+      "name": "A Hallway",
       "zone_id": 25
     },
     {
@@ -1507,9 +1789,27 @@
       "zone_id": 25
     },
     {
+      "file": "rooms/2565.json",
+      "id": 2565,
+      "name": "A Bedroom",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2566.json",
+      "id": 2566,
+      "name": "A Hallway",
+      "zone_id": 25
+    },
+    {
       "file": "rooms/2567.json",
       "id": 2567,
       "name": "The Study",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2568.json",
+      "id": 2568,
+      "name": "Below The Stairs",
       "zone_id": 25
     },
     {
@@ -1543,15 +1843,39 @@
       "zone_id": 25
     },
     {
+      "file": "rooms/2574.json",
+      "id": 2574,
+      "name": "A Hallway",
+      "zone_id": 25
+    },
+    {
       "file": "rooms/2575.json",
       "id": 2575,
       "name": "A Store Room",
       "zone_id": 25
     },
     {
+      "file": "rooms/2576.json",
+      "id": 2576,
+      "name": "A Bend In The Hallway",
+      "zone_id": 25
+    },
+    {
       "file": "rooms/2577.json",
       "id": 2577,
       "name": "A Hallway",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2578.json",
+      "id": 2578,
+      "name": "A Hallway",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2579.json",
+      "id": 2579,
+      "name": "A Store Room",
       "zone_id": 25
     },
     {
@@ -1570,6 +1894,12 @@
       "file": "rooms/2582.json",
       "id": 2582,
       "name": "The Master Enchanter's Chamber",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2583.json",
+      "id": 2583,
+      "name": "A Bend In The Hallway",
       "zone_id": 25
     },
     {
@@ -1639,6 +1969,12 @@
       "zone_id": 25
     },
     {
+      "file": "rooms/2595.json",
+      "id": 2595,
+      "name": "The Charm Master's Chamber",
+      "zone_id": 25
+    },
+    {
       "file": "rooms/2596.json",
       "id": 2596,
       "name": "A Hallway",
@@ -1648,6 +1984,12 @@
       "file": "rooms/2597.json",
       "id": 2597,
       "name": "The Animal Pens",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2598.json",
+      "id": 2598,
+      "name": "The End Of The Hallway",
       "zone_id": 25
     },
     {
@@ -1711,6 +2053,18 @@
       "zone_id": 25
     },
     {
+      "file": "rooms/2609.json",
+      "id": 2609,
+      "name": "The Golem Master's Workshop",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2610.json",
+      "id": 2610,
+      "name": "A Store Room",
+      "zone_id": 25
+    },
+    {
       "file": "rooms/2611.json",
       "id": 2611,
       "name": "The Golem Chamber",
@@ -1771,6 +2125,12 @@
       "zone_id": 25
     },
     {
+      "file": "rooms/2621.json",
+      "id": 2621,
+      "name": "A Bend In The Hallway",
+      "zone_id": 25
+    },
+    {
       "file": "rooms/2622.json",
       "id": 2622,
       "name": "A Hallway",
@@ -1779,6 +2139,12 @@
     {
       "file": "rooms/2623.json",
       "id": 2623,
+      "name": "A Dark Room",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2624.json",
+      "id": 2624,
       "name": "A Dark Room",
       "zone_id": 25
     },
@@ -1846,6 +2212,18 @@
       "file": "rooms/2635.json",
       "id": 2635,
       "name": "The Scrying Chamber",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2636.json",
+      "id": 2636,
+      "name": "A Corridor",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2637.json",
+      "id": 2637,
+      "name": "The Entrance To The Library",
       "zone_id": 25
     },
     {
@@ -1939,6 +2317,12 @@
       "zone_id": 25
     },
     {
+      "file": "rooms/2653.json",
+      "id": 2653,
+      "name": "The Antechamber",
+      "zone_id": 25
+    },
+    {
       "file": "rooms/2654.json",
       "id": 2654,
       "name": "The Main Chamber",
@@ -1987,6 +2371,12 @@
       "zone_id": 25
     },
     {
+      "file": "rooms/2662.json",
+      "id": 2662,
+      "name": "It Is Very Dark Here...",
+      "zone_id": 25
+    },
+    {
       "file": "rooms/2663.json",
       "id": 2663,
       "name": "A Torture Chamber",
@@ -2008,6 +2398,12 @@
       "file": "rooms/2666.json",
       "id": 2666,
       "name": "A Bright Hallway",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2667.json",
+      "id": 2667,
+      "name": "An Antechamber",
       "zone_id": 25
     },
     {
@@ -2059,6 +2455,12 @@
       "zone_id": 25
     },
     {
+      "file": "rooms/2677.json",
+      "id": 2677,
+      "name": "The Audience Chamber",
+      "zone_id": 25
+    },
+    {
       "file": "rooms/2678.json",
       "id": 2678,
       "name": "A Dressing Room",
@@ -2074,6 +2476,18 @@
       "file": "rooms/2680.json",
       "id": 2680,
       "name": "The Altar",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2681.json",
+      "id": 2681,
+      "name": "The Treasury",
+      "zone_id": 25
+    },
+    {
+      "file": "rooms/2682.json",
+      "id": 2682,
+      "name": "A Passage",
       "zone_id": 25
     },
     {
@@ -2272,6 +2686,12 @@
       "file": "rooms/3030.json",
       "id": 3030,
       "name": "The Dump",
+      "zone_id": 30
+    },
+    {
+      "file": "rooms/3031.json",
+      "id": 3031,
+      "name": "The Pet Shop",
       "zone_id": 30
     },
     {
@@ -2503,6 +2923,18 @@
       "zone_id": 31
     },
     {
+      "file": "rooms/3111.json",
+      "id": 3111,
+      "name": "Park Road",
+      "zone_id": 31
+    },
+    {
+      "file": "rooms/3112.json",
+      "id": 3112,
+      "name": "The Western Park Entrance",
+      "zone_id": 31
+    },
+    {
       "file": "rooms/3113.json",
       "id": 3113,
       "name": "A Path In The Park",
@@ -2705,6 +3137,12 @@
       "id": 3154,
       "name": "In Front Of The Chapel",
       "zone_id": 31
+    },
+    {
+      "file": "rooms/3155.json",
+      "id": 3155,
+      "name": "Inside The Chapel",
+      "zone_id": 34
     },
     {
       "file": "rooms/3200.json",
@@ -2929,6 +3367,12 @@
       "zone_id": 33
     },
     {
+      "file": "rooms/3331.json",
+      "id": 3331,
+      "name": "A Cave Passageway",
+      "zone_id": 33
+    },
+    {
       "file": "rooms/3332.json",
       "id": 3332,
       "name": "A Cave Passageway",
@@ -3052,6 +3496,24 @@
       "file": "rooms/3352.json",
       "id": 3352,
       "name": "A Private Home",
+      "zone_id": 33
+    },
+    {
+      "file": "rooms/3353.json",
+      "id": 3353,
+      "name": "A Small Road",
+      "zone_id": 33
+    },
+    {
+      "file": "rooms/3354.json",
+      "id": 3354,
+      "name": "A Private Home",
+      "zone_id": 33
+    },
+    {
+      "file": "rooms/3355.json",
+      "id": 3355,
+      "name": "Main Road",
       "zone_id": 33
     },
     {
@@ -3443,6 +3905,408 @@
       "id": 3584,
       "name": "A Dead End Trail",
       "zone_id": 35
+    },
+    {
+      "file": "rooms/3600.json",
+      "id": 3600,
+      "name": "The Great Chessboard Of Midgaard",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3601.json",
+      "id": 3601,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3602.json",
+      "id": 3602,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3603.json",
+      "id": 3603,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3604.json",
+      "id": 3604,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3605.json",
+      "id": 3605,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3606.json",
+      "id": 3606,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3607.json",
+      "id": 3607,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3608.json",
+      "id": 3608,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3609.json",
+      "id": 3609,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3610.json",
+      "id": 3610,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3611.json",
+      "id": 3611,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3612.json",
+      "id": 3612,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3613.json",
+      "id": 3613,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3614.json",
+      "id": 3614,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3615.json",
+      "id": 3615,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3616.json",
+      "id": 3616,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3617.json",
+      "id": 3617,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3618.json",
+      "id": 3618,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3619.json",
+      "id": 3619,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3620.json",
+      "id": 3620,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3621.json",
+      "id": 3621,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3622.json",
+      "id": 3622,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3623.json",
+      "id": 3623,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3624.json",
+      "id": 3624,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3625.json",
+      "id": 3625,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3626.json",
+      "id": 3626,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3627.json",
+      "id": 3627,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3628.json",
+      "id": 3628,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3629.json",
+      "id": 3629,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3630.json",
+      "id": 3630,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3631.json",
+      "id": 3631,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3632.json",
+      "id": 3632,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3633.json",
+      "id": 3633,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3634.json",
+      "id": 3634,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3635.json",
+      "id": 3635,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3636.json",
+      "id": 3636,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3637.json",
+      "id": 3637,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3638.json",
+      "id": 3638,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3639.json",
+      "id": 3639,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3640.json",
+      "id": 3640,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3641.json",
+      "id": 3641,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3642.json",
+      "id": 3642,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3643.json",
+      "id": 3643,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3644.json",
+      "id": 3644,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3645.json",
+      "id": 3645,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3646.json",
+      "id": 3646,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3647.json",
+      "id": 3647,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3648.json",
+      "id": 3648,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3649.json",
+      "id": 3649,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3650.json",
+      "id": 3650,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3651.json",
+      "id": 3651,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3652.json",
+      "id": 3652,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3653.json",
+      "id": 3653,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3654.json",
+      "id": 3654,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3655.json",
+      "id": 3655,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3656.json",
+      "id": 3656,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3657.json",
+      "id": 3657,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3658.json",
+      "id": 3658,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3659.json",
+      "id": 3659,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3660.json",
+      "id": 3660,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3661.json",
+      "id": 3661,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3662.json",
+      "id": 3662,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3663.json",
+      "id": 3663,
+      "name": "A Black Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3664.json",
+      "id": 3664,
+      "name": "A White Square",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3665.json",
+      "id": 3665,
+      "name": "The Black Treasury",
+      "zone_id": 36
+    },
+    {
+      "file": "rooms/3666.json",
+      "id": 3666,
+      "name": "The White Treasury",
+      "zone_id": 36
     },
     {
       "file": "rooms/4000.json",
@@ -3997,6 +4861,12 @@
       "zone_id": 40
     },
     {
+      "file": "rooms/4120.json",
+      "id": 4120,
+      "name": "The Passage",
+      "zone_id": 40
+    },
+    {
       "file": "rooms/4121.json",
       "id": 4121,
       "name": "The Secret Tunnel",
@@ -4451,6 +5321,312 @@
       "id": 5070,
       "name": "A Small Shaft",
       "zone_id": 50
+    },
+    {
+      "file": "rooms/5100.json",
+      "id": 5100,
+      "name": "The City Entrance",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5101.json",
+      "id": 5101,
+      "name": "A City Street",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5102.json",
+      "id": 5102,
+      "name": "A City Street",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5103.json",
+      "id": 5103,
+      "name": "A City Street",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5104.json",
+      "id": 5104,
+      "name": "The 3rd House",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5105.json",
+      "id": 5105,
+      "name": "The Throne Room",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5106.json",
+      "id": 5106,
+      "name": "A City Street",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5107.json",
+      "id": 5107,
+      "name": "A City Street",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5108.json",
+      "id": 5108,
+      "name": "The 2nd House",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5109.json",
+      "id": 5109,
+      "name": "The Throne Room",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5110.json",
+      "id": 5110,
+      "name": "The Main Gate",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5111.json",
+      "id": 5111,
+      "name": "The 1st House",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5112.json",
+      "id": 5112,
+      "name": "The Throne Room",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5113.json",
+      "id": 5113,
+      "name": "The Main Chamber",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5114.json",
+      "id": 5114,
+      "name": "A City Street",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5115.json",
+      "id": 5115,
+      "name": "A City Street",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5116.json",
+      "id": 5116,
+      "name": "The Clerics' Academy",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5117.json",
+      "id": 5117,
+      "name": "A City Street",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5118.json",
+      "id": 5118,
+      "name": "The Warriors' Academy",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5119.json",
+      "id": 5119,
+      "name": "The Entrance To The Temple Of Lloth",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5120.json",
+      "id": 5120,
+      "name": "The Mages' Academy",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5121.json",
+      "id": 5121,
+      "name": "A City Street",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5122.json",
+      "id": 5122,
+      "name": "The Slave Chamber",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5123.json",
+      "id": 5123,
+      "name": "A City Street",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5124.json",
+      "id": 5124,
+      "name": "The 4th House",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5125.json",
+      "id": 5125,
+      "name": "The Throne Room",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5126.json",
+      "id": 5126,
+      "name": "The Entrance Hall",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5127.json",
+      "id": 5127,
+      "name": "A Hallway",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5128.json",
+      "id": 5128,
+      "name": "A Long Hallway",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5129.json",
+      "id": 5129,
+      "name": "A Long Hallway",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5130.json",
+      "id": 5130,
+      "name": "A Long Hallway",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5131.json",
+      "id": 5131,
+      "name": "A Long Hallway",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5132.json",
+      "id": 5132,
+      "name": "A Long Hallway",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5133.json",
+      "id": 5133,
+      "name": "The Warriors' Barracks",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5134.json",
+      "id": 5134,
+      "name": "A Long Hallway",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5135.json",
+      "id": 5135,
+      "name": "The Grand Stairway",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5136.json",
+      "id": 5136,
+      "name": "The Grand Hallway",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5137.json",
+      "id": 5137,
+      "name": "The Mages' Barracks",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5138.json",
+      "id": 5138,
+      "name": "The Grand Hallway",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5139.json",
+      "id": 5139,
+      "name": "The Clerics' Barracks",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5140.json",
+      "id": 5140,
+      "name": "The Grand Stairway",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5141.json",
+      "id": 5141,
+      "name": "The Main Chamber",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5142.json",
+      "id": 5142,
+      "name": "The Eastern Side Of The Main Chamber",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5143.json",
+      "id": 5143,
+      "name": "The Sacrificial Pit",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5144.json",
+      "id": 5144,
+      "name": "The Western Side Of The Main Chamber",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5145.json",
+      "id": 5145,
+      "name": "The Altar",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5146.json",
+      "id": 5146,
+      "name": "The Slave Cells",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5147.json",
+      "id": 5147,
+      "name": "The Slave Pen",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5148.json",
+      "id": 5148,
+      "name": "The Dias",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5149.json",
+      "id": 5149,
+      "name": "The Treasury",
+      "zone_id": 51
+    },
+    {
+      "file": "rooms/5150.json",
+      "id": 5150,
+      "name": "The Weaponsmaster's Chamber",
+      "zone_id": 51
     },
     {
       "file": "rooms/5200.json",
@@ -4951,6 +6127,18 @@
       "zone_id": 53
     },
     {
+      "file": "rooms/5332.json",
+      "id": 5332,
+      "name": "The Tomb Of Ramses",
+      "zone_id": 53
+    },
+    {
+      "file": "rooms/5333.json",
+      "id": 5333,
+      "name": "A Ransacked Tomb",
+      "zone_id": 53
+    },
+    {
       "file": "rooms/5334.json",
       "id": 5334,
       "name": "A Tunnel",
@@ -5011,9 +6199,21 @@
       "zone_id": 53
     },
     {
+      "file": "rooms/5344.json",
+      "id": 5344,
+      "name": "The Tomb Entrance",
+      "zone_id": 53
+    },
+    {
       "file": "rooms/5345.json",
       "id": 5345,
       "name": "The Tomb Of The Pharoahs",
+      "zone_id": 53
+    },
+    {
+      "file": "rooms/5346.json",
+      "id": 5346,
+      "name": "A Rubble-Strewn Hallway",
       "zone_id": 53
     },
     {
@@ -5093,6 +6293,1716 @@
       "id": 5359,
       "name": "Through The Hole In The Sand",
       "zone_id": 53
+    },
+    {
+      "file": "rooms/5400.json",
+      "id": 5400,
+      "name": "The Entrance To The Dancing Daemon Inn",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5401.json",
+      "id": 5401,
+      "name": "The Reception Area",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5402.json",
+      "id": 5402,
+      "name": "The Dancing Daemon Inn",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5403.json",
+      "id": 5403,
+      "name": "The Medina",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5404.json",
+      "id": 5404,
+      "name": "The Medina",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5405.json",
+      "id": 5405,
+      "name": "Southern Market Square",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5406.json",
+      "id": 5406,
+      "name": "The Center Of Market Square",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5407.json",
+      "id": 5407,
+      "name": "Southeastern Market Square",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5408.json",
+      "id": 5408,
+      "name": "Southwestern Market Square",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5409.json",
+      "id": 5409,
+      "name": "Western Market Square",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5410.json",
+      "id": 5410,
+      "name": "The Common Square",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5411.json",
+      "id": 5411,
+      "name": "Outside The Southern Gate Of New Thalos",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5412.json",
+      "id": 5412,
+      "name": "The Southern Bridge",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5413.json",
+      "id": 5413,
+      "name": "Inside The South Gate Of New Thalos",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5414.json",
+      "id": 5414,
+      "name": "Northwestern Market Square",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5415.json",
+      "id": 5415,
+      "name": "Northern Market Square",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5416.json",
+      "id": 5416,
+      "name": "Northeastern Market Square",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5417.json",
+      "id": 5417,
+      "name": "Eastern Market Square",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5418.json",
+      "id": 5418,
+      "name": "Sultan's Walk",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5419.json",
+      "id": 5419,
+      "name": "Sultan's Walk",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5420.json",
+      "id": 5420,
+      "name": "Sultan's Walk",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5421.json",
+      "id": 5421,
+      "name": "Sultan's Walk",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5422.json",
+      "id": 5422,
+      "name": "Inside The Northern Gate Of New Thalos",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5423.json",
+      "id": 5423,
+      "name": "Inside The West Gate Of New Thalos",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5424.json",
+      "id": 5424,
+      "name": "West Main Street",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5425.json",
+      "id": 5425,
+      "name": "West Main Street",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5426.json",
+      "id": 5426,
+      "name": "West Main Street",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5427.json",
+      "id": 5427,
+      "name": "East Main Street",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5428.json",
+      "id": 5428,
+      "name": "East Main Street",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5429.json",
+      "id": 5429,
+      "name": "East Main Street",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5430.json",
+      "id": 5430,
+      "name": "East Main Street",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5431.json",
+      "id": 5431,
+      "name": "Inside the Eastern Gate of New Thalos",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5432.json",
+      "id": 5432,
+      "name": "Cassandra's Catch Of The Day",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5433.json",
+      "id": 5433,
+      "name": "West Ishtar Drive",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5434.json",
+      "id": 5434,
+      "name": "West Ishtar Drive",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5435.json",
+      "id": 5435,
+      "name": "West Ishtar Drive",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5436.json",
+      "id": 5436,
+      "name": "West Ishtar Drive",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5437.json",
+      "id": 5437,
+      "name": "East Ishtar Drive",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5438.json",
+      "id": 5438,
+      "name": "East Ishtar Drive",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5439.json",
+      "id": 5439,
+      "name": "East Ishtar Drive",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5440.json",
+      "id": 5440,
+      "name": "East Ishtar Drive",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5441.json",
+      "id": 5441,
+      "name": "East Ishtar Drive",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5442.json",
+      "id": 5442,
+      "name": "East Ishtar Drive",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5443.json",
+      "id": 5443,
+      "name": "The Boat Ramp",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5444.json",
+      "id": 5444,
+      "name": "West Casbah",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5445.json",
+      "id": 5445,
+      "name": "West Casbah",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5446.json",
+      "id": 5446,
+      "name": "The Casbah",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5447.json",
+      "id": 5447,
+      "name": "The Casbah",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5448.json",
+      "id": 5448,
+      "name": "The Casbah",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5449.json",
+      "id": 5449,
+      "name": "The Casbah",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5450.json",
+      "id": 5450,
+      "name": "The Casbah",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5451.json",
+      "id": 5451,
+      "name": "The Casbah",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5452.json",
+      "id": 5452,
+      "name": "The Casbah",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5453.json",
+      "id": 5453,
+      "name": "The Casbah",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5454.json",
+      "id": 5454,
+      "name": "The Casbah",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5455.json",
+      "id": 5455,
+      "name": "Kali Row",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5456.json",
+      "id": 5456,
+      "name": "Kali Row",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5457.json",
+      "id": 5457,
+      "name": "Underground",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5458.json",
+      "id": 5458,
+      "name": "Alley",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5459.json",
+      "id": 5459,
+      "name": "Alley",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5460.json",
+      "id": 5460,
+      "name": "Guildsman's Row",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5461.json",
+      "id": 5461,
+      "name": "Guildsman's Row",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5462.json",
+      "id": 5462,
+      "name": "Guildsman's Row",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5463.json",
+      "id": 5463,
+      "name": "Guildsman's Row",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5464.json",
+      "id": 5464,
+      "name": "Guildsman's Row",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5465.json",
+      "id": 5465,
+      "name": "Alley",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5466.json",
+      "id": 5466,
+      "name": "Alley",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5467.json",
+      "id": 5467,
+      "name": "Alley",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5468.json",
+      "id": 5468,
+      "name": "Alley",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5469.json",
+      "id": 5469,
+      "name": "Alley",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5470.json",
+      "id": 5470,
+      "name": "Alley",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5471.json",
+      "id": 5471,
+      "name": "Alley",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5472.json",
+      "id": 5472,
+      "name": "Alley",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5473.json",
+      "id": 5473,
+      "name": "Alley",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5474.json",
+      "id": 5474,
+      "name": "Alley",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5475.json",
+      "id": 5475,
+      "name": "Underground",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5476.json",
+      "id": 5476,
+      "name": "Underground",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5477.json",
+      "id": 5477,
+      "name": "Underground",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5478.json",
+      "id": 5478,
+      "name": "Underground",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5479.json",
+      "id": 5479,
+      "name": "Underground",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5480.json",
+      "id": 5480,
+      "name": "Underground",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5481.json",
+      "id": 5481,
+      "name": "Underground",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5482.json",
+      "id": 5482,
+      "name": "Underground",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5483.json",
+      "id": 5483,
+      "name": "River Ishtar",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5484.json",
+      "id": 5484,
+      "name": "River Ishtar",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5485.json",
+      "id": 5485,
+      "name": "River Ishtar",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5486.json",
+      "id": 5486,
+      "name": "River Ishtar",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5487.json",
+      "id": 5487,
+      "name": "River Ishtar",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5488.json",
+      "id": 5488,
+      "name": "A Dark Passage",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5489.json",
+      "id": 5489,
+      "name": "A Dark Passage",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5490.json",
+      "id": 5490,
+      "name": "A Dark Passage",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5491.json",
+      "id": 5491,
+      "name": "A Dark Passage",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5492.json",
+      "id": 5492,
+      "name": "Underground",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5493.json",
+      "id": 5493,
+      "name": "Underground",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5500.json",
+      "id": 5500,
+      "name": "Underground",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5501.json",
+      "id": 5501,
+      "name": "Underground",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5502.json",
+      "id": 5502,
+      "name": "Underground",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5503.json",
+      "id": 5503,
+      "name": "Clerics' Sanctum",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5504.json",
+      "id": 5504,
+      "name": "The Chamber Of The High Priest",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5505.json",
+      "id": 5505,
+      "name": "By The Altar",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5506.json",
+      "id": 5506,
+      "name": "The Weavers' Guild",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5507.json",
+      "id": 5507,
+      "name": "The Craftsmans' Guild",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5508.json",
+      "id": 5508,
+      "name": "Inside The Temple",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5509.json",
+      "id": 5509,
+      "name": "Inside The Temple",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5510.json",
+      "id": 5510,
+      "name": "The Donation Room",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5511.json",
+      "id": 5511,
+      "name": "The Museum Of The Greater Gods",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5512.json",
+      "id": 5512,
+      "name": "The Entrance To The Guild of Clerics",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5513.json",
+      "id": 5513,
+      "name": "The Temple Gates",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5514.json",
+      "id": 5514,
+      "name": "Ahkeem's Stuff",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5515.json",
+      "id": 5515,
+      "name": "Vera's Veggies",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5516.json",
+      "id": 5516,
+      "name": "The Museum Of The Greater Gods",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5517.json",
+      "id": 5517,
+      "name": "The Base Of The Tower",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5518.json",
+      "id": 5518,
+      "name": "The Mages' Courtyard",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5519.json",
+      "id": 5519,
+      "name": "Nectar Of The Gods",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5520.json",
+      "id": 5520,
+      "name": "Temple Square",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5521.json",
+      "id": 5521,
+      "name": "The Bank",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5522.json",
+      "id": 5522,
+      "name": "The Butchery",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5523.json",
+      "id": 5523,
+      "name": "The Witch's Brew",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5524.json",
+      "id": 5524,
+      "name": "Braheem's Magic Shop",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5525.json",
+      "id": 5525,
+      "name": "The Entrance To The Mages' Tower",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5526.json",
+      "id": 5526,
+      "name": "The Entrance To The Guild of Warriors",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5527.json",
+      "id": 5527,
+      "name": "The Repair Shop",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5528.json",
+      "id": 5528,
+      "name": "The General Store",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5529.json",
+      "id": 5529,
+      "name": "Abdul's Armour",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5530.json",
+      "id": 5530,
+      "name": "The Mercenaries' Guild",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5531.json",
+      "id": 5531,
+      "name": "The Mercenaries Guild",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5532.json",
+      "id": 5532,
+      "name": "Entrance To The Thieves' Guild",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5533.json",
+      "id": 5533,
+      "name": "The Whet Stone",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5534.json",
+      "id": 5534,
+      "name": "The Tournament And Practice Yard",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5535.json",
+      "id": 5535,
+      "name": "The Bread Stand",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5536.json",
+      "id": 5536,
+      "name": "Igor's Implements Of Destruction",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5537.json",
+      "id": 5537,
+      "name": "Ye Old Leather Shoppe",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5538.json",
+      "id": 5538,
+      "name": "Smuggler's Inn",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5539.json",
+      "id": 5539,
+      "name": "The Filthy Unicorn",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5540.json",
+      "id": 5540,
+      "name": "The Warehouse",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5541.json",
+      "id": 5541,
+      "name": "The Warehouse",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5542.json",
+      "id": 5542,
+      "name": "The Shipwright",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5543.json",
+      "id": 5543,
+      "name": "The Drafting Room",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5544.json",
+      "id": 5544,
+      "name": "The Forge",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5545.json",
+      "id": 5545,
+      "name": "The Royal Stables",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5546.json",
+      "id": 5546,
+      "name": "The Secret Yard",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5547.json",
+      "id": 5547,
+      "name": "The Dump",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5548.json",
+      "id": 5548,
+      "name": "The Mage's Laboratory",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5549.json",
+      "id": 5549,
+      "name": "The Hay Loft",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5550.json",
+      "id": 5550,
+      "name": "The Grand Entrance",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5551.json",
+      "id": 5551,
+      "name": "The Library",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5552.json",
+      "id": 5552,
+      "name": "The Dance Hall",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5553.json",
+      "id": 5553,
+      "name": "The Jail",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5554.json",
+      "id": 5554,
+      "name": "City Hall",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5555.json",
+      "id": 5555,
+      "name": "The Boyer/Fletchers' Guild",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5556.json",
+      "id": 5556,
+      "name": "The Masons' Guild",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5557.json",
+      "id": 5557,
+      "name": "The Guard House",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5558.json",
+      "id": 5558,
+      "name": "The Palace Gate",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5559.json",
+      "id": 5559,
+      "name": "The Northwest Tower",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5560.json",
+      "id": 5560,
+      "name": "The Guard House",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5561.json",
+      "id": 5561,
+      "name": "The Kitchen",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5562.json",
+      "id": 5562,
+      "name": "The Northeast Tower",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5563.json",
+      "id": 5563,
+      "name": "A Hall",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5564.json",
+      "id": 5564,
+      "name": "The Tanners' Guild",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5565.json",
+      "id": 5565,
+      "name": "A Hall",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5566.json",
+      "id": 5566,
+      "name": "The Shrine Of Allah",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5567.json",
+      "id": 5567,
+      "name": "Outside The Northern Gate Of New Thalos",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5568.json",
+      "id": 5568,
+      "name": "Outside The Eastern Gate Of New Thalos",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5569.json",
+      "id": 5569,
+      "name": "Outside The West Gate Of New Thalos",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5570.json",
+      "id": 5570,
+      "name": "Outside The Wall",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5571.json",
+      "id": 5571,
+      "name": "The Grand Dining Hall",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5572.json",
+      "id": 5572,
+      "name": "A Hall",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5573.json",
+      "id": 5573,
+      "name": "A Hall",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5574.json",
+      "id": 5574,
+      "name": "A Hall",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5575.json",
+      "id": 5575,
+      "name": "The Entrance To The Dungeon",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5576.json",
+      "id": 5576,
+      "name": "A Guest Room",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5577.json",
+      "id": 5577,
+      "name": "A Hall",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5578.json",
+      "id": 5578,
+      "name": "The Sultan's Garden",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5579.json",
+      "id": 5579,
+      "name": "A Hall",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5580.json",
+      "id": 5580,
+      "name": "The Art Exhibit",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5581.json",
+      "id": 5581,
+      "name": "A Guest Room",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5582.json",
+      "id": 5582,
+      "name": "A Hall",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5583.json",
+      "id": 5583,
+      "name": "The Garden Gazebo",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5584.json",
+      "id": 5584,
+      "name": "A Hall",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5585.json",
+      "id": 5585,
+      "name": "The Guard Room",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5586.json",
+      "id": 5586,
+      "name": "The Guard Room",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5587.json",
+      "id": 5587,
+      "name": "The Harem",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5588.json",
+      "id": 5588,
+      "name": "A Small room",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5589.json",
+      "id": 5589,
+      "name": "The Throne Room",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5590.json",
+      "id": 5590,
+      "name": "The Treasure Room",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5591.json",
+      "id": 5591,
+      "name": "The Jailer's Room",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5592.json",
+      "id": 5592,
+      "name": "A Tunnel In The Dungeon",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5593.json",
+      "id": 5593,
+      "name": "A Tunnel In The Dungeon",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5594.json",
+      "id": 5594,
+      "name": "A Tunnel In The Dungeon",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5595.json",
+      "id": 5595,
+      "name": "A Tunnel In The Dungeon",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5596.json",
+      "id": 5596,
+      "name": "The Secret Cell",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5597.json",
+      "id": 5597,
+      "name": "The Cell",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5598.json",
+      "id": 5598,
+      "name": "The Cell",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5599.json",
+      "id": 5599,
+      "name": "The Cell",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5600.json",
+      "id": 5600,
+      "name": "The Cell",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5601.json",
+      "id": 5601,
+      "name": "The Cell",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5602.json",
+      "id": 5602,
+      "name": "The Cell",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5603.json",
+      "id": 5603,
+      "name": "The Cell",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5604.json",
+      "id": 5604,
+      "name": "The Cell",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5605.json",
+      "id": 5605,
+      "name": "A Hall",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5606.json",
+      "id": 5606,
+      "name": "A Path Through The Mountains",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5607.json",
+      "id": 5607,
+      "name": "A Path Through The Mountains",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5608.json",
+      "id": 5608,
+      "name": "The Edge Of The Ravine",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5609.json",
+      "id": 5609,
+      "name": "On A Rope Bridge",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5610.json",
+      "id": 5610,
+      "name": "The Ledge Around The Valley",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5611.json",
+      "id": 5611,
+      "name": "A Path Through The Mountains",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5612.json",
+      "id": 5612,
+      "name": "On The Eastern Edge Of The Mountains",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5613.json",
+      "id": 5613,
+      "name": "In The Foothills",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5614.json",
+      "id": 5614,
+      "name": "In The Foothills",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5615.json",
+      "id": 5615,
+      "name": "A Rocky Trail",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5616.json",
+      "id": 5616,
+      "name": "On A Road",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5617.json",
+      "id": 5617,
+      "name": "On A Road",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5618.json",
+      "id": 5618,
+      "name": "On A Road",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5619.json",
+      "id": 5619,
+      "name": "The Headwaters Of The River Of Lost Souls",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5620.json",
+      "id": 5620,
+      "name": "River Ishtar",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5621.json",
+      "id": 5621,
+      "name": "River Ishtar",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5622.json",
+      "id": 5622,
+      "name": "River Ishtar",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5623.json",
+      "id": 5623,
+      "name": "River Ishtar",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5624.json",
+      "id": 5624,
+      "name": "River Ishtar",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5625.json",
+      "id": 5625,
+      "name": "River Ishtar",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5626.json",
+      "id": 5626,
+      "name": "River Ishtar",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5627.json",
+      "id": 5627,
+      "name": "The Edge Of The Ravine",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5628.json",
+      "id": 5628,
+      "name": "A Path Through The Mountains",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5629.json",
+      "id": 5629,
+      "name": "A Path Through The Mountains",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5630.json",
+      "id": 5630,
+      "name": "On A Road",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5631.json",
+      "id": 5631,
+      "name": "On A Road",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5632.json",
+      "id": 5632,
+      "name": "On A Road",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5633.json",
+      "id": 5633,
+      "name": "On A Road",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5634.json",
+      "id": 5634,
+      "name": "The River Of Lost Souls",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5635.json",
+      "id": 5635,
+      "name": "The River Of Lost Souls",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5636.json",
+      "id": 5636,
+      "name": "The River Of Lost Souls",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5637.json",
+      "id": 5637,
+      "name": "The River Of Lost Souls",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5638.json",
+      "id": 5638,
+      "name": "The River Of Lost Souls",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5639.json",
+      "id": 5639,
+      "name": "A Split In The River",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5640.json",
+      "id": 5640,
+      "name": "The River Of Lost Souls",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5641.json",
+      "id": 5641,
+      "name": "The River Of Lost Souls",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5642.json",
+      "id": 5642,
+      "name": "The River Of Lost Souls",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5643.json",
+      "id": 5643,
+      "name": "The River Of Lost Souls",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5644.json",
+      "id": 5644,
+      "name": "River Ishtar",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5645.json",
+      "id": 5645,
+      "name": "River Ishtar",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5646.json",
+      "id": 5646,
+      "name": "River Ishtar",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5647.json",
+      "id": 5647,
+      "name": "River Ishtar",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5648.json",
+      "id": 5648,
+      "name": "River Ishtar",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5649.json",
+      "id": 5649,
+      "name": "River Ishtar",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5651.json",
+      "id": 5651,
+      "name": "In The Mountains",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5652.json",
+      "id": 5652,
+      "name": "In The Mountains",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5653.json",
+      "id": 5653,
+      "name": "In The Mountains",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5654.json",
+      "id": 5654,
+      "name": "In The Mountains",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5655.json",
+      "id": 5655,
+      "name": "In The Mountains",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5656.json",
+      "id": 5656,
+      "name": "In The Mountains",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5657.json",
+      "id": 5657,
+      "name": "In The Mountains",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5658.json",
+      "id": 5658,
+      "name": "In The Mountains",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5659.json",
+      "id": 5659,
+      "name": "In The Mountains",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5660.json",
+      "id": 5660,
+      "name": "The Headwaters Of The Dark River",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5661.json",
+      "id": 5661,
+      "name": "On The Dark River",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5662.json",
+      "id": 5662,
+      "name": "On The Dark River",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5663.json",
+      "id": 5663,
+      "name": "On The Dark River",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5664.json",
+      "id": 5664,
+      "name": "On The Dark River",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5665.json",
+      "id": 5665,
+      "name": "On The Dark River",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5666.json",
+      "id": 5666,
+      "name": "On The Dark River",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5667.json",
+      "id": 5667,
+      "name": "On The Dark River",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5668.json",
+      "id": 5668,
+      "name": "On The Dark River",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5669.json",
+      "id": 5669,
+      "name": "On The Dark River",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5670.json",
+      "id": 5670,
+      "name": "On The Dark River",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5671.json",
+      "id": 5671,
+      "name": "On The Dark River",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5672.json",
+      "id": 5672,
+      "name": "On A Small Ledge",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5681.json",
+      "id": 5681,
+      "name": "On The Plains",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5682.json",
+      "id": 5682,
+      "name": "On The Plains",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5683.json",
+      "id": 5683,
+      "name": "The Edge Of The Forest",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5684.json",
+      "id": 5684,
+      "name": "River Ishtar",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5685.json",
+      "id": 5685,
+      "name": "The River Delta",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5686.json",
+      "id": 5686,
+      "name": "The Dragon Sea",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5687.json",
+      "id": 5687,
+      "name": "The Dragon Sea",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5688.json",
+      "id": 5688,
+      "name": "The Dragon Sea",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5689.json",
+      "id": 5689,
+      "name": "The Dragon Sea",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5690.json",
+      "id": 5690,
+      "name": "On A Road",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5691.json",
+      "id": 5691,
+      "name": "On A Road",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5692.json",
+      "id": 5692,
+      "name": "On A Road",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5693.json",
+      "id": 5693,
+      "name": "On A Road",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5694.json",
+      "id": 5694,
+      "name": "Near The Shore",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5695.json",
+      "id": 5695,
+      "name": "On A Dock",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5696.json",
+      "id": 5696,
+      "name": "The Dragon Sea",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5697.json",
+      "id": 5697,
+      "name": "The Dragon Sea",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5698.json",
+      "id": 5698,
+      "name": "Under The dock",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/5699.json",
+      "id": 5699,
+      "name": "The Lair Of The Ixitxachitl",
+      "zone_id": 54
     },
     {
       "file": "rooms/6000.json",
@@ -5743,6 +8653,726 @@
       "zone_id": 61
     },
     {
+      "file": "rooms/6200.json",
+      "id": 6200,
+      "name": "In The Forest",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6201.json",
+      "id": 6201,
+      "name": "In The Forest",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6202.json",
+      "id": 6202,
+      "name": "In The Forest",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6203.json",
+      "id": 6203,
+      "name": "In The Forest",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6204.json",
+      "id": 6204,
+      "name": "In The Forest",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6205.json",
+      "id": 6205,
+      "name": "In The Forest",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6206.json",
+      "id": 6206,
+      "name": "In The Forest",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6207.json",
+      "id": 6207,
+      "name": "In The Forest",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6208.json",
+      "id": 6208,
+      "name": "In The Forest",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6209.json",
+      "id": 6209,
+      "name": "The River's Edge",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6210.json",
+      "id": 6210,
+      "name": "Just Passing Through...",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6211.json",
+      "id": 6211,
+      "name": "By The Barrier",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6212.json",
+      "id": 6212,
+      "name": "A Clearing In The Forest",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6213.json",
+      "id": 6213,
+      "name": "A Forest Trail",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6214.json",
+      "id": 6214,
+      "name": "The River's Edge",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6215.json",
+      "id": 6215,
+      "name": "The River's Edge",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6216.json",
+      "id": 6216,
+      "name": "The River's Edge",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6217.json",
+      "id": 6217,
+      "name": "A Forest Trail",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6218.json",
+      "id": 6218,
+      "name": "A Forest Trail",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6219.json",
+      "id": 6219,
+      "name": "A Forest Trail",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6220.json",
+      "id": 6220,
+      "name": "A Forest Trail",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6221.json",
+      "id": 6221,
+      "name": "A Small Clearing",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6222.json",
+      "id": 6222,
+      "name": "A Forest Trail",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6223.json",
+      "id": 6223,
+      "name": "A Forest Trail",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6224.json",
+      "id": 6224,
+      "name": "The Dead End",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6225.json",
+      "id": 6225,
+      "name": "A Forest Trail",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6226.json",
+      "id": 6226,
+      "name": "A Forest Trail",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6227.json",
+      "id": 6227,
+      "name": "A Forest Trail",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6228.json",
+      "id": 6228,
+      "name": "A Forest Trail",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6229.json",
+      "id": 6229,
+      "name": "A Forest Trail",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6230.json",
+      "id": 6230,
+      "name": "A Forest Trail",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6231.json",
+      "id": 6231,
+      "name": "A Clearing",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6232.json",
+      "id": 6232,
+      "name": "A Forest Trail",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6233.json",
+      "id": 6233,
+      "name": "A Forest Trail",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6234.json",
+      "id": 6234,
+      "name": "A Rocky Trail",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6235.json",
+      "id": 6235,
+      "name": "A Forest Trail",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6236.json",
+      "id": 6236,
+      "name": "A Forest Trail",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6237.json",
+      "id": 6237,
+      "name": "A Large Clearing",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6238.json",
+      "id": 6238,
+      "name": "A Forest Trail",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6239.json",
+      "id": 6239,
+      "name": "A River's Edge",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6240.json",
+      "id": 6240,
+      "name": "A River's Edge",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6241.json",
+      "id": 6241,
+      "name": "A Rocky Trail",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6242.json",
+      "id": 6242,
+      "name": "A Cave Entrance",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6243.json",
+      "id": 6243,
+      "name": "A Tunnel Forking",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6244.json",
+      "id": 6244,
+      "name": "A Tunnel",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6245.json",
+      "id": 6245,
+      "name": "A Tunnel",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6246.json",
+      "id": 6246,
+      "name": "A Cave",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6247.json",
+      "id": 6247,
+      "name": "A Cave",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6248.json",
+      "id": 6248,
+      "name": "A Cave",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6249.json",
+      "id": 6249,
+      "name": "A Cave",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6250.json",
+      "id": 6250,
+      "name": "A Cave",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6251.json",
+      "id": 6251,
+      "name": "A Cave",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6252.json",
+      "id": 6252,
+      "name": "A Cave",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6253.json",
+      "id": 6253,
+      "name": "A Cave",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6254.json",
+      "id": 6254,
+      "name": "A Cave",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6255.json",
+      "id": 6255,
+      "name": "A Tunnel",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6256.json",
+      "id": 6256,
+      "name": "A Tunnel",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6257.json",
+      "id": 6257,
+      "name": "A Bedroom",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6258.json",
+      "id": 6258,
+      "name": "A Tunnel",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6259.json",
+      "id": 6259,
+      "name": "The Laboratory",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6260.json",
+      "id": 6260,
+      "name": "The Laboratory",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6261.json",
+      "id": 6261,
+      "name": "A Cage",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6262.json",
+      "id": 6262,
+      "name": "The Laboratory",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6263.json",
+      "id": 6263,
+      "name": "The Laboratory",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6264.json",
+      "id": 6264,
+      "name": "A Cage",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6265.json",
+      "id": 6265,
+      "name": "The Laboratory",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6266.json",
+      "id": 6266,
+      "name": "The Laboratory",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6267.json",
+      "id": 6267,
+      "name": "A Cage",
+      "zone_id": 62
+    },
+    {
+      "file": "rooms/6301.json",
+      "id": 6301,
+      "name": "The Webbed Entrance",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6302.json",
+      "id": 6302,
+      "name": "The Webby Passage",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6303.json",
+      "id": 6303,
+      "name": "The Wasp Hive",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6304.json",
+      "id": 6304,
+      "name": "The Webby Passage",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6305.json",
+      "id": 6305,
+      "name": "Beneath The Busy Path",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6306.json",
+      "id": 6306,
+      "name": "On The Busy Path",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6307.json",
+      "id": 6307,
+      "name": "On The Busy Path",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6308.json",
+      "id": 6308,
+      "name": "On The Busy Path",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6309.json",
+      "id": 6309,
+      "name": "A Split In The Path",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6310.json",
+      "id": 6310,
+      "name": "A Fuzzy Tree Limb",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6311.json",
+      "id": 6311,
+      "name": "The Tree Trunk",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6312.json",
+      "id": 6312,
+      "name": "The Tree Lair Entrance",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6313.json",
+      "id": 6313,
+      "name": "The Wolf Spider Lair",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6320.json",
+      "id": 6320,
+      "name": "The Webless Path",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6321.json",
+      "id": 6321,
+      "name": "Above The Ravine",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6322.json",
+      "id": 6322,
+      "name": "The Rainbow Web",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6323.json",
+      "id": 6323,
+      "name": "The Web Forest",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6324.json",
+      "id": 6324,
+      "name": "The Slave Pit",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6325.json",
+      "id": 6325,
+      "name": "The Tether Path",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6326.json",
+      "id": 6326,
+      "name": "A Road Crossing",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6327.json",
+      "id": 6327,
+      "name": "A Leader Strand",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6328.json",
+      "id": 6328,
+      "name": "The Entrance Of The Ethereal Web",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6330.json",
+      "id": 6330,
+      "name": "The Young Wormkin's Crib",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6331.json",
+      "id": 6331,
+      "name": "The Base Of The Web",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6332.json",
+      "id": 6332,
+      "name": "Through The Trees",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6333.json",
+      "id": 6333,
+      "name": "Above The Clouds",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6334.json",
+      "id": 6334,
+      "name": "On A Cloud",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6335.json",
+      "id": 6335,
+      "name": "A Link In The Ethereal Web",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6336.json",
+      "id": 6336,
+      "name": "The Tenuous Strand",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6340.json",
+      "id": 6340,
+      "name": "The Elder Wormkin's Room",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6341.json",
+      "id": 6341,
+      "name": "Another Tree Limb",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6342.json",
+      "id": 6342,
+      "name": "The Bird Spider's Lair",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6345.json",
+      "id": 6345,
+      "name": "A Link In The Ethereal Web",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6346.json",
+      "id": 6346,
+      "name": "The Quiet Tree Top",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6347.json",
+      "id": 6347,
+      "name": "On The Web",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6350.json",
+      "id": 6350,
+      "name": "The Ki-Rin Chamber",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6355.json",
+      "id": 6355,
+      "name": "A Link In The Ethereal Web",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6360.json",
+      "id": 6360,
+      "name": "Yevaud's Lair",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6365.json",
+      "id": 6365,
+      "name": "A Link In The Ethereal Web",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6366.json",
+      "id": 6366,
+      "name": "The Entrance To The Donjonkeep",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6367.json",
+      "id": 6367,
+      "name": "The Guardian's Room",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6368.json",
+      "id": 6368,
+      "name": "The Realm Of The Hopeless",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6369.json",
+      "id": 6369,
+      "name": "The Realm Of The Hopeless",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6370.json",
+      "id": 6370,
+      "name": "The Donjonkeep",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6371.json",
+      "id": 6371,
+      "name": "The Single Spider Line",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6372.json",
+      "id": 6372,
+      "name": "The Single Spider Line",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6373.json",
+      "id": 6373,
+      "name": "The Hermit's Corner",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6380.json",
+      "id": 6380,
+      "name": "Mahatma's Inescapable Trap",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6390.json",
+      "id": 6390,
+      "name": "The Entrance To The Arachnos' Lair",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6391.json",
+      "id": 6391,
+      "name": "The Sticky Chamber",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6392.json",
+      "id": 6392,
+      "name": "The Great Door",
+      "zone_id": 63
+    },
+    {
+      "file": "rooms/6399.json",
+      "id": 6399,
+      "name": "The Lair Of Arachnos",
+      "zone_id": 63
+    },
+    {
       "file": "rooms/6400.json",
       "id": 6400,
       "name": "A Mountain Trail",
@@ -5785,9 +9415,33 @@
       "zone_id": 64
     },
     {
+      "file": "rooms/6407.json",
+      "id": 6407,
+      "name": "A Stairwell",
+      "zone_id": 64
+    },
+    {
       "file": "rooms/6408.json",
       "id": 6408,
       "name": "A Linen Closet",
+      "zone_id": 64
+    },
+    {
+      "file": "rooms/6409.json",
+      "id": 6409,
+      "name": "A Corridor",
+      "zone_id": 64
+    },
+    {
+      "file": "rooms/6410.json",
+      "id": 6410,
+      "name": "A Bathroom",
+      "zone_id": 64
+    },
+    {
+      "file": "rooms/6411.json",
+      "id": 6411,
+      "name": "The Master Bedroom",
       "zone_id": 64
     },
     {
@@ -5821,15 +9475,39 @@
       "zone_id": 64
     },
     {
+      "file": "rooms/6417.json",
+      "id": 6417,
+      "name": "A Hallway",
+      "zone_id": 64
+    },
+    {
       "file": "rooms/6418.json",
       "id": 6418,
       "name": "A Servant's Room",
       "zone_id": 64
     },
     {
+      "file": "rooms/6419.json",
+      "id": 6419,
+      "name": "A Servant's Room",
+      "zone_id": 64
+    },
+    {
+      "file": "rooms/6420.json",
+      "id": 6420,
+      "name": "A Hallway",
+      "zone_id": 64
+    },
+    {
       "file": "rooms/6421.json",
       "id": 6421,
       "name": "A Servant's Room",
+      "zone_id": 64
+    },
+    {
+      "file": "rooms/6422.json",
+      "id": 6422,
+      "name": "The Stairwell",
       "zone_id": 64
     },
     {
@@ -5842,6 +9520,12 @@
       "file": "rooms/6424.json",
       "id": 6424,
       "name": "The Kitchen Area",
+      "zone_id": 64
+    },
+    {
+      "file": "rooms/6425.json",
+      "id": 6425,
+      "name": "The Stairwell",
       "zone_id": 64
     },
     {
@@ -5905,6 +9589,24 @@
       "zone_id": 64
     },
     {
+      "file": "rooms/6436.json",
+      "id": 6436,
+      "name": "The Doorway",
+      "zone_id": 64
+    },
+    {
+      "file": "rooms/6437.json",
+      "id": 6437,
+      "name": "The Hallway",
+      "zone_id": 64
+    },
+    {
+      "file": "rooms/6438.json",
+      "id": 6438,
+      "name": "The Stairs",
+      "zone_id": 64
+    },
+    {
       "file": "rooms/6439.json",
       "id": 6439,
       "name": "The Stairs",
@@ -5945,6 +9647,312 @@
       "id": 6445,
       "name": "Inside A Pentagram",
       "zone_id": 64
+    },
+    {
+      "file": "rooms/6500.json",
+      "id": 6500,
+      "name": "The Path To The Dwarven Village",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6501.json",
+      "id": 6501,
+      "name": "The Path At The Base Of The Mountain",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6502.json",
+      "id": 6502,
+      "name": "The Path At The Middle Of The Mountain",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6503.json",
+      "id": 6503,
+      "name": "The Top Of The Mountain",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6504.json",
+      "id": 6504,
+      "name": "The Narrow Path",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6505.json",
+      "id": 6505,
+      "name": "The Entrance To The Mountain",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6506.json",
+      "id": 6506,
+      "name": "A Bend In The Narrow Path",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6507.json",
+      "id": 6507,
+      "name": "The Narrow Path",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6508.json",
+      "id": 6508,
+      "name": "The Narrow North-South Path",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6509.json",
+      "id": 6509,
+      "name": "The Door To The Kingdom",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6510.json",
+      "id": 6510,
+      "name": "On The Path To The Castle",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6511.json",
+      "id": 6511,
+      "name": "Still On The Path To The Castle",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6512.json",
+      "id": 6512,
+      "name": "The Door To The Castle",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6513.json",
+      "id": 6513,
+      "name": "Inside The Entrance",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6514.json",
+      "id": 6514,
+      "name": "The Path",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6515.json",
+      "id": 6515,
+      "name": "A Turn In The Road",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6516.json",
+      "id": 6516,
+      "name": "The Hide & Tooth Shop",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6517.json",
+      "id": 6517,
+      "name": "The Path To The North Of The Shop",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6518.json",
+      "id": 6518,
+      "name": "North Of The Shops",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6519.json",
+      "id": 6519,
+      "name": "A Path By The Hospital",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6520.json",
+      "id": 6520,
+      "name": "A Path Next To The Barracks",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6521.json",
+      "id": 6521,
+      "name": "The Entrance To The Barracks",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6522.json",
+      "id": 6522,
+      "name": "A Guard House",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6523.json",
+      "id": 6523,
+      "name": "The First Barrack Room",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6524.json",
+      "id": 6524,
+      "name": "The Back Of The Barracks",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6525.json",
+      "id": 6525,
+      "name": "Inside Of Castle Strangelove",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6526.json",
+      "id": 6526,
+      "name": "A Store Room",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6527.json",
+      "id": 6527,
+      "name": "The Wine Cellar",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6528.json",
+      "id": 6528,
+      "name": "On The Stairs In Castle Strangelove",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6529.json",
+      "id": 6529,
+      "name": "On The Stairs",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6530.json",
+      "id": 6530,
+      "name": "At The Top Of The Stairs",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6531.json",
+      "id": 6531,
+      "name": "The Queen's Waiting Room",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6532.json",
+      "id": 6532,
+      "name": "The Queen's Bedroom",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6533.json",
+      "id": 6533,
+      "name": "The North Side Of Castle Strangelove",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6534.json",
+      "id": 6534,
+      "name": "The Hospital",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6535.json",
+      "id": 6535,
+      "name": "Granite Head's Bakery",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6540.json",
+      "id": 6540,
+      "name": "The Dark Path",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6541.json",
+      "id": 6541,
+      "name": "The Mine Entrance",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6542.json",
+      "id": 6542,
+      "name": "At The Bottom Of The Mineshaft",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6543.json",
+      "id": 6543,
+      "name": "On The Path Inside The Mine",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6544.json",
+      "id": 6544,
+      "name": "The Mine Crossroad",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6545.json",
+      "id": 6545,
+      "name": "The Coal Room",
+      "zone_id": 54
+    },
+    {
+      "file": "rooms/6546.json",
+      "id": 6546,
+      "name": "The Mine Maze",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6547.json",
+      "id": 6547,
+      "name": "At The Maze Inscription",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6548.json",
+      "id": 6548,
+      "name": "The Maze",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6549.json",
+      "id": 6549,
+      "name": "The Maze",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6550.json",
+      "id": 6550,
+      "name": "The Maze",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6551.json",
+      "id": 6551,
+      "name": "The Mining Equipment Room",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6552.json",
+      "id": 6552,
+      "name": "The End Of The Maze",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6553.json",
+      "id": 6553,
+      "name": "The Mazekeeper's Room",
+      "zone_id": 65
+    },
+    {
+      "file": "rooms/6554.json",
+      "id": 6554,
+      "name": "The Treasury",
+      "zone_id": 65
     },
     {
       "file": "rooms/7000.json",
@@ -6187,6 +10195,12 @@
       "zone_id": 70
     },
     {
+      "file": "rooms/7048.json",
+      "id": 7048,
+      "name": "The Sewers",
+      "zone_id": 70
+    },
+    {
       "file": "rooms/7049.json",
       "id": 7049,
       "name": "The Junction",
@@ -6214,6 +10228,12 @@
       "file": "rooms/7053.json",
       "id": 7053,
       "name": "The South End Of The Grand Pipe",
+      "zone_id": 70
+    },
+    {
+      "file": "rooms/7055.json",
+      "id": 7055,
+      "name": "The Edge Of The Water Sewer",
       "zone_id": 70
     },
     {
@@ -6322,6 +10342,12 @@
       "file": "rooms/7102.json",
       "id": 7102,
       "name": "Under The Dark Pit",
+      "zone_id": 71
+    },
+    {
+      "file": "rooms/7103.json",
+      "id": 7103,
+      "name": "A Muddy Bend In The Sewer System",
       "zone_id": 71
     },
     {
@@ -6805,6 +10831,12 @@
       "zone_id": 73
     },
     {
+      "file": "rooms/7317.json",
+      "id": 7317,
+      "name": "The Square Lair",
+      "zone_id": 73
+    },
+    {
       "file": "rooms/7318.json",
       "id": 7318,
       "name": "The Square Lair",
@@ -6853,6 +10885,12 @@
       "zone_id": 73
     },
     {
+      "file": "rooms/7326.json",
+      "id": 7326,
+      "name": "The Crossing",
+      "zone_id": 73
+    },
+    {
       "file": "rooms/7327.json",
       "id": 7327,
       "name": "The L-Shaped Room",
@@ -6892,6 +10930,12 @@
       "file": "rooms/7333.json",
       "id": 7333,
       "name": "The End Of Long Tunnel",
+      "zone_id": 73
+    },
+    {
+      "file": "rooms/7334.json",
+      "id": 7334,
+      "name": "The Stair-Room",
       "zone_id": 73
     },
     {
@@ -6985,9 +11029,39 @@
       "zone_id": 79
     },
     {
+      "file": "rooms/7904.json",
+      "id": 7904,
+      "name": "The Northern End Of The Hall",
+      "zone_id": 79
+    },
+    {
+      "file": "rooms/7905.json",
+      "id": 7905,
+      "name": "The Sitting Room Of Naris",
+      "zone_id": 79
+    },
+    {
+      "file": "rooms/7906.json",
+      "id": 7906,
+      "name": "The Kitchen Of Naris",
+      "zone_id": 79
+    },
+    {
       "file": "rooms/7907.json",
       "id": 7907,
       "name": "The Larder",
+      "zone_id": 79
+    },
+    {
+      "file": "rooms/7908.json",
+      "id": 7908,
+      "name": "The Fridge",
+      "zone_id": 79
+    },
+    {
+      "file": "rooms/7909.json",
+      "id": 7909,
+      "name": "On The Stairs",
       "zone_id": 79
     },
     {
@@ -7012,6 +11086,12 @@
       "file": "rooms/7913.json",
       "id": 7913,
       "name": "The Monster Pen",
+      "zone_id": 79
+    },
+    {
+      "file": "rooms/7914.json",
+      "id": 7914,
+      "name": "On The Huge Chain",
       "zone_id": 79
     },
     {
@@ -7174,6 +11254,12 @@
       "file": "rooms/921.json",
       "id": 921,
       "name": "The Final Trial Of Minos",
+      "zone_id": 9
+    },
+    {
+      "file": "rooms/922.json",
+      "id": 922,
+      "name": "The Royal Chamber",
       "zone_id": 9
     },
     {
@@ -13785,12 +17871,6 @@
       ]
     },
     {
-      "file": "help/BACKSTAB.json",
-      "keywords": [
-        "BACKSTAB"
-      ]
-    },
-    {
       "file": "help/BASH.json",
       "keywords": [
         "BASH"
@@ -13881,12 +17961,6 @@
       "keywords": [
         "DUAL",
         "WIELD"
-      ]
-    },
-    {
-      "file": "help/ESCAPE.json",
-      "keywords": [
-        "ESCAPE"
       ]
     },
     {
@@ -14018,12 +18092,6 @@
       "file": "help/PUNCH.json",
       "keywords": [
         "PUNCH"
-      ]
-    },
-    {
-      "file": "help/RESCUE.json",
-      "keywords": [
-        "RESCUE"
       ]
     },
     {
@@ -14239,7 +18307,7 @@
     {
       "file": "help/backstab.json",
       "keywords": [
-        "backstab"
+        "BACKSTAB"
       ]
     },
     {
@@ -14475,7 +18543,7 @@
     {
       "file": "help/escape.json",
       "keywords": [
-        "escape"
+        "ESCAPE"
       ]
     },
     {
@@ -14782,7 +18850,7 @@
     {
       "file": "help/rescue.json",
       "keywords": [
-        "rescue"
+        "RESCUE"
       ]
     },
     {
@@ -16744,14 +20812,6 @@
           "subcmd": "0"
         },
         {
-          "command": "savealias",
-          "alias": "sava",
-          "minimum_position": "POS_SLEEPING",
-          "function": "do_savealias",
-          "minimum_level": "0",
-          "subcmd": "0"
-        },
-        {
           "command": "score",
           "alias": "sc",
           "minimum_position": "POS_DEAD",
@@ -17696,7 +21756,7 @@
           "subcmd": "0"
         }
       ],
-      "source_path": "/home/d3m4/dev/github/wardome/wdii/src/interpreter.c"
+      "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/src/interpreter.c"
     },
     "spells": {
       "spells": [
@@ -19751,29 +23811,22 @@
         "Shaman",
         "\n"
       ],
-      "source_path": "/home/d3m4/dev/github/wardome/wdii/src/class.c"
+      "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/src/class.c"
     }
   },
   "summary": {
-    "rooms": 1197,
+    "rooms": 1878,
     "zones": 30,
     "shops": 46,
-    "help_entries": 201,
+    "help_entries": 186,
     "tables": {
-      "commands": 351,
+      "commands": 350,
       "spells": 300,
       "skills": 207,
       "classes": 13,
       "constants": 47
     },
-    "errors": [
-      "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/36.wld: list index out of range",
-      "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/51.wld: list index out of range",
-      "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/54.wld: list index out of range",
-      "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/62.wld: list index out of range",
-      "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/63.wld: list index out of range",
-      "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/65.wld: list index out of range"
-    ],
+    "errors": [],
     "objects": 679,
     "mobs": 569
   }

@@ -26,12 +26,20 @@
     {
       "dir": 2,
       "description": "To the south, there is a gate, that leads to the Drawbridge.",
-      "keywords": "gate~ 1 -1 15004 D3 The door is small and uninteresting.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": -1,
+      "to": 15004
+    },
+    {
+      "dir": 3,
+      "description": "The door is small and uninteresting.",
+      "keywords": "door small",
+      "door_flag": 1,
+      "key": -1,
+      "to": 15006
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/150.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/150.wld"
 }

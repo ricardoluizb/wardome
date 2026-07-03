@@ -1,0 +1,29 @@
+{
+  "id": 5456,
+  "zone_id": 54,
+  "name": "Kali Row",
+  "description": "The short Row ends abruptly here at the entrance to the dance\nhall of New Thalos.\n   The entrance to the hall is to the west and the Row continues\nnorthward.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5455
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5552
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 5578,
+  "zone_id": 54,
+  "name": "The Sultan's Garden",
+  "description": "You have entered the Sultan's private gardens.  A light sweat breaks\nout on your skin from the humidity here.  All around you are thousands of\nexotic plants and flowers.  The sweet smell of jasmine and honeysuckle\nreminds you of happier days at home.  Off to the north, through the palm\ntrees, you see a delicate white gazebo.\n   A path leads out into the hallway and west towards the gazebo.\nTo your right stands a gold sign.",
+  "header_raw": "54 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5573
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5583
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "=========================================================================\n=========================================================================\n||                                                                     ||\n||                                                                     ||\n||                                                                     ||\n||                                                                     ||\n||        Welcome to my humble garden.  I have created this            ||\n||        tiny bit of paradise for the pleasure of my people.          ||\n||        Take only memories... Leave only footprints...               ||\n||                                                                     ||\n||                                                                     ||\n||                                                                     ||\n||                                 The Sultan                          ||\n||                                                                     ||\n||                                                                     ||\n||                                                                     ||\n=========================================================================\n========================================================================="
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

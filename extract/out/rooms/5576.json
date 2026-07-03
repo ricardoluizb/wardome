@@ -1,0 +1,30 @@
+{
+  "id": 5576,
+  "zone_id": 54,
+  "name": "A Guest Room",
+  "description": "This is a simple room used for visiting nobles.  A small dresser stands\non the east wall with a mirror hung right above it.  A queen sized bed made\nup in satin sheets stands in the middle of the room against the south\nwall under a window.  The only obvious exit is north back out into the \nhallway.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5577
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "window",
+      "description": "Looking out this window you can see the grounds of the palace that \nseperate the walls of the palace from the building itself."
+    },
+    {
+      "keywords": "mirror",
+      "description": "You see a the fighting image of some armor clad humanoid wielding a weapon."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

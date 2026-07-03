@@ -1,0 +1,37 @@
+{
+  "id": 5437,
+  "zone_id": 54,
+  "name": "East Ishtar Drive",
+  "description": "Loud hammering and the sound of red hot iron cooling in water reaches \nyour ears as you stand in front of the blacksmith.  A small boy runs up\nto you with big eyes and, as you return his gaze, runs off down the road.\n   The common square can be seen to the west and Ishtar Drive continues\nto the east.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5544
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5439
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5410
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

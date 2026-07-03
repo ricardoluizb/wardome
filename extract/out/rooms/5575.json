@@ -1,0 +1,29 @@
+{
+  "id": 5575,
+  "zone_id": 54,
+  "name": "The Entrance To The Dungeon",
+  "description": "You enter a cold damp room with bare roughly hewn stone walls.\nThis room seems very out of place compared to the splendor of the\nrest of the Palace.\n   A large steel grating leads down into darkness, and an iron door\nreturns you to the hallway.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door iron",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5574
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "grating steel",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5591
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

@@ -10,12 +10,21 @@
     {
       "dir": 1,
       "description": "You look back through the opening into the inner lair.",
-      "keywords": "door stone~ 2 7205 7201 E door stone~ This is a heavy black stone door it looks very solid.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door stone",
+      "door_flag": 2,
+      "key": 7205,
+      "to": 7201
     }
   ],
-  "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+  "extra_descriptions": [
+    {
+      "keywords": "door stone",
+      "description": "This is a heavy black stone door it looks very solid."
+    },
+    {
+      "keywords": "writing",
+      "description": "You read the number '666'."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/72.wld"
 }

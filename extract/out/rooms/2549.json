@@ -1,0 +1,21 @@
+{
+  "id": 2549,
+  "zone_id": 25,
+  "name": "A Classroom",
+  "description": "You are in a large classroom filled with bored looking students of the\nart.  The instructor stops in his lecture on the fine uses of magic missile\nat your entry and lunges to attack you.\n   The only apparent exit is back east to the hallway.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door metal",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2548
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
+}

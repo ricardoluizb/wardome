@@ -1,0 +1,21 @@
+{
+  "id": 5549,
+  "zone_id": 54,
+  "name": "The Hay Loft",
+  "description": "Not as big as the ones you see on farms in the country, this hay loft\nserves as a storage area for the horses in the stables.  The young boy\nyou saw with the shovel seems to have takes up residence on the second\nstory.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5545
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

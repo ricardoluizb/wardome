@@ -18,20 +18,12 @@
     {
       "dir": 3,
       "description": "",
-      "keywords": "door ivory~ 1 -1 2667 S #2667 An Antechamber~    You are in a small antechamber.  It is well lit here, though the source of light cannot be seen.  It is almost as if the room itself exudes a warm glow of goodness.  A larger chamber can be seen to the west, but you do not feel worthy to pass into it.",
-      "door_flag": 25,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 1,
-      "description": "",
-      "keywords": "door ivory~ 1 -1 2666 D3",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door ivory",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2667
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
 }

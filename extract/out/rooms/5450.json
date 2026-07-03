@@ -1,0 +1,29 @@
+{
+  "id": 5450,
+  "zone_id": 54,
+  "name": "The Casbah",
+  "description": "Walking along the cobblestone path you feel secure with the walls of\nthe city towering over you.  You hear the scraping sounds of metal on\nstone and look up to see a large, strong guard looking out to the north.\n   To the east lies the intersection on Guildsman's Row and the northern\ngate is a short walk to the west.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5451
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5449
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

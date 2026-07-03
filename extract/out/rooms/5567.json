@@ -1,0 +1,29 @@
+{
+  "id": 5567,
+  "zone_id": 54,
+  "name": "Outside The Northern Gate Of New Thalos",
+  "description": "You stand outside the gate of New Thalos.  The city lies to the south,\nand wilderness to the north.",
+  "header_raw": "54 c 1",
+  "flags_text": "c",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5681
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": 5401,
+      "to": 5422
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

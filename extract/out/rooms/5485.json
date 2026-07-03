@@ -1,0 +1,37 @@
+{
+  "id": 5485,
+  "zone_id": 54,
+  "name": "River Ishtar",
+  "description": "You hear your voice echo as you float under the bridge above.  The\ncity construction crews have just recently finished the small ladder\ngiving common-folk easy access to the river.  To the west and east you\nsee the river flowing by the city.",
+  "header_raw": "54 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5484
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5486
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5412
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

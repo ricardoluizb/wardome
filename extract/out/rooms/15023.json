@@ -10,12 +10,20 @@
     {
       "dir": 0,
       "description": "The door is large and heavy.",
-      "keywords": "door large heavy~ 1 -1 15028 D1 You see a small passage.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door large heavy",
+      "door_flag": 1,
+      "key": -1,
+      "to": 15028
+    },
+    {
+      "dir": 1,
+      "description": "You see a small passage.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15024
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/150.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/150.wld"
 }

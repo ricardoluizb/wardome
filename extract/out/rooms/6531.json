@@ -1,0 +1,29 @@
+{
+  "id": 6531,
+  "zone_id": 65,
+  "name": "The Queen's Waiting Room",
+  "description": "This is the Queen's waiting room.  Here the men literally\n'wait' for the queen.  You've heard that the queen really\nlikes to get to 'know' her people, in the biblical sense.\n   The Queen's bedroom is to the north, and you can see stairs\nto the west.",
+  "header_raw": "65 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 6532
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6530
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/65.wld"
+}

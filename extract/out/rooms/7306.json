@@ -10,12 +10,20 @@
     {
       "dir": 0,
       "description": "You can see nothing at all.",
-      "keywords": "block grey~ 1 -1 7305 D3",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "block grey",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7305
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7307
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/72.wld"
 }

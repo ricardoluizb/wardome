@@ -1,0 +1,21 @@
+{
+  "id": 5537,
+  "zone_id": 54,
+  "name": "Ye Old Leather Shoppe",
+  "description": "You are standing on a thick oriental rug surrounded on all sides by\nracks of numerous leather goods.  A few women sit on leather cushions\nsewing in some detail work on custom ordered jackets.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5466
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

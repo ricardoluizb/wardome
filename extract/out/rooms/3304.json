@@ -18,12 +18,21 @@
     {
       "dir": 3,
       "description": "It is a normal front door.",
-      "keywords": "door front~ 1 -1 3303 E bed~ Ha!  Lucky, you were always lucky!  Under the pillow is a half-written letter, unaddressed.  The bits of text that aren't smudged, burnt, and smeared tell tale of the smith/mage Gabadiel's masterwork: a sword of unequalled power, and two swords that came before, discarded as 'Not quite what I was working towards'.  Looking around, you notice a distinct lack of any swords.  You think you may have a motive now...",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door front",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3303
     }
   ],
-  "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+  "extra_descriptions": [
+    {
+      "keywords": "bed",
+      "description": "Ha!  Lucky, you were always lucky!  Under the pillow is a\nhalf-written letter, unaddressed.  The bits of text that\naren't smudged, burnt, and smeared tell tale of the smith/mage\nGabadiel's masterwork: a sword of unequalled power, and two\nswords that came before, discarded as 'Not quite what I was\nworking towards'.  Looking around, you notice a distinct lack\nof any swords.  You think you may have a motive now..."
+    },
+    {
+      "keywords": "tracks dust",
+      "description": "Three sets of prints lead out where the back door used to stand."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/33.wld"
 }

@@ -1,0 +1,29 @@
+{
+  "id": 5419,
+  "zone_id": 54,
+  "name": "Sultan's Walk",
+  "description": "This part of the road travels between one of the sturdy walls of\nthe Palace and the Dancing Daemon.  To the east you peer through a\nsmall window into the Daemon, seeing many people dancing and drinking.\nAfter you tend to your other chores you plan on visiting the Daemon.\n   The walk continues north and south from here.",
+  "header_raw": "54 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5420
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5418
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

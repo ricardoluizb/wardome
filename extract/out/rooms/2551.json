@@ -1,0 +1,37 @@
+{
+  "id": 2551,
+  "zone_id": 25,
+  "name": "A Hallway",
+  "description": "You are in a long hallway leading north and south.  The walls emit a\nfaint magical glow which provides enough light to see by.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2550
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2553
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door metal",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2554
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
+}

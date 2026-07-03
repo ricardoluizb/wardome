@@ -1,0 +1,21 @@
+{
+  "id": 5548,
+  "zone_id": 54,
+  "name": "The Mage's Laboratory",
+  "description": "You stand in the top of an old stone tower.  Along the walls hundreds\nof potions, scroll, and wands lie in disaray.  The man you see before you\nsits hunched over a small wooden table with two beakers of bubbling liquid\nin front of him.  He looks up as you enter and smiles broadly.",
+  "header_raw": "54 deh 0",
+  "flags_text": "deh",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5517
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

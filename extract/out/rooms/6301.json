@@ -1,0 +1,29 @@
+{
+  "id": 6301,
+  "zone_id": 63,
+  "name": "The Webbed Entrance",
+  "description": "Sticky, sticky, sticky!  The ground is cluttered with leaves,\ndecayed remains of webbed crickets, beetle, rats, dogs, and even\nhumans.  You begin to wonder about what lies ahead.  The air is\ndamp here, and even the little light that shines through the\ncanopy seems to be absorbed into the webbing.",
+  "header_raw": "63 c 1",
+  "flags_text": "c",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6302
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6132
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/63.wld"
+}

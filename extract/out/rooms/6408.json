@@ -10,44 +10,17 @@
     {
       "dir": 0,
       "description": "",
-      "keywords": "door~ 1 -1 6407 E linen shelf shelves~ White sheets, pillow-cases, etc.  Not really anything that you need, but interesting.",
-      "door_flag": null,
-      "key": null,
-      "to": null
-    },
-    {
-      "dir": 0,
-      "description": "",
-      "keywords": "door~ 1 -1 6411 D1",
-      "door_flag": null,
-      "key": null,
-      "to": null
-    },
-    {
-      "dir": 2,
-      "description": "",
-      "keywords": "door~ 1 -1 6410 S #6410 A Bathroom~    This is some sort of bathroom, like you've never seen before...  Water appliances leading from nowhere deliver hot and cold running water to basins that drain to... where?  How strange!",
-      "door_flag": 64,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 0,
-      "description": "",
-      "keywords": "door~ 1 -1 6409 S #6411 The Master Bedroom~    This is an opulent room, decorated in silks and gold. There is an ebony desk against one wall, cooled lava rock spilling over its surface from the window it once looked out at.  A nice, spacious closet is filled with clothes just cleaned and pressed.",
-      "door_flag": 64,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 2,
-      "description": "",
-      "keywords": "door~ 1 -1 6409 E desk~ The desk is basically uninteresting, as are the papers  on top of it...",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 6407
     }
   ],
-  "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/64.wld"
+  "extra_descriptions": [
+    {
+      "keywords": "linen shelf shelves",
+      "description": "White sheets, pillow-cases, etc.  Not really anything that\nyou need, but interesting."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/64.wld"
 }

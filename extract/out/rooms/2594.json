@@ -10,20 +10,12 @@
     {
       "dir": 3,
       "description": "",
-      "keywords": "door bronze~ 1 -1 2591 S #2595 The Charm Master's Chamber~    You are in the chambers of the tower's Master of Charm.  Some straw and dirt litters the floor here, it looks to have been recently used by wild animals.    Strange sounds can be heard through the bars to the north.",
-      "door_flag": 25,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 0,
-      "description": "",
-      "keywords": "cage bars~ 1 -1 2597 D3",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door bronze",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2591
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
 }

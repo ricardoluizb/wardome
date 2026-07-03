@@ -10,12 +10,20 @@
     {
       "dir": 0,
       "description": "You see the comfortable bedroom of Naris.",
-      "keywords": "doors~ 1 -1 7911 D5 You see the ground on which this castle is set.  Funnily it seems to you that it is no more than clouds.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "doors",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7911
+    },
+    {
+      "dir": 5,
+      "description": "You see the ground on which this castle is set.  Funnily it seems to you\nthat it is no more than clouds.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": -1
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/79.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/79.wld"
 }

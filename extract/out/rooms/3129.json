@@ -26,12 +26,20 @@
     {
       "dir": 2,
       "description": "Through the solid iron bars you see the graveyard.",
-      "keywords": "grate~ 2 3106 3150 D3",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "grate",
+      "door_flag": 2,
+      "key": 3106,
+      "to": 3150
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3128
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/31.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/31.wld"
 }

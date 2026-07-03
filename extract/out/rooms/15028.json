@@ -1,0 +1,26 @@
+{
+  "id": 15028,
+  "zone_id": 150,
+  "name": "The Guards' Barracks",
+  "description": "You are standing in a very large room with bunks all over.  It is\nobvious, that this is where the guards off duty spend most of their\ntime, drinking and gambling or, probably, mostly sleeping.",
+  "header_raw": "150 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The door is large and heavy.",
+      "keywords": "door large heavy",
+      "door_flag": 1,
+      "key": -1,
+      "to": 15023
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "bunk bunks",
+      "description": "They look a bit hard, but you could sleep in them."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/150.wld"
+}

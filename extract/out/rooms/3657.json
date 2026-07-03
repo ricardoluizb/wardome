@@ -1,0 +1,29 @@
+{
+  "id": 3657,
+  "zone_id": 36,
+  "name": "A Black Square",
+  "description": "You are standing on a black marble square.  This is usually the home\nof the White Queen's Rook.",
+  "header_raw": "36 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A white square lies to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3649
+    },
+    {
+      "dir": 1,
+      "description": "A white square lies to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3658
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/36.wld"
+}

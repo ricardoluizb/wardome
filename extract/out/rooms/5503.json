@@ -1,0 +1,29 @@
+{
+  "id": 5503,
+  "zone_id": 54,
+  "name": "Clerics' Sanctum",
+  "description": "You walk down the staircase into the silent inner sanctum.  Here sits\nyour guildmaster ready to assist you when the time is right.  The room\nis completely silent.  The only obvious exit is back up the staircase\ninto the the Nectar.",
+  "header_raw": "54 deh 0",
+  "flags_text": "deh",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You notice the floor at the base of the eastern wall has some faint\nscratches in it.",
+      "keywords": "secret door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5479
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5519
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

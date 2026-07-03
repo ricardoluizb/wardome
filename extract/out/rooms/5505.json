@@ -1,0 +1,26 @@
+{
+  "id": 5505,
+  "zone_id": 54,
+  "name": "By The Altar",
+  "description": "You are by the temple altar in the northern end of Temple of New\nThalos.  A huge altar made of highly polished black onyx is standing\nin front of you.  Behind this altar sits a twelve foot tall statue of\nAkbal, the highest god in all the lands.",
+  "header_raw": "54 deg 0",
+  "flags_text": "deg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5509
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "statue",
+      "description": "Looking up the huge statue you see Akbal calmly gazing out across his\nlands, he seems pleased."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

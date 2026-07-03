@@ -1,0 +1,29 @@
+{
+  "id": 3112,
+  "zone_id": 31,
+  "name": "The Western Park Entrance",
+  "description": "You are standing at the western end of the park.  A small path leads east\ninto the park and going west through the entrance you will reach Park Road.",
+  "header_raw": "31 c 1",
+  "flags_text": "c",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3113
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3111
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/31.wld"
+}

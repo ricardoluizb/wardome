@@ -10,25 +10,12 @@
     {
       "dir": 2,
       "description": "Behind the door, you see the entrance to the Guest Wing.",
-      "keywords": "door~ 1 -1 15038 S #15044 The Bedroom~    This room is dominated by the huge four-poster bed, that stands against the northern wall.  The room is large and cosy, and the bed virtually begs you to lie down in it and sleep.",
-      "door_flag": 150,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 2,
-      "description": "You see the living room of the suite.",
-      "keywords": "",
-      "door_flag": 0,
+      "keywords": "door",
+      "door_flag": 1,
       "key": -1,
-      "to": 15039
+      "to": 15038
     }
   ],
-  "extra_descriptions": [
-    {
-      "keywords": "bed",
-      "description": "Large, comfortable, bolstered... Invites you to sleep in it."
-    }
-  ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/150.wld"
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/150.wld"
 }

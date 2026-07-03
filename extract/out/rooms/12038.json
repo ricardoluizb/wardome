@@ -1,0 +1,21 @@
+{
+  "id": 12038,
+  "zone_id": 120,
+  "name": "The House Of Commons",
+  "description": "This is the lower house of the advising body to the Emperor.  Common men\nfrom all parts of Rome work here to further assist the senators in advising\nthe Emperor on critical matters of state.  The seal of the Emperor is painted\non the far wall.  The only exit is to the north.",
+  "header_raw": "120 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see that the doublehung door leads to the senate chambers.",
+      "keywords": "door doublehung",
+      "door_flag": 1,
+      "key": 12104,
+      "to": 12037
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/120.wld"
+}

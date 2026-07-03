@@ -1,0 +1,29 @@
+{
+  "id": 6227,
+  "zone_id": 62,
+  "name": "A Forest Trail",
+  "description": "A bend in the forest trail allows you to go east and\nnorth here.  To the east you spot a small clearing, while\nnorthwards this trail seems to join a much larger one \nleading through the woods.  On the ground is half of a \nbroken knife handle, made of bone and dried leather,\nuseless now.  You wonder if the owner is watching you \nnow -- something certainly is.",
+  "header_raw": "62 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6232
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6221
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

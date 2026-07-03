@@ -1,0 +1,21 @@
+{
+  "id": 6257,
+  "zone_id": 62,
+  "name": "A Bedroom",
+  "description": "This is a bedroom, catered to someone with a definite \nsense of taste.  There's a chest of drawers made of a \nsolid section of oak tree.  In fact, most of the furniture\nhere has that 'natural look' about it.  The bed is filled \nwith soft down with an ornate table lamp close by.  Nice \nplace.",
+  "header_raw": "62 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A normal, wooden door.",
+      "keywords": "door wooden",
+      "door_flag": 1,
+      "key": -1,
+      "to": 6256
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

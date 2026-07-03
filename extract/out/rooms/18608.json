@@ -1,0 +1,29 @@
+{
+  "id": 18608,
+  "zone_id": 186,
+  "name": "An Open Field By The Great Field",
+  "description": "Finally, you are in an open field... it is so nice to breathe fresh air\nagain!  You can return to that dank, smelly place to the east, or take the\nexit to the north which appears to lead into a large field.",
+  "header_raw": "186 c 0",
+  "flags_text": "c",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "There appears to be a field road to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3061
+    },
+    {
+      "dir": 1,
+      "description": "The end of that darn hallway lies back to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18609
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/186.wld"
+}

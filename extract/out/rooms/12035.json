@@ -26,37 +26,17 @@
     {
       "dir": 2,
       "description": "The gate appears to be closed and locked against intruders.",
-      "keywords": "gate~ 2 -1 -1 E gate~ The gate appears to be closed and locked against intruders.",
-      "door_flag": null,
-      "key": null,
-      "to": null
-    },
-    {
-      "dir": 1,
-      "description": "Through the door, you see a waiting room.",
-      "keywords": "doors french~ 2 12035 12043 D2 The south door leads directly to the senate chambers.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "gate",
+      "door_flag": 2,
+      "key": -1,
+      "to": -1
     }
   ],
   "extra_descriptions": [
     {
-      "keywords": "desk",
-      "description": "The desk is made of solid walnut and gold inlay.  It is exquisitely carved\nwith superior craftsmanship, the likes of which has rarely been seen.  It\nwas probably brought to Rome from Gaul."
-    },
-    {
-      "keywords": "documents decrees paperwork document decree papers paper",
-      "description": "The documents are all written on reed scrolls made in Egypt and have been\nsealed with wax."
-    },
-    {
-      "keywords": "bookcase books",
-      "description": "The books are very old and contain the wisdom of wise men from throughout the\nentire Roman empire.  They appear to be collecting dust."
-    },
-    {
-      "keywords": "flowers plants flower plant",
-      "description": "The plants contribute to a very relaxing atmosphere."
+      "keywords": "gate",
+      "description": "The gate appears to be closed and locked against intruders."
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/120.wld"
 }

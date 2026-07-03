@@ -1,0 +1,42 @@
+{
+  "id": 5579,
+  "zone_id": 54,
+  "name": "A Hall",
+  "description": "The long stretch of hallway continues east and west from here.  The\nsmall red carpet covering the centerline is always underfoot and an\noccasional bench or potted plant lines the wall.\nThere is a door here to the north with a plaque mounted over it.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5580
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5574
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5584
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "plaque door",
+      "description": "The plaque on the door reads:\n\n                   THE ART EXHIBIT\n                         of\n                     NEW THALOS\n\n                          - the management is not responsible for lost items."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

@@ -10,12 +10,20 @@
     {
       "dir": 1,
       "description": "A normal, wooden front door to a normal looking home.  It is\nnothing to write home about.",
-      "keywords": "door front~ 1 -1 3352 D2",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door front",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3352
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3349
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/33.wld"
 }

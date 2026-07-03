@@ -1,0 +1,21 @@
+{
+  "id": 6533,
+  "zone_id": 65,
+  "name": "The North Side Of Castle Strangelove",
+  "description": "You are standing on the north side of Castle Strangelove.  You\nnotice that you are no longer inside the mountain anymore either.\nAlong the southern horizon you see towering mountains.\n   The only exit, however, is back up the ladder into the Queen's\nBedroom.",
+  "header_raw": "65 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6532
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/65.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 6350,
+  "zone_id": 63,
+  "name": "The Ki-Rin Chamber",
+  "description": "A wise ki-rin was entrapped here many years ago.  It is from her\nthat the ruler of this realm draws magical strength.",
+  "header_raw": "63 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6347
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/63.wld"
+}

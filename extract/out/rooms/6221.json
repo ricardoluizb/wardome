@@ -1,0 +1,42 @@
+{
+  "id": 6221,
+  "zone_id": 62,
+  "name": "A Small Clearing",
+  "description": "In the middle of this small clearing in the forest is a\nfairly large rock sticking up out of the ground.  Paths \nlead away to the east, west, and south from here.  The \ntrees above block out the sky fairly effectively, also\nblotting out the glowing energy barrier above your head.",
+  "header_raw": "62 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6220
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6222
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6227
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "rock boulder",
+      "description": "There is dried blood on it."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

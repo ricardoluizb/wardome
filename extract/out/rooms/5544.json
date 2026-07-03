@@ -1,0 +1,21 @@
+{
+  "id": 5544,
+  "zone_id": 54,
+  "name": "The Forge",
+  "description": "Very much like the weaponsmith this man deals in the molding of metal.\nIt seems that most of his creations deal with horses.  On the walls you\nsee several horseshoes made of iron.  The room is hot, hotter than the\ndesert just south of here, and one wonders how the smithy can stand it.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5437
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5137,
+  "zone_id": 51,
+  "name": "The Mages' Barracks",
+  "description": "The mage's living quarters is rather clean with the exception of a few\nused component containers.  It is rather well decorated as well.  Cots line\nthe floor for the mages to sleep on.  The only door is to the west.",
+  "header_raw": "51 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5136
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/51.wld"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 6209,
+  "zone_id": 62,
+  "name": "The River's Edge",
+  "description": "A river flows through the forest here, its water clean\nand clear.  The energy barrier runs right out into the\nmiddle of the river, and then makes another ninety-degree\nturn to the west.  The water seems to have no problem\npenetrating the magical field, however.\n   The river seems too wide and too swift to cross here.\nIt appears the only way to go is back to the south.",
+  "header_raw": "62 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6208
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "barrier energy",
+      "description": "You can faintly see the woods continue beyond it, but it\nseems there's no way through.  The field rises high up\ninto the air, and seems to form a ceiling above the woods,\npreventing a flying entrance.  You'd also bet it extends\ndeep into the ground."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

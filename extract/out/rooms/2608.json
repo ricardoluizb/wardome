@@ -26,44 +26,12 @@
     {
       "dir": 3,
       "description": "",
-      "keywords": "door rusty~ 1 -1 2609 S #2609 The Golem Master's Workshop~    You are in the golem master's workshop.  A few unfinished looking humanoid forms of different make are here, some moving, some not.  The animated forms lunge to attack you.",
-      "door_flag": 25,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 0,
-      "description": "",
-      "keywords": "",
-      "door_flag": 0,
-      "key": -1,
-      "to": 2610
-    },
-    {
-      "dir": 1,
-      "description": "",
-      "keywords": "door rusty~ 1 -1 2608 D2",
-      "door_flag": null,
-      "key": null,
-      "to": null
-    },
-    {
-      "dir": 5,
-      "description": "",
-      "keywords": "trapdoor~ 1 -1 2612 S #2610 A Store Room~    You are in a small store room.  Large chunks of clay, stone, wood and many other raw materials are here.",
-      "door_flag": 25,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 2,
-      "description": "",
-      "keywords": "",
-      "door_flag": 0,
+      "keywords": "door rusty",
+      "door_flag": 1,
       "key": -1,
       "to": 2609
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
 }

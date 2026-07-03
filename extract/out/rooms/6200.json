@@ -1,0 +1,26 @@
+{
+  "id": 6200,
+  "zone_id": 62,
+  "name": "In The Forest",
+  "description": "The trail ends here where the mountains begin abruptly.\nLooking up, you note that the climb would be rough,\nhazardous, and probably not worth the effort; the energy\nbarrier continues up the mountain side out of sight.  The\nonly exit is back to the east.",
+  "header_raw": "62 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6201
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "barrier energy",
+      "description": "You can faintly see the woods continue beyond it, but it\nseems there's no way through.  The field rises high up\ninto the air, and seems to form a ceiling above the woods,\npreventing a flying entrance.  You'd also bet it extends\ndeep into the ground."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

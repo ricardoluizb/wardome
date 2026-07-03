@@ -1,0 +1,29 @@
+{
+  "id": 6239,
+  "zone_id": 62,
+  "name": "A River's Edge",
+  "description": "The river flows swiftly on its course to the north.\nThe trail you are on leads on by the water's edge to the\nwest, and back into the forest to the south.  A large\nboulder is just to the west, blocking all travel in that\ndirection.  Out in the center of the river, the 'roof' of\nthe energy field meets the northern 'wall'.  The water\npasses right on through the magical barrier, however...\nthe barrier is obviously porous to some materials.",
+  "header_raw": "62 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6238
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6240
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

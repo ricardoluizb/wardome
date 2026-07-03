@@ -1,0 +1,29 @@
+{
+  "id": 6218,
+  "zone_id": 62,
+  "name": "A Forest Trail",
+  "description": "This trail leads north-south... obviously a gaming\ntrail.  The woods, mostly deciduous trees with the\naccompanying ground foilage, crowd in to either side.\nA shrub to your left shows a fresh cutting wound...\nlooks like a sharp object like a knife or machete did\nthe damage.\n   A crackle in the leaves spins you around, to see\nnothing.  Something is watching you, you feel it.\nWhere?",
+  "header_raw": "62 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6233
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6226
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

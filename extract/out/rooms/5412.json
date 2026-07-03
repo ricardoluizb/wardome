@@ -1,0 +1,37 @@
+{
+  "id": 5412,
+  "zone_id": 54,
+  "name": "The Southern Bridge",
+  "description": "Walking over the bridge you see the rushing waters of the River\nIshtar.  To the south you see the Southern Gate of New Thalos and\nthe Common Square stretches out to the north",
+  "header_raw": "54 c 1",
+  "flags_text": "c",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5410
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5413
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5485
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

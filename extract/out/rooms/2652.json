@@ -18,20 +18,12 @@
     {
       "dir": 2,
       "description": "",
-      "keywords": "door grey~ 1 -1 2653 S #2653 The Antechamber~    You are in the antechamber of the Master Magician of the Grey Light. A feeling of strong magic floats in the air about you, almost as if you could taste the power held within these walls.    Once your eyes adjust to the semi-light, you can make out a larger room to the south.",
-      "door_flag": 25,
-      "key": null,
-      "to": 0
-    },
-    {
-      "dir": 0,
-      "description": "",
-      "keywords": "door grey~ 1 -1 2652 D2",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door grey",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2653
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/25.wld"
 }

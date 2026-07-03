@@ -1,0 +1,29 @@
+{
+  "id": 6515,
+  "zone_id": 65,
+  "name": "A Turn In The Road",
+  "description": "You are on a path that leads to the Hide & Tooth shop to the west, and\nthe path continues to the south.",
+  "header_raw": "65 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6514
+    },
+    {
+      "dir": 3,
+      "description": "The Hide & Tooth shop can be seen to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6516
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/65.wld"
+}

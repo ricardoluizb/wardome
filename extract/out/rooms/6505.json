@@ -1,0 +1,29 @@
+{
+  "id": 6505,
+  "zone_id": 65,
+  "name": "The Entrance To The Mountain",
+  "description": "Here is an entrance to the mountain.  The door looks very well built,\nand you can hear noise coming from within.",
+  "header_raw": "65 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6503
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 6515,
+      "to": 6513
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/65.wld"
+}

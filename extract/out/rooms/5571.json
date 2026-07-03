@@ -1,0 +1,29 @@
+{
+  "id": 5571,
+  "zone_id": 54,
+  "name": "The Grand Dining Hall",
+  "description": "A long oaken table, coverd with silverware, plates, and a table cloth\nwith gold trim, dominates the room.  Although no diners occupy the room\nas of yet, servants sprint about setting the table and placing condiments.\n   The kitchen entrance is to the east, and two huge double doors open\ninto the hallway north.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "doors double",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5572
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5561
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

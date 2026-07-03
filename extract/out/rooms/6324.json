@@ -1,0 +1,29 @@
+{
+  "id": 6324,
+  "zone_id": 63,
+  "name": "The Slave Pit",
+  "description": "You have entered the slave pit.  A voice blares in the distance,\n'Get back to work, maggots!'  Rails upon rails of mined gold and silver\nclutter the trail beneath you.",
+  "header_raw": "63 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6325
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6323
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/63.wld"
+}

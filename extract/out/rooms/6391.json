@@ -1,0 +1,29 @@
+{
+  "id": 6391,
+  "zone_id": 63,
+  "name": "The Sticky Chamber",
+  "description": "You can still bail out since your knees are shaking from the\nanticipation (or is it fear?).  The sky is clear on this strand of \nweb, surprisingly unsticky.  The strand does not vibrate like the \nothers.  A few ballooning spiders pass by, cackling 'You're gonna\ndie, you're gonna fry.  Good bye!'",
+  "header_raw": "63 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6392
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6331
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/63.wld"
+}

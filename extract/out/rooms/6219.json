@@ -1,0 +1,29 @@
+{
+  "id": 6219,
+  "zone_id": 62,
+  "name": "A Forest Trail",
+  "description": "The trail changes direction here, turning to the north \nand west.  A large tree to your south bears an interesting\nartifact; a rusty arrowhead embedded in the wood.  It \nlooks as if the arrow had been  broken off at the head, \nthe wood scratched at, and the arrowhead left behind.  \nOtherwise, there doesn't seem to be much of interest in \nthis particular section of the woods.",
+  "header_raw": "62 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6217
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6220
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/62.wld"
+}

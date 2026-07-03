@@ -10,10 +10,18 @@
     {
       "dir": 0,
       "description": "You see a round stone door.",
-      "keywords": "door round stone~ 1 -1 7304 D2 You see a grey block.",
-      "door_flag": null,
-      "key": null,
-      "to": null
+      "keywords": "door round stone",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7304
+    },
+    {
+      "dir": 2,
+      "description": "You see a grey block.",
+      "keywords": "block grey",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7306
     }
   ],
   "extra_descriptions": [
@@ -26,5 +34,5 @@
       "description": "The crystal globe is glowing with a pulsing light.  It looks like there is\nsmoke inside it."
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/72.wld"
 }

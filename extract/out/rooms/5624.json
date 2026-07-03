@@ -1,0 +1,29 @@
+{
+  "id": 5624,
+  "zone_id": 54,
+  "name": "River Ishtar",
+  "description": "The river flows out from the city down a long winding gully towards\nthe Sea of Dragons.  To the south of you lies the Great Eastern Desert\nand north a wide open expanse of grass.  You can just barely make out\na road that seems to be traveling along side the river but the\nbanks are to steep for you to see very far.",
+  "header_raw": "54 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5625
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5483
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}

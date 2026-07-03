@@ -1,0 +1,34 @@
+{
+  "id": 5565,
+  "zone_id": 54,
+  "name": "A Hall",
+  "description": "You have come to the eastern end of the northern hallway.  The only\nexit is west except for the simple wooden door to the north.\nThere is a golden plaque above the door.",
+  "header_raw": "54 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5566
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5574
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "plaque",
+      "description": "Engraved on the plaque are the following words:\n\n                     The Holy Shrine of Allah"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/54.wld"
+}
