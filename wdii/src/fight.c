@@ -362,6 +362,68 @@ void stop_fighting(struct char_data * ch)
 
 }
 
+/* Rolls a rarity tier for an item that already grants at least one
+ * stat bonus, nudging each existing affect's modifier within a
+ * tier-specific range and baking a colored tag into its short
+ * description. Items with no non-zero affected[] entry are left
+ * completely untouched (no tag, no roll). Safe to call on any object
+ * instance -- affected[] is an embedded (not shared-pointer) array,
+ * and short_description is replaced via str_dup(), the same
+ * established per-instance string-mutation pattern already used by
+ * create_money()/MakeScrap()/oedit.c in this codebase; free_obj()
+ * already pointer-compares against the prototype before freeing, so
+ * this cannot double-free or leak the prototype's shared string.
+ */
+void roll_item_rarity(struct obj_data * obj)
+{
+  int i, roll, variance, has_affect = FALSE;
+  const char *tag;
+  char newbuf[MAX_STRING_LENGTH];
+
+  for (i = 0; i < MAX_OBJ_AFFECT; i++)
+    if (obj->affected[i].location != APPLY_NONE && obj->affected[i].modifier != 0)
+      has_affect = TRUE;
+
+  if (!has_affect)
+    return;
+
+  roll = number(1, 100);
+  if (roll <= 60) {
+    variance = 0;
+    tag = NULL;
+  } else if (roll <= 85) {
+    variance = 1;
+    tag = "&B[I]&n ";
+  } else if (roll <= 97) {
+    variance = 2;
+    tag = "&Y[R]&n ";
+  } else {
+    variance = 3;
+    tag = "&R[L]&n ";
+  }
+
+  if (variance > 0) {
+    for (i = 0; i < MAX_OBJ_AFFECT; i++) {
+      if (obj->affected[i].location == APPLY_NONE || obj->affected[i].modifier == 0)
+        continue;
+      if (obj->affected[i].modifier > 0) {
+        obj->affected[i].modifier += number(-variance, variance);
+        if (obj->affected[i].modifier < 1)
+          obj->affected[i].modifier = 1;
+      } else {
+        obj->affected[i].modifier -= number(-variance, variance);
+        if (obj->affected[i].modifier > -1)
+          obj->affected[i].modifier = -1;
+      }
+    }
+  }
+
+  if (tag != NULL) {
+    sprintf(newbuf, "%s%s", tag, obj->short_description);
+    obj->short_description = str_dup(newbuf);
+  }
+}
+
 void make_corpse(struct char_data * ch)
 {
   struct obj_data *corpse, *o;
@@ -434,14 +496,22 @@ void make_corpse(struct char_data * ch)
 	GET_OBJ_VAL(corpse, 1) = GET_REMORT(ch); aqui tambem, espero nao ter feito merda*/
 
      corpse->contains = ch->carrying;  // transfer character's inventory to the corpse
-     	for (o = corpse->contains; o != NULL; o = o->next_content)
+     	for (o = corpse->contains; o != NULL; o = o->next_content) {
              o->in_obj = corpse;
+             if (IS_NPC(ch))
+               roll_item_rarity(o);
+        }
              object_list_new_owner(corpse, NULL);
 
 
-        for (i = 0; i < NUM_WEARS; i++) // transfer character's equipment to the corpse
-             if (GET_EQ(ch, i))
-             obj_to_obj(unequip_char(ch, i), corpse);
+        for (i = 0; i < NUM_WEARS; i++) { // transfer character's equipment to the corpse
+             if (GET_EQ(ch, i)) {
+               struct obj_data *unequipped = unequip_char(ch, i);
+               if (IS_NPC(ch))
+                 roll_item_rarity(unequipped);
+               obj_to_obj(unequipped, corpse);
+             }
+        }
 
 
         if (GET_GOLD(ch) > 0) // transfer gold
