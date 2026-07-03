@@ -3,10 +3,10 @@
   "alias": "camel",
   "short_desc": "the camel",
   "long_desc": "A very dangerous creature, a camel, snorts at you.",
-  "detailed_desc": "",
-  "flags_raw": "It is advisable not to mess with this creature.  After all, you",
-  "stats1_raw": "have heard many a horror story about experiences with camels.",
-  "stats2_raw": "Bad experiences.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/50.mob"
+  "detailed_desc": "It is advisable not to mess with this creature.  After all, you\nhave heard many a horror story about experiences with camels.\nBad experiences.",
+  "flags_raw": "bfq 0 -351 S",
+  "stats1_raw": "5 12 6 1d6+60 2d4+3",
+  "stats2_raw": "270 900",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/50.mob"
 }

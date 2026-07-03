@@ -3,10 +3,10 @@
   "alias": "wererat rat",
   "short_desc": "the ugly wererat",
   "long_desc": "An ugly wererat is here, looking at you with a strange flick in his eyes.",
-  "detailed_desc": "",
-  "flags_raw": "The wererat is about four feet tall.  It looks very much like rat, except",
-  "stats1_raw": "that it is standing.",
-  "stats2_raw": "~",
-  "stats3_raw": "cgjlk k -700 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/72.mob"
+  "detailed_desc": "The wererat is about four feet tall.  It looks very much like rat, except\nthat it is standing.",
+  "flags_raw": "cgjlk k -700 S",
+  "stats1_raw": "6 15 3 4d6+69 2d4+2",
+  "stats2_raw": "50 1500",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/72.mob"
 }

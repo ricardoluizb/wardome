@@ -3,10 +3,10 @@
   "alias": "hunter",
   "short_desc": "the hunter",
   "long_desc": "A hunter walks through the town streets on his own time.",
-  "detailed_desc": "",
-  "flags_raw": "He looks mean, as if the very personality of the mountains",
-  "stats1_raw": "had infected him with hardness.  His stride is purposeful,",
-  "stats2_raw": "his face weathered, his eyes cold and dark.  Others are",
-  "stats3_raw": "standing out of his way as he walks on by.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/33.mob"
+  "detailed_desc": "He looks mean, as if the very personality of the mountains\nhad infected him with hardness.  His stride is purposeful,\nhis face weathered, his eyes cold and dark.  Others are\nstanding out of his way as he walks on by.",
+  "flags_raw": "bcgm 0 500 S",
+  "stats1_raw": "11 10 -20 3d5+133 2d6+2",
+  "stats2_raw": "1200 11000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/33.mob"
 }

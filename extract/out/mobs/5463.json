@@ -3,10 +3,10 @@
   "alias": "sultans guard chief",
   "short_desc": "the Chief Guard",
   "long_desc": "The Chief of the Sultan's Guard stands here.",
-  "detailed_desc": "",
-  "flags_raw": "You see a large man skilled in hunting and killing.",
-  "stats1_raw": "~",
-  "stats2_raw": "ag d 1000 S",
-  "stats3_raw": "15 0 0 4d5+251 2d8+1",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+  "detailed_desc": "You see a large man skilled in hunting and killing.",
+  "flags_raw": "ag d 1000 S",
+  "stats1_raw": "15 0 0 4d5+251 2d8+1",
+  "stats2_raw": "435 5000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

@@ -3,10 +3,10 @@
   "alias": "froboz wizard",
   "short_desc": "Froboz",
   "long_desc": "Froboz the wizard is standing here, working on a new spell.",
-  "detailed_desc": "",
-  "flags_raw": "You see a middle-aged man whose knowledge of magic, both offensive and",
-  "stats1_raw": "defensive, is legendary.  He literally glows with a pink aura.",
-  "stats2_raw": "~",
-  "stats3_raw": "abelno dh 300 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+  "detailed_desc": "You see a middle-aged man whose knowledge of magic, both offensive and \ndefensive, is legendary.  He literally glows with a pink aura.",
+  "flags_raw": "abelno dh 300 S",
+  "stats1_raw": "23 0 -3 5d10+425 1d8+14",
+  "stats2_raw": "32000 95000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/120.mob"
 }

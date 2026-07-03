@@ -3,10 +3,10 @@
   "alias": "deer",
   "short_desc": "the deer",
   "long_desc": "A deer looks at you with fear in its eyes.",
-  "detailed_desc": "",
-  "flags_raw": "That is one nice looking deer!",
-  "stats1_raw": "~",
-  "stats2_raw": "h 0 0 S",
-  "stats3_raw": "3 18 10 3d5+33 1d7+0",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/62.mob"
+  "detailed_desc": "That is one nice looking deer!",
+  "flags_raw": "h 0 0 S",
+  "stats1_raw": "3 18 10 3d5+33 1d7+0",
+  "stats2_raw": "0 350",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/62.mob"
 }

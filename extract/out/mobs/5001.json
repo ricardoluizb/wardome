@@ -3,10 +3,10 @@
   "alias": "dervish large",
   "short_desc": "the dervish",
   "long_desc": "A large dervish watches for signs of trouble.",
-  "detailed_desc": "",
-  "flags_raw": "Dressed in loose fitting rags, this man looks like he could use LOTS of",
-  "stats1_raw": "rest.",
-  "stats2_raw": "~",
-  "stats3_raw": "fg st 650 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/50.mob"
+  "detailed_desc": "Dressed in loose fitting rags, this man looks like he could use LOTS of\nrest.",
+  "flags_raw": "fg st 650 S",
+  "stats1_raw": "8 12 3 2d6+100 2d6+1",
+  "stats2_raw": "150 7000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/50.mob"
 }

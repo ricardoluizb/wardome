@@ -3,10 +3,10 @@
   "alias": "cockroach roach",
   "short_desc": "the cockroach",
   "long_desc": "A large cockroach is crawling by the wall.",
-  "detailed_desc": "",
-  "flags_raw": "Very large indeed, and they say cockroaches are hard to kill...",
-  "stats1_raw": "~",
-  "stats2_raw": "eqr 0 -250 S",
-  "stats3_raw": "4 20 3 2d6+120 1d3+0",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/150.mob"
+  "detailed_desc": "Very large indeed, and they say cockroaches are hard to kill...",
+  "flags_raw": "eqr 0 -250 S",
+  "stats1_raw": "4 20 3 2d6+120 1d3+0",
+  "stats2_raw": "5 750",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/150.mob"
 }

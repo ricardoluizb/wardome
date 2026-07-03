@@ -3,10 +3,10 @@
   "alias": "spider small hairy",
   "short_desc": "the small Spider",
   "long_desc": "The small hairy Spider is here, busy with its web.",
-  "detailed_desc": "",
-  "flags_raw": "This small spider seems to pay you no attention at all as it builds",
-  "stats1_raw": "its intricately designed web.",
-  "stats2_raw": "~",
-  "stats3_raw": "f sk -700 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/70.mob"
+  "detailed_desc": "This small spider seems to pay you no attention at all as it builds\nits intricately designed web.",
+  "flags_raw": "f sk -700 S",
+  "stats1_raw": "1 20 3 1d12+8 1d4+0",
+  "stats2_raw": "1 100",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/70.mob"
 }

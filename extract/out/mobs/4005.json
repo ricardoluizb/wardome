@@ -3,10 +3,10 @@
   "alias": "orc large",
   "short_desc": "the orc",
   "long_desc": "A large orc is here, looking really mean.",
-  "detailed_desc": "",
-  "flags_raw": "He looks dreadful.",
-  "stats1_raw": "~",
-  "stats2_raw": "cg k -500 S",
-  "stats3_raw": "7 11 2 3d20+75 2d6+2",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/40.mob"
+  "detailed_desc": "He looks dreadful.",
+  "flags_raw": "cg k -500 S",
+  "stats1_raw": "7 11 2 3d20+75 2d6+2",
+  "stats2_raw": "200 3000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/40.mob"
 }

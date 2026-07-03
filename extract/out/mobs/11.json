@@ -3,10 +3,10 @@
   "alias": "zombie undead humanoid",
   "short_desc": "the zombie",
   "long_desc": "A strange humanoid is here.  How odd, its flesh seems to be falling off!",
-  "detailed_desc": "",
-  "flags_raw": "This strange humanoid is moving rather slowly, and appears to be",
-  "stats1_raw": "a corpse, a walking corpse!  It must be a zombie or something of",
-  "stats2_raw": "the sort.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/0.mob"
+  "detailed_desc": "This strange humanoid is moving rather slowly, and appears to be\na corpse, a walking corpse!  It must be a zombie or something of\nthe sort.",
+  "flags_raw": "b 0 0 E",
+  "stats1_raw": "1 0 0 1d1+1 1d1+1",
+  "stats2_raw": "0 0",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/0.mob"
 }

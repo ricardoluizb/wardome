@@ -3,10 +3,10 @@
   "alias": "giant hornet",
   "short_desc": "the giant hornet",
   "long_desc": "The giant hornet hovers here.",
-  "detailed_desc": "",
-  "flags_raw": "It is a hornet, what else can be said?",
-  "stats1_raw": "~",
-  "stats2_raw": "eqr dgk 300 S",
-  "stats3_raw": "5 15 4 1d1+5 1d4+0",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+  "detailed_desc": "It is a hornet, what else can be said?",
+  "flags_raw": "eqr dgk 300 S",
+  "stats1_raw": "5 15 4 1d1+5 1d4+0",
+  "stats2_raw": "0 45",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

@@ -3,10 +3,10 @@
   "alias": "horse",
   "short_desc": "the horse",
   "long_desc": "A horse stands here.",
-  "detailed_desc": "",
-  "flags_raw": "You see one of the fine Arabian beasts known about the land.",
-  "stats1_raw": "~",
-  "stats2_raw": "bgh 0 0 S",
-  "stats3_raw": "4 20 50 10d1+1 2d4+2",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+  "detailed_desc": "You see one of the fine Arabian beasts known about the land.",
+  "flags_raw": "bgh 0 0 S",
+  "stats1_raw": "4 20 50 10d1+1 2d4+2",
+  "stats2_raw": "0 10",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

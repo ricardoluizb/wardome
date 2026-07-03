@@ -3,10 +3,10 @@
   "alias": "wanderer evil",
   "short_desc": "the evil wanderer",
   "long_desc": "The evil wanderer stares at you with a piercing gaze.",
-  "detailed_desc": "",
-  "flags_raw": "The evil wanderer is very thin.  He is dressed in a grey cloak.  He",
-  "stats1_raw": "doesn't look like he'd be your first choice as a travelling companion.",
-  "stats2_raw": "~",
-  "stats3_raw": "ch f -1000 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/70.mob"
+  "detailed_desc": "The evil wanderer is very thin.  He is dressed in a grey cloak.  He\ndoesn't look like he'd be your first choice as a travelling companion.",
+  "flags_raw": "ch f -1000 S",
+  "stats1_raw": "10 11 2 4d10+100 2d6+1",
+  "stats2_raw": "300 9500",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/70.mob"
 }

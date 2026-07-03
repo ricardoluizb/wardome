@@ -3,10 +3,10 @@
   "alias": "chr-eff'n chreffn",
   "short_desc": "the evil chr-eff'n",
   "long_desc": "The chr-eff'n are crawling here, looking around with its yellow eyes.",
-  "detailed_desc": "",
-  "flags_raw": "The head and torso of a chr-eff'n is copper-covered, with yellow,",
-  "stats1_raw": "glowing eyes.  The lower body is in an orange shading.",
-  "stats2_raw": "~",
-  "stats3_raw": "ch dks -830 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/70.mob"
+  "detailed_desc": "The head and torso of a chr-eff'n is copper-covered, with yellow,\nglowing eyes.  The lower body is in an orange shading.",
+  "flags_raw": "ch dks -830 S",
+  "stats1_raw": "12 9 2 2d26+148 2d7+1",
+  "stats2_raw": "1500 13000",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/70.mob"
 }

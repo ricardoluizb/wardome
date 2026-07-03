@@ -3,10 +3,10 @@
   "alias": "gardener elf",
   "short_desc": "the gardener",
   "long_desc": "A small elf stands here tending the garden.",
-  "detailed_desc": "",
-  "flags_raw": "A young elf stands here in dirt covered overalls.  He seems to be",
-  "stats1_raw": "weeding his garden.",
-  "stats2_raw": "~",
-  "stats3_raw": "b 0 0 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+  "detailed_desc": "A young elf stands here in dirt covered overalls.  He seems to be\nweeding his garden.",
+  "flags_raw": "b 0 0 S",
+  "stats1_raw": "10 10 6 5d5+100 2d8+2",
+  "stats2_raw": "56 1500",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

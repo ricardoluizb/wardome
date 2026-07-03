@@ -3,10 +3,10 @@
   "alias": "golem stone",
   "short_desc": "the stone golem",
   "long_desc": "In the corner you see a large, stone golem faithfully standing watch.",
-  "detailed_desc": "",
-  "flags_raw": "It is a big chunk of rock that has been magically formed into a giant stone",
-  "stats1_raw": "creature.  He stands here still guarding the city.",
-  "stats2_raw": "~",
-  "stats3_raw": "bilnopqr dfk 800 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/52.mob"
+  "detailed_desc": "It is a big chunk of rock that has been magically formed into a giant stone\ncreature.  He stands here still guarding the city.",
+  "flags_raw": "bilnopqr dfk 800 S",
+  "stats1_raw": "25 0 -5 6d6+500 4d7+3",
+  "stats2_raw": "4250 145000",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/52.mob"
 }

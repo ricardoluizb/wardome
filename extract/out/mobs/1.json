@@ -3,10 +3,10 @@
   "alias": "Puff dragon fractal",
   "short_desc": "Puff",
   "long_desc": "Puff the Fractal Dragon is here, contemplating a higher reality.",
-  "detailed_desc": "",
-  "flags_raw": "Is that some type of differential curve involving some strange, and",
-  "stats1_raw": "unknown calculus that she seems to be made out of?",
-  "stats2_raw": "~",
-  "stats3_raw": "anopqr dkp 1000 E",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/0.mob"
+  "detailed_desc": "Is that some type of differential curve involving some strange, and\nunknown calculus that she seems to be made out of?",
+  "flags_raw": "anopqr dkp 1000 E",
+  "stats1_raw": "26 1 -1 5d10+550 4d6+3",
+  "stats2_raw": "10000 155000",
+  "stats3_raw": "8 8 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/0.mob"
 }

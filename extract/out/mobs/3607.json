@@ -3,10 +3,10 @@
   "alias": "white bishop priest",
   "short_desc": "the White Bishop",
   "long_desc": "A light priest stands here.",
-  "detailed_desc": "",
-  "flags_raw": "The White Bishop seems willing to help you in any possible so that he can",
-  "stats1_raw": "attain a higher spirituality.",
-  "stats2_raw": "~",
-  "stats3_raw": "b d 500 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/36.mob"
+  "detailed_desc": "The White Bishop seems willing to help you in any possible so that he can\nattain a higher spirituality.",
+  "flags_raw": "b d 500 S",
+  "stats1_raw": "24 11 1 2d5+350 3d6+13",
+  "stats2_raw": "4000 43500",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/36.mob"
 }

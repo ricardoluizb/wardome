@@ -3,10 +3,10 @@
   "alias": "abdul armorer",
   "short_desc": "Abdul the armorer",
   "long_desc": "Abdul stands here, waiting to help you.",
-  "detailed_desc": "",
-  "flags_raw": "Abdul returns your gaze with a steady eye.  You quickly glance away",
-  "stats1_raw": "under his cold stare and place your order.",
-  "stats2_raw": "~",
-  "stats3_raw": "blno d 0 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+  "detailed_desc": "Abdul returns your gaze with a steady eye.  You quickly glance away\nunder his cold stare and place your order.",
+  "flags_raw": "blno d 0 S",
+  "stats1_raw": "35 10 5 1d1+30000 1d5+5",
+  "stats2_raw": "1 2000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

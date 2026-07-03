@@ -3,10 +3,10 @@
   "alias": "master summoner",
   "short_desc": "the Master Summoner",
   "long_desc": "The Master Summoner is here holding gateways open to other planes.",
-  "detailed_desc": "",
-  "flags_raw": "The Summoner looks to be hard at work, concentrating on keeping control",
-  "stats1_raw": "over the gateway before he loses his soul to the creatures on the other",
-  "stats2_raw": "side of it.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+  "detailed_desc": "The Summoner looks to be hard at work, concentrating on keeping control\nover the gateway before he loses his soul to the creatures on the other\nside of it.",
+  "flags_raw": "abfgh dk -200 S",
+  "stats1_raw": "22 5 -2 22d22+220 3d5+6",
+  "stats2_raw": "1019 27050",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

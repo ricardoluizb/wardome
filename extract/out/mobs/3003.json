@@ -3,10 +3,10 @@
   "alias": "weaponsmith",
   "short_desc": "the weaponsmith",
   "long_desc": "A weaponsmith is standing here.",
-  "detailed_desc": "",
-  "flags_raw": "He is a young weaponsmith, who still has lots to learn but he is still",
-  "stats1_raw": "eager to sell you his latest implements of carnage and destruction.",
-  "stats2_raw": "~",
-  "stats3_raw": "ablno d 900 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+  "detailed_desc": "He is a young weaponsmith, who still has lots to learn but he is still\neager to sell you his latest implements of carnage and destruction.",
+  "flags_raw": "ablno d 900 S",
+  "stats1_raw": "33 0 -10 1d1+30000 2d8+18",
+  "stats2_raw": "30000 160000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

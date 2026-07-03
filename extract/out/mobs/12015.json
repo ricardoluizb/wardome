@@ -3,10 +3,10 @@
   "alias": "master",
   "short_desc": "the ticket master",
   "long_desc": "A ticket master is here, looking at you expectantly.",
-  "detailed_desc": "",
-  "flags_raw": "He seems to be waiting for you to either buy a ticket or to get out",
-  "stats1_raw": "of his way so that he can sell tickets to people that actually want",
-  "stats2_raw": "them.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+  "detailed_desc": "He seems to be waiting for you to either buy a ticket or to get out\nof his way so that he can sell tickets to people that actually want\nthem.",
+  "flags_raw": "bl 0 100 S",
+  "stats1_raw": "17 4 1 4d8+210 1d6+11",
+  "stats2_raw": "4000 28000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/120.mob"
 }

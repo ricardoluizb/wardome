@@ -4,9 +4,9 @@
   "short_desc": "the dwarven peon",
   "long_desc": "A dwarven peon is awaiting help here.",
   "detailed_desc": "",
-  "flags_raw": "~",
-  "stats1_raw": "bm k 500 S",
-  "stats2_raw": "3 18 7 10d3+35 2d3+2",
-  "stats3_raw": "75 350",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/65.mob"
+  "flags_raw": "bm k 500 S",
+  "stats1_raw": "3 18 7 10d3+35 2d3+2",
+  "stats2_raw": "75 350",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/65.mob"
 }

@@ -3,10 +3,10 @@
   "alias": "grey squirrel",
   "short_desc": "the grey squirrel",
   "long_desc": "A grey squirrel with a bushy tail is foraging for nuts here.",
-  "detailed_desc": "",
-  "flags_raw": "This happy creature seems to pay you no heed as it goes about its search for",
-  "stats1_raw": "nuts among the leaves and twigs on the ground here.",
-  "stats2_raw": "~",
-  "stats3_raw": "g s 150 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/60.mob"
+  "detailed_desc": "This happy creature seems to pay you no heed as it goes about its search for\nnuts among the leaves and twigs on the ground here.",
+  "flags_raw": "g s 150 S",
+  "stats1_raw": "2 19 8 1d12+22 1d6+0",
+  "stats2_raw": "0 200",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/60.mob"
 }

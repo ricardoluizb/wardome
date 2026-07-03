@@ -3,10 +3,10 @@
   "alias": "man taxcollector",
   "short_desc": "the taxcollector",
   "long_desc": "A small man walks around scribbling in a notebook.",
-  "detailed_desc": "",
-  "flags_raw": "The city's taxcollextor walks from store to store collecting the",
-  "stats1_raw": "Sultan's fee for living in his grand city.",
-  "stats2_raw": "~",
-  "stats3_raw": "gh 0 0 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+  "detailed_desc": "The city's taxcollextor walks from store to store collecting the\nSultan's fee for living in his grand city.",
+  "flags_raw": "gh 0 0 S",
+  "stats1_raw": "5 16 50 10d2+45 2d3+1",
+  "stats2_raw": "15 431",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

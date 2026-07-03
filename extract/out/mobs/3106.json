@@ -3,10 +3,10 @@
   "alias": "crier",
   "short_desc": "the Town Crier",
   "long_desc": "The Town Crier is here, weeping quietly.",
-  "detailed_desc": "",
-  "flags_raw": "He is very good at his job - completely dissolved in tears.",
-  "stats1_raw": "~",
-  "stats2_raw": "h 0 900 S",
-  "stats3_raw": "1 20 9 2d6+10 1d5+0",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/31.mob"
+  "detailed_desc": "He is very good at his job - completely dissolved in tears.",
+  "flags_raw": "h 0 900 S",
+  "stats1_raw": "1 20 9 2d6+10 1d5+0",
+  "stats2_raw": "34 100",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/31.mob"
 }

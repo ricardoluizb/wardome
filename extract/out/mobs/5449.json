@@ -3,10 +3,10 @@
   "alias": "dervish",
   "short_desc": "the raggety dervish",
   "long_desc": "A raggety dervish stands here.",
-  "detailed_desc": "",
-  "flags_raw": "This man looks like he could use a lot of rest.",
-  "stats1_raw": "~",
-  "stats2_raw": "fg 32768 -750 S",
-  "stats3_raw": "8 12 3 4d4+20 2d6+1",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+  "detailed_desc": "This man looks like he could use a lot of rest.",
+  "flags_raw": "fg 32768 -750 S",
+  "stats1_raw": "8 12 3 4d4+20 2d6+1",
+  "stats2_raw": "1 105",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

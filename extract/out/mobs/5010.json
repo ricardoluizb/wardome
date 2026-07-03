@@ -3,10 +3,10 @@
   "alias": "dracolich lich",
   "short_desc": "the dracolich",
   "long_desc": "A pile of bones rises up to form a skeletal dracolich.",
-  "detailed_desc": "",
-  "flags_raw": "The dracolich is now only bone with pieces of flesh hanging from it.",
-  "stats1_raw": "Obviously it no longer fears death.",
-  "stats2_raw": "~",
-  "stats3_raw": "abeflnopq bdfhkp -1000 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/50.mob"
+  "detailed_desc": "The dracolich is now only bone with pieces of flesh hanging from it.\nObviously it no longer fears death.",
+  "flags_raw": "abeflnopq bdfhkp -1000 S",
+  "stats1_raw": "24 0 -6 1d12+520 3d5+35",
+  "stats2_raw": "75000 125000",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/50.mob"
 }

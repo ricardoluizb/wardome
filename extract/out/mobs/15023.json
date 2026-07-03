@@ -3,10 +3,10 @@
   "alias": "cook",
   "short_desc": "the cook",
   "long_desc": "There is a cook here, making himself busy with a pot.",
-  "detailed_desc": "",
-  "flags_raw": "A junior cook, eager to do the Chef's bidding.",
-  "stats1_raw": "~",
-  "stats2_raw": "bh 0 300 S",
-  "stats3_raw": "4 17 6 2d7+46 1d8+0",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/150.mob"
+  "detailed_desc": "A junior cook, eager to do the Chef's bidding.",
+  "flags_raw": "bh 0 300 S",
+  "stats1_raw": "4 17 6 2d7+46 1d8+0",
+  "stats2_raw": "50 600",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/150.mob"
 }

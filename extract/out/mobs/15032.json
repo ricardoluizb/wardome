@@ -3,10 +3,10 @@
   "alias": "pit fiend demon",
   "short_desc": "the pit fiend",
   "long_desc": "A large demon surrounded by flames rises out of the dark pool.",
-  "detailed_desc": "",
-  "flags_raw": "It is a horrifying thing, this demonic creature from the depths of the",
-  "stats1_raw": "Abyss.  It glares down at you through blood-red eyes, and bares its huge",
-  "stats2_raw": "white fangs and its razor-sharp talons.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/150.mob"
+  "detailed_desc": "It is a horrifying thing, this demonic creature from the depths of the\nAbyss.  It glares down at you through blood-red eyes, and bares its huge\nwhite fangs and its razor-sharp talons.",
+  "flags_raw": "abeflnopqr dfhk 1000 S",
+  "stats1_raw": "33 0 -10 3d60+1480 4d8+16",
+  "stats2_raw": "35000 1000000",
+  "stats3_raw": "6 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/150.mob"
 }

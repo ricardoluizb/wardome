@@ -3,10 +3,10 @@
   "alias": "dragon green",
   "short_desc": "the green dragon",
   "long_desc": "A huge green dragon is here, its narrow yellow eyes glowing with rage.",
-  "detailed_desc": "",
-  "flags_raw": "This enormous winged serpent has dark green scales covering most of its",
-  "stats1_raw": "colossal body.  Numerous holes in its heavy wings tell of many fights as",
-  "stats2_raw": "does the nicks in the horns on its head.  It smells as disgusting as only",
-  "stats3_raw": "dragons do.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/61.mob"
+  "detailed_desc": "This enormous winged serpent has dark green scales covering most of its\ncolossal body.  Numerous holes in its heavy wings tell of many fights as\ndoes the nicks in the horns on its head.  It smells as disgusting as only\ndragons do.",
+  "flags_raw": "afgnoq dk -1000 S",
+  "stats1_raw": "20 1 0 1d12+248 2d6+9",
+  "stats2_raw": "0 40000",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/61.mob"
 }

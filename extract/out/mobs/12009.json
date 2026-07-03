@@ -3,10 +3,10 @@
   "alias": "healer",
   "short_desc": "the healer",
   "long_desc": "A healer is standing here.",
-  "detailed_desc": "",
-  "flags_raw": "You see a young man, still learning about magical healing, wearing a white",
-  "stats1_raw": "coat and using a stethoscope.",
-  "stats2_raw": "~",
-  "stats3_raw": "abel d 900 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+  "detailed_desc": "You see a young man, still learning about magical healing, wearing a white \ncoat and using a stethoscope.",
+  "flags_raw": "abel d 900 S",
+  "stats1_raw": "14 7 1 2d7+170 1d7+6",
+  "stats2_raw": "1500 18000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/120.mob"
 }

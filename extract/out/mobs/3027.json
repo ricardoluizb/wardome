@@ -3,10 +3,10 @@
   "alias": "knight",
   "short_desc": "the knight",
   "long_desc": "A knight is guarding the entrance.",
-  "detailed_desc": "",
-  "flags_raw": "He is an expert warrior who has attained knighthood through countless",
-  "stats1_raw": "chivalrous deeds.  His duty is to protect the Guild of Swordsmen and his",
-  "stats2_raw": "extreme skill combined with his experience in warfare makes him a deadly",
-  "stats3_raw": "opponent.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+  "detailed_desc": "He is an expert warrior who has attained knighthood through countless\nchivalrous deeds.  His duty is to protect the Guild of Swordsmen and his\nextreme skill combined with his experience in warfare makes him a deadly\nopponent.",
+  "flags_raw": "ablnop dh 800 S",
+  "stats1_raw": "33 0 -8 6d10+990 1d8+40",
+  "stats2_raw": "2000 160000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

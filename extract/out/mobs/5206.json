@@ -3,10 +3,10 @@
   "alias": "mimic planks wooden",
   "short_desc": "the mimic",
   "long_desc": "A few wooden planks lie stacked on a low shelf.",
-  "detailed_desc": "",
-  "flags_raw": "The fact that these planks still rest on this shelf leads you to believe",
-  "stats1_raw": "that someone has been here before you...",
-  "stats2_raw": "~",
-  "stats3_raw": "bqr 0 0 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/52.mob"
+  "detailed_desc": "The fact that these planks still rest on this shelf leads you to believe\nthat someone has been here before you...",
+  "flags_raw": "bqr 0 0 S",
+  "stats1_raw": "11 9 0 1d12+110 4d3+1",
+  "stats2_raw": "0 12000",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/52.mob"
 }

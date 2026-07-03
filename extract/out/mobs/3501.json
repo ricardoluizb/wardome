@@ -3,10 +3,10 @@
   "alias": "goblin mountain",
   "short_desc": "the goblin",
   "long_desc": "A mountain goblin is wandering around mumbling to himself...",
-  "detailed_desc": "",
-  "flags_raw": "You see before you a small and twisted creature with knotted muscles and",
-  "stats1_raw": "disgustingly green skin.  Doesn't look like the type you'd invite to dinner.",
-  "stats2_raw": "~",
-  "stats3_raw": "fglm k -250 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/35.mob"
+  "detailed_desc": "You see before you a small and twisted creature with knotted muscles and\ndisgustingly green skin.  Doesn't look like the type you'd invite to dinner.",
+  "flags_raw": "fglm k -250 S",
+  "stats1_raw": "4 17 6 1d1+55 1d8+0",
+  "stats2_raw": "50 600",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/35.mob"
 }

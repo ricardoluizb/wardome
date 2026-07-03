@@ -3,10 +3,10 @@
   "alias": "knight templar",
   "short_desc": "the knight templar",
   "long_desc": "A knight templar is guarding the entrance.",
-  "detailed_desc": "",
-  "flags_raw": "He is a specially trained warrior belonging to the military order of the",
-  "stats1_raw": "Faith.  His duty is to protect the faithful from persecution and infidel",
-  "stats2_raw": "attacks and his religious devotion combined with his superior skill makes",
-  "stats3_raw": "him a deadly opponent.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+  "detailed_desc": "He is a specially trained warrior belonging to the military order of the\nFaith.  His duty is to protect the faithful from persecution and infidel\nattacks and his religious devotion combined with his superior skill makes\nhim a deadly opponent.",
+  "flags_raw": "ablnop dh 1000 S",
+  "stats1_raw": "33 0 -5 6d10+990 1d8+22",
+  "stats2_raw": "2000 160000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

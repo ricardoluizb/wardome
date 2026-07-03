@@ -3,10 +3,10 @@
   "alias": "caryatid column",
   "short_desc": "the caryatid",
   "long_desc": "A sandstone column stands here, carved into a feminine figure.",
-  "detailed_desc": "",
-  "flags_raw": "The column has been carved into a set of four shapely women, each facing",
-  "stats1_raw": "outward into the room.  The sandstone of the caryatid is smooth with age,",
-  "stats2_raw": "but you can still make out a deadly stone sword in the hands of each figure.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/53.mob"
+  "detailed_desc": "The column has been carved into a set of four shapely women, each facing\noutward into the room.  The sandstone of the caryatid is smooth with age,\nbut you can still make out a deadly stone sword in the hands of each figure.",
+  "flags_raw": "belmnopqr kp 0 S",
+  "stats1_raw": "24 -4 -3 24d24+240 4d6+8",
+  "stats2_raw": "35000 100000",
+  "stats3_raw": "8 8 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/53.mob"
 }

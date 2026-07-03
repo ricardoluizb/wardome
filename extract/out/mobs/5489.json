@@ -3,10 +3,10 @@
   "alias": "mayor rabbit",
   "short_desc": "the mayor",
   "long_desc": "The Mayor of New Thalos stands here.",
-  "detailed_desc": "",
-  "flags_raw": "You see a chubby rabbit dressed in his best suit.",
-  "stats1_raw": "~",
-  "stats2_raw": "g 0 1000 S",
-  "stats3_raw": "10 0 0 2d8+600 3d6+6",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+  "detailed_desc": "You see a chubby rabbit dressed in his best suit.",
+  "flags_raw": "g 0 1000 S",
+  "stats1_raw": "10 0 0 2d8+600 3d6+6",
+  "stats2_raw": "1200 15675",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

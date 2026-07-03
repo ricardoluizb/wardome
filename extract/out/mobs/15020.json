@@ -3,10 +3,10 @@
   "alias": "tim guard lifeguard",
   "short_desc": "Tim, the King's Lifeguard",
   "long_desc": "Tim, the King's Lifeguard, is standing here.",
-  "detailed_desc": "",
-  "flags_raw": "This guy looks just like his twin, Tom.  There seems to be no",
-  "stats1_raw": "doubt that he is completely prepared to give his life for the",
-  "stats2_raw": "King, if necessary.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/150.mob"
+  "detailed_desc": "This guy looks just like his twin, Tom.  There seems to be no\ndoubt that he is completely prepared to give his life for the\nKing, if necessary.",
+  "flags_raw": "ab d 900 S",
+  "stats1_raw": "17 4 1 3d6+205 1d8+8",
+  "stats2_raw": "1000 28000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/150.mob"
 }

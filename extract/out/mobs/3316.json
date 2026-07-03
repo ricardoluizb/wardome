@@ -3,10 +3,10 @@
   "alias": "bandit guard",
   "short_desc": "the bandit guard",
   "long_desc": "A bandit guard stands at attention here.",
-  "detailed_desc": "",
-  "flags_raw": "He may be a bandit, but he's no slacker.  You wonder",
-  "stats1_raw": "who would be able to keep these bandits in line enough",
-  "stats2_raw": "to pull a good guard duty...",
-  "stats3_raw": "",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/33.mob"
+  "detailed_desc": "He may be a bandit, but he's no slacker.  You wonder\nwho would be able to keep these bandits in line enough\nto pull a good guard duty...\n\n(boy is this guy DIRTY!!!)",
+  "flags_raw": "bjk 0 -500 S",
+  "stats1_raw": "18 3 -30 3d5+220 3d6+2",
+  "stats2_raw": "2400 32000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/33.mob"
 }

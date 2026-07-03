@@ -3,10 +3,10 @@
   "alias": "mage young",
   "short_desc": "the mage",
   "long_desc": "A young mage wanders about, oblivious to all.",
-  "detailed_desc": "",
-  "flags_raw": "He seems to be contemplating life, love and the mysteries of the universe.",
-  "stats1_raw": "Then again, he may just have a headache.",
-  "stats2_raw": "~",
-  "stats3_raw": "agh dk 450 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+  "detailed_desc": "He seems to be contemplating life, love and the mysteries of the universe.\nThen again, he may just have a headache.",
+  "flags_raw": "agh dk 450 S",
+  "stats1_raw": "10 10 -1 10d10+100 1d8+8",
+  "stats2_raw": "436 3500",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

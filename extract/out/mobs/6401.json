@@ -3,10 +3,10 @@
   "alias": "demon decay",
   "short_desc": "the Demon of Decay",
   "long_desc": "A cloaked and clawed demon of decay comes at you viciously!",
-  "detailed_desc": "",
-  "flags_raw": "This demon has pure malevolence for anything living.",
-  "stats1_raw": "Oops!  You're living!  I guess that means you!",
-  "stats2_raw": "~",
-  "stats3_raw": "beflmnopr dk -1000 E",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/64.mob"
+  "detailed_desc": "This demon has pure malevolence for anything living.  \nOops!  You're living!  I guess that means you!",
+  "flags_raw": "beflmnopr dk -1000 E",
+  "stats1_raw": "12 9 2 3d5+145 2d7+1",
+  "stats2_raw": "0 10000",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/64.mob"
 }

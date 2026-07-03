@@ -3,10 +3,10 @@
   "alias": "bandit",
   "short_desc": "the bandit",
   "long_desc": "A bandit springs into action upon seeing you.",
-  "detailed_desc": "",
-  "flags_raw": "Whew!  Has this guy ever seen a bath?  His face, hands, arms...",
-  "stats1_raw": "nearly every bit of him is covered with grime, dust, dirt and",
-  "stats2_raw": "decay.  His sword is polished and cleaned though...",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/33.mob"
+  "detailed_desc": "Whew!  Has this guy ever seen a bath?  His face, hands, arms...\nnearly every bit of him is covered with grime, dust, dirt and\ndecay.  His sword is polished and cleaned though...",
+  "flags_raw": "chjk 0 -500 S",
+  "stats1_raw": "16 5 -20 3d5+195 2d8+3",
+  "stats2_raw": "1000 25000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/33.mob"
 }

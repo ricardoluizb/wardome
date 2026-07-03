@@ -3,10 +3,10 @@
   "alias": "spider wolf",
   "short_desc": "the wolf spider",
   "long_desc": "The wolf spider is here, licking its bloody fangs.",
-  "detailed_desc": "",
-  "flags_raw": "The wolf spider is hairy, very hairy.",
-  "stats1_raw": "~",
-  "stats2_raw": "bf 0 -300 S",
-  "stats3_raw": "6 12 6 3d8+70 2d5+3",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/63.mob"
+  "detailed_desc": "The wolf spider is hairy, very hairy.",
+  "flags_raw": "bf 0 -300 S",
+  "stats1_raw": "6 12 6 3d8+70 2d5+3",
+  "stats2_raw": "1250 6000",
+  "stats3_raw": "8 8 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/63.mob"
 }

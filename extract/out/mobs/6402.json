@@ -3,10 +3,10 @@
   "alias": "book monster guardian",
   "short_desc": "the Book Monster",
   "long_desc": "A mound of books rise up into a human shape and tries to hit you!",
-  "detailed_desc": "",
-  "flags_raw": "Ironically enough, the book-monster's head is War and",
-  "stats1_raw": "Peace.  Hmm.",
-  "stats2_raw": "~",
-  "stats3_raw": "beflmnopqr dk 0 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/64.mob"
+  "detailed_desc": "Ironically enough, the book-monster's head is War and\nPeace.  Hmm.",
+  "flags_raw": "beflmnopqr dk 0 S",
+  "stats1_raw": "14 7 1 1d1+199 2d8+2",
+  "stats2_raw": "0 18000",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/64.mob"
 }

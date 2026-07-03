@@ -3,10 +3,10 @@
   "alias": "apprentice young",
   "short_desc": "the young apprentice",
   "long_desc": "A young apprentice is sleeping here.",
-  "detailed_desc": "",
-  "flags_raw": "He seems to be dreaming.",
-  "stats1_raw": "~",
-  "stats2_raw": "abcgh dk 350 S",
-  "stats3_raw": "7 7 2 7d6+25 2d4+4",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+  "detailed_desc": "He seems to be dreaming.",
+  "flags_raw": "abcgh dk 350 S",
+  "stats1_raw": "7 7 2 7d6+25 2d4+4",
+  "stats2_raw": "211 2650",
+  "stats3_raw": "4 4 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

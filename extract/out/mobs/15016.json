@@ -3,10 +3,10 @@
   "alias": "butler james",
   "short_desc": "James the Butler",
   "long_desc": "James the Butler is standing here, looking pompous.",
-  "detailed_desc": "",
-  "flags_raw": "The typical perfect butler: upper middle age, a bit bald and with",
-  "stats1_raw": "an impressive belly.",
-  "stats2_raw": "~",
-  "stats3_raw": "ag 0 500 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/150.mob"
+  "detailed_desc": "The typical perfect butler: upper middle age, a bit bald and with \nan impressive belly.",
+  "flags_raw": "ag 0 500 S",
+  "stats1_raw": "8 13 3 1d6+100 1d9+2",
+  "stats2_raw": "200 3750",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/150.mob"
 }

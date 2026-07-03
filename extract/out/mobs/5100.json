@@ -3,10 +3,10 @@
   "alias": "goblin slave",
   "short_desc": "the goblin slave",
   "long_desc": "A goblin slave lies here asleep.",
-  "detailed_desc": "",
-  "flags_raw": "The defenseless goblin begs for mercy.",
-  "stats1_raw": "~",
-  "stats2_raw": "bh 0 350 S",
-  "stats3_raw": "1 20 9 1d11+11 1d5+0",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/51.mob"
+  "detailed_desc": "The defenseless goblin begs for mercy.",
+  "flags_raw": "bh 0 350 S",
+  "stats1_raw": "1 20 9 1d11+11 1d5+0",
+  "stats2_raw": "0 100",
+  "stats3_raw": "4 4 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/51.mob"
 }

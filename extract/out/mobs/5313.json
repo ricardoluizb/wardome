@@ -3,10 +3,10 @@
   "alias": "gynosphinx sphinx",
   "short_desc": "the gynosphinx",
   "long_desc": "A gynosphinx sits here, befuddled by a riddle.",
-  "detailed_desc": "",
-  "flags_raw": "The gynosphinx is a crafty but gentle creature, having the body of a",
-  "stats1_raw": "beautiful dark-skinned woman from the waist up, a feathery set of wings",
-  "stats2_raw": "and the hind legs of a mighty cat.  Right now she is confused, having",
-  "stats3_raw": "just heard a puzzling riddle from a cousin criosphinx.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/53.mob"
+  "detailed_desc": "The gynosphinx is a crafty but gentle creature, having the body of a\nbeautiful dark-skinned woman from the waist up, a feathery set of wings\nand the hind legs of a mighty cat.  Right now she is confused, having \njust heard a puzzling riddle from a cousin criosphinx.",
+  "flags_raw": "abelnoq dkp 100 S",
+  "stats1_raw": "19 1 0 19d19+190 2d10+10",
+  "stats2_raw": "10000 35000",
+  "stats3_raw": "8 8 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/53.mob"
 }

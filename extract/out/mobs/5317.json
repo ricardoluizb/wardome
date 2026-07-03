@@ -3,10 +3,10 @@
   "alias": "ramses mummy",
   "short_desc": "Ramses the Damned",
   "long_desc": "You have awakened the mighty servant to the pharoahs, Ramses.",
-  "detailed_desc": "",
-  "flags_raw": "As your light spills over his face and body, you can see his features",
-  "stats1_raw": "begin to fill out, swell, and harden, until an apparently healthy man",
-  "stats2_raw": "stands before you, clad only in the raiments he was left in when he last",
-  "stats3_raw": "slept.  His hair is a soft black, his skin a deep chocolate, and his",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/53.mob"
+  "detailed_desc": "As your light spills over his face and body, you can see his features\nbegin to fill out, swell, and harden, until an apparently healthy man \nstands before you, clad only in the raiments he was left in when he last \nslept.  His hair is a soft black, his skin a deep chocolate, and his \ntall frame is totally still, his chest not even moving to breathe.",
+  "flags_raw": "abelnopr dhkp 150 S",
+  "stats1_raw": "38 -18 -18 38d38+380 8d5+40",
+  "stats2_raw": "88000 1000000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/53.mob"
 }

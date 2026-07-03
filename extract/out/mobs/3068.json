@@ -3,10 +3,10 @@
   "alias": "green gelatinous blob",
   "short_desc": "the green gelatinous blob",
   "long_desc": "An oozing green gelatinous blob is here, sucking in bits of debris.",
-  "detailed_desc": "",
-  "flags_raw": "A horrid looking thing; it is huge, greenish, and looks like the blob.",
-  "stats1_raw": "~",
-  "stats2_raw": "aeghlnopqr d 0 E",
-  "stats3_raw": "20 0 0 1d11+325 3d6+5",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+  "detailed_desc": "A horrid looking thing; it is huge, greenish, and looks like the blob.",
+  "flags_raw": "aeghlnopqr d 0 E",
+  "stats1_raw": "20 0 0 1d11+325 3d6+5",
+  "stats2_raw": "1000 40000",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

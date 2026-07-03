@@ -3,10 +3,10 @@
   "alias": "sultan",
   "short_desc": "the Sultan",
   "long_desc": "The Sultan rests here on his throne.",
-  "detailed_desc": "",
-  "flags_raw": "You see a large wealthy man in red robes smiling at you.",
-  "stats1_raw": "~",
-  "stats2_raw": "beilno dhk 200 S",
-  "stats3_raw": "10 5 -4 6d6+830 1d6+0",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+  "detailed_desc": "You see a large wealthy man in red robes smiling at you.",
+  "flags_raw": "beilno dhk 200 S",
+  "stats1_raw": "10 5 -4 6d6+830 1d6+0",
+  "stats2_raw": "1200 25000",
+  "stats3_raw": "5 5 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

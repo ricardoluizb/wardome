@@ -3,10 +3,10 @@
   "alias": "baker granite head",
   "short_desc": "Granite Head the baker",
   "long_desc": "Granite Head, the baker, is waiting for a customer here.",
-  "detailed_desc": "",
-  "flags_raw": "Granite Head is covered with flour and grains.",
-  "stats1_raw": "~",
-  "stats2_raw": "ablm d 900 S",
-  "stats3_raw": "33 0 -10 1d1+30000 2d8+22",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/65.mob"
+  "detailed_desc": "Granite Head is covered with flour and grains.",
+  "flags_raw": "ablm d 900 S",
+  "stats1_raw": "33 0 -10 1d1+30000 2d8+22",
+  "stats2_raw": "55000 800000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/65.mob"
 }

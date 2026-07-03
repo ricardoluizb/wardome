@@ -3,10 +3,10 @@
   "alias": "innkeeper",
   "short_desc": "the innkeeper",
   "long_desc": "An aged innkeeper greets you as you enter.",
-  "detailed_desc": "",
-  "flags_raw": "He is old and greying, but seems to have been able to",
-  "stats1_raw": "keep his mental faculties through the years.  A large",
-  "stats2_raw": "woolen sweater is wrapped about him for warmth.  His",
-  "stats3_raw": "blue eyes dance with amusement as he notices your weapons,",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/33.mob"
+  "detailed_desc": "He is old and greying, but seems to have been able to\nkeep his mental faculties through the years.  A large\nwoolen sweater is wrapped about him for warmth.  His\nblue eyes dance with amusement as he notices your weapons,\nbut he doesn't seem too terribly startled.",
+  "flags_raw": "b 0 750 S",
+  "stats1_raw": "10 11 20 3d5+120 2d6+1",
+  "stats2_raw": "2000 9000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/33.mob"
 }

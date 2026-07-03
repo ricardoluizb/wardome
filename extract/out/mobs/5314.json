@@ -3,10 +3,10 @@
   "alias": "criosphinx sphinx",
   "short_desc": "the criosphinx",
   "long_desc": "A criosphinx calmly watches you.",
-  "detailed_desc": "",
-  "flags_raw": "The criosphinx is a calm and friendly creature, having the head of a ram atop",
-  "stats1_raw": "the body of a well-furred feline with eagle-like wings.  He delights in riddles,",
-  "stats2_raw": "and in poking occasional fun at his easily confused lesser cousins.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/53.mob"
+  "detailed_desc": "The criosphinx is a calm and friendly creature, having the head of a ram atop\nthe body of a well-furred feline with eagle-like wings.  He delights in riddles,\nand in poking occasional fun at his easily confused lesser cousins.",
+  "flags_raw": "abelnoq dkp 300 S",
+  "stats1_raw": "23 -3 -2 23d23+230 3d10+15",
+  "stats2_raw": "25000 80000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/53.mob"
 }

@@ -3,10 +3,10 @@
   "alias": "orc",
   "short_desc": "the orc",
   "long_desc": "The orc is stuck in the web and he can't get out.",
-  "detailed_desc": "",
-  "flags_raw": "You notice an evil look in his eyes, but he seems quite drained of life,",
-  "stats1_raw": "and all he can do is glare at you while he's stuck in this web.",
-  "stats2_raw": "~",
-  "stats3_raw": "b 0 -400 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/63.mob"
+  "detailed_desc": "You notice an evil look in his eyes, but he seems quite drained of life,\nand all he can do is glare at you while he's stuck in this web.",
+  "flags_raw": "b 0 -400 S",
+  "stats1_raw": "2 19 8 2d10+10 2d3+0",
+  "stats2_raw": "10 300",
+  "stats3_raw": "6 6 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/63.mob"
 }

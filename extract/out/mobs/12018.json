@@ -3,10 +3,10 @@
   "alias": "gateguard guard",
   "short_desc": "the gateguard",
   "long_desc": "A gateguard stands here, tending the gate.",
-  "detailed_desc": "",
-  "flags_raw": "You see a strong, loyal public defender.",
-  "stats1_raw": "~",
-  "stats2_raw": "abcel 0 1000 S",
-  "stats3_raw": "11 10 2 3d6+130 1d6+5",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+  "detailed_desc": "You see a strong, loyal public defender.",
+  "flags_raw": "abcel 0 1000 S",
+  "stats1_raw": "11 10 2 3d6+130 1d6+5",
+  "stats2_raw": "500 11000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/120.mob"
 }

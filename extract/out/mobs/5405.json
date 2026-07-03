@@ -3,10 +3,10 @@
   "alias": "bartender man mage old",
   "short_desc": "the old withered man",
   "long_desc": "An old withered man leans against the bar.",
-  "detailed_desc": "",
-  "flags_raw": "He looks distracted as he pours five drinks at once without error.",
-  "stats1_raw": "~",
-  "stats2_raw": "blno d 0 S",
-  "stats3_raw": "35 9 -1 1d1+12000 1d5+3",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+  "detailed_desc": "He looks distracted as he pours five drinks at once without error.",
+  "flags_raw": "blno d 0 S",
+  "stats1_raw": "35 9 -1 1d1+12000 1d5+3",
+  "stats2_raw": "1 1000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

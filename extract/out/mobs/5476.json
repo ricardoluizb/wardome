@@ -3,10 +3,10 @@
   "alias": "couatl",
   "short_desc": "the couatl",
   "long_desc": "A couatl hovers here.",
-  "detailed_desc": "",
-  "flags_raw": "A beautiful creature with the body of a serpent and feathered wings the",
-  "stats1_raw": "colour of the rainbow.",
-  "stats2_raw": "~",
-  "stats3_raw": "belnoq dghkp 300 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+  "detailed_desc": "A beautiful creature with the body of a serpent and feathered wings the\ncolour of the rainbow.",
+  "flags_raw": "belnoq dghkp 300 S",
+  "stats1_raw": "15 10 1 10d5+130 2d4+2",
+  "stats2_raw": "0 2400",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

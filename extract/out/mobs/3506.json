@@ -3,10 +3,10 @@
   "alias": "bard",
   "short_desc": "the bard",
   "long_desc": "A sullen bard is here, drinking away his problems.",
-  "detailed_desc": "",
-  "flags_raw": "You can smell the alcohol on his breath from across the room.  This poor",
-  "stats1_raw": "bard has been sitting here quite a while, drinking himself into oblivion.",
-  "stats2_raw": "~",
-  "stats3_raw": "bglm d 600 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/35.mob"
+  "detailed_desc": "You can smell the alcohol on his breath from across the room.  This poor\nbard has been sitting here quite a while, drinking himself into oblivion.",
+  "flags_raw": "bglm d 600 S",
+  "stats1_raw": "8 13 3 1d12+110 2d6+0",
+  "stats2_raw": "1500 3750",
+  "stats3_raw": "6 6 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/35.mob"
 }

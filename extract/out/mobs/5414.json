@@ -3,10 +3,10 @@
   "alias": "vera lady",
   "short_desc": "Vera the veggie lady",
   "long_desc": "Vera the veggie lady beems as you look over her stand.",
-  "detailed_desc": "",
-  "flags_raw": "A tall slender woman stands before you smiling broadly.",
-  "stats1_raw": "~",
-  "stats2_raw": "blno d 0 S",
-  "stats3_raw": "35 10 5 1d1+30000 1d5+5",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+  "detailed_desc": "A tall slender woman stands before you smiling broadly.",
+  "flags_raw": "blno d 0 S",
+  "stats1_raw": "35 10 5 1d1+30000 1d5+5",
+  "stats2_raw": "1 2000",
+  "stats3_raw": "8 8 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

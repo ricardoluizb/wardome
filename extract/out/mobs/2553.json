@@ -3,10 +3,10 @@
   "alias": "librarian mage",
   "short_desc": "the Librarian",
   "long_desc": "The Librarian has fallen asleep at his desk here.",
-  "detailed_desc": "",
-  "flags_raw": "He looks like a rather peaceful old man.",
-  "stats1_raw": "~",
-  "stats2_raw": "abfgh dk 450 S",
-  "stats3_raw": "23 3 -6 23d23+230 3d6+5",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+  "detailed_desc": "He looks like a rather peaceful old man.",
+  "flags_raw": "abfgh dk 450 S",
+  "stats1_raw": "23 3 -6 23d23+230 3d6+5",
+  "stats2_raw": "1287 29500",
+  "stats3_raw": "4 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

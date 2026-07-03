@@ -3,10 +3,10 @@
   "alias": "wizard speaker mage",
   "short_desc": "the wizard",
   "long_desc": "An old wizard is here making a speech here.",
-  "detailed_desc": "",
-  "flags_raw": "This wizzened old man looks like he could easily pass for the oldest",
-  "stats1_raw": "living man.  Of course, having heard stories about some of the magic",
-  "stats2_raw": "available to the people living here, and what toll the magic draws...",
-  "stats3_raw": "this man might be as young as you.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+  "detailed_desc": "This wizzened old man looks like he could easily pass for the oldest\nliving man.  Of course, having heard stories about some of the magic\navailable to the people living here, and what toll the magic draws...\nthis man might be as young as you.",
+  "flags_raw": "abcgh dk 400 S",
+  "stats1_raw": "18 4 -5 18d18+180 3d4+8",
+  "stats2_raw": "2468 31000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

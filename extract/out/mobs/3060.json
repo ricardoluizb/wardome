@@ -3,10 +3,10 @@
   "alias": "cityguard guard",
   "short_desc": "the cityguard",
   "long_desc": "A cityguard stands here.",
-  "detailed_desc": "",
-  "flags_raw": "A big, strong, helpful, trustworthy guard.",
-  "stats1_raw": "~",
-  "stats2_raw": "aglm d 1000 S",
-  "stats3_raw": "10 10 1 1d12+123 1d8+5",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+  "detailed_desc": "A big, strong, helpful, trustworthy guard.",
+  "flags_raw": "aglm d 1000 S",
+  "stats1_raw": "10 10 1 1d12+123 1d8+5",
+  "stats2_raw": "500 9000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

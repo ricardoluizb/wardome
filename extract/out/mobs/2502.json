@@ -3,10 +3,10 @@
   "alias": "edgar",
   "short_desc": "Edgar",
   "long_desc": "Edgar the Human Swordpupil is standing here, looking quite lost.",
-  "detailed_desc": "",
-  "flags_raw": "Edgar says 'pardon me, can you tell me where to buy cups?'",
-  "stats1_raw": "",
-  "stats2_raw": "You see before you, one of Midgaard's finest fighting elite, the mighty",
-  "stats3_raw": "bunny slayer himself, Edgar the Horrible!",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+  "detailed_desc": "Edgar says 'pardon me, can you tell me where to buy cups?'\n\nYou see before you, one of Midgaard's finest fighting elite, the mighty\nbunny slayer himself, Edgar the Horrible!",
+  "flags_raw": "ch k 1000 S",
+  "stats1_raw": "1 20 10 3d9+10 1d8+1",
+  "stats2_raw": "23 100",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

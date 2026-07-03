@@ -3,10 +3,10 @@
   "alias": "tatorious wizard",
   "short_desc": "Tatorious",
   "long_desc": "Tatorious the wizard is here counting his earnings.",
-  "detailed_desc": "",
-  "flags_raw": "Tatorious winks at you mischievously.",
-  "stats1_raw": "~",
-  "stats2_raw": "b dk 900 S",
-  "stats3_raw": "25 0 -8 1d1+30000 3d7+21",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+  "detailed_desc": "Tatorious winks at you mischievously.",
+  "flags_raw": "b dk 900 S",
+  "stats1_raw": "25 0 -8 1d1+30000 3d7+21",
+  "stats2_raw": "5000 24000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

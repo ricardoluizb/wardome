@@ -3,10 +3,10 @@
   "alias": "duwick man",
   "short_desc": "Duwick",
   "long_desc": "A truly immense man laughs at you, and draws his knife!",
-  "detailed_desc": "",
-  "flags_raw": "This has to be one of the biggest men you've ever seen.  He is",
-  "stats1_raw": "a full seven feet toe to head, and weighs a good three hundred",
-  "stats2_raw": "pounds -- mostly on his biceps and pectorals it appears.  An",
-  "stats3_raw": "ornate scabbard slaps by his side, with the pommel of a silvered",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/33.mob"
+  "detailed_desc": "This has to be one of the biggest men you've ever seen.  He is\na full seven feet toe to head, and weighs a good three hundred\npounds -- mostly on his biceps and pectorals it appears.  An\nornate scabbard slaps by his side, with the pommel of a silvered\ndagger sticking out... a tiny weapon for such a large man!",
+  "flags_raw": "bm 0 -900 S",
+  "stats1_raw": "22 0 -70 3d5+400 3d6+10",
+  "stats2_raw": "15000 70000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/33.mob"
 }

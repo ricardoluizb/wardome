@@ -3,10 +3,10 @@
   "alias": "man old",
   "short_desc": "the slumped old man",
   "long_desc": "A slumped, shaking old man stands up and begins to yell at the world.",
-  "detailed_desc": "",
-  "flags_raw": "He wears a faded uniform, decorated with honors of his own creation,",
-  "stats1_raw": "slackened jaws and pasty white bags sagging under his ugly, hating eyes.",
-  "stats2_raw": "A tuft of reckless dark hair scatters across his forehead, and his right",
-  "stats3_raw": "hand shakes and shakes.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/15.mob"
+  "detailed_desc": "He wears a faded uniform, decorated with honors of his own creation,\nslackened jaws and pasty white bags sagging under his ugly, hating eyes.\nA tuft of reckless dark hair scatters across his forehead, and his right\nhand shakes and shakes.",
+  "flags_raw": "bf dk -1000 S",
+  "stats1_raw": "26 -4 -5 4d10+840 4d9+6",
+  "stats2_raw": "34000 180000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/15.mob"
 }

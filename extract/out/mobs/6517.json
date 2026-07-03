@@ -4,9 +4,9 @@
   "short_desc": "the giant snake",
   "long_desc": "There is a giant snake here.",
   "detailed_desc": "",
-  "flags_raw": "~",
-  "stats1_raw": "bf k -1000 S",
-  "stats2_raw": "33 0 -10 300d6+600 4d4+22",
-  "stats3_raw": "3000 800000",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/65.mob"
+  "flags_raw": "bf k -1000 S",
+  "stats1_raw": "33 0 -10 300d6+600 4d4+22",
+  "stats2_raw": "3000 800000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/65.mob"
 }

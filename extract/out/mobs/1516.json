@@ -3,10 +3,10 @@
   "alias": "angel beautiful iblis",
   "short_desc": "Iblis",
   "long_desc": "You gaze in awe at the most beautiful of all angels, Iblis, the Fallen.",
-  "detailed_desc": "",
-  "flags_raw": "He smiles calmly, and begins to tell you of the time when he would not",
-  "stats1_raw": "kneel, would not prostrate himself before the first human beings.  And",
-  "stats2_raw": "then he gestures at you, smiling, and conjures an image of all the",
-  "stats3_raw": "temptations that will be yours if you in turn but follow him.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/15.mob"
+  "detailed_desc": "He smiles calmly, and begins to tell you of the time when he would not\nkneel, would not prostrate himself before the first human beings.  And\nthen he gestures at you, smiling, and conjures an image of all the \ntemptations that will be yours if you in turn but follow him.",
+  "flags_raw": "bcf dk -1000 S",
+  "stats1_raw": "25 -3 -4 10d5+650 4d6+5",
+  "stats2_raw": "25000 145000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/15.mob"
 }

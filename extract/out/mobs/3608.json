@@ -3,10 +3,10 @@
   "alias": "black queen",
   "short_desc": "the Black Queen",
   "long_desc": "The Black Queen stands here.",
-  "detailed_desc": "",
-  "flags_raw": "The Black Queen is a strikingly beautiful woman with pale skin and a",
-  "stats1_raw": "mass of dark hair that crowns her head like a black cloud.  If looks",
-  "stats2_raw": "could kill, you would already be dead.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/36.mob"
+  "detailed_desc": "The Black Queen is a strikingly beautiful woman with pale skin and a\nmass of dark hair that crowns her head like a black cloud.  If looks\ncould kill, you would already be dead.",
+  "flags_raw": "bcfl dh -750 S",
+  "stats1_raw": "32 11 -3 5d10+900 4d6+13",
+  "stats2_raw": "10000 200000",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/36.mob"
 }

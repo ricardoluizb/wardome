@@ -3,10 +3,10 @@
   "alias": "necromancer master",
   "short_desc": "the Necromancer",
   "long_desc": "The Necromancer is here raising undead servants.",
-  "detailed_desc": "",
-  "flags_raw": "Attired all in black, the Necromancer is tall and gangly, but still quite",
-  "stats1_raw": "an imposing figure.  A dark cowl shrouds most of his face, but two blazing",
-  "stats2_raw": "embers which serve as eyes can be seen through the shadow.",
-  "stats3_raw": "The Necromancer shrieks some obscenities and orders his minions to attack.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+  "detailed_desc": "Attired all in black, the Necromancer is tall and gangly, but still quite\nan imposing figure.  A dark cowl shrouds most of his face, but two blazing\nembers which serve as eyes can be seen through the shadow.\nThe Necromancer shrieks some obscenities and orders his minions to attack.",
+  "flags_raw": "abfgh dk -950 S",
+  "stats1_raw": "25 0 -8 25d25+250 3d7+7",
+  "stats2_raw": "11684 35250",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

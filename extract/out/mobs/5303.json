@@ -3,10 +3,10 @@
   "alias": "pyramid watcher",
   "short_desc": "the pyramid watcher",
   "long_desc": "The pyramid watcher protects the tombs from intruders.",
-  "detailed_desc": "",
-  "flags_raw": "The pyramid watcher has made a pledge to destroy any would-be looters of",
-  "stats1_raw": "the tombs of the pharoahs.  He is clad from head to foot in utilitarian",
-  "stats2_raw": "sand-colored clothing.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/53.mob"
+  "detailed_desc": "The pyramid watcher has made a pledge to destroy any would-be looters of\nthe tombs of the pharoahs.  He is clad from head to foot in utilitarian\nsand-colored clothing.",
+  "flags_raw": "bem p 250 S",
+  "stats1_raw": "8 12 5 8d8+80 2d6+2",
+  "stats2_raw": "200 3750",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/53.mob"
 }

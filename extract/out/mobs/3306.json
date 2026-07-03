@@ -3,10 +3,10 @@
   "alias": "cyclops",
   "short_desc": "the Cyclops",
   "long_desc": "A Cyclops is here, trying to judge range with no depth perception.",
-  "detailed_desc": "",
-  "flags_raw": "This Cyclops throws rocks real good.  With one eye though,",
-  "stats1_raw": "hitting the target is another matter.  He looks at you and",
-  "stats2_raw": "growls as he misses again!",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/33.mob"
+  "detailed_desc": "This Cyclops throws rocks real good.  With one eye though, \nhitting the target is another matter.  He looks at you and \ngrowls as he misses again!",
+  "flags_raw": "bcflnq 0 -500 E",
+  "stats1_raw": "16 8 0 3d5+295 2d8+2",
+  "stats2_raw": "10000 24000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/33.mob"
 }

@@ -3,10 +3,10 @@
   "alias": "mercury messenger god",
   "short_desc": "Mercury",
   "long_desc": "Mercury, the messenger of the Gods, is standing here.",
-  "detailed_desc": "",
-  "flags_raw": "Mercury is a handsome, youthful God and wears a large grin on his face.",
-  "stats1_raw": "~",
-  "stats2_raw": "belnopqr dkp 1000 E",
-  "stats3_raw": "26 0 -10 5d10+550 4d6+8",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+  "detailed_desc": "Mercury is a handsome, youthful God and wears a large grin on his face.",
+  "flags_raw": "belnopqr dkp 1000 E",
+  "stats1_raw": "26 0 -10 5d10+550 4d6+8",
+  "stats2_raw": "25000 155000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/120.mob"
 }

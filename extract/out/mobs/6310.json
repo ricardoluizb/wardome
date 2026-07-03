@@ -3,10 +3,10 @@
   "alias": "spider bird",
   "short_desc": "the bird spider",
   "long_desc": "The bird spider snaps its powerful jaws.",
-  "detailed_desc": "",
-  "flags_raw": "The Bird Spider has very powerful jaws.",
-  "stats1_raw": "~",
-  "stats2_raw": "bf dk -800 S",
-  "stats3_raw": "14 7 1 1d8+100 2d9+2",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/63.mob"
+  "detailed_desc": "The Bird Spider has very powerful jaws.",
+  "flags_raw": "bf dk -800 S",
+  "stats1_raw": "14 7 1 1d8+100 2d9+2",
+  "stats2_raw": "1750 18000",
+  "stats3_raw": "8 8 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/63.mob"
 }

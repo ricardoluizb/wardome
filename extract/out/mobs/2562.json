@@ -3,10 +3,10 @@
   "alias": "master guildmaster white",
   "short_desc": "the Master of Goodness",
   "long_desc": "The Master of Goodness is here frowning at your intrusion.",
-  "detailed_desc": "",
-  "flags_raw": "He looks like a self-righteous bastard.",
-  "stats1_raw": "~",
-  "stats2_raw": "abcgikl dkh 1000 S",
-  "stats3_raw": "30 -10 -20 30d30+300 2d5+20",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+  "detailed_desc": "He looks like a self-righteous bastard.",
+  "flags_raw": "abcgikl dkh 1000 S",
+  "stats1_raw": "30 -10 -20 30d30+300 2d5+20",
+  "stats2_raw": "21900 150000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

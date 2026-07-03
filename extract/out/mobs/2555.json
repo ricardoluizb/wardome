@@ -3,10 +3,10 @@
   "alias": "cat grey familiar",
   "short_desc": "the grey cat",
   "long_desc": "A grey cat is lounging lazily here.",
-  "detailed_desc": "",
-  "flags_raw": "The grey cat cocks an ear towards you, sensing your scrutiny, then purrs",
-  "stats1_raw": "contentedly.  It looks rather harmless, until you notice its very large",
-  "stats2_raw": "claws.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+  "detailed_desc": "The grey cat cocks an ear towards you, sensing your scrutiny, then purrs\ncontentedly.  It looks rather harmless, until you notice its very large\nclaws.",
+  "flags_raw": "bg dks 0 S",
+  "stats1_raw": "15 5 -5 15d15+150 5d5+5",
+  "stats2_raw": "0 18750",
+  "stats3_raw": "8 8 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

@@ -3,10 +3,10 @@
   "alias": "master charmer",
   "short_desc": "the Master Charmer",
   "long_desc": "The Master Charmer utters the words, 'uuuzzldctz'.",
-  "detailed_desc": "",
-  "flags_raw": "The Master Charmer sizes you up, always looking for a new pet.",
-  "stats1_raw": "~",
-  "stats2_raw": "abf dk -400 S",
-  "stats3_raw": "23 4 -4 23d23+230 3d5+10",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+  "detailed_desc": "The Master Charmer sizes you up, always looking for a new pet.",
+  "flags_raw": "abf dk -400 S",
+  "stats1_raw": "23 4 -4 23d23+230 3d5+10",
+  "stats2_raw": "4672 31050",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

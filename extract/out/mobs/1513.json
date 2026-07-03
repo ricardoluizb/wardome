@@ -3,10 +3,10 @@
   "alias": "umar second caliph",
   "short_desc": "Umar",
   "long_desc": "You see Umar, second of the Rashidun, the successors of the Prophet.",
-  "detailed_desc": "",
-  "flags_raw": "You are amazed at the piety of the man.  He looks at you in sadness,",
-  "stats1_raw": "saying: \"I do not wish to fight you, but if you refuse the truth of",
-  "stats2_raw": "the Word, then I must.\"",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/15.mob"
+  "detailed_desc": "You are amazed at the piety of the man.  He looks at you in sadness,\nsaying: \"I do not wish to fight you, but if you refuse the truth of\nthe Word, then I must.\"",
+  "flags_raw": "b dk 1000 S",
+  "stats1_raw": "25 -3 -4 5d10+650 4d6+5",
+  "stats2_raw": "25000 145000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/15.mob"
 }

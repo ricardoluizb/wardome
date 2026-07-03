@@ -3,10 +3,10 @@
   "alias": "bobcat cat",
   "short_desc": "the bobcat",
   "long_desc": "A medium sized bobcat is stalking a bird here.",
-  "detailed_desc": "",
-  "flags_raw": "The bobcat has sharp claws and teeth, and will probably eat you instead of",
-  "stats1_raw": "the bird if you give it the chance.",
-  "stats2_raw": "~",
-  "stats3_raw": "bf dk -150 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/60.mob"
+  "detailed_desc": "The bobcat has sharp claws and teeth, and will probably eat you instead of\nthe bird if you give it the chance.",
+  "flags_raw": "bf dk -150 S",
+  "stats1_raw": "5 15 5 1d12+60 2d4+3",
+  "stats2_raw": "0 1100",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/60.mob"
 }

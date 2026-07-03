@@ -3,10 +3,10 @@
   "alias": "demon fire",
   "short_desc": "the demon",
   "long_desc": "The hell-fire around you is dominated by a massive, burning demon.",
-  "detailed_desc": "",
-  "flags_raw": "You see nothing but the inexorably red and burning anger of the",
-  "stats1_raw": "lord of the underworld that you fear to be your fate.",
-  "stats2_raw": "~",
-  "stats3_raw": "bcf dk -1000 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/15.mob"
+  "detailed_desc": "You see nothing but the inexorably red and burning anger of the \nlord of the underworld that you fear to be your fate.",
+  "flags_raw": "bcf dk -1000 S",
+  "stats1_raw": "27 -4 -5 75d2+825 4d8+5",
+  "stats2_raw": "40000 180000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/15.mob"
 }

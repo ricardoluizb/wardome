@@ -3,10 +3,10 @@
   "alias": "coach trainer",
   "short_desc": "the coach",
   "long_desc": "There is a coach standing here, going over last minute strategy.",
-  "detailed_desc": "",
-  "flags_raw": "As you try to look over his shoulder and listen in on his mumbling,",
-  "stats1_raw": "he looks up at you and gives you a glare that chills you to the",
-  "stats2_raw": "bone.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+  "detailed_desc": "As you try to look over his shoulder and listen in on his mumbling,\nhe looks up at you and gives you a glare that chills you to the\nbone.",
+  "flags_raw": "bl 0 0 S",
+  "stats1_raw": "11 10 2 4d5+130 2d6+1",
+  "stats2_raw": "500 11000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/120.mob"
 }

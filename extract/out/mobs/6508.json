@@ -3,10 +3,10 @@
   "alias": "mineleader dwarven dwarf mine leader",
   "short_desc": "the mine leader",
   "long_desc": "A dwarven mine leader is here, supervising the work.",
-  "detailed_desc": "",
-  "flags_raw": "The mine leader is very big and very strong, though he must be fairly",
-  "stats1_raw": "bright also, to have gotten this job.",
-  "stats2_raw": "~",
-  "stats3_raw": "bl k 700 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/65.mob"
+  "detailed_desc": "The mine leader is very big and very strong, though he must be fairly\nbright also, to have gotten this job.",
+  "flags_raw": "bl k 700 S",
+  "stats1_raw": "19 1 0 50d2+270 3d4+6",
+  "stats2_raw": "18000 35000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/65.mob"
 }

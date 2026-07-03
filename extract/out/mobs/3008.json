@@ -3,10 +3,10 @@
   "alias": "uncle juan",
   "short_desc": "Uncle Juan",
   "long_desc": "Uncle Juan is here ready to take your order.",
-  "detailed_desc": "",
-  "flags_raw": "He looks like he may or may not have a green card.",
-  "stats1_raw": "~",
-  "stats2_raw": "ablno 0 900 S",
-  "stats3_raw": "33 0 -10 1d1+30000 2d8+18",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+  "detailed_desc": "He looks like he may or may not have a green card.",
+  "flags_raw": "ablno 0 900 S",
+  "stats1_raw": "33 0 -10 1d1+30000 2d8+18",
+  "stats2_raw": "2000 160000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

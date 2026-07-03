@@ -3,10 +3,10 @@
   "alias": "rat large",
   "short_desc": "the large rat",
   "long_desc": "There is a large rat here, poking through the foodstuffs lying around.",
-  "detailed_desc": "",
-  "flags_raw": "The large rat is about two feet long from head to tail and has claws the",
-  "stats1_raw": "size of your fingers, looking very nasty.  It seems to be quite occupied",
-  "stats2_raw": "with all the chewed open foodstuffs lying about the room.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/79.mob"
+  "detailed_desc": "The large rat is about two feet long from head to tail and has claws the\nsize of your fingers, looking very nasty.  It seems to be quite occupied\nwith all the chewed open foodstuffs lying about the room.",
+  "flags_raw": "bf k -800 S",
+  "stats1_raw": "12 9 2 1d10+150 2d6+2",
+  "stats2_raw": "2513 13000",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/79.mob"
 }

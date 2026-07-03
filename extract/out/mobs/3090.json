@@ -3,10 +3,10 @@
   "alias": "kitten",
   "short_desc": "the kitten",
   "long_desc": "A small loyal kitten is here.",
-  "detailed_desc": "",
-  "flags_raw": "The kitten looks like a cute, little, fierce fighter.",
-  "stats1_raw": "~",
-  "stats2_raw": "bco 0 0 E",
-  "stats3_raw": "1 20 9 1d6+11 1d4+0",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+  "detailed_desc": "The kitten looks like a cute, little, fierce fighter.",
+  "flags_raw": "bco 0 0 E",
+  "stats1_raw": "1 20 9 1d6+11 1d4+0",
+  "stats2_raw": "0 100",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

@@ -3,10 +3,10 @@
   "alias": "mineworker dwarven dwarf miner worker",
   "short_desc": "the dwarven mineworker",
   "long_desc": "A dwarven mineworker is here.",
-  "detailed_desc": "",
-  "flags_raw": "The mineworker is very tired, and very dirty, and he has bulging muscles.",
-  "stats1_raw": "~",
-  "stats2_raw": "bl k 500 S",
-  "stats3_raw": "4 16 7 3d13+40 1d3+2",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/65.mob"
+  "detailed_desc": "The mineworker is very tired, and very dirty, and he has bulging muscles.",
+  "flags_raw": "bl k 500 S",
+  "stats1_raw": "4 16 7 3d13+40 1d3+2",
+  "stats2_raw": "600 700",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/65.mob"
 }

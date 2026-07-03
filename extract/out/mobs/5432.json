@@ -3,10 +3,10 @@
   "alias": "kareem dwarf mercenary",
   "short_desc": "Kareem",
   "long_desc": "Kareem the Dwarven Mercenary stands here.",
-  "detailed_desc": "",
-  "flags_raw": "This short stocky fellow has a chest the girth of a barrel.",
-  "stats1_raw": "~",
-  "stats2_raw": "gh d 0 S",
-  "stats3_raw": "12 9 0 4d4+50 2d6+5",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+  "detailed_desc": "This short stocky fellow has a chest the girth of a barrel.",
+  "flags_raw": "gh d 0 S",
+  "stats1_raw": "12 9 0 4d4+50 2d6+5",
+  "stats2_raw": "1 939",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

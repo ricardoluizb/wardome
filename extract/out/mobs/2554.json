@@ -3,10 +3,10 @@
   "alias": "apprentice",
   "short_desc": "the Master's apprentice",
   "long_desc": "The Master's apprentice leaps to halt your passage.",
-  "detailed_desc": "",
-  "flags_raw": "A powerful wizard in his own right, the apprentice of the master of balance",
-  "stats1_raw": "has given up his station in the mage guild hierarchy in order to serve the",
-  "stats2_raw": "Great Master in hopes of gleaning secrets one could never hope to uncover",
-  "stats3_raw": "alone.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+  "detailed_desc": "A powerful wizard in his own right, the apprentice of the master of balance\nhas given up his station in the mage guild hierarchy in order to serve the\nGreat Master in hopes of gleaning secrets one could never hope to uncover\nalone.",
+  "flags_raw": "abcfg dhk 0 S",
+  "stats1_raw": "24 -3 -12 24d24+240 3d6+6",
+  "stats2_raw": "6723 30750",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

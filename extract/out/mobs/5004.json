@@ -3,10 +3,10 @@
   "alias": "worm giant purple",
   "short_desc": "the sand worm",
   "long_desc": "A giant, purple sand worm thrusts up out of the sand and attacks!",
-  "detailed_desc": "",
-  "flags_raw": "He's big, mean, and purple.  Watch out!",
-  "stats1_raw": "~",
-  "stats2_raw": "abeflpr dfk -300 S",
-  "stats3_raw": "21 0 3 2d10+320 3d7+14",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/50.mob"
+  "detailed_desc": "He's big, mean, and purple.  Watch out!",
+  "flags_raw": "abeflpr dfk -300 S",
+  "stats1_raw": "21 0 3 2d10+320 3d7+14",
+  "stats2_raw": "2540 65000",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/50.mob"
 }

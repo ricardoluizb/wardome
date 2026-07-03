@@ -3,10 +3,10 @@
   "alias": "sparrow",
   "short_desc": "the sparrow",
   "long_desc": "A sparrow is flapping around by the ground.",
-  "detailed_desc": "",
-  "flags_raw": "The sparrow looks like it is enjoying life.",
-  "stats1_raw": "~",
-  "stats2_raw": "g 0 200 S",
-  "stats3_raw": "0 20 9 3d3+1 1d4+0",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/60.mob"
+  "detailed_desc": "The sparrow looks like it is enjoying life.",
+  "flags_raw": "g 0 200 S",
+  "stats1_raw": "0 20 9 3d3+1 1d4+0",
+  "stats2_raw": "0 25",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/60.mob"
 }

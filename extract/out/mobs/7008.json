@@ -3,10 +3,10 @@
   "alias": "homunculus creature",
   "short_desc": "the creature homunculus",
   "long_desc": "The creature homunculus is here, looking at you with an evil look.",
-  "detailed_desc": "",
-  "flags_raw": "The homunculus appears in a man-like form, about eighteen inches tall,",
-  "stats1_raw": "has a greenish, reptilian skin, leathery wings, and a batlike mouth,",
-  "stats2_raw": "with teeth dripping with a greenish sludge.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/70.mob"
+  "detailed_desc": "The homunculus appears in a man-like form, about eighteen inches tall,\nhas a greenish, reptilian skin, leathery wings, and a batlike mouth,\nwith teeth dripping with a greenish sludge.",
+  "flags_raw": "nop df -780 S",
+  "stats1_raw": "11 10 1 6d3+130 2d6+2",
+  "stats2_raw": "500 11500",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/70.mob"
 }

@@ -3,10 +3,10 @@
   "alias": "cryogenicist cryo",
   "short_desc": "the cryogenicist",
   "long_desc": "The cryogenicist is here, playing with a canister of liquid nitrogen.",
-  "detailed_desc": "",
-  "flags_raw": "You notice a tired look in her face.  She looks like she isn't paid well",
-  "stats1_raw": "enough to put up with any crap from mud players with attitudes.",
-  "stats2_raw": "~",
-  "stats3_raw": "ablno dfp 900 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+  "detailed_desc": "You notice a tired look in her face.  She looks like she isn't paid well\nenough to put up with any crap from mud players with attitudes.",
+  "flags_raw": "ablno dfp 900 S",
+  "stats1_raw": "33 0 -10 1d1+30000 2d8+32",
+  "stats2_raw": "0 0",
+  "stats3_raw": "8 8 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

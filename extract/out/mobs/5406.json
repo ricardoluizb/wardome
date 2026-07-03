@@ -3,10 +3,10 @@
   "alias": "john brother singer lead",
   "short_desc": "Brother John",
   "long_desc": "Brother John, lead singer for the Lokettes stands on stage.",
-  "detailed_desc": "",
-  "flags_raw": "You see the lead singer of the Lokettes lip synching to an old Zochan",
-  "stats1_raw": "tune.",
-  "stats2_raw": "~",
-  "stats3_raw": "bg 0 0 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+  "detailed_desc": "You see the lead singer of the Lokettes lip synching to an old Zochan\ntune.",
+  "flags_raw": "bg 0 0 S",
+  "stats1_raw": "15 4 0 3d5+150 2d5+3",
+  "stats2_raw": "21 1350",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

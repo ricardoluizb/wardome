@@ -3,10 +3,10 @@
   "alias": "mimic pottery shards",
   "short_desc": "the mimic",
   "long_desc": "Some broken shards of pottery lie strewn about the floor.",
-  "detailed_desc": "",
-  "flags_raw": "The pottery shards appear to have been part of a large vase at one point,",
-  "stats1_raw": "probably before the city fell.",
-  "stats2_raw": "~",
-  "stats3_raw": "bqr 0 200 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/52.mob"
+  "detailed_desc": "The pottery shards appear to have been part of a large vase at one point,\nprobably before the city fell.",
+  "flags_raw": "bqr 0 200 S",
+  "stats1_raw": "11 14 0 1d8+100 2d5+3",
+  "stats2_raw": "0 9800",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/52.mob"
 }

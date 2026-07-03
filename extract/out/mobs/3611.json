@@ -3,10 +3,10 @@
   "alias": "white king",
   "short_desc": "the White King",
   "long_desc": "The White King stands here.",
-  "detailed_desc": "",
-  "flags_raw": "The White King is a stately figure.  You can easily understand why he",
-  "stats1_raw": "is the king and you are not.",
-  "stats2_raw": "~",
-  "stats3_raw": "bcefl dh 999 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/36.mob"
+  "detailed_desc": "The White King is a stately figure.  You can easily understand why he\nis the king and you are not.",
+  "flags_raw": "bcefl dh 999 S",
+  "stats1_raw": "36 14 -6 10d10+2000 5d8+20",
+  "stats2_raw": "20000 300000",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/36.mob"
 }

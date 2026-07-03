@@ -3,10 +3,10 @@
   "alias": "swordsman",
   "short_desc": "the swordsman",
   "long_desc": "The greatest swordsman in the land is standing here with a sneer on his face.",
-  "detailed_desc": "",
-  "flags_raw": "This is the ultimate swordsman.",
-  "stats1_raw": "~",
-  "stats2_raw": "bflm dkp -400 S",
-  "stats3_raw": "7 12 3 3d10+80 2d5+2",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/9.mob"
+  "detailed_desc": "This is the ultimate swordsman.",
+  "flags_raw": "bflm dkp -400 S",
+  "stats1_raw": "7 12 3 3d10+80 2d5+2",
+  "stats2_raw": "250 3000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/9.mob"
 }

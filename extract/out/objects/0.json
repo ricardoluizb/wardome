@@ -2,12 +2,12 @@
   "id": 0,
   "alias": "bug",
   "short_desc": "a bug",
-  "long_desc": "This object is BAD!  If you see it, there must be a bug in the game.  Please",
-  "action_desc": "report it immediately using the BUG command.",
-  "header_raw": "~",
-  "values_raw": "13 0 0",
-  "cost_raw": "0 0 0 0",
+  "long_desc": "This object is BAD!  If you see it, there must be a bug in the game.  Please\nreport it immediately using the BUG command.",
+  "action_desc": "",
+  "header_raw": "13 0 0",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "0 0 0",
   "extra_descriptions": [],
   "affects": [],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/0.obj"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/obj/0.obj"
 }

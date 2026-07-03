@@ -3,10 +3,10 @@
   "alias": "bodyguard guard",
   "short_desc": "the Sultan's Bodyguard",
   "long_desc": "A bodyguard sizes you up.",
-  "detailed_desc": "",
-  "flags_raw": "The large half-orc quickly glances you over and returns to his duties.",
-  "stats1_raw": "~",
-  "stats2_raw": "abeflm dk 0 S",
-  "stats3_raw": "12 10 3 3d10+100 1d6+3",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+  "detailed_desc": "The large half-orc quickly glances you over and returns to his duties.",
+  "flags_raw": "abeflm dk 0 S",
+  "stats1_raw": "12 10 3 3d10+100 1d6+3",
+  "stats2_raw": "1 400",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

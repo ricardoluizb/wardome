@@ -3,10 +3,10 @@
   "alias": "beagle",
   "short_desc": "the beagle",
   "long_desc": "A small, quick, loyal beagle is here.",
-  "detailed_desc": "",
-  "flags_raw": "The beagle looks like a fierce fighter.",
-  "stats1_raw": "~",
-  "stats2_raw": "bco 0 0 E",
-  "stats3_raw": "2 19 8 1d12+22 1d6+0",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+  "detailed_desc": "The beagle looks like a fierce fighter.",
+  "flags_raw": "bco 0 0 E",
+  "stats1_raw": "2 19 8 1d12+22 1d6+0",
+  "stats2_raw": "0 200",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

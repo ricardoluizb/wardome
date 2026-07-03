@@ -3,10 +3,10 @@
   "alias": "king welmar",
   "short_desc": "King Welmar",
   "long_desc": "The wise King Welmar sits here in his throne.",
-  "detailed_desc": "",
-  "flags_raw": "In his later middle-age, with his beard starting to grey, King Welmar",
-  "stats1_raw": "is still very powerfully built, and wouldn't take kindly to an attack.",
-  "stats2_raw": "Despite that, you know he is well-loved throughout the land, and has",
-  "stats3_raw": "a reputation as a wise and just ruler.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/150.mob"
+  "detailed_desc": "In his later middle-age, with his beard starting to grey, King Welmar\nis still very powerfully built, and wouldn't take kindly to an attack.\nDespite that, you know he is well-loved throughout the land, and has\na reputation as a wise and just ruler.",
+  "flags_raw": "ab dh 1000 S",
+  "stats1_raw": "33 0 -10 3d60+1480 4d8+16",
+  "stats2_raw": "35000 1000000",
+  "stats3_raw": "6 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/150.mob"
 }

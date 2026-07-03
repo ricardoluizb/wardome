@@ -3,10 +3,10 @@
   "alias": "crawler creepy bug thing",
   "short_desc": "the creepy crawler",
   "long_desc": "A creepy little crawling thing is scuttling along the floor at your feet.",
-  "detailed_desc": "",
-  "flags_raw": "Yuck!  If they'd ever clean this place maybe it wouldn't attract vermin",
-  "stats1_raw": "like this disgusting, little, six-legged, brown bug.",
-  "stats2_raw": "~",
-  "stats3_raw": "64 0 -250 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/186.mob"
+  "detailed_desc": "Yuck!  If they'd ever clean this place maybe it wouldn't attract vermin\nlike this disgusting, little, six-legged, brown bug.",
+  "flags_raw": "64 0 -250 S",
+  "stats1_raw": "1 20 10 1d4+8 1d4+0",
+  "stats2_raw": "0 100",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/186.mob"
 }

@@ -3,10 +3,10 @@
   "alias": "lugh librarian",
   "short_desc": "Lugh the Librarian",
   "long_desc": "Lugh the Librarian sits behind a desk.",
-  "detailed_desc": "",
-  "flags_raw": "The huge hulking mass rises as someone asks him a question.",
-  "stats1_raw": "~",
-  "stats2_raw": "belno 0 300 S",
-  "stats3_raw": "10 1 0 10d10+430 3d6+5",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+  "detailed_desc": "The huge hulking mass rises as someone asks him a question.",
+  "flags_raw": "belno 0 300 S",
+  "stats1_raw": "10 1 0 10d10+430 3d6+5",
+  "stats2_raw": "1231 23000",
+  "stats3_raw": "6 6 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

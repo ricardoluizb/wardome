@@ -3,10 +3,10 @@
   "alias": "yochlol",
   "short_desc": "the yochlol",
   "long_desc": "A yochlol forms out of a swirling mist...",
-  "detailed_desc": "",
-  "flags_raw": "The yochlol is not in a good mood.",
-  "stats1_raw": "~",
-  "stats2_raw": "beflnoqr dfhkp -1000 S",
-  "stats3_raw": "23 0 -6 25d2+450 15d2+30",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/51.mob"
+  "detailed_desc": "The yochlol is not in a good mood.",
+  "flags_raw": "beflnoqr dfhkp -1000 S",
+  "stats1_raw": "23 0 -6 25d2+450 15d2+30",
+  "stats2_raw": "60000 80000",
+  "stats3_raw": "8 8 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/51.mob"
 }

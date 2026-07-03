@@ -3,10 +3,10 @@
   "alias": "teacher mage",
   "short_desc": "the spell teacher",
   "long_desc": "A spell teacher screams at your interruption and attacks.",
-  "detailed_desc": "",
-  "flags_raw": "The teacher is quite fierce and rather frightening.",
-  "stats1_raw": "~",
-  "stats2_raw": "abfh dk 300 S",
-  "stats3_raw": "15 5 -4 15d15+150 3d4+9",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+  "detailed_desc": "The teacher is quite fierce and rather frightening.",
+  "flags_raw": "abfh dk 300 S",
+  "stats1_raw": "15 5 -4 15d15+150 3d4+9",
+  "stats2_raw": "1256 20500",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

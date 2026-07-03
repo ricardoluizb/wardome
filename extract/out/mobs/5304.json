@@ -3,10 +3,10 @@
   "alias": "thief tomb",
   "short_desc": "the tomb thief",
   "long_desc": "A sneaky tomb thief moves about in search of treasure.",
-  "detailed_desc": "",
-  "flags_raw": "The thief brushes against you briefly, then slinks back into the shadows.",
-  "stats1_raw": "~",
-  "stats2_raw": "agh pst -250 S",
-  "stats3_raw": "10 10 5 10d10+100 2d6+3",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/53.mob"
+  "detailed_desc": "The thief brushes against you briefly, then slinks back into the shadows.",
+  "flags_raw": "agh pst -250 S",
+  "stats1_raw": "10 10 5 10d10+100 2d6+3",
+  "stats2_raw": "500 9000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/53.mob"
 }

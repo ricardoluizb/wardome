@@ -3,10 +3,10 @@
   "alias": "master scheduler",
   "short_desc": "the master scheduler",
   "long_desc": "The master scheduler is here, writing in an appointment book.",
-  "detailed_desc": "",
-  "flags_raw": "As you look at him, he looks up at you and asks, 'Do you have an",
-  "stats1_raw": "appointment?'  He waits for a few seconds and then asks, 'Would",
-  "stats2_raw": "you like one?'",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+  "detailed_desc": "As you look at him, he looks up at you and asks, 'Do you have an\nappointment?'  He waits for a few seconds and then asks, 'Would\nyou like one?'",
+  "flags_raw": "bl 0 900 S",
+  "stats1_raw": "17 3 0 4d4+210 1d6+9",
+  "stats2_raw": "3000 28000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/120.mob"
 }

@@ -3,10 +3,10 @@
   "alias": "golem wooden",
   "short_desc": "the wooden golem",
   "long_desc": "A wooden golem stands a silent vigil here, guarding the stairs.",
-  "detailed_desc": "",
-  "flags_raw": "He looks flammable.",
-  "stats1_raw": "~",
-  "stats2_raw": "bfgmnopqr dk 100 S",
-  "stats3_raw": "16 7 -5 16d16+160 1d10+10",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+  "detailed_desc": "He looks flammable.",
+  "flags_raw": "bfgmnopqr dk 100 S",
+  "stats1_raw": "16 7 -5 16d16+160 1d10+10",
+  "stats2_raw": "1000 17500",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

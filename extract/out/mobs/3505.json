@@ -3,10 +3,10 @@
   "alias": "innkeeper",
   "short_desc": "the Innkeeper",
   "long_desc": "The Innkeeper stands here, cleaning glasses.",
-  "detailed_desc": "",
-  "flags_raw": "The Innkeeper now spends most of his days waiting for customers, while the",
-  "stats1_raw": "nights are spent watching out for goblins.  His inn is no longer the happy",
-  "stats2_raw": "place that is used to be in days past.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/35.mob"
+  "detailed_desc": "The Innkeeper now spends most of his days waiting for customers, while the\nnights are spent watching out for goblins.  His inn is no longer the happy\nplace that is used to be in days past.",
+  "flags_raw": "bglm 0 400 S",
+  "stats1_raw": "10 8 1 1d12+200 2d8+1",
+  "stats2_raw": "1500 7000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/35.mob"
 }

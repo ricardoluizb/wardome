@@ -3,10 +3,10 @@
   "alias": "orc mutant mutated",
   "short_desc": "the mutant orc",
   "long_desc": "A horribly mutated orc stands here, gibbering.",
-  "detailed_desc": "",
-  "flags_raw": "It doesn't even appear to have registered your arrival... it is",
-  "stats1_raw": "just talking to itself.  Its body is a twisted wreck of orc, man,",
-  "stats2_raw": "beast, and what-not.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/62.mob"
+  "detailed_desc": "It doesn't even appear to have registered your arrival... it is\njust talking to itself.  Its body is a twisted wreck of orc, man,\nbeast, and what-not.",
+  "flags_raw": "0 k 0 S",
+  "stats1_raw": "6 20 100 3d5+60 1d1+0",
+  "stats2_raw": "0 10",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/62.mob"
 }

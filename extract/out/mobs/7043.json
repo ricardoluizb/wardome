@@ -3,10 +3,10 @@
   "alias": "basilisk scaled",
   "short_desc": "the scaled basilisk",
   "long_desc": "The scaled basilisk crawls towards you slowly.",
-  "detailed_desc": "",
-  "flags_raw": "The basilisk is a reptilian monster.  It has eight legs, and a strong,",
-  "stats1_raw": "toothy jaws.  It is dull brown with yellowish underbelly.  Its eyes are",
-  "stats2_raw": "glowing pale green.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/70.mob"
+  "detailed_desc": "The basilisk is a reptilian monster.  It has eight legs, and a strong,\ntoothy jaws.  It is dull brown with yellowish underbelly.  Its eyes are\nglowing pale green.",
+  "flags_raw": "c dfk -250 S",
+  "stats1_raw": "13 11 0 1d12+160 2d7+2",
+  "stats2_raw": "350 16000",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/70.mob"
 }

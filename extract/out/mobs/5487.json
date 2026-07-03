@@ -3,10 +3,10 @@
   "alias": "wolverine wolf",
   "short_desc": "the wolverine",
   "long_desc": "A large wolf like creature leaps out from the darkness.",
-  "detailed_desc": "",
-  "flags_raw": "You see a half wolf, half human beast wearing a glove with long thin",
-  "stats1_raw": "blades on it.",
-  "stats2_raw": "~",
-  "stats3_raw": "bf kps -351 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+  "detailed_desc": "You see a half wolf, half human beast wearing a glove with long thin\nblades on it.",
+  "flags_raw": "bf kps -351 S",
+  "stats1_raw": "15 0 0 10d2+230 2d10+10",
+  "stats2_raw": "0 5000",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

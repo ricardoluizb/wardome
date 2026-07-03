@@ -3,10 +3,10 @@
   "alias": "secretary",
   "short_desc": "the Secretary",
   "long_desc": "A secretary is sitting at the desk, typing away on the typewriter.",
-  "detailed_desc": "",
-  "flags_raw": "She looks very busy.",
-  "stats1_raw": "",
-  "stats2_raw": "The Secretary says 'Sorry, but the Mayor is extremely busy today.'",
-  "stats3_raw": "The Secretary says 'Please sit down and have a seat in the meantime.'",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/31.mob"
+  "detailed_desc": "She looks very busy.\n\nThe Secretary says 'Sorry, but the Mayor is extremely busy today.'\nThe Secretary says 'Please sit down and have a seat in the meantime.'",
+  "flags_raw": "b 0 900 S",
+  "stats1_raw": "12 9 2 1d12+148 2d7+1",
+  "stats2_raw": "100 13000",
+  "stats3_raw": "8 8 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/31.mob"
 }

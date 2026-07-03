@@ -3,10 +3,10 @@
   "alias": "chef",
   "short_desc": "the chef",
   "long_desc": "The chef stands here making dinner.",
-  "detailed_desc": "",
-  "flags_raw": "You see a very large human who seems to taste everything he makes.",
-  "stats1_raw": "~",
-  "stats2_raw": "b 0 400 S",
-  "stats3_raw": "14 6 6 10d2+5 2d10+5",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+  "detailed_desc": "You see a very large human who seems to taste everything he makes.",
+  "flags_raw": "b 0 400 S",
+  "stats1_raw": "14 6 6 10d2+5 2d10+5",
+  "stats2_raw": "16 40",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

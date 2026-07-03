@@ -3,10 +3,10 @@
   "alias": "beetle giant earth",
   "short_desc": "the giant earth beetle",
   "long_desc": "The giant, mean-looking earth beetle is here.",
-  "detailed_desc": "",
-  "flags_raw": "Now, you've seen beetles, but this one is enormous.  It stretches",
-  "stats1_raw": "perhaps two feet from head to tail.  As it notices you, it waves",
-  "stats2_raw": "its six legs about and makes some strange skittering noises at you.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/70.mob"
+  "detailed_desc": "Now, you've seen beetles, but this one is enormous.  It stretches\nperhaps two feet from head to tail.  As it notices you, it waves\nits six legs about and makes some strange skittering noises at you.",
+  "flags_raw": "0 k -300 S",
+  "stats1_raw": "8 13 3 2d10+98 2d4+2",
+  "stats2_raw": "1000 3750",
+  "stats3_raw": "4 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/70.mob"
 }

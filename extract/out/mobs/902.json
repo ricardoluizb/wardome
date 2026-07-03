@@ -3,10 +3,10 @@
   "alias": "mummy rabscuttle",
   "short_desc": "the Mummy of Rabscuttle",
   "long_desc": "The Mummy of Rabscuttle wanders here, hands aloft, walking towards you.",
-  "detailed_desc": "",
-  "flags_raw": "All bandages, no personality.",
-  "stats1_raw": "~",
-  "stats2_raw": "bflm dkp -780 S",
-  "stats3_raw": "11 10 1 6d3+130 2d6+2",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/9.mob"
+  "detailed_desc": "All bandages, no personality.",
+  "flags_raw": "bflm dkp -780 S",
+  "stats1_raw": "11 10 1 6d3+130 2d6+2",
+  "stats2_raw": "750 10500",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/9.mob"
 }

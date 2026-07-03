@@ -3,10 +3,10 @@
   "alias": "mongoose",
   "short_desc": "the wily little mongoose",
   "long_desc": "A small mongoose slinks along the ground, hunting snakes.",
-  "detailed_desc": "",
-  "flags_raw": "The mongoose is a wily rodent, a quick hunter of nasty poisonous snakes.",
-  "stats1_raw": "She sniffs you and appears to be looking for food in your hand.",
-  "stats2_raw": "~",
-  "stats3_raw": "fg k 10 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/53.mob"
+  "detailed_desc": "The mongoose is a wily rodent, a quick hunter of nasty poisonous snakes.\nShe sniffs you and appears to be looking for food in your hand.",
+  "flags_raw": "fg k 10 S",
+  "stats1_raw": "11 10 6 11d11+110 3d5+3",
+  "stats2_raw": "100 10000",
+  "stats3_raw": "8 8 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/53.mob"
 }

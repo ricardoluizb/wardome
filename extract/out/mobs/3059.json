@@ -3,10 +3,10 @@
   "alias": "keeper peacekeeper",
   "short_desc": "the Peacekeeper",
   "long_desc": "A Peacekeeper is standing here, ready to jump in at the first sign of trouble.",
-  "detailed_desc": "",
-  "flags_raw": "He looks very strong and wise.  Looks like he doesn't answer to ANYONE.",
-  "stats1_raw": "~",
-  "stats2_raw": "aeglm d 1000 E",
-  "stats3_raw": "17 3 0 5d6+225 3d3+13",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+  "detailed_desc": "He looks very strong and wise.  Looks like he doesn't answer to ANYONE.",
+  "flags_raw": "aeglm d 1000 E",
+  "stats1_raw": "17 3 0 5d6+225 3d3+13",
+  "stats2_raw": "2500 30000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

@@ -3,10 +3,10 @@
   "alias": "assistant scribe",
   "short_desc": "the scribe's assistant",
   "long_desc": "The scribe's assistant is here folding parchments.",
-  "detailed_desc": "",
-  "flags_raw": "You can tell that he isn't trusted with the more important documents,",
-  "stats1_raw": "since those ones are rolled and sealed with wax.",
-  "stats2_raw": "~",
-  "stats3_raw": "abfgh dk 100 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+  "detailed_desc": "You can tell that he isn't trusted with the more important documents,\nsince those ones are rolled and sealed with wax.",
+  "flags_raw": "abfgh dk 100 S",
+  "stats1_raw": "16 6 -2 16d16+160 3d4+6",
+  "stats2_raw": "1050 21300",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

@@ -3,10 +3,10 @@
   "alias": "cat black familiar",
   "short_desc": "the black cat",
   "long_desc": "A black cat with its fur up hisses at you.",
-  "detailed_desc": "",
-  "flags_raw": "It looks both mean and dangerous.  Petting seems to be completely out of",
-  "stats1_raw": "the question.",
-  "stats2_raw": "~",
-  "stats3_raw": "bg dks -800 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+  "detailed_desc": "It looks both mean and dangerous.  Petting seems to be completely out of\nthe question.",
+  "flags_raw": "bg dks -800 S",
+  "stats1_raw": "16 5 -4 16d16+160 3d7+3",
+  "stats2_raw": "0 19950",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

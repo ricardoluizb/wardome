@@ -3,10 +3,10 @@
   "alias": "witch hag",
   "short_desc": "the ugly witch",
   "long_desc": "An ugly witch is here scrying out secrets.",
-  "detailed_desc": "",
-  "flags_raw": "She has no face at all, just blank skin, rather disturbing.  From about",
-  "stats1_raw": "where her mouth should be, comes a disgusting giggling sound that makes",
-  "stats2_raw": "your skin crawl with revulsion.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+  "detailed_desc": "She has no face at all, just blank skin, rather disturbing.  From about\nwhere her mouth should be, comes a disgusting giggling sound that makes\nyour skin crawl with revulsion.",
+  "flags_raw": "acfg dk -450 S",
+  "stats1_raw": "20 5 -2 20d20+200 3d6+5",
+  "stats2_raw": "2150 26850",
+  "stats3_raw": "8 8 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

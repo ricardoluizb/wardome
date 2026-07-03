@@ -3,10 +3,10 @@
   "alias": "bartender",
   "short_desc": "the bartender",
   "long_desc": "A bartender watches you calmly, while he skillfully mixes a drink.",
-  "detailed_desc": "",
-  "flags_raw": "A tired looking Bartender who hates trouble in his bar.",
-  "stats1_raw": "~",
-  "stats2_raw": "bno 0 900 S",
-  "stats3_raw": "24 2 2 6d10+390 1d8+12",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+  "detailed_desc": "A tired looking Bartender who hates trouble in his bar.",
+  "flags_raw": "bno 0 900 S",
+  "stats1_raw": "24 2 2 6d10+390 1d8+12",
+  "stats2_raw": "2000 80000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

@@ -3,10 +3,10 @@
   "alias": "elder druid",
   "short_desc": "the Elder druid",
   "long_desc": "The Elder druid is here.  He looks very upset about your presence in his home.",
-  "detailed_desc": "",
-  "flags_raw": "The druid looks quite old.  You would think of him as venerable but yet you",
-  "stats1_raw": "know he would be a tough foe.",
-  "stats2_raw": "~",
-  "stats3_raw": "abij dfk 0 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/61.mob"
+  "detailed_desc": "The druid looks quite old.  You would think of him as venerable but yet you\nknow he would be a tough foe.",
+  "flags_raw": "abij dfk 0 S",
+  "stats1_raw": "19 2 0 1d12+236 3d6+4",
+  "stats2_raw": "5000 45000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/61.mob"
 }

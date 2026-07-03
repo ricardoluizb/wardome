@@ -3,10 +3,10 @@
   "alias": "scorpion small",
   "short_desc": "the small scorpion",
   "long_desc": "A small, red scorpion scuttles away at your approach.",
-  "detailed_desc": "",
-  "flags_raw": "The little tail is mighty dangerous for such a small creature.",
-  "stats1_raw": "~",
-  "stats2_raw": "g 0 -50 S",
-  "stats3_raw": "3 17 1 1d6+40 1d8+0",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/50.mob"
+  "detailed_desc": "The little tail is mighty dangerous for such a small creature.",
+  "flags_raw": "g 0 -50 S",
+  "stats1_raw": "3 17 1 1d6+40 1d8+0",
+  "stats2_raw": "0 500",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/50.mob"
 }

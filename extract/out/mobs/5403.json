@@ -3,10 +3,10 @@
   "alias": "thief guildmaster",
   "short_desc": "the guildmaster",
   "long_desc": "Your guildmaster stands here.",
-  "detailed_desc": "",
-  "flags_raw": "A small human dressed in black rests in the corner.  As you enter he grabs",
-  "stats1_raw": "a knife and throws it at you.  It lands in the wall next to your left ear.",
-  "stats2_raw": "'We will now begin', is all he says.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+  "detailed_desc": "A small human dressed in black rests in the corner.  As you enter he grabs\na knife and throws it at you.  It lands in the wall next to your left ear.\n'We will now begin', is all he says.",
+  "flags_raw": "blno dhk 1000 S",
+  "stats1_raw": "16 -10 -10 1d1+10000 5d5+5",
+  "stats2_raw": "1 0",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

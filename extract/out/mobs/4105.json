@@ -3,10 +3,10 @@
   "alias": "centipede",
   "short_desc": "the centipede",
   "long_desc": "A small harmless centipede is here.",
-  "detailed_desc": "",
-  "flags_raw": "Well it doesn't seem to pay any attention to you.",
-  "stats1_raw": "~",
-  "stats2_raw": "b 0 300 S",
-  "stats3_raw": "6 15 4 3d10+50 1d8+1",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/40.mob"
+  "detailed_desc": "Well it doesn't seem to pay any attention to you.",
+  "flags_raw": "b 0 300 S",
+  "stats1_raw": "6 15 4 3d10+50 1d8+1",
+  "stats2_raw": "0 1500",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/40.mob"
 }

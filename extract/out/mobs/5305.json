@@ -3,10 +3,10 @@
   "alias": "ali baba thief",
   "short_desc": "Ali Baba",
   "long_desc": "Ali Baba is here, hunting for the pharoah's tomb.",
-  "detailed_desc": "",
-  "flags_raw": "You see a tall, full-bearded man with a mischevious glint in his eye.  Ali Baba",
-  "stats1_raw": "has made his life from stealing things from others, including many items stolen",
-  "stats2_raw": "recently from under the nose of the hapless guardians of this pyramid.  Someday",
-  "stats3_raw": "he might get caught, but not today...",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/53.mob"
+  "detailed_desc": "You see a tall, full-bearded man with a mischevious glint in his eye.  Ali Baba\nhas made his life from stealing things from others, including many items stolen\nrecently from under the nose of the hapless guardians of this pyramid.  Someday\nhe might get caught, but not today...",
+  "flags_raw": "acegl ps -300 S",
+  "stats1_raw": "18 2 0 18d18+180 3d8+2",
+  "stats2_raw": "1000 30000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/53.mob"
 }

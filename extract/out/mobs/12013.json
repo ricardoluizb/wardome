@@ -3,10 +3,10 @@
   "alias": "page",
   "short_desc": "the page",
   "long_desc": "A page stands here, waiting to run an errand.",
-  "detailed_desc": "",
-  "flags_raw": "You see a young boy who looks very strong and very fast.  He has the look of",
-  "stats1_raw": "a scholar about him.",
-  "stats2_raw": "~",
-  "stats3_raw": "b 0 0 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+  "detailed_desc": "You see a young boy who looks very strong and very fast.  He has the look of\na scholar about him.",
+  "flags_raw": "b 0 0 S",
+  "stats1_raw": "6 15 4 3d6+75 2d4+1",
+  "stats2_raw": "0 1600",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/120.mob"
 }

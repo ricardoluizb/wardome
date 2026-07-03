@@ -3,10 +3,10 @@
   "alias": "sand man sandman",
   "short_desc": "the sandman",
   "long_desc": "A sandman rises up from the desert floor.",
-  "detailed_desc": "",
-  "flags_raw": "The sandman is exactly that -- some sort of strange being formed from the sands",
-  "stats1_raw": "of the desert floor.  It seems quite large and strong and at home in the heat",
-  "stats2_raw": "and sandy winds.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/53.mob"
+  "detailed_desc": "The sandman is exactly that -- some sort of strange being formed from the sands\nof the desert floor.  It seems quite large and strong and at home in the heat\nand sandy winds.",
+  "flags_raw": "efglnopr dkp 0 S",
+  "stats1_raw": "14 6 2 14d14+140 2d7+4",
+  "stats2_raw": "1500 18000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/53.mob"
 }

@@ -3,10 +3,10 @@
   "alias": "shargugh brownie",
   "short_desc": "Shargugh",
   "long_desc": "Shargugh the Forest Brownie is here, grinning broadly at you.",
-  "detailed_desc": "",
-  "flags_raw": "This little fellow is only three foot tall with wild matted brown hair and",
-  "stats1_raw": "long tangled brown beard.  He wears ragged brown and green clothing and looks",
-  "stats2_raw": "as if he is having great fun.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/61.mob"
+  "detailed_desc": "This little fellow is only three foot tall with wild matted brown hair and\nlong tangled brown beard.  He wears ragged brown and green clothing and looks\nas if he is having great fun.",
+  "flags_raw": "acghl bdfgkstp 1000 S",
+  "stats1_raw": "10 1 -10 1d12+47 1d8+0",
+  "stats2_raw": "1000 11000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/61.mob"
 }

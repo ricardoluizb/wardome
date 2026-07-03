@@ -3,10 +3,10 @@
   "alias": "black knight",
   "short_desc": "the Black Knight",
   "long_desc": "Here stands a magnificent knight of the dark realm.",
-  "detailed_desc": "",
-  "flags_raw": "The Black Knight is here, riding his ebony black war horse.  His eyes",
-  "stats1_raw": "flash behind his visor in vengence.",
-  "stats2_raw": "~",
-  "stats3_raw": "bf d -400 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/36.mob"
+  "detailed_desc": "The Black Knight is here, riding his ebony black war horse.  His eyes\nflash behind his visor in vengence.",
+  "flags_raw": "bf d -400 S",
+  "stats1_raw": "18 8 0 4d8+350 2d8+1",
+  "stats2_raw": "3000 22500",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/36.mob"
 }

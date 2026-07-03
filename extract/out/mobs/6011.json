@@ -3,10 +3,10 @@
   "alias": "badger",
   "short_desc": "the sleepy badger",
   "long_desc": "A furry brown badger is curled up under a log here.",
-  "detailed_desc": "",
-  "flags_raw": "The badger is slowly awakening and peering up at you from its burrow. You",
-  "stats1_raw": "know that it won't be moving this slow for long.  Its sharp claws and teeth",
-  "stats2_raw": "catch your attention when you consider killing it.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/60.mob"
+  "detailed_desc": "The badger is slowly awakening and peering up at you from its burrow. You\nknow that it won't be moving this slow for long.  Its sharp claws and teeth\ncatch your attention when you consider killing it.",
+  "flags_raw": "b t 50 S",
+  "stats1_raw": "4 17 5 1d5+48 2d3+2",
+  "stats2_raw": "0 650",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/60.mob"
 }

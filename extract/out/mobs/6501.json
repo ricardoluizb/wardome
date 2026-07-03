@@ -3,10 +3,10 @@
   "alias": "worker dwarf dwarven",
   "short_desc": "the dwarf worker",
   "long_desc": "A dwarven mining worker is here.",
-  "detailed_desc": "",
-  "flags_raw": "He is very dirty, and looks extremely over-worked.",
-  "stats1_raw": "~",
-  "stats2_raw": "glm 0 900 S",
-  "stats3_raw": "13 7 2 25d5+170 2d4+6",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/65.mob"
+  "detailed_desc": "He is very dirty, and looks extremely over-worked.",
+  "flags_raw": "glm 0 900 S",
+  "stats1_raw": "13 7 2 25d5+170 2d4+6",
+  "stats2_raw": "3500 16000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/65.mob"
 }

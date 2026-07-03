@@ -3,10 +3,10 @@
   "alias": "ezmerelda cook",
   "short_desc": "Ezmerelda",
   "long_desc": "Ezmerelda the cook is here stirring a large pot of something.",
-  "detailed_desc": "",
-  "flags_raw": "She does not look like the typical cook you would find in a kitchen,",
-  "stats1_raw": "but she certainly fits what you would expect in a tower fulls of",
-  "stats2_raw": "mages.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+  "detailed_desc": "She does not look like the typical cook you would find in a kitchen,\nbut she certainly fits what you would expect in a tower fulls of\nmages.",
+  "flags_raw": "ab dk -500 S",
+  "stats1_raw": "20 6 -1 20d20+200 3d4+8",
+  "stats2_raw": "1092 31300",
+  "stats3_raw": "8 8 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

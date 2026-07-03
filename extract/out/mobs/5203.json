@@ -3,10 +3,10 @@
   "alias": "mimic boulder skeleton skeletons",
   "short_desc": "the mimic",
   "long_desc": "Two skeletons lie crushed under a large boulder.",
-  "detailed_desc": "",
-  "flags_raw": "This large boulder seems to have been dropped here at some point, since",
-  "stats1_raw": "there aren't any boulders native to this area.  The two skeletons beneath",
-  "stats2_raw": "it are simply that, bones... no rags or anything else appears to be",
-  "stats3_raw": "attached to them.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/52.mob"
+  "detailed_desc": "This large boulder seems to have been dropped here at some point, since\nthere aren't any boulders native to this area.  The two skeletons beneath\nit are simply that, bones... no rags or anything else appears to be\nattached to them.",
+  "flags_raw": "bqr 0 -10 S",
+  "stats1_raw": "14 7 1 3d15+150 3d5+1",
+  "stats2_raw": "0 20000",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/52.mob"
 }

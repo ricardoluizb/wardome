@@ -3,10 +3,10 @@
   "alias": "androsphinx sphinx",
   "short_desc": "the androsphinx",
   "long_desc": "A mighty androsphinx tosses its lion-like mane.",
-  "detailed_desc": "",
-  "flags_raw": "The mighty androsphinx is a huge creature, with the body of a lion whose",
-  "stats1_raw": "face  is quite man-like, perhaps even handsome, and a massive pair of feathered",
-  "stats2_raw": "wings.  Tales are told of pharoahs that were rendered permanently deaf by the",
-  "stats3_raw": "mighty roar of this sphinx.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/53.mob"
+  "detailed_desc": "The mighty androsphinx is a huge creature, with the body of a lion whose\nface  is quite man-like, perhaps even handsome, and a massive pair of feathered\nwings.  Tales are told of pharoahs that were rendered permanently deaf by the \nmighty roar of this sphinx.",
+  "flags_raw": "abelnoq dkp 400 S",
+  "stats1_raw": "27 -7 -6 27d27+270 4d10+20",
+  "stats2_raw": "50000 200000",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/53.mob"
 }

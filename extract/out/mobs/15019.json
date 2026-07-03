@@ -3,10 +3,10 @@
   "alias": "astrologer",
   "short_desc": "the Astrologer",
   "long_desc": "The Astrologer is sitting here, studying a book.",
-  "detailed_desc": "",
-  "flags_raw": "He is old and white-haired, with a long beard.  As you see him,",
-  "stats1_raw": "you can almost believe the rumours about stars deciding Fate,",
-  "stats2_raw": "and that astrology is capable of seeing the future.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/150.mob"
+  "detailed_desc": "He is old and white-haired, with a long beard.  As you see him,\nyou can almost believe the rumours about stars deciding Fate,\nand that astrology is capable of seeing the future.",
+  "flags_raw": "abelno 0 900 S",
+  "stats1_raw": "23 0 -2 1d1+30000 3d8+30",
+  "stats2_raw": "2000 80000",
+  "stats3_raw": "6 6 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/150.mob"
 }

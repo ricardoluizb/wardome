@@ -3,10 +3,10 @@
   "alias": "mindflayer senior mind",
   "short_desc": "the senior mindflayer",
   "long_desc": "The senior mindflayer walks around here, looking for something useful.",
-  "detailed_desc": "",
-  "flags_raw": "This is a horrifying monster indeed, 6'6\" high.  Dressed in purple and black,",
-  "stats1_raw": "and carrying a large mace in its hand.  In the center of its head are four",
-  "stats2_raw": "large tentacles with very sharp points.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/72.mob"
+  "detailed_desc": "This is a horrifying monster indeed, 6'6\" high.  Dressed in purple and black,\nand carrying a large mace in its hand.  In the center of its head are four\nlarge tentacles with very sharp points.",
+  "flags_raw": "acejklm dfk -600 S",
+  "stats1_raw": "8 13 2 1d10+100 2d4+3",
+  "stats2_raw": "400 4500",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/72.mob"
 }

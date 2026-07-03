@@ -3,10 +3,10 @@
   "alias": "diamond golem",
   "short_desc": "the diamond golem",
   "long_desc": "A huge diamond golem is standing guard here.",
-  "detailed_desc": "",
-  "flags_raw": "It looks quite strong.",
-  "stats1_raw": "~",
-  "stats2_raw": "beglnopqr dk 500 S",
-  "stats3_raw": "23 5 -10 23d23+230 3d6+15",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+  "detailed_desc": "It looks quite strong.",
+  "flags_raw": "beglnopqr dk 500 S",
+  "stats1_raw": "23 5 -10 23d23+230 3d6+15",
+  "stats2_raw": "985 15000",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

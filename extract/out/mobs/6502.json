@@ -3,10 +3,10 @@
   "alias": "wraith",
   "short_desc": "the wraith",
   "long_desc": "A wraith is awaiting your first move here.",
-  "detailed_desc": "",
-  "flags_raw": "A black, almost transparent wraith.",
-  "stats1_raw": "~",
-  "stats2_raw": "abfnopr dfk -900 S",
-  "stats3_raw": "25 4 -6 9d7+500 4d5+25",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/65.mob"
+  "detailed_desc": "A black, almost transparent wraith.",
+  "flags_raw": "abfnopr dfk -900 S",
+  "stats1_raw": "25 4 -6 9d7+500 4d5+25",
+  "stats2_raw": "45708 125000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/65.mob"
 }

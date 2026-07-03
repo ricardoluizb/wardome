@@ -3,10 +3,10 @@
   "alias": "statue kali",
   "short_desc": "the statue of Kali",
   "long_desc": "The statue of Kali stands here.",
-  "detailed_desc": "",
-  "flags_raw": "The statue of the Black Mother, Kali, is made of black marble and",
-  "stats1_raw": "is covered with silver runes.",
-  "stats2_raw": "~",
-  "stats3_raw": "abelnopqr dhk -1000 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+  "detailed_desc": "The statue of the Black Mother, Kali, is made of black marble and\nis covered with silver runes.",
+  "flags_raw": "abelnopqr dhk -1000 S",
+  "stats1_raw": "15 -10 -10 1d1+1200 6d10+10",
+  "stats2_raw": "1200 12000",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

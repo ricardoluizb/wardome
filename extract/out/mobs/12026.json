@@ -3,10 +3,10 @@
   "alias": "titus andronicus",
   "short_desc": "Titus Andronicus",
   "long_desc": "Titus Andronicus is standing here, polishing a few swords.",
-  "detailed_desc": "",
-  "flags_raw": "As you look at him, he suddenly swings a newly sharpened sword",
-  "stats1_raw": "at you!  Watch out!",
-  "stats2_raw": "~",
-  "stats3_raw": "beflno dh 500 E",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+  "detailed_desc": "As you look at him, he suddenly swings a newly sharpened sword\nat you!  Watch out!",
+  "flags_raw": "beflno dh 500 E",
+  "stats1_raw": "24 0 -5 1d5+450 1d8+14",
+  "stats2_raw": "31000 85000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/120.mob"
 }

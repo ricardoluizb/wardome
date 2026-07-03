@@ -3,10 +3,10 @@
   "alias": "jupiter king god",
   "short_desc": "Jupiter",
   "long_desc": "Jupiter, King of the Gods, is watching over his realm here.",
-  "detailed_desc": "",
-  "flags_raw": "He is the strongest of the Gods, and certainly no easy mark!  His powers",
-  "stats1_raw": "transcend the plane of the physical, and could easily kill an unprepared",
-  "stats2_raw": "mortal.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+  "detailed_desc": "He is the strongest of the Gods, and certainly no easy mark!  His powers\ntranscend the plane of the physical, and could easily kill an unprepared\nmortal.",
+  "flags_raw": "abeilnopqr dhkp 1000 E",
+  "stats1_raw": "34 0 -10 20d15+950 8d6+50",
+  "stats2_raw": "250000 550000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/120.mob"
 }

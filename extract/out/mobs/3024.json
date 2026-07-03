@@ -3,10 +3,10 @@
   "alias": "sorcerer",
   "short_desc": "the sorcerer",
   "long_desc": "A sorcerer is guarding the entrance.",
-  "detailed_desc": "",
-  "flags_raw": "He is an experienced mage who has specialized in the field of Combat Magic.",
-  "stats1_raw": "He is here to guard the Mage's Guild and his superior knowledge of offensive",
-  "stats2_raw": "as well as defensive spells make him a deadly opponent.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+  "detailed_desc": "He is an experienced mage who has specialized in the field of Combat Magic.\nHe is here to guard the Mage's Guild and his superior knowledge of offensive\nas well as defensive spells make him a deadly opponent.",
+  "flags_raw": "ablnop dh 900 S",
+  "stats1_raw": "33 0 -5 6d10+990 1d8+22",
+  "stats2_raw": "2000 60000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

@@ -3,10 +3,10 @@
   "alias": "lemure blob",
   "short_desc": "the lemure",
   "long_desc": "The lemure blob slithers towards you for an attack!",
-  "detailed_desc": "",
-  "flags_raw": "This looks like a vaguely human blob.  Big black yellow eyes, and a mouth",
-  "stats1_raw": "going a little bit out from the face.  The lemure does not look interested",
-  "stats2_raw": "in you at all, but it attacks anyway.  It looks like its mind has been",
-  "stats3_raw": "burned out.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/70.mob"
+  "detailed_desc": "This looks like a vaguely human blob.  Big black yellow eyes, and a mouth\ngoing a little bit out from the face.  The lemure does not look interested\nin you at all, but it attacks anyway.  It looks like its mind has been\nburned out.",
+  "flags_raw": "fnq k -500 S",
+  "stats1_raw": "5 16 6 3d5+57 2d4+0",
+  "stats2_raw": "0 1000",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/70.mob"
 }

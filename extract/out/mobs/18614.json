@@ -3,10 +3,10 @@
   "alias": "newbie lost",
   "short_desc": "the lost newbie",
   "long_desc": "A newbie is here wandering about aimlessly.",
-  "detailed_desc": "",
-  "flags_raw": "Hmmm... looks like he has been around a while, but he wandered a little",
-  "stats1_raw": "too far from home this time.  Don't think he knows quite where he is,",
-  "stats2_raw": "maybe you should help him out?",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/186.mob"
+  "detailed_desc": "Hmmm... looks like he has been around a while, but he wandered a little\ntoo far from home this time.  Don't think he knows quite where he is,\nmaybe you should help him out?",
+  "flags_raw": "64 0 300 S",
+  "stats1_raw": "4 17 6 8d5+20 1d6+1",
+  "stats2_raw": "250 500",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/186.mob"
 }

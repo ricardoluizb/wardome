@@ -3,10 +3,10 @@
   "alias": "newbie clueless moron",
   "short_desc": "the clueless newbie",
   "long_desc": "A newbie is here looking terribly confused.",
-  "detailed_desc": "",
-  "flags_raw": "What a moron!  Every question that is answered in the help files, he will",
-  "stats1_raw": "ask and he will probably ask 2 or 3 times too.  This guy just doesn't get",
-  "stats2_raw": "it, best put him out of his misery.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/186.mob"
+  "detailed_desc": "What a moron!  Every question that is answered in the help files, he will\nask and he will probably ask 2 or 3 times too.  This guy just doesn't get\nit, best put him out of his misery.",
+  "flags_raw": "68 0 0 S",
+  "stats1_raw": "1 20 10 1d1+19 1d3+1",
+  "stats2_raw": "50 220",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/186.mob"
 }

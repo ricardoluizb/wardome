@@ -3,10 +3,10 @@
   "alias": "wasp queen",
   "short_desc": "the queen wasp",
   "long_desc": "The queen wasp is here, thinking how tasty you look.",
-  "detailed_desc": "",
-  "flags_raw": "You notice a glazed look in her eyes.",
-  "stats1_raw": "~",
-  "stats2_raw": "bf 0 -800 S",
-  "stats3_raw": "14 7 1 1d12+172 2d8+1",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/63.mob"
+  "detailed_desc": "You notice a glazed look in her eyes.",
+  "flags_raw": "bf 0 -800 S",
+  "stats1_raw": "14 7 1 1d12+172 2d8+1",
+  "stats2_raw": "2000 18000",
+  "stats3_raw": "8 8 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/63.mob"
 }

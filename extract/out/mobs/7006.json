@@ -3,10 +3,10 @@
   "alias": "snake",
   "short_desc": "the snake",
   "long_desc": "The snake slithers towards you. It looks very mean.",
-  "detailed_desc": "",
-  "flags_raw": "This snake is of a variety that you do not recall seeing recently.",
-  "stats1_raw": "It has near black skin with small white diamond shaped spots all",
-  "stats2_raw": "over its head and upper body.  A thin green stripe stretches along",
-  "stats3_raw": "each side of its body.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/70.mob"
+  "detailed_desc": "This snake is of a variety that you do not recall seeing recently.\nIt has near black skin with small white diamond shaped spots all\nover its head and upper body.  A thin green stripe stretches along\neach side of its body.",
+  "flags_raw": "af k -500 S",
+  "stats1_raw": "4 16 7 2d5+40 1d9+0",
+  "stats2_raw": "1 1000",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/70.mob"
 }

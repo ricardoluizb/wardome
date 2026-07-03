@@ -3,10 +3,10 @@
   "alias": "queen spider",
   "short_desc": "the Queen spider",
   "long_desc": "The huge, bulky Queen spider is here.",
-  "detailed_desc": "",
-  "flags_raw": "This disgusting creature is at the size of a small elephant.  It has eight",
-  "stats1_raw": "huge, hairy legs that would give it a tremendous speed on almost any surface",
-  "stats2_raw": "if it wasn't so immensely fat.  Its large, bulbous eyes stare back at you.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/61.mob"
+  "detailed_desc": "This disgusting creature is at the size of a small elephant.  It has eight\nhuge, hairy legs that would give it a tremendous speed on almost any surface\nif it wasn't so immensely fat.  Its large, bulbous eyes stare back at you.",
+  "flags_raw": "abgjl dfkp -1000 S",
+  "stats1_raw": "15 6 1 1d12+185 2d8+3",
+  "stats2_raw": "0 31000",
+  "stats3_raw": "8 8 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/61.mob"
 }

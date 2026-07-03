@@ -3,10 +3,10 @@
   "alias": "black pawn",
   "short_desc": "the Pawn of the Black Court",
   "long_desc": "You see a pawn standing here waiting for orders.",
-  "detailed_desc": "",
-  "flags_raw": "The Black Pawn looks quite like a small knight without his powerful steed.",
-  "stats1_raw": "His armor is shiny and black.  He stands ready to give his life for the",
-  "stats2_raw": "Crown.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/36.mob"
+  "detailed_desc": "The Black Pawn looks quite like a small knight without his powerful steed.\nHis armor is shiny and black.  He stands ready to give his life for the\nCrown.",
+  "flags_raw": "bcgh d -400 S",
+  "stats1_raw": "6 2 5 5d4+50 2d4+2",
+  "stats2_raw": "500 1000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/36.mob"
 }

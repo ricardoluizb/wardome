@@ -3,10 +3,10 @@
   "alias": "servant boy",
   "short_desc": "the servant boy",
   "long_desc": "A servant boy is here running errands.",
-  "detailed_desc": "",
-  "flags_raw": "You see a small boy running around the halls of the palace.",
-  "stats1_raw": "~",
-  "stats2_raw": "g 0 0 S",
-  "stats3_raw": "2 19 90 10d1+1 1d4+1",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+  "detailed_desc": "You see a small boy running around the halls of the palace.",
+  "flags_raw": "g 0 0 S",
+  "stats1_raw": "2 19 90 10d1+1 1d4+1",
+  "stats2_raw": "1 10",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

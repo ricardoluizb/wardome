@@ -3,10 +3,10 @@
   "alias": "drow priestess",
   "short_desc": "the drow priestess",
   "long_desc": "A drow priestess is here shouting orders.",
-  "detailed_desc": "",
-  "flags_raw": "I wouldn't want go get on her bad side!",
-  "stats1_raw": "~",
-  "stats2_raw": "abflm dk -1000 S",
-  "stats3_raw": "17 5 0 1d11+205 14d1+4",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/51.mob"
+  "detailed_desc": "I wouldn't want go get on her bad side!",
+  "flags_raw": "abflm dk -1000 S",
+  "stats1_raw": "17 5 0 1d11+205 14d1+4",
+  "stats2_raw": "4000 28000",
+  "stats3_raw": "8 8 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/51.mob"
 }

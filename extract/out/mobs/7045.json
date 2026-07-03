@@ -3,10 +3,10 @@
   "alias": "jones cruncher ettin",
   "short_desc": "Jones 'cruncher' ettin",
   "long_desc": "Jones is standing here glaring at you.",
-  "detailed_desc": "",
-  "flags_raw": "At the first sight you thought Jones was an Orc, but when he came closer you",
-  "stats1_raw": "see his second head.  He wears an animal skin dress, filthy and moth eaten.",
-  "stats2_raw": "Jones really stinks...",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/70.mob"
+  "detailed_desc": "At the first sight you thought Jones was an Orc, but when he came closer you\nsee his second head.  He wears an animal skin dress, filthy and moth eaten. \nJones really stinks...",
+  "flags_raw": "c k -480 S",
+  "stats1_raw": "10 11 2 1d5+130 2d6+2",
+  "stats2_raw": "60 11000",
+  "stats3_raw": "5 5 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/70.mob"
 }

@@ -3,10 +3,10 @@
   "alias": "rat gigantic",
   "short_desc": "the gigantic rat",
   "long_desc": "There is a gigantic rat here, looking at you with a hungry look.",
-  "detailed_desc": "",
-  "flags_raw": "The gigantic rat is about ten feet long from head to tail and has claws the",
-  "stats1_raw": "size of your head, looking very nasty.",
-  "stats2_raw": "~",
-  "stats3_raw": "bf k -800 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/72.mob"
+  "detailed_desc": "The gigantic rat is about ten feet long from head to tail and has claws the\nsize of your head, looking very nasty.",
+  "flags_raw": "bf k -800 S",
+  "stats1_raw": "12 9 2 1d10+150 2d6+2",
+  "stats2_raw": "2513 13000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/72.mob"
 }

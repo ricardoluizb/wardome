@@ -3,10 +3,10 @@
   "alias": "turtle dragon",
   "short_desc": "the dragon turtle",
   "long_desc": "A large dragon turtle breaks the surface churning the water into huge waves.",
-  "detailed_desc": "",
-  "flags_raw": "The turtle's shell is the size of a small house and looks as hard as rock.",
-  "stats1_raw": "~",
-  "stats2_raw": "fgq dkp -200 S",
-  "stats3_raw": "22 4 -5 12d6+350 1d20+5",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/9.mob"
+  "detailed_desc": "The turtle's shell is the size of a small house and looks as hard as rock.",
+  "flags_raw": "fgq dkp -200 S",
+  "stats1_raw": "22 4 -5 12d6+350 1d20+5",
+  "stats2_raw": "10000 80000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/9.mob"
 }

@@ -3,10 +3,10 @@
   "alias": "farmer",
   "short_desc": "the farmer",
   "long_desc": "A farmer walks around, looking for something to do.",
-  "detailed_desc": "",
-  "flags_raw": "This farmer is a resident of Stanneg by the Mountains,",
-  "stats1_raw": "and as such, is one of the most boring people on earth.",
-  "stats2_raw": "~",
-  "stats3_raw": "bcgh 0 500 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/33.mob"
+  "detailed_desc": "This farmer is a resident of Stanneg by the Mountains,\nand as such, is one of the most boring people on earth.",
+  "flags_raw": "bcgh 0 500 S",
+  "stats1_raw": "7 14 4 3d5+83 2d4+1",
+  "stats2_raw": "1000 2250",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/33.mob"
 }

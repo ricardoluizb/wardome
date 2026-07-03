@@ -3,10 +3,10 @@
   "alias": "nomad leader",
   "short_desc": "the nomad leader",
   "long_desc": "The nomad leader sits silently in prayer.",
-  "detailed_desc": "",
-  "flags_raw": "He is clad in silk robes lined with gold thread. At his side is a large,",
-  "stats1_raw": "engraved cutlass.  He has an especially haughty air about him.",
-  "stats2_raw": "~",
-  "stats3_raw": "bhl d 950 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/50.mob"
+  "detailed_desc": "He is clad in silk robes lined with gold thread. At his side is a large,\nengraved cutlass.  He has an especially haughty air about him.",
+  "flags_raw": "bhl d 950 S",
+  "stats1_raw": "14 7 0 2d6+170 2d8+5",
+  "stats2_raw": "1000 18000",
+  "stats3_raw": "6 6 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/50.mob"
 }

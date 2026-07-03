@@ -3,10 +3,10 @@
   "alias": "guildmaster master beggar thief",
   "short_desc": "the thieves' guildmaster",
   "long_desc": "A beggar is sitting here, could she be a guildmaster?",
-  "detailed_desc": "",
-  "flags_raw": "You realize that whenever your guildmaster moves, you fail to notice it -",
-  "stats1_raw": "the way of the true thief.  She is to be dressed in poor clothing, having",
-  "stats2_raw": "the appearance of a beggar.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+  "detailed_desc": "You realize that whenever your guildmaster moves, you fail to notice it -\nthe way of the true thief.  She is to be dressed in poor clothing, having\nthe appearance of a beggar.",
+  "flags_raw": "abelnop dh 1000 S",
+  "stats1_raw": "34 0 -10 6d10+640 1d8+34",
+  "stats2_raw": "18794 100000",
+  "stats3_raw": "8 8 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

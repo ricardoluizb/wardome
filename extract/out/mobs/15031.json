@@ -3,10 +3,10 @@
   "alias": "skeleton villager",
   "short_desc": "the skeleton",
   "long_desc": "A skeleton is moving about with a loud clatter here, climbing over corpses.",
-  "detailed_desc": "",
-  "flags_raw": "It is entirely possible that this skeleton was once one of the villagers",
-  "stats1_raw": "of Townsbridge who has been brought to an undead life by a fuelling desire",
-  "stats2_raw": "for revenge.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/150.mob"
+  "detailed_desc": "It is entirely possible that this skeleton was once one of the villagers\nof Townsbridge who has been brought to an undead life by a fuelling desire\nfor revenge.",
+  "flags_raw": "befnpr dfk 0 S",
+  "stats1_raw": "10 8 3 4d4+80 2d3+6",
+  "stats2_raw": "0 8000",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/150.mob"
 }

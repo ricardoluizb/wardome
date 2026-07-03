@@ -3,10 +3,10 @@
   "alias": "apprentice young",
   "short_desc": "the young apprentice",
   "long_desc": "A young apprentice is here mumbling words of magic to himself.",
-  "detailed_desc": "",
-  "flags_raw": "He looks to be oblivious to all but the spell he is memorizing.",
-  "stats1_raw": "~",
-  "stats2_raw": "abcgh dk 380 S",
-  "stats3_raw": "7 6 2 7d6+25 2d4+5",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+  "detailed_desc": "He looks to be oblivious to all but the spell he is memorizing.",
+  "flags_raw": "abcgh dk 380 S",
+  "stats1_raw": "7 6 2 7d6+25 2d4+5",
+  "stats2_raw": "487 2750",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

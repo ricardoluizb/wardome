@@ -3,10 +3,10 @@
   "alias": "drow noble mage",
   "short_desc": "the drow mage",
   "long_desc": "A drow mage is here protecting his home.",
-  "detailed_desc": "",
-  "flags_raw": "The mage prepares to cast a spell... at you!!",
-  "stats1_raw": "~",
-  "stats2_raw": "abflm dk -1000 S",
-  "stats3_raw": "15 8 2 1d12+190 8d2+2",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/51.mob"
+  "detailed_desc": "The mage prepares to cast a spell... at you!!",
+  "flags_raw": "abflm dk -1000 S",
+  "stats1_raw": "15 8 2 1d12+190 8d2+2",
+  "stats2_raw": "2000 21000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/51.mob"
 }

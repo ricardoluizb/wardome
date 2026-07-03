@@ -3,10 +3,10 @@
   "alias": "mudmonster mud monster",
   "short_desc": "the horrifying Mudmonster",
   "long_desc": "A horrifying Mudmonster is slowly evolving from the mud...",
-  "detailed_desc": "",
-  "flags_raw": "It sure looks like something out of a horror movie.  It strongly resembles",
-  "stats1_raw": "a huge figure made up from mud alone, and it sure looks like it had human",
-  "stats2_raw": "flesh for breakfast and is strongly intent on having the same for dinner",
-  "stats3_raw": "- Perhaps you?",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/70.mob"
+  "detailed_desc": "It sure looks like something out of a horror movie.  It strongly resembles\na huge figure made up from mud alone, and it sure looks like it had human \nflesh for breakfast and is strongly intent on having the same for dinner\n- Perhaps you?",
+  "flags_raw": "gqr sk -250 S",
+  "stats1_raw": "12 9 2 4d6+140 2d5+3",
+  "stats2_raw": "100 13000",
+  "stats3_raw": "6 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/70.mob"
 }

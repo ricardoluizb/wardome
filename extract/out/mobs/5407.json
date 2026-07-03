@@ -3,10 +3,10 @@
   "alias": "panhandler",
   "short_desc": "the panhandler",
   "long_desc": "A panhandler rests here.",
-  "detailed_desc": "",
-  "flags_raw": "A small skinny man rests here hoping to find a warm heart.",
-  "stats1_raw": "~",
-  "stats2_raw": "cgh 0 -20 S",
-  "stats3_raw": "2 19 10 10d1+1 1d4+2",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+  "detailed_desc": "A small skinny man rests here hoping to find a warm heart.",
+  "flags_raw": "cgh 0 -20 S",
+  "stats1_raw": "2 19 10 10d1+1 1d4+2",
+  "stats2_raw": "1 5",
+  "stats3_raw": "5 5 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

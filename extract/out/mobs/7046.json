@@ -3,10 +3,10 @@
   "alias": "herald mouse killer ettin",
   "short_desc": "Herald 'the mouse-killer' ettin",
   "long_desc": "Herald is standing here looking confused at you.",
-  "detailed_desc": "",
-  "flags_raw": "When you look at Herald, you feel pity.  His clothes are really poor, and",
-  "stats1_raw": "one of his heads hangs down.  At the rope around his stomach hangs dead",
-  "stats2_raw": "mice and rats.  He does not smell good.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/70.mob"
+  "detailed_desc": "When you look at Herald, you feel pity.  His clothes are really poor, and\none of his heads hangs down.  At the rope around his stomach hangs dead\nmice and rats.  He does not smell good.",
+  "flags_raw": "c k +200 S",
+  "stats1_raw": "6 14 4 3d5+70 1d8+0",
+  "stats2_raw": "40 1500",
+  "stats3_raw": "5 5 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/70.mob"
 }

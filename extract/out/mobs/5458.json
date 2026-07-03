@@ -3,10 +3,10 @@
   "alias": "warrior guildguard",
   "short_desc": "the guildguard",
   "long_desc": "The Guard for the Guild of Warriors stands here.",
-  "detailed_desc": "",
-  "flags_raw": "The man looks like Conan's cousin, I wouldn't mess with him.",
-  "stats1_raw": "~",
-  "stats2_raw": "blno dhk 0 S",
-  "stats3_raw": "8 -1 -10 2d5+500 3d8+10",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+  "detailed_desc": "The man looks like Conan's cousin, I wouldn't mess with him.",
+  "flags_raw": "blno dhk 0 S",
+  "stats1_raw": "8 -1 -10 2d5+500 3d8+10",
+  "stats2_raw": "0 500",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

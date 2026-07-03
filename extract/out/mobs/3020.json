@@ -3,10 +3,10 @@
   "alias": "guildmaster master mage",
   "short_desc": "the mages' guildmaster",
   "long_desc": "Your guildmaster is studying a spellbook while preparing to cast a spell.",
-  "detailed_desc": "",
-  "flags_raw": "Even though your guildmaster looks old and tired, you can clearly see the",
-  "stats1_raw": "vast amount of knowledge she possesses.  She is wearing fine magic clothing,",
-  "stats2_raw": "and you notice that she is surrounded by a blue shimmering aura.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+  "detailed_desc": "Even though your guildmaster looks old and tired, you can clearly see the\nvast amount of knowledge she possesses.  She is wearing fine magic clothing,\nand you notice that she is surrounded by a blue shimmering aura.",
+  "flags_raw": "abelnop dh 1000 S",
+  "stats1_raw": "34 0 -10 6d10+640 1d8+24",
+  "stats2_raw": "18794 100000",
+  "stats3_raw": "8 8 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

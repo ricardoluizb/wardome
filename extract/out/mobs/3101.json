@@ -3,10 +3,10 @@
   "alias": "sexton",
   "short_desc": "the Sexton",
   "long_desc": "A Sexton is sitting here, drinking hot tea.",
-  "detailed_desc": "",
-  "flags_raw": "The Sexton looks like he is relaxing after another gravedigging job.",
-  "stats1_raw": "~",
-  "stats2_raw": "b 0 800 S",
-  "stats3_raw": "3 18 7 2d6+35 1d7+0",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/31.mob"
+  "detailed_desc": "The Sexton looks like he is relaxing after another gravedigging job.",
+  "flags_raw": "b 0 800 S",
+  "stats1_raw": "3 18 7 2d6+35 1d7+0",
+  "stats2_raw": "13 300",
+  "stats3_raw": "6 6 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/31.mob"
 }

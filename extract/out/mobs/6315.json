@@ -3,10 +3,10 @@
   "alias": "ki-rin",
   "short_desc": "the Ki-Rin",
   "long_desc": "The Ki-Rin smiles good-naturedly to you.",
-  "detailed_desc": "",
-  "flags_raw": "She is the last bastion of good in this realm.  Her mission is to",
-  "stats1_raw": "someday free the slaves of the Empress.  She has been trapped here for",
-  "stats2_raw": "time eternal, and now the evil power of Arachnos feeds upon her intense",
-  "stats3_raw": "magical energies.  She will never give up here fight against evil,",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/63.mob"
+  "detailed_desc": "She is the last bastion of good in this realm.  Her mission is to\nsomeday free the slaves of the Empress.  She has been trapped here for\ntime eternal, and now the evil power of Arachnos feeds upon her intense\nmagical energies.  She will never give up here fight against evil,\nthough, and will continue her work in whatever manner presents itself.",
+  "flags_raw": "abcilno dk 1000 S",
+  "stats1_raw": "26 0 -4 10d8+2500 4d4+22",
+  "stats2_raw": "15000 170000",
+  "stats3_raw": "8 8 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/63.mob"
 }

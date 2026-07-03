@@ -3,10 +3,10 @@
   "alias": "citizen",
   "short_desc": "the citizen",
   "long_desc": "A citizen of Rome is standing here.",
-  "detailed_desc": "",
-  "flags_raw": "It appears to be your ordinary citizen going about his business.",
-  "stats1_raw": "~",
-  "stats2_raw": "gl 0 900 S",
-  "stats3_raw": "5 16 5 1d4+85 1d8+1",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+  "detailed_desc": "It appears to be your ordinary citizen going about his business.",
+  "flags_raw": "gl 0 900 S",
+  "stats1_raw": "5 16 5 1d4+85 1d8+1",
+  "stats2_raw": "100 1000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/120.mob"
 }

@@ -3,10 +3,10 @@
   "alias": "ahkeem tailor",
   "short_desc": "Ahkeem the tailor",
   "long_desc": "Ahkeem the tailor welcomes you to his store.",
-  "detailed_desc": "",
-  "flags_raw": "This middle-aged man looks over you with disdain and quickly suggests a",
-  "stats1_raw": "new wardrobe.",
-  "stats2_raw": "~",
-  "stats3_raw": "blno d 0 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+  "detailed_desc": "This middle-aged man looks over you with disdain and quickly suggests a\nnew wardrobe.",
+  "flags_raw": "blno d 0 S",
+  "stats1_raw": "35 10 5 1d1+30000 1d5+5",
+  "stats2_raw": "1 200",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

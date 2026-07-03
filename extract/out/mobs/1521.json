@@ -3,10 +3,10 @@
   "alias": "boy teenage",
   "short_desc": "the teenage boy",
   "long_desc": "You stop in surprise at the sight of a teenage boy staring off to the distance.",
-  "detailed_desc": "",
-  "flags_raw": "He is young, and has not yet seen the bloodiness of this world.  You follow",
-  "stats1_raw": "his gaze and notice that he is gazing in wonderment at the fullness of the",
-  "stats2_raw": "moon.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/15.mob"
+  "detailed_desc": "He is young, and has not yet seen the bloodiness of this world.  You follow\nhis gaze and notice that he is gazing in wonderment at the fullness of the\nmoon.",
+  "flags_raw": "b dk 1000 S",
+  "stats1_raw": "24 -3 -4 5d10+680 4d6+5",
+  "stats2_raw": "22000 145000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/15.mob"
 }

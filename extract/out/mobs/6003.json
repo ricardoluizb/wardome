@@ -3,10 +3,10 @@
   "alias": "rabbit ferocious",
   "short_desc": "the ferocious rabbit",
   "long_desc": "A ferocious rabbit is here, glaring hungrily at you.",
-  "detailed_desc": "",
-  "flags_raw": "This small, furry creature with long ears and big feet has been attacked",
-  "stats1_raw": "by the dreaded rabbit rabies, a horrible disease that turns helpless and",
-  "stats2_raw": "innocent rabbits into ferocious and bloodthirsty monsters.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/60.mob"
+  "detailed_desc": "This small, furry creature with long ears and big feet has been attacked\nby the dreaded rabbit rabies, a horrible disease that turns helpless and\ninnocent rabbits into ferocious and bloodthirsty monsters.",
+  "flags_raw": "fg 0 -150 S",
+  "stats1_raw": "3 17 6 1d4+26 1d8+0",
+  "stats2_raw": "0 350",
+  "stats3_raw": "4 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/60.mob"
 }

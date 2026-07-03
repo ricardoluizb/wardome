@@ -3,10 +3,10 @@
   "alias": "spider poisonous",
   "short_desc": "the huge, poisonous spider",
   "long_desc": "A huge, poisonous spider is here.",
-  "detailed_desc": "",
-  "flags_raw": "This disgusting creature is at the size of a human crawling on all four.  It",
-  "stats1_raw": "has eight hairy legs that gives it a tremendous speed on almost any surface",
-  "stats2_raw": "and sharp poisonous fangs to paralyze or kill its prey.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/61.mob"
+  "detailed_desc": "This disgusting creature is at the size of a human crawling on all four.  It\nhas eight hairy legs that gives it a tremendous speed on almost any surface\nand sharp poisonous fangs to paralyze or kill its prey.",
+  "flags_raw": "abfg dk -350 S",
+  "stats1_raw": "8 13 2 1d12+98 2d5+1",
+  "stats2_raw": "0 4000",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/61.mob"
 }

@@ -3,10 +3,10 @@
   "alias": "farmer's wife",
   "short_desc": "the farmer's wife",
   "long_desc": "A farmer's wife offers you some vegetables.",
-  "detailed_desc": "",
-  "flags_raw": "This woman has many different types of fruits and",
-  "stats1_raw": "vegetables for you to buy.  She looks bored, though.",
-  "stats2_raw": "~",
-  "stats3_raw": "b 0 500 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/33.mob"
+  "detailed_desc": "This woman has many different types of fruits and\nvegetables for you to buy.  She looks bored, though.",
+  "flags_raw": "b 0 500 S",
+  "stats1_raw": "20 1 -40 3d5+245 3d6+6",
+  "stats2_raw": "10000 40000",
+  "stats3_raw": "8 8 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/33.mob"
 }

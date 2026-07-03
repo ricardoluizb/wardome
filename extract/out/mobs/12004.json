@@ -3,10 +3,10 @@
   "alias": "noble nobleman",
   "short_desc": "the nobleman",
   "long_desc": "A nobleman stands here looking aloof.",
-  "detailed_desc": "",
-  "flags_raw": "The nobleman is dressed in fine clothes and jewelry and has a very snobbish",
-  "stats1_raw": "attitude.  While he is getting old and his hair and beard are streaked with",
-  "stats2_raw": "gray, he is by no means an easy target.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+  "detailed_desc": "The nobleman is dressed in fine clothes and jewelry and has a very snobbish\nattitude.  While he is getting old and his hair and beard are streaked with\ngray, he is by no means an easy target.",
+  "flags_raw": "bhl d 500 S",
+  "stats1_raw": "12 9 2 4d6+140 1d7+5",
+  "stats2_raw": "3500 13000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/120.mob"
 }

@@ -3,10 +3,10 @@
   "alias": "giant hill",
   "short_desc": "the hill giant",
   "long_desc": "A hill giant is here, tossing some rocks around.",
-  "detailed_desc": "",
-  "flags_raw": "The hill giant looks like he's about 9 feet tall.  By his actions you",
-  "stats1_raw": "quickly come to the conclusion that he isn't very intelligent.",
-  "stats2_raw": "~",
-  "stats3_raw": "gq k 0 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/40.mob"
+  "detailed_desc": "The hill giant looks like he's about 9 feet tall.  By his actions you \nquickly come to the conclusion that he isn't very intelligent.",
+  "flags_raw": "gq k 0 S",
+  "stats1_raw": "13 8 2 1d10+160 2d10+0",
+  "stats2_raw": "1000 16500",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/40.mob"
 }

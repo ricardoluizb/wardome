@@ -3,10 +3,10 @@
   "alias": "waiter",
   "short_desc": "a waiter",
   "long_desc": "A waiter rushes by, intent on his business.",
-  "detailed_desc": "",
-  "flags_raw": "He looks harried from the way he hastily takes orders and",
-  "stats1_raw": "rushes in the back to get food, and to the bar for drinks.",
-  "stats2_raw": "He doesn't even spare you a glance as he passes by.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/33.mob"
+  "detailed_desc": "He looks harried from the way he hastily takes orders and \nrushes in the back to get food, and to the bar for drinks.  \nHe doesn't even spare you a glance as he passes by.",
+  "flags_raw": "b 0 0 S",
+  "stats1_raw": "5 16 70 3d5+60 2d4+0",
+  "stats2_raw": "500 850",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/33.mob"
 }

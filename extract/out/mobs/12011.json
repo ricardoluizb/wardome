@@ -3,10 +3,10 @@
   "alias": "shopkeeper",
   "short_desc": "Titus' shopkeeper",
   "long_desc": "Titus' shopkeeper is here, minding the store.",
-  "detailed_desc": "",
-  "flags_raw": "The shopkeeper is an older man in his middle to late fifties and looks like",
-  "stats1_raw": "he enjoys the quiet life.  There is a long scar running from the edge of his",
-  "stats2_raw": "mouth to his right ear, making it look like he is always smiling.",
-  "stats3_raw": "~",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+  "detailed_desc": "The shopkeeper is an older man in his middle to late fifties and looks like\nhe enjoys the quiet life.  There is a long scar running from the edge of his\nmouth to his right ear, making it look like he is always smiling.",
+  "flags_raw": "bl hd 750 S",
+  "stats1_raw": "23 0 -2 4d10+400 3d8+12",
+  "stats2_raw": "5000 80000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/120.mob"
 }

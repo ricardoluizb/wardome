@@ -14,6 +14,29 @@ def parse_obj_dir(path: Path):
     return objs, warnings
 
 
+def read_tilde_field(lines, i):
+    """Read a DikuMUD '~'-terminated string field starting at line i.
+
+    The terminating '~' may be on its own line, or appended directly to
+    the last line of content. A line whose stripped text ENDS with '~'
+    is always the field's last line, regardless of whether that leaves
+    any text before the tilde on that same line.
+
+    Returns (field_text, next_i).
+    """
+    parts = []
+    while i < len(lines):
+        line = lines[i]
+        stripped = line.rstrip()
+        if stripped.endswith('~'):
+            parts.append(stripped[:-1])
+            i += 1
+            break
+        parts.append(line)
+        i += 1
+    return '\n'.join(parts).strip(), i
+
+
 def parse_obj_file(path: Path):
     out = []
     with path.open('r', encoding='utf-8', errors='replace') as f:
@@ -28,10 +51,10 @@ def parse_obj_file(path: Path):
         if l.startswith('#') and l[1:].strip().isdigit():
             vnum = int(l[1:].strip())
             i += 1
-            alias = lines[i].rstrip('~'); i += 1
-            short = lines[i].rstrip('~'); i += 1
-            longd = lines[i].rstrip('~'); i += 1
-            action_desc = lines[i].rstrip('~'); i += 1
+            alias, i = read_tilde_field(lines, i)
+            short, i = read_tilde_field(lines, i)
+            longd, i = read_tilde_field(lines, i)
+            action_desc, i = read_tilde_field(lines, i)
             # type/flags/wear
             header = lines[i].strip(); i += 1
             # values[0..3]
@@ -46,13 +69,9 @@ def parse_obj_file(path: Path):
                 s = lines[i].strip()
                 if s == 'E':
                     i += 1
-                    kw = lines[i].rstrip('~'); i += 1
-                    desc = []
-                    while i < len(lines) and lines[i].strip() != '~':
-                        desc.append(lines[i])
-                        i += 1
-                    i += 1  # skip '~'
-                    extra_desc.append({'keywords': kw, 'description': '\n'.join(desc).strip()})
+                    kw, i = read_tilde_field(lines, i)
+                    desc, i = read_tilde_field(lines, i)
+                    extra_desc.append({'keywords': kw, 'description': desc})
                 elif s == 'A':
                     i += 1
                     if i < len(lines):
@@ -88,4 +107,3 @@ def try_int(s):
         return int(s)
     except Exception:
         return None
-

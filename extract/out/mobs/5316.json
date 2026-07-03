@@ -3,10 +3,10 @@
   "alias": "great sphinx",
   "short_desc": "the great sphinx",
   "long_desc": "A mighty sphinx rests here in the sand, dormant now for centuries.",
-  "detailed_desc": "",
-  "flags_raw": "The great sphinx towers tens of feet above you, resting here in a state of",
-  "stats1_raw": "dormancy.  It has become almost indistinguishable from the sand that surrounds",
-  "stats2_raw": "it, although you can still make out the features of the handsome face that once",
-  "stats3_raw": "advised many rulers.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/53.mob"
+  "detailed_desc": "The great sphinx towers tens of feet above you, resting here in a state of \ndormancy.  It has become almost indistinguishable from the sand that surrounds\nit, although you can still make out the features of the handsome face that once\nadvised many rulers.",
+  "flags_raw": "abelnopqr dhkp 500 S",
+  "stats1_raw": "41 -21 -20 41d41+410 5d10+25",
+  "stats2_raw": "125000 1500000",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/53.mob"
 }

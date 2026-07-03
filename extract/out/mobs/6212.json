@@ -3,10 +3,10 @@
   "alias": "mutant thing",
   "short_desc": "the mutant thing",
   "long_desc": "A mutant... thing rushes at you!",
-  "detailed_desc": "",
-  "flags_raw": "It might've been an orc, once.  Now it is a living terror,",
-  "stats1_raw": "pushing everything out of its way to get at you.",
-  "stats2_raw": "~",
-  "stats3_raw": "fl k -800 S",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/62.mob"
+  "detailed_desc": "It might've been an orc, once.  Now it is a living terror,\npushing everything out of its way to get at you.",
+  "flags_raw": "fl k -800 S",
+  "stats1_raw": "12 9 -20 3d5+170 2d7+4",
+  "stats2_raw": "0 15000",
+  "stats3_raw": "8 8 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/62.mob"
 }

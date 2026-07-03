@@ -3,10 +3,10 @@
   "alias": "guard royal bodyguard",
   "short_desc": "the royal bodyguard",
   "long_desc": "There is a royal bodyguard here, ready to die for the Emperor, if necessary.",
-  "detailed_desc": "",
-  "flags_raw": "The bodyguard is dressed in the finest of armor and wields only the",
-  "stats1_raw": "deadliest of weapons.  He is very strong and would put up one hell",
-  "stats2_raw": "of a fight.  He has been trained to be suspicious of all but the",
-  "stats3_raw": "most innocent visitors, and likely to take offense of anyone with",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+  "detailed_desc": "The bodyguard is dressed in the finest of armor and wields only the\ndeadliest of weapons.  He is very strong and would put up one hell\nof a fight.  He has been trained to be suspicious of all but the\nmost innocent visitors, and likely to take offense of anyone with\nless than pure intentions.",
+  "flags_raw": "abikl d 990 E",
+  "stats1_raw": "18 2 0 3d6+220 1d6+6",
+  "stats2_raw": "5000 35000",
+  "stats3_raw": "8 8 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/120.mob"
 }
