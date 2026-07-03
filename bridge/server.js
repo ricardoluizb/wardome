@@ -9,6 +9,8 @@ const BRIDGE_PORT = parseInt(process.env.BRIDGE_PORT || '8080', 10);
 const ROOM_TAG_RE = /\$\$ROOM:(\d+)\$\$\r?\n?/g;
 const STATS_TAG_RE = /\$\$STATS:(-?\d+)\/(\d+)\/(-?\d+)\/(\d+)\/(-?\d+)\/(\d+)\/(-?\d+)\/(-?\d+)\/(\d+)\$\$\r?\n?/g;
 const MOB_TAG_RE = /\$\$MOB:(-?\d+)\$\$\r?\n?/g;
+const ECHO_OFF_RE = /\xFF\xFB\x01/g;
+const ECHO_ON_RE = /\xFF\xFC\x01\r?\n?/g;
 
 const wss = new WebSocket.Server({ port: BRIDGE_PORT });
 
@@ -58,6 +60,18 @@ wss.on('connection', (ws) => {
     cleaned = extractTag(cleaned, MOB_TAG_RE, (match) => {
       if (ws.readyState === WebSocket.OPEN) {
         ws.send(JSON.stringify({ type: 'mob', id: parseInt(match[1], 10) }));
+      }
+    });
+
+    cleaned = extractTag(cleaned, ECHO_OFF_RE, () => {
+      if (ws.readyState === WebSocket.OPEN) {
+        ws.send(JSON.stringify({ type: 'echo', on: false }));
+      }
+    });
+
+    cleaned = extractTag(cleaned, ECHO_ON_RE, () => {
+      if (ws.readyState === WebSocket.OPEN) {
+        ws.send(JSON.stringify({ type: 'echo', on: true }));
       }
     });
 
