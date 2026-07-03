@@ -8,7 +8,7 @@ const BRIDGE_PORT = parseInt(process.env.BRIDGE_PORT || '8080', 10);
 
 const ROOM_TAG_RE = /\$\$ROOM:(\d+)\$\$\r?\n?/g;
 const STATS_TAG_RE = /\$\$STATS:(-?\d+)\/(\d+)\/(-?\d+)\/(\d+)\/(-?\d+)\/(\d+)\/(-?\d+)\/(-?\d+)\/(\d+)\$\$\r?\n?/g;
-const MOB_TAG_RE = /\$\$MOB:(\d+)\$\$\r?\n?/g;
+const MOB_TAG_RE = /\$\$MOB:(-?\d+)\$\$\r?\n?/g;
 
 const wss = new WebSocket.Server({ port: BRIDGE_PORT });
 
