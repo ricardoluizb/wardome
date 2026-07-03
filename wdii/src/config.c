@@ -199,7 +199,7 @@ sh_int immort_start_room = 1204;
 sh_int frozen_start_room = 1202;
 
 /* virtual number of room that dead players should enter at */
-sh_int deadly_start_room = 10;
+sh_int deadly_start_room = 1202;
 
 /*
  * virtual numbers of donation rooms.  note: you must change code in

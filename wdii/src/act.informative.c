@@ -1,5 +1,5 @@
 /*************************************************************************
-*   File: act.informative.c                          lç   Part of CircleMUD *
+*   File: act.informative.c                          lï¿½   Part of CircleMUD *
 *  Usage: Player-level commands of an informative nature                  *
 *                                                                         *
 *  All rights reserved.  See license.doc for complete information.        *
@@ -1266,6 +1266,11 @@ void look_at_room(struct char_data * ch, int ignore_brief)
 {
   if (!ch->desc)
     return;
+
+  if (ch->in_room == NOWHERE) {
+    log("SYSERR: look_at_room called with ch->in_room == NOWHERE for %s", GET_NAME(ch));
+    return;
+  }
 
   if (IS_DARK(ch->in_room) && !CAN_SEE_IN_DARK(ch)) {
     send_to_char("It is pitch black...\r\n", ch);
