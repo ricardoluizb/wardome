@@ -63,16 +63,8 @@ function escapeHtml(text) {
   return text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 }
 
-function stripTelnetIac(text) {
-  // Raw Telnet IAC negotiation sequences (e.g. IAC WILL/WONT/DO/DONT ECHO) that the
-  // bridge passes through unmodified; without this they render as garbage characters
-  // around prompts like "Password:". Real password masking (switching the input to
-  // type="password" based on server echo state) is a separate, still-deferred task.
-  return text.replace(/\xff[\xfb-\xfe]./g, '');
-}
-
 function ansiToHtml(rawText) {
-  const text = stripTelnetIac(rawText);
+  const text = rawText;
   const parts = text.split(/(\x1b\[[0-9;]*[A-Za-z])/);
   let html = '';
   let openSpan = false;
@@ -143,6 +135,8 @@ ws.addEventListener('message', (event) => {
     setMobArt(msg.id);
   } else if (msg.type === 'stats') {
     setStats(msg);
+  } else if (msg.type === 'echo') {
+    input.type = msg.on ? 'text' : 'password';
   }
 });
 
