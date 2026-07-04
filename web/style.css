@@ -90,12 +90,26 @@ body {
   font-family: 'Cinzel', serif;
   font-size: 17px;
   line-height: 1.3;
+  min-height: 2.6em;
   word-wrap: break-word;
   color: var(--gold);
 }
 
+.hud-divider {
+  border: none;
+  height: 1px;
+  margin: 12px 0;
+  background: linear-gradient(
+    to right,
+    transparent,
+    var(--gold-dim) 15%,
+    var(--gold-dim) 85%,
+    transparent
+  );
+}
+
 .hud-heading {
-  margin-top: 16px;
+  margin-top: 0;
 }
 
 #hud {
