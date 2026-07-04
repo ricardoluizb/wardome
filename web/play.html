@@ -13,6 +13,7 @@
   <div id="layout">
     <div id="side-panel" class="ornate-frame">
       <h1 id="game-title">WARDOME II - REBORN</h1>
+      <button id="equipment-toggle" type="button">Equipment</button>
       <img id="room-art" src="assets/rooms/placeholder.jpg" alt="Room illustration">
       <h2>Room</h2>
       <div id="room-id">—</div>
@@ -45,6 +46,35 @@
           <hr class="hud-divider">
           <div id="gold-line"><span id="gold-icon" aria-hidden="true">🪙</span> <span id="gold-text">—</span> gold</div>
         </div>
+      </div>
+    </div>
+    <div id="equipment-overlay" class="ornate-frame">
+      <button id="equipment-close" type="button">&times;</button>
+      <h2 id="equipment-title">Equipment</h2>
+      <div id="equipment-grid">
+        <div class="equip-slot" style="grid-area: ear-l;"><img id="equip-icon-ear-l" class="equip-icon"></div>
+        <div class="equip-slot" style="grid-area: head;"><img id="equip-icon-head" class="equip-icon"></div>
+        <div class="equip-slot" style="grid-area: ear-r;"><img id="equip-icon-ear-r" class="equip-icon"></div>
+        <div class="equip-slot" style="grid-area: face;"><img id="equip-icon-face" class="equip-icon"></div>
+        <div class="equip-slot" style="grid-area: neck-1;"><img id="equip-icon-neck-1" class="equip-icon"></div>
+        <div class="equip-slot" style="grid-area: neck-2;"><img id="equip-icon-neck-2" class="equip-icon"></div>
+        <div class="equip-slot" style="grid-area: about;"><img id="equip-icon-about" class="equip-icon"></div>
+        <div class="equip-slot" style="grid-area: arms;"><img id="equip-icon-arms" class="equip-icon"></div>
+        <div class="equip-slot" style="grid-area: body;"><img id="equip-icon-body" class="equip-icon"></div>
+        <div class="equip-slot" style="grid-area: shield;"><img id="equip-icon-shield" class="equip-icon"></div>
+        <div class="equip-slot" style="grid-area: wrist-l;"><img id="equip-icon-wrist-l" class="equip-icon"></div>
+        <div class="equip-slot" style="grid-area: hands;"><img id="equip-icon-hands" class="equip-icon"></div>
+        <div class="equip-slot" style="grid-area: wrist-r;"><img id="equip-icon-wrist-r" class="equip-icon"></div>
+        <div class="equip-slot" style="grid-area: waist;"><img id="equip-icon-waist" class="equip-icon"></div>
+        <div class="equip-slot" style="grid-area: ring-l;"><img id="equip-icon-ring-l" class="equip-icon"></div>
+        <div class="equip-slot" style="grid-area: ring-r;"><img id="equip-icon-ring-r" class="equip-icon"></div>
+        <div class="equip-slot" style="grid-area: legs;"><img id="equip-icon-legs" class="equip-icon"></div>
+        <div class="equip-slot" style="grid-area: feet;"><img id="equip-icon-feet" class="equip-icon"></div>
+        <div class="equip-slot" style="grid-area: hold;"><img id="equip-icon-hold" class="equip-icon"></div>
+        <div class="equip-slot" style="grid-area: dwield;"><img id="equip-icon-dwield" class="equip-icon"></div>
+        <div class="equip-slot" style="grid-area: wield;"><img id="equip-icon-wield" class="equip-icon"></div>
+        <div class="equip-slot" style="grid-area: light;"><img id="equip-icon-light" class="equip-icon"></div>
+        <div class="equip-slot" style="grid-area: float;"><img id="equip-icon-float" class="equip-icon"></div>
       </div>
     </div>
     <div id="terminal-panel" class="ornate-frame">

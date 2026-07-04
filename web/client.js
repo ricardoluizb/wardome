@@ -13,6 +13,9 @@ const xpBarFillEl = document.getElementById('xp-bar-fill');
 const xpTextEl = document.getElementById('xp-text');
 const xpPercentEl = document.getElementById('xp-percent');
 const goldTextEl = document.getElementById('gold-text');
+const equipmentToggleEl = document.getElementById('equipment-toggle');
+const equipmentOverlayEl = document.getElementById('equipment-overlay');
+const equipmentCloseEl = document.getElementById('equipment-close');
 const form = document.getElementById('input-form');
 const input = document.getElementById('command-input');
 
@@ -20,6 +23,78 @@ const ws = new WebSocket('ws://localhost:8080');
 
 const MVP_ROOM_ART = new Set([3001, 3054, 3059, 3060, 3061, 18600, 18601, 18602, 18603]);
 const MVP_MOB_ART = new Set([18601, 18602, 18604, 18611, 18615]);
+
+// Order matches WEAR_LIGHT=0..WEAR_FLOAT=22 (wdii/src/structs.h:421-443) --
+// this is the exact same order the $$EQUIP$$ tag and bridge array use.
+const EQUIP_SLOTS = [
+  { area: 'light', type: 'light' },
+  { area: 'ring-r', type: 'ring' },
+  { area: 'ring-l', type: 'ring' },
+  { area: 'neck-1', type: 'neck' },
+  { area: 'neck-2', type: 'neck' },
+  { area: 'body', type: 'body' },
+  { area: 'head', type: 'head' },
+  { area: 'legs', type: 'legs' },
+  { area: 'feet', type: 'feet' },
+  { area: 'hands', type: 'hands' },
+  { area: 'arms', type: 'arms' },
+  { area: 'shield', type: 'shield' },
+  { area: 'about', type: 'about' },
+  { area: 'waist', type: 'waist' },
+  { area: 'wrist-r', type: 'wrist' },
+  { area: 'wrist-l', type: 'wrist' },
+  { area: 'wield', type: 'wield' },
+  { area: 'hold', type: 'hold' },
+  { area: 'dwield', type: 'dwield' },
+  { area: 'ear-r', type: 'ear' },
+  { area: 'ear-l', type: 'ear' },
+  { area: 'face', type: 'face' },
+  { area: 'float', type: 'float' },
+];
+
+const TIER_BORDER_COLORS = ['var(--gold-dim)', '#4a90d9', '#d4af37', '#e05252'];
+
+const equipIconEls = EQUIP_SLOTS.map((def) => document.getElementById(`equip-icon-${def.area}`));
+const lastEquipVnums = new Array(EQUIP_SLOTS.length).fill(undefined);
+
+function slotPlaceholderPath(type) {
+  return `assets/items/slots/${type}.jpg`;
+}
+
+function initEquipSlots() {
+  EQUIP_SLOTS.forEach((def, i) => {
+    const img = equipIconEls[i];
+    img.src = slotPlaceholderPath(def.type);
+    img.onerror = () => {
+      img.onerror = null;
+      img.src = slotPlaceholderPath(def.type);
+    };
+    img.parentElement.style.borderColor = TIER_BORDER_COLORS[0];
+  });
+}
+
+function setEquip(msg) {
+  msg.slots.forEach((slot, i) => {
+    if (lastEquipVnums[i] === slot.vnum) return;
+    lastEquipVnums[i] = slot.vnum;
+    const def = EQUIP_SLOTS[i];
+    const img = equipIconEls[i];
+    if (slot.vnum === -1) {
+      img.onerror = null;
+      img.src = slotPlaceholderPath(def.type);
+      img.parentElement.style.borderColor = TIER_BORDER_COLORS[0];
+    } else {
+      img.onerror = () => {
+        img.onerror = null;
+        img.src = slotPlaceholderPath(def.type);
+      };
+      img.src = `assets/items/${slot.vnum}.jpg`;
+      img.parentElement.style.borderColor = TIER_BORDER_COLORS[slot.tier] || TIER_BORDER_COLORS[0];
+    }
+  });
+}
+
+initEquipSlots();
 
 function setRoomArt(id) {
   roomArtEl.src = MVP_ROOM_ART.has(id) ? `assets/rooms/${id}.jpg` : 'assets/rooms/placeholder.jpg';
@@ -143,6 +218,8 @@ ws.addEventListener('message', (event) => {
     setMobArt(msg.id);
   } else if (msg.type === 'stats') {
     setStats(msg);
+  } else if (msg.type === 'equip') {
+    setEquip(msg);
   } else if (msg.type === 'echo') {
     input.type = msg.on ? 'text' : 'password';
   }
@@ -189,4 +266,12 @@ input.addEventListener('keydown', (e) => {
       input.value = '';
     }
   }
+});
+
+equipmentToggleEl.addEventListener('click', () => {
+  equipmentOverlayEl.classList.toggle('open');
+});
+
+equipmentCloseEl.addEventListener('click', () => {
+  equipmentOverlayEl.classList.remove('open');
 });
