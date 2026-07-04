@@ -42,11 +42,11 @@ function setStats(stats) {
   setBar(moveBarFillEl, moveTextEl, stats.move, stats.maxMove, '#d4af37');
   levelLabelEl.textContent = `Lvl ${stats.level}`;
   if (stats.expToLevel > 0) {
-    setBar(xpBarFillEl, xpTextEl, stats.exp, stats.expToLevel, '#b366cc');
+    setBar(xpBarFillEl, xpTextEl, stats.exp, stats.expToLevel, '#999999');
     xpPercentEl.textContent = `${Math.max(0, Math.min(100, Math.round((stats.exp / stats.expToLevel) * 100)))}%`;
   } else {
     xpBarFillEl.style.width = '100%';
-    xpBarFillEl.style.backgroundColor = '#b366cc';
+    xpBarFillEl.style.backgroundColor = '#999999';
     xpTextEl.textContent = `${stats.exp} (max)`;
     xpPercentEl.textContent = '100%';
   }
@@ -62,7 +62,7 @@ const ANSI_COLORS = {
   32: '#4caf50',
   33: '#d4af37',
   34: '#4a90d9',
-  35: '#b366cc',
+  35: '#999999',
   36: '#4dd0c4',
   37: '#e0e0e0',
 };

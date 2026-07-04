@@ -39,6 +39,8 @@ body {
   width: 300px;
   flex-shrink: 0;
   padding: 16px;
+  display: flex;
+  flex-direction: column;
 }
 
 #game-title {
@@ -96,6 +98,14 @@ body {
 
 #hud {
   font-size: 12px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-height: 0;
+}
+
+#bottom-stats {
+  margin-top: auto;
 }
 
 .stat-bar-row {
@@ -167,7 +177,7 @@ body {
 #gold-line {
   font-family: 'Cinzel', serif;
   margin-top: 8px;
-  color: #c9a869;
+  color: var(--gold);
 }
 
 #gold-icon {
