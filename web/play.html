@@ -4,11 +4,14 @@
 <head>
   <meta charset="UTF-8">
   <title>Wardome Reborn</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div id="layout">
-    <div id="side-panel">
+    <div id="side-panel" class="ornate-frame">
       <img id="room-art" src="assets/rooms/placeholder.jpg" alt="Room illustration">
       <h2>Room</h2>
       <div id="room-id">—</div>
@@ -32,7 +35,7 @@
         <div id="stat-line">Lvl — · — gold · — exp</div>
       </div>
     </div>
-    <div id="terminal-panel">
+    <div id="terminal-panel" class="ornate-frame">
       <pre id="output"></pre>
       <form id="input-form">
         <input id="command-input" type="text" autocomplete="off" autofocus placeholder="type a command...">

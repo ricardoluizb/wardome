@@ -1,6 +1,27 @@
 /* web/style.css */
 * { box-sizing: border-box; }
 
+:root {
+  --gold: #d4af37;
+  --gold-dim: #8a7128;
+  --frame-dark: #120f08;
+}
+
+.ornate-frame {
+  background-image:
+    linear-gradient(135deg, var(--gold) 0%, var(--gold) 40%, transparent 42%),
+    linear-gradient(225deg, var(--gold) 0%, var(--gold) 40%, transparent 42%),
+    linear-gradient(45deg, var(--gold) 0%, var(--gold) 40%, transparent 42%),
+    linear-gradient(315deg, var(--gold) 0%, var(--gold) 40%, transparent 42%),
+    linear-gradient(rgba(10, 8, 4, 0.55), rgba(10, 8, 4, 0.55)),
+    url('assets/ui/panel-texture.jpg');
+  background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat;
+  background-position: top left, top right, bottom left, bottom right, center, center;
+  background-size: 18px 18px, 18px 18px, 18px 18px, 18px 18px, cover, cover;
+  border: 1px solid var(--frame-dark);
+  box-shadow: inset 0 0 0 2px var(--gold), inset 0 0 0 4px rgba(0, 0, 0, 0.6);
+}
+
 body {
   margin: 0;
   background: #0d0d0d;
@@ -17,8 +38,6 @@ body {
 #side-panel {
   width: 300px;
   flex-shrink: 0;
-  background: #161616;
-  border-right: 1px solid #333;
   padding: 16px;
 }
 
@@ -27,23 +46,37 @@ body {
   width: 100%;
   height: 180px;
   object-fit: cover;
-  border: 1px solid #333;
   border-radius: 4px;
   margin-bottom: 16px;
   background: #0d0d0d;
+  border: 1px solid var(--frame-dark);
+  box-shadow:
+    inset 0 0 14px rgba(0, 0, 0, 0.8),
+    inset 0 0 0 3px var(--gold),
+    inset 0 0 0 5px rgba(0, 0, 0, 0.6);
+  background-image:
+    linear-gradient(135deg, var(--gold) 0%, var(--gold) 55%, transparent 57%),
+    linear-gradient(225deg, var(--gold) 0%, var(--gold) 55%, transparent 57%),
+    linear-gradient(45deg, var(--gold) 0%, var(--gold) 55%, transparent 57%),
+    linear-gradient(315deg, var(--gold) 0%, var(--gold) 55%, transparent 57%);
+  background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+  background-position: top left, top right, bottom left, bottom right;
+  background-size: 28px 28px, 28px 28px, 28px 28px, 28px 28px;
 }
 
 #side-panel h2 {
+  font-family: 'Cinzel', serif;
   font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: #888;
+  color: #c9a869;
   margin: 0 0 8px 0;
 }
 
 #room-id {
+  font-family: 'Cinzel', serif;
   font-size: 24px;
-  color: #d4af37;
+  color: var(--gold);
 }
 
 .hud-heading {
@@ -71,15 +104,23 @@ body {
   flex: 1;
   height: 10px;
   background: #0d0d0d;
-  border: 1px solid #333;
+  border: 1px solid var(--gold-dim);
   border-radius: 3px;
   overflow: hidden;
+  box-shadow: inset 0 2px 3px rgba(0, 0, 0, 0.7);
 }
 
 .stat-bar-fill {
   height: 100%;
   width: 0%;
   background-color: #4caf50;
+  background-image: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0.35) 0%,
+    rgba(255, 255, 255, 0) 45%,
+    rgba(0, 0, 0, 0.25) 100%
+  );
+  background-blend-mode: overlay;
   transition: width 0.2s ease, background-color 0.2s ease;
 }
 
@@ -91,8 +132,9 @@ body {
 }
 
 #stat-line {
+  font-family: 'Cinzel', serif;
   margin-top: 8px;
-  color: #aaa;
+  color: #c9a869;
 }
 
 #terminal-panel {
