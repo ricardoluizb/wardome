@@ -94,6 +94,7 @@ extern const char *save_info_msg[];   /* In olc.c */
 extern int top_of_zone_table;
 extern struct room_data *world; /* In db.c */
 extern int top_of_world;        /* In db.c */
+extern struct index_data *obj_index; /* In db.c */
 extern struct time_info_data time_info;         /* In db.c */
 extern char *help;
 extern struct zone_data *zone_table;
@@ -1219,6 +1220,32 @@ char *make_prompt(struct descriptor_data *d)
         GET_EXP(d->character), GET_GOLD(d->character), GET_LEVEL(d->character),
         exp_to_level);
       write_to_descriptor(d->descriptor, stats_tag_buf);
+    }
+
+    {
+      char equip_tag_buf[320];
+      char equip_body[280];
+      int w;
+      equip_body[0] = '\0';
+      for (w = 0; w < NUM_WEARS; w++) {
+        struct obj_data *eq_obj = GET_EQ(d->character, w);
+        int vnum = -1;
+        int tier = 0;
+        char slot_piece[16];
+        if (eq_obj != NULL) {
+          vnum = GET_OBJ_VNUM(eq_obj);
+          if (!strncmp(eq_obj->short_description, "&B[I]&n ", 8))
+            tier = 1;
+          else if (!strncmp(eq_obj->short_description, "&Y[R]&n ", 8))
+            tier = 2;
+          else if (!strncmp(eq_obj->short_description, "&R[L]&n ", 8))
+            tier = 3;
+        }
+        snprintf(slot_piece, sizeof(slot_piece), "%s%d:%d", (w == 0 ? "" : "|"), vnum, tier);
+        strncat(equip_body, slot_piece, sizeof(equip_body) - strlen(equip_body) - 1);
+      }
+      snprintf(equip_tag_buf, sizeof(equip_tag_buf), "$$EQUIP:%s$$\r\n", equip_body);
+      write_to_descriptor(d->descriptor, equip_tag_buf);
     }
 
     *prompt = '\0';
