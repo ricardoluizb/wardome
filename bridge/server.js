@@ -9,6 +9,7 @@ const BRIDGE_PORT = parseInt(process.env.BRIDGE_PORT || '8080', 10);
 const ROOM_TAG_RE = /\$\$ROOM:(\d+)\|(.+?)\$\$\r?\n?/g;
 const STATS_TAG_RE = /\$\$STATS:(-?\d+)\/(\d+)\/(-?\d+)\/(\d+)\/(-?\d+)\/(\d+)\/(-?\d+)\/(-?\d+)\/(\d+)\/(\d+)\$\$\r?\n?/g;
 const MOB_TAG_RE = /\$\$MOB:(-?\d+)\$\$\r?\n?/g;
+const EQUIP_TAG_RE = /\$\$EQUIP:([^$]+)\$\$\r?\n?/g;
 const ECHO_OFF_RE = /\xFF\xFB\x01/g;
 const ECHO_ON_RE = /\xFF\xFC\x01\r?\n?/g;
 
@@ -55,6 +56,16 @@ wss.on('connection', (ws) => {
           level: parseInt(match[9], 10),
           expToLevel: parseInt(match[10], 10),
         }));
+      }
+    });
+
+    cleaned = extractTag(cleaned, EQUIP_TAG_RE, (match) => {
+      if (ws.readyState === WebSocket.OPEN) {
+        const slots = match[1].split('|').map((pair) => {
+          const [vnum, tier] = pair.split(':').map((n) => parseInt(n, 10));
+          return { vnum, tier };
+        });
+        ws.send(JSON.stringify({ type: 'equip', slots }));
       }
     });
 
