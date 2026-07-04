@@ -142,11 +142,37 @@ ws.addEventListener('error', () => {
   output.textContent += '\n[connection error]\n';
 });
 
+const commandHistory = [];
+let historyIndex = -1;
+
 form.addEventListener('submit', (e) => {
   e.preventDefault();
   const command = input.value;
   if (ws.readyState === WebSocket.OPEN) {
     ws.send(JSON.stringify({ type: 'cmd', data: command }));
   }
+  if (command.length > 0) {
+    commandHistory.push(command);
+  }
+  historyIndex = commandHistory.length;
   input.value = '';
+});
+
+input.addEventListener('keydown', (e) => {
+  if (e.key === 'ArrowUp') {
+    e.preventDefault();
+    if (historyIndex > 0) {
+      historyIndex -= 1;
+      input.value = commandHistory[historyIndex];
+    }
+  } else if (e.key === 'ArrowDown') {
+    e.preventDefault();
+    if (historyIndex < commandHistory.length - 1) {
+      historyIndex += 1;
+      input.value = commandHistory[historyIndex];
+    } else {
+      historyIndex = commandHistory.length;
+      input.value = '';
+    }
+  }
 });
