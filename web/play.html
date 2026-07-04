@@ -12,6 +12,7 @@
 <body>
   <div id="layout">
     <div id="side-panel" class="ornate-frame">
+      <h1 id="game-title">WARDOME II - REBORN</h1>
       <img id="room-art" src="assets/rooms/placeholder.jpg" alt="Room illustration">
       <h2>Room</h2>
       <div id="room-id">—</div>
@@ -32,7 +33,12 @@
           <div class="stat-bar"><div id="move-bar-fill" class="stat-bar-fill"></div></div>
           <span id="move-text" class="stat-value">—/—</span>
         </div>
-        <div id="stat-line">Lvl — · — gold · — exp</div>
+        <div class="stat-bar-row">
+          <span id="level-label" class="stat-label level-label">Lvl —</span>
+          <div class="stat-bar"><div id="xp-bar-fill" class="stat-bar-fill"></div></div>
+          <span id="xp-text" class="stat-value">—/—</span>
+        </div>
+        <div id="gold-line"><span id="gold-icon" aria-hidden="true">🪙</span> <span id="gold-text">—</span> gold</div>
       </div>
     </div>
     <div id="terminal-panel" class="ornate-frame">

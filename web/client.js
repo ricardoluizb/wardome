@@ -8,7 +8,10 @@ const manaBarFillEl = document.getElementById('mana-bar-fill');
 const manaTextEl = document.getElementById('mana-text');
 const moveBarFillEl = document.getElementById('move-bar-fill');
 const moveTextEl = document.getElementById('move-text');
-const statLineEl = document.getElementById('stat-line');
+const levelLabelEl = document.getElementById('level-label');
+const xpBarFillEl = document.getElementById('xp-bar-fill');
+const xpTextEl = document.getElementById('xp-text');
+const goldTextEl = document.getElementById('gold-text');
 const form = document.getElementById('input-form');
 const input = document.getElementById('command-input');
 
@@ -36,7 +39,15 @@ function setStats(stats) {
   setBar(hpBarFillEl, hpTextEl, stats.hp, stats.maxHp, '#e05252');
   setBar(manaBarFillEl, manaTextEl, stats.mana, stats.maxMana, '#4a90d9');
   setBar(moveBarFillEl, moveTextEl, stats.move, stats.maxMove, '#d4af37');
-  statLineEl.textContent = `Lvl ${stats.level} · ${stats.gold} gold · ${stats.exp} exp`;
+  levelLabelEl.textContent = `Lvl ${stats.level}`;
+  if (stats.expToLevel > 0) {
+    setBar(xpBarFillEl, xpTextEl, stats.exp, stats.expToLevel, '#b366cc');
+  } else {
+    xpBarFillEl.style.width = '100%';
+    xpBarFillEl.style.backgroundColor = '#b366cc';
+    xpTextEl.textContent = `${stats.exp} (max)`;
+  }
+  goldTextEl.textContent = stats.gold;
 }
 
 // Maps the 8 base ANSI foreground color codes used by wdii/src/screen.h

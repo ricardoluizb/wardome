@@ -7,7 +7,7 @@ const GAME_PORT = parseInt(process.env.GAME_PORT || '4000', 10);
 const BRIDGE_PORT = parseInt(process.env.BRIDGE_PORT || '8080', 10);
 
 const ROOM_TAG_RE = /\$\$ROOM:(\d+)\$\$\r?\n?/g;
-const STATS_TAG_RE = /\$\$STATS:(-?\d+)\/(\d+)\/(-?\d+)\/(\d+)\/(-?\d+)\/(\d+)\/(-?\d+)\/(-?\d+)\/(\d+)\$\$\r?\n?/g;
+const STATS_TAG_RE = /\$\$STATS:(-?\d+)\/(\d+)\/(-?\d+)\/(\d+)\/(-?\d+)\/(\d+)\/(-?\d+)\/(-?\d+)\/(\d+)\/(\d+)\$\$\r?\n?/g;
 const MOB_TAG_RE = /\$\$MOB:(-?\d+)\$\$\r?\n?/g;
 const ECHO_OFF_RE = /\xFF\xFB\x01/g;
 const ECHO_ON_RE = /\xFF\xFC\x01\r?\n?/g;
@@ -53,6 +53,7 @@ wss.on('connection', (ws) => {
           exp: parseInt(match[7], 10),
           gold: parseInt(match[8], 10),
           level: parseInt(match[9], 10),
+          expToLevel: parseInt(match[10], 10),
         }));
       }
     });

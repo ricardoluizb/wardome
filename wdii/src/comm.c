@@ -1209,12 +1209,15 @@ char *make_prompt(struct descriptor_data *d)
 
     {
       char stats_tag_buf[160];
+      int exp_to_level = (GET_LEVEL(d->character) >= LVL_IMMORT) ? 0 :
+        level_exp(GET_REMORT(d->character), GET_LEVEL(d->character) + 1);
       snprintf(stats_tag_buf, sizeof(stats_tag_buf),
-        "$$STATS:%d/%d/%d/%d/%d/%d/%d/%d/%d$$\r\n",
+        "$$STATS:%d/%d/%d/%d/%d/%d/%d/%d/%d/%d$$\r\n",
         GET_HIT(d->character), GET_MAX_HIT(d->character),
         GET_MANA(d->character), GET_MAX_MANA(d->character),
         GET_MOVE(d->character), GET_MAX_MOVE(d->character),
-        GET_EXP(d->character), GET_GOLD(d->character), GET_LEVEL(d->character));
+        GET_EXP(d->character), GET_GOLD(d->character), GET_LEVEL(d->character),
+        exp_to_level);
       write_to_descriptor(d->descriptor, stats_tag_buf);
     }
 
