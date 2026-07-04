@@ -6,7 +6,7 @@ const GAME_HOST = process.env.GAME_HOST || 'localhost';
 const GAME_PORT = parseInt(process.env.GAME_PORT || '4000', 10);
 const BRIDGE_PORT = parseInt(process.env.BRIDGE_PORT || '8080', 10);
 
-const ROOM_TAG_RE = /\$\$ROOM:(\d+)\$\$\r?\n?/g;
+const ROOM_TAG_RE = /\$\$ROOM:(\d+)\|(.+?)\$\$\r?\n?/g;
 const STATS_TAG_RE = /\$\$STATS:(-?\d+)\/(\d+)\/(-?\d+)\/(\d+)\/(-?\d+)\/(\d+)\/(-?\d+)\/(-?\d+)\/(\d+)\/(\d+)\$\$\r?\n?/g;
 const MOB_TAG_RE = /\$\$MOB:(-?\d+)\$\$\r?\n?/g;
 const ECHO_OFF_RE = /\xFF\xFB\x01/g;
@@ -36,7 +36,7 @@ wss.on('connection', (ws) => {
 
     let cleaned = extractTag(text, ROOM_TAG_RE, (match) => {
       if (ws.readyState === WebSocket.OPEN) {
-        ws.send(JSON.stringify({ type: 'room', id: parseInt(match[1], 10) }));
+        ws.send(JSON.stringify({ type: 'room', id: parseInt(match[1], 10), name: match[2] }));
       }
     });
 

@@ -1289,8 +1289,16 @@ void look_at_room(struct char_data * ch, int ignore_brief)
 	}
 
   {
-    char room_tag_buf[32];
-    snprintf(room_tag_buf, sizeof(room_tag_buf), "$$ROOM:%d$$\r\n", GET_ROOM_VNUM(IN_ROOM(ch)));
+    char room_tag_buf[256];
+    char room_name_buf[200];
+    char *nl;
+    strncpy(room_name_buf, world[ch->in_room].name, sizeof(room_name_buf) - 1);
+    room_name_buf[sizeof(room_name_buf) - 1] = '\0';
+    nl = strpbrk(room_name_buf, "\r\n");
+    if (nl != NULL)
+      *nl = '\0';
+    snprintf(room_tag_buf, sizeof(room_tag_buf), "$$ROOM:%d|%s$$\r\n",
+      GET_ROOM_VNUM(IN_ROOM(ch)), room_name_buf);
     send_to_char(room_tag_buf, ch);
   }
 

@@ -137,7 +137,7 @@ ws.addEventListener('message', (event) => {
     output.insertAdjacentHTML('beforeend', ansiToHtml(msg.data));
     output.scrollTop = output.scrollHeight;
   } else if (msg.type === 'room') {
-    roomIdEl.textContent = msg.id;
+    roomIdEl.textContent = msg.name;
     setRoomArt(msg.id);
   } else if (msg.type === 'mob') {
     setMobArt(msg.id);
