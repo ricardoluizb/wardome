@@ -11,6 +11,7 @@ const moveTextEl = document.getElementById('move-text');
 const levelLabelEl = document.getElementById('level-label');
 const xpBarFillEl = document.getElementById('xp-bar-fill');
 const xpTextEl = document.getElementById('xp-text');
+const xpPercentEl = document.getElementById('xp-percent');
 const goldTextEl = document.getElementById('gold-text');
 const form = document.getElementById('input-form');
 const input = document.getElementById('command-input');
@@ -42,10 +43,12 @@ function setStats(stats) {
   levelLabelEl.textContent = `Lvl ${stats.level}`;
   if (stats.expToLevel > 0) {
     setBar(xpBarFillEl, xpTextEl, stats.exp, stats.expToLevel, '#b366cc');
+    xpPercentEl.textContent = `${Math.max(0, Math.min(100, Math.round((stats.exp / stats.expToLevel) * 100)))}%`;
   } else {
     xpBarFillEl.style.width = '100%';
     xpBarFillEl.style.backgroundColor = '#b366cc';
     xpTextEl.textContent = `${stats.exp} (max)`;
+    xpPercentEl.textContent = '100%';
   }
   goldTextEl.textContent = stats.gold;
 }
