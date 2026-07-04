@@ -1291,14 +1291,31 @@ void look_at_room(struct char_data * ch, int ignore_brief)
   {
     char room_tag_buf[256];
     char room_name_buf[200];
-    char *nl;
+    char room_name_clean[200];
+    char *nl, *src, *dst;
     strncpy(room_name_buf, world[ch->in_room].name, sizeof(room_name_buf) - 1);
     room_name_buf[sizeof(room_name_buf) - 1] = '\0';
     nl = strpbrk(room_name_buf, "\r\n");
     if (nl != NULL)
       *nl = '\0';
+    /* Strip this codebase's "&X" color-code convention (screen.h/comm.c's
+     * parse_color()) from the raw room name -- some room names bake these
+     * in (e.g. "&CThe Fountain Square&n"). send_to_char() below converts
+     * any remaining "&X" pairs in the whole tag into real ANSI escape
+     * sequences via parse_color(), and the browser client displays this
+     * tag's text verbatim (no ANSI rendering applied to room names), so
+     * they must be removed here, before send_to_char() runs. */
+    dst = room_name_clean;
+    for (src = room_name_buf; *src; src++) {
+      if (*src == '&' && *(src + 1) != '\0') {
+        src++;
+        continue;
+      }
+      *dst++ = *src;
+    }
+    *dst = '\0';
     snprintf(room_tag_buf, sizeof(room_tag_buf), "$$ROOM:%d|%s$$\r\n",
-      GET_ROOM_VNUM(IN_ROOM(ch)), room_name_buf);
+      GET_ROOM_VNUM(IN_ROOM(ch)), room_name_clean);
     send_to_char(room_tag_buf, ch);
   }
 

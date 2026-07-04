@@ -80,7 +80,7 @@ some sort of glowing energy barrier running through the
 woods.  A game trail, seemingly well traveled, runs east-
 west along the magical barrier's length.  Very strange.
 ~
-62 0 3
+62 16777216 3
 D1
 ~
 ~
@@ -274,7 +274,7 @@ and electric shocks sting your body from every metallic
 piece of equipment you are carrying.  You think with a
 final shove, you can break through to the other side...
 ~
-62 c 5
+62 4 5
 D1
 ~
 ~
@@ -294,7 +294,7 @@ travellers on the forest paths away from here.  The air
 smells of death and decay, and the air is very still.  You
 feel uncomfortable.
 ~
-62 c 3
+62 4 3
 D1
 ~
 ~
@@ -406,9 +406,8 @@ D3
 S
 #6216
 The River's Edge~
-   A large out-cropping of rock blocks this path along the
-river to the west, and you don't spot any way around it; 
-the woods are too thick to the south, the river too swift 
+There is a small path leading off the trail to the west.
+The woods are too thick to the south, the river swift
 to the north, the magical barrier above you.  This is a 
 nice area, however, as evidenced by the amount of traffic
 this path gets.  From the marks in the grass, you guess 
@@ -419,6 +418,10 @@ D1
 ~
 ~
 0 -1 6215
+D3
+~
+~
+0 0 17301
 S
 #6217
 A Forest Trail~
@@ -610,7 +613,7 @@ ferns around you rustle gently in the light breeze.
 Somehow, the threatening aura that pervades over the rest
 of the area seems absent here.  You feel almost relaxed...
 ~
-62 c 3
+62 4 3
 D0
 ~
 ~
@@ -941,7 +944,7 @@ odor.  Your stomach turns involuntarily, and you wonder
 about going back down the hill to the east, instead of 
 going even further down the western tunnel.
 ~
-62 d 5
+62 8 5
 D1
 ~
 ~
@@ -962,7 +965,7 @@ your bile.
    Forcing your eyes open, you notice the warning signs
 painted around the tunnel to the north.
 ~
-62 ad 4
+62 9 4
 D0
 ~
 ~
@@ -989,7 +992,7 @@ smell with it.  Again, you consider saving your nose the
 trip west and down the tunnel, and heading back east to 
 the cave entrance.
 ~
-62 ad 4
+62 9 4
 D1
 ~
 ~
@@ -1007,7 +1010,7 @@ lights from inside, and you hear some heavy breathing and
 low grunts from that direction.  The cave entrance to the 
 east seems far too far away for your comfort...
 ~
-62 ad 5
+62 9 5
 D1
 ~
 ~
@@ -1027,7 +1030,7 @@ stomachs you guess.  Oddly enough, you don't even care to
 catalog what they have available -- there's no chance you're 
 going to take any of this...
 ~
-62 d 4
+62 8 4
 D1
 ~
 ~
@@ -1046,7 +1049,7 @@ is lying, the stone next to its hand... this is a suicide
 area!  You look down upon the orc and comprehend its 
 suffering in its twisted form.  How sad.
 ~
-62 d 4
+62 8 4
 D1
 ~
 ~
@@ -1071,7 +1074,7 @@ rest just decompose.  The dim sense of horror budding in
 your head blossoms as you realize the pile in the corner 
 consists of dead orc children awaiting burial.
 ~
-62 cd 4
+62 12 4
 D2
 ~
 ~
@@ -1091,7 +1094,7 @@ undrinkable.  Somewhere to the east you hear an orc
 child's whining cry, and a voice hushes it urgently.  
 Beware, orcs!  Adventurers are here!  Hide your children!
 ~
-62 d 4
+62 8 4
 D0
 ~
 ~
@@ -1117,7 +1120,7 @@ twisted piece of wire... one orc's idea of a treasured ring,
 no doubt.  Kicking the trinket away, you try to push the 
 pity out of your heart for these wretches.
 ~
-62 d 4
+62 8 4
 D0
 ~
 ~
@@ -1146,7 +1149,7 @@ turns to horror as you see a horrible creature, half...
 well, half something and half orc dash between two 
 stalagmites.
 ~
-62 d 4
+62 8 4
 D0
 ~
 ~
@@ -1175,7 +1178,7 @@ look at the pile of worthless coins and wonder at the
 image of orcish raiders.
    These orcs aren't raiders, they are victims.
 ~
-62 d 4
+62 8 4
 D0
 ~
 ~
@@ -1193,7 +1196,7 @@ are covered with blood and other, unidentifiable
 substances.  Looking around, your only coherent thought 
 is, 'Don't want to know... don't want to know...'
 ~
-62 d 4
+62 8 4
 D0
 ~
 ~
@@ -1217,7 +1220,7 @@ unless you've the mercy to put them out of their misery.
 wonder what forces are at work here... the barrier, the 
 orcs...  What's going on here?
 ~
-62 d 4
+62 8 4
 D0
 ~
 ~
@@ -1237,7 +1240,7 @@ tunnel.  The smell from the lower tunnel doesn't seem
 nearly as bad here... this might be a good place to rest
 and catch your breath.
 ~
-62 acd 4
+62 13 4
 D2
 ~
 ~
@@ -1258,7 +1261,7 @@ north you hear some horrible cries of pain and anguish
 that make you cringe inside and think twice about heading 
 in that direction.
 ~
-62 d 0
+62 8 0
 D0
 ~
 ~
@@ -1282,7 +1285,7 @@ here has that 'natural look' about it.  The bed is filled
 with soft down with an ornate table lamp close by.  Nice 
 place.
 ~
-62 d 0
+62 8 0
 D1
 A normal, wooden door.
 ~
@@ -1300,7 +1303,7 @@ atmosphere.  Somewhere in the recesses of that room
 something cries out in a horrible crackling voice.  Not 
 good.
 ~
-62 d 0
+62 8 0
 D0
 ~
 ~
@@ -1319,7 +1322,7 @@ a clear lid.  There's a drain in the floor with gradients
 leading to it to carry away the blood.  For some reason, 
 you don't imagine this as a voluntary operating theatre...
 ~
-62 d 0
+62 8 0
 D1
 ~
 ~
@@ -1336,7 +1339,7 @@ apparatus here, vials and beakers, distillation equipment
 and et cetera.  The stuff looks expensive, but bulky and 
 fragile; not good treasure to cart away with you at all.
 ~
-62 d 0
+62 8 0
 D1
 A steel cell door.
 ~
@@ -1357,7 +1360,7 @@ A Cage~
 wastes, another bucket for food, and a dirty towel for a 
 bed.  The whole room has a terrible stench about it. 
 ~
-62 d 0
+62 8 0
 D3
 A steel cell door.
 ~
@@ -1374,7 +1377,7 @@ There are some bulges on its back, and it doesn't seem to
 be in a very good mood.  It quivers some, not fully in
 control of its motor functions.  Poor thing.
 ~
-62 d 0
+62 8 0
 D0
 ~
 ~
@@ -1394,7 +1397,7 @@ The Laboratory~
 filled with shackles and manacles, bullwhips and worse.  
 They all look well-used.  You give a shiver, and carry on.
 ~
-62 d 0
+62 8 0
 D0
 ~
 ~
@@ -1419,7 +1422,7 @@ A Cage~
 wastes, another bucket for food, and a dirty towel for a 
 bed.  The whole room has a terrible stench about it. 
 ~
-62 d 0
+62 8 0
 D3
 A steel cell door.
 ~
@@ -1433,7 +1436,7 @@ equipment here, merely several pairs of heavy steel
 shackles on the southern wall.  There's also some a few 
 small bloodstains on the floor beneath the shackles.
 ~
-62 d 0
+62 8 0
 D0
 ~
 ~
@@ -1451,7 +1454,7 @@ metal table here is empty, although you can see some
 outlines in the dust that suggest books had laid here 
 once.
 ~
-62 d 0
+62 8 0
 D0
 ~
 ~
@@ -1476,11 +1479,11 @@ A Cage~
 wastes, another bucket for food, and a dirty towel for a 
 bed.  The whole room has a terrible stench about it.
 ~
-62 d 0
+62 8 0
 D3
 A steel cell door.
 ~
 door cell~
 1 6200 6266
 S
-$
+$~

@@ -5,10 +5,12 @@ A goblin slave lies here asleep.
 ~
 The defenseless goblin begs for mercy.
 ~
-bh 0 350 S
-1 20 9 1d11+11 1d5+0
-0 100
-4 4 1
+138 0 350 E
+25 8 6 1d1+522 5d3+10
+375 65926 0
+4 4 1 -1 -1
+Att2: 24
+E
 #5101
 drow commoner~
 the Drow commoner~
@@ -16,10 +18,12 @@ A drow commoner is here, walking around on guard duty.
 ~
 I doubt he is the type to give directions.
 ~
-fglm dk -1000 S
-10 12 0 1d10+130 13d1+3
-300 10750
-8 8 1
+6248 1032 -1000 E
+28 6 5 1d1+585 5d3+10
+420 88418 0
+8 8 1 3 1
+Att2: 27
+E
 #5102
 drow noble warrior~
 the drow warrior~
@@ -27,10 +31,13 @@ A drow warrior stands here guarding his home.
 ~
 He looks kind of annoyed!
 ~
-bflm dk -1000 S
-12 9 0 1d5+160 14d1+7
-1000 15000
-8 8 1
+6186 1032 -1000 E
+34 3 4 1d1+711 5d4+12
+510 147376 0
+8 8 1 3 1
+Att2: 33
+Att3: 3
+E
 #5103
 drow noble mage~
 the drow mage~
@@ -38,10 +45,13 @@ A drow mage is here protecting his home.
 ~
 The mage prepares to cast a spell... at you!!
 ~
-abflm dk -1000 S
-15 8 2 1d12+190 8d2+2
-2000 21000
-8 8 1
+6187 1032 -1000 E
+35 3 4 1d1+729 5d4+14
+525 175106 0
+8 8 1 0 1
+Att2: 36
+Att3: 3
+E
 #5104
 drow priestess~
 the drow priestess~
@@ -49,10 +59,13 @@ A drow priestess is here shouting orders.
 ~
 I wouldn't want go get on her bad side!
 ~
-abflm dk -1000 S
-17 5 0 1d11+205 14d1+4
-4000 28000
-8 8 2
+6187 1032 -1000 E
+36 2 4 1d1+756 5d4+14
+540 188768 0
+8 8 2 1 1
+Att2: 36
+Att3: 3
+E
 #5105
 drow master~
 the drow master~
@@ -60,10 +73,13 @@ A drow master stares at you angrily.
 ~
 The drow master is ALWAYS ready for a fight.
 ~
-bflm dk -1000 S
-21 0 0 1d12+248 18d1+4
-10000 60000
-8 8 1
+6186 1032 -1000 E
+38 1 4 1d1+792 5d4+14
+570 198330 0
+8 8 1 3 1
+Att2: 39
+Att3: 6
+E
 #5106
 drow weaponsmaster~
 the weaponsmaster~
@@ -71,10 +87,12 @@ A drow weaponsmaster is here shadow boxing.
 ~
 He definitely know his way around in combat.
 ~
-bflm dkp -1000 S
-23 0 -2 1d25+405 12d2+4
-15000 80000
-8 8 1
+6186 33800 -1000 E
+30 5 5 1d1+630 5d4+12
+450 105901 0
+8 8 1 3 1
+Att2: 30
+E
 #5107
 drow matron mother~
 the Matron Mother~
@@ -82,10 +100,13 @@ The Matron Mother of the house is standing here.
 ~
 She looks really and truly annoyed that you have found your way here.
 ~
-abfl dhkp -1000 S
-24 0 -3 1d50+450 15d2+4
-30000 130000
-8 8 2
+2059 33928 -1000 E
+40 0 4 1d1+837 5d5+16
+600 250429 0
+8 8 2 0 1
+Att2: 42
+Att3: 6
+E
 #5108
 drow matron mother~
 the Matron Mother~
@@ -93,10 +114,13 @@ The Matron Mother of the first house is waiting for you.
 ~
 She looks like she is about to rip your head of and eat it.
 ~
-abfl dhkp -1000 S
-25 0 -4 5d10+350 12d2+24
-40000 150000
-8 8 2
+2091 33928 -1000 E
+40 0 4 1d1+837 5d5+16
+600 250429 0
+8 8 2 0 1
+Att2: 42
+Att3: 6
+E
 #5109
 drider~
 the drider~
@@ -104,10 +128,13 @@ The drider looks at you viciously while it draws its sword.
 ~
 This half-spider, half-drow creature is a formidable opponent.
 ~
-fgno dkp -1000 S
-8 12 2 1d6+195 2d6+2
-200 4000
-8 8 0
+24680 33800 -1000 E
+37 2 4 1d1+774 5d4+14
+555 184650 0
+8 8 0 -1 -1
+Att2: 39
+Att3: 3
+E
 #5110
 drider~
 the drider~
@@ -115,10 +142,13 @@ The drider looks at you viciously while it draws its sword.
 ~
 This half-spider, half-drow creature is a formidable opponent.
 ~
-bfgno dhkp -1000 S
-11 10 0 1d6+295 3d6+8
-0 7000
-8 8 0
+24682 33928 -1000 E
+37 2 4 1d1+774 5d4+14
+555 184650 0
+8 8 0 -1 -1
+Att2: 39
+Att3: 3
+E
 #5111
 yochlol~
 the yochlol~
@@ -126,8 +156,53 @@ A yochlol forms out of a swirling mist...
 ~
 The yochlol is not in a good mood.
 ~
-beflnoqr dfhkp -1000 S
-23 0 -6 25d2+450 15d2+30
-60000 80000
-8 8 2
+223290 33960 -1000 E
+31 5 5 1d1+648 5d4+12
+465 115433 0
+8 8 2 -1 -1
+Att2: 30
+E
+#5112
+emperor~
+Emperor Newbie~
+A newbie with a very elegant cape is walking here. 
+~
+But it is....DRIZZT!!!!!!!!
+~
+72 0 100 E
+10 15 8 1d1+207 5d2+4
+150 7838 0
+8 8 1 8 -1
+Att2: 9
+E
+#5120
+matron mother drow~
+the Matron Mother~
+The Matron Mother of the 4th house is standing here.
+~
+She looks really and truly annoyed that you have found your way here.
+~
+2058 33928 -1000 E
+40 0 4 1d1+837 5d5+16
+600 250429 0
+8 8 2 0 1
+E
+T 22252
+T 22253
+T 22257
+#5121
+drow mother matron~
+the Matron Mother~
+The Matron Mother of the 4th house is standing here.
+~
+She looks really and truly annoyed that you have found your way here.
+~
+2058 33928 -1000 E
+40 0 4 1d1+837 5d5+16
+600 250429 0
+8 8 2 0 1
+E
+T 22254
+T 22255
+T 22256
 $
