@@ -19,9 +19,10 @@ const equipmentCloseEl = document.getElementById('equipment-close');
 const form = document.getElementById('input-form');
 const input = document.getElementById('command-input');
 
-const ws = new WebSocket('ws://localhost:8080');
+const WS_PROTOCOL = location.protocol === 'https:' ? 'wss:' : 'ws:';
+const WS_URL = location.host ? `${WS_PROTOCOL}//${location.host}` : 'ws://localhost:8080';
+const ws = new WebSocket(WS_URL);
 
-const MVP_ROOM_ART = new Set([3001, 3054, 3059, 3060, 3061, 18600, 18601, 18602, 18603]);
 const MVP_MOB_ART = new Set([18601, 18602, 18604, 18611, 18615]);
 
 // Order matches WEAR_LIGHT=0..WEAR_FLOAT=22 (wdii/src/structs.h:421-443) --
@@ -65,9 +66,11 @@ function initEquipSlots() {
   EQUIP_SLOTS.forEach((def, i) => {
     const img = equipIconEls[i];
     img.src = slotPlaceholderPath(def.type);
+    img.classList.add('is-placeholder');
     img.onerror = () => {
       img.onerror = null;
       img.src = slotPlaceholderPath(def.type);
+      img.classList.add('is-placeholder');
     };
     img.parentElement.style.borderColor = TIER_BORDER_COLORS[0];
   });
@@ -82,12 +85,15 @@ function setEquip(msg) {
     if (slot.vnum === -1) {
       img.onerror = null;
       img.src = slotPlaceholderPath(def.type);
+      img.classList.add('is-placeholder');
       img.parentElement.style.borderColor = TIER_BORDER_COLORS[0];
     } else {
       img.onerror = () => {
         img.onerror = null;
         img.src = slotPlaceholderPath(def.type);
+        img.classList.add('is-placeholder');
       };
+      img.classList.remove('is-placeholder');
       img.src = `assets/items/${slot.vnum}.jpg`;
       img.parentElement.style.borderColor = TIER_BORDER_COLORS[slot.tier] || TIER_BORDER_COLORS[0];
     }
@@ -97,7 +103,11 @@ function setEquip(msg) {
 initEquipSlots();
 
 function setRoomArt(id) {
-  roomArtEl.src = MVP_ROOM_ART.has(id) ? `assets/rooms/${id}.jpg` : 'assets/rooms/placeholder.jpg';
+  roomArtEl.onerror = () => {
+    roomArtEl.onerror = null;
+    roomArtEl.src = 'assets/rooms/placeholder.jpg';
+  };
+  roomArtEl.src = `assets/rooms/${id}.jpg`;
 }
 
 function setMobArt(id) {

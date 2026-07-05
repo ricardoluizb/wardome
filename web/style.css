@@ -294,27 +294,47 @@ body {
 #equipment-grid {
   display: grid;
   grid-template-columns: repeat(3, 64px);
-  grid-template-rows: repeat(11, 64px);
+  grid-template-rows: repeat(8, 64px);
   grid-template-areas:
     "ear-l head ear-r"
-    ".     face   .  "
-    "neck-1 . neck-2"
-    ".     about   .  "
+    "neck-1 face neck-2"
+    "wrist-l about wrist-r"
     "arms  body  shield"
-    "wrist-l hands wrist-r"
-    ".     waist   .  "
-    "ring-l . ring-r"
-    "legs  .     feet"
+    "ring-l hands ring-r"
+    "legs  waist   feet"
     "hold dwield wield"
     "light .     float";
-  gap: 8px;
+  gap: 20px 8px;
   justify-content: center;
   margin: 40px auto 0 auto;
 }
 
 .equip-slot {
+  position: relative;
   width: 64px;
   height: 64px;
+  overflow: visible;
+}
+
+.equip-slot::before {
+  content: attr(data-label);
+  position: absolute;
+  top: -13px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-family: 'Cinzel', serif;
+  font-size: 7px;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #8a7128;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.equip-icon-box {
+  width: 100%;
+  height: 100%;
   border-radius: 4px;
   overflow: hidden;
   background: #0d0d0d;
@@ -327,4 +347,12 @@ body {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  opacity: 1;
+  filter: none;
+  transition: opacity 0.15s ease, filter 0.15s ease;
+}
+
+.equip-icon.is-placeholder {
+  opacity: 0.22;
+  filter: grayscale(1) brightness(0.75);
 }
