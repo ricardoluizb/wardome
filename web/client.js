@@ -13,6 +13,8 @@ const xpBarFillEl = document.getElementById('xp-bar-fill');
 const xpTextEl = document.getElementById('xp-text');
 const xpPercentEl = document.getElementById('xp-percent');
 const goldTextEl = document.getElementById('gold-text');
+const sidePanelEl = document.getElementById('side-panel');
+const levelUpFlashEl = document.getElementById('level-up-flash');
 const equipmentToggleEl = document.getElementById('equipment-toggle');
 const equipmentOverlayEl = document.getElementById('equipment-overlay');
 const equipmentCloseEl = document.getElementById('equipment-close');
@@ -123,11 +125,25 @@ function setBar(fillEl, textEl, current, max, color) {
   textEl.textContent = `${current}/${max}`;
 }
 
+let lastLevel = null;
+
+function triggerLevelUp() {
+  sidePanelEl.classList.remove('level-up-glow');
+  levelUpFlashEl.classList.remove('show');
+  void sidePanelEl.offsetWidth;
+  sidePanelEl.classList.add('level-up-glow');
+  levelUpFlashEl.classList.add('show');
+}
+
 function setStats(stats) {
   setBar(hpBarFillEl, hpTextEl, stats.hp, stats.maxHp, '#e05252');
   setBar(manaBarFillEl, manaTextEl, stats.mana, stats.maxMana, '#4a90d9');
   setBar(moveBarFillEl, moveTextEl, stats.move, stats.maxMove, '#d4af37');
   levelLabelEl.textContent = `Lvl ${stats.level}`;
+  if (lastLevel !== null && stats.level > lastLevel) {
+    triggerLevelUp();
+  }
+  lastLevel = stats.level;
   if (stats.expToLevel > 0) {
     setBar(xpBarFillEl, xpTextEl, stats.exp, stats.expToLevel, '#999999');
     xpPercentEl.textContent = `${Math.max(0, Math.min(100, Math.round((stats.exp / stats.expToLevel) * 100)))}%`;
