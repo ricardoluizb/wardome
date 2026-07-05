@@ -23,8 +23,6 @@ const WS_PROTOCOL = location.protocol === 'https:' ? 'wss:' : 'ws:';
 const WS_URL = location.host ? `${WS_PROTOCOL}//${location.host}` : 'ws://localhost:8080';
 const ws = new WebSocket(WS_URL);
 
-const MVP_MOB_ART = new Set([18601, 18602, 18604, 18611, 18615]);
-
 // Order matches WEAR_LIGHT=0..WEAR_FLOAT=22 (wdii/src/structs.h:421-443) --
 // this is the exact same order the $$EQUIP$$ tag and bridge array use.
 const EQUIP_SLOTS = [
@@ -111,7 +109,11 @@ function setRoomArt(id) {
 }
 
 function setMobArt(id) {
-  roomArtEl.src = MVP_MOB_ART.has(id) ? `assets/mobs/${id}.jpg` : 'assets/mobs/placeholder.jpg';
+  roomArtEl.onerror = () => {
+    roomArtEl.onerror = null;
+    roomArtEl.src = 'assets/mobs/placeholder.jpg';
+  };
+  roomArtEl.src = `assets/mobs/${id}.jpg`;
 }
 
 function setBar(fillEl, textEl, current, max, color) {
@@ -250,7 +252,9 @@ form.addEventListener('submit', (e) => {
   e.preventDefault();
   const command = input.value;
   if (ws.readyState === WebSocket.OPEN) {
-    ws.send(JSON.stringify({ type: 'cmd', data: command }));
+    command.split(';').map((part) => part.trim()).filter((part) => part.length > 0).forEach((part) => {
+      ws.send(JSON.stringify({ type: 'cmd', data: part }));
+    });
   }
   if (command.length > 0) {
     commandHistory.push(command);
