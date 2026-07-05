@@ -106,6 +106,8 @@ if (IS_NPC(ch)) {
   struct obj_data *sig_drop = roll_signature_drop(GET_MOB_VNUM(ch));
   if (sig_drop != NULL) {
     roll_item_rarity(sig_drop, GET_LEVEL(ch));
+    if (GET_OBJ_VNUM(sig_drop) == 20599 && !strncmp(sig_drop->short_description, "&Y[R]", 5))
+      GET_OBJ_PERM(sig_drop) |= AFF_SANCTUARY;
     obj_to_obj(sig_drop, corpse);
   }
 }
@@ -114,6 +116,23 @@ if (IS_NPC(ch)) {
 This only fires for NPCs (mobs), never player corpses, matching the existing
 guard pattern already used for the two current `roll_item_rarity()` call
 sites in this function.
+
+### Sanctuary on a Rare roll (chitinous crown only)
+
+When this specific item (vnum 20599) rolls exactly Rare (`&Y[R]`, detected
+with the same 5-byte-prefix check used for the paperdoll border color),
+it permanently grants `AFF_SANCTUARY` while worn — not on Uncommon, not on
+Legendary, just Rare, per explicit request. This uses CircleMUD's existing
+"item grants an affect bit while equipped" mechanism: `GET_OBJ_PERM(obj)`
+(`(obj)->obj_flags.bitvector`) is OR'd into the wearer's `AFF_FLAGS` by
+`equip_char()` (`wdii/src/handler.c:669`) and removed on unequip
+(`handler.c:719`) — no changes needed to `equip_char()`/`unequip_char()`
+themselves, and no changes to the `.obj` file (this bitvector is a runtime
+field on the loaded instance, separate from the file's static header
+fields). The `GET_OBJ_VNUM(sig_drop) == 20599` guard keeps this rule scoped
+to the crown specifically — future signature-drop table entries don't
+inherit it automatically; a different item wanting a different on-rarity
+effect needs its own explicit check the same way.
 
 ## 3. Difficulty-gated rarity (modifies existing `roll_item_rarity()`)
 
