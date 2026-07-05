@@ -1,0 +1,29 @@
+{
+  "id": 13502,
+  "zone_id": 135,
+  "name": "In The Dragon's Mouth",
+  "description": "Rows of stone teeth as large as trolls line the walls here.  A\ntongue of pitted stone leads east, behind stone molars as large as\niron shields.",
+  "header_raw": "135 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13503
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13501
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

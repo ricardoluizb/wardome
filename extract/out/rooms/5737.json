@@ -1,0 +1,29 @@
+{
+  "id": 5737,
+  "zone_id": 57,
+  "name": "A Door",
+  "description": "You are standing before a wooden door, set flush with the stone wall that\nmarks the end of the passageway. It looks solid, but you get the idea that\nit would give easily to a good shove from your shoulder. Or, you could try\njust opening it with the handle...",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "a pit",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5738
+    },
+    {
+      "dir": 3,
+      "description": "inside the mountain",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5736
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

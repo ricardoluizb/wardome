@@ -1,0 +1,21 @@
+{
+  "id": 820,
+  "zone_id": 7,
+  "name": "Passageway (Again!)",
+  "description": "You feel relief pass over you for a moment.  This place looks to be\na nice, safe place to rest if you've ever seen one.",
+  "header_raw": "7 13 0",
+  "flags_text": "13",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 821
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

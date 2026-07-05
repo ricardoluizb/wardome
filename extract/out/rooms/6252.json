@@ -3,8 +3,8 @@
   "zone_id": 62,
   "name": "A Cave",
   "description": "This must be the orc chief's area.  There's an old \nprize -- a stolen timeworn human armchair sitting near \nthe south wall as a throne.  A mammoth sleeping pallet \nmade of piled furs is nearby.  Next to that is the pile \nof orc treasure; a pile of well-polished coppers.  You \nlook at the pile of worthless coins and wonder at the \nimage of orcish raiders.\n   These orcs aren't raiders, they are victims.",
-  "header_raw": "62 d 4",
-  "flags_text": "d",
+  "header_raw": "62 8 4",
+  "flags_text": "8",
   "sector": 4,
   "exits": [
     {

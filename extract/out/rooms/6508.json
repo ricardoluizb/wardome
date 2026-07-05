@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "The Narrow North-South Path",
   "description": "This path leads to the north and south.  To the north you can see a\ndoor, and to the south the path continues.",
-  "header_raw": "65 d 0",
-  "flags_text": "d",
+  "header_raw": "65 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

@@ -1,0 +1,21 @@
+{
+  "id": 17005,
+  "zone_id": 170,
+  "name": "The Treelike Forest",
+  "description": "You are standing in a great forest with a great numbers of trees and wild\nanimals. The sound of that cult becomes stronger. You hear a sound of\nwarriors preparing themselves to the battle too.",
+  "header_raw": "170 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see more of the treelike forest.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17003
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/170.wld"
+}

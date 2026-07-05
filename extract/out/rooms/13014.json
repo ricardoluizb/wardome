@@ -1,0 +1,45 @@
+{
+  "id": 13014,
+  "zone_id": 130,
+  "name": "Second Avenue",
+  "description": "Here continues the poor second avenue, you are in the east side.\nYou see a old house to the north and a strange place to the south,\nthe avenue continues to east and west.",
+  "header_raw": "130 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13015
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13017
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13016
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13002
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

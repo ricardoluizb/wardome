@@ -1,0 +1,29 @@
+{
+  "id": 1009,
+  "zone_id": 10,
+  "name": "At The Altar",
+  "description": "You stand before the pews of the cathedral.  Standing before you is\nthe altar.  The floor around the altar, including the steps leading up\nto it, is stained a deep brown that looks almost wet still.  There are\nsome sticky footprints left on the floor.\n   The cathedral continues southwards through the pews.  Just to the\nnorthwest there is a small curtain pulled across a doorway.",
+  "header_raw": "10 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The curtain has been pulled to across the doorway, making it slighty\nawkward to see through.",
+      "keywords": "curtain",
+      "door_flag": 1,
+      "key": -1,
+      "to": 1010
+    },
+    {
+      "dir": 2,
+      "description": "Rows and rows of pews can be seen to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1008
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

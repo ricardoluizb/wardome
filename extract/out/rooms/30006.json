@@ -1,0 +1,45 @@
+{
+  "id": 30006,
+  "zone_id": 300,
+  "name": "A paved street",
+  "description": "A paved street of interlocking stone slabs.  Hundreds of seagulls patrol the\nstreets of the Havens, squawking incessantly.  Besides the cries of the gulls\nyou can hear the crashing of waves, telling you that the sea is not far away at\nall.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30009
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30005
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30079
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30007
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

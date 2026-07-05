@@ -3,8 +3,8 @@
   "zone_id": 62,
   "name": "In The Forest",
   "description": "The northern pathway stops abruptly here, halted by\nsome sort of glowing energy barrier running through the\nwoods.  A game trail, seemingly well traveled, runs east-\nwest along the magical barrier's length.  Very strange.",
-  "header_raw": "62 0 3",
-  "flags_text": "0",
+  "header_raw": "62 16777216 3",
+  "flags_text": "16777216",
   "sector": 3,
   "exits": [
     {

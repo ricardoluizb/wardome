@@ -1,0 +1,21 @@
+{
+  "id": 13509,
+  "zone_id": 135,
+  "name": "The Heart Of The Dragon",
+  "description": "Runes which glow with a blue light are carved into the stone walls\nof Ancalador's heart chamber here.  Their magical purity counters his\nevil and makes for a holy balance that is Neutrality.  It seems some\nmusic lover has set up residence here, judging by all the instruments\nand sheet music floating here.",
+  "header_raw": "135 520 0",
+  "flags_text": "520",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the chamber wall dilate open for you, leading to the tunnel beyond.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13555
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

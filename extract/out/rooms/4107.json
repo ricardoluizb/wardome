@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Passage",
   "description": "You are standing at the elbow turn of a small passageway.  It turns\nquite sharply to the south and west.  To the south, it appears that the\npassage continues, but to the west you can see what almost appears to\nbe a golden light.",
-  "header_raw": "40 ad 3",
-  "flags_text": "ad",
+  "header_raw": "40 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

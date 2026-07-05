@@ -1,0 +1,37 @@
+{
+  "id": 6764,
+  "zone_id": 67,
+  "name": "At a swinging wooden gate",
+  "description": "You pass through a creaking gate of weathered wood, swinging idly in\nthe wind. To the west rise the bluffs and gardens of the homes of\nSundhaven's varied people; citizens can also be seen passing eastwards\ninto the town itself.",
+  "header_raw": "67 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6715
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6713
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 2,
+      "key": 0,
+      "to": 6765
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

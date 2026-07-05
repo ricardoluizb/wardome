@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "The Mining Equipment Room",
   "description": "This is the storage room for equipment used by the Dwarven miners.\nIt is very small, and you can tell that not many miners actually use \nequipment.",
-  "header_raw": "65 ad 0",
-  "flags_text": "ad",
+  "header_raw": "65 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

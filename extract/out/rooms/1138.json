@@ -1,0 +1,37 @@
+{
+  "id": 1138,
+  "zone_id": 11,
+  "name": "A grassy field",
+  "description": "You stand upon a grassy field.  A bull stands grazing not far away and\nout of the corner of your eye you can see him considering you.  The sound\nof animals fill the air from the north.  To the south you see a pig pen.",
+  "header_raw": "11 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a large barn.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1142
+    },
+    {
+      "dir": 1,
+      "description": "You see Delving Lane.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1133
+    },
+    {
+      "dir": 2,
+      "description": "A rather large pig pen is to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1139
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

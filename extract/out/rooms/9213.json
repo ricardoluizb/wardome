@@ -1,0 +1,45 @@
+{
+  "id": 9213,
+  "zone_id": 92,
+  "name": "The Floor of the Canyon",
+  "description": "Various elemental forms wander the floor of the canyon.  Some seem to be\ngoing about their business, while others seem to have no business at all.  In\ngeneral, it is calm, yet there is always an incessant buzz of things going on\nabout.  The canyon floor extends north, south, and west.  A path follows a\nstream to the east.",
+  "header_raw": "92 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9216
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9228
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9210
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9212
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/92.wld"
+}

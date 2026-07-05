@@ -1,0 +1,37 @@
+{
+  "id": 29918,
+  "zone_id": 298,
+  "name": "Crossroads",
+  "description": "As you walk further down the street you come to an intersection.  To your north\nthere is a small area of flets and to your south is a large flet, huge in fact,\nthat rises above the rest.  You can also see a healer's flet down the east\npath.",
+  "header_raw": "298 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29919
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29925
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29916
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

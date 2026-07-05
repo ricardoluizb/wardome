@@ -1,0 +1,46 @@
+{
+  "id": 7705,
+  "zone_id": 77,
+  "name": "The Glowing Bridge at the Rainbow's End",
+  "description": "After a long climb you have reached the end of the rainbow.  The brilliant\ncolours have twisted and merged into a beautiful glowing bridge that leads\ntoward a massive white gate to the north.  All around you is a soft, peaceful \nglow interrupted only by the passing of starlike dust motes before your eyes.",
+  "header_raw": "77 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The bridge leads on to a massive white gate.  You see a large grey figure\nstanding there.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7706
+    },
+    {
+      "dir": 5,
+      "description": "The bridge disassociates into a beautiful spectrum of colours that\ndrop out of sight below you.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7704
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "rainbow",
+      "description": "The rainbow seems to be forming directly from the light of the bridge.  It\ndrops out of sight below you."
+    },
+    {
+      "keywords": "motes star stars dust",
+      "description": "The star-like motes dance before your eyes.  They are incredibly beautiful yet\nintangible -- your hand passes right through them."
+    },
+    {
+      "keywords": "bridge",
+      "description": "The bridge glows with an unearthly light."
+    },
+    {
+      "keywords": "gate",
+      "description": "The gate towers tens of feet above your heads.  Beyond it is a field of utter\nblackness, from which the motes of light seem to issue forth."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/77.wld"
+}

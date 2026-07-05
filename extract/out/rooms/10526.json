@@ -1,0 +1,21 @@
+{
+  "id": 10526,
+  "zone_id": 104,
+  "name": "Inside Big Mouth's Stomach",
+  "description": "You are standing inside Big Mouth's stomach. It is roomy in here. Small\nanimals and other odds and ends lie about the stomach. Is that a dragon  \nyou see? Nah...couldn't be...",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "You see Big Mouth's throat.",
+      "keywords": "mouth big mouth's throat",
+      "door_flag": 1,
+      "key": -1,
+      "to": 10517
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

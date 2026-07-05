@@ -1,0 +1,21 @@
+{
+  "id": 13108,
+  "zone_id": 131,
+  "name": "Another Room",
+  "description": "You find yourself in another room similar to that you just came from. You\ncan't particularly tell any differences in this room at all.",
+  "header_raw": "131 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "East leads back where you came from.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13107
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/131.wld"
+}

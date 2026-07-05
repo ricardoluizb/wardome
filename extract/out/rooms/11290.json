@@ -1,0 +1,21 @@
+{
+  "id": 11290,
+  "zone_id": 112,
+  "name": "A Filthy Cell",
+  "description": "The stone walls of this dank and miserable cell are covered with\ninnumerable stains of various disgusting origins. The floor is of\npacked earth, and is littered with bones and scraps of cloth. Whatever\nis kept here is evidently not cared for very well. A foul odor not\nsurprisingly fills the room.",
+  "header_raw": "112 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 11206,
+      "to": 11292
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

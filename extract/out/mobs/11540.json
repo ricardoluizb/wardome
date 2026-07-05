@@ -1,0 +1,12 @@
+{
+  "id": 11540,
+  "alias": "construction worker",
+  "short_desc": "the construction worker",
+  "long_desc": "A construction worker is here on his break.",
+  "detailed_desc": "A strong, dirty, harsh-talking construction worker.",
+  "flags_raw": "4168 0 0 E",
+  "stats1_raw": "40 -4 1 1d1+1752 5d5+36",
+  "stats2_raw": "600 280201 2",
+  "stats3_raw": "8 8 1 -1 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

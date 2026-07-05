@@ -4,9 +4,9 @@
   "short_desc": "a waitress",
   "long_desc": "A waitress rushes by, intent on her business.",
   "detailed_desc": "She looks harried from the way she hastily takes orders and rushes\nin the back to get food, and to the bar for drinks.  She doesn't\neven spare you a glance as she passes by.",
-  "flags_raw": "b 0 0 S",
-  "stats1_raw": "5 16 70 3d5+60 2d4+0",
-  "stats2_raw": "500 850",
-  "stats3_raw": "8 8 2",
+  "flags_raw": "10 0 0 E",
+  "stats1_raw": "180 -76 -21 1d1+9360 5d19+102",
+  "stats2_raw": "2700 19904481 3",
+  "stats3_raw": "8 8 2 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/33.mob"
 }

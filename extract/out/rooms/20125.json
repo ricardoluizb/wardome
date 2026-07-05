@@ -1,0 +1,21 @@
+{
+  "id": 20125,
+  "zone_id": 201,
+  "name": "A Secret Chamber",
+  "description": "You have found the room where the most precious manuals and sutras are\nkept.  You rubbed your hands eagerly as your eyes take into account the\ntreasures hidden here.",
+  "header_raw": "201 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "The Library.",
+      "keywords": "bookshelf",
+      "door_flag": 2,
+      "key": 20124,
+      "to": 20124
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/201.wld"
+}

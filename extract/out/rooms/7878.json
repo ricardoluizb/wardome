@@ -1,0 +1,29 @@
+{
+  "id": 7878,
+  "zone_id": 78,
+  "name": "Inside the Small Shack",
+  "description": "You are inside the small shack.  A small stove is on the side, with soup\ncooking over it.  You see nothing valuable.",
+  "header_raw": "78 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see the valley outside.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7870
+    },
+    {
+      "dir": 5,
+      "description": "You see a trap door!",
+      "keywords": "trap door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7879
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/78.wld"
+}

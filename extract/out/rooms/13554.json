@@ -1,0 +1,21 @@
+{
+  "id": 13554,
+  "zone_id": 135,
+  "name": "The Darken Pit",
+  "description": "The very evil of this place seeks to extinguish your light as if\nthe gloom had a nefarious soul of its own.  You know true fear as\nsomething moves in the darkness... toward you.",
+  "header_raw": "135 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "You see a black iron grating above you.",
+      "keywords": "grating grate",
+      "door_flag": 2,
+      "key": 13505,
+      "to": 13553
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

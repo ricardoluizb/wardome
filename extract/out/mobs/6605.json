@@ -1,0 +1,12 @@
+{
+  "id": 6605,
+  "alias": "scavenger demon small",
+  "short_desc": "the scavenger",
+  "long_desc": "A small demon is here, trying to reach your neck.",
+  "detailed_desc": "It seems to be hungry.",
+  "flags_raw": "8236 787456 -500 E",
+  "stats1_raw": "150 -55 -12 1d1+4200 5d16+60",
+  "stats2_raw": "2250 9371548 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/66.mob"
+}

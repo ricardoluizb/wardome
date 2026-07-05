@@ -1,0 +1,34 @@
+{
+  "id": 8169,
+  "zone_id": 81,
+  "name": "The Mess",
+  "description": "Here you see the goblins' cook - and you might make a good dinner.\nrather not have to take off your armor, but his pot always needs\nanother chunk of meat, however it tastes.  Around him are stacked \njars of strange substances to add to his pot, probably not tasty\nspices.  Dry, boiled bones are piled in the corner.",
+  "header_raw": "81 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "Another passage leaves this cave to the southeast.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8171
+    },
+    {
+      "dir": 3,
+      "description": "Goblins gobble and drool to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8168
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "bones pile corner",
+      "description": "They are of all different sizes.  Some are only Deer or Rabbit bones, \nbut too many are from creatures that walk on two legs."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

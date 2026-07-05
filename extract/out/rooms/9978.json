@@ -1,0 +1,29 @@
+{
+  "id": 9978,
+  "zone_id": 99,
+  "name": "A covered walkway.",
+  "description": "This is a covered walkway which leads Downward, into darkness.  The \nair is so humid here that you can see it.  North of you the way is \nopen as well.",
+  "header_raw": "99 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9966
+    },
+    {
+      "dir": 5,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9979
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

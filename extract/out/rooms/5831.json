@@ -1,0 +1,37 @@
+{
+  "id": 5831,
+  "zone_id": 57,
+  "name": "A Junction",
+  "description": "You are standing at a junction, where you can proceed north towards a door,\nwest towards a bend in the corridor, or down into a lower passage, from which \nwaves of heat and the stench of brimstone emanate...",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "another door",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5828
+    },
+    {
+      "dir": 3,
+      "description": "a bend",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5830
+    },
+    {
+      "dir": 5,
+      "description": "dragon cave",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5832
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

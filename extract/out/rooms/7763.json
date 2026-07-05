@@ -1,0 +1,26 @@
+{
+  "id": 7763,
+  "zone_id": 77,
+  "name": "A small building",
+  "description": "You have stepped inside a dimly lit building, which apparently serves as\nliving quarters for several githyanki gish.  The walls are heavy stone blocks, \ncovered with panels of strangely knotted and twisted wood.  A couple of candles\nburn dimly in sconces here and there.",
+  "header_raw": "77 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The wooden door leads back out onto the grey cobblestone road.",
+      "keywords": "door wooden",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7761
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "door wooden",
+      "description": "The door is thick, made from a knotted and twisted greyish wood."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/77.wld"
+}

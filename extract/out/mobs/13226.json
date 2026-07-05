@@ -1,0 +1,12 @@
+{
+  "id": 13226,
+  "alias": "citizen dragon",
+  "short_desc": "a dragon citizen",
+  "long_desc": "A citizen of Cloudy Mountain looms before you.",
+  "detailed_desc": "This dragon nearly takes up the whole room, since this is one of the true\ndragons in the city.",
+  "flags_raw": "8264 40 0 E",
+  "stats1_raw": "25 -8 -5 1d1+2292 5d5+90",
+  "stats2_raw": "375 94180 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

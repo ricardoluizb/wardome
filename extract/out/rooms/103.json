@@ -1,0 +1,29 @@
+{
+  "id": 103,
+  "zone_id": 1,
+  "name": "Halfway down a 'Trail'",
+  "description": "Well, here you are - halfway up or down depending on how you look at it.  \nYour situation has improved a little bit.  It looks like if you fell now, you\nwould only break a great many bones, rather than just die.  Of course, maybe\ndying would be preferable.  You see that the trees below are twisted and\ngnarled, all of them seeming more dead than alive.  Sure is encouraging.",
+  "header_raw": "1 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 102
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 104
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/1.wld"
+}

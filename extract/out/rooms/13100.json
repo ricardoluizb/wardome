@@ -1,0 +1,29 @@
+{
+  "id": 13100,
+  "zone_id": 131,
+  "name": "Floating In The Air",
+  "description": "You find yourself floating about 50 meters above the ground.  You see the\nsoft ground below you and suddenly wish that you were firmly planted there.",
+  "header_raw": "131 4 9",
+  "flags_text": "4",
+  "sector": 9,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "Above you can barely make out what seems to be a large structure reaching\ntowards the heavens.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13101
+    },
+    {
+      "dir": 5,
+      "description": "Below you see the Mountain of the Gods.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 12047
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/131.wld"
+}

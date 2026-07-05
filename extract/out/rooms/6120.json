@@ -3,8 +3,8 @@
   "zone_id": 61,
   "name": "On The River Bank In The Deep, Dark Forest",
   "description": "You are on a narrow path leading through the deep, dark forest.  To the\nsouth a fast river is flowing westward through the forest.  Ancient grey\ntrees loom on both banks.  The path continues north and west.",
-  "header_raw": "61 ad 3",
-  "flags_text": "ad",
+  "header_raw": "61 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

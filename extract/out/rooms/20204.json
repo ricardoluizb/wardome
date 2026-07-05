@@ -1,0 +1,21 @@
+{
+  "id": 20204,
+  "zone_id": 202,
+  "name": "The armoury",
+  "description": "This armoury was the showcase for the King's extensive weapons collection.\n\nNow it looks like it has been ransacked.  Racks that used to hold swords are\nnow empty, hooks that were meant to carry armour are doubly so.  Big display\ncases that held the most rare weapons are now devoid of them.  In their search\nfor weapons, the defenders of Dale must have thrown caution to the wind and\nhave destroyed most of the display stands.  Broken racks, cases, chairs and all\nsorts of rubble lie strewn around the room.  The only thing that has been left\nuntouched is a large mirror fixed to one of the walls.",
+  "header_raw": "202 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 20203,
+      "to": 20203
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/202.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 72,
   "name": "The Sewer Drain",
   "description": "You stand in a sewer drain, you are able to see some kind of cave-like\nroom.  You see some odd scratches on the drain wall, as if from a gigantic\nrat.  The sewer leads south.",
-  "header_raw": "72 ad 3",
-  "flags_text": "ad",
+  "header_raw": "72 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

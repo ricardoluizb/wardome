@@ -3,8 +3,8 @@
   "zone_id": 120,
   "name": "Before Rome",
   "description": "You travel upon an East-West road wide enough for 30 men to march\nabreast.  It is packed hard through heavy use.  To the west stands the\nGates of Rome inviting you to enter and partake of all the glory and\nsplendor that is Rome.",
-  "header_raw": "120 d 1",
-  "flags_text": "d",
+  "header_raw": "120 8 1",
+  "flags_text": "8",
   "sector": 1,
   "exits": [
     {

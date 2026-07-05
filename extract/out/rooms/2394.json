@@ -1,0 +1,26 @@
+{
+  "id": 2394,
+  "zone_id": 23,
+  "name": "Nasturn's Humble Abode",
+  "description": "This room is filled with all types of natural items. Trees and plants have\nbeen lovingly cultivated and grown by hand, in large pots. The room is like an\nindoor garden. A &Bblue&n door leads west.",
+  "header_raw": "23 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "You see a &Bblue&n door there.",
+      "keywords": "door blue",
+      "door_flag": 2,
+      "key": 2356,
+      "to": 2392
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "green",
+      "description": "It looks like it leads back to the hall."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

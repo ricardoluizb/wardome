@@ -1,0 +1,29 @@
+{
+  "id": 9165,
+  "zone_id": 91,
+  "name": "Long stairway.",
+  "description": "This stairway is suspended on clouds.  It leads from the house to\nthe front lawn.  The banisters are made of ornate gold and silver\ninlays.",
+  "header_raw": "91 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9166
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9164
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3902,
+  "zone_id": 39,
+  "name": "A Transcription room",
+  "description": "The room is really plain..  The only things you see around are chairs and\nsmall tables, something special about this room you can notice is the fact\nthere is not dust on the floor, nor in the tables.  In here you can breath a\npure and smooth air, first time since you came in...  After a while you notice\na robed figure in one of the tables, staring at you.  You can leave to west\ntrough the door.",
+  "header_raw": "39 32 9",
+  "flags_text": "32",
+  "sector": 9,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3901
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/39.wld"
+}

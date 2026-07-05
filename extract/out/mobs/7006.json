@@ -4,9 +4,9 @@
   "short_desc": "the snake",
   "long_desc": "The snake slithers towards you. It looks very mean.",
   "detailed_desc": "This snake is of a variety that you do not recall seeing recently.\nIt has near black skin with small white diamond shaped spots all\nover its head and upper body.  A thin green stripe stretches along\neach side of its body.",
-  "flags_raw": "af k -500 S",
-  "stats1_raw": "4 16 7 2d5+40 1d9+0",
-  "stats2_raw": "1 1000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "41 1024 -500 E",
+  "stats1_raw": "8 16 8 1d1+162 5d1+2",
+  "stats2_raw": "120 4344 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/70.mob"
 }

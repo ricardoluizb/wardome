@@ -1,0 +1,37 @@
+{
+  "id": 2774,
+  "zone_id": 27,
+  "name": "Prancing Pony Parlour Room",
+  "description": "You are in the parlor of the Prancing Pony Inn.  This is where guests come to\nbe alone to smoke their pipes in peace or read a good book.  There is a small\nfire in the fireplace that keeps the room at a comfortable temperature.  To the\nwest, you hear the hubbub of people playing Acro, a game that is popular with\nthe folk in Bree-Land.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2775
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2766
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2776
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

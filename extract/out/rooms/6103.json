@@ -3,8 +3,8 @@
   "zone_id": 61,
   "name": "A Narrow Trail Through The Deep, Dark Forest",
   "description": "You are where the dusty trail bends, as to avoid conflict with a\ncolossal trunk to the west.  Not a sound is to be heard - everything\nis ominously quiet.  The trail leads east and south and there is a\nsmall path leading off the trail to the north.",
-  "header_raw": "61 ad 3",
-  "flags_text": "ad",
+  "header_raw": "61 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

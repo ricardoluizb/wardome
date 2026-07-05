@@ -1,0 +1,21 @@
+{
+  "id": 14351,
+  "zone_id": 143,
+  "name": "The Junction",
+  "description": "Hallways branch off in all directions, leaving you confused.",
+  "header_raw": "143 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "It is too dark.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14343
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

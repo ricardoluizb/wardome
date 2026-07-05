@@ -1,0 +1,37 @@
+{
+  "id": 1604,
+  "zone_id": 16,
+  "name": "West Side of Moat",
+  "description": "You stand on the west side of a moat that encircles two towers, each\nover 50 feet high. You will need a boat to go east across the moat. A\nrugged path heads west, and another one heads north to a cluster of low\nbuildings.",
+  "header_raw": "16 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A worn path leads to a cluster of low buildings.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1605
+    },
+    {
+      "dir": 1,
+      "description": "The Towers loom directly over you, just beyond the moat.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1620
+    },
+    {
+      "dir": 3,
+      "description": "An old ill-kept roads leads away to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1603
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

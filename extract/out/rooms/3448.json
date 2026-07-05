@@ -1,0 +1,26 @@
+{
+  "id": 3448,
+  "zone_id": 34,
+  "name": "The Lower Chambers and Tombs of the Undead",
+  "description": "This room has been totally hollowed out and smoothed, and a pit has been\ndrilled in the center of the floor.  There are extensive gruesome paintings\nof beasts and monsters terrorizing the countryside; vampires sucking the\nblood of beasts and humans alike.",
+  "header_raw": "34 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3447
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "painting paintings mural",
+      "description": "There is a tiny painting of a vault in this mural ... and it seems to be a\nreflected picture of the vault ... the word in tiny print is 'rathcor'."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/34.wld"
+}

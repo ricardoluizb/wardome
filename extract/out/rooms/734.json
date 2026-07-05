@@ -1,0 +1,37 @@
+{
+  "id": 734,
+  "zone_id": 7,
+  "name": "Intersection",
+  "description": "Center Road starts here, running deep into the heart of Kerofk.\nYou see all sorts of large buildings down its length, including a big\nwhite temple structure along the north side far to the east, with a\nsmaller blue temple across the street from it.  With all of the grand\narchitecture, and the majesty of the starry skies above, you know this\nis a sight you'll never forget.\n   Center Road leads east, Wall Side Road continues north-south.",
+  "header_raw": "7 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 735
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 738
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 733
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

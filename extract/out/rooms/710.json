@@ -1,0 +1,37 @@
+{
+  "id": 710,
+  "zone_id": 7,
+  "name": "Intersection at the Cliff's Edge",
+  "description": "Here is where Cliffside Road and Moon Gate Road meet: at the edge\nof a cliff.  You feel distinctly uncomfortable as you look down at the\nthousand-foot drop and think it would not be very wise to go any\nfurther east.  Northwards is Cliffside Road, to the west is Moon Gate\nRoad, and to the east a vast expanse of stars shine over the dark\nocean below.",
+  "header_raw": "7 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 709
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 767
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 711
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

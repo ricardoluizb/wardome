@@ -1,0 +1,37 @@
+{
+  "id": 4714,
+  "zone_id": 47,
+  "name": "Dwarven mines",
+  "description": "This section of the small shafts is a intersection of three separate tunnels.\nThey lead north, east, and west.  A faint glow is within the walls of this\nsmall intersection.",
+  "header_raw": "47 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4713
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4719
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4715
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

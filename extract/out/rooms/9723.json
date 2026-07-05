@@ -1,0 +1,21 @@
+{
+  "id": 9723,
+  "zone_id": 97,
+  "name": "Bakery",
+  "description": "You are in the small store which supplies the residents of this town with\ntheir food.  It smells wonderful in here!",
+  "header_raw": "97 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9704
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/97.wld"
+}

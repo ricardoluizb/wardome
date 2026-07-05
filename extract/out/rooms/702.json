@@ -1,0 +1,45 @@
+{
+  "id": 702,
+  "zone_id": 7,
+  "name": "Plaza of Kerofk",
+  "description": "This is the center of Kerofk, physically and culturally.  Many\npeople are here, milling about and standing in line to enter the great\nwhite temple to your north.  To the south is a smaller blue temple,\nits doors locked by great bands of magic.  Several people glare at\nyou, wondering if you're going to cut through the line.",
+  "header_raw": "7 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 700
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 704
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "gates",
+      "door_flag": 2,
+      "key": 725,
+      "to": 703
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 725
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

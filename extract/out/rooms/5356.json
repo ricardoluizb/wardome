@@ -3,8 +3,8 @@
   "zone_id": 53,
   "name": "A Swirling Sandstorm",
   "description": "You are caught in the midst of a massive sandstorm.  Howling winds\nbuffet you from all sides, and the sand tears at your skin, blinding\nyou and choking you.  You have lost all sense of direction.",
-  "header_raw": "53 0 2",
-  "flags_text": "0",
+  "header_raw": "53 32768 2",
+  "flags_text": "32768",
   "sector": 2,
   "exits": [
     {

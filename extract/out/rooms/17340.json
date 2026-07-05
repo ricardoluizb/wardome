@@ -1,0 +1,30 @@
+{
+  "id": 17340,
+  "zone_id": 173,
+  "name": "The Dark Hall of Mordred",
+  "description": "You stand in the foul hall of Mordred. Smoke writhes upward to the rafters \nfrom a firepit in the center. Armor from defeated knights is hung from\nhooks on the wall. Knights sit in a circle about the fire staring woodenly\ninto the flames. A young elvin lad in golden armor laughs as he weaves a\ndance amongst them.",
+  "header_raw": "173 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Entrance to the Keep Proper",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17333
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "firepit fire pit",
+      "description": "You examine the fire pit. A large body is roasting here. It looks human!"
+    },
+    {
+      "keywords": "lad elvin",
+      "description": "You shake your head and look a second time. The lad disappears. A foul \nspell has hold of you!"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

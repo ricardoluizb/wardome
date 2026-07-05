@@ -1,0 +1,34 @@
+{
+  "id": 95,
+  "name": "Wardome - Maze of DTs",
+  "header": {
+    "raw": "9599 30 2 1",
+    "min_room": 9599,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9501,
+        1,
+        9521
+      ],
+      "comment": "(the guardian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9500,
+        2,
+        16
+      ],
+      "comment": "(a crystal sword)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/95.zon"
+}

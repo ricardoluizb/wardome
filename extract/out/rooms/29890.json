@@ -1,0 +1,37 @@
+{
+  "id": 29890,
+  "zone_id": 298,
+  "name": "The large cave",
+  "description": "You are in the northeast end of a large cave.  To the north the is a small damp\ntunnel.",
+  "header_raw": "298 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29887
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29893
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29891
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/298.wld"
+}

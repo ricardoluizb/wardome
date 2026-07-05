@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Secret Cell",
   "description": "This room seems more like a lair than a cell.  Small bits of hay lie\nstrewn about the floor covering bones of unkown origin.  Spatterd blood\nand tufts of grey hair lie matted in one corner.  As you turn to leave\nyou notice a pair of small red eyes peering at you from the darkness.",
-  "header_raw": "54 adfj 0",
-  "flags_text": "adfj",
+  "header_raw": "54 553 0",
+  "flags_text": "553",
   "sector": 0,
   "exits": [
     {

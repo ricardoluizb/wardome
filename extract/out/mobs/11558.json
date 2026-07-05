@@ -1,0 +1,12 @@
+{
+  "id": 11558,
+  "alias": "cop",
+  "short_desc": "the cop",
+  "long_desc": "The cop is sitting here eating doughnuts.",
+  "detailed_desc": "You can see that this guy does not concentrate very much on his job and\ntends to look the other way.  He seems to be more interested in filling his\nbelly with doughnuts than in protecting the city.",
+  "flags_raw": "6472 40 200 E",
+  "stats1_raw": "40 -4 1 1d1+1752 5d5+36",
+  "stats2_raw": "600 280201 2",
+  "stats3_raw": "8 8 1 10 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

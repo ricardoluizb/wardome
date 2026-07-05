@@ -1,0 +1,29 @@
+{
+  "id": 12216,
+  "zone_id": 122,
+  "name": "Alfheim",
+  "description": "The path continues into the depths of this famous glade, widening\nconsiderably as it passes more stretches of forest, the trees extending\nas far as you can see. Laughter and song is carried in on the wind from\nthe east, and you feel several pairs of eyes watching you from the safety\nof the trees at all times.",
+  "header_raw": "122 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12217
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12215
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

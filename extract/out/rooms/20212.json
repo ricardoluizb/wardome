@@ -1,0 +1,29 @@
+{
+  "id": 20212,
+  "zone_id": 202,
+  "name": "A Waiting Room",
+  "description": "You stand in a nice room, decorated mostly with plants.  The floor is clean,\nthe walls are clean, it's generally a nice clean room.  It must be some sort of\nwaiting room, as you see no purpose but the door on the north wall.",
+  "header_raw": "202 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20213
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20211
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/202.wld"
+}

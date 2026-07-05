@@ -4,9 +4,9 @@
   "short_desc": "King Welmar",
   "long_desc": "The wise King Welmar sits here in his throne.",
   "detailed_desc": "In his later middle-age, with his beard starting to grey, King Welmar\nis still very powerfully built, and wouldn't take kindly to an attack.\nDespite that, you know he is well-loved throughout the land, and has\na reputation as a wise and just ruler.",
-  "flags_raw": "ab dh 1000 S",
-  "stats1_raw": "33 0 -10 3d60+1480 4d8+16",
-  "stats2_raw": "35000 1000000",
-  "stats3_raw": "6 8 1",
+  "flags_raw": "11 136 1000 E",
+  "stats1_raw": "145 -52 -11 1d1+4056 5d15+58",
+  "stats2_raw": "2175 8494573 0",
+  "stats3_raw": "6 8 1 3 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/150.mob"
 }

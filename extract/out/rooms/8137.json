@@ -1,0 +1,42 @@
+{
+  "id": 8137,
+  "zone_id": 81,
+  "name": "The Stone Hallway",
+  "description": "You hear a peculiar scratching and tapping coming from a hole in the \ncave floor.  A strong, foul-smelling draft rises from it.\nTo the west is a door.",
+  "header_raw": "81 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The walls are just as damp to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8136
+    },
+    {
+      "dir": 2,
+      "description": "The hallway bends to the south, as damp as ever.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8139
+    },
+    {
+      "dir": 3,
+      "description": "The door to the west is covered with obscure but evil-looking runes.",
+      "keywords": "door runed",
+      "door_flag": 1,
+      "key": -1,
+      "to": 8138
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "runes",
+      "description": "You do not understand much but the name Orfax is repeated often."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

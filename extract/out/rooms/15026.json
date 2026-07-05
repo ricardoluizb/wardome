@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "The Servants' Quarters",
   "description": "You are standing in a large room, that seems to house many of the\nservants.  The room is full of comfortable-looking beds.  There is also\na large chest, probably containing some of the servants' belongings.",
-  "header_raw": "150 d 0",
-  "flags_text": "d",
+  "header_raw": "150 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "Still On The Path To The Castle",
   "description": "You are still on the path to the castle, or back to the Dwarven\nvillage, whichever way you wish to go.  The path continues to the\nnorth and south.",
-  "header_raw": "65 d 0",
-  "flags_text": "d",
+  "header_raw": "65 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

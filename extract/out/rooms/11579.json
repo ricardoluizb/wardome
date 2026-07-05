@@ -1,0 +1,21 @@
+{
+  "id": 11579,
+  "zone_id": 115,
+  "name": "The New Spartan Bank",
+  "description": "This is the New Spartan Bank, the safest bank in town...  And the only bank\nin town!  The only problem is that it is closed until the safe is completed in\norder to protect your money from all the punks in town!  Broadway is to the\neast.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11569
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

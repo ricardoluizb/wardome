@@ -1,0 +1,29 @@
+{
+  "id": 7868,
+  "zone_id": 78,
+  "name": "A Bend in the Trail",
+  "description": "You are on a bend in the trail leading from the main valley.  The hills around\nyou make this trail quite narrow.",
+  "header_raw": "78 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The trail continues north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7869
+    },
+    {
+      "dir": 1,
+      "description": "The trail continues east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7827
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/78.wld"
+}

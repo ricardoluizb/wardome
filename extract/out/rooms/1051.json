@@ -1,0 +1,29 @@
+{
+  "id": 1051,
+  "zone_id": 10,
+  "name": "Down The Bottomless Pit",
+  "description": "You find yourself much, much further down the pit.  It doesn't seem\nlike this is going to end anytime soon.  The sides of the pit are quite\nsmooth making it obviously impossible to slow your fall.",
+  "header_raw": "10 9 9",
+  "flags_text": "9",
+  "sector": 9,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "The pit keeps going upwards as far as you can see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1050
+    },
+    {
+      "dir": 5,
+      "description": "The pit is dropping away below you.  It looks to be very deep.  Well,\nthen again, if you are going to fall forever, it has to be pretty deep.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1052
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

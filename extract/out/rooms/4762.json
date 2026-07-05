@@ -1,0 +1,37 @@
+{
+  "id": 4762,
+  "zone_id": 47,
+  "name": "Walkway",
+  "description": "A stone walkway travels north and east through this section of the stone city.\nA small path leads south to a small rock dwelling.",
+  "header_raw": "47 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4760
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4763
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4764
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

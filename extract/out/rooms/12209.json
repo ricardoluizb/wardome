@@ -1,0 +1,29 @@
+{
+  "id": 12209,
+  "zone_id": 122,
+  "name": "Before Bifrost",
+  "description": "You arrive suddenly, at the eastern end of Bifrost, the mighty rainbow\nbridge that allows entrance into Asgard, realm of the Aesir. Standing\nupon this bridge is Heimdall, sworn guardian of the Rainbow Bridge,\nprotecting Asgard from the giants of Jotunheim or other foes who might\nseek to cross it and enter the home of the gods.",
+  "header_raw": "122 16777216 1",
+  "flags_text": "16777216",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12208
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12210
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

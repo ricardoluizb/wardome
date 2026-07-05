@@ -1,0 +1,37 @@
+{
+  "id": 14147,
+  "zone_id": 141,
+  "name": "Cellar",
+  "description": "There are huge wine casks against this wall.  Most seem intact\nthough one is eaten through, and the inside seems to have a gooey\ngreen substance.",
+  "header_raw": "141 73 0",
+  "flags_text": "73",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "There is the sound of singing in that corner.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14148
+    },
+    {
+      "dir": 2,
+      "description": "There is a shimmering light to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14150
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14146
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

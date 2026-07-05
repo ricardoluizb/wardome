@@ -1,0 +1,29 @@
+{
+  "id": 22046,
+  "zone_id": 220,
+  "name": "In the maze",
+  "description": "The sweat and fresh smells of gormey foods fill the air, cleansing your lungs\nand making your emotions turn to happiness, the beautifully strummed harp\nmakes all the hatred and disgust of the Lair of Kerjim go away.",
+  "header_raw": "220 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22047
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22045
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/220.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 12317,
+  "zone_id": 122,
+  "name": "The Mines",
+  "description": "Rich veins of copper, silver and mithril are visible even to the novice\nminer's eye in the rough walls of this section of tunnel. The Durin are\nin the process of mining this section, thus the rough surfaces, and are\nhoping to extract the wealth from here before the giants drive them out\nyet again, forcing them to seek another new lair. It is hoped that the\nwealth accumulated here will enable them to fund their seemingly futile\neffort to defeat all giantkind.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12318
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12312
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

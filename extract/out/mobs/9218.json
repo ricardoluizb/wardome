@@ -1,0 +1,12 @@
+{
+  "id": 9218,
+  "alias": "oldstyle spark lightning energy elemental",
+  "short_desc": "a small spark",
+  "long_desc": "A small spark of electricity fizzles here.",
+  "detailed_desc": "Zipping from place to place at the speed of light is tough work.",
+  "flags_raw": "74 0 0 E",
+  "stats1_raw": "120 -40 -8 1d1+3360 5d13+48",
+  "stats2_raw": "1800 4918761 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/92.mob"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 538,
+  "zone_id": 5,
+  "name": "&CThe Center of Second Street&n",
+  "description": "&n   Here is a big and calm place, calmer than the square to the north, that is.\nYou see all types of people here, beggars, drunks, prostitutes... you'd better\nwatch out for your wallet here.\n&n   &RThe New Market&n Square is to the north, while &CThe Bridge&n is to the south.\nThe &cSecond Street&n goes on to the east and to the west of here.",
+  "header_raw": "5 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 525
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 539
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 547
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 537
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

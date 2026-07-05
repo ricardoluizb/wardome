@@ -1,0 +1,29 @@
+{
+  "id": 1602,
+  "zone_id": 16,
+  "name": "Rough Path Between the Hills",
+  "description": "Here the path passes between low hills. The going is very rough, but\nto the east the ground is smoother. In that direction a pair of tower\nlooms above the hills.",
+  "header_raw": "16 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see a pair of tall towers in the distance.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1603
+    },
+    {
+      "dir": 3,
+      "description": "The road continues.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1601
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

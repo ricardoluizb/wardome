@@ -1,0 +1,37 @@
+{
+  "id": 1027,
+  "zone_id": 10,
+  "name": "A Cloistered Hall",
+  "description": "You stand in part of a long stone hallway lined on both the east\nand western sides with doorways.  In most of the doorways it appears\nthat the wooden doors that were once there in their entirety are\nsmashed and destroyed.  The doors on either side of the hallway here\nare no different.  An eerie feeling pervades your body and you notice\nthat everything seems to be covered with a strange, yet bright, yellow\nglow.",
+  "header_raw": "10 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The doorway to the east is blocked by a wooden door that looks to be\nquite sturdy.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 1031
+    },
+    {
+      "dir": 2,
+      "description": "Looking down the hallway to the south, you notice that it becomes\ndarker and darker...",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1026
+    },
+    {
+      "dir": 3,
+      "description": "The door on the western side of the hallway is broken open, just like\nalmost every other door it seems.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1030
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

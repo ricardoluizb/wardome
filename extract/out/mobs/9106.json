@@ -1,0 +1,12 @@
+{
+  "id": 9106,
+  "alias": "oldstyle roc",
+  "short_desc": "the gigantic roc",
+  "long_desc": "The gigantic roc stares menacingly at you.",
+  "detailed_desc": "This bird has a wingspan that stretches several spear-lengths.  It\nmoves surprisingly fast for something of its size.",
+  "flags_raw": "72 0 50 E",
+  "stats1_raw": "10 15 8 1d1+207 5d2+4",
+  "stats2_raw": "150 7126 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/91.mob"
+}

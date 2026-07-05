@@ -1,0 +1,21 @@
+{
+  "id": 1197,
+  "zone_id": 11,
+  "name": "Medium Room",
+  "description": "You are in an unfinished room.",
+  "header_raw": "11 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1112
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

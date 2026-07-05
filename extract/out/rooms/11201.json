@@ -1,0 +1,29 @@
+{
+  "id": 11201,
+  "zone_id": 112,
+  "name": "The Village of Hochenyana",
+  "description": "As you cross the bridge and enter Hochenyana, you are immediately struck\nby the lack of activity in the traditionally bustling village. Certainly\nthere are citizens about, walking slowly up and down the clean streets, but\nthere is a jerkiness about their movements, and a dazed expression in their\nglazed eyes. Even the wildlife seems wistless and dull. Something is amiss\nhere, by Anagar, and you determine to find out what!",
+  "header_raw": "112 4 1",
+  "flags_text": "4",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 15003
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11202
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

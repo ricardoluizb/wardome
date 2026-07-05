@@ -1,0 +1,12 @@
+{
+  "id": 8168,
+  "alias": "mimic chest",
+  "short_desc": "the mimic",
+  "long_desc": "A fine iron-bound chest would catch any cabinetmaker's eye.",
+  "detailed_desc": "The chest was truly the work of a master carpenter.",
+  "flags_raw": "196618 0 -10 E",
+  "stats1_raw": "150 -77 -29 1d1+17400 5d46+170",
+  "stats2_raw": "2250 16400210 11",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

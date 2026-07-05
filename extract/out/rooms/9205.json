@@ -1,0 +1,29 @@
+{
+  "id": 9205,
+  "zone_id": 92,
+  "name": "Vista",
+  "description": "This is a stunning vista overlooking a canyon.  There is a sign here that says:\n\n\tBEHOLD -- ELEMENTAL CANYON\n\nFire leaps up from firepits in the western part of the canyon.  The sky looks\nfunny, and the air seems hazy to the northwest.  Electricity sparks\nintermittently in the northeast.  To the east you see a strong, magic-looking\nriver flowing through the canyon.  Also to the east you spy a cave entrance\nleading into the canyon wall.  The path descends to the north to another\noverlook.",
+  "header_raw": "92 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9206
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9204
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/92.wld"
+}

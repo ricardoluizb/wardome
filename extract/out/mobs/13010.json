@@ -1,0 +1,12 @@
+{
+  "id": 13010,
+  "alias": "priest",
+  "short_desc": "the Mad Priest",
+  "long_desc": "The crazy priest is standing here.",
+  "detailed_desc": "He's completely crazy it might be a good idea to leave.",
+  "flags_raw": "24622 25167002 0 E",
+  "stats1_raw": "100 -34 -8 1d1+4392 5d11+60",
+  "stats2_raw": "1500 3589522 2",
+  "stats3_raw": "8 8 1 2 9",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/130.mob"
+}

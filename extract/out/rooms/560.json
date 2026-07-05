@@ -1,0 +1,29 @@
+{
+  "id": 560,
+  "zone_id": 5,
+  "name": "The Dark Alley",
+  "description": "You are at the Dark Alley, to north you see some people in the Second Street\nand the alley continues to the south.",
+  "header_raw": "5 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 559
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 561
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 797,
+  "zone_id": 7,
+  "name": "Bedroom",
+  "description": "You would guess that a young woman lives in this room, from the\nquality and newness of the clothes that are stacked neatly in the open\nhope-chest, and the different cosmetics lined up on a shelf just below\na mirror on the far wall.  A small sleeping pallet lies rolled-up on\nthe floor neatly, and you notice that there is hardly any dust\nanywhere in this room, making it seem somewhat 'fresh' despite the\nrun-down-ness of the rest of the household.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 795
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

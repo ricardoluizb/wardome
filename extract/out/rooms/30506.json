@@ -1,0 +1,45 @@
+{
+  "id": 30506,
+  "zone_id": 305,
+  "name": "Estrada dos Templos",
+  "description": "Voce esta no meio da parte oeste da Estrada dos Templos.  Ao norte, voce ve\num pouco do Templo dos Elfos Aquaticos, enquanto ao sul, voce ve o Templo dos\nAnoes.  A rota continua a leste e oeste.",
+  "header_raw": "305 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30514
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30505
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30515
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30507
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/305.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 9404,
+  "zone_id": 94,
+  "name": "&BA&Wrsenal&n",
+  "description": "&CIn this room you find a great sort of weapons and armory all new and tidy. Here you can also recognize thor's and odins figures on the walls. You can also see a picture of St. Olav,getting ready for battle.&n",
+  "header_raw": "94 10820 0",
+  "flags_text": "10820",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9402
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/94.wld"
+}

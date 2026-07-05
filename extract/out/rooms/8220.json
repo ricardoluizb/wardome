@@ -1,0 +1,37 @@
+{
+  "id": 8220,
+  "zone_id": 82,
+  "name": "The Western Aisle",
+  "description": "You are in the western aisle of Notre Dame, in the stained-glass window\nis represented the scene when Chriest went to church and talked with the\npriests. At east you can see many wood benches more.",
+  "header_raw": "82 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8215
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8219
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8221
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

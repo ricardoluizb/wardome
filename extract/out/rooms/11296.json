@@ -1,0 +1,29 @@
+{
+  "id": 11296,
+  "zone_id": 112,
+  "name": "A Bend in the Tunnel",
+  "description": "The tunnel twists sharply here, heading due north, towards what you know\nnot, but one thing is certain- somewhere down here lurks the cause of the\nproblems besetting the good citizens of Hochenyana, and stop it you must!\nBesides, what manner of magical artifacts may a being capable of such\nenchantments be in possession of? An avaricious gleam comes to your eyes\nas you peer about the rough walled tunnels.",
+  "header_raw": "112 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11298
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11295
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

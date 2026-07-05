@@ -1,0 +1,21 @@
+{
+  "id": 29920,
+  "zone_id": 298,
+  "name": "Inside a Small Flet",
+  "description": "You stand in a small flet.  There is a small sleeping pallet in the corner, and\na few hampers scattered about, presumably holding food.  You can look out of\nthe low walls and see that you are surrounded by many more flets like this one.\nThe",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29919
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

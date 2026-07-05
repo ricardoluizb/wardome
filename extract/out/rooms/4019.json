@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Tunnel",
   "description": "You stand in the middle of a fairly wide passageway that leads\nin a north-south direction.  The walls are quite smooth, almost as\nif a river had gouged them out of the earth.",
-  "header_raw": "40 ad 3",
-  "flags_text": "ad",
+  "header_raw": "40 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

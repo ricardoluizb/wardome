@@ -1,0 +1,29 @@
+{
+  "id": 784,
+  "zone_id": 7,
+  "name": "In the Garden",
+  "description": "Here the garden looks dark and ominous, yet strangely beautiful.\nAn easel has been set up here, and some art supplies lie on the\nground, waiting to be used.  Faint light trickles down through the\nleaves like water on this scene, and you feel strangely at peace with\nthe garden, recognizing it for the single growing entity it is.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 783
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 785
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

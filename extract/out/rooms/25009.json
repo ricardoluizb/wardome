@@ -1,0 +1,45 @@
+{
+  "id": 25009,
+  "zone_id": 250,
+  "name": "Elemental Gateway",
+  "description": "To the west a path dips and winds among some flowing firepits.  To the\nnortheast a path goes toward the river.  Beyond toward the northeast and\nnorthwest are outcrops which rise up from the canyon floor.  To the east there\nis a cave mouth which leads into the canyon wall.  And to the south the path\nleads up, away, and out of the canyon.  Various pure and cross-breeds of\nelemental forms wander the canyon floor, which extends in a wide swath\nnorthwards.",
+  "header_raw": "250 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 25012
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 25010
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 25007
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 25008
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/250.wld"
+}

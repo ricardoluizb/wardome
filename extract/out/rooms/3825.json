@@ -1,0 +1,29 @@
+{
+  "id": 3825,
+  "zone_id": 38,
+  "name": "At the Bottom of the Stairs",
+  "description": "You are at the bottom of the stairs, in a roughly dug room.  This area smells\nlike swamp, with a warm and humid odor assailing your nostrils.  An ominously\nred light comes from the south, the other exit to this room being the stairs\nback up.",
+  "header_raw": "38 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You think you smell smoke coming from the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3826
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3823
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

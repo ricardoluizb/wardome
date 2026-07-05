@@ -1,0 +1,45 @@
+{
+  "id": 29902,
+  "zone_id": 298,
+  "name": "A Meeting place of Roads",
+  "description": "As you slowly walk down the street you come to a meeting place of the two\nroads.  It is very busy here and several elves are standing around waiting for\nsomething to do.  By, as well as several horsemen.  You notice that the city\nseems to be on a small hill.  Beautiful Mallorn trees are all around you.",
+  "header_raw": "298 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29908
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29909
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29869
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29903
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 29900,
+  "zone_id": 298,
+  "name": "The city guardhouse",
+  "description": "You slowly walk into this small flet, it holds the armoury that contains the\nmajority of the weapons in Lothlorien.  Several guards here on break are\nlooking at you, and are obviously wondering just what you are doing up here.  \nA small stove sits in one corner, with a small skillet placed on its top.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 29901
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29869
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

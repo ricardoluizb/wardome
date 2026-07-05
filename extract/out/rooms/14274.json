@@ -1,0 +1,26 @@
+{
+  "id": 14274,
+  "zone_id": 141,
+  "name": "The Altar of Honour",
+  "description": "You may gain true enlightenment here.  There is a large plaque on\nthe wall.  The path continues only if you use the mantra, to\ngain enlightenment.",
+  "header_raw": "141 64 0",
+  "flags_text": "64",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The Path Of Enlightenment leads on.",
+      "keywords": "Path",
+      "door_flag": 2,
+      "key": 14107,
+      "to": 14275
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "plaque",
+      "description": "Honour is the courage to stand for truth, against any odds."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

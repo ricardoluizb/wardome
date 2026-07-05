@@ -4,9 +4,9 @@
   "short_desc": "the junior mindflayer",
   "long_desc": "The junior mindflayer is here, watching you carefully from the corner.",
   "detailed_desc": "This mindflayer is six feet high.  It has a small mace in its belt, and is\ndressed in purple and black cloth.  It has four small tentacles in the center\nof its head.",
-  "flags_raw": "acehlm dfk -350 S",
-  "stats1_raw": "6 15 4 1d10+75 1d4+2",
-  "stats2_raw": "200 1500",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "6301 1064 -350 E",
+  "stats1_raw": "16 12 7 1d1+333 5d2+6",
+  "stats2_raw": "240 21533 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/72.mob"
 }

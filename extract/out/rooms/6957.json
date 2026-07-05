@@ -1,0 +1,21 @@
+{
+  "id": 6957,
+  "zone_id": 69,
+  "name": "The Secret Den of the Owner",
+  "description": "This is the secret den of the owner of this house.  An old woman sits here\nwatching your every move.  Blood marks paint the wall along with deep\nscratches.  The old woman looks to be very old, as in centuries!  You try to\nsmile, but she stands up and releases venom from her huge fangs!  Get out of\nhere and fast!!",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "vent",
+      "door_flag": 2,
+      "key": 6927,
+      "to": 6962
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

@@ -1,12 +1,12 @@
 {
   "id": 5446,
-  "alias": "lugh librarian",
+  "alias": "lugh",
   "short_desc": "Lugh the Librarian",
   "long_desc": "Lugh the Librarian sits behind a desk.",
   "detailed_desc": "The huge hulking mass rises as someone asks him a question.",
-  "flags_raw": "belno 0 300 S",
-  "stats1_raw": "10 1 0 10d10+430 3d6+5",
-  "stats2_raw": "1231 23000",
-  "stats3_raw": "6 6 1",
+  "flags_raw": "26650 0 300 E",
+  "stats1_raw": "10 15 8 1d1+207 5d2+4",
+  "stats2_raw": "150 7126 0",
+  "stats3_raw": "6 6 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

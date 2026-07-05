@@ -1,10 +1,10 @@
 {
   "id": 7314,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "The Stalagmite T-Cross",
   "description": "You are standing in a cross.  To the north you can see some light.\nOtherwise it is dark.",
-  "header_raw": "73 cd 1",
-  "flags_text": "cd",
+  "header_raw": "72 12 1",
+  "flags_text": "12",
   "sector": 1,
   "exits": [
     {

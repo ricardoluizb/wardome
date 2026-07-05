@@ -3,8 +3,8 @@
   "zone_id": 50,
   "name": "The Cave Mouth",
   "description": "The air in here is MUCH cooler than outside.  From the west you hear \nstrange sounds, but can see nothing.  The cave slopes down into the \ndarkness.",
-  "header_raw": "50 ad 5",
-  "flags_text": "ad",
+  "header_raw": "50 9 5",
+  "flags_text": "9",
   "sector": 5,
   "exits": [
     {

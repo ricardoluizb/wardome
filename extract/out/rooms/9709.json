@@ -1,0 +1,42 @@
+{
+  "id": 9709,
+  "zone_id": 97,
+  "name": "Throne Room",
+  "description": "You stop dead in your tracks as you enter this room.  Before you is Zeus,\nin all his glory, sitting on a huge golden throne.  You had thought him to be \njust a myth, but here he is ... you wonder who else lives in this castle.",
+  "header_raw": "97 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9722
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9708
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "throne trapdoor",
+      "door_flag": 1,
+      "key": -1,
+      "to": 9717
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "throne",
+      "description": "This huge golden throne looks as if it has been here for ages.  As you study it\ncarefully, you notice that it is not firmly attached to the floor ... perhaps\nyou could slide it?"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/97.wld"
+}

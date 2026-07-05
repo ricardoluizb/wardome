@@ -1,0 +1,21 @@
+{
+  "id": 5755,
+  "zone_id": 57,
+  "name": "A Torture Chamber",
+  "description": "You have entered a torture chamber, currently being used by the Warlock's\nGoblin torturers to extract information from intruders or confessions from\ncrooked or incompetent Orcish sentries. Of course, they don't really care\nwhat you know, they are going to torture you anyway :).",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "a corridor",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5754
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

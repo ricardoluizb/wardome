@@ -1,0 +1,29 @@
+{
+  "id": 13531,
+  "zone_id": 135,
+  "name": "The Small Intestine",
+  "description": "The blank walls of the tunnel run north and south.",
+  "header_raw": "135 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13530
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13532
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

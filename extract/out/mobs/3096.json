@@ -1,0 +1,12 @@
+{
+  "id": 3096,
+  "alias": "assassin",
+  "short_desc": "the master of the assassins",
+  "long_desc": "the master of the assassins",
+  "detailed_desc": "It looks unfinished.  He is a thief who has specialized in killing others as\neffectively as possible, using all sorts of weapons.  His superior knowledge of\nhow and where to use them combined with his extraordinary stealth makes him a\ndeadly opponent.",
+  "flags_raw": "257832 295976 -1000 E",
+  "stats1_raw": "15 13 7 1d1+315 5d2+6",
+  "stats2_raw": "225 18413 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
+}

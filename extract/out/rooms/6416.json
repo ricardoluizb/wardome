@@ -3,8 +3,8 @@
   "zone_id": 64,
   "name": "The Hidden Treasure Room",
   "description": "Jackpot!  A small room filled with treasure chests!  Go get them!",
-  "header_raw": "64 ad 0",
-  "flags_text": "ad",
+  "header_raw": "64 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

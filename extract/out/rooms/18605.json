@@ -3,8 +3,8 @@
   "zone_id": 186,
   "name": "The Dark Pit",
   "description": "Ick... a dark damp dirty pit.  Even worse, what is that dark damp\ndirty thing looking at you from the corner?  Ewww... maybe you should\ngo back up where it is a bit safer, unless you think you can tackle\nthat thing in the corner.",
-  "header_raw": "186 ad 0",
-  "flags_text": "ad",
+  "header_raw": "186 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

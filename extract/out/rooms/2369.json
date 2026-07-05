@@ -1,0 +1,21 @@
+{
+  "id": 2369,
+  "zone_id": 23,
+  "name": "The Inn of the Broken Horn",
+  "description": "You enter a warm tavern. The room is lit mainly by two huge fireplaces at each\nend of the room. Small tables and a large bar furnish the room. The\ninhabitants of the inn are all minotaurs of varying size and disposition. Most\nseem to regard you with suspicion. Few approach you. A large door leads\nnorth, out of the bar and back out into the cold.",
+  "header_raw": "23 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2366
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

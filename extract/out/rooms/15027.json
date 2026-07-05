@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "The Butler's Quarters",
   "description": "You see at once that this must be the butler's room, for it lies\nin the servants' wing, and still it is large and comfortable; almost\nluxurious, in fact.  There is a large bed and a drawer in the room.\nThe only exit is via the door to the south.",
-  "header_raw": "150 d 0",
-  "flags_text": "d",
+  "header_raw": "150 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

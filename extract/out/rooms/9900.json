@@ -1,0 +1,29 @@
+{
+  "id": 9900,
+  "zone_id": 99,
+  "name": "A barrow mound.",
+  "description": "You are standing atop a barrow mound which is about 15 feet in \ndiameter.  There is no vegetation inside the circle, strangely \nenough.  A low cumulous of swirling mist engulfs you from the \nknees down, making it look as though you are partially buried.",
+  "header_raw": "99 16777221 3",
+  "flags_text": "16777221",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6027
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "mound",
+      "door_flag": 2,
+      "key": 9903,
+      "to": 9901
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

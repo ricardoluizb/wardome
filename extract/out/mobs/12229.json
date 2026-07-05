@@ -1,0 +1,12 @@
+{
+  "id": 12229,
+  "alias": "gullin-bursti boar",
+  "short_desc": "Gullin-bursti",
+  "long_desc": "A massive boar grunts at your intrusion.",
+  "detailed_desc": "A gift from the dwarves, Gullin-Bursti the golden boar pulls Frey's\nchariot into battle, and aids him against his foes, usually giants or\nsimilar.",
+  "flags_raw": "8 9344 0 E",
+  "stats1_raw": "30 -3 0 1d1+1800 5d4+52",
+  "stats2_raw": "450 148261 4",
+  "stats3_raw": "8 8 1 0 8",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/122.mob"
+}

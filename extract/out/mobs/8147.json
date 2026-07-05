@@ -1,0 +1,12 @@
+{
+  "id": 8147,
+  "alias": "mold",
+  "short_desc": "the green mold",
+  "long_desc": "A peculiar green mold looks at you from the wall.",
+  "detailed_desc": "Looks at you? Molds don't usually have EYES! But this one does.",
+  "flags_raw": "196682 1024 0 E",
+  "stats1_raw": "159 -81 -30 1d1+18444 5d46+172",
+  "stats2_raw": "2385 19422044 11",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

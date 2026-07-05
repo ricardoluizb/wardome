@@ -1,0 +1,21 @@
+{
+  "id": 29596,
+  "zone_id": 295,
+  "name": "Atop the Walls",
+  "description": "You are strolling along the battlements of the mammoth walls of Troy. To\nthe south lies the massive battlefield where Trojans have fought Achaeans\nfor the last nine years. To the east lies the wine-dark sea.\n\nProgress further south is prevented by a new barricade. Evidently this\nsection of the city has been hard-pressed in the siege.",
+  "header_raw": "295 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29595
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/295.wld"
+}

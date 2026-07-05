@@ -4,9 +4,9 @@
   "short_desc": "the small bat",
   "long_desc": "The small fierce-looking bat is hanging from the ceiling, obviously sleeping.",
   "detailed_desc": "You have never in your entire life seen such a mean looking small creature,\nthough it looks rather peaceful, hanging there, sleeping.  The thought of \narousing this cruel creature doesn't sit well in your bones.",
-  "flags_raw": "fgr sk -500 S",
-  "stats1_raw": "1 20 5 5d2+6 1d5+0",
-  "stats2_raw": "0 150",
-  "stats3_raw": "4 8 0",
+  "flags_raw": "131176 263168 -500 E",
+  "stats1_raw": "5 18 9 1d1+99 5d1+2",
+  "stats2_raw": "75 1651 0",
+  "stats3_raw": "4 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/70.mob"
 }

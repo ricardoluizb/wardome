@@ -1,0 +1,12 @@
+{
+  "id": 9989,
+  "alias": "ghenna deep dragon dragonet",
+  "short_desc": "the Dragonet",
+  "long_desc": "A wimpy little dragon is standing here, looking at you with deep blue\neyes.",
+  "detailed_desc": "You see what appears to be a tiny dragon, about the size of a chihuahua.\nWhat a pansy he is too!",
+  "flags_raw": "133162 136 1000 E",
+  "stats1_raw": "30 3 4 1d1+1080 5d4+22",
+  "stats2_raw": "450 128594 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/99.mob"
+}

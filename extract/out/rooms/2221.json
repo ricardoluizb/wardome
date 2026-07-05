@@ -1,0 +1,21 @@
+{
+  "id": 2221,
+  "zone_id": 22,
+  "name": "A Lair",
+  "description": "You have entered a large room dominated by a great black dragon.  It looks\nas though it is amused by your presence.",
+  "header_raw": "22 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You the cave opening.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2241
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

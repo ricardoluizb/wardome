@@ -1,0 +1,34 @@
+{
+  "id": 776,
+  "zone_id": 7,
+  "name": "Star Gate",
+  "description": "This small gate seems to be the main entrance for the farmers\nentering the city with their produce.  Guards wave everyone through\nwithout a second glance.  There is a big sign here that you might want\nto read.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 736
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 840
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "ADVENTURERS!!!!\n\nI need a party of brave souls to enter the blue temple and destroy the\nevil orb inside.  I shall pay well for the deed!!!  Please stop by my\ntemple and get the magic scroll used for entering the foul area if you\nare powerful enough to withstand the trials!!!\n--MouseRider, sage of Kerofk."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

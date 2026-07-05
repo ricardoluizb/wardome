@@ -1,0 +1,12 @@
+{
+  "id": 11206,
+  "alias": "crazed merchant",
+  "short_desc": "a crazed merchant",
+  "long_desc": "A crazed merchant begs to be freed.",
+  "detailed_desc": "This filthy, rag clad human has been imprisoned here for almost a year,\nafter ignorantly attempting to trade with the town. He is being held\nin the hopes that his wealthy guild will pay a ransom, but it now\nlooks as if that is not going to happen.",
+  "flags_raw": "10 0 -200 E",
+  "stats1_raw": "35 -15 -8 1d1+3492 5d7+104",
+  "stats2_raw": "525 238782 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

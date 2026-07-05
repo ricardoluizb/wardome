@@ -1,0 +1,29 @@
+{
+  "id": 5824,
+  "zone_id": 57,
+  "name": "A Bend",
+  "description": "You have entered a bend in the passage, where you can head east toward a\nwide section of the passage, or back south towards a ghastly smell...",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "a widening of the passage",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5825
+    },
+    {
+      "dir": 2,
+      "description": "a creepy room",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5823
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

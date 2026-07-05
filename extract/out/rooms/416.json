@@ -1,0 +1,21 @@
+{
+  "id": 416,
+  "zone_id": 4,
+  "name": "The end of time.",
+  "description": "Your are in the room of great Luigi, the Guru of Reason and master of\nthe three magi Gasper, Melchior and Balthasar. If you are in this room,\nyou must be honest and gentle to the person whose you are talking. Be\nsure to be respectful too, for this room is a sacred place.",
+  "header_raw": "4 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "You see nothing special.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 405
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/4.wld"
+}

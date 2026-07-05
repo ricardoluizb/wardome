@@ -3,8 +3,8 @@
   "zone_id": 72,
   "name": "On The Walls Of The Abyss",
   "description": "You are clutching the steps on the wall so that you don't fall to the\nground down below.  You cannot see anymore handholds below you and thus\nthis stops your journey down, as the only exit is up.",
-  "header_raw": "72 ad 5",
-  "flags_text": "ad",
+  "header_raw": "72 9 5",
+  "flags_text": "9",
   "sector": 5,
   "exits": [
     {

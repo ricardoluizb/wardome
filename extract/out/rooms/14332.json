@@ -1,0 +1,45 @@
+{
+  "id": 14332,
+  "zone_id": 143,
+  "name": "The Palace Courtyard",
+  "description": "This area is silimar to the rest of the courtyard, except for a door in the\nnorth wall.",
+  "header_raw": "143 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A large marble door lies in the north wall.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14336
+    },
+    {
+      "dir": 1,
+      "description": "The courtyard continues to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14329
+    },
+    {
+      "dir": 2,
+      "description": "The courtyard continues to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14328
+    },
+    {
+      "dir": 3,
+      "description": "The courtyard continues to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14334
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

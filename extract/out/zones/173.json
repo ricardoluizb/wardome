@@ -1,0 +1,2414 @@
+{
+  "id": 173,
+  "name": "Camelot",
+  "header": {
+    "raw": "17399 240 1 1 -1",
+    "min_room": 17399,
+    "top_room": 240,
+    "lifespan": 1,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17313,
+        1,
+        17375
+      ],
+      "comment": "(Merlin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17316,
+        5,
+        2
+      ],
+      "comment": "(the Incubus crest ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17317,
+        2,
+        17
+      ],
+      "comment": "(merlin's staff)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        17336,
+        2,
+        17375
+      ],
+      "comment": "(a rusty key)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17375,
+        4,
+        2
+      ],
+      "comment": "(Merlin's Tower)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        1300,
+        1,
+        17375
+      ],
+      "comment": "(&YThe Quest Book of Memory Heroes&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17304,
+        1,
+        17370
+      ],
+      "comment": "(King Arthur)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17311,
+        2,
+        13
+      ],
+      "comment": "(Arthur's scabbard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17310,
+        2,
+        17
+      ],
+      "comment": "(Excalibur)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17325,
+        1,
+        17370
+      ],
+      "comment": "(Dagonet (Arthur's Court Jester))"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17333,
+        2,
+        6
+      ],
+      "comment": "(fool's motley)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17321,
+        7,
+        17370
+      ],
+      "comment": "(a lady in waiting)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17330,
+        7,
+        17
+      ],
+      "comment": "(a silken favor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17333,
+        1,
+        17370
+      ],
+      "comment": "(a troubadour)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17335,
+        1,
+        17370
+      ],
+      "comment": "(an entertainer)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17370,
+        0,
+        1
+      ],
+      "comment": "(The Court of Camelot)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17370,
+        1,
+        1
+      ],
+      "comment": "(The Court of Camelot)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17307,
+        1,
+        17302
+      ],
+      "comment": "(the black knight)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17318,
+        2,
+        7
+      ],
+      "comment": "(a pair of blackened steel greaves)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17315,
+        1,
+        17303
+      ],
+      "comment": "(King Pellinore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17320,
+        2,
+        5
+      ],
+      "comment": "(&GPellinore's &wtrailpack&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17321,
+        1,
+        -1
+      ],
+      "comment": "(a key with the letter \"P\" on it)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        17322,
+        1,
+        17320
+      ],
+      "comment": "(some trail rations)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        17323,
+        1,
+        17320
+      ],
+      "comment": "(a flask of a nice red wine)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17316,
+        1,
+        17307
+      ],
+      "comment": "(the Questing Beast)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        17324,
+        1,
+        17307
+      ],
+      "comment": "(a pile of bones)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        17325,
+        1,
+        17307
+      ],
+      "comment": "(a human skull)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        17326,
+        1,
+        17307
+      ],
+      "comment": "(a small black rock)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17309,
+        1,
+        17312
+      ],
+      "comment": "(Sir Garlon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17312,
+        2,
+        10
+      ],
+      "comment": "(Garlon's invisible armbands)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17314,
+        1,
+        17323
+      ],
+      "comment": "(Morgan Le Fey)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17319,
+        2,
+        17
+      ],
+      "comment": "(a marble rod with a white hot tip)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17305,
+        1,
+        17317
+      ],
+      "comment": "(Sir Benlad de Haudtesert (the green knight))"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17304,
+        2,
+        5
+      ],
+      "comment": "(a suit of green armor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17305,
+        2,
+        16
+      ],
+      "comment": "(Benlad's axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17327,
+        1,
+        17322
+      ],
+      "comment": "(Perimones (the Red Knight))"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17335,
+        2,
+        5
+      ],
+      "comment": "(a suit of shimmering red armor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17310,
+        1,
+        17368
+      ],
+      "comment": "(Sir Gawaine)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17313,
+        2,
+        6
+      ],
+      "comment": "(gawaine's horned helm)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17312,
+        1,
+        17359
+      ],
+      "comment": "(Sir Lancelot du Lake)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17315,
+        2,
+        9
+      ],
+      "comment": "(Gauntles of bravery)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17317,
+        1,
+        17369
+      ],
+      "comment": "(Sir Tristram of Lyoness)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17327,
+        2,
+        -1
+      ],
+      "comment": "(a love letter)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17306,
+        1,
+        17315
+      ],
+      "comment": "(Sir Galahad)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17306,
+        2,
+        14
+      ],
+      "comment": "(&WA &wwhite &wB&Wr&wa&Wc&we&Wr&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17307,
+        2,
+        17
+      ],
+      "comment": "(the holy grail)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17326,
+        1,
+        17315
+      ],
+      "comment": "(Turquine)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17334,
+        2,
+        6
+      ],
+      "comment": "(a wolf helm)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17311,
+        1,
+        17374
+      ],
+      "comment": "(Sir Lamorak)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17314,
+        2,
+        8
+      ],
+      "comment": "(&yLamorak's &Ys&yp&Yu&yr&Ys&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17318,
+        1,
+        17340
+      ],
+      "comment": "(Mordred)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17328,
+        2,
+        5
+      ],
+      "comment": "(a suit of golden armor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17329,
+        2,
+        16
+      ],
+      "comment": "(a spear glowing in an unholy dark light)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17322,
+        1,
+        17377
+      ],
+      "comment": "(Queen Gwenivere)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17331,
+        2,
+        4
+      ],
+      "comment": "(an emerald necklace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17337,
+        1,
+        17381
+      ],
+      "comment": "(a towering, black scaled demon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17328,
+        1,
+        17337
+      ],
+      "comment": "(a damsel in distress)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17337,
+        1,
+        -1
+      ],
+      "comment": "(the reward)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17324,
+        1,
+        17361
+      ],
+      "comment": "(Barant Les Apres (King of the Hundred Knights))"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17332,
+        2,
+        16
+      ],
+      "comment": "(a massive spiked ball and chain)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17308,
+        1,
+        17351
+      ],
+      "comment": "(Sir Gareth)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17308,
+        2,
+        12
+      ],
+      "comment": "(a many colored cloak)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17309,
+        2,
+        11
+      ],
+      "comment": "(a shield of many colors)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17301,
+        9,
+        17374
+      ],
+      "comment": "(the knight of reknown)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17302,
+        10,
+        16
+      ],
+      "comment": "(a knight's mace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17301,
+        9,
+        17374
+      ],
+      "comment": "(the knight of reknown)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17302,
+        10,
+        16
+      ],
+      "comment": "(a knight's mace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17301,
+        9,
+        17361
+      ],
+      "comment": "(the knight of reknown)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17302,
+        10,
+        16
+      ],
+      "comment": "(a knight's mace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17301,
+        9,
+        17361
+      ],
+      "comment": "(the knight of reknown)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17302,
+        10,
+        16
+      ],
+      "comment": "(a knight's mace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17301,
+        9,
+        17355
+      ],
+      "comment": "(the knight of reknown)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17302,
+        10,
+        16
+      ],
+      "comment": "(a knight's mace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17301,
+        9,
+        17355
+      ],
+      "comment": "(the knight of reknown)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17302,
+        10,
+        16
+      ],
+      "comment": "(a knight's mace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17301,
+        9,
+        17371
+      ],
+      "comment": "(the knight of reknown)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17302,
+        10,
+        16
+      ],
+      "comment": "(a knight's mace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17301,
+        9,
+        17353
+      ],
+      "comment": "(the knight of reknown)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17302,
+        10,
+        16
+      ],
+      "comment": "(a knight's mace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17301,
+        9,
+        17366
+      ],
+      "comment": "(the knight of reknown)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17302,
+        10,
+        16
+      ],
+      "comment": "(a knight's mace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17302,
+        9,
+        17357
+      ],
+      "comment": "(the squire)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17301,
+        10,
+        16
+      ],
+      "comment": "(a squire's dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17302,
+        9,
+        17357
+      ],
+      "comment": "(the squire)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17301,
+        10,
+        16
+      ],
+      "comment": "(a squire's dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17302,
+        9,
+        17357
+      ],
+      "comment": "(the squire)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17301,
+        10,
+        16
+      ],
+      "comment": "(a squire's dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17302,
+        9,
+        17362
+      ],
+      "comment": "(the squire)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17301,
+        10,
+        16
+      ],
+      "comment": "(a squire's dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17302,
+        9,
+        17352
+      ],
+      "comment": "(the squire)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17301,
+        10,
+        16
+      ],
+      "comment": "(a squire's dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17302,
+        9,
+        17371
+      ],
+      "comment": "(the squire)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17301,
+        10,
+        16
+      ],
+      "comment": "(a squire's dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17302,
+        9,
+        17346
+      ],
+      "comment": "(the squire)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17301,
+        10,
+        16
+      ],
+      "comment": "(a squire's dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17302,
+        9,
+        17348
+      ],
+      "comment": "(the squire)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17301,
+        10,
+        16
+      ],
+      "comment": "(a squire's dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17302,
+        9,
+        17341
+      ],
+      "comment": "(the squire)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17301,
+        10,
+        16
+      ],
+      "comment": "(a squire's dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17303,
+        9,
+        17341
+      ],
+      "comment": "(the knight of quality)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17303,
+        10,
+        16
+      ],
+      "comment": "(a knight's lance)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17303,
+        9,
+        17341
+      ],
+      "comment": "(the knight of quality)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17303,
+        10,
+        16
+      ],
+      "comment": "(a knight's lance)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17303,
+        9,
+        17358
+      ],
+      "comment": "(the knight of quality)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17303,
+        10,
+        16
+      ],
+      "comment": "(a knight's lance)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17303,
+        9,
+        17365
+      ],
+      "comment": "(the knight of quality)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17303,
+        10,
+        16
+      ],
+      "comment": "(a knight's lance)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17303,
+        9,
+        17374
+      ],
+      "comment": "(the knight of quality)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17303,
+        10,
+        16
+      ],
+      "comment": "(a knight's lance)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17303,
+        9,
+        17374
+      ],
+      "comment": "(the knight of quality)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17303,
+        10,
+        16
+      ],
+      "comment": "(a knight's lance)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17303,
+        9,
+        17314
+      ],
+      "comment": "(the knight of quality)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17303,
+        10,
+        16
+      ],
+      "comment": "(a knight's lance)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17303,
+        9,
+        17371
+      ],
+      "comment": "(the knight of quality)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17303,
+        10,
+        16
+      ],
+      "comment": "(a knight's lance)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17303,
+        9,
+        17376
+      ],
+      "comment": "(the knight of quality)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17303,
+        10,
+        16
+      ],
+      "comment": "(a knight's lance)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17319,
+        5,
+        17336
+      ],
+      "comment": "(Charmed knight of reknown)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17319,
+        5,
+        17340
+      ],
+      "comment": "(Charmed knight of reknown)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17319,
+        5,
+        17338
+      ],
+      "comment": "(Charmed knight of reknown)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17319,
+        5,
+        17315
+      ],
+      "comment": "(Charmed knight of reknown)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17319,
+        5,
+        17318
+      ],
+      "comment": "(Charmed knight of reknown)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17320,
+        3,
+        17340
+      ],
+      "comment": "(Charmed knight of quality)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17320,
+        3,
+        17315
+      ],
+      "comment": "(Charmed knight of quality)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17320,
+        3,
+        17327
+      ],
+      "comment": "(Charmed knight of quality)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17323,
+        7,
+        17340
+      ],
+      "comment": "(Charmed Squire)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17323,
+        7,
+        17332
+      ],
+      "comment": "(Charmed Squire)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17323,
+        7,
+        17335
+      ],
+      "comment": "(Charmed Squire)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17323,
+        7,
+        17330
+      ],
+      "comment": "(Charmed Squire)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17323,
+        7,
+        17339
+      ],
+      "comment": "(Charmed Squire)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17323,
+        7,
+        17316
+      ],
+      "comment": "(Charmed Squire)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17323,
+        7,
+        17314
+      ],
+      "comment": "(Charmed Squire)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17321,
+        7,
+        17373
+      ],
+      "comment": "(a lady in waiting)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17330,
+        7,
+        17
+      ],
+      "comment": "(a silken favor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17321,
+        7,
+        17373
+      ],
+      "comment": "(a lady in waiting)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17330,
+        7,
+        17
+      ],
+      "comment": "(a silken favor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17321,
+        7,
+        17373
+      ],
+      "comment": "(a lady in waiting)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17330,
+        7,
+        17
+      ],
+      "comment": "(a silken favor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17321,
+        7,
+        17372
+      ],
+      "comment": "(a lady in waiting)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17330,
+        7,
+        17
+      ],
+      "comment": "(a silken favor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17321,
+        7,
+        17371
+      ],
+      "comment": "(a lady in waiting)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17330,
+        7,
+        17
+      ],
+      "comment": "(a silken favor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17321,
+        7,
+        17398
+      ],
+      "comment": "(a lady in waiting)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17330,
+        7,
+        17
+      ],
+      "comment": "(a silken favor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17329,
+        1,
+        17371
+      ],
+      "comment": "(a nobleman)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17339,
+        2,
+        -1
+      ],
+      "comment": "(a rather heavy looking purse)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17331,
+        1,
+        -1
+      ],
+      "comment": "(an emerald necklace)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        17339,
+        1,
+        17380
+      ],
+      "comment": "(a rather heavy looking purse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17330,
+        4,
+        17398
+      ],
+      "comment": "(a serf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17330,
+        4,
+        17348
+      ],
+      "comment": "(a serf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17330,
+        4,
+        17371
+      ],
+      "comment": "(a serf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17330,
+        4,
+        17305
+      ],
+      "comment": "(a serf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17331,
+        2,
+        17354
+      ],
+      "comment": "(a merchant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17331,
+        2,
+        17355
+      ],
+      "comment": "(a merchant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17332,
+        2,
+        17373
+      ],
+      "comment": "(a monk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17332,
+        2,
+        17349
+      ],
+      "comment": "(a monk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17334,
+        1,
+        17371
+      ],
+      "comment": "(a bard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17336,
+        8,
+        17371
+      ],
+      "comment": "(a servant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17336,
+        8,
+        17371
+      ],
+      "comment": "(a servant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17336,
+        8,
+        17372
+      ],
+      "comment": "(a servant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17336,
+        8,
+        17373
+      ],
+      "comment": "(a servant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17336,
+        8,
+        17373
+      ],
+      "comment": "(a servant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17336,
+        8,
+        17378
+      ],
+      "comment": "(a servant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17336,
+        8,
+        17366
+      ],
+      "comment": "(a servant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17336,
+        8,
+        17374
+      ],
+      "comment": "(a servant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17338,
+        1,
+        17348
+      ],
+      "comment": "(Iron Jack)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17301,
+        10,
+        -1
+      ],
+      "comment": "(a squire's dagger)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17302,
+        10,
+        -1
+      ],
+      "comment": "(a knight's mace)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17303,
+        10,
+        -1
+      ],
+      "comment": "(a knight's lance)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17339,
+        1,
+        17398
+      ],
+      "comment": "(Stirrup)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17340,
+        1,
+        17399
+      ],
+      "comment": "(a riding horse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17341,
+        1,
+        17399
+      ],
+      "comment": "(a medium warhorse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17342,
+        1,
+        17399
+      ],
+      "comment": "(a heavy warhorse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17343,
+        1,
+        17389
+      ],
+      "comment": "(a Saxon raider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17344,
+        2,
+        17389
+      ],
+      "comment": "(a slave)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17345,
+        1,
+        17389
+      ],
+      "comment": "(a Saxon chief)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17340,
+        2,
+        12
+      ],
+      "comment": "(a lice infested cloak)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17346,
+        2,
+        17388
+      ],
+      "comment": "(a northern border guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17347,
+        1,
+        17388
+      ],
+      "comment": "(the northern outpost commander)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17341,
+        2,
+        16
+      ],
+      "comment": "(a commander's steel broad sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17348,
+        2,
+        17390
+      ],
+      "comment": "(a Scot clansman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17349,
+        1,
+        17390
+      ],
+      "comment": "(the Scot clan chief)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17342,
+        2,
+        -1
+      ],
+      "comment": "(a skin of whiskey)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17363,
+        2,
+        17389
+      ],
+      "comment": "(a slave)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17350,
+        9,
+        17391
+      ],
+      "comment": "(a busy serf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17350,
+        9,
+        17392
+      ],
+      "comment": "(a busy serf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17350,
+        9,
+        17393
+      ],
+      "comment": "(a busy serf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17350,
+        9,
+        17394
+      ],
+      "comment": "(a busy serf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17351,
+        2,
+        17395
+      ],
+      "comment": "(an Angle raider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17352,
+        1,
+        17395
+      ],
+      "comment": "(the Angle chief)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17344,
+        2,
+        16
+      ],
+      "comment": "(an angle)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        17343,
+        1,
+        17395
+      ],
+      "comment": "(a dragon ship)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17360,
+        1,
+        17395
+      ],
+      "comment": "(Gaheris)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17349,
+        2,
+        16
+      ],
+      "comment": "(an enormous axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17353,
+        1,
+        17397
+      ],
+      "comment": "(the calvary unit)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17354,
+        1,
+        17397
+      ],
+      "comment": "(the infantry unit)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17355,
+        1,
+        17397
+      ],
+      "comment": "(the pict hoard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17357,
+        1,
+        17397
+      ],
+      "comment": "(Persante of Inde (the blue knight))"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17346,
+        2,
+        0
+      ],
+      "comment": "(the blue war banner of Persante of Inde)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17358,
+        1,
+        17397
+      ],
+      "comment": "(Dodinas le Savage)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17347,
+        2,
+        16
+      ],
+      "comment": "(lifecutter)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17359,
+        1,
+        17397
+      ],
+      "comment": "(Lionel)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17348,
+        2,
+        5
+      ],
+      "comment": "(a suit of full plate armor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17356,
+        1,
+        17346
+      ],
+      "comment": "(the Pict leader)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17345,
+        2,
+        17
+      ],
+      "comment": "(a rod of command)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17362,
+        2,
+        17396
+      ],
+      "comment": "(a southern border guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17361,
+        1,
+        17396
+      ],
+      "comment": "(the southern outpost commander)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17341,
+        2,
+        16
+      ],
+      "comment": "(a commander's steel broad sword)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17305,
+        3,
+        2
+      ],
+      "comment": "(A Hut in Forest Arden)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17308,
+        1,
+        2
+      ],
+      "comment": "(Inside a Hut)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17318,
+        3,
+        1
+      ],
+      "comment": "(Before an Inviting Hut)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17323,
+        1,
+        1
+      ],
+      "comment": "(Inside the Inviting Hut)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17316,
+        0,
+        1
+      ],
+      "comment": "(Before Blackmoor)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17327,
+        0,
+        1
+      ],
+      "comment": "(Bailey of Blackmoor)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17327,
+        2,
+        1
+      ],
+      "comment": "(Bailey of Blackmoor)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17328,
+        2,
+        1
+      ],
+      "comment": "(Inside the Curtain Wall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17333,
+        2,
+        1
+      ],
+      "comment": "(Entrance to the Keep Proper)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17340,
+        0,
+        1
+      ],
+      "comment": "(The Dark Hall of Mordred)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17326,
+        1,
+        1
+      ],
+      "comment": "(The Western Gate of Camelot)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17341,
+        3,
+        1
+      ],
+      "comment": "(Victory Road and Knights Way)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17356,
+        2,
+        1
+      ],
+      "comment": "(The Great Northern Gate of Camelot)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17355,
+        0,
+        1
+      ],
+      "comment": "(Squire's Run at the North Gate)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17361,
+        0,
+        1
+      ],
+      "comment": "(Noble Road at the South Gate)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17361,
+        2,
+        1
+      ],
+      "comment": "(Noble Road at the South Gate)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17366,
+        0,
+        1
+      ],
+      "comment": "(Noble's Quarters)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17366,
+        1,
+        0
+      ],
+      "comment": "(Noble's Quarters)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17366,
+        2,
+        1
+      ],
+      "comment": "(Noble's Quarters)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17366,
+        3,
+        2
+      ],
+      "comment": "(Noble's Quarters)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17378,
+        2,
+        1
+      ],
+      "comment": "(Noble's Chambers)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17379,
+        3,
+        0
+      ],
+      "comment": "(Noble's Chambers)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17380,
+        1,
+        2
+      ],
+      "comment": "(Noble's Chambers)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17371,
+        2,
+        1
+      ],
+      "comment": "(The Feast Hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17372,
+        0,
+        1
+      ],
+      "comment": "(The Ladies' Chambers)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17385,
+        0,
+        1
+      ],
+      "comment": "(The Highlands)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17385,
+        1,
+        1
+      ],
+      "comment": "(The Highlands)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17388,
+        3,
+        1
+      ],
+      "comment": "(An Outpost)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17397,
+        3,
+        1
+      ],
+      "comment": "(Battle!)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17346,
+        1,
+        1
+      ],
+      "comment": "(Behind the Pict Lines)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17374,
+        2,
+        1
+      ],
+      "comment": "(Knight's Barracks)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17376,
+        3,
+        1
+      ],
+      "comment": "(The Round Table)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/173.zon"
+}

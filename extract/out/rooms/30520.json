@@ -1,0 +1,21 @@
+{
+  "id": 30520,
+  "zone_id": 305,
+  "name": "&BO Templo dos Giths",
+  "description": "Voce esta em cima de um chao coberto por cranios e desgastados ossos, isso\nnao e' muito estranho pois voce esta em um lugar de criaturas morto-vivas\nfeitas por magia e ossos.  Voce pode ver um altar de ossos aonde os Giths rogam\nao seus deuses malignos.  A saida desse horrivel templo e' ao norte.",
+  "header_raw": "305 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30510
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/305.wld"
+}

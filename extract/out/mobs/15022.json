@@ -4,9 +4,9 @@
   "short_desc": "the Chef",
   "long_desc": "The Chef is here, shouting orders to the other cooks.",
   "detailed_desc": "It seems he has been tasting his own food a bit too enthusiastically.\nHe is, in other words, a bit fat.",
-  "flags_raw": "behlno 0 500 S",
-  "stats1_raw": "19 4 -1 2d6+1283 4d4+14",
-  "stats2_raw": "1000 40000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "26778 0 500 E",
+  "stats1_raw": "125 -42 -8 1d1+3492 5d13+50",
+  "stats2_raw": "1875 5532299 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/150.mob"
 }

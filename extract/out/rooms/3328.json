@@ -3,8 +3,8 @@
   "zone_id": 33,
   "name": "A Cave Passageway",
   "description": "The main passageway leads south from here, and a smaller\ncave tunnel leads away to the west.  Two large boulders \nsit against the wall, wiped clean of dirt and grime.  A \npaper food wrapper has been trodden under several pairs of \nfeet here; at best guess, you'd say this would probably be \na guard post.",
-  "header_raw": "33 d 0",
-  "flags_text": "d",
+  "header_raw": "33 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

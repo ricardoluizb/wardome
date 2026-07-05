@@ -1,0 +1,21 @@
+{
+  "id": 6956,
+  "zone_id": 69,
+  "name": "The Closet",
+  "description": "You are now in a closet of this mysterious house.  There is barely anything\nin here that you can see, it's very dark inside here.  A few pieces of clothing\nand that is about it.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6947
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

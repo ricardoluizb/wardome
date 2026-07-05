@@ -1,0 +1,34 @@
+{
+  "id": 28602,
+  "zone_id": 286,
+  "name": "On the Rainbow Dragon",
+  "description": "You are standing on the Rainbow Dragon, surrounded by many beams of coloured\nlight.  Through the bottom of the Rainbow Dragon you see the City of Atlantis a\nland surrounding it.  It seems to be miles below you.",
+  "header_raw": "286 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "The Rainbow Dragon extends far above you, slowly fading into darkness.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28603
+    },
+    {
+      "dir": 5,
+      "description": "The Rainbow Dragon extends below you towards the land you once knew as home.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28601
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "Rainbow Dragon",
+      "description": "The Rainbow Dragon softly glows with beams of light, in colours that\ndefie description."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/286.wld"
+}

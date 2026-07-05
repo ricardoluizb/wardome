@@ -3,8 +3,8 @@
   "zone_id": 186,
   "name": "Another Corner",
   "description": "The passage turns from north to west here.  The walls are still\ncovered with the same disgusting green fungus you have seen all\nalong, and you hear sounds of creatures moving all around you...",
-  "header_raw": "186 ad 0",
-  "flags_text": "ad",
+  "header_raw": "186 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

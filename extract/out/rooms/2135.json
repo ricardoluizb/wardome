@@ -1,0 +1,42 @@
+{
+  "id": 2135,
+  "zone_id": 21,
+  "name": "The City Street",
+  "description": "Simple houses line both sides of the street, and guards are posted at every\njunction.  There is a castle to the north, and more streets to the east and\nwest.  There is a large sign posted on a wall here.",
+  "header_raw": "21 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2139
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2137
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2136
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign large",
+      "description": "There is a sign posted here, it says:\n\n\n                 ATTENTION CITIZENS OF GRAYE!\n\nDue to the demons beseiging our city, their night-time raids, and their recent kidnapping of King Relnar, we ask all citizens to observe the 7 pm curfew!  Those out on the streets after dark run the risk of being mistaken for the enemy and killed!\n\nsigned,\nThe Graye Guard"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/21.wld"
+}

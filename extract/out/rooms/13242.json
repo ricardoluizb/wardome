@@ -1,0 +1,29 @@
+{
+  "id": 13242,
+  "zone_id": 132,
+  "name": "A Secret Room",
+  "description": "You have discovered a room in the back of the palace.  There is a trap door\non the floor.  There are no windows, you think this room must actually be \ninside the mountain.",
+  "header_raw": "132 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "the waiting room",
+      "keywords": "",
+      "door_flag": 1,
+      "key": -1,
+      "to": 13240
+    },
+    {
+      "dir": 5,
+      "description": "a cave",
+      "keywords": "trapdoor",
+      "door_flag": 1,
+      "key": -1,
+      "to": 13352
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

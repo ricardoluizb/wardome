@@ -1,0 +1,37 @@
+{
+  "id": 8228,
+  "zone_id": 82,
+  "name": "The Central Corridor Of The Second Floor",
+  "description": "You are in the central corridor of the second floor of Notre Dame, you see\nmany doric columns with their capital and their stone timber. At east you\nsee a small room, maeve you should enter and have a look of it, you could\nfind something intresting in it.",
+  "header_raw": "82 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8229
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8230
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8227
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

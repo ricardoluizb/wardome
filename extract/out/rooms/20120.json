@@ -1,0 +1,53 @@
+{
+  "id": 20120,
+  "zone_id": 201,
+  "name": "A Side Hall",
+  "description": "This room connects you to the Main Hall.  There are rooms to your north,\nsouth and west.  A staircase leads up.",
+  "header_raw": "201 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20124
+    },
+    {
+      "dir": 1,
+      "description": "The main hall.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20119
+    },
+    {
+      "dir": 2,
+      "description": "A room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20121
+    },
+    {
+      "dir": 3,
+      "description": "A room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20122
+    },
+    {
+      "dir": 4,
+      "description": "A room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20123
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/201.wld"
+}

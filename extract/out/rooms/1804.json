@@ -1,0 +1,21 @@
+{
+  "id": 1804,
+  "zone_id": 18,
+  "name": "The Icy Waters",
+  "description": "Brrr!  It's cold.  You see floes of white ice\nmasses moving slowly across the see.  The one\nup ahead looks like you could get a footing\non it and not slip off.",
+  "header_raw": "18 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1805
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/18.wld"
+}

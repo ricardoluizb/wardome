@@ -1,0 +1,29 @@
+{
+  "id": 1650,
+  "zone_id": 16,
+  "name": "Turret of the Western Tower",
+  "description": "You are in the turret of the western tower.  You feel very strange here.\nScattered about this room are a great many coins and valuable articles.\nYet you can't get rid of a feeling of dread!  A mirror-like portal is in the\nwestern wall.",
+  "header_raw": "16 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1649
+    },
+    {
+      "dir": 3,
+      "description": "A mirror-like portal glimmers in this wall.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1651
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

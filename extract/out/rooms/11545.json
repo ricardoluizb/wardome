@@ -1,0 +1,21 @@
+{
+  "id": 11545,
+  "zone_id": 115,
+  "name": "The Blue Seats",
+  "description": "You are standing in one of the raunchiest set of bleachers anyone has ever\nseen or heard.  You Clerics had better cover your ears.  The Blue Seats\ncontinue west.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11544
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 3838,
+  "zone_id": 38,
+  "name": "A Small Shrine",
+  "description": "You are in a small room.  For some reason, this room is much cleaner\nthan the others in this decrepit area.  A candle burns smokelessly on a table\nin the middle of the room, and a small shrine is against the far wall.  The\noccupants of this area must avoid this room for some reason.  Some words are\ninscribed next to the shrine.  The exit is to the north.  A strange portal is\nto the west.",
+  "header_raw": "38 12 0",
+  "flags_text": "12",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 3801,
+      "to": 3837
+    },
+    {
+      "dir": 3,
+      "description": "The portal has no keyhole, and you see no way to get through it.  You have\nthe feeling that this portal takes you to a different plane of existence!",
+      "keywords": "portal",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3839
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "words inscription inscribed walls wall",
+      "description": "The inscribed words say,\n\nMy Goddess Icaza,\n     My love for you shall never end, for you are the love of my life.  I\ndedicate this room to you, and I bless it so that no evil may ever enter this\nroom.\n\t\t\t\t\tYour Mortal Paladin,\n\t\t\t\t\tHatchet"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

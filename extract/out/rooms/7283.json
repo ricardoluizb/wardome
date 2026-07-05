@@ -3,8 +3,8 @@
   "zone_id": 72,
   "name": "The T-Crossing",
   "description": "You are in a small hallway.  There are doors to the east and to\nthe west.  To the south there are a black hole.  There is writing\nin the wall.  Wails can be heard from the south.",
-  "header_raw": "72 acd 1",
-  "flags_text": "acd",
+  "header_raw": "72 13 1",
+  "flags_text": "13",
   "sector": 1,
   "exits": [
     {

@@ -1,0 +1,29 @@
+{
+  "id": 29971,
+  "zone_id": 298,
+  "name": "Galadriel's Secretary",
+  "description": "This is where you can make an appointment to see Galadriel and Celeborn.  A\nlarge stairway leads up to two large doors.  A desk sits against the far wall,\nand on it rests a large tome.  Across from the desk is a large plank of wood\nset in the wall forming a crude but elegant bench.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29970
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29972
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 30523,
+  "zone_id": 305,
+  "name": "&BThe Temple of the Gnomes&n",
+  "description": "You are in the Temple of the Gnomes, there are several equipments over the\nwalls.  There is something on the left side of the temple, it seems to be a\nlaboratory.  You see paintings of the God of Gnomes called by them as Slinky.\nThe room is illuminated by torches.  The exit to the Temple Street is to the\nNorth.",
+  "header_raw": "305 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30511
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/305.wld"
+}

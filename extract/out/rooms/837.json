@@ -1,0 +1,29 @@
+{
+  "id": 837,
+  "zone_id": 7,
+  "name": "Turn in the Road",
+  "description": "The road turns here to the east.  Around you you see small cultivated \nfields, tended by farmers who seem paranoid and quick.  The vegetables\nthey are harvesting seem pale and lifeless by your standards, with a few \nyou've never seen the likes of before.  From several burned out shells of \nhouses you guess the farmers just try to grow what they can before the\ncity is put under siege again.",
+  "header_raw": "7 8 2",
+  "flags_text": "8",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 838
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 836
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

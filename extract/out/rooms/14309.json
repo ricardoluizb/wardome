@@ -1,0 +1,45 @@
+{
+  "id": 14309,
+  "zone_id": 143,
+  "name": "The Market",
+  "description": "The streets are lined with shops, and the pyramid lies to the south.",
+  "header_raw": "143 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A crowded market.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14308
+    },
+    {
+      "dir": 1,
+      "description": "A sign says 'Skins of the Desert Beetle.'",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14315
+    },
+    {
+      "dir": 2,
+      "description": "A crowded market.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14310
+    },
+    {
+      "dir": 3,
+      "description": "A sign says 'Rez's World of Weapons.'",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14314
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 9948,
+  "zone_id": 99,
+  "name": "Free fall.",
+  "description": "You start\n          \\S\n            \\L\n              \\I\n                \\D\n                  \\I\n                    \\N\n                      \\G\n                        \\\n                          \\D\n                            \\O\n                              \\W\n                                \\N\n                                  \\W\n                                    \\A\n                                      \\R\n                                        \\D\n\n                                         And land in a heap, right next\n                                         to a small hole in the floor\n                                         Smells like somethings cooking.",
+  "header_raw": "99 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "air",
+      "door_flag": 1,
+      "key": -1,
+      "to": 9949
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

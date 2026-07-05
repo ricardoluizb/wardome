@@ -1,0 +1,21 @@
+{
+  "id": 11280,
+  "zone_id": 112,
+  "name": "The Dungeon",
+  "description": "The mage used this chamber to house a rather irascible elemental he\ninadvertently summoned one day while experimenting on a faster way to\nbrew coffee. It is unhappy, tremendously so, at its enforced imprisonment,\nand this leaves it in a state of mind you can no doubt expect to be at the\nleast rather poor...",
+  "header_raw": "112 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11279
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

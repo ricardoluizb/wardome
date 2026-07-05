@@ -1,0 +1,37 @@
+{
+  "id": 20027,
+  "zone_id": 200,
+  "name": "Main Room",
+  "description": "This is a quiet, darkened corner -- it appears someone has put out the lantern\nhere on purpose.  You feel a chill, probably due to your distance from the\nfire, and rub your arms absently.  There's a table set near the corner, a\nsingle chair behind it in the shadowy of shadows.  You get the cliche'd feeling\nsomeone in robes should be sitting there.",
+  "header_raw": "200 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20022
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20026
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20028
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/200.wld"
+}

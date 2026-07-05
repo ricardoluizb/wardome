@@ -1,0 +1,12 @@
+{
+  "id": 17607,
+  "alias": "oldstyle marty",
+  "short_desc": "Marty",
+  "long_desc": "Marty the meat store owner is here, selling you his choice meats.",
+  "detailed_desc": "Marty is a big man.  He used to hunt the animals he sells, but now he lets his\nson, Jim, raise and slaughter the animals for him.  Marty still knows how to\nkill, though.",
+  "flags_raw": "24586 8192 1000 E",
+  "stats1_raw": "20 10 7 1d1+414 5d3+8",
+  "stats2_raw": "300 37388 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/176.mob"
+}

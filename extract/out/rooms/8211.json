@@ -1,0 +1,21 @@
+{
+  "id": 8211,
+  "zone_id": 82,
+  "name": "A Little Chapel",
+  "description": "You have enter to a small chapel where usually the priest confesses the French\npeople who has sin. This room is very dark because the only light is a candle,\nand it doesnt have any windows. To exit the chapel you have to open the door.",
+  "header_raw": "82 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 8210
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

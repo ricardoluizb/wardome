@@ -1,0 +1,34 @@
+{
+  "id": 5735,
+  "zone_id": 57,
+  "name": "Path to Firetop Mountain",
+  "description": "You have reached the base of Firetop Mountain. The steep impenetrable face\nthat rises before you is deeply gouged, as if by the claws of a gargantuan\nbeast. Strange red vegetation grows at the peak, hence the mountain's name.\nA small dark opening in front of you allows you to enter the depths of\nFiretop Mountain, domain of the evil Warlock.\n\nYou see a small sign stuck to a nearby withered tree.",
+  "header_raw": "57 4 3",
+  "flags_text": "4",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "inside the mountain",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5736
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "The sign says-\n\n     \"Welcome to Firetop Mountain, a fun- and excitement-filled area brought\nto you by the Mad Elf. He hopes you enjoy yourself\".\n\nand below that-\n\n     \"Firetop Mountain was built on a DOS text-editor in November 1995 by\nYaegar for AnonyMud, though any Merc 2.2 Mud can (and is indeed welcome to)\nuse it\"."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

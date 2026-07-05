@@ -1,0 +1,29 @@
+{
+  "id": 6908,
+  "zone_id": 69,
+  "name": "The Basement of the House",
+  "description": "You are in the icky basement of this darkened house, with little things\ncrawling around and rubbing against your ankles.  You should have a light to\ncome down here, you know.  It is very damp down here, and also very cool.  \nWell you could chicken out and go back upstairs, or face your fears and explore\ndown here.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6909
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6907
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

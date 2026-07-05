@@ -1,0 +1,21 @@
+{
+  "id": 826,
+  "zone_id": 7,
+  "name": "Passageway",
+  "description": "You feel you have chosen the wrong exit, but there seems to be a\nhole in the floor as the only exit.  Odd...",
+  "header_raw": "7 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 820
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

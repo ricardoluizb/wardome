@@ -1,0 +1,37 @@
+{
+  "id": 29944,
+  "zone_id": 298,
+  "name": "Base of Celeborn's tree",
+  "description": "A great tree looms before you.  You can't see how high it reaches nor encircle\nthe trunk with your arms.  It is just too big.  A broad white ladder leans up\nagainst the trunk to the west",
+  "header_raw": "298 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29934
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29943
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29945
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

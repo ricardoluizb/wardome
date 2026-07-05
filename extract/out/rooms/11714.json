@@ -1,0 +1,21 @@
+{
+  "id": 11714,
+  "zone_id": 117,
+  "name": "&WP&wla&Wt&win&Wa&n's house.",
+  "description": "This is another small house next to the graveyard of the city, who dares to\nlive here?  The answer is simple . The owner of this place is a nice lady\ncalled &WP&wla&Wt&win&Wa&n '. She looks frail but don't let your eyes trick\nyou, this girl is strong and maybe could kill you in one blow.  This house is\nornate with &Mf&mlower&Ms&n and pictures.",
+  "header_raw": "117 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11712
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/117.wld"
+}

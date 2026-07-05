@@ -1,0 +1,45 @@
+{
+  "id": 15146,
+  "zone_id": 150,
+  "name": "A Dusty Trail",
+  "description": "The trail leads north and south from here.  North you see what appear the\nmain buildings for this village, possibly even Mordecai's place of dwelling.  \nSouth of you are the many huts and tents which serve as homes for Mordecai's\npeople.",
+  "header_raw": "150 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 15147
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 15137
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 15145
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 15139
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/151.wld"
+}

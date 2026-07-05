@@ -1,0 +1,37 @@
+{
+  "id": 21509,
+  "zone_id": 215,
+  "name": "&rIn the pit&n",
+  "description": "The fire pit looks like the ashes have not been discarted in a while amongst\nthe ashes you see bone remnants and whats look like what might have been the\nskull of some unespecting adventurer.",
+  "header_raw": "215 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 21511
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 21504
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 21519
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/215.wld"
+}

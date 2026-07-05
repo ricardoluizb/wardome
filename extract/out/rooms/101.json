@@ -1,0 +1,29 @@
+{
+  "id": 101,
+  "zone_id": 1,
+  "name": "Climbing down the Cliff",
+  "description": "Standing so near to the top of the walkway, hanging on for dear life, you\nrealize what a follhearty decision this was to climb this rocky face.  You can\nsee birds playing below you, almost DIRECTLY below you in the treetops of the\nforest so far beneath your feet.  One wrong step, one slip of the hand on the\ntenuous handhold you already maintain, and you are birdfeed in the treetops.  \nMaybe you should just climb up one more step, get off this walkway and call it\nall good.",
+  "header_raw": "1 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 100
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 102
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/1.wld"
+}

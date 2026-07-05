@@ -1,0 +1,12 @@
+{
+  "id": 9719,
+  "alias": "oldstyle chimera",
+  "short_desc": "a chimera",
+  "long_desc": "A chimera prowls the cell.",
+  "detailed_desc": "This bizarre creature has three heads - one of a goat, one of a lion, and one\nof a dragon.  It growls at you as you enter the cell, then suddenly attacks!",
+  "flags_raw": "46 170 -1000 E",
+  "stats1_raw": "190 -75 -18 1d1+5316 5d20+76",
+  "stats2_raw": "2850 18644097 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/97.mob"
+}

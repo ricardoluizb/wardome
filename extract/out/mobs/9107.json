@@ -1,0 +1,12 @@
+{
+  "id": 9107,
+  "alias": "oldstyle wicked witch",
+  "short_desc": "the ugly, wicked witch",
+  "long_desc": "The ugly, wicked witch cackles maniacally.",
+  "detailed_desc": "The witch has jet black hair and sickly green skin.  She is covered\nwith warts and boils.  Her nails are long and sharp and look like\nthey would be quite painful.  Her eyes pierce your very soul.",
+  "flags_raw": "46 136 -600 E",
+  "stats1_raw": "10 15 8 1d1+207 5d2+4",
+  "stats2_raw": "150 7126 0",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/91.mob"
+}

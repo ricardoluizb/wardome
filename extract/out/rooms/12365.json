@@ -1,0 +1,37 @@
+{
+  "id": 12365,
+  "zone_id": 122,
+  "name": "The Realm of Fire",
+  "description": "Downwards the tunnels twist, further into the depths of the mountain,\nheading towards its molten core, which is paradise to the cold hating\nfire giants. Footsteps echo all around you, as giants make their way\nthrough their subterranean lair, on business of their own. There are\nlittle decorations in this abode; the giants possess less skill than\nthe dwarves in stonemasonry, and less interest.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12367
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12366
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12364
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "A Small room",
   "description": "This is secret chamber allowing the Sultan direct access to his harem\nat any time he chooses.",
-  "header_raw": "54 d 0",
-  "flags_text": "d",
+  "header_raw": "54 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

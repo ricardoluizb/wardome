@@ -1,0 +1,38 @@
+{
+  "id": 2154,
+  "zone_id": 21,
+  "name": "Scrytin's Chamber of Doom",
+  "description": "This chamber is COVERED in blood.  The Arch-Demon Scrytin has made this foul\nplace his abode.  There is an Ivory door to the east.",
+  "header_raw": "21 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "ivory door",
+      "door_flag": 1,
+      "key": 2104,
+      "to": 2155
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door ebony",
+      "door_flag": 1,
+      "key": 2103,
+      "to": 2153
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "door ebony",
+      "description": "An ebony door is there."
+    },
+    {
+      "keywords": "ivory door",
+      "description": "There is an ivory door there."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/21.wld"
+}

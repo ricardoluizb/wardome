@@ -3,8 +3,8 @@
   "zone_id": 53,
   "name": "A Demolished Tomb",
   "description": "This tomb has been utterly destroyed by thieves and looters in search of\nthe treasures of the pharoahs.  Nothing of interest remains in this room,\nexcept a large stone coffin that leans against the western wall.",
-  "header_raw": "53 d 0",
-  "flags_text": "d",
+  "header_raw": "53 32776 0",
+  "flags_text": "32776",
   "sector": 0,
   "exits": [
     {
@@ -26,12 +26,12 @@
   ],
   "extra_descriptions": [
     {
-      "keywords": "coffin lid",
-      "description": "The coffin is sculpted into the form of a man, standing several heads above\nyou, and clad in the garments of pharoahs.  It has apparently been untouched\nby the ravages of time and the activities of looters.  Several markings on the \nside indicate spots where unsuccessful attempts were made to open the coffin.\n\nYou can't see any way to open it."
-    },
-    {
       "keywords": "man garments pharoah",
       "description": "As you look closer at the figure sculpted into the stone coffin you notice a\nsmall marking carved into its chest.  It looks like a scarab or small beetle\nwould fit into the small space, if properly sized.\n\nHmmm."
+    },
+    {
+      "keywords": "coffin lid",
+      "description": "The coffin is sculpted into the form of a man, standing several heads above\nyou, and clad in the garments of pharoahs.  It has apparently been untouched\nby the ravages of time and the activities of looters.  Several markings on the \nside indicate spots where unsuccessful attempts were made to open the coffin.\n\nYou can't see any way to open it."
     }
   ],
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/53.wld"

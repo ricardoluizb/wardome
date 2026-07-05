@@ -1,0 +1,12 @@
+{
+  "id": 731,
+  "alias": "citizen",
+  "short_desc": "the Citizen",
+  "long_desc": "A citizen is here, waiting in line.",
+  "detailed_desc": "The citizen looks at you with a flat stare.  You can see he's\nwondering if you'll butt in line.",
+  "flags_raw": "10 0 100 E",
+  "stats1_raw": "90 -35 -11 1d1+6120 5d19+86",
+  "stats2_raw": "1350 2808292 5",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

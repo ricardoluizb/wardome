@@ -1,0 +1,12 @@
+{
+  "id": 3413,
+  "alias": "oldstyle rock slug",
+  "short_desc": "the rock slug",
+  "long_desc": "A rock slug is slowly creeping along, leaving a slime trail behind it.",
+  "detailed_desc": "It is a large brownish slug.  Got any salt?  Didn't think so ...",
+  "flags_raw": "76 0 0 E",
+  "stats1_raw": "180 -82 -26 1d1+13680 5d37+132",
+  "stats2_raw": "2700 21231447 6",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/34.mob"
+}

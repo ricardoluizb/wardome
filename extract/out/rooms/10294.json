@@ -1,0 +1,61 @@
+{
+  "id": 10294,
+  "zone_id": 102,
+  "name": "Towards Dead End",
+  "description": "You are walking on a dizzy room, strings all around, going from blue\nto red, from black to white. Scattered against the walls you can see big\n\"ruby\" prints, which reads:\n\n\"I'm walking towards dead end, and I'm walking all alone,\nTwo steps ago I past insanity,\nThere's no starlight guiding my way out this downward death row\nSo now is the time, I have to go.\"",
+  "header_raw": "102 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10295
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10269
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10269
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10269
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10269
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10269
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

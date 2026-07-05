@@ -1,0 +1,21 @@
+{
+  "id": 14278,
+  "zone_id": 141,
+  "name": "In the Warp",
+  "description": "This is a forest.  You were sent very far back in time.  Before\nthere was a Britannia.  Almost before there was a Lord British. \nThis is the time of Mondain.  The first enemy that the Avatar\nmet.",
+  "header_raw": "141 64 0",
+  "flags_text": "64",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "The Time Warp leads you to another place.",
+      "keywords": "warp",
+      "door_flag": 2,
+      "key": 14116,
+      "to": 14279
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

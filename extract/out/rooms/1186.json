@@ -1,0 +1,21 @@
+{
+  "id": 1186,
+  "zone_id": 11,
+  "name": "&gM&wystica&Gl &gC&wav&Ge",
+  "description": "Ancient Cave of King Orc Kashtan, where he hides all you glory \nthem of passed times. Now tends as your owner son, Prince Orc Kashue,\nthat does your Cave training Center of your.",
+  "header_raw": "11 6660 0",
+  "flags_text": "6660",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1106
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

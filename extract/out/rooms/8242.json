@@ -1,0 +1,45 @@
+{
+  "id": 8242,
+  "zone_id": 82,
+  "name": "Down Town",
+  "description": "You are in the down town of the city, you can see here a small fountain,\nit look strange and you notice that it doesnt have water, insted it has\ntable wine. To the east you see a small magic shop, and the street has been\nornamented with some colorful papers that says \"whe have the best magic \nshop of all France.\", and to the west is a small miscellaneous shop.",
+  "header_raw": "82 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8239
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8243
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8244
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8298
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

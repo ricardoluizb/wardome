@@ -1,0 +1,37 @@
+{
+  "id": 6622,
+  "zone_id": 66,
+  "name": "The upper floor",
+  "description": "You are in the second floor of the Mansion.\nHere it is everything destroyed, the ground is destroyed\nby the time, and the walls are dirty of blood.  \nThere is also a corridor that takes for the east or west.",
+  "header_raw": "66 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6623
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6626
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6613
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/66.wld"
+}

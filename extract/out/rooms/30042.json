@@ -1,0 +1,21 @@
+{
+  "id": 30042,
+  "zone_id": 300,
+  "name": "A gallery",
+  "description": "A gallery full of exquisite treasures.  The soft pastel walls are lined with\npaintings and tapestries.  Busts, models and stunning sculptures take up the\nmajority of the floor space.  Despite the immense value some of these pieces\nmust be worth, you dare not take anything.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30040
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

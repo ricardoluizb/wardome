@@ -1,0 +1,29 @@
+{
+  "id": 17387,
+  "zone_id": 173,
+  "name": "The Scottish Highlands",
+  "description": "You have spent several days wandering in the Scottish highlands. You have \nspied the lassies tending the sheep, and several bands of wandering Scot \nraiders, which you have sensibly evaded. Up ahead, on the bluff rises a keep.\nYou are not certain you should go in.",
+  "header_raw": "173 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "More lassies and highlands",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17385
+    },
+    {
+      "dir": 4,
+      "description": "The keep on the bluff",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17390
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

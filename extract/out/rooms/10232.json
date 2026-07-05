@@ -1,0 +1,29 @@
+{
+  "id": 10232,
+  "zone_id": 102,
+  "name": "The Corridor",
+  "description": "You are in another stone silent corridor, which is basically very\nsimple, there is a single way to be followed, which is to the north.\nOr you also can come back to the hall.",
+  "header_raw": "102 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10234
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10215
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

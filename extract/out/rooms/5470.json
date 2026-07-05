@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "Alley",
   "description": "This is a dead end to the tiny alley.  There is an unusual amount of\nwear apparent on the ground.",
-  "header_raw": "54 a 1",
-  "flags_text": "a",
+  "header_raw": "54 1 1",
+  "flags_text": "1",
   "sector": 1,
   "exits": [
     {

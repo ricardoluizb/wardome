@@ -1,0 +1,45 @@
+{
+  "id": 2336,
+  "zone_id": 23,
+  "name": "Lost in the Mist",
+  "description": "You wander, lost, for what seems an eternity. Then....From nowhere....You see\nwhat appears to be trees and hills to the east. The mist itself thickens to\nthe west, while it grows thin to the east.",
+  "header_raw": "23 8388617 4",
+  "flags_text": "8388617",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2334
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2339
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2338
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2333
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

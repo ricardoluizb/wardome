@@ -1,0 +1,45 @@
+{
+  "id": 13237,
+  "zone_id": 132,
+  "name": "The Palace",
+  "description": "To the right and left are the rooms of Zonk and Zilch.  They both had the\nsame human father, but two different dragon mothers.  The King's chambers are\nto the north.",
+  "header_raw": "132 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "the King's section",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13240
+    },
+    {
+      "dir": 1,
+      "description": "Zilch's pad",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13238
+    },
+    {
+      "dir": 2,
+      "description": "the palace",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13234
+    },
+    {
+      "dir": 3,
+      "description": "Zonk's bedroom",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13236
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

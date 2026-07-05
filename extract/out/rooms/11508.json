@@ -1,0 +1,37 @@
+{
+  "id": 11508,
+  "zone_id": 115,
+  "name": "Tin Can Alley",
+  "description": "Be warned that this a part of the economically challenged portion of New\nSparta.  The vermin and stuff you find in here will not be pleasant to you rich\nand sheltered people.  You see the entrance to the thieves guild to the south.\nThe alley continues to the west.  Broadway lies to the east.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11503
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11514
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11515
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

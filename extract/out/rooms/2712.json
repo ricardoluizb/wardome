@@ -1,0 +1,45 @@
+{
+  "id": 2712,
+  "zone_id": 27,
+  "name": "The &gMaze &cof &rDeath&n",
+  "description": "Now you are lost...  The walls are huge and you feel like you will never get\noutta here.  You have the sensation of been in this place before...  It's like\nyou are walkin in circles.  It don't seems strange, 'cause you think the walls\nare always moving.",
+  "header_raw": "27 73 3",
+  "flags_text": "73",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2705
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2713
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2710
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2707
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

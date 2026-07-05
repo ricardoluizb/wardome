@@ -3,8 +3,8 @@
   "zone_id": 50,
   "name": "At The Foot Of The Rubble",
   "description": "You are at the bottom of a large pile of rubble.  A tunnel branches\noff to the north and east.",
-  "header_raw": "50 ad 5",
-  "flags_text": "ad",
+  "header_raw": "50 9 5",
+  "flags_text": "9",
   "sector": 5,
   "exits": [
     {

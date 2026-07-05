@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Hole",
   "description": "You are at a small hole in the floor.  Alas, you can only leave\nnorth because to leave down into the unknown, you must be able to\nfit through the hole, which is far too small for you!",
-  "header_raw": "40 ad 3",
-  "flags_text": "ad",
+  "header_raw": "40 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

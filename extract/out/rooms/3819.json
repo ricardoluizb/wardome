@@ -1,0 +1,21 @@
+{
+  "id": 3819,
+  "zone_id": 38,
+  "name": "A Bedroom",
+  "description": "You are in a makeshift bedroom.  The only thing in this room is a bed made of\na pile of rags.  The exit is to the east.",
+  "header_raw": "38 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3813
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

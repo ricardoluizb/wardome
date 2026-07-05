@@ -1,0 +1,45 @@
+{
+  "id": 13240,
+  "zone_id": 132,
+  "name": "The Waiting Room",
+  "description": "You are in the King's section of the palace.  Bodyguards interrogate you \nbefore you are allowed to enter the throne room.  As far as you can tell, exits\nare east and west.",
+  "header_raw": "132 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The wall looks like it's a different color here.",
+      "keywords": "door wall no",
+      "door_flag": 1,
+      "key": -1,
+      "to": 13242
+    },
+    {
+      "dir": 1,
+      "description": "the queen's bedroom",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13241
+    },
+    {
+      "dir": 2,
+      "description": "the palace",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13237
+    },
+    {
+      "dir": 3,
+      "description": "the King's throne room",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13239
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

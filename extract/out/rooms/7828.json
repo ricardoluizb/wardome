@@ -1,0 +1,29 @@
+{
+  "id": 7828,
+  "zone_id": 78,
+  "name": "A Bend in the Trail",
+  "description": "You are on the trail away from the Valley of the Elves.  The hills around you\nkeep this trail narrow.  The trail continues north and back west.",
+  "header_raw": "78 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a small valley north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7829
+    },
+    {
+      "dir": 3,
+      "description": "The trail goes back to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7827
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/78.wld"
+}

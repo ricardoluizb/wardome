@@ -1,0 +1,45 @@
+{
+  "id": 31616,
+  "zone_id": 316,
+  "name": "Dinner Room",
+  "description": "Its here where all are to eat your meals.",
+  "header_raw": "316 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "secret passage",
+      "door_flag": 1,
+      "key": 0,
+      "to": 31621
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 31617
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 31609
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "block5",
+      "door_flag": 1,
+      "key": 0,
+      "to": 31615
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/316.wld"
+}

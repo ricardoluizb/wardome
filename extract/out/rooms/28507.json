@@ -1,0 +1,50 @@
+{
+  "id": 28507,
+  "zone_id": 285,
+  "name": "The Square of Atlantis",
+  "description": "This appears to be the main square of Atlantis.  Small streets lead east \nand west. To the north, you see the gates to the city. You also notice a \nsmall store to the south.\n  A small sign hangs outside the store.",
+  "header_raw": "285 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28504
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28508
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28510
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28506
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "[]=========[]\n |  Equip  |\n |   Shop  |\n[]=========[]"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/285.wld"
+}

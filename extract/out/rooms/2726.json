@@ -1,0 +1,29 @@
+{
+  "id": 2726,
+  "zone_id": 27,
+  "name": "The Tobacco Garden",
+  "description": "The greatest tobacco in the world is growing here.  If only you were a\nsmoker...  Hobbit Road is back to the west.  Another part of the garden is to\nthe north.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2727
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2724
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

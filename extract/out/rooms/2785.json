@@ -1,0 +1,29 @@
+{
+  "id": 2785,
+  "zone_id": 27,
+  "name": "Ferny's Yard",
+  "description": "You are in a small yard that has been overgrown by grass and weeds.  A gate\nleads north to the main street of Bree.  A small, neglected path leads south to\nthe door of a house.  This Ferny character must be a real sloth!",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2783
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 2786
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

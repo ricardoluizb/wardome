@@ -3,8 +3,8 @@
   "zone_id": 51,
   "name": "A Long Hallway",
   "description": "You are in a long hallway lined with adamantite.  The walls are engraved\nwith pictures of elves and spiders.  The hallway continues east and west.  As\nyou look down the hallway you can make out one or two figures moving away from\nyou.\nTo the north is a door.",
-  "header_raw": "51 ad 0",
-  "flags_text": "ad",
+  "header_raw": "51 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

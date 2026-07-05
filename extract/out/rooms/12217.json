@@ -1,0 +1,29 @@
+{
+  "id": 12217,
+  "zone_id": 122,
+  "name": "Alfheim",
+  "description": "At this point a clear bubbling stream cuts across the path, which\ndiverts to the south accordingly to avoid the plesant obstruction.\nA variety of small fish swim in its clear flowing waters, oblivious\nto your presence. Occasionally a bird will flutter down to investigate\nthe wake caused by a fish passing close to the surface, then return,\ndisinterested, to the haven of its nest.",
+  "header_raw": "122 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12218
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12216
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 20021,
+  "zone_id": 200,
+  "name": "Main Room",
+  "description": "The bar continues along the length of the western wall.  An empty bottle with\nsome spare coppers in it lies on top of its polished surface; tip collection\nevidently.  The tables nearby seem mostly filled with people and food, the bar\nappears at times to be either packed, or merely elbow-to- elbow.  A lantern\nhanging from a rafter overhead casts shadows among the beerstains on the floor\nand gives the complexion of everyone around a sort of glow.  You feel...  \nComfortable here.",
+  "header_raw": "200 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20020
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20022
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20028
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/200.wld"
+}

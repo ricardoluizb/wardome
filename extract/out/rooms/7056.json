@@ -3,8 +3,8 @@
   "zone_id": 70,
   "name": "The Dark Hallway",
   "description": "You can't see much of this, even with a light.  The hallway goes into a\npassageway to the south.  A doorway leads west.",
-  "header_raw": "70 ad 1",
-  "flags_text": "ad",
+  "header_raw": "70 9 1",
+  "flags_text": "9",
   "sector": 1,
   "exits": [
     {

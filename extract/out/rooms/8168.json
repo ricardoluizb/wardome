@@ -1,0 +1,42 @@
+{
+  "id": 8168,
+  "zone_id": 81,
+  "name": "The Mess",
+  "description": "And it really IS a mess, too.  Bones of all sorts lie tramped into the\nsandy clay floor.  Often they still have quite a lot of meat left on\nthem. Goblins are quite apt to bite something and throw it away, \nthough it comes from a king's board.  Grotesque green-skinned warriors\nof all sizes and degrees of hideousness mill about, chewing on meat,\nwhose origins you do not wish to know. The east smells like a knacker's\nyard, when he is boiling down corpses.",
+  "header_raw": "81 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You hear loud shrieks and running feet to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8167
+    },
+    {
+      "dir": 1,
+      "description": "A foul stench and steam rolls from the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8169
+    },
+    {
+      "dir": 2,
+      "description": "More goblins eat to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8170
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "bones meat",
+      "description": "These bones all look somewhat decayed and smell very bad.  They don't \nwhet your appetite, that is certain.  Besides, they may be poisoned \nafter sitting around for so long."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

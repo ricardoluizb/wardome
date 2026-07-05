@@ -1,0 +1,29 @@
+{
+  "id": 6950,
+  "zone_id": 69,
+  "name": "On the Roof",
+  "description": "You are now on the roof of the old house.  The attic must have had a secret\npassage leading out here.  The night is still very stormy, as you try to walk\nas carefully as you can without fatally falling off.  That might hurt a little,\ndon't you agree?",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6951
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "wall",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6949
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

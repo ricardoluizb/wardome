@@ -1,0 +1,53 @@
+{
+  "id": 13072,
+  "zone_id": 130,
+  "name": "Corridor",
+  "description": "You are in a dark corridor, you can see three bronze doors to the\neast, north and south and a black wooden door to down.  The hall is to\nthe west.",
+  "header_raw": "130 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "Bronze Door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 13075
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "Bronze Door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 13073
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "Bronze Door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 13074
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13061
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "Black Wooden Door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 13076
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

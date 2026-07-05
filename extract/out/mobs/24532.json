@@ -1,0 +1,12 @@
+{
+  "id": 24532,
+  "alias": "king",
+  "short_desc": "the former king",
+  "long_desc": "A former king is here, fleeing divine wrath.",
+  "detailed_desc": "The former king is dressed in rags. He clutches\nfiercly to his crown, the last symbol of his\nauthority. You notice most of the stones in the\ncrown are missing. He blames his sins on his\ncorrupt ministers who ruined the kingdom.",
+  "flags_raw": "74 0 -400 E",
+  "stats1_raw": "125 -46 -11 1d1+5496 5d13+70",
+  "stats2_raw": "1875 6808983 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/245.mob"
+}

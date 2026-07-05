@@ -1,0 +1,12 @@
+{
+  "id": 12242,
+  "alias": "frost giant",
+  "short_desc": "a frost giant",
+  "long_desc": "A frost giant stomps past you.",
+  "detailed_desc": "The beards and hair of these creatures are as ice, glistening coldly\natop their pale blue skin all over their muscular, chilly torsos. Their\neyes glint with a low, but cunning and malicious, intelligence, and their\narms bulge with the strength of ten humans.",
+  "flags_raw": "104 1024 -1000 E",
+  "stats1_raw": "50 -13 -3 1d1+3000 5d6+60",
+  "stats2_raw": "750 584745 4",
+  "stats3_raw": "8 8 1 0 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/122.mob"
+}

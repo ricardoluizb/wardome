@@ -3,8 +3,8 @@
   "zone_id": 186,
   "name": "Another Turn",
   "description": "Hmmm... the passage turns south here.  You beginning to realize you\ncan easily lose your bearings if you aren't careful, and you don't think\nyou would like spending too much time here...",
-  "header_raw": "186 ad 0",
-  "flags_text": "ad",
+  "header_raw": "186 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

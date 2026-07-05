@@ -1,0 +1,29 @@
+{
+  "id": 29858,
+  "zone_id": 298,
+  "name": "Top of the Mountain",
+  "description": "You are in the top of the mountain, looking at the sky, you can feel a\npresence, try to use your intinty.",
+  "header_raw": "298 72 5",
+  "flags_text": "72",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29859
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29857
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/298.wld"
+}

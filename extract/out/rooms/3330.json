@@ -3,8 +3,8 @@
   "zone_id": 33,
   "name": "A Cavern",
   "description": "This natural cavern has been turned into a combination \noffice/storeroom.  A small brook rushes through the south \nwall, and flows back into the west wall through a tiny \nhole.  Boxes and crates are stacked against the walls, and \na beat up oaken desk stands near the door stacked with \npapers written upon by an unsteady hand.  Some large \nlanterns keep the place very well lighted.",
-  "header_raw": "33 d 0",
-  "flags_text": "d",
+  "header_raw": "33 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

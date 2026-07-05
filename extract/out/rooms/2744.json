@@ -1,0 +1,21 @@
+{
+  "id": 2744,
+  "zone_id": 27,
+  "name": "West Gate of Bree",
+  "description": "The small town of Bree stands before you.  Many travellers pass through here\ngoing to and from the Shire.  The road heads to the east, towards the main\nstreet of Bree.\nYou see the town of Bree to the east.",
+  "header_raw": "27 1 1",
+  "flags_text": "1",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": 2744,
+      "to": 2745
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

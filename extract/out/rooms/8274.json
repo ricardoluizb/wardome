@@ -1,0 +1,29 @@
+{
+  "id": 8274,
+  "zone_id": 82,
+  "name": "The Eastern Passage",
+  "description": "You continue in the eastern passage, and you have notice that this place\nis big, but not very intresting. The building has a romanic style, so that\nmeans there isnt many windows, and is more like a fortress. This place is\nnot a good place to live most of all because of the cold that is inside.",
+  "header_raw": "82 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8275
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8273
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

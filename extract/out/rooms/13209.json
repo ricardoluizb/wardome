@@ -1,0 +1,42 @@
+{
+  "id": 13209,
+  "zone_id": 132,
+  "name": "The Court",
+  "description": "You are in the heart of the city.  Many gatherings take place here for\nvarious reasons.  Tall town houses crowd the west side and the court continues\nnorth, east, and south.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "the court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13212
+    },
+    {
+      "dir": 1,
+      "description": "the court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13210
+    },
+    {
+      "dir": 2,
+      "description": "the court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13206
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "houses town",
+      "description": "These houses are big, very big."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

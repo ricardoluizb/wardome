@@ -1,0 +1,37 @@
+{
+  "id": 12384,
+  "zone_id": 122,
+  "name": "Niflheim",
+  "description": "Onwards the corpse-strewn path of bone contines, past blasted trees\nwhich support the weight of mutilated souls in their branches, who\ncry out for an end to this torment as you pass, an end that no one\nsave Hel herself can grant, and there is little hope of her doing so.\nThe flayed, limbless trunks of the damned flail about at your feet,\ndriven insane by the pain inflicted on their crippled forms.",
+  "header_raw": "122 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12382
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12383
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12387
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

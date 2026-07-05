@@ -1,0 +1,12 @@
+{
+  "id": 17334,
+  "alias": "bard",
+  "short_desc": "a bard",
+  "long_desc": "A bard is here, singing a sweet ballad.",
+  "detailed_desc": "The bard is dressed in silk leggings, a leather vest, and bright orange \nshirt.",
+  "flags_raw": "14 0 100 E",
+  "stats1_raw": "104 -32 -5 1d1+2904 5d11+40",
+  "stats2_raw": "1560 3262462 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/173.mob"
+}

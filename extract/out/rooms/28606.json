@@ -1,0 +1,38 @@
+{
+  "id": 28606,
+  "zone_id": 286,
+  "name": "The Dragon Village Gate",
+  "description": "Here the bridge ends before a massive, pearly-coloured gate beyond which\nyou can see a field of blackness filled with silvery snake-like tendrils,\nstars, and occasional flashes of of light.",
+  "header_raw": "286 1 5",
+  "flags_text": "1",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Through the gate you see a massive field of blackness that extends as far\nas you can see.",
+      "keywords": "gate",
+      "door_flag": 2,
+      "key": 28615,
+      "to": 28607
+    },
+    {
+      "dir": 2,
+      "description": "The bridge extends towards the Rainbow Dragon, which drops out of sight\nbelow you.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28605
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "gate",
+      "description": "You see a huge, glowing gate wrought from an incredibly hard translucent \nmaterial.  Each of the intricately carved bars of this mighty gate are about \nas thick as a man's wrist, rising from the floor to a height of forty feet.  \nA plaque is inset into the wall next to one side of the gate."
+    },
+    {
+      "keywords": "plaque",
+      "description": "The plaque reads: \n\n`Let this gate stand to protect mortal man for all time against the perils of\nthe outer .s of existence and the creatures fair and foul that dwell\nwithin.\n\n-Andersen`"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/286.wld"
+}

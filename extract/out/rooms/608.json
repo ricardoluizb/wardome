@@ -1,0 +1,29 @@
+{
+  "id": 608,
+  "zone_id": 6,
+  "name": "Learning how to Battle",
+  "description": "Good it is the time to  lives or time to die. \nArrived the most important hour, the hour of the Combat.\nWhen entering in Wardome Mud you received some equipments \nthat along the Time you will get you improve them.\nHowever in themoment they are  very important.\nAnd you will see because with the Master of the Battle.",
+  "header_raw": "6 262176 0",
+  "flags_text": "262176",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 609
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 607
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/6.wld"
+}

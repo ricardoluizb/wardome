@@ -1,0 +1,29 @@
+{
+  "id": 13507,
+  "zone_id": 135,
+  "name": "A Stone Tunnel",
+  "description": "This circular passage of stone gradually curves up to a place of\ngreat light and heat.",
+  "header_raw": "135 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13506
+    },
+    {
+      "dir": 4,
+      "description": "All you can see upwards in a great glare followed by gusts of hot wind.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13508
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

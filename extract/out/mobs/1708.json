@@ -1,0 +1,12 @@
+{
+  "id": 1708,
+  "alias": "ranger lord",
+  "short_desc": "the Lord of the Rangers",
+  "long_desc": "The Lord of the Rangers catches your eye.",
+  "detailed_desc": "",
+  "flags_raw": "14 8 400 E",
+  "stats1_raw": "200 -100 -50 1d1+21600 5d61+180",
+  "stats2_raw": "3000 34652576 10",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/16.mob"
+}

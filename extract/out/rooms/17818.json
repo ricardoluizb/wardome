@@ -1,0 +1,26 @@
+{
+  "id": 17818,
+  "zone_id": 178,
+  "name": "A Small Hut",
+  "description": "The hut is a mess!  Blood has stained the grass walls into a dark rich\ncrimson color.  Torn clothes and trash lie all around, and you think you\nsee a skeleton in the corner.",
+  "header_raw": "178 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see a small path.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17817
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "skeleton",
+      "description": "The skeleton still has a little flesh clinging to it and it is definitely\nhumanoid.  The skull has been cracked open, but it is otherwise undamaged,\nexcept by time."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 52,
   "name": "A Small Shack",
   "description": "This cramped dwelling could not have housed more than one person.  Now\nwith the back wall missing, it could hold many more.  Looking around you\nfind broken shelves and workbenches with various vials and pouches spilling\ncontents all across the floor.  This was possibly the magic shop of the\ncity.  The doorway to the east is blocked, making the only exit back west.",
-  "header_raw": "52 d 1",
-  "flags_text": "d",
+  "header_raw": "52 8 1",
+  "flags_text": "8",
   "sector": 1,
   "exits": [
     {

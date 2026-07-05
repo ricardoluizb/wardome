@@ -3,8 +3,8 @@
   "zone_id": 33,
   "name": "Stanneg Inn",
   "description": "This is a plainly decorated room, the main room of the\nStanneg Inn.  A large arch to the west leads to a common\nroom where food and drink can be ordered, and a set of\nrickety wooden stairs lead up to the rooms are.  A thread-\nbare rug lies in the middle of the floor, evidently well-\nloved by a cat or two from the quantity of hair on it.",
-  "header_raw": "33 d 0",
-  "flags_text": "d",
+  "header_raw": "33 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

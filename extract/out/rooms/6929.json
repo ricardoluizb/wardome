@@ -1,0 +1,37 @@
+{
+  "id": 6929,
+  "zone_id": 69,
+  "name": "Outside the Secret",
+  "description": "You have now exited the secret exit which has taken you outside of the\ndreaded house.  You can barely see anything, with all of this rain distracting\nyour eyes.  It is very dark outside, and lightning flashes nearby.  Thunder\nshortly follows, making a very loud \"BOOM\".  To the east is where the stairs\nlead up to the back deck.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6926
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "secret escape",
+      "door_flag": 2,
+      "key": 0,
+      "to": 6918
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "trapdoor",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6961
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

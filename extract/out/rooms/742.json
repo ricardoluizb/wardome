@@ -1,0 +1,30 @@
+{
+  "id": 742,
+  "zone_id": 7,
+  "name": "Benzaldehyde's Office",
+  "description": "This office is quite opulent.  The huge ebony desk in front of you\ncompletely dominates the room.  The desk is cluttered as the mind is\nsharp; Benzaldehyde is no fool.  A few pictures on the wall of family\nmembers show that Ben might have a nice side, but you suspect that\nthey are there just for show.  A few vicious exotic weapons are also\nhanging up, looking very sharp.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 741
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "pictures",
+      "description": "With a closer look, you realize the pictures are all of someone else's\nfamily."
+    },
+    {
+      "keywords": "weapons",
+      "description": "A closer examinations reveal the weapons are all junk."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

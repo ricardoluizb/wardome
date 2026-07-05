@@ -1,0 +1,12 @@
+{
+  "id": 613,
+  "alias": "beast",
+  "short_desc": "the beast",
+  "long_desc": "A beast tries to feed off of you.",
+  "detailed_desc": "It looks mean.  You'd better run.",
+  "flags_raw": "104 0 0 E",
+  "stats1_raw": "0 5 18 9d1+1 99d10+1",
+  "stats2_raw": "2 75 1651",
+  "stats3_raw": "0 8 0 0 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/6.mob"
+}

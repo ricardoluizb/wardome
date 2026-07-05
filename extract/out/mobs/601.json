@@ -1,0 +1,12 @@
+{
+  "id": 601,
+  "alias": "blob",
+  "short_desc": "the blob",
+  "long_desc": "The blob is here, waiting to eat you up.",
+  "detailed_desc": "He is big, he is bad.  You don't want to fight him when he isn't chained up.\nPerhaps now would be a good time to flee from him!!!  If you don't flee, you\nwould really suffer the consequences.",
+  "flags_raw": "16777290 8 0 E",
+  "stats1_raw": "0 1 20 10d1+1 18d10+1",
+  "stats2_raw": "0 15 196",
+  "stats3_raw": "0 8 0 0 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/6.mob"
+}

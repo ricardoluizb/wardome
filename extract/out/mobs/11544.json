@@ -1,0 +1,12 @@
+{
+  "id": 11544,
+  "alias": "fireman fire man",
+  "short_desc": "the fireman",
+  "long_desc": "A fireman is here, looking rather useless.",
+  "detailed_desc": "Well, the less skilled relatives of the Sparta executives needed a job\nsomewhere, so they wound up here.  Obviously, it is a very cushy job because\nthere are no real fires in New Sparta.",
+  "flags_raw": "10 40 200 E",
+  "stats1_raw": "47 -7 0 1d1+2064 5d5+38",
+  "stats2_raw": "705 433985 2",
+  "stats3_raw": "8 8 1 10 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

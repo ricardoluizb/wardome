@@ -1,0 +1,29 @@
+{
+  "id": 26615,
+  "zone_id": 266,
+  "name": "Inventary and equipment",
+  "description": "To look in your inventary, type 'i' or 'inventary'. To look\non your weapons, type 'eq'. To equip your body with the equipments\nthat are in your inventary, type : wear NAME OF EQ. Or wear all\nto equip your body with all possible equipments. \nTo equip a weapon, use the command wield. You have a short sword\nin your inventary, so, type : wield sword or wield short.\nType 'n' to continue.",
+  "header_raw": "266 1310720 0",
+  "flags_text": "1310720",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26616
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26614
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/266.wld"
+}

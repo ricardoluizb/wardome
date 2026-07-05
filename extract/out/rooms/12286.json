@@ -1,0 +1,29 @@
+{
+  "id": 12286,
+  "zone_id": 122,
+  "name": "Valaskialf",
+  "description": "Looming before you to the north, across a broad snowfield, is the\nimpressive abode of Odin, known to man and god alike as Valaskialf.\nIn here, Odin keeps his most treasured possessions and closest allies,\nas well as his legendary throne. Who knows what treasures may be found\nwithin these mighty wooden walls?",
+  "header_raw": "122 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12290
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12285
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

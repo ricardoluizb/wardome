@@ -1,0 +1,45 @@
+{
+  "id": 17608,
+  "zone_id": 176,
+  "name": "Impy Way",
+  "description": "You are on Impy Way.  To the east is Farmer's Market, and to the west is\nNyles' House of Ale.  Impy Way runs north and ends south of here.  You can hear\nthe sound of housewives gossiping at the market.",
+  "header_raw": "176 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Impy Way continues north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17605
+    },
+    {
+      "dir": 1,
+      "description": "You see the Farmer's Market.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17610
+    },
+    {
+      "dir": 2,
+      "description": "You see the end of Impy Way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17611
+    },
+    {
+      "dir": 3,
+      "description": "You see Nyles' House of Ale.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17609
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/176.wld"
+}

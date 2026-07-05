@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Mages' Courtyard",
   "description": "You enter a small tiled courtyard with a small fountain in the middle.\nAround the sides are four wrought iron benches with cushions where the\nmages of the land sit and exchange ideas.  To the west stands a two-story\ntower where the leader of the mages' guild performs his experiments.",
-  "header_raw": "54 e 1",
-  "flags_text": "e",
+  "header_raw": "54 16 1",
+  "flags_text": "16",
   "sector": 1,
   "exits": [
     {

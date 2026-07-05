@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "Alley",
   "description": "You are on a small alley between the repair shop and the general\nstore.  Nothing much here but small rodents and dust.",
-  "header_raw": "54 ac 1",
-  "flags_text": "ac",
+  "header_raw": "54 5 1",
+  "flags_text": "5",
   "sector": 1,
   "exits": [
     {

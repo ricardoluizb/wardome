@@ -1,0 +1,29 @@
+{
+  "id": 20109,
+  "zone_id": 201,
+  "name": "The Dining Hall",
+  "description": "Bravo! You found the dining place of the monks.  The room is empty except\nfor an extremely long dining table and some benches.  You hear some noises\ncoming from the south.",
+  "header_raw": "201 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A Side Court.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 20108
+    },
+    {
+      "dir": 2,
+      "description": "The Kitchen.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20110
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/201.wld"
+}

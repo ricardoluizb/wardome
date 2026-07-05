@@ -1,0 +1,29 @@
+{
+  "id": 29530,
+  "zone_id": 295,
+  "name": "Flying up the Cliffs",
+  "description": "You are traveling by a method which eluded the Achaeans besieging Troy-\nflight. If they could fly the war would have ended years ago. You chuckle\nat their misfortune and continue to travel. The walls lie to the east of you.\nBelow lies the wine-dark sea.",
+  "header_raw": "295 16777216 9",
+  "flags_text": "16777216",
+  "sector": 9,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29594
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29529
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/295.wld"
+}

@@ -4,9 +4,9 @@
   "short_desc": "Hanz the Henchman",
   "long_desc": "Hanz is here flexing his muscles and squeezing grapefruits.",
   "detailed_desc": "Hanz is no girlie man.  He is very muscular and looks as if he could\nlift a large dragon.",
-  "flags_raw": "bflm dhkp -300 S",
-  "stats1_raw": "12 7 4 5d10+120 2d8+4",
-  "stats2_raw": "1000 14000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "6186 33928 -300 E",
+  "stats1_raw": "10 1 -2 1d1+840 5d3+74",
+  "stats2_raw": "150 9798 7",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/9.mob"
 }

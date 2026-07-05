@@ -3,8 +3,8 @@
   "zone_id": 61,
   "name": "The Underground Hallway",
   "description": "This hallway is apparently one of the roots of the tree hollowed out.\nThe hall leads south to a room where you hear strange noises or you can\ngo up the steps.",
-  "header_raw": "61 ad 3",
-  "flags_text": "ad",
+  "header_raw": "61 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

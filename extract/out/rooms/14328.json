@@ -1,0 +1,45 @@
+{
+  "id": 14328,
+  "zone_id": 143,
+  "name": "The Palace Courtyard",
+  "description": "The extravagant courtyard is bathed in light from above. Several potted plants\nline the walls.",
+  "header_raw": "143 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The courtyard continues to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14332
+    },
+    {
+      "dir": 1,
+      "description": "The courtyard continues to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14327
+    },
+    {
+      "dir": 2,
+      "description": "The courtyard continues to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14331
+    },
+    {
+      "dir": 3,
+      "description": "A golden throne rests utop a small staircase to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14333
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

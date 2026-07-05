@@ -1,0 +1,29 @@
+{
+  "id": 9801,
+  "zone_id": 98,
+  "name": "Entrace of Shalyzaar temple.",
+  "description": "Here is the entrance of the temple of Shalysaar.  There is a guardian standing\nin front of the gate.",
+  "header_raw": "98 16777224 0",
+  "flags_text": "16777224",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 2,
+      "key": 9810,
+      "to": 9802
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 840
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/98.wld"
+}

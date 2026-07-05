@@ -1,0 +1,21 @@
+{
+  "id": 11590,
+  "zone_id": 115,
+  "name": "Melville's Restaurant",
+  "description": "This is the famous restaurant upstairs from the Cheers bar.  It is currently\nowned by the evil bald man, Jonathan Hill.  Although the company might be bad,\nyou are definitely assured to get a good meal.  If you aren't wearing a jacket\nand tie, you'd better leave fast before Mr.  Hill gets snotty and throws you\nout (but you can always steal their;mints!  ).  The Cheers Bar is downstairs.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11586
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

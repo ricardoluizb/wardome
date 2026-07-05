@@ -1,0 +1,29 @@
+{
+  "id": 7738,
+  "zone_id": 77,
+  "name": "Walking the Silvery Strand",
+  "description": "You are standing atop a silvery strand of light that twists and turns\nthrough the astral field.",
+  "header_raw": "77 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The strand of light twists and turns out of sight.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7739
+    },
+    {
+      "dir": 4,
+      "description": "You see the infinite expanse of the astral field.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7719
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/77.wld"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 17612,
+  "zone_id": 176,
+  "name": "Fields",
+  "description": "You are in a corn field.  You can't see far, since the corn stalks are\ntaller than you are.  You remember that the end of Impy Way is east of here, \nand you think you see a building to the north.  The field continues south and \nwest.",
+  "header_raw": "176 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You think you see a building north of here.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17616
+    },
+    {
+      "dir": 1,
+      "description": "You remember that the end of Impy Way is east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17611
+    },
+    {
+      "dir": 2,
+      "description": "You can make a path to the fields south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17613
+    },
+    {
+      "dir": 3,
+      "description": "You can make a path to the fields west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17615
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/176.wld"
+}

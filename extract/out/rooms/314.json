@@ -1,0 +1,29 @@
+{
+  "id": 314,
+  "zone_id": 3,
+  "name": "Outside Ofcol",
+  "description": "You are standing outside the village of Ofcol.\nThe village looks very small, but still a nice and safe place to stay.\nYou may enter the city to the east or journey towards the\nT-intersection in the southern direction.",
+  "header_raw": "3 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17601
+    },
+    {
+      "dir": 2,
+      "description": "Here you see the road go towards the intersection.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 313
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/3.wld"
+}

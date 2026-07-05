@@ -4,9 +4,9 @@
   "short_desc": "the djinn",
   "long_desc": "The djinn issues forth from the confines of a small lamp.",
   "detailed_desc": "The djinn is a mighty being formed from the air itself and frequently\nimprisoned in a small lamp, used to do the bidding of those who find him.\nHe smiles down at you congenially, arms folded across his blue-tinged \nskin, and strokes his goatee.",
-  "flags_raw": "abelnopqr dkp 600 S",
-  "stats1_raw": "28 -8 -6 28d28+280 6d6+12",
-  "stats2_raw": "60000 310000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "256027 33800 600 E",
+  "stats1_raw": "128 -44 -9 1d1+3576 5d13+50",
+  "stats2_raw": "1920 5923791 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/53.mob"
 }

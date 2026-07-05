@@ -1,0 +1,12 @@
+{
+  "id": 11242,
+  "alias": "rogue",
+  "short_desc": "a rogue",
+  "long_desc": "A svelte elven woman clad in a black catsuit slinks out of the shadows.",
+  "detailed_desc": "This evil woman was hired by the powers in control to keep an eye on\nthe library and destroy any unwanted intruders, a task she relishes in.",
+  "flags_raw": "46 32810 -675 E",
+  "stats1_raw": "40 -18 -9 1d1+3996 5d9+106",
+  "stats2_raw": "600 341495 9",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

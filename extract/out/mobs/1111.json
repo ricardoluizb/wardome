@@ -1,0 +1,12 @@
+{
+  "id": 1111,
+  "alias": "oldstyle shiriff",
+  "short_desc": "a shiriff",
+  "long_desc": "A shiriff of the Shire looks for signs of trouble.",
+  "detailed_desc": "The shiriff is over waist high, quite tall for a halfling.  His eyes are\never roaming, looking for signs of trouble from riff raff like you.  In\nhis belt is a thin dagger, and on his body he wears a suit of leather armor.\nThis is one halfling you don't want to mess with.",
+  "flags_raw": "76 0 150 E",
+  "stats1_raw": "100 -34 -8 1d1+4392 5d11+60",
+  "stats2_raw": "1500 3589522 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/11.mob"
+}

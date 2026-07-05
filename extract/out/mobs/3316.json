@@ -4,9 +4,9 @@
   "short_desc": "the bandit guard",
   "long_desc": "A bandit guard stands at attention here.",
   "detailed_desc": "He may be a bandit, but he's no slacker.  You wonder\nwho would be able to keep these bandits in line enough\nto pull a good guard duty...\n\n(boy is this guy DIRTY!!!)",
-  "flags_raw": "bjk 0 -500 S",
-  "stats1_raw": "18 3 -30 3d5+220 3d6+2",
-  "stats2_raw": "2400 32000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "1578 0 -500 E",
+  "stats1_raw": "188 -80 -22 1d1+9768 5d19+104",
+  "stats2_raw": "2820 22596268 3",
+  "stats3_raw": "8 8 1 2 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/33.mob"
 }

@@ -1,0 +1,29 @@
+{
+  "id": 193,
+  "zone_id": 1,
+  "name": "Dark Tunnel",
+  "description": "A think layer of dust covers the hewn floor.  The undisturbed state\nof things in the tunnel show that no one has passed through this way\nin ages.  The stone walls become more polished and smoother as one\nprogresses northwards.  A faint odor of incense and spices lingers in\nthe air.",
+  "header_raw": "1 321 0",
+  "flags_text": "321",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 194
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 192
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/1.wld"
+}

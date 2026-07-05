@@ -1,0 +1,21 @@
+{
+  "id": 11510,
+  "zone_id": 115,
+  "name": "By The Shore",
+  "description": "You are standing on a small public beach (unfortunately, it is NOT;a topless\nbeach) overlooking the river.  The Swedish Bikini Team is here shooting an Old\nMidgaard beer commercial (It is REALLY too bad;it is not a topless beach!  ).\nTo the north is the west end of the harbourplace.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11505
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

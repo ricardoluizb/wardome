@@ -1,0 +1,29 @@
+{
+  "id": 4700,
+  "zone_id": 47,
+  "name": "The Spiral Stair",
+  "description": "A spiral stone stair leads up higher in the mountain, spiraling into the\nspine of the Dra-Korrin.  A small glint of light can be seen far up the\nstair shaft.",
+  "header_raw": "47 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4701
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "stone",
+      "door_flag": 1,
+      "key": -1,
+      "to": 4772
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

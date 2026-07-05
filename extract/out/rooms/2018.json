@@ -1,0 +1,37 @@
+{
+  "id": 2018,
+  "zone_id": 20,
+  "name": "Knight's Room",
+  "description": "You Enter the KNIGHTS_ROOM As you walk in 2 guards point their spears at\nyou and ask, \"WHO GOES THERE?\"\" You show them your pass and walk in.  As you\nwalk in you see a large wooden round table with Castle Desires Emblem on\nit. About 20 wooden chairs surrounding the table. You take a seat and begin\nto chat. You notice a few golden thrones for the kings and queens and\nprinces and princesses. So, please, make yourself comfy and servants will come\nand serve you drinks.",
+  "header_raw": "20 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2019
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2017
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2016
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

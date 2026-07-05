@@ -1,0 +1,61 @@
+{
+  "id": 30019,
+  "zone_id": 300,
+  "name": "Street circle with fountain",
+  "description": "Within the middle of the street is a spectacular spouting fountain.  The\ngranite structure dominates this area which is actually a large street circle.\nTo the west rises a tall, stone tower that stands as a pinnacle in the town.  \nTo the south the road runs through an ancient shrine.  Further still, you can\nsee a lighthouse or beacon.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30021
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30020
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30007
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30032
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30017
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30051
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

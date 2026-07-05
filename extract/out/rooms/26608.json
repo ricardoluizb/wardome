@@ -1,0 +1,29 @@
+{
+  "id": 26608,
+  "zone_id": 266,
+  "name": "Interagindo com outros players",
+  "description": "Eh importante interagir com outras pessoas. Eles podem te ajudar em\nvarias sentidos. Para ver quem esta jogando esse mud digite '&Rwho&n'. Para\nmandar uma mensagem para todos digite '&Rnewbie Texto&n'.\nExemplo : Digite '&Rnewbie esse eh meu primeiro chat.&n'\n&w &n\nDigite '&Rn&n' para continuar a sua licao.",
+  "header_raw": "266 1310720 0",
+  "flags_text": "1310720",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26609
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26607
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/266.wld"
+}

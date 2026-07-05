@@ -1,0 +1,53 @@
+{
+  "id": 17693,
+  "zone_id": 176,
+  "name": "The Dragon Chamber",
+  "description": "You are in a vast chamber carved from gold and platinum.  Gems the size of\na man's fist protrude from the walls, ceiling, and the floor, making your step\npainful.  A vast open sky-light lets fresh air come in from the top.  In the\ncenter of this chamber, you see a great wealth of coins, and on top of that\npile of coins, you see a golden dragon squinting at you.  Exits lead to the\ncardinal directions to the anterooms.",
+  "header_raw": "176 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17691
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17694
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17695
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17692
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17696
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/176.wld"
+}

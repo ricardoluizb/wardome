@@ -1,0 +1,29 @@
+{
+  "id": 14157,
+  "zone_id": 141,
+  "name": "Justice Row",
+  "description": "The cobblestone road leads into a clearing of the woods to the\neast and to a pub to the west.  To your south you see a great\nCourthouse, but its entrance is on the east.",
+  "header_raw": "141 64 1",
+  "flags_text": "64",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14158
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14156
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

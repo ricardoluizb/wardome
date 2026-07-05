@@ -1,10 +1,10 @@
 {
   "id": 7311,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "The Stalagmite Cave",
   "description": "You are standing in a stalagmite cave.  Water is dripping from the walls.\nIt is very cold in here.",
-  "header_raw": "73 ad 2",
-  "flags_text": "ad",
+  "header_raw": "72 9 2",
+  "flags_text": "9",
   "sector": 2,
   "exits": [
     {

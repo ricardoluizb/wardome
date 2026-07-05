@@ -1,0 +1,21 @@
+{
+  "id": 20404,
+  "zone_id": 204,
+  "name": "Depository",
+  "description": "You are impressed, this room is enormous. You only try to imagine how the ants can fill it.\nThe only obvious exit is back the corridor.",
+  "header_raw": "204 32768 0",
+  "flags_text": "32768",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "deposit",
+      "door_flag": 1,
+      "key": 0,
+      "to": 20403
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/204.wld"
+}

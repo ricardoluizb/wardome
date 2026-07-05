@@ -1,0 +1,29 @@
+{
+  "id": 14101,
+  "zone_id": 141,
+  "name": "New Magincia Road",
+  "description": "This is the main road of New Magincia.  To the south the dirt\npath continues to the south and a huge gate to the north.",
+  "header_raw": "141 64 1",
+  "flags_text": "64",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "There is a huge gate.",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14100
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14102
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Tunnel",
   "description": "As you continue along this tunnel which heads deeper and deeper into\nthe earth, you notice that the tunnel must be a lot steeper than you\npreviously expected as there is a small rivulet of water gushing down\nthe one side of the tunnel.  The tunnel appears to extend straight to\nthe east for quite some distance.",
-  "header_raw": "40 acd 3",
-  "flags_text": "acd",
+  "header_raw": "40 13 3",
+  "flags_text": "13",
   "sector": 3,
   "exits": [
     {

@@ -3,8 +3,8 @@
   "zone_id": 60,
   "name": "Near A Large Tree In The Dense Forest",
   "description": "You are at the end of a small path leading through the dense forest.  The\ncrowns of the old trees leave the forest in an unreal twilight illumination.\nThis rough clearing is dominated by a very large oak tree, probably the\nlargest in this part of the forest.  The path leads back to the north.",
-  "header_raw": "60 c 3",
-  "flags_text": "c",
+  "header_raw": "60 4 3",
+  "flags_text": "4",
   "sector": 3,
   "exits": [
     {

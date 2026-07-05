@@ -1,0 +1,21 @@
+{
+  "id": 7351,
+  "zone_id": 72,
+  "name": "SAMSARA V WARP ROOM",
+  "description": "You was teleported by the power of Beliel's Pray",
+  "header_raw": "72 4 0",
+  "flags_text": "4",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7302
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/72.wld"
+}

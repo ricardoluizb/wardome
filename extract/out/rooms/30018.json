@@ -1,0 +1,21 @@
+{
+  "id": 30018,
+  "zone_id": 300,
+  "name": "A musty winery",
+  "description": "Wine is distilled and prepared in this musty workshop.  Locally grown\ngrapes--green ones because red will not grow here--are used to make refreshing,\nsparkling white wines.  Locked away in a cellar, the wines are left to mature.\nBeing immortal the elves have time and patience to wait.  A tub full of grapes\nis here ready to be stomped.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30017
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

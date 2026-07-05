@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "The Mazekeeper's Room",
   "description": "You have entered the Mazekeeper's room.  There are pictures of\nthe Queen with darts thrown at it.  Spraypainted on the wall are\nthings like 'the queen shall suffer' and 'Catholics Rule'.",
-  "header_raw": "65 ad 0",
-  "flags_text": "ad",
+  "header_raw": "65 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

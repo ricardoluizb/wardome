@@ -1,0 +1,29 @@
+{
+  "id": 9163,
+  "zone_id": 91,
+  "name": "Huge, gorgeous fountain.",
+  "description": "An enormous golden fountain is here.  You see swans, angels,\ngryphons and a host of other creatures in the fountain.  The\nfountain empties into a huge pool that looks quite inviting.",
+  "header_raw": "91 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9161
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9164
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

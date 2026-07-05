@@ -1,0 +1,29 @@
+{
+  "id": 13335,
+  "zone_id": 132,
+  "name": "A Dark Alley",
+  "description": "You hurry though a dark alley as many large shadows loom in the shadows.\nYou feel a hand reaching for your wallet, but you knock it away with the butt\nof your weapon.  The west market is east and the city wall is west.",
+  "header_raw": "132 1 1",
+  "flags_text": "1",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "west market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13334
+    },
+    {
+      "dir": 3,
+      "description": "west wall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13309
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

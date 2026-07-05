@@ -1,0 +1,45 @@
+{
+  "id": 13218,
+  "zone_id": 132,
+  "name": "The Court",
+  "description": "You are in the heart of the city.   There are so many officers and soldiers,\nthat it is hard to move.  You wonder why such a large assembly is taking place.\nPerhaps they are planning an invasion?  The center of the court is east, a \ndark alley is west and the court continues north and south.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "the court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13221
+    },
+    {
+      "dir": 1,
+      "description": "the court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13219
+    },
+    {
+      "dir": 2,
+      "description": "the court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13215
+    },
+    {
+      "dir": 3,
+      "description": "a dark alley",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13221
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

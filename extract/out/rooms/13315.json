@@ -1,0 +1,29 @@
+{
+  "id": 13315,
+  "zone_id": 132,
+  "name": "The South Wall",
+  "description": "You are traveling along the south wall.  The wall blocks your path south and\nhomes are north.  The southwest corner is west and the road continues east.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "south wall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13316
+    },
+    {
+      "dir": 3,
+      "description": "south wall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13313
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

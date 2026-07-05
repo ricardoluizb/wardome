@@ -3,8 +3,8 @@
   "zone_id": 53,
   "name": "Under The Hole",
   "description": "You are in a small chamber underneath the slippery hole, far below\nthe pyramid now.   The floor is strewn with bones.  To the south is a\nsmall rocky crevasse.",
-  "header_raw": "53 ad 0",
-  "flags_text": "ad",
+  "header_raw": "53 32777 0",
+  "flags_text": "32777",
   "sector": 0,
   "exits": [
     {

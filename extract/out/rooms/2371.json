@@ -1,0 +1,21 @@
+{
+  "id": 2371,
+  "zone_id": 23,
+  "name": "The Mahn-Tor General Store",
+  "description": "You enter a small store that is dark and cold. Old empty shelves line the\nwalls and snow blows across the dirty stone floor. It is evident that this\nstore was once used, but it is no more. A small doorway leads north out into\nthe chilling snow and wind.",
+  "header_raw": "23 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2368
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

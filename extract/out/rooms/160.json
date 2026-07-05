@@ -1,0 +1,29 @@
+{
+  "id": 160,
+  "zone_id": 1,
+  "name": "Halfway Up a 'Trail'",
+  "description": "You find your arms are getting way too tired to keep up the climbing the way\nyou've been.  The top of the cliff still seems miles away from where you are\nnow, and there is no spot on this cliff to just stop and take a break.  It\nmight be a good idea to climb back down, and take your chances in the forest.",
+  "header_raw": "1 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 161
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 104
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/1.wld"
+}

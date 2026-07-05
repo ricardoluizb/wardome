@@ -1,0 +1,29 @@
+{
+  "id": 17674,
+  "zone_id": 176,
+  "name": "A Hallway of the Golden Citadel",
+  "description": "You are in a hallway of the Golden Citadel.  Gold tiles cover the floors,\nand rich golden tapestries drape the walls.  Servants in golden livery pass you\nby peaceably.  Exits lead east and south.",
+  "header_raw": "176 32776 0",
+  "flags_text": "32776",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17675
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17677
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/176.wld"
+}

@@ -1,0 +1,50 @@
+{
+  "id": 315,
+  "zone_id": 3,
+  "name": "Gallow hill",
+  "description": "You walk in the grassy plains. On this little hill you can see\ntwo gallows, with rotting human tissue hanging from the ropes.\nThere is a sign here.",
+  "header_raw": "3 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The plains extend far to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 320
+    },
+    {
+      "dir": 1,
+      "description": "To the east you can see a small path in the plains.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 303
+    },
+    {
+      "dir": 2,
+      "description": "To the south you can see a small path in the plains.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 300
+    },
+    {
+      "dir": 3,
+      "description": "The plains extend far to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 318
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "The sign says:\n\n  Loyal citizens of Midgaard.  These are the earthly remains of the\n  two heretics 'Dim' and 'Gamma' of this world. Having forged them-\n  selves to immortality, they called upon themselves the anger of the\n  implementators.  Let this be a lesson too all .....\n\n                                    -- the Powers that Be."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/3.wld"
+}

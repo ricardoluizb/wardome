@@ -1,0 +1,12 @@
+{
+  "id": 614,
+  "alias": "bear",
+  "short_desc": "the bear",
+  "long_desc": "A bear is here growling at you.",
+  "detailed_desc": "The bear must be bigger than you!  It wants to rip your head off.",
+  "flags_raw": "104 0 0 E",
+  "stats1_raw": "0 4 18 9d1+1 81d10+1",
+  "stats2_raw": "0 60 1089",
+  "stats3_raw": "0 8 0 0 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/6.mob"
+}

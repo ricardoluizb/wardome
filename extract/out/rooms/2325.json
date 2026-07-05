@@ -1,0 +1,29 @@
+{
+  "id": 2325,
+  "zone_id": 23,
+  "name": "The edge of the sea",
+  "description": "You walk along the water's edge. The tide appears to have risen. Very little\ndebris is washed up on shore. You slip and slide as you tread across the\nslippery rocks that make up the shore. To the west you see a small altar that\nradiates blue light. The shore extends north away from the water's edge.",
+  "header_raw": "23 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2322
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2324
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

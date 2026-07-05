@@ -1,0 +1,45 @@
+{
+  "id": 524,
+  "zone_id": 5,
+  "name": "&cFirst Street&n",
+  "description": "You are standing on the street among the New Market Square and the\nexit of the city. Some shops seems to be working among the road.\nFor the south you find the favorite place for Magiciands and Magic\nAdepts. To the north you find the Wardome Weaponsmith.",
+  "header_raw": "5 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 529
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 525
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 533
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 523
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

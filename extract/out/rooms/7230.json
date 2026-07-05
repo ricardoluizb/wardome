@@ -3,8 +3,8 @@
   "zone_id": 72,
   "name": "The Damp Sewer",
   "description": "You are in a sewer drain with a funny damp substance on the floor, in the \nsubstance you see a lot of decay.  You see some odd scratches on the wall,\nas if from a gigantic rat.  Both to the east and west the pipe seems to run\ndown.",
-  "header_raw": "72 acd 3",
-  "flags_text": "acd",
+  "header_raw": "72 13 3",
+  "flags_text": "13",
   "sector": 3,
   "exits": [
     {

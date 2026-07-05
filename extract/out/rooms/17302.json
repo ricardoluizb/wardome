@@ -1,0 +1,54 @@
+{
+  "id": 17302,
+  "zone_id": 173,
+  "name": "The Crossroads of Arden",
+  "description": "You stand at the crossroads of two dusty paths. Dappled sunlight lights\nthe intersection and you notice horsesign in the dirt.The path continues\nin the north, south, east and west directions.",
+  "header_raw": "173 64 3",
+  "flags_text": "64",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A dirty trail",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17305
+    },
+    {
+      "dir": 1,
+      "description": "A dirty trail",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17306
+    },
+    {
+      "dir": 2,
+      "description": "A dirty trail",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17301
+    },
+    {
+      "dir": 3,
+      "description": "A dirty trail",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17303
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "horsesign",
+      "description": "You bend down and look at the hoofprints. The main traffic leads down the \neasterly path and southerly path."
+    },
+    {
+      "keywords": "dirt",
+      "description": "You look carefully at the dirt and notice in addition to the horsesign, \nthere is a trail of strange claw marks heading to the west."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

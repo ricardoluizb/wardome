@@ -1,0 +1,29 @@
+{
+  "id": 10419,
+  "zone_id": 104,
+  "name": "Room full of Body Parts.",
+  "description": "The room is filled with piles of arms, legs, heads, and other, unidentifiable\nparts of many different creatures. The stench is overwhelming. The body\nparts seem to wiggle and scream as you get closer. They are still alive!!",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "It is too dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10420
+    },
+    {
+      "dir": 2,
+      "description": "It is too dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10429
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

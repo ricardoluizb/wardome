@@ -1,0 +1,12 @@
+{
+  "id": 2737,
+  "alias": "mayor",
+  "short_desc": "Mayor",
+  "long_desc": "The hobbit mayor is here, looking busy.",
+  "detailed_desc": "The mayor of the hobbits is here, trying hard to look busy. He is a tough built\nhobbit, although he seems to be kind. He controls the hobbit village with a\nfirm but fair hand.",
+  "flags_raw": "8 0 0 E",
+  "stats1_raw": "75 -27 -8 1d1+5100 5d15+80",
+  "stats2_raw": "1125 1676658 5",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/27.mob"
+}

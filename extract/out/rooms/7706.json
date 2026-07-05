@@ -1,0 +1,38 @@
+{
+  "id": 7706,
+  "zone_id": 77,
+  "name": "The Astral Gate",
+  "description": "Here the bridge ends before a massive, pearly-coloured gate beyond which\nyou can see a field of blackness filled with silvery snake-like tendrils,\nstars, and occasional flashes of of light.",
+  "header_raw": "77 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Through the gate you see a massive field of blackness that extends as far\nas you can see.",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7707
+    },
+    {
+      "dir": 2,
+      "description": "The bridge extends towards the rainbow, which drops out of sight\nbelow you.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7705
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "gate",
+      "description": "You see a huge, glowing gate wrought from an incredibly hard translucent \nmaterial.  Each of the intricately carved bars of this mighty gate are about \nas thick as a man's wrist, rising from the floor to a height of forty feet.  \nA plaque is inset into the wall next to one side of the gate."
+    },
+    {
+      "keywords": "plaque",
+      "description": "The plaque reads: \n\nLet this gate stand to protect mortal man for all time against the perils of \nthe outer planes of existence and the creatures fair and foul that dwell within.\n\n(The Astral Plane and Githyanki Keep were written by Andersen.)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/77.wld"
+}

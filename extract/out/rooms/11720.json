@@ -1,0 +1,21 @@
+{
+  "id": 11720,
+  "zone_id": 117,
+  "name": "The left cemetery corner.",
+  "description": "This is the left corner of the cemetery, here you can see some tablets and\ntumbs in the ground.  The air has some strange smell that makes you remember\nrotten meat.  You can sense something odd here and don't have ideia what it is.",
+  "header_raw": "117 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11718
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/117.wld"
+}

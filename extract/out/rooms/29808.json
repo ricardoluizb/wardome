@@ -1,0 +1,29 @@
+{
+  "id": 29808,
+  "zone_id": 298,
+  "name": "The North-East corner",
+  "description": "In front of you is a large pile of stone.  The stone propobly comes from the\nmining in the tunnel.  To the south you see the campfire and the huge black\ndoor.  The straw beds is too the west.",
+  "header_raw": "298 9 3",
+  "flags_text": "9",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29809
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29807
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/298.wld"
+}

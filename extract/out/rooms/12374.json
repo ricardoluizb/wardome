@@ -1,0 +1,29 @@
+{
+  "id": 12374,
+  "zone_id": 122,
+  "name": "The Icy Caverns",
+  "description": "The ice tunnel continues, winding through the top of the mountain,\nheading presumably towards the master of this icy realm, the mighty\nfrost giant known as Thrym, sworn enemy of Aesir and Vanir, and he\nalso who it is predicted will with his armies one day slay Thor in\nbattle at Ragnarok. Actually, this is Thrym's skewed version of the\nprophecy; the Aesir believe Thor will fall at the hands of the world\nserpent, Jormungand.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12373
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12376
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

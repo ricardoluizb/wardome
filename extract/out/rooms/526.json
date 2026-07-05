@@ -1,0 +1,45 @@
+{
+  "id": 526,
+  "zone_id": 5,
+  "name": "&cFirst Street&n",
+  "description": "You are standing on the Firts Street continuity, you can see\ntwo stores from here, that helped in the survival of that world. For\nthe north you can see the bakery, and for the south the Pet Shop.\nLeading west you will be in the Market Square.",
+  "header_raw": "5 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 530
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 527
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 534
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 525
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

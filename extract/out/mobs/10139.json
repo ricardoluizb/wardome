@@ -1,0 +1,12 @@
+{
+  "id": 10139,
+  "alias": "The Blind Octopussy",
+  "short_desc": "Octopussy",
+  "long_desc": "The Octopussy attacks you with its slimy tentacles.",
+  "detailed_desc": "This is a creature from the deepest part of the pool.",
+  "flags_raw": "385066 1073743016 -750 E",
+  "stats1_raw": "150 -67 -21 1d1+11400 5d31+120",
+  "stats2_raw": "2250 12495398 6",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/101.mob"
+}

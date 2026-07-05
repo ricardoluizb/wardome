@@ -1,0 +1,29 @@
+{
+  "id": 9225,
+  "zone_id": 92,
+  "name": "Darkest Caves",
+  "description": "Your light doesn't even seem to work here.  Even magical light sources seem\nonly to illuminate about a foot ahead of you.  You suddenly realize that the\npath has descended quite a bit but you didn't notice before because of the\ndarkness.  You sense a great presence off to the east aways.",
+  "header_raw": "92 9 3",
+  "flags_text": "9",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9223
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9226
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/92.wld"
+}

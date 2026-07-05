@@ -1,0 +1,26 @@
+{
+  "id": 10495,
+  "zone_id": 104,
+  "name": "Small Altar",
+  "description": "This is the private prayer room of the high priest. a small altar stands\nagainst the west wall. Evil symbols and pictures are plastered everywhere.\nThe new propaganda posters for Hell are posted behind the altar.\nYou see a blackened hall to the east.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see a blackened hallway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10496
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "poster",
+      "description": "Don't go to heaven....They're boring....\n\n***GO TO HELL!!!****\n\nYou'll be damned if you don't  ;)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

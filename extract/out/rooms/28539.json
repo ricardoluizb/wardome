@@ -1,0 +1,26 @@
+{
+  "id": 28539,
+  "zone_id": 285,
+  "name": "Atlantis Master of Thieves",
+  "description": "This room is full of green. The furniture and all other items show the \ncolor of nature. The room smells of pine and forest odors. From the items \nhere, it appears as though a coralsman of some sorts lives here. A arena \ndoor leads east.",
+  "header_raw": "285 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "arena",
+      "door_flag": 2,
+      "key": 28505,
+      "to": 28537
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "arena",
+      "description": "It looks like it leads to the hall."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/285.wld"
+}

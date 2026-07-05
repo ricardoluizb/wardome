@@ -1,0 +1,29 @@
+{
+  "id": 24621,
+  "zone_id": 245,
+  "name": "The Euphrates",
+  "description": "You walk the bottom of the canyon where the Euphrates used to\nflow. All that is left of the once mighty river are scattered red pools of\nblood. A terrible wind blows from down stream, bringing the smell\nof death to your nose.",
+  "header_raw": "245 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The Euphrates",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24622
+    },
+    {
+      "dir": 3,
+      "description": "The Euphrates",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24620
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/245.wld"
+}

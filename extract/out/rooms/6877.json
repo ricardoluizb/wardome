@@ -1,0 +1,29 @@
+{
+  "id": 6877,
+  "zone_id": 67,
+  "name": "A black-bottom pool",
+  "description": "Swamp-like waters black as coal enclose you and wash like cold\nslime over every limb, each movement sending a chill coursing\nthrough from ears to toes. The smooth, dark bottom of the pool\nshows traces of faded ornamental designs, now mostly hidden and\neroded with moss and algae. Few can pin a name on the grotesque\nunderwater creatures that now make this their home.",
+  "header_raw": "67 9 8",
+  "flags_text": "9",
+  "sector": 8,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6878
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6879
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

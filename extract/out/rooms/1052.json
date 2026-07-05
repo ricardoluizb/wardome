@@ -1,0 +1,29 @@
+{
+  "id": 1052,
+  "zone_id": 10,
+  "name": "Falling Down The Bottomless Pit",
+  "description": "You continue your passage down this really deep pit.  You begin to\nwonder just how far from the top you are, and then think to yourself,\n'It doesn't really matter where the top is, I just want to know where\nthe bottom is.'  The pit seems to go on in darkness for a good long way.",
+  "header_raw": "10 9 9",
+  "flags_text": "9",
+  "sector": 9,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "The pit keeps going upwards as far as you can see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1051
+    },
+    {
+      "dir": 5,
+      "description": "The pit drops away below you, but you notice that there is a good deal\nof light coming from somewhere below.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1053
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 20024,
+  "zone_id": 200,
+  "name": "Kitchen",
+  "description": "You are standing in a more quiet area of the kitchen, where various supplies of\nflour, grain and meats are kept.  The kitchen extends south and west from here;\nthat's where the main clutter seems to be.  A steady thump-thump-thump from the\nnorth wall reminds you that the main room is where are the fun and action seems\nto be...",
+  "header_raw": "200 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20017
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20025
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20023
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/200.wld"
+}

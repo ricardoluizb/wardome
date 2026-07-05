@@ -1,0 +1,12 @@
+{
+  "id": 9011,
+  "alias": "ice wizard",
+  "short_desc": "the ice wizard",
+  "long_desc": "The Wizard of ice-molding looks grimly at YOU!!",
+  "detailed_desc": "He is of average height wearing a long silvery robe covered \nwith small ice crystals.  He seems very intelligent with his \nlong frosty beard and sharp looks.",
+  "flags_raw": "8413246 1064 -1000 E",
+  "stats1_raw": "200 -98 -33 1d1+19992 5d41+170",
+  "stats2_raw": "3000 32486789 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/90.mob"
+}

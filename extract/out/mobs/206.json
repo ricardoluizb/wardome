@@ -1,0 +1,12 @@
+{
+  "id": 206,
+  "alias": "hooper old man",
+  "short_desc": "Mr. Hooper",
+  "long_desc": "From behind the counter, Mr. Hooper smiles at you.",
+  "detailed_desc": "Mr. Hooper is the kind old man that runs this small general store.  He tips\nhis head forward and looks over his glasses at you.  'Is there something that\nyou would like to buy?', he asks politely.",
+  "flags_raw": "24652 0 0 E",
+  "stats1_raw": "80 -32 -11 1d1+6072 5d17+92",
+  "stats2_raw": "1200 2269243 6",
+  "stats3_raw": "8 8 0 1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/2.mob"
+}

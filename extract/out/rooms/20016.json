@@ -1,0 +1,29 @@
+{
+  "id": 20016,
+  "zone_id": 200,
+  "name": "Main Room",
+  "description": "The giant fireplace here sends a great amount of heat throughout the room.  \nThe sheer massiveness of the stone edifice and the literal bonfire inside makes\nyou give the area a clear way.  A few of the older and less human residents of\nthe inn seem to be enjoying these tables, however.",
+  "header_raw": "200 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20017
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20015
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/200.wld"
+}

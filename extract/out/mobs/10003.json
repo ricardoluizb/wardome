@@ -1,0 +1,12 @@
+{
+  "id": 10003,
+  "alias": "gypsy tsigani",
+  "short_desc": "a Tsigani Gypsy",
+  "long_desc": "A Tsigani Gypsy comes running at you, weapon drawn!",
+  "detailed_desc": "Of all the different gypsies in the castle, you had to find the one with a\ndeathwish...",
+  "flags_raw": "6248 0 -300 E",
+  "stats1_raw": "153 -56 -12 1d1+4284 5d16+60",
+  "stats2_raw": "2295 9925603 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/100.mob"
+}

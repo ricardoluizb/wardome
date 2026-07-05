@@ -1,0 +1,21 @@
+{
+  "id": 22029,
+  "zone_id": 220,
+  "name": "In the burial pit",
+  "description": "You are amongst a pile of dead bodies, flees and other deseases are\nswarming around, attracted to the smell of the dead.",
+  "header_raw": "220 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22028
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/220.wld"
+}

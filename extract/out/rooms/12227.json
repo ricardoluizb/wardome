@@ -1,0 +1,21 @@
+{
+  "id": 12227,
+  "zone_id": 122,
+  "name": "A Shrine",
+  "description": "This small chamber is barely large enough for three adults to stand\nside by side, before the flickering torchlit mural that depicts\nragnarok, the fate all Aesir cannot avoid, which will mean their dooms\nand the end of their reign. Such fatalism seems ignorant to you, but you\nhave little understanding of the ways of gods.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12226
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

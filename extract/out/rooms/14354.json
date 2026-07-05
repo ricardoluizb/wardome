@@ -1,0 +1,29 @@
+{
+  "id": 14354,
+  "zone_id": 143,
+  "name": "Dusty Passage",
+  "description": "The dust gets thicker.  The walls in this passage were poorly constructed,\nand the mortar is crumbling.",
+  "header_raw": "143 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Dust obscures your view to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14355
+    },
+    {
+      "dir": 3,
+      "description": "A dusty passage lies west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14352
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

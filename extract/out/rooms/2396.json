@@ -1,0 +1,29 @@
+{
+  "id": 2396,
+  "zone_id": 23,
+  "name": "The Master Bedroom",
+  "description": "This appears to be the master bedroom. A huge bed fills the rooms. Piles of\nfurs and other rich furnishings adorn the room. Candles are everywhere and\nthey help a huge fireplace light the room. The lavishness of the room\noverwhelms you. Beaded doorways lead north and west.",
+  "header_raw": "23 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2395
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2393
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

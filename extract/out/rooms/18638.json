@@ -3,8 +3,8 @@
   "zone_id": 186,
   "name": "A Large Room",
   "description": "You almost stumble as you enter this room... the sudden feeling of no\nwalls on either side of you makes you a bit nervous.  Suddenly you are\nvulnerable on all sides.  You can't even tell how big a room this is,\nbecause it extends to the east farther than you light will reach...",
-  "header_raw": "186 ad 0",
-  "flags_text": "ad",
+  "header_raw": "186 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

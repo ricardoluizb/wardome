@@ -1,0 +1,21 @@
+{
+  "id": 10124,
+  "zone_id": 101,
+  "name": "Arwen's Quarters",
+  "description": "You have entered a large, yet simple room.  A large window overlooks the\nforest, and the flowing curtains ripple in the light breeze.  A luxurious bed\nhas been pushed against the northern wall, and a finely crafted blanket has\nbeen arrayed across it.  An elegant rug covers the wooden floor, and\nintricately etched dark beams support the flat ceiling above you.  The scent of\nflowers and beauty fills the air.",
+  "header_raw": "101 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10123
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/101.wld"
+}

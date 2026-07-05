@@ -3,8 +3,8 @@
   "zone_id": 30,
   "name": "The Grunting Boar",
   "description": "You are standing in the bar.  The bar is set against the northern wall, old\narchaic writing, carvings and symbols cover its top.  A fireplace is built into\nthe western wall, and through the southeastern windows you can see the temple\nsquare.  This place makes you feel like home.\nA small sign with big letters is fastened to the bar.",
-  "header_raw": "30 dh 0",
-  "flags_text": "dh",
+  "header_raw": "30 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

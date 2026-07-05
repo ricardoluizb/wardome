@@ -1,0 +1,29 @@
+{
+  "id": 17845,
+  "zone_id": 178,
+  "name": "Lair",
+  "description": "You have entered a new lair in the fortress.  Anything could be lurking\naround the corner.",
+  "header_raw": "178 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17846
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17844
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

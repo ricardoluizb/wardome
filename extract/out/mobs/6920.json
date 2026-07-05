@@ -1,0 +1,12 @@
+{
+  "id": 6920,
+  "alias": "lost wizard",
+  "short_desc": "a lost wizard",
+  "long_desc": "A wizard is wandering around here.",
+  "detailed_desc": "This guy is bout half of your size and carries around a magic wand.  He\nkeeps mumbling to himself, and he probably is very lost.",
+  "flags_raw": "2090 8388616 -900 E",
+  "stats1_raw": "188 -74 -18 1d1+5256 5d19+74",
+  "stats2_raw": "2820 19884716 0",
+  "stats3_raw": "8 8 0 0 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/69.mob"
+}

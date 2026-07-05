@@ -1,0 +1,29 @@
+{
+  "id": 13553,
+  "zone_id": 135,
+  "name": "The Altar Of Annihilation",
+  "description": "You stand before the horrific Altar of Annihilation where the magic\nand power of extinguishment and dissolution are full explored.  You\nfeel the countless ceremonies of extinction performed here, like a\ngloom that pervades the altar, which looks like a huge rib cage\ncentered with a demon's skull.  Before the altar is a black iron\ngrating covering a dark pit where the ebb of life is glorified in\nsacrifice.",
+  "header_raw": "135 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door doors coffin",
+      "door_flag": 1,
+      "key": -1,
+      "to": 13552
+    },
+    {
+      "dir": 5,
+      "description": "You can't see much, but you don't like the little you do see.",
+      "keywords": "grating grate",
+      "door_flag": 2,
+      "key": 13505,
+      "to": 13554
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

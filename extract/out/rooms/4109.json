@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Golden Cave",
   "description": "You are standing in what appears to be the middle of the western\nwall of this large cavern.  The cave is lit by the eerie, soft, golden\nlight which looks to be emanating from the walls themselves.  The cave\nitself is enormous, extending quite a distance to the east, south,\nand north.",
-  "header_raw": "40 d 1",
-  "flags_text": "d",
+  "header_raw": "40 8 1",
+  "flags_text": "8",
   "sector": 1,
   "exits": [
     {

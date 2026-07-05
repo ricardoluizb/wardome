@@ -3,8 +3,8 @@
   "zone_id": 50,
   "name": "A Tunnel Intersection",
   "description": "The tunnel branches off to the north and south.",
-  "header_raw": "50 ad 7",
-  "flags_text": "ad",
+  "header_raw": "50 9 7",
+  "flags_text": "9",
   "sector": 7,
   "exits": [
     {

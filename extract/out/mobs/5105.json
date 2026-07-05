@@ -4,9 +4,9 @@
   "short_desc": "the drow master",
   "long_desc": "A drow master stares at you angrily.",
   "detailed_desc": "The drow master is ALWAYS ready for a fight.",
-  "flags_raw": "bflm dk -1000 S",
-  "stats1_raw": "21 0 0 1d12+248 18d1+4",
-  "stats2_raw": "10000 60000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "6186 1032 -1000 E",
+  "stats1_raw": "38 1 4 1d1+792 5d4+14",
+  "stats2_raw": "570 198330 0",
+  "stats3_raw": "8 8 1 3 1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/51.mob"
 }

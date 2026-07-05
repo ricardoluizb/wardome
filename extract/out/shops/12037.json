@@ -10,7 +10,10 @@
   ],
   "profit_buy": 1.75,
   "profit_sell": 0.6,
-  "buy_types": [],
+  "buy_types": [
+    "1",
+    "8"
+  ],
   "messages": [
     "%s We don't have that item on stock.",
     "%s I don't think you have that.",
@@ -32,5 +35,5 @@
     0,
     0
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/shp/120.shp"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/120.shp"
 }

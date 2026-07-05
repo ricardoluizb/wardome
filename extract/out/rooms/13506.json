@@ -1,0 +1,50 @@
+{
+  "id": 13506,
+  "zone_id": 135,
+  "name": "A Junction",
+  "description": "You are in a four way junction.  The dragon's throat continues east\nand west, but by squeezing under some stone flaps you can make out\ntunnels leading north and south.",
+  "header_raw": "135 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You peer under the petrified flap and see a faint light amid darkness.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13507
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13555
+    },
+    {
+      "dir": 2,
+      "description": "You peer under the petrified flap and see a faint light amid darkness.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13510
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13505
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "flaps flap",
+      "description": "Who can say which part of draconian anatomy this might be?"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

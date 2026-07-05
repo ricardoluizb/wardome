@@ -1,0 +1,29 @@
+{
+  "id": 29968,
+  "zone_id": 298,
+  "name": "Army Logistics",
+  "description": "There are elves running to and from everywhere in here!  All that you can hear\nis the rustling of paper over a background buzz of voices.  One of the clerks\nshouts something at you, and goes right back into his work.  From the amount of\npaper being processed in here, you'd think that they were doing logistics for\nall of Middle-Earth, not just for an army!",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29969
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29966
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

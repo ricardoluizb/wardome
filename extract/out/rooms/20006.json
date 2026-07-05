@@ -1,0 +1,29 @@
+{
+  "id": 20006,
+  "zone_id": 200,
+  "name": "Near a Large Building",
+  "description": "This is a small, outdoors 'alley' formed by the Wayhouse's stone walls to the\nwest, and the wooden planked walls of the stable to the east.  The path around\nthe building leads north and south of here.",
+  "header_raw": "200 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20007
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20005
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/200.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 8236,
+  "zone_id": 82,
+  "name": "The Western Room Of The Second Floor",
+  "description": "You are in what looks to be a room, but their ist any door or wall here, you\nsee a huge stone statue with the shape of a winged demon, it is a gargoyle.\nFrom here you can see down and see the beautiful city, but you dont have the\nperfecview, because you only see the forest at the south of the city.",
+  "header_raw": "82 64 0",
+  "flags_text": "64",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8232
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 62,
   "name": "A Tunnel",
   "description": "This section of man-made tunnel heads north from here,\ndoors on either side.  A few glowing spots on the ceiling \nilluminate the area to almost a daylight level.  From the \nnorth you hear some horrible cries of pain and anguish \nthat make you cringe inside and think twice about heading \nin that direction.",
-  "header_raw": "62 d 0",
-  "flags_text": "d",
+  "header_raw": "62 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

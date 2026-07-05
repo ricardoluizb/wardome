@@ -3,8 +3,8 @@
   "zone_id": 71,
   "name": "Under The Pit",
   "description": "You stand in a completely dark cavern leading west.  The wall looks\nweird here.",
-  "header_raw": "71 ad 0",
-  "flags_text": "ad",
+  "header_raw": "71 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

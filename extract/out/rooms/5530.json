@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Mercenaries' Guild",
   "description": "This guild is frowned upon by most of the population of New Thalos,\nbut the laws of supply and demand are irresistable.  People come here\nwhen they feel unable or are unwilling to fight their own battles.  For\na small fee you may hire a henchman.",
-  "header_raw": "54 d 0",
-  "flags_text": "d",
+  "header_raw": "54 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

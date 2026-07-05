@@ -1,0 +1,374 @@
+{
+  "id": 205,
+  "name": "Wardome - The Termite Hill",
+  "header": {
+    "raw": "20599 30 2 1 -1",
+    "min_room": 20599,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20502,
+        40,
+        20509
+      ],
+      "comment": "(Nymph)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20503,
+        40,
+        20509
+      ],
+      "comment": "(Termine Worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20504,
+        1,
+        20509
+      ],
+      "comment": "(Termites King)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20509,
+        4,
+        2
+      ],
+      "comment": "(The Intersection)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20501,
+        0,
+        1
+      ],
+      "comment": "(Base of the Termite Hill)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20508,
+        5,
+        1
+      ],
+      "comment": "(Entrance)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20501,
+        3,
+        20508
+      ],
+      "comment": "(Termine Guardian)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20501,
+        3,
+        20508
+      ],
+      "comment": "(Termine Guardian)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20501,
+        3,
+        20508
+      ],
+      "comment": "(Termine Guardian)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20505,
+        40,
+        20525
+      ],
+      "comment": "(Termine Soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20505,
+        40,
+        20525
+      ],
+      "comment": "(Termine Soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20505,
+        40,
+        20523
+      ],
+      "comment": "(Termine Soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20505,
+        40,
+        20523
+      ],
+      "comment": "(Termine Soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20505,
+        40,
+        20524
+      ],
+      "comment": "(Termine Soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20505,
+        40,
+        20524
+      ],
+      "comment": "(Termine Soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20505,
+        40,
+        20526
+      ],
+      "comment": "(Termine Soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20505,
+        40,
+        20526
+      ],
+      "comment": "(Termine Soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20505,
+        40,
+        20513
+      ],
+      "comment": "(Termine Soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20505,
+        40,
+        20513
+      ],
+      "comment": "(Termine Soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20505,
+        40,
+        20510
+      ],
+      "comment": "(Termine Soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20505,
+        40,
+        20510
+      ],
+      "comment": "(Termine Soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20505,
+        40,
+        20512
+      ],
+      "comment": "(Termine Soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20505,
+        40,
+        20512
+      ],
+      "comment": "(Termine Soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20505,
+        40,
+        20511
+      ],
+      "comment": "(Termine Soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20505,
+        40,
+        20511
+      ],
+      "comment": "(Termine Soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20502,
+        40,
+        20514
+      ],
+      "comment": "(Nymph)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20503,
+        40,
+        20514
+      ],
+      "comment": "(Termine Worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20502,
+        40,
+        20516
+      ],
+      "comment": "(Nymph)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20503,
+        40,
+        20516
+      ],
+      "comment": "(Termine Worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20502,
+        40,
+        20515
+      ],
+      "comment": "(Nymph)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20503,
+        40,
+        20515
+      ],
+      "comment": "(Termine Worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20502,
+        40,
+        20517
+      ],
+      "comment": "(Nymph)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20503,
+        40,
+        20517
+      ],
+      "comment": "(Termine Worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20502,
+        40,
+        20518
+      ],
+      "comment": "(Nymph)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20503,
+        40,
+        20518
+      ],
+      "comment": "(Termine Worker)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20527,
+        5,
+        2
+      ],
+      "comment": "(The Intersection)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/205.zon"
+}

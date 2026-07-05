@@ -1,0 +1,37 @@
+{
+  "id": 4732,
+  "zone_id": 47,
+  "name": "Duergar Outcamp",
+  "description": "This is a large cavern that stinks of decay and death.  To the north there is\na rather large hut, while to the west there is a small fire and several big\nboulders.",
+  "header_raw": "47 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4733
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4729
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4735
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

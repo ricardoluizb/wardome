@@ -1,0 +1,21 @@
+{
+  "id": 6933,
+  "zone_id": 69,
+  "name": "A Closet",
+  "description": "This is a closet of the old house, which has a few pieces of clothing\nhanging in it, with nothing else there.  It is very dark inside here, making it\na very frightening place to be in.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "closet door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6932
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

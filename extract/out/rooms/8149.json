@@ -1,0 +1,21 @@
+{
+  "id": 8149,
+  "zone_id": 81,
+  "name": "The Treasury",
+  "description": "Hey! You're not supposed to be in here! Get out!",
+  "header_raw": "81 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "You better leave now!",
+      "keywords": "",
+      "door_flag": 2,
+      "key": 8110,
+      "to": 8126
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 728,
+  "zone_id": 7,
+  "name": "Moon Gate Road, West",
+  "description": "The starlight gives this section of Moon Gate Road a strangely\nsurreal aspect, as if something were missing you can't put your finger\non.  There's a few shops along this road, but they don't look terribly\ninteresting under this aspect.  Looking around, you notice the\nentrance to the city graveyard to the south.",
+  "header_raw": "7 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 727
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 848
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 729
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

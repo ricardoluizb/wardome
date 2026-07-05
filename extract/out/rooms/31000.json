@@ -1,0 +1,29 @@
+{
+  "id": 31000,
+  "zone_id": 310,
+  "name": "Entrance to The Etna Mountain",
+  "description": "This is the entrance to the Etna Mountain, the mountain is huge,\nand its peak pass the clouds, probably touch the sky. The Titans used\nthis mountain to climb the sky and depose Jupiter. Here is the Guardian\nprotecting the mountain from invaders.\nExits goes Up and DOWN ????.",
+  "header_raw": "310 4736 1",
+  "flags_text": "4736",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/310.wld"
+}

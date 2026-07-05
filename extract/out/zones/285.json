@@ -1,0 +1,1224 @@
+{
+  "id": 285,
+  "name": "City of Atlantis",
+  "header": {
+    "raw": "28599 150 1 1",
+    "min_room": 28599,
+    "top_room": 150,
+    "lifespan": 1,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28501,
+        3,
+        28502
+      ],
+      "comment": "(the Atlantis Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28519,
+        10,
+        16
+      ],
+      "comment": "(coral dagger)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        28502,
+        2,
+        1
+      ],
+      "comment": "(The gates of the City of Atlantis)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28500,
+        5,
+        28503
+      ],
+      "comment": "(the Atlantis Citizen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28518,
+        35,
+        16
+      ],
+      "comment": "(Trident)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28500,
+        5,
+        28507
+      ],
+      "comment": "(the Atlantis Citizen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28518,
+        35,
+        16
+      ],
+      "comment": "(Trident)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28500,
+        5,
+        28505
+      ],
+      "comment": "(the Atlantis Citizen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28518,
+        35,
+        16
+      ],
+      "comment": "(Trident)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28500,
+        5,
+        28504
+      ],
+      "comment": "(the Atlantis Citizen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28518,
+        35,
+        16
+      ],
+      "comment": "(Trident)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28500,
+        5,
+        28510
+      ],
+      "comment": "(the Atlantis Citizen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28518,
+        35,
+        16
+      ],
+      "comment": "(Trident)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28501,
+        3,
+        28508
+      ],
+      "comment": "(the Atlantis Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28519,
+        10,
+        16
+      ],
+      "comment": "(coral dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28501,
+        3,
+        28506
+      ],
+      "comment": "(the Atlantis Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28519,
+        10,
+        16
+      ],
+      "comment": "(coral dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28502,
+        3,
+        28507
+      ],
+      "comment": "(the Atlantis Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28523,
+        15,
+        5
+      ],
+      "comment": "(a coral chainmail)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28502,
+        3,
+        28516
+      ],
+      "comment": "(the Atlantis Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28523,
+        15,
+        5
+      ],
+      "comment": "(a coral chainmail)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28502,
+        3,
+        28518
+      ],
+      "comment": "(the Atlantis Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28523,
+        15,
+        5
+      ],
+      "comment": "(a coral chainmail)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28503,
+        1,
+        28517
+      ],
+      "comment": "(the Atlantis Gatekeeper)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        28501,
+        1,
+        -1
+      ],
+      "comment": "(the Keep key)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        28517,
+        1,
+        2
+      ],
+      "comment": "(Before the Keep of Atlantis)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        28519,
+        3,
+        2
+      ],
+      "comment": "(The entryway to the Keep of Atlantis)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28504,
+        2,
+        28520
+      ],
+      "comment": "(the High Atlantis Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28520,
+        15,
+        10
+      ],
+      "comment": "(a pair of blue coral vambraces)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28504,
+        2,
+        28519
+      ],
+      "comment": "(the High Atlantis Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28520,
+        15,
+        10
+      ],
+      "comment": "(a pair of blue coral vambraces)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28505,
+        2,
+        28523
+      ],
+      "comment": "(the Royal Atlantis Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28521,
+        10,
+        7
+      ],
+      "comment": "(a pair of red coral greaves)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28505,
+        2,
+        28522
+      ],
+      "comment": "(the Royal Atlantis Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28521,
+        10,
+        7
+      ],
+      "comment": "(a pair of red coral greaves)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28506,
+        2,
+        28525
+      ],
+      "comment": "(the Elite Atlantis Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28522,
+        5,
+        6
+      ],
+      "comment": "(a coral visor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28506,
+        2,
+        28525
+      ],
+      "comment": "(the Elite Atlantis Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28522,
+        5,
+        6
+      ],
+      "comment": "(a coral visor)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        28510,
+        1,
+        -1
+      ],
+      "comment": "(a Runed key)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        28525,
+        1,
+        2
+      ],
+      "comment": "(The secret hallway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        28526,
+        3,
+        2
+      ],
+      "comment": "(Entry to the Atlantis Chambers)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28507,
+        5,
+        28533
+      ],
+      "comment": "(Atlantis Woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28507,
+        5,
+        28533
+      ],
+      "comment": "(Atlantis Woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28507,
+        5,
+        28533
+      ],
+      "comment": "(Atlantis Woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28507,
+        5,
+        28533
+      ],
+      "comment": "(Atlantis Woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28507,
+        5,
+        28533
+      ],
+      "comment": "(Atlantis Woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28508,
+        1,
+        28535
+      ],
+      "comment": "(the Atlantis Ranger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28509,
+        1,
+        28527
+      ],
+      "comment": "(the Atlantis Holy Kepper)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28562,
+        1,
+        13
+      ],
+      "comment": "(a rune backpack)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        28502,
+        1,
+        28562
+      ],
+      "comment": "(a rune)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        28503,
+        1,
+        28562
+      ],
+      "comment": "(a rune)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        28504,
+        1,
+        28562
+      ],
+      "comment": "(a rune)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        28505,
+        1,
+        28562
+      ],
+      "comment": "(a rune)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        28506,
+        1,
+        28562
+      ],
+      "comment": "(a rune)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        28507,
+        1,
+        28562
+      ],
+      "comment": "(a rune)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        28508,
+        1,
+        28562
+      ],
+      "comment": "(a rune)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        28509,
+        1,
+        28562
+      ],
+      "comment": "(a rune)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        28528,
+        1,
+        2
+      ],
+      "comment": "(The guarded hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        28528,
+        3,
+        2
+      ],
+      "comment": "(The guarded hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        28529,
+        1,
+        2
+      ],
+      "comment": "(The guarded hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        28529,
+        3,
+        2
+      ],
+      "comment": "(The guarded hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        28532,
+        1,
+        2
+      ],
+      "comment": "(The guarded hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        28532,
+        3,
+        2
+      ],
+      "comment": "(The guarded hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        28537,
+        1,
+        2
+      ],
+      "comment": "(The end of the guarded hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        28538,
+        3,
+        2
+      ],
+      "comment": "(Atlantis Master of Gladiator)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28563,
+        5,
+        16
+      ],
+      "comment": "(Gothic Kris)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28510,
+        1,
+        28512
+      ],
+      "comment": "(Atlantis Master of Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28525,
+        5,
+        5
+      ],
+      "comment": "(A coral armor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28526,
+        5,
+        7
+      ],
+      "comment": "(a pair of coral greaves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28527,
+        5,
+        10
+      ],
+      "comment": "(A pair of black coral vambraces)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28528,
+        3,
+        16
+      ],
+      "comment": "(the holy atlantis Maul)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28511,
+        10,
+        9
+      ],
+      "comment": "(A pair of Atlantis holy gauntlets)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28511,
+        1,
+        28513
+      ],
+      "comment": "(Atlantis Master of Mages)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28529,
+        20,
+        12
+      ],
+      "comment": "(a pair of coral cloak)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28530,
+        15,
+        4
+      ],
+      "comment": "(a coral neck plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28531,
+        10,
+        11
+      ],
+      "comment": "(The large coral shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28532,
+        3,
+        16
+      ],
+      "comment": "(a coral short sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28512,
+        5,
+        9
+      ],
+      "comment": "(a pair of spiked gauntlets)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28512,
+        1,
+        28514
+      ],
+      "comment": "(Atlantis Master of Clerics)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28533,
+        10,
+        6
+      ],
+      "comment": "(a coral helmet)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28534,
+        15,
+        4
+      ],
+      "comment": "(a planctum magic cap)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28535,
+        20,
+        11
+      ],
+      "comment": "(a huge shell)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28536,
+        3,
+        16
+      ],
+      "comment": "(a huge coral)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28513,
+        5,
+        5
+      ],
+      "comment": "(a coral breast plate)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28513,
+        1,
+        28531
+      ],
+      "comment": "(GodZilla)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28537,
+        10,
+        6
+      ],
+      "comment": "(the 3 gems helmet)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28538,
+        5,
+        2
+      ],
+      "comment": "(a gem ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28539,
+        5,
+        12
+      ],
+      "comment": "(A holy water cloak)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28540,
+        3,
+        16
+      ],
+      "comment": "(an aquamarin rune)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28514,
+        1,
+        28540
+      ],
+      "comment": "(Avatar of Atlantis)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28541,
+        15,
+        12
+      ],
+      "comment": "(a heavy coral robe)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28542,
+        20,
+        17
+      ],
+      "comment": "(the rune of restore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28543,
+        3,
+        16
+      ],
+      "comment": "(a coral hammer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28544,
+        15,
+        4
+      ],
+      "comment": "(the andromeda holy symbol)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28524,
+        5,
+        3
+      ],
+      "comment": "(a pearl broach)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28515,
+        1,
+        28534
+      ],
+      "comment": "(Atlantis Generalof War)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28545,
+        10,
+        1
+      ],
+      "comment": "(the death ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28546,
+        10,
+        8
+      ],
+      "comment": "(Aquaboots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28547,
+        10,
+        12
+      ],
+      "comment": "(Holy poseidon protection)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28515,
+        10,
+        15
+      ],
+      "comment": "(a indestructible bracelet)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28516,
+        1,
+        28539
+      ],
+      "comment": "(Atlantis Master of Thieves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28548,
+        10,
+        2
+      ],
+      "comment": "(The Immortal ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28549,
+        20,
+        17
+      ],
+      "comment": "(staff of restore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28550,
+        10,
+        13
+      ],
+      "comment": "(a coral belt)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        28551,
+        5,
+        -1
+      ],
+      "comment": "(A kraken sign)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28516,
+        3,
+        16
+      ],
+      "comment": "(a huge trident)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28517,
+        1,
+        28538
+      ],
+      "comment": "(Atlantis Master of Gladiators)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28552,
+        10,
+        6
+      ],
+      "comment": "(the Andromeda hair)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28553,
+        20,
+        10
+      ],
+      "comment": "(a pair of black coral sleeves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28554,
+        10,
+        7
+      ],
+      "comment": "(a pair of black coral pants)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28555,
+        10,
+        16
+      ],
+      "comment": "(a coral bastard sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28517,
+        15,
+        12
+      ],
+      "comment": "(a small coral pack)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28518,
+        1,
+        28536
+      ],
+      "comment": "(Atlantis Master of Masters)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28556,
+        5,
+        12
+      ],
+      "comment": "(the robe of SeaLord)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28557,
+        5,
+        5
+      ],
+      "comment": "(Seashell Suit)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28558,
+        15,
+        14
+      ],
+      "comment": "(a SeaLord large Shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28559,
+        10,
+        2
+      ],
+      "comment": "(The SeaLord ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28560,
+        10,
+        6
+      ],
+      "comment": "(The SeaLord helmet)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28500,
+        1,
+        16
+      ],
+      "comment": "(Atlantis Two-Handed Axe)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        28523,
+        1,
+        1
+      ],
+      "comment": "(Atlantis throne)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/285.zon"
+}

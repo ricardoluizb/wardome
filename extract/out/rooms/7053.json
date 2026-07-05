@@ -3,8 +3,8 @@
   "zone_id": 70,
   "name": "The South End Of The Grand Pipe",
   "description": "You stand in water to your knees.  A doorway leads west from here.  The\npipe stretches north.",
-  "header_raw": "70 d 1",
-  "flags_text": "d",
+  "header_raw": "70 8 1",
+  "flags_text": "8",
   "sector": 1,
   "exits": [
     {

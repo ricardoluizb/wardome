@@ -1,0 +1,12 @@
+{
+  "id": 1014,
+  "alias": "ghost abbott",
+  "short_desc": "the ghost of the Abbott",
+  "long_desc": "A portly ghost is sitting on an ethereal bed, singing softly to himself.",
+  "detailed_desc": "This lost soul looks like he was once the Abbott of the cathedral.\nhe is a portly fellow and even though he is long since dead, he looks\nrather jovial.  When you look at him, he stops singing for a minute,\nlooks up at you, smiles sadly, and then continues his song.",
+  "flags_raw": "74 136 750 E",
+  "stats1_raw": "70 -35 -15 1d1+7560 5d22+128",
+  "stats2_raw": "1050 1699920 10",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/10.mob"
+}

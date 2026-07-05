@@ -4,9 +4,9 @@
   "short_desc": "the androsphinx",
   "long_desc": "A mighty androsphinx tosses its lion-like mane.",
   "detailed_desc": "The mighty androsphinx is a huge creature, with the body of a lion whose\nface  is quite man-like, perhaps even handsome, and a massive pair of feathered\nwings.  Tales are told of pharoahs that were rendered permanently deaf by the \nmighty roar of this sphinx.",
-  "flags_raw": "abelnoq dkp 400 S",
-  "stats1_raw": "27 -7 -6 27d27+270 4d10+20",
-  "stats2_raw": "50000 200000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "92187 33800 400 E",
+  "stats1_raw": "127 -43 -8 1d1+3552 5d13+50",
+  "stats2_raw": "1905 5791311 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/53.mob"
 }

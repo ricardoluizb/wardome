@@ -1,0 +1,12 @@
+{
+  "id": 20003,
+  "alias": "Drogo",
+  "short_desc": "Drogo",
+  "long_desc": "Drogo the Dwarf is polishing his axe here.",
+  "detailed_desc": "Drogo Bloodstain, dwarf at large.  He polishes his battle axe with a fervor,\nmore than once licking the blade to put a shine on it.  He seems to be having\nfun...  To each his own.",
+  "flags_raw": "1204234 1160 -500 E",
+  "stats1_raw": "140 -56 -15 1d1+7272 5d15+86",
+  "stats2_raw": "2100 9592545 3",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/200.mob"
+}

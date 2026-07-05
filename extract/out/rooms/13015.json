@@ -1,0 +1,21 @@
+{
+  "id": 13015,
+  "zone_id": 130,
+  "name": "Old House",
+  "description": "You are in an old and poor house, all the windows\nare broked and you see a big web in the left wall.\nYou feel you can't trust in this floor.\nThe second Avenue is to the South.",
+  "header_raw": "130 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13014
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

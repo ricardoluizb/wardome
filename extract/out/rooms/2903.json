@@ -1,0 +1,34 @@
+{
+  "id": 2903,
+  "zone_id": 29,
+  "name": "Mountain side",
+  "description": "The mountain is very high and looks to be quite old. There are a few cracks\nin the side of the mountain",
+  "header_raw": "29 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The mountain continues.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2904
+    },
+    {
+      "dir": 3,
+      "description": "You see some hills to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2902
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "mountain",
+      "description": "The mountain looks like it was formed from something sliding down and stopping."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/29.wld"
+}

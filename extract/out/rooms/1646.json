@@ -1,0 +1,21 @@
+{
+  "id": 1646,
+  "zone_id": 16,
+  "name": "The Officer's Quarters",
+  "description": "You have entered a lavish but functional room decked out in a military style.\nMurals on the wall show battle scenes in gargoyles, minotaurs, and huge,\nflying snake-like reptiles with poisonous tails fight humans and dwarves.\nVarious objects in the room give evidence that it is occupied by individuals\nof authority.  The only door is north.",
+  "header_raw": "16 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 1,
+      "key": -1,
+      "to": 1644
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

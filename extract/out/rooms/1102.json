@@ -1,0 +1,29 @@
+{
+  "id": 1102,
+  "zone_id": 11,
+  "name": "A dimly lit path",
+  "description": "You tread through the deep, dark forest on a dimly lit path.  The forest\nhere seems less dense than to the south.  Northward you see the faint outline\nof a village.",
+  "header_raw": "11 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The dimly lit path leads to a village.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1103
+    },
+    {
+      "dir": 2,
+      "description": "The dimly lit path leads south through the dense forest.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1101
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

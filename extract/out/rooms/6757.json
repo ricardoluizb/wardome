@@ -1,0 +1,26 @@
+{
+  "id": 6757,
+  "zone_id": 67,
+  "name": "The post office",
+  "description": "You narrowly avoid the guillotine-style slash of a rusted axe\nas you pass through the doorway of the town post office. It\nseems some sort of riot is underway in here - what would be a\nstrike if this wasn't before unions - among the numerous\ndisgruntled postal workers conglomerated. Shining silver letter-\nopeners flash in the light as they heedlessly try to backstab\nanyone in sight. It's a droll scene. You decide it prudent to\nmail your wares and be on your way.\nThere is a sign posted on the north wall.",
+  "header_raw": "67 12 0",
+  "flags_text": "12",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6739
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "A few instructions have been meticulously printed in small letters.\nsend (item) (playername) will function to mail something to \nsomeone.\nreceive will allow you to collect your mail.\nThank you and have a nice day."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

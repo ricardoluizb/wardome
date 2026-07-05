@@ -3,8 +3,8 @@
   "zone_id": 62,
   "name": "A Cave Entrance",
   "description": "You are half blinded by the differences of the outdoors\nillumination and the pure darkness of the cave.  A deep,\ncloying stench flows out from the cave mouth; the smells\nof decay, unwashed bodies, and sickness in one roiling \nodor.  Your stomach turns involuntarily, and you wonder \nabout going back down the hill to the east, instead of \ngoing even further down the western tunnel.",
-  "header_raw": "62 d 5",
-  "flags_text": "d",
+  "header_raw": "62 8 5",
+  "flags_text": "8",
   "sector": 5,
   "exits": [
     {

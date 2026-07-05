@@ -1,0 +1,45 @@
+{
+  "id": 20108,
+  "zone_id": 201,
+  "name": "A Side Court",
+  "description": "Similar to the Main Court, this place looks empty except for few pots of\nplants. The floor is also covered with large stone slabs. Path to the east\nleads you back to the Main Court.",
+  "header_raw": "201 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 20111
+    },
+    {
+      "dir": 1,
+      "description": "The Main Court.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20107
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 20112
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 20109
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/201.wld"
+}

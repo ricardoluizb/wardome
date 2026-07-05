@@ -1,0 +1,21 @@
+{
+  "id": 14340,
+  "zone_id": 143,
+  "name": "Vangar's Chamber",
+  "description": "This room belongs to the famed Egyptian general, Vangar. He has been known\nfor pointless killings and tortures, but is also respected for his cunning\ntactics and determination.",
+  "header_raw": "143 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The courtyard lies to the north.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14331
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

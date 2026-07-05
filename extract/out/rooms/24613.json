@@ -1,0 +1,37 @@
+{
+  "id": 24613,
+  "zone_id": 245,
+  "name": "Wormwood",
+  "description": "You are in the heart of Wormwood, where the flames are most\nintense. A giant star lies on the ground here, glowing a hateful\nred. All of the brush nearby has been blasted flat. A young boy\nstands staring at the star. You ask him what happened, and he\nsays that an angel came, sounded a horn, and the star fell from\nthe sky. He was told that someone would come by the 5th horn to\nget the key of david to unlock the pit.",
+  "header_raw": "245 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Wormwood",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24627
+    },
+    {
+      "dir": 1,
+      "description": "Wormwood",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24614
+    },
+    {
+      "dir": 3,
+      "description": "Wormwood",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24612
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/245.wld"
+}

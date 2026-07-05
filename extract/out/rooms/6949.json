@@ -1,0 +1,29 @@
+{
+  "id": 6949,
+  "zone_id": 69,
+  "name": "Inside the Attic",
+  "description": "You are inside of the attic on the third floor of the house.  You REALLY\nwouldn't like to find out how old and unstable the wooden boards are up this\nhigh.  The attic has lots of old junk in it, mostly covered in old white\nsheets, some of them torn.  Spider webs drape the corners of the rooms and hang\nover some of the stuff laying around.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "wall",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6950
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6948
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

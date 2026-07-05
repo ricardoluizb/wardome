@@ -1,0 +1,12 @@
+{
+  "id": 559,
+  "alias": "keeper peacekeeper",
+  "short_desc": "the Peacekeeper",
+  "long_desc": "A Wardome Peacekeeper is standing here, ready to solve any problem",
+  "detailed_desc": "He looks very strong and wise.  Looks like he doesn't answer to ANYONE.",
+  "flags_raw": "6233 8 0 E",
+  "stats1_raw": "0 0 0 0d0+1000 45d-2+3",
+  "stats2_raw": "1 1 945",
+  "stats3_raw": "5 5 19 -26 112",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/5.mob"
+}

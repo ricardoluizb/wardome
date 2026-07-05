@@ -1,0 +1,12 @@
+{
+  "id": 17805,
+  "alias": "chief gnome",
+  "short_desc": "the chief gnome",
+  "long_desc": "A powerful looking gnome stands here wearing ornate clothes.",
+  "detailed_desc": "The Chief looks like he could whap you hard.  He looks not only powerful\nbut wise and resourceful.  You better not mess with him.",
+  "flags_raw": "10 0 550 E",
+  "stats1_raw": "50 -5 2 1d1+1044 5d6+20",
+  "stats2_raw": "750 459442 0",
+  "stats3_raw": "8 8 1 11 8",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/178.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 7807,
+  "alias": "oldstyle elf elder valley",
+  "short_desc": "a valley elf elder",
+  "long_desc": "A valley elf elder is here, studying.  He notices you.\nA valley elf elder shouts 'You have intruded wrongly.  Be prepared to die!'",
+  "detailed_desc": "This elf looks quite old, probably twenty or more times your age.  He looks\nquite potent, though.",
+  "flags_raw": "46 9344 0 E",
+  "stats1_raw": "70 -21 -5 1d1+3636 5d8+58",
+  "stats2_raw": "1050 1328062 3",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/78.mob"
+}

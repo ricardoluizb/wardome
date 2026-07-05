@@ -4,9 +4,9 @@
   "short_desc": "the clay golem",
   "long_desc": "A clay golem stands guard here.",
   "detailed_desc": "This large golem almost looks like it is made of dirt.",
-  "flags_raw": "bfgmnopqr dk 200 S",
-  "stats1_raw": "15 5 -1 15d15+150 4d5+3",
-  "stats2_raw": "0 18320",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "258154 1032 200 E",
+  "stats1_raw": "135 -47 -10 1d1+3780 5d14+54",
+  "stats2_raw": "2025 6908061 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

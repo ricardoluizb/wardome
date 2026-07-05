@@ -1,0 +1,29 @@
+{
+  "id": 13549,
+  "zone_id": 135,
+  "name": "Cold Storage",
+  "description": "The stink of this storage chamber makes you balk at once.  Through\nyour nausea you make out cadavers kept cool in niches in the stone\nwalls.  Barrels of dust and decanters of blood fill the room.  On the\nwall, in some dark ink, is scrawled, 'That dreamless sleep.'  The\nchamber exits south and up.",
+  "header_raw": "135 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13552
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13527
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

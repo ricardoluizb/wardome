@@ -1,0 +1,21 @@
+{
+  "id": 788,
+  "zone_id": 7,
+  "name": "A Trashed Room",
+  "description": "This room looked to be a library once.  Now all the\nbeen moved out but for the bookshelves, which are now falling apart.\nIt looks like a great deal of violence has occurred in this room, as\nif thousands of fights have occurred here over the years.  You wonder\nwho could be capable of such wanton destruction.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 786
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 6800,
+  "zone_id": 67,
+  "name": "A short rockslide",
+  "description": "You stand amidst a tumble of rocks of various sizes and shades of grey\nand ebony. A pale hawk circles overhead, uttering a shivering cry.\nIt is impossible to continue downwards without meeting an untimely (?)\ndeath. A few homes have been hidden here in the cliff face, a bit of\na hike from any civilization.",
+  "header_raw": "67 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6802
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6801
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6795
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

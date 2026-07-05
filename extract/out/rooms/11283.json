@@ -1,0 +1,29 @@
+{
+  "id": 11283,
+  "zone_id": 112,
+  "name": "A Bend in the Tunnel",
+  "description": "Trudging through the disgusting sludge, you find yourself having to stop\nseveral times to retch, the stench being literally unbearable. You don't\nwant to think about what you may be inhaling down here. Turning back seems\nvery attractive now, but you aren't entirely convinced that there is nothing\nof value down here.",
+  "header_raw": "112 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11281
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11284
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 5826,
+  "zone_id": 57,
+  "name": "A Junction",
+  "description": "You have come to a junction. From here you can head east or south, or through\na door to the north.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "dwarf room",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5827
+    },
+    {
+      "dir": 1,
+      "description": "another door",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5828
+    },
+    {
+      "dir": 2,
+      "description": "a bend",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5830
+    },
+    {
+      "dir": 3,
+      "description": "portcullis",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5825
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

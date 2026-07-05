@@ -1,0 +1,12 @@
+{
+  "id": 2300,
+  "alias": "oldstyle knight ethereal dark",
+  "short_desc": "the Dark Ethereal Knight",
+  "long_desc": "A dark ethereal knight hovers over the bloody clearing.",
+  "detailed_desc": "The ethereal knight is clad in shadowy black armor. It appears as though he\nwas involved in the carnage that occurred here. His soul is trapped here, as\nhe waits for release.",
+  "flags_raw": "10 136 -1000 E",
+  "stats1_raw": "180 -74 -20 1d1+7920 5d19+92",
+  "stats2_raw": "2700 19598258 2",
+  "stats3_raw": "8 8 1 3 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/23.mob"
+}

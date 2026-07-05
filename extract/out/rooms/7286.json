@@ -3,8 +3,8 @@
   "zone_id": 72,
   "name": "The Hell Yard",
   "description": "You are standing in a lot of mud.  A disgusting smell surrounds\nthe place, and makes you feel sick.  Small flames sometimes shoot\nup from the hot mud.  To the west there is a small door.  To the \nnorth you can see an iron door.",
-  "header_raw": "72 cd 5",
-  "flags_text": "cd",
+  "header_raw": "72 12 5",
+  "flags_text": "12",
   "sector": 5,
   "exits": [
     {

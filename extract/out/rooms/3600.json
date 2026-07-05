@@ -1,27 +1,43 @@
 {
   "id": 3600,
   "zone_id": 36,
-  "name": "The Great Chessboard Of Midgaard",
-  "description": "You stand in the archway of the Chessboard of Midgaard.  The giant\nwooden gate is rusted open.\n   A narrow dirt path leads eastwards into the thick grass and the\nchessboard opens up to the west.",
-  "header_raw": "36 c 1",
-  "flags_text": "c",
+  "name": "The Great ChessBoard of Wardome",
+  "description": "You Stand in the archway of the Chessboard of Wardome. The Giant\nwooden gate is rusted open.\n   A narrow dirt path leads eastwards into the thick grass and the\nchessboard opens up to the west.\nThis area is better for players on remort 7",
+  "header_raw": "36 16777220 1",
+  "flags_text": "16777220",
   "sector": 1,
   "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    },
     {
       "dir": 1,
       "description": "A dirt path leads away through the great field north of Midgaard.",
       "keywords": "",
       "door_flag": 0,
       "key": -1,
-      "to": 3066
+      "to": -1
     },
     {
       "dir": 3,
       "description": "The huge chessboard opens up to the west.",
-      "keywords": "",
-      "door_flag": 0,
+      "keywords": "gates",
+      "door_flag": 2,
       "key": -1,
       "to": 3632
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "trapdoor",
+      "door_flag": 1,
+      "key": 0,
+      "to": 15004
     }
   ],
   "extra_descriptions": [],

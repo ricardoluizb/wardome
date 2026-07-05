@@ -1,0 +1,29 @@
+{
+  "id": 14152,
+  "zone_id": 141,
+  "name": "Cellar",
+  "description": "The damp walls of this corner bother you... not because it's\ndamp.  Because its not water!",
+  "header_raw": "141 73 0",
+  "flags_text": "73",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14149
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14153
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2717,
+  "zone_id": 27,
+  "name": "Merry's Hole",
+  "description": "This home belongs to Merry.  A hobbit who has shared many adventures with\nFrodo.  He is a tough hobbit and if he can carry the sword that is nailed to\nthe wall, he must be quite strong.  Better not make him angry with you.  \nHobbit Road is back to the north.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2716
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 9958,
+  "zone_id": 99,
+  "name": "The dominatrix's abode.",
+  "description": "This room is filled with all manner of black, silver studded leather.\n\nWhips, chains and handcuffs are displayed prominently on each of the \n3 walls.  A position chair sits in the middle of the room for your \nhedonistic desires.",
+  "header_raw": "99 1 1",
+  "flags_text": "1",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 9957
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

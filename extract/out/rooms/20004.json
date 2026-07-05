@@ -1,0 +1,37 @@
+{
+  "id": 20004,
+  "zone_id": 200,
+  "name": "Outside the Wayhouse",
+  "description": "You are standing just south of Werith's Wayhouse, right where the kitchen\nentrance is.  A well trodden path leads east, towards a small shack that is\nunmistakeably an outhouse.  You hear the unmistakeable sound of clanging pots\nand pans from the inside, the warning of an upcoming meal.  The path around the\nbuilding here runs east, and west.",
+  "header_raw": "200 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": 0,
+      "to": 20026
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20005
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20003
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/200.wld"
+}

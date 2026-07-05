@@ -1,0 +1,12 @@
+{
+  "id": 1121,
+  "alias": "oldstyle battle master",
+  "short_desc": "the battle master",
+  "long_desc": "The battle master offers you the services of his fine trainees.",
+  "detailed_desc": "The battle master is a wizened fighter, with many scars to prove his worth.",
+  "flags_raw": "10 0 350 E",
+  "stats1_raw": "90 -29 -6 1d1+3960 5d10+56",
+  "stats2_raw": "1350 2658738 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/11.mob"
+}

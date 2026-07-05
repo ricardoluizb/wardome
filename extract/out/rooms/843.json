@@ -1,0 +1,29 @@
+{
+  "id": 843,
+  "zone_id": 7,
+  "name": "Dirt Road",
+  "description": "You are standing in the foothills before the mountains.  A road\nleads away under the starry sky to the east, and a mountain pass\nheads up and through to the north.  The scenery on this side of the\nmountains seems bleak and lifeless, probably due to the lack of sun.",
+  "header_raw": "7 8 4",
+  "flags_text": "8",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 844
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 842
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

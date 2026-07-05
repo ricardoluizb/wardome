@@ -4,9 +4,9 @@
   "short_desc": "the gigantic rat",
   "long_desc": "There is a gigantic rat here, looking at you with a hungry look.",
   "detailed_desc": "The gigantic rat is about ten feet long from head to tail and has claws the\nsize of your head, looking very nasty.",
-  "flags_raw": "bf k -800 S",
-  "stats1_raw": "12 9 2 1d10+150 2d6+2",
-  "stats2_raw": "2513 13000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "42 1024 -800 E",
+  "stats1_raw": "12 14 8 1d1+252 5d2+4",
+  "stats2_raw": "180 10839 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/72.mob"
 }

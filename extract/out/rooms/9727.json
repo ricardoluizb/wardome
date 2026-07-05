@@ -1,0 +1,29 @@
+{
+  "id": 9727,
+  "zone_id": 97,
+  "name": "Ares Street",
+  "description": "You are on a smaller road which branches off from the main street.  On a\nsign, you notice that the name of this road is Ares Street.",
+  "header_raw": "97 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9733
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9707
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/97.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 14308,
+  "zone_id": 143,
+  "name": "The Market",
+  "description": "You have entered a crowded market. Various peddlers try to barter their goods\nfor a living, while the streets are lined with shops. To the west you see a\nroad with small houses, and the market continues to the south.",
+  "header_raw": "143 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The gate is north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14306
+    },
+    {
+      "dir": 2,
+      "description": "A crowded market.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14309
+    },
+    {
+      "dir": 3,
+      "description": "A city street.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14318
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

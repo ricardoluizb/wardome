@@ -1,0 +1,21 @@
+{
+  "id": 9407,
+  "zone_id": 94,
+  "name": "The &CG&creat &CT&cower &gof &CR&cedemptio&Cn&n",
+  "description": "You are in the Great Tower of the fortress.  Here the Kings takes their\ndecisions and deliberate about the fighting tactics used on the battlefield.  \nOnce in this place, the famous phrase was spoken: &WLet them come!  &n by the\nKing Theoden, about the last battle on the &YD&weep&n against Uruk-hai's, on\nthe Ring's War.    \n&n",
+  "header_raw": "94 1048644 0",
+  "flags_text": "1048644",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9406
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/94.wld"
+}

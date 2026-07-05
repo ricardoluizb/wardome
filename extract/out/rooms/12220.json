@@ -1,0 +1,45 @@
+{
+  "id": 12220,
+  "zone_id": 122,
+  "name": "The Heart of Alfheim",
+  "description": "The path ends in a small clearing, from which several lodges lead,\neach housing a lord of Alfheim or one of their many allies and minions,\nthough Frey and Freya would be loathe to label their friends as the\nlatter. Music fills the air, the clear tenor of a superb skald raised\nin harmonious praise of this wondrous realm. Small animals such as\nsquirrels, badgers and dogs rush about, scampering and frolicking in\nabandon, confident in the protection of their elven lord. Frey is indeed\nfortunate in his residence; what god could want for a more peaceful\ndomicile?",
+  "header_raw": "122 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12224
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12223
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12221
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12222
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

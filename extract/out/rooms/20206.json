@@ -1,0 +1,29 @@
+{
+  "id": 20206,
+  "zone_id": 202,
+  "name": "Another passageway",
+  "description": "This part of the passageway is rather straight, and stops abruptly a few feet\nin front of you.  Also right in front of you is a very very long staircase,\nwinding up, up, up, you can't even see the top...",
+  "header_raw": "202 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20205
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20207
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/202.wld"
+}

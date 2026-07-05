@@ -1,0 +1,37 @@
+{
+  "id": 2381,
+  "zone_id": 23,
+  "name": "The Grand Hall",
+  "description": "You are in the main hall of the Keep of Mahn-Tor. This hall is huge. The wide\nfloor of the hall is an expanse of marble. It shimmers in the light thrown\noff by the torches that line the walls. To the east, you see what appears to\nbe a huge golden throne. The hall itself stretches south and a smaller hall\nleads to the west.",
+  "header_raw": "23 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2383
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2382
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2380
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

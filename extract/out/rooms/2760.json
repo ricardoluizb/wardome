@@ -1,0 +1,21 @@
+{
+  "id": 2760,
+  "zone_id": 27,
+  "name": "Quiet Viewing Room",
+  "description": "You have entered a smaller room.  There are a few wooden chairs around by the\nwalls.  On the west wall to the far north side, you see a large framed opening.\nIt is covered with thin pieces of material so you cannot see into that room,\nbut you can hear ever There is a doorway on the west wall, to the far south\nside leading to the main room from which you entered here.  If you wish to talk\nto others you must go to the other viewing room.",
+  "header_raw": "27 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2758
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

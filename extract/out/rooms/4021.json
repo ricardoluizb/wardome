@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Hole",
   "description": "As you stand at the end of this tunnel, you notice a large hole\nsitting in the floor by the northwestern corner of the walls.  The\ntunnel itself leads off towards the east.  The air here feels very\ndamp and you feel like your clothes are becoming sticky with sweat.",
-  "header_raw": "40 acd 3",
-  "flags_text": "acd",
+  "header_raw": "40 13 3",
+  "flags_text": "13",
   "sector": 3,
   "exits": [
     {
@@ -14,6 +14,14 @@
       "door_flag": 0,
       "key": -1,
       "to": 4022
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
     },
     {
       "dir": 5,

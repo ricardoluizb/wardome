@@ -4,9 +4,9 @@
   "short_desc": "the panhandler",
   "long_desc": "A panhandler rests here.",
   "detailed_desc": "A small skinny man rests here staring at your clothes.",
-  "flags_raw": "cgh 0 -20 S",
-  "stats1_raw": "3 19 10 10d1+1 1d3+3",
-  "stats2_raw": "1 5",
-  "stats3_raw": "5 5 1",
+  "flags_raw": "204 0 -20 E",
+  "stats1_raw": "15 13 7 1d1+315 5d2+6",
+  "stats2_raw": "225 18413 0",
+  "stats3_raw": "5 5 1 -1 0",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

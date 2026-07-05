@@ -1,0 +1,45 @@
+{
+  "id": 2910,
+  "zone_id": 29,
+  "name": "Inside the mountain",
+  "description": "You are standing inside the mountain.",
+  "header_raw": "29 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see guard barracks.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2911
+    },
+    {
+      "dir": 3,
+      "description": "You see guard barracks.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2912
+    },
+    {
+      "dir": 4,
+      "description": "Entrance to the mountain.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2906
+    },
+    {
+      "dir": 5,
+      "description": "The shaft continues down.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2913
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/29.wld"
+}

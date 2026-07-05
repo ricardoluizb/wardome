@@ -1,0 +1,37 @@
+{
+  "id": 11246,
+  "zone_id": 112,
+  "name": "Inside the Tower",
+  "description": "The first notion that strikes you as you enter the tower is that whoever\noriginally constructed it would not have intended it to be in the state it\nis now. Smashed furniture and shredded books cover the grimy floor, and\npiles of mangled tapestries have been built into large nests for a variety\nof vermin. The stench is unbearable, and unmistakably goblin. Your hatred\nfor these savage brutes grows as you continue through the carnage. To the\neast, a stone staircase continues to the next level, while to the south\na long corridor heads to other chambers.",
+  "header_raw": "112 12 0",
+  "flags_text": "12",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11276
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11245
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11247
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

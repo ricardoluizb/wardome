@@ -1,0 +1,21 @@
+{
+  "id": 20123,
+  "zone_id": 201,
+  "name": "The Abbot's Chamber",
+  "description": "This room looks about the same with the rest of the rooms.  Hardly fitting\nfor the chief of Shaolin. You see nothing of value here.  By the way, it\nis out of bounds to people like you, you better leave.",
+  "header_raw": "201 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "A side hall.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20120
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/201.wld"
+}

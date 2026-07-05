@@ -1,0 +1,21 @@
+{
+  "id": 6944,
+  "zone_id": 69,
+  "name": "A Room",
+  "description": "As you walk into the room you can sense the evil.  It is totally dark inside\nhere, and you can just see with the light you have.  There is a bed laying\nturned over in the corner, and boxes have been thrown in another.  The walls\nare scratched up like some animal went through here.  A sword sticks into the\nwall nearest you.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6942
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

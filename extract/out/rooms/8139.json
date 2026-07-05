@@ -1,0 +1,29 @@
+{
+  "id": 8139,
+  "zone_id": 81,
+  "name": "The Stone Hallway",
+  "description": "There is no escaping this cold, damp cave.  The Grunting Boar comes to \nmind, but you can not reach its warm fires now.  Only through worse \ndanger will you leave these caves.",
+  "header_raw": "81 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The walls are just as damp to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8137
+    },
+    {
+      "dir": 1,
+      "description": "A stone door to the east is carved with leering faces and evil runes.",
+      "keywords": "door stone",
+      "door_flag": 2,
+      "key": 8100,
+      "to": 8140
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

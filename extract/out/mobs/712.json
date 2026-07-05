@@ -1,0 +1,12 @@
+{
+  "id": 712,
+  "alias": "unlucky gambler",
+  "short_desc": "the Gambler",
+  "long_desc": "An unlucky gambler struggles to hold back tears as his money disappears.",
+  "detailed_desc": "The unlucky gambler just doesn't say a word, he just keeps putting the\nmoney down, hoping to at least break even.  It doesn't even look like\nhe's got a chance.",
+  "flags_raw": "14 128 0 E",
+  "stats1_raw": "80 -30 -9 1d1+5436 5d17+82",
+  "stats2_raw": "1200 2011376 5",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

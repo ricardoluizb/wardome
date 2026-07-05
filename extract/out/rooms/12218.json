@@ -1,0 +1,29 @@
+{
+  "id": 12218,
+  "zone_id": 122,
+  "name": "Alfheim",
+  "description": "The path bends again here, heading east once more, the stream having\nemptied into a large depression in the soft ground between some large\ntrees to the north. This curious sinkhole descends to other parts of\nValhalla, places not meant to be seen by mortal eyes. Nor is Alfheim\nreally, actually.",
+  "header_raw": "122 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12217
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12219
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

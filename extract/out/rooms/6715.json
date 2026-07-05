@@ -1,0 +1,37 @@
+{
+  "id": 6715,
+  "zone_id": 67,
+  "name": "Wisteria park",
+  "description": "The dark greenery of the park extends eastwards, grown over with purple-\nflowering wisteria vine which slowly ambles up the town walls. To the\nsouth, the cliff lane runs east-west. An occasional explosion from a\npale stone tower to the north startles you, and piques your curiousity\nabout that strange place.",
+  "header_raw": "67 1 2",
+  "flags_text": "1",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6716
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6714
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6764
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

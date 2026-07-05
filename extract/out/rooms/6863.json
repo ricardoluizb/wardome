@@ -1,0 +1,29 @@
+{
+  "id": 6863,
+  "zone_id": 67,
+  "name": "Along the town wall",
+  "description": "A small path lined with broad trees breaks off to the south from\nthe cobblestone wall of Sundhaven, which runs eastwards to a corner.\nThe gate of the town must be somewhere near. You can make out the\nbuzz of city life, hushed by the stone barrier, from the north.",
+  "header_raw": "67 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6862
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6864
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

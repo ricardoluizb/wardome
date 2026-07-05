@@ -1,0 +1,37 @@
+{
+  "id": 20005,
+  "zone_id": 200,
+  "name": "Near a Large Building",
+  "description": "The Wayhouse is just north-west of you here, and you are right by the\nfacility's outhouse to the south.  The wooden planks of the stable form an\nalley to the north, with the path leading right in-between.  Westwards is the\nkitchen entrance to the Wayhouse, kept wide open to let the heat inside escape.",
+  "header_raw": "200 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20006
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20040
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20004
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/200.wld"
+}

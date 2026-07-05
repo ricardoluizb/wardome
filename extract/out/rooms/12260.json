@@ -1,0 +1,29 @@
+{
+  "id": 12260,
+  "zone_id": 122,
+  "name": "Outside the Chambers",
+  "description": "The stairs end before a solid wooden door, which speaks in volumes\nby its closed and locked state of those within's desire not to be\ndisturbed. Especially by upstarts from Midgaard! Warmth radiates through\nthe wooden portal, presumably from a blazing fire within. Shaking your\nhead, you wonder if it might not be worth risking the wrath of the Aesir\nto share a little of that warmth.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": 0,
+      "to": 12297
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12261
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

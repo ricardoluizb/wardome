@@ -3,8 +3,8 @@
   "zone_id": 35,
   "name": "A Tunnel In The Mountains",
   "description": "The tunnel gets lighter to the north, presumably leading out, while to\nthe south the passage gets smaller and smaller.  A small alcove has been\ncarved into the east wall.",
-  "header_raw": "35 a 1",
-  "flags_text": "a",
+  "header_raw": "35 1 1",
+  "flags_text": "1",
   "sector": 1,
   "exits": [
     {

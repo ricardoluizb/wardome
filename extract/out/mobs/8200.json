@@ -1,0 +1,12 @@
+{
+  "id": 8200,
+  "alias": "bat grey",
+  "short_desc": "a grey bat",
+  "long_desc": "a grey bat is sleeping here.",
+  "detailed_desc": "Is a normal bat not a vampire, he looks cute while he is sleeping you should\nlive it like that or maybe kill it.",
+  "flags_raw": "137288 1065 -15 E",
+  "stats1_raw": "150 -63 -18 1d1+9000 5d16+100",
+  "stats2_raw": "2250 11927425 4",
+  "stats3_raw": "4 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/82.mob"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1045,
+  "zone_id": 10,
+  "name": "The Inner Crypt",
+  "description": "You continue to wander through this inner crypt.  From past\nexperience, you know that this is often where the nobility of\nthe realm would be laid to rest after the elaborate ceremonies\ntook place upstairs in the cathedral proper.\n   The crypt continues to the south and west.",
+  "header_raw": "10 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The crypt continues off to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1046
+    },
+    {
+      "dir": 3,
+      "description": "The crypt continues off to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1044
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 11516,
+  "zone_id": 115,
+  "name": "The Intersection Of First And Broadway",
+  "description": "Here Broadway crosses with another main street, First Avenue, which runs\neast and west through the city.  It is not as large as Broadway, but leads both\nto Hell's Kitchen and to the new sports stadium.  Broadway continues north and\nsouth First Avenue extends west towards Hell's Kitchen and east to the stadium.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11566
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11529
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11511
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11614
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

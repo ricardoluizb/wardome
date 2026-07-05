@@ -1,0 +1,29 @@
+{
+  "id": 850,
+  "zone_id": 7,
+  "name": "Graveyard",
+  "description": "You stand in the south-east corner of the graveyard.  The tombstones\nhere are old and weathered by age and elements.  Some are toppled over.\nSome grass grows sparsely around the rocks, paled by the lack of sun.\nIn this area, you feel the peace of death, instead of the decay usually\nassociated with graveyards.",
+  "header_raw": "7 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 849
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 851
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

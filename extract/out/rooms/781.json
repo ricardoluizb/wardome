@@ -1,0 +1,29 @@
+{
+  "id": 781,
+  "zone_id": 7,
+  "name": "Back Yard",
+  "description": "The backyard is even more overgrown than the front yard.  Here and\nthere once-white benches poke up out of the tall grasses, testament to\nbetter times.  You feel a lot more comfortable here than you were\ninside the house, although there is a looming presence from the garden\narea opening up to your west.  A slight stench of decay passes over\nyou, and you consider going back inside the house to your east.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 780
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 782
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

@@ -1,29 +1,37 @@
 {
   "id": 3204,
-  "zone_id": 31,
-  "name": "On The River",
-  "description": "You see the warehouse on the northern riverbank.  East of here you see the\ncity wall.  The river flows west towards the levee.",
-  "header_raw": "31 0 7",
+  "zone_id": 32,
+  "name": "The Temple",
+  "description": "The echo of your footsteps reverberates through the temple.  Everything is\nwhite, the tiled floors, the walls, the ceiling.....",
+  "header_raw": "32 0 0",
   "flags_text": "0",
-  "sector": 7,
+  "sector": 0,
   "exits": [
     {
       "dir": 1,
       "description": "",
       "keywords": "",
       "door_flag": 0,
-      "key": -1,
+      "key": 0,
       "to": 3205
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "marble door",
+      "door_flag": 1,
+      "key": 3205,
+      "to": 3202
     },
     {
       "dir": 3,
       "description": "",
       "keywords": "",
       "door_flag": 0,
-      "key": -1,
+      "key": 0,
       "to": 3203
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/31.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/32.wld"
 }

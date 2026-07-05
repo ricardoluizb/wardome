@@ -1,0 +1,29 @@
+{
+  "id": 11582,
+  "zone_id": 115,
+  "name": "The Entrance To Cheers Bar",
+  "description": "Making your way in the world today takes everything you've got.  Taking a\nbreak from all your worries sure would help a lot -- well, we think you know\nthe rest.  Anyway, this is just a place where you can sit back and enjoy a\ndrink with Norm and the guys.  And if that gets old, (it sure hasn't with Norm)\nyou're sure to find something else to do.  The Main Bar is to the west,\nBroadway is to the east.",
+  "header_raw": "115 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11574
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11583
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 13002,
+  "alias": "undead corpse",
+  "short_desc": "the Undead Corpse",
+  "long_desc": "A corpse is lying on the ground here.",
+  "detailed_desc": "Looks like it is dead for a long time, you can't suport the smell.",
+  "flags_raw": "25166 1160 0 E",
+  "stats1_raw": "70 -19 -3 1d1+3072 5d8+48",
+  "stats2_raw": "1050 1307631 2",
+  "stats3_raw": "8 8 0 2 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/130.mob"
+}

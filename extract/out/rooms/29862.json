@@ -1,0 +1,29 @@
+{
+  "id": 29862,
+  "zone_id": 298,
+  "name": "Going Down the Mountain",
+  "description": "You climb very well, hold on a second, you see the middle of the forest.",
+  "header_raw": "298 76 5",
+  "flags_text": "76",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29863
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29861
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/298.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 64,
   "name": "A Sitting Room",
   "description": "This is a simply furnished room, with chairs all about.\nA fireplace is inset into an inner wall, the chimney\nundoubtedly directed by magic...\n   This would be a nice place to rest awhile...",
-  "header_raw": "64 cd 0",
-  "flags_text": "cd",
+  "header_raw": "64 12 0",
+  "flags_text": "12",
   "sector": 0,
   "exits": [
     {

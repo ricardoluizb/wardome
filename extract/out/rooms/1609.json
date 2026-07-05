@@ -1,0 +1,29 @@
+{
+  "id": 1609,
+  "zone_id": 16,
+  "name": "Empty Room",
+  "description": "This room appears to be completely empty. The only exit seems to be the\nway you came.  There are some scratches around the floor.",
+  "header_raw": "16 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1606
+    },
+    {
+      "dir": 5,
+      "description": "You see a concealed opening leading down.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1610
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

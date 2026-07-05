@@ -1,0 +1,29 @@
+{
+  "id": 13543,
+  "zone_id": 135,
+  "name": "A Stony Sphincter",
+  "description": "You are in a narrow tunnel, barely able to walk upright without\nknocking your head.  A breeze from the south swirls the dust here and\nyou begin to believe that safety is not far off.",
+  "header_raw": "135 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13542
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13544
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

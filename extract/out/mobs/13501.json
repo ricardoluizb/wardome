@@ -1,0 +1,12 @@
+{
+  "id": 13501,
+  "alias": "asp snake",
+  "short_desc": "the deadly asp",
+  "long_desc": "A poisonous asp slithers here.",
+  "detailed_desc": "This small snake looks quite dangerous, better take a wide detour around\nit.",
+  "flags_raw": "40 0 0 E",
+  "stats1_raw": "10 -3 -5 1d1+996 5d3+94",
+  "stats2_raw": "150 10689 9",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/135.mob"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 2377,
+  "zone_id": 23,
+  "name": "Before the Keep of Mahn-Tor",
+  "description": "You stand before a huge keep that has been carved into the side of the\nmountain. Huge wooden gates before you provide entrance to the keep. It\nappears as though the cold here has convinced the guards to seek warmth\ninside. You see the lights of the city to the west. You also notice small\nguard houses to the north and south.",
+  "header_raw": "23 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2376
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 2,
+      "key": 2350,
+      "to": 2379
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2378
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2375
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 8208,
+  "zone_id": 82,
+  "name": "The Central Corridor",
+  "description": "You are in the central corridor of the cathedral, you can see the altar from\nhere, at your sides there are many wood benches, where people sits and listen\ncarefully to what the cardenal says. To the east you can find the chapel, and\nto the west you can find a room with a leather to the second floor.",
+  "header_raw": "82 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8205
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8209
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8216
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8212
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

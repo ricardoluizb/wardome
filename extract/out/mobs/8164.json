@@ -1,0 +1,12 @@
+{
+  "id": 8164,
+  "alias": "dragon",
+  "short_desc": "the red dragon",
+  "long_desc": "A large red dragon stands here, angry that you disturbed his rest.",
+  "detailed_desc": "He can't see you when he's sleeping, and you had best let him stay that\nway.",
+  "flags_raw": "90218 1032 -1000 E",
+  "stats1_raw": "175 -89 -32 1d1+20292 5d52+180",
+  "stats2_raw": "2625 25670068 11",
+  "stats3_raw": "4 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

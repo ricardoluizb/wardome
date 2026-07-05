@@ -1,0 +1,21 @@
+{
+  "id": 10236,
+  "zone_id": 102,
+  "name": "The Storage Room",
+  "description": "You are in a dark cold room. It seems to be used as a storage rooms\na while ago. Now you can see some chests pilled in the corner of the\nroom and some broken armor racks throwed randomly by the room.",
+  "header_raw": "102 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10235
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

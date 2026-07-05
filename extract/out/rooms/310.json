@@ -1,0 +1,37 @@
+{
+  "id": 310,
+  "zone_id": 3,
+  "name": "Path in the foothills",
+  "description": "You are walking on a long path in the east-west direction.\nThe surroundings are green, vegetated foothills.\nYou are able to force your way through some dense plants to the north.",
+  "header_raw": "3 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You can't really see much through the vegetation on the foothills.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 327
+    },
+    {
+      "dir": 1,
+      "description": "To the east you notice that the path continues towards a T-intersection.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 311
+    },
+    {
+      "dir": 3,
+      "description": "You just see the path through the foothills.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 309
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/3.wld"
+}

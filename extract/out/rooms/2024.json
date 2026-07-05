@@ -1,0 +1,29 @@
+{
+  "id": 2024,
+  "zone_id": 20,
+  "name": "North Passageway",
+  "description": ".;;;, .;;;,                   .;;;, .;;;,           \n        .;;;,;;;;;,;;;;;,.;;;,       .;;;.,;;;;;,;;;;;,;;;.\n       ;;;;oOOoOOoOOoOOoOOo;;;. .,. .;;;oOOoOOoOOoOOoOOo;;;;\n   .,,.`oOOo'           `OoOOo,;;;;;,oOOoO'          `oOOo;',,.\n  `;;OOoO'    ;;;'             `OOO'             `;;;   `OoOO;;'\n ;;;;OOoO     `;     ,;;.                          ;'    OoOO;;;;\n    ;;;;OOoO,          ;;    ;  ; `; ;' ;..'         ,OoOO;;;;\n     ```.;OOoO,        ;,;;, `;;'  `;'  `;;'       ,OoOO;,'''\nIN HONOR    ;;;;OOoO,.                     .,OoOO;;;;    IN MEMORY OF \nOF OSITANEGRA```,;OOoO,.                 .,OoOO;, '''     BLUEDRAGON \nAND SPOILA'S       ;;;;;OOoO,.        .,OoOO;;;;  FOR ALL WHO LOVED HER\nWEDDING JULY 3RD 1997   ;;;;;OOoOOoOO;;;;;    PASSED AWAY JULY 4TH 1997\n                       @}-->-->---**---<---<--{@",
+  "header_raw": "20 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2025
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2022
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

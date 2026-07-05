@@ -1,0 +1,12 @@
+{
+  "id": 13227,
+  "alias": "thief",
+  "short_desc": "a thief",
+  "long_desc": "A thief is here.",
+  "detailed_desc": "Although rather large, this half-human thief is certainly not clumsy and will\nrob you blind.",
+  "flags_raw": "8396 794624 -370 E",
+  "stats1_raw": "25 -8 -5 1d1+2292 5d5+90",
+  "stats2_raw": "375 94180 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

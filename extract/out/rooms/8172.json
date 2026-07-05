@@ -1,0 +1,29 @@
+{
+  "id": 8172,
+  "zone_id": 81,
+  "name": "A Small Room",
+  "description": "The door you entered through is certainly of dwarven  make.  You\ncan easily push it open, so well-balanced was its weight on steel\nposts, when unlocked.  Some spell on it probably saved it from ruin.  \nThis particular room might have once been a treasury or armory of the \ndwarves (or gnomes), with a lock like that, but now a rough hole in its\nfloor leads downward.",
+  "header_raw": "81 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "A stone door leads west.",
+      "keywords": "door carved stone",
+      "door_flag": 2,
+      "key": 8100,
+      "to": 8171
+    },
+    {
+      "dir": 5,
+      "description": "Rough handholds are cut on this tunnels' sides.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8176
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

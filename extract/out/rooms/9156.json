@@ -1,0 +1,21 @@
+{
+  "id": 9156,
+  "zone_id": 91,
+  "name": "Roc's Nest.",
+  "description": "You are standing in a nest.  It is huge, at least two spear-lengths\nwide.  You see three eggs in the center.  They are knee high, brown\nand look almost leathery.  Better hope mom isn't around!",
+  "header_raw": "91 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9155
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

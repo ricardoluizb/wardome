@@ -1,0 +1,12 @@
+{
+  "id": 30018,
+  "alias": "elven lad",
+  "short_desc": "Elven Lad",
+  "long_desc": "An elven lad stands here.",
+  "detailed_desc": "",
+  "flags_raw": "2120 5288 500 E",
+  "stats1_raw": "60 -18 -5 1d1+3600 5d7+64",
+  "stats2_raw": "900 879375 4",
+  "stats3_raw": "8 8 1 -1 3",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/300.mob"
+}

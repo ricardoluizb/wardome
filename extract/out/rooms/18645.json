@@ -3,8 +3,8 @@
   "zone_id": 186,
   "name": "The Balcony",
   "description": "Here you can look out and observe the world around.  Constructed in a\nsemi-circle around the dome of the room, the balcony allows you to look out\nin almost any direction.  Wandering to the south end, you can see the great\ncity of Midgaard off to the south-west.",
-  "header_raw": "186 ad 0",
-  "flags_text": "ad",
+  "header_raw": "186 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

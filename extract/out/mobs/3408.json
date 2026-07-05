@@ -1,0 +1,12 @@
+{
+  "id": 3408,
+  "alias": "oldstyle hunting horror",
+  "short_desc": "the hunting horror",
+  "long_desc": "The hunting horror is here in wait of an unwary traveler.",
+  "detailed_desc": "Serving Nyarlathotep and Roch'tar, these beings are hunting for victims.\nThey resemble enormous ropy black serpents or worms possessing bat-like or\numbrella-like wings.  Their forms continually shift and change, twitching\nand writhing, so it is hard to look at them.  They speak in great harsh\nvoices.  A hunting horror is HUGE, normally around 40 feet long.",
+  "flags_raw": "104 40 -1000 E",
+  "stats1_raw": "190 -87 -27 1d1+14436 5d39+136",
+  "stats2_raw": "2850 24858796 6",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/34.mob"
+}

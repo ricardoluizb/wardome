@@ -1,0 +1,21 @@
+{
+  "id": 13042,
+  "zone_id": 130,
+  "name": "&r-= Trainning Room - Hide =-&n",
+  "description": "In this room have a student of Hide...",
+  "header_raw": "130 96 0",
+  "flags_text": "96",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13040
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

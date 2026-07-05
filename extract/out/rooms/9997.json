@@ -1,0 +1,53 @@
+{
+  "id": 9997,
+  "zone_id": 99,
+  "name": "The lair of the Deepspawn.",
+  "description": "You have entered a 20 foot square opening that appears to be a lair \nof some sort.  Bones lie strewn about in every corner - most of them \nappear to be human bones.  A big pile of treasure sits in the center \nof the room covered with the red mucus that lines the walls here.  \nExits lead in all cardinal directions.",
+  "header_raw": "99 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The bottomless pit.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9912
+    },
+    {
+      "dir": 1,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9953
+    },
+    {
+      "dir": 2,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9911
+    },
+    {
+      "dir": 3,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9985
+    },
+    {
+      "dir": 5,
+      "description": "Freedom.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 503
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

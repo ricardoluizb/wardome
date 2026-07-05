@@ -1,0 +1,34 @@
+{
+  "id": 336,
+  "zone_id": 3,
+  "name": "The wooden bridge",
+  "description": "You have stepped upon a wooden bridge. It looks old but safe to cross.\nIt is made of a wood you haven't seen before.",
+  "header_raw": "3 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The path continues, further ahead you notice some rock formations.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 337
+    },
+    {
+      "dir": 3,
+      "description": "The ancient path leads west and turns north further ahead.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 335
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "rock formation formations",
+      "description": "The rock formations are made of 7 huge, monolith like stones, placed\nin a symbolic circle.\nYou notice it's possible to enter the ring."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/3.wld"
+}

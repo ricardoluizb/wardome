@@ -1,0 +1,34 @@
+{
+  "id": 501,
+  "zone_id": 5,
+  "name": "&mCommon Board&n",
+  "description": "You are in a large and rustic room which is mostly empty, save a few\nrock desks and benches. You can see a couple of banners in the rock walls.\n&n   &CThe Fountain Square&n is to the east.",
+  "header_raw": "5 8340 0",
+  "flags_text": "8340",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 503
+    },
+    {
+      "dir": 3,
+      "description": "You see nothing special.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 570
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "banners",
+      "description": "STAY QUIET WHILE YOU ARE HERE!!!!!!"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

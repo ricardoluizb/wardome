@@ -1,0 +1,12 @@
+{
+  "id": 730,
+  "alias": "beggar",
+  "short_desc": "the Beggar",
+  "long_desc": "A beggar sits here, waiting for handouts.",
+  "detailed_desc": "The beggar looks up at you with sad eyes.  However, you notice\nsomething shiny clenched in his hand...  What is he hiding?",
+  "flags_raw": "200 128 900 E",
+  "stats1_raw": "60 -20 -6 1d1+4080 5d13+74",
+  "stats2_raw": "900 898219 5",
+  "stats3_raw": "6 6 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

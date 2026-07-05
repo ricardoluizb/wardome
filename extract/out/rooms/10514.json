@@ -1,0 +1,21 @@
+{
+  "id": 10514,
+  "zone_id": 104,
+  "name": "Pawn Shop",
+  "description": "You are standing in Hiramoto's Buy & Sell. This poor bastard has\nbeen damned to Hell to serve the public for eternity. He will buy most\nanything you have, since business is slow. Not many people visit\nHell. The store is filled with worthless junk. Piles of aluminum balls,\nand bottle cap collections fill the corners of the room. Junk of\nall kinds is scattered about the store.\nTo the east you see the Mall from Hell.",
+  "header_raw": "104 153 0",
+  "flags_text": "153",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see the Mall from Hell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10515
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

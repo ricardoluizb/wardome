@@ -1,20 +1,12 @@
 {
   "id": 3008,
   "zone_id": 30,
-  "name": "The Reception",
-  "description": "You are standing in the reception.  The staircase leads down to the\nentrance hall.  An exit to the north leads to the Cryogenic Center.\nThere is a small sign on the counter.",
-  "header_raw": "30 d 0",
-  "flags_text": "d",
+  "name": "Reception?",
+  "description": "This was once the reception of Midgaard. Now is the place of the lady\nreceptionist undead. She still thinks she is alive.",
+  "header_raw": "30 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
-    {
-      "dir": 0,
-      "description": "You see the Cryogenic Center.",
-      "keywords": "",
-      "door_flag": 0,
-      "key": -1,
-      "to": 3064
-    },
     {
       "dir": 5,
       "description": "You see the entrance hall.",

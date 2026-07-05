@@ -1,0 +1,37 @@
+{
+  "id": 10488,
+  "zone_id": 104,
+  "name": "Ice-Creamery",
+  "description": "You walk into part of an ice-cream factory. Many different types of\nice-cream and other deserts are made by these machines. Above one\nof the machines a sign reads, 'Eye Spleen I Screamery'.\nThe factory continues to the north and east.\nYou can hear sounds of penguins to the west.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see lots of ice-cream machines.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10478
+    },
+    {
+      "dir": 1,
+      "description": "You see lots of ice-cream machines.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10489
+    },
+    {
+      "dir": 3,
+      "description": "You see a dark passageway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10487
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9237,
+  "zone_id": 92,
+  "name": "A Fiery Pathway",
+  "description": "You tread carefully along a path which dips and turns among geysers of fire.\nMiniature volcanoes spew lava in rivers.  The fire is hot but not altogether\ndangerous.  The path extends east and south.",
+  "header_raw": "92 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9214
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9238
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/92.wld"
+}

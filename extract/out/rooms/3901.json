@@ -1,0 +1,45 @@
+{
+  "id": 3901,
+  "zone_id": 39,
+  "name": "The Main Hall",
+  "description": "You stand in a huge room, with smooth white walls, burned in some places,\nsome kind of light iluminates this place, you can't really see from where it\ncomes from, scary...  This must be the First Hall considering all the chairs\nand tables, and also this light...  Here you hear the scholars warcry, this\nhorrible sound seems to go forever....  You see shadows moving near the walls.\nThe room becomes a corridor to the north, and to small rooms to east and west.",
+  "header_raw": "39 32 9",
+  "flags_text": "32",
+  "sector": 9,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3904
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3902
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3900
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3903
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/39.wld"
+}

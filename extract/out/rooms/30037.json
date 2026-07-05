@@ -1,0 +1,45 @@
+{
+  "id": 30037,
+  "zone_id": 300,
+  "name": "A long hallway",
+  "description": "This lengthy hallway runs through the tower.  At the eastern end is a flight of\nstairs to the other levels.  Nothing of any real interest can be found in these\nbare hallways.  However, you can rent an inn room here for five gold pieces.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30038
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30039
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30040
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30034
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

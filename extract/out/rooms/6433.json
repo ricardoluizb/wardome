@@ -3,8 +3,8 @@
   "zone_id": 64,
   "name": "The Stairwell",
   "description": "This is where the stairwell finally ends.  There is a hall\nto your west.",
-  "header_raw": "64 ad 0",
-  "flags_text": "ad",
+  "header_raw": "64 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

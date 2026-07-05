@@ -1,0 +1,29 @@
+{
+  "id": 1127,
+  "zone_id": 11,
+  "name": "&YRecharge Shop&n",
+  "description": "This shop was created by a mage who studies wands and staffs.\nHere, you can recharge your magical stuff for a little price.\nHave fun.",
+  "header_raw": "11 156 0",
+  "flags_text": "156",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "You see nothing special.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 569
+    },
+    {
+      "dir": 5,
+      "description": "You see nothing special.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 533
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

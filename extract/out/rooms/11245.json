@@ -1,0 +1,29 @@
+{
+  "id": 11245,
+  "zone_id": 112,
+  "name": "The Entrance to the Tower",
+  "description": "The shanties and hovels end before the doors to the white tower, above\nwhich a crude grinning skull has been carved, scarring the fine marble of\nthis towering edifice. You utter an oath and vow to destroy the vermin\nwho have infested this region. The tower itself is nearly thirty feet tall,\nand boasts no windows or other visible entrances; simply sheer walls of\nwhite marble.",
+  "header_raw": "112 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11246
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11244
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

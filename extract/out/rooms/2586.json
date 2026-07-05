@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "A Laboratory",
   "description": "You are in a small laboratory.  Many strange instruments, vials, bottles\nand some scrawled notes are piled about a workbench.  This room is very\nuntidy, looking almost abandoned, or used by a madman.\n   The only apparent exits are east and north.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

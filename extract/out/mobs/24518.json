@@ -1,0 +1,12 @@
+{
+  "id": 24518,
+  "alias": "spirit unclean frog",
+  "short_desc": "the unclean spirit",
+  "long_desc": "A spirit like a frog howls here.",
+  "detailed_desc": "The unclean spirit came from the mouth of\nthe dragon, and is really a devil. It\nperforms a series of miracles to impress you\nwith its power and sway you to fight on the\nside of the dragon.",
+  "flags_raw": "74 40 -400 E",
+  "stats1_raw": "125 -46 -11 1d1+5496 5d13+70",
+  "stats2_raw": "1875 6808983 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/245.mob"
+}

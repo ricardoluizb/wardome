@@ -1,0 +1,12 @@
+{
+  "id": 3403,
+  "alias": "oldstyle undead wraith",
+  "short_desc": "the wraith",
+  "long_desc": "You spot a wraith advancing towards you from the shadows.",
+  "detailed_desc": "The wraith no longer has a material form.  He is wearing a tattered\nblack robe which hides all but the darkness of his face and the glimmer\nin his eyes.",
+  "flags_raw": "106 42 -750 E",
+  "stats1_raw": "160 -72 -23 1d1+12156 5d33+124",
+  "stats2_raw": "2400 15069747 6",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/34.mob"
+}

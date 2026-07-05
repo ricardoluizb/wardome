@@ -1,0 +1,21 @@
+{
+  "id": 10449,
+  "zone_id": 104,
+  "name": "Cell",
+  "description": "The cell is very damp and very musty. The walls are covered with moisture\nand dirt. The smell of urine is very potent here.\nThe steel bars to the cell are to the north.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see bars",
+      "keywords": "bars",
+      "door_flag": 1,
+      "key": -1,
+      "to": 10439
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

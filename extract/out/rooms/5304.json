@@ -3,8 +3,8 @@
   "zone_id": 53,
   "name": "Climbing The Great Pyramid",
   "description": "Hot air rises off the sides of the pyramid, and the wind chokes you with\na flurry of sand and dust.  The walls of the pyramid are quite steep, and\nyou are having trouble keeping from sliding down into the sands below.",
-  "header_raw": "53 0 5",
-  "flags_text": "0",
+  "header_raw": "53 32768 5",
+  "flags_text": "32768",
   "sector": 5,
   "exits": [
     {

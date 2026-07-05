@@ -1,0 +1,12 @@
+{
+  "id": 11583,
+  "alias": "janitor",
+  "short_desc": "the janitor",
+  "long_desc": "A janitor is walking around, cleaning up.",
+  "detailed_desc": "What is there to say?  He is cleaning stuff up.  Wow.  What a thrill.",
+  "flags_raw": "204 2 0 E",
+  "stats1_raw": "30 1 2 1d1+1320 5d4+32",
+  "stats2_raw": "450 130339 2",
+  "stats3_raw": "8 8 1 -1 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 8237,
+  "zone_id": 82,
+  "name": "A Bridge In France",
+  "description": "You are at the tope of a stone bridge with curved arches, you look down and\nsee the crystal water, the river of cena is so calm and clean that you can \nsee your own reflection in the water. There is a sign here you should read it.",
+  "header_raw": "82 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8200
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8238
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "read sign",
+      "description": "To the North it is the city of Paris\nTo the South it is the city of Lyon"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "The First Barrack Room",
   "description": "Here is the first of two main rooms of barracks.  The barracks\ncontinue to the south, and you can leave the room to the north.",
-  "header_raw": "65 d 0",
-  "flags_text": "d",
+  "header_raw": "65 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

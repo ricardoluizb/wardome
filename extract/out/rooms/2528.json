@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Jailor's office",
   "description": "You are in the Jailor's office.  It is rather messy here.  Judging\nby the sleeping form of the Jailor on duty, you can surmise that very\nfew, if any prisoners survive long enough to spend much time in these\ndank dungeons.\n   The only exit leads back west.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

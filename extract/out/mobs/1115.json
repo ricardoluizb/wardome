@@ -1,0 +1,12 @@
+{
+  "id": 1115,
+  "alias": "oldstyle mill worker",
+  "short_desc": "the mill worker",
+  "long_desc": "The mill worker runs to and fro.",
+  "detailed_desc": "The mill worker is in fine shape from the hard labor that he does at the\nmill.  He doesn't notice your presence, but he looks like he could break you\nin two without thinking about it.",
+  "flags_raw": "10 0 0 E",
+  "stats1_raw": "90 -29 -6 1d1+3960 5d10+56",
+  "stats2_raw": "1350 2658738 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/11.mob"
+}

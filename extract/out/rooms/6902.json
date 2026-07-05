@@ -1,0 +1,29 @@
+{
+  "id": 6902,
+  "zone_id": 69,
+  "name": "At the Top of the Mountain",
+  "description": "Finally you are standing high above the ground, on top of the dreaded\nmountain in the pouring rain.  Up ahead looks to be an old house, and by now,\nyou don't care what kind of shelter you seek.  You begin sprinting to the front\ndoor, exhausted from traveling up the long path, and soaked with mud.  \nSuddenly, lightning strikes only a few feet away from where you were.  \nUnprepared, you almost fall to the mud.  Now you are running as fast as one can\ngo.",
+  "header_raw": "69 1 5",
+  "flags_text": "1",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6903
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6901
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

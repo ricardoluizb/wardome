@@ -1,0 +1,29 @@
+{
+  "id": 26602,
+  "zone_id": 266,
+  "name": "Examinando a sala.",
+  "description": "Para examinar a sala, basta digitar '&Rlook&n'.\n&w &n\nAnde para '&Rw&n' para continuar o seu aprendizado.",
+  "header_raw": "266 1310720 0",
+  "flags_text": "1310720",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26601
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26603
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/266.wld"
+}

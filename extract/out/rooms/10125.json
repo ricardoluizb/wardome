@@ -1,0 +1,21 @@
+{
+  "id": 10125,
+  "zone_id": 101,
+  "name": "Elrond's Personal Quarters",
+  "description": "A large room stretches before you, elegantly but spartanly furnished.  A large\nbed leans against the east wall, covered with delicate pillows and blankets.  \nTo the west, a large window overlooks the valley, bordered by flowing curtains\nwhich billow in the breeze.  A small, but elegant rug lies in the center of the\nroom.",
+  "header_raw": "101 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10123
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/101.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 21501,
+  "zone_id": 215,
+  "name": "Entrance to Abyssal's Pit",
+  "description": "Many stones and vary ashes and sand, you feel in the walls and ways more holes\nyou can see on the walls around you, have too many holes horizontelly in the\nways, once of thee will lead to many different places, care yourself.",
+  "header_raw": "215 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 21502
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/215.wld"
+}

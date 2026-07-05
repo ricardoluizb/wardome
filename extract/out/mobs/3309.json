@@ -4,9 +4,9 @@
   "short_desc": "the Receptionist",
   "long_desc": "A receptionist offers you a room.",
   "detailed_desc": "He looks like a retired farmer now making an honest living in an inn.\nMore power to him!",
-  "flags_raw": "b 0 400 S",
-  "stats1_raw": "12 9 -30 3d5+140 2d7+1",
-  "stats2_raw": "8000 8000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "10 0 400 E",
+  "stats1_raw": "170 -71 -20 1d1+8832 5d18+98",
+  "stats2_raw": "2550 16851653 3",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/33.mob"
 }

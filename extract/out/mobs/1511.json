@@ -4,9 +4,9 @@
   "short_desc": "Pharoah",
   "long_desc": "Pharoah has been sent here in retribution for a lifetime of evils.",
   "detailed_desc": "Richly clothed and postured in arrogance and love of power, he looks at\nyou with nothing more than a smirk of contempt.",
-  "flags_raw": "b dk -1000 S",
-  "stats1_raw": "25 -3 -4 5d10+650 4d6+5",
-  "stats2_raw": "25000 145000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "10 1032 -1000 E",
+  "stats1_raw": "166 -75 -23 1d1+12612 5d33+126",
+  "stats2_raw": "2490 16771957 6",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/15.mob"
 }

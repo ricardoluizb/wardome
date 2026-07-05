@@ -1,0 +1,12 @@
+{
+  "id": 13236,
+  "alias": "piercer",
+  "short_desc": "a piercer",
+  "long_desc": "A stalactite hangs from the cave ceiling",
+  "detailed_desc": "You see what appears to be a harmless stalactite.",
+  "flags_raw": "42 1064 -200 E",
+  "stats1_raw": "30 -11 -6 1d1+2760 5d7+92",
+  "stats2_raw": "450 151287 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

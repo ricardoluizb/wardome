@@ -1,0 +1,29 @@
+{
+  "id": 6744,
+  "zone_id": 67,
+  "name": "The east gate of Sundhaven",
+  "description": "You stand on the eastern border of Sundhaven, before a heavy gate\nforged from iron and painted bone-white. A hot desert wind blows\nthrough the grating sporadically, giving hint to the vast regions\nbeyond.",
+  "header_raw": "67 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": 6779,
+      "to": 6860
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6730
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

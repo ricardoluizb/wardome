@@ -1,0 +1,29 @@
+{
+  "id": 4702,
+  "zone_id": 47,
+  "name": "Mines",
+  "description": "This small dark tunnel continues to the north where to light no longer allows\nnormal sight.  To the east the small mine leads a a better lit area and you can\nsmell a brisk fresh air.",
+  "header_raw": "47 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4703
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4701
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

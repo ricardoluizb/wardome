@@ -1,0 +1,45 @@
+{
+  "id": 2762,
+  "zone_id": 27,
+  "name": "East main street of Bree",
+  "description": "You are standing outside of an Inn, which can be entered to the north.  The\nsign hanging over the door indicates it is The Prancing Pony.  Rumors abound\nthroughout your travels about the hospitality and good times to be had here.  \nYou have heard that it is the best in town.  An arrow on the wall points the\nway to where horses can be stabled.  You can see a children's playground to the\nsouth, and at times you can probably hear their laughter from here.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2765
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2777
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2763
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2756
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

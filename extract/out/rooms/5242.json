@@ -3,8 +3,8 @@
   "zone_id": 52,
   "name": "A Bath House",
   "description": "This was once the bath house for the commoners of the city.  Hot\nsteamy water still wells up from a hole in the floor.  Obviously there\nis a hot spring located under the city (making the decision to put\na city here seem much more reasonable).  Closer inspection of the water\nyields a dead body floating around in it, skin melted away from months\nof floating in there.  The west wall has collapsed revealing another\ncollapsed house.",
-  "header_raw": "52 d 1",
-  "flags_text": "d",
+  "header_raw": "52 8 1",
+  "flags_text": "8",
   "sector": 1,
   "exits": [
     {

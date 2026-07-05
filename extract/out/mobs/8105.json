@@ -1,0 +1,12 @@
+{
+  "id": 8105,
+  "alias": "maxtrum halfling shopkeeper",
+  "short_desc": "Maxtrum Holloknob",
+  "long_desc": "A stout halfling shopkeeper eyes your moneybag with a glinting eye.",
+  "detailed_desc": "Guard your wallet carefully! Rumor has it that Maxtrum rarely runs\nout of money, which would be wonderful, if only his customers didn't\nso often find their pockets lighter after leaving his store, though\nthey bought nothing.",
+  "flags_raw": "190687 263352 700 E",
+  "stats1_raw": "159 -81 -30 1d1+18444 5d46+172",
+  "stats2_raw": "2385 19422044 11",
+  "stats3_raw": "8 8 1 2 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 29928,
+  "zone_id": 298,
+  "name": "Along the path before the stables",
+  "description": "As you walk along this path, the number of hoofprints on the ground seem to\nincrease in number.  They all lead to or from the north, where sounds of horses\ncan be heard.  It must be the stables, seeing as how it looks to be the only\nbuilding on the ground.",
+  "header_raw": "298 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29929
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29931
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29926
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

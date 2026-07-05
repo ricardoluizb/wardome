@@ -1,0 +1,37 @@
+{
+  "id": 10028,
+  "zone_id": 100,
+  "name": "Vault",
+  "description": "The vault seems almost too quiet, even for the fact that it is indeed a\nvault.  The small, dark passageway seems to beckon you, it being south of your\ncurrent locale.  You think you may even see a flicker of light coming from the\ninner reaches of that passage.",
+  "header_raw": "100 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10026
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10030
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10027
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/100.wld"
+}

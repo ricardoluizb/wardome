@@ -1,0 +1,12 @@
+{
+  "id": 17802,
+  "alias": "man gnome",
+  "short_desc": "a gnome man",
+  "long_desc": "A gnome man is walking here, on his way to work.",
+  "detailed_desc": "This is a prime example of a gnome.  He looks short and weak, but at the\nsame time an intelligent creature who could outsmart you.",
+  "flags_raw": "12 0 500 E",
+  "stats1_raw": "40 0 4 1d1+837 5d5+16",
+  "stats2_raw": "600 227663 0",
+  "stats3_raw": "8 8 1 3 8",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/178.mob"
+}

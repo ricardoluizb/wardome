@@ -1,698 +1,53 @@
 {
   "id": 30,
-  "name": "Northern Midgaard Main City",
+  "name": "Wardome - Undead Midgaard",
   "header": {
-    "raw": "3000 3099 15 2",
-    "min_room": 3000,
-    "top_room": 3099,
-    "lifespan": 15,
-    "reset_mode": 2
+    "raw": "3099 20 2 1 -1",
+    "min_room": 3099,
+    "top_room": 20,
+    "lifespan": 2,
+    "reset_mode": 1
   },
   "commands": [
     {
       "cmd": "M",
       "args": [
         0,
-        3000,
-        1,
-        3033
-      ],
-      "comment": "Wizard Shop Keeper"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3050,
-        500
-      ],
-      "comment": "Scroll Of Identify"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3051,
-        500
-      ],
-      "comment": "Yellow Potion"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3052,
-        500
-      ],
-      "comment": "Scroll Of Recall"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3053,
-        500
-      ],
-      "comment": "Grey Wand"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3054,
-        500
-      ],
-      "comment": "Gnarled Staff"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3001,
-        1,
-        3009
-      ],
-      "comment": "Baker"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3009,
-        100
-      ],
-      "comment": "Waybread"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3010,
-        100
-      ],
-      "comment": "Loaf Of Bread"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3011,
-        100
-      ],
-      "comment": "Danish Pastry"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3002,
-        1,
-        3010
-      ],
-      "comment": "Grocer"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3030,
-        100
-      ],
-      "comment": "Torch"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3031,
-        100
-      ],
-      "comment": "Lantern"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3032,
-        100
-      ],
-      "comment": "Bag"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3033,
-        100
-      ],
-      "comment": "Box"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3036,
-        100
-      ],
-      "comment": "Cashcard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3003,
-        1,
-        3011
-      ],
-      "comment": "Weaponsmith"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3020,
-        100
-      ],
-      "comment": "Dagger"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3021,
-        100
-      ],
-      "comment": "Small Sword"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3022,
-        100
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3023,
-        100
-      ],
-      "comment": "Wooden Club"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3024,
-        100
-      ],
-      "comment": "Warhammer"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3025,
-        100
-      ],
-      "comment": "Flail"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3004,
-        1,
-        3020
-      ],
-      "comment": "Armourer"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3040,
-        100
-      ],
-      "comment": "Breast Plate"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3041,
-        100
-      ],
-      "comment": "Chain Mail Shirt"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3042,
-        100
-      ],
-      "comment": "Wooden Shield"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3043,
-        100
-      ],
-      "comment": "Leather Jacket"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3044,
-        100
-      ],
-      "comment": "Studded Leather Jacket"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
         3045,
-        100
-      ],
-      "comment": "Scale Mail Jacket"
-    },
-    {
-      "cmd": "G",
-      "args": [
         1,
-        3046,
-        100
+        3022
       ],
-      "comment": "Bronze Breast Plate"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3070,
-        100
-      ],
-      "comment": "Bronze Gauntlets"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3071,
-        100
-      ],
-      "comment": "Leather Gloves"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3075,
-        100
-      ],
-      "comment": "Bronze Helmet"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3076,
-        100
-      ],
-      "comment": "Leather Cap"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3080,
-        100
-      ],
-      "comment": "Bronze Leggings"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3081,
-        100
-      ],
-      "comment": "Leather Pants"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3085,
-        100
-      ],
-      "comment": "Bronze Sleeves"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3086,
-        100
-      ],
-      "comment": "Leather Sleeves"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3005,
-        1,
-        3008
-      ],
-      "comment": "Receptionist"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3006,
-        1,
-        3049
-      ],
-      "comment": "Captain"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3060,
-        20
-      ],
-      "comment": "Raft"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3061,
-        10
-      ],
-      "comment": "Canoe"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3007,
-        1,
-        3050
-      ],
-      "comment": "Sailor"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3009,
-        1,
-        3058
-      ],
-      "comment": "Wally The Watermaster"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3102,
-        100
-      ],
-      "comment": "Water Cup"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3103,
-        100
-      ],
-      "comment": "Water Bottle"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3104,
-        100
-      ],
-      "comment": "Water Canteen"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        6013,
-        100
-      ],
-      "comment": "Water Barrel"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3010,
-        1,
-        3062
-      ],
-      "comment": "Postmaster"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3020,
-        1,
-        3019
-      ],
-      "comment": "Magic Users' Guildmaster"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3021,
-        1,
-        3002
-      ],
-      "comment": "Clerics' Guildmaster"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3022,
-        1,
-        3029
-      ],
-      "comment": "Thieves' Guildmaster"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3023,
-        1,
-        3023
-      ],
-      "comment": "Warriors' Guildmaster"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3024,
-        1,
-        3017
-      ],
-      "comment": "Mage Guard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3025,
-        1,
-        3004
-      ],
-      "comment": "Priest Templar Guard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3026,
-        1,
-        3027
-      ],
-      "comment": "Thief Guard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3027,
-        1,
-        3021
-      ],
-      "comment": "Warrior Guard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3040,
-        1,
-        3007
-      ],
-      "comment": "Bartender"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3000,
-        100
-      ],
-      "comment": "Beer Barrel"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3001,
-        100
-      ],
-      "comment": "Beer Bottle"
+      "comment": "(the waiter)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3002,
-        100
+        100,
+        -1
       ],
-      "comment": "Dark Ale Bottle"
+      "comment": "(a bottle)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3003,
-        100
+        100,
+        -1
       ],
-      "comment": "Firebreather"
+      "comment": "(a firebreather)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3004,
-        100
+        100,
+        -1
       ],
-      "comment": "Local Bottle"
+      "comment": "(a bottle)"
     },
     {
       "cmd": "E",
@@ -702,83 +57,7 @@
         100,
         16
       ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3042,
-        1,
-        3018
-      ],
-      "comment": "Magic Users' Waiter"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3002,
-        100
-      ],
-      "comment": "Dark Ale Bottle"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3003,
-        100
-      ],
-      "comment": "Firebreather"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3020,
-        100,
-        16
-      ],
-      "comment": "Dagger"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3043,
-        1,
-        3003
-      ],
-      "comment": "Clerics' Waiter"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3002,
-        100
-      ],
-      "comment": "Dark Ale Bottle"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3004,
-        100
-      ],
-      "comment": "Local Bottle"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3024,
-        100,
-        16
-      ],
-      "comment": "Warhammer"
+      "comment": "(a long sword)"
     },
     {
       "cmd": "M",
@@ -788,25 +67,27 @@
         1,
         3028
       ],
-      "comment": "Thieves' Waiter"
+      "comment": "(the waiter)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3003,
-        100
+        100,
+        -1
       ],
-      "comment": "Firebreather"
+      "comment": "(a firebreather)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3004,
-        100
+        100,
+        -1
       ],
-      "comment": "Local Bottle"
+      "comment": "(a bottle)"
     },
     {
       "cmd": "E",
@@ -816,555 +97,117 @@
         100,
         16
       ],
-      "comment": "Small Sword"
+      "comment": "(a small sword)"
     },
     {
       "cmd": "M",
       "args": [
         0,
-        3045,
-        1,
-        3022
+        3010,
+        3,
+        3062
       ],
-      "comment": "Fighters' Waiter"
+      "comment": "(the postmaster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3042,
+        1,
+        3018
+      ],
+      "comment": "(the waiter)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3002,
-        100
+        100,
+        -1
       ],
-      "comment": "Dark Ale Bottle"
+      "comment": "(a bottle)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3003,
-        100
+        100,
+        -1
       ],
-      "comment": "Firebreather"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3004,
-        100
-      ],
-      "comment": "Local Bottle"
+      "comment": "(a firebreather)"
     },
     {
       "cmd": "E",
       "args": [
         1,
-        3022,
+        3020,
         100,
         16
       ],
-      "comment": "Long Sword"
+      "comment": "(a dagger)"
     },
     {
       "cmd": "M",
       "args": [
         0,
-        3046,
+        3097,
         1,
-        3048
+        3001
       ],
-      "comment": "Filthy"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3003,
-        100
-      ],
-      "comment": "Firebreather"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3004,
-        100
-      ],
-      "comment": "Local Bottle"
+      "comment": "(Thalasyxant, the black dragon)"
     },
     {
       "cmd": "E",
       "args": [
         1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3059,
-        5,
-        3004
-      ],
-      "comment": "Peacekeeper"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3059,
-        5,
-        3014
-      ],
-      "comment": "Peacekeeper"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3059,
-        5,
-        3017
-      ],
-      "comment": "Peacekeeper"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3059,
-        5,
-        3021
-      ],
-      "comment": "Peacekeeper"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3059,
-        5,
-        3027
-      ],
-      "comment": "Peacekeeper"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3060,
-        10,
-        3004
-      ],
-      "comment": "Cityguard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3060,
-        10,
-        3014
-      ],
-      "comment": "Cityguard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3060,
-        10,
-        3017
-      ],
-      "comment": "Cityguard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3060,
-        10,
-        3021
-      ],
-      "comment": "Cityguard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3060,
-        10,
-        3027
-      ],
-      "comment": "Cityguard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3061,
-        5,
-        3006
-      ],
-      "comment": "Janitor"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3062,
-        15,
-        3024
-      ],
-      "comment": "Fido"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3015,
-        30
-      ],
-      "comment": "Mystery Meat"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3062,
-        15,
-        3025
-      ],
-      "comment": "Fido"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3015,
-        30
-      ],
-      "comment": "Mystery Meat"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3062,
-        15,
-        3016
-      ],
-      "comment": "Fido"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3015,
-        30
-      ],
-      "comment": "Mystery Meat"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3062,
-        15,
-        3012
-      ],
-      "comment": "Fido"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3015,
-        30
-      ],
-      "comment": "Mystery Meat"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3063,
-        5,
-        3026
-      ],
-      "comment": "Mercenary"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3021,
-        100,
-        16
-      ],
-      "comment": "Small Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3064,
-        3,
-        3007
-      ],
-      "comment": "Happy Drunk"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3065,
-        2,
-        3044
-      ],
-      "comment": "Beggar"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3005,
-        1
-      ],
-      "comment": "Sewer Key"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3065,
-        2,
-        3048
-      ],
-      "comment": "Beggar"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
         3066,
         1,
-        3026
+        5
       ],
-      "comment": "Odif"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3015,
-        30
-      ],
-      "comment": "Mystery Meat"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3067,
-        10,
-        3041
-      ],
-      "comment": "Cityguard"
+      "comment": "(a black dragon scale)"
     },
     {
       "cmd": "E",
       "args": [
         1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3067,
-        10,
-        3040
-      ],
-      "comment": "Cityguard"
-    },
-    {
-      "cmd": "E",
-      "args": [
+        492,
         1,
-        3022,
-        100,
-        16
+        22
       ],
-      "comment": "Long Sword"
+      "comment": "(Unholy crest)"
     },
     {
-      "cmd": "M",
+      "cmd": "R",
       "args": [
         0,
-        3068,
-        4,
-        3008
+        3000,
+        3099,
+        -1
       ],
-      "comment": "Green Blob"
+      "comment": "(a bulletin board)"
     },
     {
-      "cmd": "M",
+      "cmd": "O",
       "args": [
         0,
-        3068,
-        4,
-        3014
+        3099,
+        7,
+        3000
       ],
-      "comment": "Green Blob"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3089,
-        1,
-        3031
-      ],
-      "comment": "Pet Shop Boy"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3090,
-        1,
-        3032
-      ],
-      "comment": "Kitten"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3091,
-        1,
-        3032
-      ],
-      "comment": "Puppy"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3092,
-        1,
-        3032
-      ],
-      "comment": "Beagle"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3093,
-        1,
-        3032
-      ],
-      "comment": "Rottweiler"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3094,
-        1,
-        3032
-      ],
-      "comment": "Wolf"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3095,
-        1,
-        3064
-      ],
-      "comment": "Cryogenicist"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
+      "comment": "(a bulletin board)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         3005,
-        3035
+        3035,
+        -1
       ],
-      "comment": ""
+      "comment": "(the fountain of blood)"
     },
     {
       "cmd": "O",
@@ -1374,73 +217,1397 @@
         1,
         3005
       ],
-      "comment": "Fountain"
+      "comment": "(the fountain of blood)"
     },
     {
-      "cmd": "R",
-      "args": [
-        0,
-        3001,
-        3034
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        3034,
-        10,
-        3001
-      ],
-      "comment": "ATM"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        3008,
-        3034
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
+      "cmd": "M",
       "args": [
         1,
-        3034,
+        3050,
         10,
-        3008
+        3005
       ],
-      "comment": "ATM"
+      "comment": "(a blood golem)"
     },
     {
-      "cmd": "R",
-      "args": [
-        0,
-        3004,
-        3034
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
+      "cmd": "M",
       "args": [
         1,
-        3034,
+        3050,
+        10,
+        3005
+      ],
+      "comment": "(a blood golem)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3050,
+        10,
+        3005
+      ],
+      "comment": "(a blood golem)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3050,
+        10,
+        3005
+      ],
+      "comment": "(a blood golem)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3050,
+        10,
+        3005
+      ],
+      "comment": "(a blood golem)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3050,
+        10,
+        3005
+      ],
+      "comment": "(a blood golem)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3050,
+        10,
+        3005
+      ],
+      "comment": "(a blood golem)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3050,
+        10,
+        3005
+      ],
+      "comment": "(a blood golem)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3050,
+        10,
+        3005
+      ],
+      "comment": "(a blood golem)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3050,
+        10,
+        3005
+      ],
+      "comment": "(a blood golem)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3050,
+        15,
+        3054
+      ],
+      "comment": "(a blood golem)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3050,
+        15,
+        3054
+      ],
+      "comment": "(a blood golem)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3050,
+        15,
+        3054
+      ],
+      "comment": "(a blood golem)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3050,
+        15,
+        3054
+      ],
+      "comment": "(a blood golem)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3050,
+        15,
+        3054
+      ],
+      "comment": "(a blood golem)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3061,
+        5,
+        3006
+      ],
+      "comment": "(the eater devil)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3098,
+        1,
+        3095
+      ],
+      "comment": "(the black monster)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3067,
+        1,
+        16
+      ],
+      "comment": "(the magic mana sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3072,
+        10,
+        3095
+      ],
+      "comment": "(the cursed shadow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3063,
+        20,
+        3026
+      ],
+      "comment": "(the Banshee)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3021,
+        100,
+        16
+      ],
+      "comment": "(a small sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3066,
+        1,
+        3026
+      ],
+      "comment": "(an undead wolf)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3015,
+        30,
+        -1
+      ],
+      "comment": "(a piece of meat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3007,
+        30,
+        3050
+      ],
+      "comment": "(a vampire sailor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3025,
+        3,
+        3004
+      ],
+      "comment": "(a zombie knight)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3059,
+        5,
+        3004
+      ],
+      "comment": "(the Skeleton Warrior)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3060,
         10,
         3004
       ],
-      "comment": "ATM"
+      "comment": "(a skeleton warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3026,
+        1,
+        3027
+      ],
+      "comment": "(the assassin skeleton)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3059,
+        5,
+        3027
+      ],
+      "comment": "(the Skeleton Warrior)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3060,
+        10,
+        3027
+      ],
+      "comment": "(a skeleton warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        3027,
+        3034,
+        -1
+      ],
+      "comment": "(an automatic teller machine)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3027,
+        1,
+        3021
+      ],
+      "comment": "(an undead knight)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3059,
+        5,
+        3021
+      ],
+      "comment": "(the Skeleton Warrior)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3060,
+        10,
+        3021
+      ],
+      "comment": "(a skeleton warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3065,
+        2,
+        3048
+      ],
+      "comment": "(the sucubus)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3059,
+        5,
+        3014
+      ],
+      "comment": "(the Skeleton Warrior)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3060,
+        10,
+        3014
+      ],
+      "comment": "(a skeleton warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3068,
+        4,
+        3014
+      ],
+      "comment": "(the red blood blob)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3005,
+        1,
+        3008
+      ],
+      "comment": "(undead receptionist)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3068,
+        4,
+        3008
+      ],
+      "comment": "(the red blood blob)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3067,
+        10,
+        3040
+      ],
+      "comment": "(the zombie cityguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3001,
+        1,
+        3009
+      ],
+      "comment": "(the baker)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3010,
+        100,
+        -1
+      ],
+      "comment": "(a bread)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3011,
+        100,
+        -1
+      ],
+      "comment": "(a danish pastry)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        18620,
+        100,
+        -1
+      ],
+      "comment": "(a big cake)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3009,
+        100,
+        -1
+      ],
+      "comment": "(a waybread)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3000,
+        1,
+        3033
+      ],
+      "comment": "(the wizard)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3050,
+        500,
+        -1
+      ],
+      "comment": "(a scroll of identify)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3051,
+        500,
+        -1
+      ],
+      "comment": "(a yellow potion of see invisible)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3052,
+        500,
+        -1
+      ],
+      "comment": "(a scroll of recall)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3053,
+        500,
+        -1
+      ],
+      "comment": "(a grey wand of invisibility)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3054,
+        500,
+        -1
+      ],
+      "comment": "(a gnarled staff)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3090,
+        500,
+        -1
+      ],
+      "comment": "(a scroll of remove curse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3062,
+        15,
+        3025
+      ],
+      "comment": "(the hell's dog)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3015,
+        30,
+        -1
+      ],
+      "comment": "(a piece of meat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3023,
+        3,
+        3023
+      ],
+      "comment": "(the fighters' guildmaster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3023,
+        3,
+        3073
+      ],
+      "comment": "(the fighters' guildmaster)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        3096,
+        4,
+        3072
+      ],
+      "comment": "(a social bulletin board)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3025,
+        2,
+        3071
+      ],
+      "comment": "(a zombie knight)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3071,
+        1,
+        3070
+      ],
+      "comment": "(Owner of Necronomicon Manuscript)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3070,
+        2,
+        3068
+      ],
+      "comment": "(the Exosqueleton Necromancer Guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3090,
+        1,
+        3032
+      ],
+      "comment": "(the kitten)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3091,
+        1,
+        3032
+      ],
+      "comment": "(the puppy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3092,
+        1,
+        3032
+      ],
+      "comment": "(the beagle)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3093,
+        1,
+        3032
+      ],
+      "comment": "(the rottweiler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3094,
+        1,
+        3032
+      ],
+      "comment": "(the wolf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3069,
+        1,
+        3032
+      ],
+      "comment": "(the raven)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3028,
+        1,
+        3067
+      ],
+      "comment": "(the scientist)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3087,
+        100,
+        -1
+      ],
+      "comment": "(a potion of mana shield)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3088,
+        100,
+        -1
+      ],
+      "comment": "(potion of mana)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3002,
+        1,
+        3010
+      ],
+      "comment": "(the grocer)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3030,
+        100,
+        -1
+      ],
+      "comment": "(a torch)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3031,
+        100,
+        -1
+      ],
+      "comment": "(A lantern)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3032,
+        100,
+        -1
+      ],
+      "comment": "(a bag)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3033,
+        100,
+        -1
+      ],
+      "comment": "(a box)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3036,
+        100,
+        -1
+      ],
+      "comment": "(a cashcard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3003,
+        1,
+        3011
+      ],
+      "comment": "(the weaponsmith)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3020,
+        100,
+        -1
+      ],
+      "comment": "(a dagger)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3021,
+        100,
+        -1
+      ],
+      "comment": "(a small sword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3022,
+        100,
+        -1
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3023,
+        100,
+        -1
+      ],
+      "comment": "(a wooden club)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3024,
+        100,
+        -1
+      ],
+      "comment": "(a warhammer)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3025,
+        100,
+        -1
+      ],
+      "comment": "(a flail)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3004,
+        1,
+        3020
+      ],
+      "comment": "(the armourer)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3040,
+        100,
+        -1
+      ],
+      "comment": "(a breast plate)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3041,
+        100,
+        -1
+      ],
+      "comment": "(a chain mail shirt)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3042,
+        100,
+        -1
+      ],
+      "comment": "(a shield)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3043,
+        100,
+        -1
+      ],
+      "comment": "(a leather jacket)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3044,
+        100,
+        -1
+      ],
+      "comment": "(a studded leather jacket)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3045,
+        100,
+        -1
+      ],
+      "comment": "(a scale mail jacket)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3046,
+        100,
+        -1
+      ],
+      "comment": "(&ya &ybronze &Ybreast &Yplate&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3070,
+        100,
+        -1
+      ],
+      "comment": "(&ya pair of &Ybronze gauntlets&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3071,
+        100,
+        -1
+      ],
+      "comment": "(a pair of leather gloves)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3075,
+        100,
+        -1
+      ],
+      "comment": "(&ya &Ybronze helmet&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3076,
+        100,
+        -1
+      ],
+      "comment": "(a leather cap)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3080,
+        100,
+        -1
+      ],
+      "comment": "(&ya pair of &Ybronze leggings&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3081,
+        100,
+        -1
+      ],
+      "comment": "(a pair of leather pants)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3085,
+        100,
+        -1
+      ],
+      "comment": "(&ypair of &Ybronze sleeves&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3086,
+        100,
+        -1
+      ],
+      "comment": "(a pair of leather sleeves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3009,
+        1,
+        3058
+      ],
+      "comment": "(Wally the Watermaster)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3102,
+        100,
+        -1
+      ],
+      "comment": "(a cup)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3103,
+        100,
+        -1
+      ],
+      "comment": "(a bottle)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3104,
+        100,
+        -1
+      ],
+      "comment": "(a canteen)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6013,
+        100,
+        -1
+      ],
+      "comment": "(&wa barrel of &CWater&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3020,
+        1,
+        3019
+      ],
+      "comment": "(the mages' guildmaster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3021,
+        1,
+        3002
+      ],
+      "comment": "(the priests' guildmaster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3022,
+        1,
+        3029
+      ],
+      "comment": "(the thieves' guildmaster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3024,
+        1,
+        3017
+      ],
+      "comment": "(the sorcerer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3059,
+        5,
+        3017
+      ],
+      "comment": "(the Skeleton Warrior)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3060,
+        10,
+        3017
+      ],
+      "comment": "(a skeleton warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3062,
+        15,
+        3024
+      ],
+      "comment": "(the hell's dog)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3015,
+        30,
+        -1
+      ],
+      "comment": "(a piece of meat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3062,
+        15,
+        3016
+      ],
+      "comment": "(the hell's dog)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3015,
+        30,
+        -1
+      ],
+      "comment": "(a piece of meat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3062,
+        15,
+        3012
+      ],
+      "comment": "(the hell's dog)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3015,
+        30,
+        -1
+      ],
+      "comment": "(a piece of meat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3065,
+        2,
+        3044
+      ],
+      "comment": "(the sucubus)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3005,
+        1,
+        -1
+      ],
+      "comment": "(a key of dull metal)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3067,
+        10,
+        3041
+      ],
+      "comment": "(the zombie cityguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3089,
+        1,
+        3031
+      ],
+      "comment": "(the Pet Shop Boy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3095,
+        1,
+        3064
+      ],
+      "comment": "(the cryogenicist)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         3017,
-        3034
+        3034,
+        -1
       ],
-      "comment": ""
+      "comment": "(an automatic teller machine)"
     },
     {
       "cmd": "O",
@@ -1450,141 +1617,8 @@
         10,
         3017
       ],
-      "comment": "ATM"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        3021,
-        3034
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        1,
-        3034,
-        10,
-        3021
-      ],
-      "comment": "ATM"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        3027,
-        3034
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        1,
-        3034,
-        10,
-        3027
-      ],
-      "comment": "ATM"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        3000,
-        3099
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        3099,
-        2,
-        3000
-      ],
-      "comment": "Mortal Bulletin Board"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        3003,
-        3096
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        1,
-        3096,
-        5,
-        3003
-      ],
-      "comment": "Social Bulletin Board"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        3018,
-        3096
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        1,
-        3096,
-        5,
-        3018
-      ],
-      "comment": "Social Bulletin Board"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        3022,
-        3096
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        1,
-        3096,
-        5,
-        3022
-      ],
-      "comment": "Social Bulletin Board"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        3028,
-        3096
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        1,
-        3096,
-        5,
-        3028
-      ],
-      "comment": "Social Bulletin Board"
+      "comment": "(an automatic teller machine)"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/30.zon"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/30.zon"
 }

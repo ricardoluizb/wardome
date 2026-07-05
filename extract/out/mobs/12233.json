@@ -1,0 +1,12 @@
+{
+  "id": 12233,
+  "alias": "fenris wolf",
+  "short_desc": "the Fenris Wolf",
+  "long_desc": "A wolf of mammoth proportions towers over you.",
+  "detailed_desc": "This \"wolf\" is actually the demonic offspring of Loki. Standing at over\nfifty feet high, it is a wonder that even the Aesir managed to capture it.\nThey are not allowed to slay the offspring of a god, so they had to bind it\nhere instead. Odin would not be displeased, however, were he to find out it\nwas dead.",
+  "flags_raw": "42 1192 -1000 E",
+  "stats1_raw": "40 -8 -2 1d1+2400 5d5+56",
+  "stats2_raw": "600 289753 4",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/122.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 502,
+  "alias": "archer guard",
+  "short_desc": "the Archer",
+  "long_desc": "The WarDome Archer is here, keeping the Gate.",
+  "detailed_desc": "It looks unfinished.",
+  "flags_raw": "2127 0 0 E",
+  "stats1_raw": "0 0 0 0d0+90 45d-2+3",
+  "stats2_raw": "1 1 945",
+  "stats3_raw": "5 5 19 -26 112",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/5.mob"
+}

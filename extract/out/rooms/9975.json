@@ -1,0 +1,21 @@
+{
+  "id": 9975,
+  "zone_id": 99,
+  "name": "A scummy bedroom.",
+  "description": "Well, if you had amorous intentions I am sure they have all dis-\nappeared at the sight of this room.  A bed is here with a big wet \nspot marring the middle.  Grease stains are smeared on the wall near \nthe head of the bed, apparently from someone leaning against it.  The \nfloor is sticky - you can guess why.",
+  "header_raw": "99 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "An upstairs hallway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9974
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

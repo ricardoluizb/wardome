@@ -1,0 +1,21 @@
+{
+  "id": 6843,
+  "zone_id": 67,
+  "name": "A secret hideaway",
+  "description": "You slip down into the hideaway.\nA pleasant room encloses you, a windowless dugout hidden from\nthe lawful population and furnished with kick-back chairs and\nhalf-full bottles of wine. No bounty hunter could find a lounging\nthief here, sheltered away from the executioners of town. No\nhunter, that is, except a rogue like yourself.",
+  "header_raw": "67 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "rug",
+      "door_flag": 1,
+      "key": 6781,
+      "to": 6841
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

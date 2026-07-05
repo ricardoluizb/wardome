@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Long Tunnel",
   "description": "As you travel along this long tunnel, you begin to wonder just\nhow long it is.  The walls are fairly far apart, but you can see\nthat they begin to close in rather rapidly to the east.  In fact,\nthe manner in which they come together almost reminds you of a\nfunnel.",
-  "header_raw": "40 ad 3",
-  "flags_text": "ad",
+  "header_raw": "40 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

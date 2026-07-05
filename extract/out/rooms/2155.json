@@ -1,0 +1,29 @@
+{
+  "id": 2155,
+  "zone_id": 21,
+  "name": "Relnar's Cell",
+  "description": "You stumble into a tiny cell, lit by a single candle.",
+  "header_raw": "21 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2141
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "ebony door",
+      "door_flag": 1,
+      "key": 2104,
+      "to": 2154
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/21.wld"
+}

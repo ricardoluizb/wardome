@@ -1,0 +1,29 @@
+{
+  "id": 13329,
+  "zone_id": 132,
+  "name": "Mage's Guild",
+  "description": "Many magic books are on a bookshelf against one of the walls.  There are many\ntables where magic potions and dusts are being made.  Magic items and scrolls \nare on the walls.",
+  "header_raw": "132 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Barnok's Study",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13330
+    },
+    {
+      "dir": 3,
+      "description": "mage guild",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13328
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

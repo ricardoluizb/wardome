@@ -1,0 +1,42 @@
+{
+  "id": 7760,
+  "zone_id": 77,
+  "name": "A grey road",
+  "description": "The ground beneath your feet is a uniformly grey cobblestone.  A dull red\nsun hangs in an orange sky above your head; you hear none of the sounds you\nwould commonly associate with a normal city.\n   The cobblestone road turns to the north and continues on to the west.  To\nthe east is a door in a large stone building.",
+  "header_raw": "77 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The grey cobblestones continue.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7759
+    },
+    {
+      "dir": 1,
+      "description": "An iron door blocks your entrance into a large stone building.",
+      "keywords": "door iron",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7765
+    },
+    {
+      "dir": 3,
+      "description": "The grey cobblestones continue.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7761
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "door iron",
+      "description": "The door is made from many hammered iron plates, set deep into the stone wall."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/77.wld"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 6733,
+  "zone_id": 67,
+  "name": "A gold sand road",
+  "description": "Sand of pale gold has been carted in from the desert lands to cover\nthis road, reducing the sinking effect of mud during the rains.\nThe air here is heavy with the smell of delicious food, fresh bread\nbaking, and something spicier, to the east.",
+  "header_raw": "67 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6734
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6750
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6732
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6753
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

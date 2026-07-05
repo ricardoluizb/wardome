@@ -1,0 +1,29 @@
+{
+  "id": 7846,
+  "zone_id": 78,
+  "name": "The Storage Room",
+  "description": "You are in a storage room.  Many useless (to you) items fill this room.",
+  "header_raw": "78 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see another room.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 7804,
+      "to": 7848
+    },
+    {
+      "dir": 3,
+      "description": "You see another room.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 7804,
+      "to": 7845
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/78.wld"
+}

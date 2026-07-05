@@ -1,0 +1,37 @@
+{
+  "id": 711,
+  "zone_id": 7,
+  "name": "Moon Gate Road, East",
+  "description": "You near the end of Moon Gate Road, and ahead you spot a sharp\ndropoff aways to the east.  A large building to the south has a\npicture of a trout in full plate hanging out front.  'Bob's Armoury\nand Tackle' it proclaims.  Armoury? Tackle Shop?!?  How curious!\n   Moon Gate Road continues to the east and west.",
+  "header_raw": "7 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 710
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 743
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 712
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

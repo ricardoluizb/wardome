@@ -1,0 +1,45 @@
+{
+  "id": 8111,
+  "zone_id": 81,
+  "name": "King's Way",
+  "description": "Small stores lie north and south of you as you walk toward the market \nsquare of Ofingia.  The northern building is an open shed, where a \nblacksmith is busily pounding iron.  To the south, a carpenter's shop\nfills the air with the fragrance of wood smoke - and a lot of it; he's\nburning shavings.",
+  "header_raw": "81 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You hear a hammer thumping on hot iron, and ringing on the anvil.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8119
+    },
+    {
+      "dir": 1,
+      "description": "You hear the patter of hurrying feet, and knights' heavy tread.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8112
+    },
+    {
+      "dir": 2,
+      "description": "A burly dwarf leaves that way, carrying a log on one shoulder.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8114
+    },
+    {
+      "dir": 3,
+      "description": "What's the matter? Don't you like this town?",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8110
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

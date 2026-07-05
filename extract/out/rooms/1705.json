@@ -1,0 +1,29 @@
+{
+  "id": 1705,
+  "zone_id": 16,
+  "name": "Trail south of forest",
+  "description": "You are on a primitive north-south trail.  Just north of here looms the\nentrance to a deep, dark forest. To the south the trail continues.",
+  "header_raw": "16 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The trail enters a dark forest of thick oaks this way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1706
+    },
+    {
+      "dir": 2,
+      "description": "The trail continues.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1704
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

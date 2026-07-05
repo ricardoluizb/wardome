@@ -3,8 +3,8 @@
   "zone_id": 35,
   "name": "A Tunnel In The Mountains",
   "description": "The walls of this tunnel were carved out many years ago by the goblins\nof this forest.  The floor is well worn, and continues south, into the\nmountain, or back north out into the forest.",
-  "header_raw": "35 a 1",
-  "flags_text": "a",
+  "header_raw": "35 1 1",
+  "flags_text": "1",
   "sector": 1,
   "exits": [
     {

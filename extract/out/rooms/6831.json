@@ -1,0 +1,37 @@
+{
+  "id": 6831,
+  "zone_id": 67,
+  "name": "The blackberry orchard",
+  "description": "Dark brambles hung with dully shining berries form condensed\nhedges, growing in lines and stretching their thorny tendrils\nacross your path. The limbs trail low, heavy with fruit in\ntemperate climate. High stone walls protect this precious bower\nfrom the destructive noise and thoughts of ordinary humans.",
+  "header_raw": "67 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6830
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6832
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6846
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

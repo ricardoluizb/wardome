@@ -1,0 +1,12 @@
+{
+  "id": 5768,
+  "alias": "hand",
+  "short_desc": "a hand",
+  "long_desc": "An animated Hand strikes at you!",
+  "detailed_desc": "This hand rises up from the floor and begins to beat you!",
+  "flags_raw": "110 8 0 E",
+  "stats1_raw": "20 -12 -9 1d1+2316 5d7+118",
+  "stats2_raw": "300 65430 11",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

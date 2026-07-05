@@ -1,12 +1,12 @@
 {
   "id": 3059,
-  "alias": "keeper peacekeeper",
-  "short_desc": "the Peacekeeper",
-  "long_desc": "A Peacekeeper is standing here, ready to jump in at the first sign of trouble.",
-  "detailed_desc": "He looks very strong and wise.  Looks like he doesn't answer to ANYONE.",
-  "flags_raw": "aeglm d 1000 E",
-  "stats1_raw": "17 3 0 5d6+225 3d3+13",
-  "stats2_raw": "2500 30000",
-  "stats3_raw": "8 8 1",
+  "alias": "skeleton warrior",
+  "short_desc": "the Skeleton Warrior",
+  "long_desc": "A skeleton is here, he seems to be moving!",
+  "detailed_desc": "He looks like a old and crumpy skeleton...",
+  "flags_raw": "6232 8 -1000 E",
+  "stats1_raw": "170 -65 -15 1d1+4752 5d18+68",
+  "stats2_raw": "2550 13481323 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Large Cave",
   "description": "You find yourself in what is perhaps the largest cave you\nhave ever been in.  It stretches through the darkness to the\nwest and south.  The cave is nigh filled with echoes created\nby the sound of your breathing.  Stalactites and stalagmites\nhang down from the ceiling and climb upwards from the ground\nof the cavern respectively.  A narrow tunnel leads away from\nthe cave to the north.",
-  "header_raw": "40 ad 2",
-  "flags_text": "ad",
+  "header_raw": "40 9 2",
+  "flags_text": "9",
   "sector": 2,
   "exits": [
     {

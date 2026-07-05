@@ -1,0 +1,1014 @@
+{
+  "id": 298,
+  "name": "Wardome - The Lord of Rings I",
+  "header": {
+    "raw": "29899 30 2 25",
+    "min_room": 29899,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": 25
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29908,
+        1,
+        29863
+      ],
+      "comment": "(Orophin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29901,
+        50,
+        6
+      ],
+      "comment": "(&YThe &yLorien &YHornet&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29900,
+        50,
+        12
+      ],
+      "comment": "(&wAn &WE&wlven &BD&war&Wk C&wape&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29869,
+        2,
+        29869
+      ],
+      "comment": "(Traveller)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29907,
+        50,
+        16
+      ],
+      "comment": "(&ya Little Bow&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29865,
+        5,
+        29865
+      ],
+      "comment": "(Young Elf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29907,
+        50,
+        16
+      ],
+      "comment": "(&ya Little Bow&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29865,
+        5,
+        29865
+      ],
+      "comment": "(Young Elf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29907,
+        50,
+        16
+      ],
+      "comment": "(&ya Little Bow&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29865,
+        5,
+        29865
+      ],
+      "comment": "(Young Elf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29907,
+        50,
+        16
+      ],
+      "comment": "(&ya Little Bow&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        29855,
+        1,
+        1
+      ],
+      "comment": "(Behind the cabinet)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        29813,
+        1,
+        29855
+      ],
+      "comment": "(a jar)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        29825,
+        10,
+        29813
+      ],
+      "comment": "(&yThe &RC&rursed &GO&gne &YR&ying&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        29851,
+        4,
+        1
+      ],
+      "comment": "(The small beach)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29802,
+        1,
+        29821
+      ],
+      "comment": "(Black Orc Chief)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29824,
+        30,
+        10
+      ],
+      "comment": "(&wa &WB&wlack &WS&wleeves&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29823,
+        30,
+        6
+      ],
+      "comment": "(&wa &WB&wlack &WH&welmet&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29822,
+        30,
+        9
+      ],
+      "comment": "(&wa &WB&wlack &WG&wauntlets&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29821,
+        30,
+        8
+      ],
+      "comment": "(&wa &WB&wlack &WB&woots&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29820,
+        30,
+        7
+      ],
+      "comment": "(&wa &WB&wlack &WL&weggings&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29806,
+        30,
+        3
+      ],
+      "comment": "(&wa &WB&wlack &WA&wmulet&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29805,
+        30,
+        11
+      ],
+      "comment": "(&wa &WB&wlack &WS&whield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29803,
+        30,
+        5
+      ],
+      "comment": "(&wa &WB&wlack &WB&wreast &WP&wlate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29800,
+        30,
+        17
+      ],
+      "comment": "(&wa &WB&wlack &WS&wcimitar&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        29807,
+        3,
+        -1
+      ],
+      "comment": "(a huge black key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29801,
+        6,
+        29821
+      ],
+      "comment": "(Black Orc Leader)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29804,
+        30,
+        5
+      ],
+      "comment": "(&wa &WB&wlack &WC&whain &WM&wail&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29802,
+        30,
+        17
+      ],
+      "comment": "(&wa &WB&wlack &WS&wpear&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29800,
+        30,
+        29842
+      ],
+      "comment": "(the Black Orc)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29801,
+        6,
+        29835
+      ],
+      "comment": "(Black Orc Leader)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29800,
+        30,
+        29834
+      ],
+      "comment": "(the Black Orc)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        29831,
+        5,
+        1
+      ],
+      "comment": "(Near the big boulder)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29800,
+        30,
+        29831
+      ],
+      "comment": "(the Black Orc)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29800,
+        30,
+        29831
+      ],
+      "comment": "(the Black Orc)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29800,
+        30,
+        29825
+      ],
+      "comment": "(the Black Orc)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29801,
+        6,
+        29811
+      ],
+      "comment": "(Black Orc Leader)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29802,
+        30,
+        16
+      ],
+      "comment": "(&wa &WB&wlack &WS&wpear&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29804,
+        30,
+        5
+      ],
+      "comment": "(&wa &WB&wlack &WC&whain &WM&wail&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29800,
+        30,
+        29811
+      ],
+      "comment": "(the Black Orc)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29800,
+        25,
+        29807
+      ],
+      "comment": "(the Black Orc)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29800,
+        25,
+        29807
+      ],
+      "comment": "(the Black Orc)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29800,
+        25,
+        29820
+      ],
+      "comment": "(the Black Orc)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29801,
+        6,
+        29822
+      ],
+      "comment": "(Black Orc Leader)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29800,
+        25,
+        29819
+      ],
+      "comment": "(the Black Orc)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29800,
+        25,
+        29813
+      ],
+      "comment": "(the Black Orc)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29800,
+        25,
+        29800
+      ],
+      "comment": "(the Black Orc)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29800,
+        25,
+        29800
+      ],
+      "comment": "(the Black Orc)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29800,
+        25,
+        29800
+      ],
+      "comment": "(the Black Orc)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10145,
+        8,
+        29887
+      ],
+      "comment": "(Huge Troll)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10146,
+        10,
+        16
+      ],
+      "comment": "(&ra blood club&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10145,
+        8,
+        29884
+      ],
+      "comment": "(Huge Troll)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10146,
+        10,
+        16
+      ],
+      "comment": "(&ra blood club&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10149,
+        8,
+        29882
+      ],
+      "comment": "(Orc)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10149,
+        10,
+        16
+      ],
+      "comment": "(a short sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10150,
+        8,
+        29882
+      ],
+      "comment": "(Orc Archer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10148,
+        10,
+        16
+      ],
+      "comment": "(a short bow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10146,
+        4,
+        29882
+      ],
+      "comment": "(Old Huge Troll)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10146,
+        10,
+        16
+      ],
+      "comment": "(&ra blood club&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10146,
+        4,
+        29878
+      ],
+      "comment": "(Old Huge Troll)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10146,
+        10,
+        16
+      ],
+      "comment": "(&ra blood club&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10150,
+        8,
+        29878
+      ],
+      "comment": "(Orc Archer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10148,
+        10,
+        16
+      ],
+      "comment": "(a short bow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10145,
+        8,
+        29870
+      ],
+      "comment": "(Huge Troll)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10146,
+        10,
+        16
+      ],
+      "comment": "(&ra blood club&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10145,
+        8,
+        29870
+      ],
+      "comment": "(Huge Troll)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10146,
+        10,
+        16
+      ],
+      "comment": "(&ra blood club&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        29850,
+        4,
+        2
+      ],
+      "comment": "(The Tomb of the Dwarven king)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29808,
+        1,
+        29850
+      ],
+      "comment": "(the Balin Skeleton)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29809,
+        5,
+        5
+      ],
+      "comment": "(&yDwarven &GMithril &YPlate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29810,
+        5,
+        16
+      ],
+      "comment": "(&yDwarven &cTwo-handed &GMithril &RAxe&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        29847,
+        3,
+        2
+      ],
+      "comment": "(The crypt entrance)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29807,
+        1,
+        29847
+      ],
+      "comment": "(Gimli)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29818,
+        5,
+        16
+      ],
+      "comment": "(&cGimli's &yBattle &wAxe&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29819,
+        5,
+        6
+      ],
+      "comment": "(&cGimli's &yHelm&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        29809,
+        1,
+        2
+      ],
+      "comment": "(In front of the Black Door)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29806,
+        5,
+        29809
+      ],
+      "comment": "(Skeleton of Dwarven Emissary)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        29810,
+        3,
+        2
+      ],
+      "comment": "(The staircase)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29806,
+        5,
+        29810
+      ],
+      "comment": "(Skeleton of Dwarven Emissary)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29805,
+        15,
+        29824
+      ],
+      "comment": "(Skeleton of Dwarven Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29816,
+        20,
+        5
+      ],
+      "comment": "(Dwarven Armor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29817,
+        20,
+        16
+      ],
+      "comment": "(Dwarven Axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29805,
+        15,
+        29816
+      ],
+      "comment": "(Skeleton of Dwarven Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29816,
+        20,
+        5
+      ],
+      "comment": "(Dwarven Armor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29817,
+        20,
+        16
+      ],
+      "comment": "(Dwarven Axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29805,
+        15,
+        29804
+      ],
+      "comment": "(Skeleton of Dwarven Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29816,
+        20,
+        5
+      ],
+      "comment": "(Dwarven Armor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29817,
+        20,
+        16
+      ],
+      "comment": "(Dwarven Axe)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        29849,
+        5,
+        1
+      ],
+      "comment": "(The crypt)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        29849,
+        5,
+        2
+      ],
+      "comment": "(The crypt)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29803,
+        1,
+        29839
+      ],
+      "comment": "(&RBa&rlr&Rog&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29811,
+        5,
+        16
+      ],
+      "comment": "(&gA &RF&rl&Ya&ym&Yi&rn&Rg &RW&rhi&Rp&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29814,
+        5,
+        17
+      ],
+      "comment": "(&gA &RF&rl&Ya&ym&Yi&rn&Rg &RS&rw&Yo&rr&Rd&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        29808,
+        2,
+        -1
+      ],
+      "comment": "(a crypt key)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        29854,
+        2,
+        1
+      ],
+      "comment": "(In the cottage)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        29854,
+        3,
+        1
+      ],
+      "comment": "(In the cottage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29804,
+        1,
+        29854
+      ],
+      "comment": "(Gollum)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        29848,
+        1,
+        2
+      ],
+      "comment": "(The passage)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        29853,
+        0,
+        1
+      ],
+      "comment": "(Outside the cottage)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/298.zon"
+}

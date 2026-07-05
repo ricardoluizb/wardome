@@ -1,0 +1,12 @@
+{
+  "id": 1711,
+  "alias": "female centaur",
+  "short_desc": "a centaur",
+  "long_desc": "A female centaur wanders about this area.",
+  "detailed_desc": "The centaur has the upper torso of a woman and lower body of a horse.",
+  "flags_raw": "12 0 200 E",
+  "stats1_raw": "172 -86 -45 1d1+18576 5d52+168",
+  "stats2_raw": "2580 22317176 10",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/16.mob"
+}

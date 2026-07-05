@@ -2,9 +2,9 @@
   "id": 3010,
   "zone_id": 30,
   "name": "The General Store",
-  "description": "You are inside the general store.  All sorts of items are stacked on shelves\nbehind the counter, safely out of your reach.\nA small note hangs on the wall.",
-  "header_raw": "30 dh 0",
-  "flags_text": "dh",
+  "description": "You are inside the general store.  All sorts of human pieces are stacked on shelves\nbehind the counter, It is a terrible vision.",
+  "header_raw": "30 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

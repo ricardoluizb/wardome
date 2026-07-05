@@ -1,0 +1,45 @@
+{
+  "id": 17632,
+  "zone_id": 176,
+  "name": "Impy Way",
+  "description": "You are on Impy Way.  Houses are to the east and west of here.  Impy Way\ncontinues north and south.  There are many people walking along the streets.",
+  "header_raw": "176 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Impy Way continues north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17637
+    },
+    {
+      "dir": 1,
+      "description": "You see a house.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17633
+    },
+    {
+      "dir": 2,
+      "description": "Impy Way continues south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17625
+    },
+    {
+      "dir": 3,
+      "description": "You see a house.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17635
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/176.wld"
+}

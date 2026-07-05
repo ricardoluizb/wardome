@@ -2,13 +2,43 @@
   "id": 52,
   "name": "The City Of Thalos",
   "header": {
-    "raw": "5200 5299 15 2",
-    "min_room": 5200,
-    "top_room": 5299,
-    "lifespan": 15,
-    "reset_mode": 2
+    "raw": "5299 15 2 1",
+    "min_room": 5299,
+    "top_room": 15,
+    "lifespan": 2,
+    "reset_mode": 1
   },
   "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5201,
+        25,
+        5226
+      ],
+      "comment": "(the lamia)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5203,
+        1,
+        5226
+      ],
+      "comment": "(the mimic)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5215,
+        1,
+        -1
+      ],
+      "comment": "(a tattered scroll)"
+    },
     {
       "cmd": "M",
       "args": [
@@ -17,7 +47,7 @@
         1,
         5250
       ],
-      "comment": "Beholder"
+      "comment": "(the mighty beholder)"
     },
     {
       "cmd": "E",
@@ -27,7 +57,7 @@
         3,
         17
       ],
-      "comment": "Silver Flute"
+      "comment": "(a silver flute)"
     },
     {
       "cmd": "E",
@@ -37,7 +67,7 @@
         3,
         11
       ],
-      "comment": "Iron Shield"
+      "comment": "(a sturdy iron shield)"
     },
     {
       "cmd": "E",
@@ -47,7 +77,7 @@
         1,
         3
       ],
-      "comment": "Green Cloak"
+      "comment": "(a dark green cloak)"
     },
     {
       "cmd": "M",
@@ -57,7 +87,7 @@
         25,
         5235
       ],
-      "comment": "Lamia"
+      "comment": "(the lamia)"
     },
     {
       "cmd": "M",
@@ -67,7 +97,7 @@
         25,
         5232
       ],
-      "comment": "Lamia"
+      "comment": "(the lamia)"
     },
     {
       "cmd": "M",
@@ -77,7 +107,7 @@
         25,
         5236
       ],
-      "comment": "Lamia"
+      "comment": "(the lamia)"
     },
     {
       "cmd": "M",
@@ -87,7 +117,7 @@
         25,
         5237
       ],
-      "comment": "Lamia"
+      "comment": "(the lamia)"
     },
     {
       "cmd": "M",
@@ -97,7 +127,7 @@
         25,
         5242
       ],
-      "comment": "Lamia"
+      "comment": "(the lamia)"
     },
     {
       "cmd": "M",
@@ -107,7 +137,7 @@
         25,
         5218
       ],
-      "comment": "Lamia"
+      "comment": "(the lamia)"
     },
     {
       "cmd": "M",
@@ -117,7 +147,7 @@
         25,
         5219
       ],
-      "comment": "Lamia"
+      "comment": "(the lamia)"
     },
     {
       "cmd": "M",
@@ -127,7 +157,7 @@
         25,
         5220
       ],
-      "comment": "Lamia"
+      "comment": "(the lamia)"
     },
     {
       "cmd": "M",
@@ -137,17 +167,7 @@
         25,
         5225
       ],
-      "comment": "Lamia"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5201,
-        25,
-        5226
-      ],
-      "comment": "Lamia"
+      "comment": "(the lamia)"
     },
     {
       "cmd": "M",
@@ -157,7 +177,7 @@
         25,
         5203
       ],
-      "comment": "Lamia"
+      "comment": "(the lamia)"
     },
     {
       "cmd": "M",
@@ -167,7 +187,7 @@
         25,
         5204
       ],
-      "comment": "Lamia"
+      "comment": "(the lamia)"
     },
     {
       "cmd": "M",
@@ -177,7 +197,7 @@
         25,
         5206
       ],
-      "comment": "Lamia"
+      "comment": "(the lamia)"
     },
     {
       "cmd": "M",
@@ -187,7 +207,7 @@
         25,
         5208
       ],
-      "comment": "Lamia"
+      "comment": "(the lamia)"
     },
     {
       "cmd": "M",
@@ -197,7 +217,7 @@
         25,
         5205
       ],
-      "comment": "Lamia"
+      "comment": "(the lamia)"
     },
     {
       "cmd": "M",
@@ -207,7 +227,7 @@
         25,
         5209
       ],
-      "comment": "Lamia"
+      "comment": "(the lamia)"
     },
     {
       "cmd": "M",
@@ -217,7 +237,7 @@
         25,
         5216
       ],
-      "comment": "Lamia"
+      "comment": "(the lamia)"
     },
     {
       "cmd": "M",
@@ -227,7 +247,7 @@
         25,
         5221
       ],
-      "comment": "Lamia"
+      "comment": "(the lamia)"
     },
     {
       "cmd": "M",
@@ -237,7 +257,7 @@
         25,
         5224
       ],
-      "comment": "Lamia"
+      "comment": "(the lamia)"
     },
     {
       "cmd": "M",
@@ -247,7 +267,7 @@
         25,
         5229
       ],
-      "comment": "Lamia"
+      "comment": "(the lamia)"
     },
     {
       "cmd": "M",
@@ -257,7 +277,7 @@
         25,
         5234
       ],
-      "comment": "Lamia"
+      "comment": "(the lamia)"
     },
     {
       "cmd": "M",
@@ -267,7 +287,7 @@
         25,
         5240
       ],
-      "comment": "Lamia"
+      "comment": "(the lamia)"
     },
     {
       "cmd": "M",
@@ -277,7 +297,7 @@
         1,
         5229
       ],
-      "comment": "Mimic - Chest"
+      "comment": "(the mimic)"
     },
     {
       "cmd": "E",
@@ -287,26 +307,7 @@
         4,
         17
       ],
-      "comment": "Ball Of Light"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5203,
-        1,
-        5226
-      ],
-      "comment": "Mimic - Boulder"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5215,
-        4
-      ],
-      "comment": "Tattered Scroll"
+      "comment": "(a smooth quartz ball)"
     },
     {
       "cmd": "M",
@@ -316,16 +317,17 @@
         1,
         5219
       ],
-      "comment": "Mimic - Floor"
+      "comment": "(the mimic)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5218,
-        4
+        4,
+        -1
       ],
-      "comment": "Talisman"
+      "comment": "(a demon-faced talisman)"
     },
     {
       "cmd": "M",
@@ -335,7 +337,7 @@
         1,
         5238
       ],
-      "comment": "Mimic - Pottery"
+      "comment": "(the mimic)"
     },
     {
       "cmd": "E",
@@ -345,7 +347,7 @@
         4,
         17
       ],
-      "comment": "Ball Of Light"
+      "comment": "(a smooth quartz ball)"
     },
     {
       "cmd": "M",
@@ -355,7 +357,7 @@
         1,
         5236
       ],
-      "comment": "Mimic - Planks"
+      "comment": "(the mimic)"
     },
     {
       "cmd": "E",
@@ -365,7 +367,7 @@
         4,
         12
       ],
-      "comment": "Black Robe"
+      "comment": "(a black silk robe)"
     },
     {
       "cmd": "M",
@@ -375,7 +377,7 @@
         4,
         5232
       ],
-      "comment": "Lizard"
+      "comment": "(the horned lizard)"
     },
     {
       "cmd": "M",
@@ -385,7 +387,7 @@
         4,
         5217
       ],
-      "comment": "Lizard"
+      "comment": "(the horned lizard)"
     },
     {
       "cmd": "M",
@@ -395,7 +397,7 @@
         4,
         5227
       ],
-      "comment": "Lizard"
+      "comment": "(the horned lizard)"
     },
     {
       "cmd": "M",
@@ -405,7 +407,7 @@
         4,
         5244
       ],
-      "comment": "Lizard"
+      "comment": "(the horned lizard)"
     },
     {
       "cmd": "M",
@@ -415,7 +417,7 @@
         3,
         5247
       ],
-      "comment": "Golem SW"
+      "comment": "(the stone golem)"
     },
     {
       "cmd": "E",
@@ -425,7 +427,7 @@
         1,
         17
       ],
-      "comment": "Ebony Seal"
+      "comment": "(an engraved ebony seal)"
     },
     {
       "cmd": "E",
@@ -435,7 +437,7 @@
         5,
         5
       ],
-      "comment": "Chainmail Vest"
+      "comment": "(a ringmail vest)"
     },
     {
       "cmd": "M",
@@ -445,7 +447,7 @@
         3,
         5246
       ],
-      "comment": "Golem NW"
+      "comment": "(the stone golem)"
     },
     {
       "cmd": "E",
@@ -455,7 +457,7 @@
         1,
         17
       ],
-      "comment": "Ivory Seal"
+      "comment": "(an engraved ivory seal)"
     },
     {
       "cmd": "M",
@@ -465,7 +467,7 @@
         3,
         5248
       ],
-      "comment": "Golem NE"
+      "comment": "(the stone golem)"
     },
     {
       "cmd": "E",
@@ -475,7 +477,7 @@
         5,
         16
       ],
-      "comment": "Two-Handed Sword"
+      "comment": "(a two-handed sword)"
     },
     {
       "cmd": "O",
@@ -485,7 +487,7 @@
         1,
         5231
       ],
-      "comment": "Curved Desk"
+      "comment": "(the desk)"
     },
     {
       "cmd": "P",
@@ -495,7 +497,7 @@
         1,
         5225
       ],
-      "comment": "Scroll Of Enchantment"
+      "comment": "(a tattered scroll)"
     },
     {
       "cmd": "P",
@@ -505,7 +507,7 @@
         2,
         5225
       ],
-      "comment": "Scroll Of Detection"
+      "comment": "(a bound scroll)"
     },
     {
       "cmd": "O",
@@ -515,7 +517,7 @@
         1,
         5233
       ],
-      "comment": "Glass Cabinet"
+      "comment": "(the glass cabinet)"
     },
     {
       "cmd": "P",
@@ -525,7 +527,7 @@
         1,
         5227
       ],
-      "comment": "Iron Helm"
+      "comment": "(an iron helm)"
     },
     {
       "cmd": "P",
@@ -535,7 +537,7 @@
         1,
         5227
       ],
-      "comment": "Iron Gauntlets"
+      "comment": "(a pair of iron gauntlets)"
     },
     {
       "cmd": "P",
@@ -545,7 +547,7 @@
         1,
         5227
       ],
-      "comment": "Iron Sleeves"
+      "comment": "(a pair of iron sleeves)"
     },
     {
       "cmd": "P",
@@ -555,7 +557,7 @@
         1,
         5227
       ],
-      "comment": "Iron Boots"
+      "comment": "(a pair of iron boots)"
     },
     {
       "cmd": "P",
@@ -565,7 +567,7 @@
         1,
         5227
       ],
-      "comment": "Iron Leggings"
+      "comment": "(a set of iron greaves)"
     },
     {
       "cmd": "P",
@@ -575,16 +577,17 @@
         1,
         5227
       ],
-      "comment": "Iron Girth"
+      "comment": "(an iron girth)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         5242,
-        5228
+        5228,
+        -1
       ],
-      "comment": ""
+      "comment": "(a half-rotted arm)"
     },
     {
       "cmd": "O",
@@ -594,16 +597,17 @@
         10,
         5242
       ],
-      "comment": "Rotten Arm"
+      "comment": "(a half-rotted arm)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         5217,
-        5219
+        5219,
+        -1
       ],
-      "comment": ""
+      "comment": "(a chunk of venison)"
     },
     {
       "cmd": "O",
@@ -613,16 +617,17 @@
         5,
         5217
       ],
-      "comment": "Venison"
+      "comment": "(a chunk of venison)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         5234,
-        5220
+        5220,
+        -1
       ],
-      "comment": ""
+      "comment": "(a large cracked fountain)"
     },
     {
       "cmd": "O",
@@ -632,16 +637,17 @@
         1,
         5234
       ],
-      "comment": "Cracked Fountain"
+      "comment": "(a large cracked fountain)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         5229,
-        5207
+        5207,
+        -1
       ],
-      "comment": ""
+      "comment": "(a battered iron breast plate)"
     },
     {
       "cmd": "O",
@@ -651,16 +657,17 @@
         5,
         5229
       ],
-      "comment": "Battered Armor"
+      "comment": "(a battered iron breast plate)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         5238,
-        5210
+        5210,
+        -1
       ],
-      "comment": ""
+      "comment": "(a black potion)"
     },
     {
       "cmd": "O",
@@ -670,16 +677,17 @@
         2,
         5238
       ],
-      "comment": "Black Potion"
+      "comment": "(a black potion)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         5238,
-        5211
+        5211,
+        -1
       ],
-      "comment": ""
+      "comment": "(an orange potion)"
     },
     {
       "cmd": "O",
@@ -689,16 +697,17 @@
         2,
         5238
       ],
-      "comment": "Orange Potion"
+      "comment": "(an orange potion)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         5238,
-        5213
+        5213,
+        -1
       ],
-      "comment": ""
+      "comment": "(a green serpentine staff)"
     },
     {
       "cmd": "O",
@@ -708,16 +717,17 @@
         2,
         5238
       ],
-      "comment": "Serpentine Staff"
+      "comment": "(a green serpentine staff)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         5230,
-        5250
+        5250,
+        -1
       ],
-      "comment": ""
+      "comment": "(a mandolin)"
     },
     {
       "cmd": "O",
@@ -727,16 +737,17 @@
         2,
         5230
       ],
-      "comment": "Mandolin"
+      "comment": "(a mandolin)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         5230,
-        5251
+        5251,
+        -1
       ],
-      "comment": ""
+      "comment": "(a golden harp)"
     },
     {
       "cmd": "O",
@@ -746,7 +757,7 @@
         2,
         5230
       ],
-      "comment": "Harp"
+      "comment": "(a golden harp)"
     },
     {
       "cmd": "O",
@@ -756,7 +767,7 @@
         1,
         5202
       ],
-      "comment": "Pale Blue Stone"
+      "comment": "(a pale blue stone)"
     },
     {
       "cmd": "O",
@@ -766,7 +777,7 @@
         1,
         5205
       ],
-      "comment": "Scarlet And Blue Stone"
+      "comment": "(a scarlet and blue stone)"
     },
     {
       "cmd": "O",
@@ -776,7 +787,7 @@
         1,
         5208
       ],
-      "comment": "Incandescent Blue Stone"
+      "comment": "(an incandescent blue stone)"
     },
     {
       "cmd": "O",
@@ -786,7 +797,7 @@
         1,
         5211
       ],
-      "comment": "Deep Red Stone"
+      "comment": "(a deep red stone)"
     },
     {
       "cmd": "O",
@@ -796,7 +807,7 @@
         1,
         5214
       ],
-      "comment": "Pink Stone"
+      "comment": "(a pink stone)"
     },
     {
       "cmd": "O",
@@ -806,7 +817,7 @@
         1,
         5217
       ],
-      "comment": "White Stone"
+      "comment": "(a pearly white stone)"
     },
     {
       "cmd": "O",
@@ -816,7 +827,7 @@
         1,
         5220
       ],
-      "comment": "Pale Lavander Stone"
+      "comment": "(a pale lavender stone)"
     },
     {
       "cmd": "O",
@@ -826,7 +837,7 @@
         1,
         5224
       ],
-      "comment": "Green And Lavander Stone"
+      "comment": "(a lavender and green stone)"
     },
     {
       "cmd": "O",
@@ -836,7 +847,7 @@
         1,
         5227
       ],
-      "comment": "Dusty Rose Stone"
+      "comment": "(a dusty rose stone)"
     },
     {
       "cmd": "O",
@@ -846,7 +857,7 @@
         1,
         5230
       ],
-      "comment": "Dull Grey Stone"
+      "comment": "(a dull grey stone)"
     },
     {
       "cmd": "O",
@@ -856,7 +867,7 @@
         1,
         5234
       ],
-      "comment": "Vivbant Purple Stone"
+      "comment": "(a vibrant purple stone)"
     },
     {
       "cmd": "O",
@@ -866,7 +877,7 @@
         1,
         5238
       ],
-      "comment": "Pink And Green Stone"
+      "comment": "(a pink and green stone)"
     },
     {
       "cmd": "O",
@@ -876,7 +887,7 @@
         1,
         5241
       ],
-      "comment": "Pale Green Stone"
+      "comment": "(a pale green stone)"
     },
     {
       "cmd": "O",
@@ -886,7 +897,7 @@
         1,
         5246
       ],
-      "comment": "Clear Stone"
+      "comment": "(a clear stone)"
     },
     {
       "cmd": "O",
@@ -896,8 +907,8 @@
         1,
         5250
       ],
-      "comment": "Iridescent Stone"
+      "comment": "(an iridescent stone)"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/52.zon"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/52.zon"
 }

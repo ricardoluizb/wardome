@@ -1,0 +1,12 @@
+{
+  "id": 2331,
+  "alias": "oldstyle belrak minotaur ranger master",
+  "short_desc": "Belrak",
+  "long_desc": "Belrak, the minotaur ranger, looks unhappy about having visitors.",
+  "detailed_desc": "Belrak is clad in green and brown leather. He looks quite agile and thin, when\ncompared to the normal minotaur. He looks at you with a slight smirk.",
+  "flags_raw": "42 136 500 E",
+  "stats1_raw": "200 -84 -23 1d1+8796 5d21+100",
+  "stats2_raw": "3000 26655827 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/23.mob"
+}

@@ -4,9 +4,9 @@
   "short_desc": "the horrifying Mudmonster",
   "long_desc": "A horrifying Mudmonster is slowly evolving from the mud...",
   "detailed_desc": "It sure looks like something out of a horror movie.  It strongly resembles\na huge figure made up from mud alone, and it sure looks like it had human \nflesh for breakfast and is strongly intent on having the same for dinner\n- Perhaps you?",
-  "flags_raw": "gqr sk -250 S",
-  "stats1_raw": "12 9 2 4d6+140 2d5+3",
-  "stats2_raw": "100 13000",
-  "stats3_raw": "6 8 0",
+  "flags_raw": "196680 263168 -250 E",
+  "stats1_raw": "15 13 7 1d1+315 5d2+6",
+  "stats2_raw": "225 18413 0",
+  "stats3_raw": "6 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/70.mob"
 }

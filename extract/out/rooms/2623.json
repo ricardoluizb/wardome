@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "A Dark Room",
   "description": "You are in a large dark room.  The air here seems quite stale, and a\nsense of extreme dread comes over you.  The stench of rotten flesh seems\nto be wafting in from the open doorway to the north.",
-  "header_raw": "25 adg 0",
-  "flags_text": "adg",
+  "header_raw": "25 73 0",
+  "flags_text": "73",
   "sector": 0,
   "exits": [
     {

@@ -1,0 +1,12 @@
+{
+  "id": 615,
+  "alias": "wolf",
+  "short_desc": "the wolf",
+  "long_desc": "A wolf is here snarling at you.",
+  "detailed_desc": "The wolf doesn't want to be bothered.",
+  "flags_raw": "104 0 0 E",
+  "stats1_raw": "0 4 18 9d1+1 81d10+1",
+  "stats2_raw": "0 60 1089",
+  "stats3_raw": "0 8 0 0 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/6.mob"
+}

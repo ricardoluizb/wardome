@@ -4,9 +4,9 @@
   "short_desc": "the wolf spider",
   "long_desc": "The wolf spider is here, licking its bloody fangs.",
   "detailed_desc": "The wolf spider is hairy, very hairy.",
-  "flags_raw": "bf 0 -300 S",
-  "stats1_raw": "6 12 6 3d8+70 2d5+3",
-  "stats2_raw": "1250 6000",
-  "stats3_raw": "8 8 2",
+  "flags_raw": "42 0 -300 E",
+  "stats1_raw": "106 -33 -5 1d1+2964 5d11+42",
+  "stats2_raw": "1590 3445244 0",
+  "stats3_raw": "8 8 2 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/63.mob"
 }

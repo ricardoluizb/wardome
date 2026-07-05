@@ -1,0 +1,12 @@
+{
+  "id": 706,
+  "alias": "Barmaid",
+  "short_desc": "The Barmaid",
+  "long_desc": "The barmaids rush about delivering drinks and taking orders.",
+  "detailed_desc": "The barmaid looks at you with a tired glance as she struggles to keep\nup with the thirsty populace.  \n'What do you want?' she asks while pulling out an order pad.",
+  "flags_raw": "138 128 100 E",
+  "stats1_raw": "60 -20 -6 1d1+4080 5d13+74",
+  "stats2_raw": "900 898219 5",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

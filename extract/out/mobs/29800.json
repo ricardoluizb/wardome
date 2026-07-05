@@ -1,0 +1,12 @@
+{
+  "id": 29800,
+  "alias": "Black Orc",
+  "short_desc": "the Black Orc",
+  "long_desc": "A large Black Orc screams some strange words and charges you.",
+  "detailed_desc": "The Black Orc looks rather mean and agressive.\nHe waves his scimitar in a very threatening manner.",
+  "flags_raw": "616 1073742880 -750 E",
+  "stats1_raw": "125 -56 -19 1d1+10500 5d25+120",
+  "stats2_raw": "1875 7606911 7",
+  "stats3_raw": "8 8 1 3 5",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/298.mob"
+}

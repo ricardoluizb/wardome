@@ -1,0 +1,29 @@
+{
+  "id": 10214,
+  "zone_id": 102,
+  "name": "Leading to the Guardia's Main Hall",
+  "description": "Walking among the red royal carpet you reach the bottom of some stairs,\nstairs which leads an upper plataform, among the stairs there is 3 couples\nof armored statues turned to your side, the stair rail is made out of\npure marble.",
+  "header_raw": "102 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10200
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10215
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

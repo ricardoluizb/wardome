@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "The Back Of The Barracks",
   "description": "Here is the back of the dwarven barracks.  There are rows of beds \nhere, and there is a stench that is unbearable.",
-  "header_raw": "65 d 0",
-  "flags_text": "d",
+  "header_raw": "65 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {
@@ -14,6 +14,14 @@
       "door_flag": 0,
       "key": -1,
       "to": 6523
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3405
     }
   ],
   "extra_descriptions": [],

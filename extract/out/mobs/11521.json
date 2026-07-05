@@ -1,0 +1,12 @@
+{
+  "id": 11521,
+  "alias": "prostitute",
+  "short_desc": "the prostitute",
+  "long_desc": "A prostitute is soliciting you.",
+  "detailed_desc": "When you look at her she says, 'Hey baby, wanna party?  '",
+  "flags_raw": "138 0 0 E",
+  "stats1_raw": "50 -9 0 1d1+2196 5d6+40",
+  "stats2_raw": "750 514062 2",
+  "stats3_raw": "8 8 2 -1 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

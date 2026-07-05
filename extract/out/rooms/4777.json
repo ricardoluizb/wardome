@@ -1,0 +1,29 @@
+{
+  "id": 4777,
+  "zone_id": 47,
+  "name": "At the end of the hills",
+  "description": "What a view!  From here, you can see a waterfall toward the east, and lush\ngreen forests south-east.  To the north, you see the Mountains of Moria.  To\nthe west, you see the dirty trail again.  A trail leads down to the valley\nbelow.",
+  "header_raw": "47 4 2",
+  "flags_text": "4",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "You see the trail continue west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 4778
+    },
+    {
+      "dir": 5,
+      "description": "You see the valley.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 4776
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

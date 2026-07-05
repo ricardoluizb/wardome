@@ -1,0 +1,21 @@
+{
+  "id": 511,
+  "zone_id": 5,
+  "name": "&BThe Temple of the Goraks&n",
+  "description": "This is a dark and gloomy room... almost no light enters in this fearsome\nplace. A strong smell consumes the whole room... The reflects of the shadows, which\nfullfills the room, reflects on the strong and silent statue, laid on the center\nof the room. It is a quite strange being, probably their god.\n   The exit to the Temple Street is to the South.",
+  "header_raw": "5 1048596 0",
+  "flags_text": "1048596",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 504
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

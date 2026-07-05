@@ -1,12 +1,12 @@
 {
   "id": 3061,
-  "alias": "janitor",
-  "short_desc": "the janitor",
-  "long_desc": "A janitor is walking around, cleaning up.",
-  "detailed_desc": "What a tough job he has.",
-  "flags_raw": "agl 0 800 S",
-  "stats1_raw": "1 20 9 2d6+10 1d5+0",
-  "stats2_raw": "34 100",
-  "stats3_raw": "8 8 1",
+  "alias": "devil eater",
+  "short_desc": "the eater devil",
+  "long_desc": "A eater devil is here, eating everything he can see.",
+  "detailed_desc": "He seems dirty.",
+  "flags_raw": "2120 0 -1000 E",
+  "stats1_raw": "180 -70 -17 1d1+5040 5d19+72",
+  "stats2_raw": "2700 15923585 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

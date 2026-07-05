@@ -1,0 +1,12 @@
+{
+  "id": 719,
+  "alias": "council guard",
+  "short_desc": "the Council Guard",
+  "long_desc": "The Council Guards look ready to rip you apart if you disturb the meeting.",
+  "detailed_desc": "The Council Guards are impressive.  As you look upon their pikes and\nplate armor, a little part of your brain start screaming about how\nyou'd be crazy to mess with them.",
+  "flags_raw": "10 136 0 E",
+  "stats1_raw": "100 -40 -12 1d1+6792 5d21+90",
+  "stats2_raw": "1500 3791433 5",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

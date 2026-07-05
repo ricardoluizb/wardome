@@ -1,0 +1,29 @@
+{
+  "id": 20029,
+  "zone_id": 200,
+  "name": "Stairwell",
+  "description": "Some sturdy wooden stairs lead up to the second floor of the wayhouse, where\nthere are a few rooms for rent.  A lonely lantern lights the way up, glinting\noff the polished handrail.  An arch to the east opens up into the main room...\nWhere the noise informs you that the revelry hasn't stopped yet.",
+  "header_raw": "200 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20017
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20030
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/200.wld"
+}

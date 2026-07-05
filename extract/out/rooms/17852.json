@@ -1,0 +1,37 @@
+{
+  "id": 17852,
+  "zone_id": 178,
+  "name": "A Damp Hallway",
+  "description": "You are wandering in a dark, damp, twisting hallway.  The temperature\nseems to be greater here, as well as your fear.",
+  "header_raw": "178 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17854
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17853
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17851
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

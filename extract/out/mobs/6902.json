@@ -1,0 +1,12 @@
+{
+  "id": 6902,
+  "alias": "wandering ghoul",
+  "short_desc": "a wandering ghoul",
+  "long_desc": "A spooky ghost is floating in mid-air here.",
+  "detailed_desc": "His eyes glow yellow, and then you practically feel them penetrate yours.  \nHe reveals long, razor-sharp, 6 inch long claws and then takes a swipe at you!",
+  "flags_raw": "2634 8388616 -900 E",
+  "stats1_raw": "181 -70 -17 1d1+5064 5d19+72",
+  "stats2_raw": "2715 16182867 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/69.mob"
+}

@@ -1,10 +1,10 @@
 {
   "id": 3138,
-  "zone_id": 30,
+  "zone_id": 31,
   "name": "The Mayor's Office",
   "description": "You are in the not very big office of the Mayor of Midgaard.  A large and\npolished but completely empty desk is standing in front of an armchair that\nlooks so comfortable that it most of all resembles a bed with the head end\nraised slightly.",
-  "header_raw": "30 d 0",
-  "flags_text": "d",
+  "header_raw": "31 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

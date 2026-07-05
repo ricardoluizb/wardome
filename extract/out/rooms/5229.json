@@ -3,8 +3,8 @@
   "zone_id": 52,
   "name": "An Abandoned Shop",
   "description": "From the outside this place looks like an ordinary pile of rubble,\nbut inside these cramped quarters you discover what used to be a shop\nfilled with armor, weapons, and various other goods.  A small sign\nflutters in the wind.",
-  "header_raw": "52 d 1",
-  "flags_text": "d",
+  "header_raw": "52 8 1",
+  "flags_text": "8",
   "sector": 1,
   "exits": [
     {

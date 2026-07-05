@@ -1,0 +1,21 @@
+{
+  "id": 29534,
+  "zone_id": 295,
+  "name": "Achilles' Tent",
+  "description": "Achilles is in here, moping. He lost face when Agamemnon took Briseis from\nhim, and he is punishing the Mycenaean ruler by refusing to take to the\nfield, a move which is costing the Achaeans dearly, as he is their best\nwarrior.",
+  "header_raw": "295 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29531
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/295.wld"
+}

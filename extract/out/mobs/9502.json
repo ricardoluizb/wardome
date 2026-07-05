@@ -1,0 +1,12 @@
+{
+  "id": 9502,
+  "alias": "citizen",
+  "short_desc": "Attlantis citizen",
+  "long_desc": "The people walking in the city.",
+  "detailed_desc": "He's just a citizen",
+  "flags_raw": "200 0 0 E",
+  "stats1_raw": "25 8 6 1d1+522 5d3+10",
+  "stats2_raw": "375 65926 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/95.mob"
+}

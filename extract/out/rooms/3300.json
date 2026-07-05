@@ -3,8 +3,8 @@
   "zone_id": 33,
   "name": "A Scraggly Trail",
   "description": "This trail slopes up and away from the main road to \nthe west.  At points the trail seems to fade into \nobscurity against the grey stone and near-grey mountain \ngrass prevalent here.  The trail leads generally eastward \nand up higher into the rocky ground.  There is a sign \nhere, seemingly out-of-place in this rough country.",
-  "header_raw": "33 cg 5",
-  "flags_text": "cg",
+  "header_raw": "33 16777284 5",
+  "flags_text": "16777284",
   "sector": 5,
   "exits": [
     {

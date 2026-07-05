@@ -1,0 +1,21 @@
+{
+  "id": 20417,
+  "zone_id": 204,
+  "name": "Ant's BirthPlace",
+  "description": "Oh, how the babies are beatiful. You are impressed, too much babies. Poor nurses they have to word hardly, probably they work harder them the Ants Workers.",
+  "header_raw": "204 4 0",
+  "flags_text": "4",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20416
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/204.wld"
+}

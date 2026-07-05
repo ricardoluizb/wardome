@@ -1,0 +1,21 @@
+{
+  "id": 9734,
+  "zone_id": 97,
+  "name": "Armoury",
+  "description": "This small store is almost empty.  It seems as if there is not much here,\nbut the shopkeeper doesn't want to do business with you anyways.",
+  "header_raw": "97 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9733
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/97.wld"
+}

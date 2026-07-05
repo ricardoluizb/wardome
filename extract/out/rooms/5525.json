@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Entrance To The Mages' Tower",
   "description": "The entrance hall is a small poor lighted room.  It would seem its\nonly purpose is to house the powerful sorcerer standing here guarding \nthe entrance.",
-  "header_raw": "54 deh 0",
-  "flags_text": "deh",
+  "header_raw": "54 152 0",
+  "flags_text": "152",
   "sector": 0,
   "exits": [
     {

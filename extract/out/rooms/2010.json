@@ -1,0 +1,21 @@
+{
+  "id": 2010,
+  "zone_id": 20,
+  "name": "Dungeon",
+  "description": "The atmosphere of this enormous stone-vaulted underground chamber is dark\nand oppressive. Manacles dangle from iron rings set deeply in the stone\nwalls.  A pair of leather ankle restraints is fastened to the end of a chain\nwhich is looped over a pulley set in an oak beam in the ceiling of the\ndungeon.  Through the bars of a dark cell in the corner, you see the form of a\nsoftly sobbing slave. The pillory in the center of the dungeon is occupied by\na slave her e she is bound, bruised and swollen waits as her master left\nher.",
+  "header_raw": "20 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2009
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

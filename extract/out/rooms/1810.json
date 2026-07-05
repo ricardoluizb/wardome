@@ -1,0 +1,29 @@
+{
+  "id": 1810,
+  "zone_id": 18,
+  "name": "The Center Chamber",
+  "description": "Before you is the gnome city called Little Haven.\nIt's bustling, with cheery little folk who seem\ndwarven in ancestry and yet look upon you with\na little suspicion.  The tunnels are vast, and from this\nvantage point you can see the huge fortress way\nin the distance.  You have a long way to go.",
+  "header_raw": "18 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1811
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1813
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/18.wld"
+}

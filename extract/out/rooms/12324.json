@@ -1,0 +1,29 @@
+{
+  "id": 12324,
+  "zone_id": 122,
+  "name": "Valhalla",
+  "description": "Gazing eastward, your eyes widen as you see a broad plain littered\nwith corpses, their blood staining the snow a deep crimson. You suddenly\nrealize that you are gazing upon the fields of Valhalla, where the fabled\nEinheriar do battle daily, in preparation for Ragnarok. Long wooden lodges\nencircle the plain, where the Einheriar rest between their neverending\nseries of battles.",
+  "header_raw": "122 4 2",
+  "flags_text": "4",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12325
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12395
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

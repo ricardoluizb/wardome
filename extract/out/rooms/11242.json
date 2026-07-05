@@ -1,0 +1,21 @@
+{
+  "id": 11242,
+  "zone_id": 112,
+  "name": "The Real Mayor of Hochenyana",
+  "description": "This room is the Mayor's private study, not an office to receive\nvisitors like the one downstairs. As such it is far less cluttered,\nboasting only a few slim volumes of \"Bethesda's Almanac\", dating from\n458-467, and a small reading chair, which has been damaged during a\nmelee.",
+  "header_raw": "112 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 11216,
+      "to": 11240
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

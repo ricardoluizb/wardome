@@ -1,0 +1,44 @@
+{
+  "id": 301,
+  "name": "Wardome - Demonic Horde Clan",
+  "header": {
+    "raw": "30199 30 2 10 -1",
+    "min_room": 30199,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": 10
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10100,
+        1,
+        30101
+      ],
+      "comment": "(Ungolianth)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        30102,
+        1,
+        30102
+      ],
+      "comment": "(a bloody fountain)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        30401,
+        1,
+        30100
+      ],
+      "comment": "(the dark heresy clan board)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/301.zon"
+}

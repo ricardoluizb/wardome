@@ -1,0 +1,61 @@
+{
+  "id": 9850,
+  "zone_id": 98,
+  "name": "Between Temples",
+  "description": "You are in the middle of the living room among the five temples.\nThe ground is made of white and flat marble, this room is very illuminated.\nYou dont feel any evil presence here.",
+  "header_raw": "98 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Temple I",
+      "keywords": "Temple I",
+      "door_flag": 2,
+      "key": 9811,
+      "to": 31202
+    },
+    {
+      "dir": 1,
+      "description": "Temple II",
+      "keywords": "Temple_II",
+      "door_flag": 2,
+      "key": 9830,
+      "to": 31302
+    },
+    {
+      "dir": 2,
+      "description": "Temple Door",
+      "keywords": "Temple_Door",
+      "door_flag": 2,
+      "key": 9829,
+      "to": 31402
+    },
+    {
+      "dir": 3,
+      "description": "Temple Door",
+      "keywords": "Temple_Door",
+      "door_flag": 2,
+      "key": 9828,
+      "to": 31502
+    },
+    {
+      "dir": 4,
+      "description": "Temple Door",
+      "keywords": "Temple_Door",
+      "door_flag": 2,
+      "key": 9811,
+      "to": 9820
+    },
+    {
+      "dir": 5,
+      "description": "Temple Doors",
+      "keywords": "Temple_Doors",
+      "door_flag": 2,
+      "key": 9828,
+      "to": 31602
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/98.wld"
+}

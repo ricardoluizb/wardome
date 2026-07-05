@@ -1,0 +1,12 @@
+{
+  "id": 13509,
+  "alias": "dweller flame",
+  "short_desc": "the flame dweller",
+  "long_desc": "A flame dweller is basking in fire here.",
+  "detailed_desc": "Its shape changes like the flame it lives in.  One moment it may\nresemble a serpent, the next, a man.  It seems to be thoroughly\nenjoying itself.",
+  "flags_raw": "4194314 0 -50 E",
+  "stats1_raw": "20 -8 -6 1d1+1992 5d5+98",
+  "stats2_raw": "300 56083 9",
+  "stats3_raw": "6 6 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/135.mob"
+}

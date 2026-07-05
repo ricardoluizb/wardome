@@ -4,9 +4,9 @@
   "short_desc": "the Matron Mother",
   "long_desc": "The Matron Mother of the first house is waiting for you.",
   "detailed_desc": "She looks like she is about to rip your head of and eat it.",
-  "flags_raw": "abfl dhkp -1000 S",
-  "stats1_raw": "25 0 -4 5d10+350 12d2+24",
-  "stats2_raw": "40000 150000",
-  "stats3_raw": "8 8 2",
+  "flags_raw": "2091 33928 -1000 E",
+  "stats1_raw": "40 0 4 1d1+837 5d5+16",
+  "stats2_raw": "600 250429 0",
+  "stats3_raw": "8 8 2 0 1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/51.mob"
 }

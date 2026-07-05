@@ -3,10 +3,18 @@
   "zone_id": 61,
   "name": "A Dead End Path In The Deep, Dark Forest",
   "description": "You are on a narrow path leading through the deep, dark forest.  The\nancient trees stand so close that the path disappears between the dusty\nroots.  To the south a dark river flows from east to west.  The only exit\nappears to be west.",
-  "header_raw": "61 ad 3",
-  "flags_text": "ad",
+  "header_raw": "61 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30401
+    },
     {
       "dir": 3,
       "description": "The narrow path winds its way through the trees to the west.",

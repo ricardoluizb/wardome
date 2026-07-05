@@ -1,0 +1,21 @@
+{
+  "id": 10206,
+  "zone_id": 102,
+  "name": "The Healing Room",
+  "description": "Definetively the loud screams come from this room. You are standing on\na very bloodied room, there is guts spreads by all the room, the vision of\na medic sawing a living and awake mercenary is disgusting. There are several\ntools spread by a table in the side of a cirurgy bed.",
+  "header_raw": "102 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10205
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

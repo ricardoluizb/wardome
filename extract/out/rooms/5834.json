@@ -1,0 +1,21 @@
+{
+  "id": 5834,
+  "zone_id": 57,
+  "name": "The Warlock's Chambers",
+  "description": "You have finally discovered the Chambers of the Warlock of Firetop Mountain.\nThis room is a huge study, lined with shelves full of books of lore, a glass\ncabinet full of curios, and a massive desk, behind which sits an impressive-\nlooking padded chair. You better hope that you have entered on one of the\nrare occasions that the Warlock is absent...",
+  "header_raw": "57 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "a door",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 5807,
+      "to": 5833
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

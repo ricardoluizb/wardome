@@ -1,0 +1,42 @@
+{
+  "id": 17816,
+  "zone_id": 178,
+  "name": "Path by a Stream",
+  "description": "You are on a small path leading north and west, that is surrounded on the\nother two sides by a small stream.  The water looks mighty cold.",
+  "header_raw": "178 4 2",
+  "flags_text": "4",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17807
+    },
+    {
+      "dir": 2,
+      "description": "You see the stream.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17819
+    },
+    {
+      "dir": 3,
+      "description": "You see a small path.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17817
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "stream",
+      "description": "The stream is pretty small, but it looks too cold to swim."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

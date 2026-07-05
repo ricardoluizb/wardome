@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "The Prison",
   "description": "This small passage is about thirty feet long and is well lit by the\ntorches on each wall.  The torches have been locked inside small metal\ncages to ensure that they are not removed.  The strangest thing about\nthe torches however, is the manner in which they burn, they have what\nappears to be a constant flame in that it does not flicker whatsoever,\nand does not give off any smoke.  Perhaps they have been magicked to\nburn forever...\n   There are three cells along this passage way, one on each side of\nthe corridor right near the north end and one isolated at the south\nend of the corridor with a small metal plaque located over the door\nin the keystone of the archway.",
-  "header_raw": "150 d 0",
-  "flags_text": "d",
+  "header_raw": "150 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

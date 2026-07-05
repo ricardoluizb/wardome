@@ -1,0 +1,42 @@
+{
+  "id": 326,
+  "zone_id": 3,
+  "name": "The pool in the foothills",
+  "description": "You are standing by a pool in the small foothills. It is clear and cold.\nA steep slope rises up into the foothills to the north. Behind them ...\nthe mountains.",
+  "header_raw": "3 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "To the east you notice a small path in the foothills.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 309
+    },
+    {
+      "dir": 2,
+      "description": "To the south a path winds its way south into the plains.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 306
+    },
+    {
+      "dir": 3,
+      "description": "The foothills extend far to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 325
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "pool",
+      "description": "The pool is crystal clear, but as you look into it you notice that\nyou can't see the bottom of it ... it must be pretty deep."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/3.wld"
+}

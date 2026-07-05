@@ -1,0 +1,29 @@
+{
+  "id": 2223,
+  "zone_id": 22,
+  "name": "Entrance to the Great Hall",
+  "description": "You have entered a huge hall.  It has been carefully decorated with\nbeautiful tapestries depicting a great battle between dragons and men.  The\ndragons appear to be the victors.",
+  "header_raw": "22 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The Hall continues.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2224
+    },
+    {
+      "dir": 3,
+      "description": "You see the Nursery.",
+      "keywords": "door stone",
+      "door_flag": 1,
+      "key": 2297,
+      "to": 2205
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

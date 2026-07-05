@@ -4,9 +4,9 @@
   "short_desc": "Franz the Henchman",
   "long_desc": "Franz, Minos' henchman, is here ready to pump you up.",
   "detailed_desc": "Franz is no girlie man.  He is very muscular and looks as if he could\nsqueeze your head like a grapefruit.",
-  "flags_raw": "bflm dhkp -300 S",
-  "stats1_raw": "12 7 4 5d10+120 2d8+4",
-  "stats2_raw": "1000 14000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "6186 33928 -300 E",
+  "stats1_raw": "25 -6 -4 1d1+2100 5d5+80",
+  "stats2_raw": "375 90648 7",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/9.mob"
 }

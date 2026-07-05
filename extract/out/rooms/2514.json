@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "Common Room",
   "description": "You are in the common room.  There are many apprentice warlocks here\ntalking and resting, playing games, comparing notes.  Obviously they\nare taking a break from their rigorous studies.  There are benches,\ntables and a small water fountain here, otherwise the room is quite\nunremarkable.\n   Exits lead off in all directions.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

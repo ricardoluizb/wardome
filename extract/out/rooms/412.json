@@ -1,0 +1,21 @@
+{
+  "id": 412,
+  "zone_id": 4,
+  "name": "The Office of &BM&binister &cTaerom&n",
+  "description": "You can only see infinite darkness. \nYou all right, here it's the Taerom's Temple. Pray and he help's you.",
+  "header_raw": "4 30932 0",
+  "flags_text": "30932",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 28510,
+      "to": 407
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/4.wld"
+}

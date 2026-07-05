@@ -1,0 +1,804 @@
+{
+  "id": 10,
+  "name": "The Abandoned Cathedral",
+  "header": {
+    "raw": "1099 28 2 2",
+    "min_room": 1099,
+    "top_room": 28,
+    "lifespan": 2,
+    "reset_mode": 2
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1008,
+        5,
+        1000
+      ],
+      "comment": "(the human skeleton)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1000,
+        2,
+        1
+      ],
+      "comment": "(The Cathedral Courtyard)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1006,
+        1,
+        1
+      ],
+      "comment": "(The Confessional)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1055,
+        0,
+        1
+      ],
+      "comment": "(A Clearing in the Forest)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1015,
+        1,
+        1011
+      ],
+      "comment": "(the Greater Demon Specter)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1006,
+        10,
+        -1
+      ],
+      "comment": "(a dark potion)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1007,
+        5,
+        -1
+      ],
+      "comment": "(an ivory staff)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1008,
+        6,
+        -1
+      ],
+      "comment": "(a mid-sized pile of coins)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1016,
+        5,
+        1011
+      ],
+      "comment": "(a spirit)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1016,
+        5,
+        1011
+      ],
+      "comment": "(a spirit)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1016,
+        5,
+        1011
+      ],
+      "comment": "(a spirit)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1016,
+        5,
+        1011
+      ],
+      "comment": "(a spirit)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1016,
+        5,
+        1011
+      ],
+      "comment": "(a spirit)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1011,
+        2,
+        2
+      ],
+      "comment": "(The Inner Sanctum)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1000,
+        1,
+        1018
+      ],
+      "comment": "(Isaac)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1001,
+        2,
+        1008
+      ],
+      "comment": "(the ghoul)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1001,
+        2,
+        1010
+      ],
+      "comment": "(the ghoul)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1002,
+        1,
+        1009
+      ],
+      "comment": "(the ghoul)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1003,
+        1,
+        1009
+      ],
+      "comment": "(Esmerelda the priestess)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1002,
+        3,
+        3
+      ],
+      "comment": "(a sapphire amulet)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1003,
+        1,
+        -1
+      ],
+      "comment": "(an ivory key)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        1000,
+        1,
+        1009
+      ],
+      "comment": "(a fresh corpse)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        1001,
+        1,
+        1000
+      ],
+      "comment": "(a long, curved knife)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1004,
+        2,
+        1008
+      ],
+      "comment": "(the man)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1004,
+        2,
+        1010
+      ],
+      "comment": "(the man)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1005,
+        1,
+        1049
+      ],
+      "comment": "(Wyrenthoth)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1010,
+        1,
+        17
+      ],
+      "comment": "(a beautiful golden key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1006,
+        1,
+        1041
+      ],
+      "comment": "(Erich)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1009,
+        2,
+        16
+      ],
+      "comment": "(the rune sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1011,
+        1,
+        17
+      ],
+      "comment": "(a strange blood key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1013,
+        4,
+        12
+      ],
+      "comment": "(a black cape with a red satin lining)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1014,
+        6,
+        3
+      ],
+      "comment": "(an onyx necklace)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        1004,
+        1,
+        1048
+      ],
+      "comment": "(the coffin)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        1005,
+        1,
+        1004
+      ],
+      "comment": "(the corpse of Evalynn)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        1016,
+        1,
+        1005
+      ],
+      "comment": "(the Holy Avenger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1007,
+        1,
+        1035
+      ],
+      "comment": "(the giant zombie)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1015,
+        99,
+        16
+      ],
+      "comment": "(a giant halberd)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1008,
+        5,
+        1001
+      ],
+      "comment": "(the human skeleton)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1008,
+        5,
+        1002
+      ],
+      "comment": "(the human skeleton)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1008,
+        5,
+        1003
+      ],
+      "comment": "(the human skeleton)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1008,
+        5,
+        1001
+      ],
+      "comment": "(the human skeleton)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1009,
+        3,
+        1023
+      ],
+      "comment": "(the zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1009,
+        3,
+        1019
+      ],
+      "comment": "(the zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1009,
+        3,
+        1021
+      ],
+      "comment": "(the zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1010,
+        5,
+        1023
+      ],
+      "comment": "(the shadow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1010,
+        5,
+        1025
+      ],
+      "comment": "(the shadow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1010,
+        5,
+        1026
+      ],
+      "comment": "(the shadow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1010,
+        5,
+        1027
+      ],
+      "comment": "(the shadow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1010,
+        5,
+        1029
+      ],
+      "comment": "(the shadow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1011,
+        9,
+        1032
+      ],
+      "comment": "(the wight)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1011,
+        9,
+        1033
+      ],
+      "comment": "(the wight)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1011,
+        9,
+        1034
+      ],
+      "comment": "(the wight)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1011,
+        9,
+        1035
+      ],
+      "comment": "(the wight)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1011,
+        9,
+        1036
+      ],
+      "comment": "(the wight)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1011,
+        9,
+        1037
+      ],
+      "comment": "(the wight)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1011,
+        9,
+        1038
+      ],
+      "comment": "(the wight)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1011,
+        9,
+        1039
+      ],
+      "comment": "(the wight)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1011,
+        9,
+        1040
+      ],
+      "comment": "(the wight)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1012,
+        4,
+        1042
+      ],
+      "comment": "(the wraith)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1012,
+        4,
+        1043
+      ],
+      "comment": "(the wraith)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1012,
+        4,
+        1045
+      ],
+      "comment": "(the wraith)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1012,
+        4,
+        1047
+      ],
+      "comment": "(the wraith)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1013,
+        1,
+        1031
+      ],
+      "comment": "(the banshee)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1014,
+        1,
+        1022
+      ],
+      "comment": "(the ghost of the Abbott)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        1012,
+        1,
+        1035
+      ],
+      "comment": "(a pile of crushed bones)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1005,
+        1,
+        1
+      ],
+      "comment": "(The Worship Hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1007,
+        3,
+        1
+      ],
+      "comment": "(The Confessional)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1005,
+        3,
+        1
+      ],
+      "comment": "(The Worship Hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1009,
+        0,
+        1
+      ],
+      "comment": "(At The Altar)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1010,
+        2,
+        1
+      ],
+      "comment": "(The Clergical Chambers)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1010,
+        0,
+        2
+      ],
+      "comment": "(The Clergical Chambers)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1020,
+        3,
+        1
+      ],
+      "comment": "(The End Of The Dark Hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1022,
+        1,
+        1
+      ],
+      "comment": "(The Abbott's Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1027,
+        1,
+        1
+      ],
+      "comment": "(A Cloistered Hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1031,
+        3,
+        1
+      ],
+      "comment": "(Mother Superior's Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1041,
+        2,
+        2
+      ],
+      "comment": "(The Antechamber)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1042,
+        0,
+        2
+      ],
+      "comment": "(The Inner Crypt)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1047,
+        3,
+        2
+      ],
+      "comment": "(The Inner Crypt)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1048,
+        1,
+        2
+      ],
+      "comment": "(The Tomb Of Princess Evalynn)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/10.zon"
+}

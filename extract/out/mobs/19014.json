@@ -1,0 +1,12 @@
+{
+  "id": 19014,
+  "alias": "elemental fire huge",
+  "short_desc": "a Huge Fire Elemental",
+  "long_desc": "A Huge Fire Elemental is standing here burning everything.",
+  "detailed_desc": "You see only Flames in the shape of a humanoid.",
+  "flags_raw": "4194376 536870920 1 E",
+  "stats1_raw": "75 -17 -1 1d1+2100 5d8+30",
+  "stats2_raw": "1125 1289737 0",
+  "stats3_raw": "8 8 0 3 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/190.mob"
+}

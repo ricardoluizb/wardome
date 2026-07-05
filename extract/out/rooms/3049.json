@@ -2,9 +2,9 @@
   "id": 3049,
   "zone_id": 30,
   "name": "The Levee",
-  "description": "You are at the levee.  South of here you see the river gently flowing west.\nThe river bank is very low making it possible to enter the river.",
-  "header_raw": "30 h 1",
-  "flags_text": "h",
+  "description": "You are at the levee.  South of here you see the river gently flowing west.\nThe river bank is very high making it impossible to enter the river.",
+  "header_raw": "30 0 1",
+  "flags_text": "0",
   "sector": 1,
   "exits": [
     {
@@ -21,7 +21,7 @@
       "keywords": "",
       "door_flag": 0,
       "key": -1,
-      "to": 3203
+      "to": -1
     }
   ],
   "extra_descriptions": [],

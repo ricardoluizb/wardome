@@ -1,0 +1,29 @@
+{
+  "id": 100,
+  "zone_id": 1,
+  "name": "Edge of the Walkway",
+  "description": "You have skirted your way right to edge of the path and are now able to get\na good look at what lies below.  Way below.  The 'path' that you thought might\nlead down in a zig zag or perhaps in steps is actually a set of stone rungs\nnotched into the cliff face.  The forest, so far below where you stand looking\ndown upon it, seems strangely dark, strangely forbidding and very far away.  \nMaybe it would just be best to forget climbing this ledge.  After all, isn't\nThursday?  Seems like Grainy's in Jareth had a really good dinner special on\nThursdays...  Yeah, that's it.",
+  "header_raw": "1 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 154
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 101
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/1.wld"
+}

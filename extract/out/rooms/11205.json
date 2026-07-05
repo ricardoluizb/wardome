@@ -1,0 +1,21 @@
+{
+  "id": 11205,
+  "zone_id": 112,
+  "name": "A General Store",
+  "description": "The shelves in this little shop are filled, but as you peer closer you\nnotice that the items that fill them are rubbish, odds and ends no one would\never want to buy. Confused, you wonder who in hades would be able to prosper\nwith such a business? Odd business is afoot in Hochenyana, to be sure.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11203
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

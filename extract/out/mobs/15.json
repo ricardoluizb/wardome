@@ -1,0 +1,12 @@
+{
+  "id": 15,
+  "alias": "golem",
+  "short_desc": "the golem",
+  "long_desc": "A golem made with magic stands here.",
+  "detailed_desc": "It looks a magic creature.",
+  "flags_raw": "10 0 0 E",
+  "stats1_raw": "0 0 20 10d1+1 0d10+1",
+  "stats2_raw": "0 0 0",
+  "stats3_raw": "0 8 8 0 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/0.mob"
+}

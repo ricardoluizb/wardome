@@ -1,0 +1,45 @@
+{
+  "id": 8298,
+  "zone_id": 82,
+  "name": "A Small Miscellaneous Shop",
+  "description": "This is another shop of Lyon, as you have notice is nothing compared with\nthe magic shop that is at east. Here you can buy many diferent thing that\nyou can use in a near future, like soubeniers, cloth, weapons or armours.",
+  "header_raw": "82 148 0",
+  "flags_text": "148",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "portal",
+      "door_flag": 2,
+      "key": 8296,
+      "to": -1
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8242
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "portal",
+      "door_flag": 2,
+      "key": 8296,
+      "to": -1
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

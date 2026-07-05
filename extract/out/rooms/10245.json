@@ -1,0 +1,21 @@
+{
+  "id": 10245,
+  "zone_id": 102,
+  "name": "The Royal Bedroom",
+  "description": "It appears to be the king and queens room. It is all covered by\nexpensive and exotic tappestry, curtains, and jewelry. There is a\ncouple bed in the upper bottom of the room and a marble bathtube\nat the right corner of it.",
+  "header_raw": "102 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10244
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

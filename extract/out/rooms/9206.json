@@ -1,0 +1,29 @@
+{
+  "id": 9206,
+  "zone_id": 92,
+  "name": "The Overlook",
+  "description": "You see various elemental servants wandering around the canyon.  The noise of\nhumming coming from the canyon gets louder.  The path makes a steep descent\ninto the canyon here.",
+  "header_raw": "92 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9205
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9207
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/92.wld"
+}

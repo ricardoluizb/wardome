@@ -1,0 +1,21 @@
+{
+  "id": 770,
+  "zone_id": 7,
+  "name": "Living Area",
+  "description": "Small pallets are laid about in an orderly fashion for the priests.\na small stool and writing desk is in one corner, a old looking man\nworking quietly behind it.  A window lets dim light in to supplement\nthe lanterns hanging on the brick walls.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 769
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

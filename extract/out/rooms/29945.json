@@ -1,0 +1,29 @@
+{
+  "id": 29945,
+  "zone_id": 298,
+  "name": "Before a great golden tree",
+  "description": "You stand before a huge golden tree, the largest in all of Lothlorien.  This\nglorious tree is home to the ancient elves Celeborn and Galadriel.  Flets dot\nthe tree from level to level, and near the very top sits a huge house-like\nstructure.  Elven guards and sentries patrol the flets above.  Higher still,\nvarious elven guests are visible as they stand on the balconies looking out\nover the siege.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29944
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29946
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

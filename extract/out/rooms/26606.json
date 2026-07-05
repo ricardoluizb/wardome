@@ -1,0 +1,29 @@
+{
+  "id": 26606,
+  "zone_id": 266,
+  "name": "Pegando os pertences do morto",
+  "description": "Se vc esta aqui, vc provavelmente matou o feio Galahar. Digite '&Rd&n' para\nvoltar a sala onde o corpo morto de Galahar esta. Para pegar os pertences\ndo corpo, digite '&Rget all corpse&n' na sala anterior.\n&w &n\nPara continuar o aprendizado, digite '&Rw&n'.",
+  "header_raw": "266 1310720 0",
+  "flags_text": "1310720",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26607
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26605
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/266.wld"
+}

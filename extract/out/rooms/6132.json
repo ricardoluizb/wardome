@@ -3,8 +3,8 @@
   "zone_id": 61,
   "name": "Up In The Tree",
   "description": "You are hanging on the outside of a huge tree trunk covered in a sticky\nsubstance.  Directly to the west is an immense spider web suspended between\nnumerous of the giant trees including the one you are hanging on.  To the\nnorth is what looks like a large webbed entrance.",
-  "header_raw": "61 acd 6",
-  "flags_text": "acd",
+  "header_raw": "61 12 6",
+  "flags_text": "12",
   "sector": 6,
   "exits": [
     {
@@ -16,6 +16,14 @@
       "to": 6301
     },
     {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 19001
+    },
+    {
       "dir": 3,
       "description": "To the west is the immense spider web.  It seems to move softly.",
       "keywords": "",
@@ -24,11 +32,19 @@
       "to": 6133
     },
     {
+      "dir": 4,
+      "description": "",
+      "keywords": "tree",
+      "door_flag": 1,
+      "key": 0,
+      "to": 9001
+    },
+    {
       "dir": 5,
-      "description": "Downwards is the narrow forest path.",
+      "description": "",
       "keywords": "",
       "door_flag": 0,
-      "key": -1,
+      "key": 0,
       "to": 6130
     }
   ],

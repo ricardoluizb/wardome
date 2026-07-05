@@ -1,0 +1,45 @@
+{
+  "id": 320,
+  "zone_id": 3,
+  "name": "Grassy plains",
+  "description": "You walk in some grassy plains. The wind is strong and rough. To the\nnorth you can see the foothills and further on mountain peaks are visible.",
+  "header_raw": "3 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The plains extend into small foothills to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 322
+    },
+    {
+      "dir": 1,
+      "description": "East of here you see a winding path in the plains.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 305
+    },
+    {
+      "dir": 2,
+      "description": "The plains extend far to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 315
+    },
+    {
+      "dir": 3,
+      "description": "The plains extend far to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 319
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/3.wld"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 11292,
+  "zone_id": 112,
+  "name": "A Miserable Dungeon",
+  "description": "It is here that whatever powers hold Hochenyana in thrall keep those\nwho resisted their magic or otherwise proved intractable. Normally\nthey would be slain; but perhaps they are worth a sizeable ransom, or\nhold valuable information? Barred doors lead to the north, east and\nsouth, behind which can be heard people moaning and weeping.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 11206,
+      "to": 11291
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 11206,
+      "to": 11289
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 11206,
+      "to": 11290
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11293
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

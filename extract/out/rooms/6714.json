@@ -1,0 +1,29 @@
+{
+  "id": 6714,
+  "zone_id": 67,
+  "name": "Wisteria park",
+  "description": "The town wall to the north and stone building to the east are climbing\nwith purple-flowering wisteria vine, forming in leafy clumps at the bottoms.\nThe park is a quiet, relaxing place, with the exception of the occasional\nexplosion coming from a pale tower rising to the northwest, accompanied\nby a brilliant flash of light.",
+  "header_raw": "67 1 2",
+  "flags_text": "1",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6713
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6715
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

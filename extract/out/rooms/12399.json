@@ -1,0 +1,21 @@
+{
+  "id": 12399,
+  "zone_id": 122,
+  "name": "Before the Goddess of Hel",
+  "description": "Here Hel sits in judgement over those who have been damned to spend all of\neternity in the infernal region that bears her name. A vile, malicious and\nutterly evil god, she delights in the torment and suffering of others,\nespecially mortals from Midgaard who wander into her domain inadvertently!\nTall columns of flame flicker to either side of a throne of bone, upon which\nthe unholy god sits, and a multitude of small demons and imps scurry here and\nthere, dragging in fresh corpses, piles of intestines, and other pleasant\naccoutrements to add to her hellish demesne.",
+  "header_raw": "122 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12398
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

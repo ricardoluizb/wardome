@@ -1,0 +1,21 @@
+{
+  "id": 14248,
+  "zone_id": 141,
+  "name": "The Dragon Cave",
+  "description": "The cave is smoky.  There is a a glint of gold.",
+  "header_raw": "141 64 1",
+  "flags_text": "64",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14245
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2777,
+  "zone_id": 27,
+  "name": "Prancing Pony Inn Yard",
+  "description": "You are standing in the Inn Yard of The Prancing Pony.  This is where local\ncitizens and adventurers alike can have their horses and ponies fed, watered,\nbrushed, and generally tended.  To the west is the entrance to the Prancing\nPony, and to the south is the stable.  Off to the side is a small half door\nbehind which a stout man is working furiously on repairing the leather tack.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2778
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2762
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

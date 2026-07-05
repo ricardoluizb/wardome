@@ -1,0 +1,29 @@
+{
+  "id": 2209,
+  "zone_id": 22,
+  "name": "The Treasure Room",
+  "description": "You have made it past the hydra into the vault.  You are astounded by \nthe treasure here.  Not only are you now rich, you can probably rest here\nsafely.  The west wall seems to have a large door made entirely of ruby.",
+  "header_raw": "22 76 1",
+  "flags_text": "76",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see nothing special.",
+      "keywords": "grey",
+      "door_flag": 2,
+      "key": 2234,
+      "to": 2208
+    },
+    {
+      "dir": 3,
+      "description": "You see a ruby door!",
+      "keywords": "door ruby",
+      "door_flag": 2,
+      "key": 2232,
+      "to": 2218
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1031,
+  "zone_id": 10,
+  "name": "Mother Superior's Room",
+  "description": "This room is the same size as all of the others, but contains such\nluxeries as a writing desk and chair in addition to the cot on the\nnorthern wall.  A narrow window is located in the eastern wall, but\nmerely presents a view of the black night outside.\n   A simple wooden door serves as the entrance to this room to the\neast.",
+  "header_raw": "10 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "The wooden door to the west looks to be quite sturdy as compared to\nsome of those that you have seen lately.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 1027
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

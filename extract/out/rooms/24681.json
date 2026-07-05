@@ -1,0 +1,46 @@
+{
+  "id": 24681,
+  "zone_id": 245,
+  "name": "The corner of the world",
+  "description": "You have flown to the corner of the sky. Here the wind is\nis somewhat calmer than the rest of the heavens. Beyond the\ncorner is the infinite nothing. You feel at peace here. As you\nrelax you hear the 7th horn and a SIGHT unfolds before your eyes.\nFloating in the wind is a vial.",
+  "header_raw": "245 16 9",
+  "flags_text": "16",
+  "sector": 9,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The heavens",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24667
+    },
+    {
+      "dir": 3,
+      "description": "The heavens",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24680
+    },
+    {
+      "dir": 5,
+      "description": "Into the throne room",
+      "keywords": "yourheart",
+      "door_flag": 2,
+      "key": 0,
+      "to": 24690
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sight",
+      "description": "You look skyward, and see the temple of The Gods opening.\nYou can see in his temple the ark of his testament.\nThe temple of New Jerusalem desends earthward."
+    },
+    {
+      "keywords": "vial",
+      "description": "The 7th vial of wrath: lightnings, thunders and hail."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/245.wld"
+}

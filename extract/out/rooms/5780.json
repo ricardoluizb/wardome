@@ -1,0 +1,37 @@
+{
+  "id": 5780,
+  "zone_id": 57,
+  "name": "Entrance to a Cave",
+  "description": "You are passing by the entrance to a small cave, on the northern side of\nthis long east-west passage. A vile smell wafts from this dark place, and\nyou fancy that you can hear bestial gruntings.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "cave",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5781
+    },
+    {
+      "dir": 1,
+      "description": "a passage",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5779
+    },
+    {
+      "dir": 3,
+      "description": "a passage",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5782
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

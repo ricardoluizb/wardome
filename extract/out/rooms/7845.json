@@ -1,0 +1,29 @@
+{
+  "id": 7845,
+  "zone_id": 78,
+  "name": "The Elders' Room",
+  "description": "You are in the room of the valley elf elders.  Books written in strange\nlanguages line the numerous shelves, and scrolls cover a table.  There is a\nsmooth spheric object in the center of the room.",
+  "header_raw": "78 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see another room.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7847
+    },
+    {
+      "dir": 1,
+      "description": "You see another room.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 7804,
+      "to": 7846
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/78.wld"
+}

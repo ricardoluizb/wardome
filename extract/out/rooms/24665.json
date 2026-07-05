@@ -1,0 +1,37 @@
+{
+  "id": 24665,
+  "zone_id": 245,
+  "name": "The heavens",
+  "description": "You fight the strong buffeting wind of a raging thunderstorm\nas you fly upwards into the sky. About you lightning arcs in\ngreat sizzling bolts, followed by the deafening boom of thunder.\nRain beats hard against your face, making it difficult to see.",
+  "header_raw": "245 0 9",
+  "flags_text": "0",
+  "sector": 9,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The heavens",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24679
+    },
+    {
+      "dir": 1,
+      "description": "The heavens",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24666
+    },
+    {
+      "dir": 2,
+      "description": "The heavens",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24651
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/245.wld"
+}

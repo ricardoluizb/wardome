@@ -1,0 +1,29 @@
+{
+  "id": 14395,
+  "zone_id": 143,
+  "name": "Bright Room",
+  "description": "You cannot see the light source in this room, but it is so bright in here\nthat you can barely see.",
+  "header_raw": "143 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The bright room is east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14396
+    },
+    {
+      "dir": 2,
+      "description": "The bright room is south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14393
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

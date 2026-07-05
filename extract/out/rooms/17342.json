@@ -1,0 +1,46 @@
+{
+  "id": 17342,
+  "zone_id": 173,
+  "name": "Knights Way before the stables",
+  "description": "You stand on the white marbled road, Knights Way. You smell horses to \nthe east. To the west the high walls of camelot rise. Knights way continues\nto the north and south.",
+  "header_raw": "173 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Knights Way",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17345
+    },
+    {
+      "dir": 1,
+      "description": "Stables",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17398
+    },
+    {
+      "dir": 2,
+      "description": "Knights Way",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17341
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "stables",
+      "description": "There are many horses and squires scurring about in the stables."
+    },
+    {
+      "keywords": "high walls",
+      "description": "The high walls tower above you, made from a gleaming white stone. The \nblocks are huge- it must have taken a great engine to hoist them. Pennons \nsnap in  the breeze from the many towers of Camelot."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1038,
+  "zone_id": 10,
+  "name": "A Crypt",
+  "description": "This small chamber in the crypts has two exits, one to the north\nand one to the east, both through a pair of archways.  Other things\nof note in here are the small metal plates in the walls with tiny\nbrass plaques set into each one.",
+  "header_raw": "10 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The crypt continues through the archway to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1035
+    },
+    {
+      "dir": 1,
+      "description": "The crypt continues through the archway to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1039
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "metal plate brass plaque wall walls",
+      "description": "The small metal plates in the walls seem to be drawers of some sort.\nEach one is inset with a small brass plaque.  Each plaque lists the\nname of the occupant, none of whom you recognize at all."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

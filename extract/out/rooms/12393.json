@@ -1,0 +1,29 @@
+{
+  "id": 12393,
+  "zone_id": 122,
+  "name": "A Dead End",
+  "description": "The tunnel ends here, before the entrance to more caves, a couple of\nthem to the east large enough for you to crawl into, if you don't mind\nhaving to slither amongst the foul pale humanoids that reside within,\nexuding a thick grey mucous from their pores that renders them slick\nand lubricated. The stench is, not surprisingly, quite unbearable, and\nyou find yourself desperately wishing to be away from here, away from\nNiflheim, away from Asgard, away from all things not of Midgaard.",
+  "header_raw": "122 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12394
+    },
+    {
+      "dir": 1,
+      "description": "It would be INADVISABLE to continue.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12392
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

@@ -1,0 +1,53 @@
+{
+  "id": 9906,
+  "zone_id": 99,
+  "name": "The twisting hedges.",
+  "description": "You are standing amongst a row of twisting hedges about 7 feet \ntall.  Pathways through the hedges lead in all cardinal directions.",
+  "header_raw": "99 1 1",
+  "flags_text": "1",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The twisting hedges.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9909
+    },
+    {
+      "dir": 1,
+      "description": "The twisting hedges.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9906
+    },
+    {
+      "dir": 2,
+      "description": "The twisting hedges.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9905
+    },
+    {
+      "dir": 3,
+      "description": "The twisting hedges.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9908
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "secret",
+      "door_flag": 1,
+      "key": -1,
+      "to": 9910
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

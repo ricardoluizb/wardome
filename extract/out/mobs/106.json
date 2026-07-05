@@ -1,0 +1,12 @@
+{
+  "id": 106,
+  "alias": "buzzard",
+  "short_desc": "the buzzard",
+  "long_desc": "A buzzard spots you and heads your way, watch out!",
+  "detailed_desc": "This nasty, dirty bird looks hungry and mean and ready to bite your face off.",
+  "flags_raw": "42 0 -500 E",
+  "stats1_raw": "25 -4 -2 1d1+1896 5d5+70",
+  "stats2_raw": "375 87901 6",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/1.mob"
+}

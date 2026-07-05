@@ -1,0 +1,1484 @@
+{
+  "id": 5,
+  "name": "Wardome - The WarDome City",
+  "header": {
+    "raw": "599 10 2 1 -1",
+    "min_room": 599,
+    "top_room": 10,
+    "lifespan": 2,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        521,
+        1,
+        525
+      ],
+      "comment": "(the Square Bench)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        1400,
+        1,
+        525
+      ],
+      "comment": "(Caminhao da &YCasa &MFeliz&n)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        0,
+        410,
+        20,
+        1400
+      ],
+      "comment": "(&YH&yavaianaaa &YD&ye &YP&yaAaaAAaUUuuU&W!!!)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        0,
+        1150,
+        20,
+        1400
+      ],
+      "comment": "(&WThe &RSupreme &WShakty&n)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        0,
+        1158,
+        40,
+        1400
+      ],
+      "comment": "(&gShell &Bof &CSharpen &MAudition&n)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        0,
+        1152,
+        20,
+        1400
+      ],
+      "comment": "(&WCrystal &YWall&n)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        0,
+        1155,
+        40,
+        1400
+      ],
+      "comment": "(&WThe &RBloodStar &WBracelet&n)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        0,
+        1167,
+        20,
+        1400
+      ],
+      "comment": "(&WThe &BDreadful &WFaceMask &Bof &WGlobefish&n)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        0,
+        1165,
+        20,
+        1400
+      ],
+      "comment": "(&WThe &MAwesome &WBlack &MBear &WFur&n)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        0,
+        1166,
+        40,
+        1400
+      ],
+      "comment": "(&WThe &RB&Be&Ya&Gu&Mt&Ci&Rf&Bu&Yl &WAmulet of &GP&Me&Ca&Rc&Bo&Yc&Gk&n)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        0,
+        1153,
+        40,
+        1400
+      ],
+      "comment": "(&WThe &BNibelungo's&n &YRing&n)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        0,
+        1168,
+        20,
+        1400
+      ],
+      "comment": "(&WThe &cRustic &WHoofs &cof &WCentaur&n)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        0,
+        1157,
+        20,
+        1400
+      ],
+      "comment": "(&wMithril Gauntlets of Heavens&n)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        0,
+        1156,
+        20,
+        1400
+      ],
+      "comment": "(&wOdi&Rn's &CSca&Bbba&Wrd&n)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        0,
+        1209,
+        20,
+        1400
+      ],
+      "comment": "(&WGaladriel Vespertine Star&n)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        0,
+        1161,
+        20,
+        1400
+      ],
+      "comment": "(&WThe &YFast &WLeggings &Yof &WJaguar&n)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        0,
+        1163,
+        20,
+        1400
+      ],
+      "comment": "(&WThe &GMystic &WWings &Gof &WGryphon&n)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        0,
+        1164,
+        20,
+        1400
+      ],
+      "comment": "(&WThe &CMajestic &WHelmet &Cof &WFalcon&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        509,
+        1,
+        507
+      ],
+      "comment": "(the Path Board)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        503,
+        501,
+        -1
+      ],
+      "comment": "(an water fountain)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        501,
+        1,
+        503
+      ],
+      "comment": "(an water fountain)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        512,
+        1,
+        503
+      ],
+      "comment": "(the Quest Board)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        590,
+        1,
+        590
+      ],
+      "comment": "(the thief jaele)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        20,
+        9999,
+        -1
+      ],
+      "comment": "(a spike trapkit)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        22,
+        9999,
+        -1
+      ],
+      "comment": "(a mana trapkit)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        50,
+        9999,
+        -1
+      ],
+      "comment": "(&Wa &wWhite Gas&W bomb&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        24,
+        9999,
+        -1
+      ],
+      "comment": "(a floor trapkit)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        51,
+        9999,
+        -1
+      ],
+      "comment": "(&Wa set of &wsteel&W shurikens&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        52,
+        9999,
+        -1
+      ],
+      "comment": "(&Wa set of &Menergy&W shurikens&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        530,
+        4,
+        1
+      ],
+      "comment": "(&YBakery&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3001,
+        1,
+        530
+      ],
+      "comment": "(the baker)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3010,
+        100,
+        -1
+      ],
+      "comment": "(a bread)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        18620,
+        100,
+        -1
+      ],
+      "comment": "(a big cake)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3009,
+        500,
+        -1
+      ],
+      "comment": "(&Wa &yw&Ya&yy&Yb&yr&Ye&ya&Yd&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        567,
+        4,
+        523
+      ],
+      "comment": "(The Wardome Gateguard)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        502,
+        99,
+        -1
+      ],
+      "comment": "(Wardome's City key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        502,
+        1,
+        523
+      ],
+      "comment": "(the Archer )"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14128,
+        2,
+        16
+      ],
+      "comment": "(Iolo's bow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        567,
+        4,
+        527
+      ],
+      "comment": "(The Wardome Gateguard)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        502,
+        99,
+        -1
+      ],
+      "comment": "(Wardome's City key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1129,
+        1,
+        564
+      ],
+      "comment": "(the mage Maltzabor)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        97,
+        1,
+        570
+      ],
+      "comment": "(the Suggestions Board)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        504,
+        1,
+        549
+      ],
+      "comment": "(Wardome Sheriff)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        503,
+        1,
+        16
+      ],
+      "comment": "(a sheriff weapon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        560,
+        17,
+        549
+      ],
+      "comment": "(the Wardome Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        500,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        560,
+        17,
+        549
+      ],
+      "comment": "(the Wardome Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        500,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        560,
+        17,
+        549
+      ],
+      "comment": "(the Wardome Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        500,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3000,
+        1,
+        533
+      ],
+      "comment": "(the wizard)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3050,
+        500,
+        -1
+      ],
+      "comment": "(&Wa &Ys&Gcroll &Wof &Yi&Gdentify&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3051,
+        500,
+        -1
+      ],
+      "comment": "(&ya &Yyellow &ypotion of see invisible&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3052,
+        500,
+        -1
+      ],
+      "comment": "(&Wa &Cs&Bcroll &Wof &Cr&Becall&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3053,
+        500,
+        -1
+      ],
+      "comment": "(&Wa grey &Rw&Mand &Wof &Ri&Mnvisibility&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3054,
+        500,
+        -1
+      ],
+      "comment": "(&Wa &Bg&Ynarled &Bs&Ytaff&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3090,
+        500,
+        -1
+      ],
+      "comment": "(&Wa &Ms&Rcroll &Wof &Mr&Remove &Mc&Rurse&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1205,
+        500,
+        -1
+      ],
+      "comment": "(&WW&wa&Wn&wd &Wof &WR&we&Wc&wa&Wl&wl&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        581,
+        1,
+        569
+      ],
+      "comment": "(Gandalf the Grey)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        536,
+        500,
+        -1
+      ],
+      "comment": "(the spellbook of the angels)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        537,
+        500,
+        -1
+      ],
+      "comment": "(the spellbook of the holy souls)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        539,
+        500,
+        -1
+      ],
+      "comment": "(the spellbook of holy food)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        538,
+        500,
+        -1
+      ],
+      "comment": "(the spellbook of armor)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        540,
+        500,
+        -1
+      ],
+      "comment": "(the spellbook of detect)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        599,
+        1,
+        521
+      ],
+      "comment": "(the Gith's Great Portal)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        514,
+        1,
+        545
+      ],
+      "comment": "(the cassino master)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3010,
+        3,
+        532
+      ],
+      "comment": "(the postmaster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        513,
+        1,
+        568
+      ],
+      "comment": "(oracle)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        598,
+        1,
+        598
+      ],
+      "comment": "(A faceless mob)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        580,
+        1,
+        599
+      ],
+      "comment": "(A faceless mob)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        565,
+        507,
+        -1
+      ],
+      "comment": "(the idea board)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        507,
+        1,
+        565
+      ],
+      "comment": "(the idea board)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        500,
+        2,
+        501
+      ],
+      "comment": "(a common board)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3002,
+        1,
+        531
+      ],
+      "comment": "(the grocer)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3031,
+        100,
+        -1
+      ],
+      "comment": "(a lantern)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3032,
+        100,
+        -1
+      ],
+      "comment": "(a bag)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3036,
+        100,
+        -1
+      ],
+      "comment": "(a cashcard)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2,
+        100,
+        -1
+      ],
+      "comment": "(&bthe &bw&Ba&br&Bd&bo&Bm&be help guide&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3006,
+        1,
+        547
+      ],
+      "comment": "(Captain Stolar)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3060,
+        20,
+        -1
+      ],
+      "comment": "(a raft)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3061,
+        10,
+        -1
+      ],
+      "comment": "(&Ya &bc&Banoe&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        566,
+        1,
+        566
+      ],
+      "comment": "(the Cyber Man)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        505,
+        100,
+        -1
+      ],
+      "comment": "(a cup of beer)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        504,
+        100,
+        -1
+      ],
+      "comment": "(a cup of coffee)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        566,
+        5,
+        1
+      ],
+      "comment": "(&YCyber Cafe&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3040,
+        2,
+        546
+      ],
+      "comment": "(the bartender)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3000,
+        100,
+        -1
+      ],
+      "comment": "(&gDragon's Barrel&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3001,
+        100,
+        -1
+      ],
+      "comment": "(a bottle)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3002,
+        100,
+        -1
+      ],
+      "comment": "(a bottle)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3003,
+        100,
+        -1
+      ],
+      "comment": "(a bottle of firebreather)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3004,
+        100,
+        -1
+      ],
+      "comment": "(a bottle)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        511,
+        3,
+        546
+      ],
+      "comment": "(The female prostitute)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        500,
+        1,
+        500
+      ],
+      "comment": "(The Spirit of WarDome)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3004,
+        1,
+        528
+      ],
+      "comment": "(the armourer)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3040,
+        100,
+        -1
+      ],
+      "comment": "(a breast plate)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3046,
+        100,
+        -1
+      ],
+      "comment": "(&ya &ybronze &Ybreast &Yplate&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3041,
+        100,
+        -1
+      ],
+      "comment": "(a chain mail shirt)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3045,
+        100,
+        -1
+      ],
+      "comment": "(a scale mail jacket)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3044,
+        100,
+        -1
+      ],
+      "comment": "(a studded leather jacket)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3070,
+        100,
+        -1
+      ],
+      "comment": "(&ya pair of &Ybronze gauntlets&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3075,
+        100,
+        -1
+      ],
+      "comment": "(&ya &Ybronze helmet&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3080,
+        100,
+        -1
+      ],
+      "comment": "(&ya pair of &Ybronze leggings&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3085,
+        100,
+        -1
+      ],
+      "comment": "(&ya pair of &Ybronze sleeves&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3042,
+        100,
+        -1
+      ],
+      "comment": "(a shield)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3003,
+        1,
+        529
+      ],
+      "comment": "(the weaponsmith)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3019,
+        100,
+        -1
+      ],
+      "comment": "(a composite long bow)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3008,
+        100,
+        -1
+      ],
+      "comment": "(a two-handed sword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3025,
+        100,
+        -1
+      ],
+      "comment": "(a flail)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3029,
+        100,
+        -1
+      ],
+      "comment": "(a spear)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3007,
+        100,
+        -1
+      ],
+      "comment": "(a bastard sword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3018,
+        100,
+        -1
+      ],
+      "comment": "(a long bow)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3028,
+        100,
+        -1
+      ],
+      "comment": "(a mace)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3026,
+        100,
+        -1
+      ],
+      "comment": "(a light crossbow)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3017,
+        100,
+        -1
+      ],
+      "comment": "(a short bow)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3027,
+        100,
+        -1
+      ],
+      "comment": "(a battle axe)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3024,
+        100,
+        -1
+      ],
+      "comment": "(a warhammer)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3022,
+        100,
+        -1
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3006,
+        100,
+        -1
+      ],
+      "comment": "(a quarter staff)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3023,
+        100,
+        -1
+      ],
+      "comment": "(a wooden club)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3021,
+        100,
+        -1
+      ],
+      "comment": "(a small sword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3020,
+        100,
+        -1
+      ],
+      "comment": "(a dagger)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3016,
+        100,
+        -1
+      ],
+      "comment": "(a sling)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        579,
+        3,
+        538
+      ],
+      "comment": "(A janitor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        522,
+        3,
+        16
+      ],
+      "comment": "(Janitor's shovel)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        562,
+        3034,
+        -1
+      ],
+      "comment": "(an automatic teller machine)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        3034,
+        99,
+        562
+      ],
+      "comment": "(an automatic teller machine)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        561,
+        5,
+        1
+      ],
+      "comment": "(The Poor Alley)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        510,
+        4,
+        561
+      ],
+      "comment": "(the alley cat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        510,
+        4,
+        561
+      ],
+      "comment": "(the alley cat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        510,
+        4,
+        561
+      ],
+      "comment": "(the alley cat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        510,
+        4,
+        561
+      ],
+      "comment": "(the alley cat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3030,
+        1,
+        558
+      ],
+      "comment": "(the Blacksmith)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3090,
+        1,
+        557
+      ],
+      "comment": "(the kitten)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3091,
+        1,
+        557
+      ],
+      "comment": "(the puppy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3092,
+        1,
+        557
+      ],
+      "comment": "(the beagle)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3093,
+        1,
+        557
+      ],
+      "comment": "(the rottweiler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3094,
+        1,
+        557
+      ],
+      "comment": "(the wolf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3069,
+        1,
+        557
+      ],
+      "comment": "(the raven)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        576,
+        1,
+        556
+      ],
+      "comment": "(The Scientist)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        575,
+        1,
+        543
+      ],
+      "comment": "(Training Master)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3080,
+        1,
+        544
+      ],
+      "comment": "(the priest apprendice)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        503,
+        1,
+        548
+      ],
+      "comment": "(the mayor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        502,
+        5,
+        17
+      ],
+      "comment": "(Wardome's City key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3009,
+        1,
+        535
+      ],
+      "comment": "(Wally the Watermaster)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3103,
+        100,
+        -1
+      ],
+      "comment": "(a bottle)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3104,
+        100,
+        -1
+      ],
+      "comment": "(a canteen)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6013,
+        100,
+        -1
+      ],
+      "comment": "(&wa barrel of &CWater&n)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/5.zon"
+}

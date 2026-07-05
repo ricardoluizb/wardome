@@ -1,0 +1,12 @@
+{
+  "id": 3809,
+  "alias": "drake firedrake",
+  "short_desc": "a firedrake",
+  "long_desc": "A red dragon-beast sits here, staring at you and blowing fire at you!",
+  "detailed_desc": "This beast looks a lot like a red dragon, except that it's a bit smaller.  It\nhas red scales over it's four-legged reptilian body, with sharp claws and\npiercing tail.  It is disturbed by your intrusion.",
+  "flags_raw": "4194346 8 -700 E",
+  "stats1_raw": "17 12 7 1d1+351 5d2+6",
+  "stats2_raw": "255 24976 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/38.mob"
+}

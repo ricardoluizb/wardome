@@ -1,0 +1,38 @@
+{
+  "id": 17372,
+  "zone_id": 173,
+  "name": "The Ladies' Chambers",
+  "description": "You are in the ladies' chambers. I hope you are a lady, for you are in big \ntrouble if you are not! There are many many rooms here, some occupied, some \nnot, but there certainly is a lot of activity. A young girl stands in sorrow \nhere weeping, and you notice a group of ladies off in the corner. There is \na door north of here leading to the feast hall, and a staircase winding up \nto a tower.",
+  "header_raw": "173 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The Feast Hall door",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17371
+    },
+    {
+      "dir": 4,
+      "description": "A staircase winding upwards",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17373
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "girl young",
+      "description": "You talk to the girl. She is upset because Lancelot wont pay attention to \nher."
+    },
+    {
+      "keywords": "ladies group",
+      "description": "You perk up your ears and listen in on the group of ladies. You overhear :\n\"...it is terrible. The poor girl was captured on her way to her wedding \nby that foul Mordred. Her father has offered a considerable sum for her \nsafe return. I think my Gawaine can surely claim it....\""
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

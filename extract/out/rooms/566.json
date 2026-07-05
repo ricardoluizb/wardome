@@ -1,0 +1,21 @@
+{
+  "id": 566,
+  "zone_id": 5,
+  "name": "&YCyber Cafe&n",
+  "description": "You are in Wardome's Cyber Cafe!\nWanna play something? =)",
+  "header_raw": "5 148 0",
+  "flags_text": "148",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 530
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

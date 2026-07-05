@@ -1,0 +1,46 @@
+{
+  "id": 28537,
+  "zone_id": 285,
+  "name": "The end of the guarded hall",
+  "description": "You are at the end of the hall. Colored doors line the walls to the north. \nTo your west, you see a brown door. To you east, you see a grey door. The \nhall itself leads north back along the rows of doors.",
+  "header_raw": "285 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28532
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "arena",
+      "door_flag": 2,
+      "key": 28509,
+      "to": 28538
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "arena",
+      "door_flag": 2,
+      "key": 28505,
+      "to": 28539
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "arena",
+      "description": "You see a arena door here."
+    },
+    {
+      "keywords": "arena",
+      "description": "You see a arena door here."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/285.wld"
+}

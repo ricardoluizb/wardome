@@ -1,0 +1,29 @@
+{
+  "id": 13130,
+  "zone_id": 131,
+  "name": "Shogun of Shin",
+  "description": "You stand in the chamber dedicated to the Shogun of Shin.  His clothing is\nbright and powerful.  His eyes are piercing.  He glares at you, frowns, and\ndraws his sword.  He knows why you are here.",
+  "header_raw": "131 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The courtyard is south of you.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13129
+    },
+    {
+      "dir": 4,
+      "description": "Stairs lead upward",
+      "keywords": "forcefield",
+      "door_flag": 1,
+      "key": 13106,
+      "to": 13131
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/131.wld"
+}

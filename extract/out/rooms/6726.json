@@ -1,0 +1,29 @@
+{
+  "id": 6726,
+  "zone_id": 67,
+  "name": "The town dump",
+  "description": "You wander amid heaps of trash that smell of disease, famine, and\nother pleasantries...suffice it to say that very little that should\nbe alive here is, and vice-versa.",
+  "header_raw": "67 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6725
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6727
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

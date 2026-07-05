@@ -1,0 +1,21 @@
+{
+  "id": 19014,
+  "zone_id": 190,
+  "name": "The Magic Shop.",
+  "description": "As you enter this store you feel a sensation in your stomach. \nThere is something wrong here or is it just the powers of all \nmagic in here? All around this room you see objects of different \nshapes and sizes.",
+  "header_raw": "190 152 0",
+  "flags_text": "152",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 19012
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/190.wld"
+}

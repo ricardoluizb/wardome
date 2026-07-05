@@ -1,0 +1,37 @@
+{
+  "id": 4756,
+  "zone_id": 47,
+  "name": "Path in the Rock",
+  "description": "This small, uncarved path leads north and south along the cavern wall, over\nmany boulders at points.  To the east you can see a path leading up to a small\nhole in a large boulder.",
+  "header_raw": "47 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4755
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4771
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4757
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 20419,
+  "zone_id": 204,
+  "name": "Queen's Bedroom",
+  "description": "OH, finaly you find the Queen. It looks bigger then the others ants.\nLooking around you can see some eggs in the corner of this room. There is a trapdoor leading down, looks like the treasure is hidden there.",
+  "header_raw": "204 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 20418
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "Treasure",
+      "door_flag": 2,
+      "key": 20406,
+      "to": 20420
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/204.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 17009,
+  "zone_id": 170,
+  "name": "A Turn in the Cave",
+  "description": "You stand in a turn inside the Cave. It's very dark but you note a passage\nto west and another to the north. With a light you perceive that one of the\ngreat number of pictures looks strange. If you touch the wall where it is\nlocated you will see you are near a secret room.",
+  "header_raw": "170 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "It's so dark to see to this direction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17010
+    },
+    {
+      "dir": 3,
+      "description": "It's too dark to see what have in this direction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17008
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/170.wld"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 10401,
+  "zone_id": 104,
+  "name": "Stone Archway",
+  "description": "This is a ancient stone archway. Various faces of demons and other grim\npictures are painted onto it. Stone gargoyles and demons glare down at\nyou from atop the arch.\nThere is a bronze plaque above the archway.",
+  "header_raw": "104 16777225 0",
+  "flags_text": "16777225",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "It's too dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10402
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "plaque",
+      "description": "***************\nDescent to Hell\n***************\n\nYou just GO TO HELL!!!!\n*chuckle*\n\nMade for levels 30-50\n\nBrought to you by Strahd"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

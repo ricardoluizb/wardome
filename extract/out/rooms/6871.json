@@ -1,0 +1,29 @@
+{
+  "id": 6871,
+  "zone_id": 67,
+  "name": "A stairwell",
+  "description": "The old stairwell completes its descent here, and a single passage,\nshadowed in darkness black as ink, leads east.",
+  "header_raw": "67 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6873
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6872
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

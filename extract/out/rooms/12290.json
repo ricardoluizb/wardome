@@ -1,0 +1,29 @@
+{
+  "id": 12290,
+  "zone_id": 122,
+  "name": "Before the Gates of Valaskialf",
+  "description": "The gates of Valaskialf are of wood bound with mithril, and glow\noddly, the result of an enchantment that prevents them being forced\nopen by strength, thus deterring any giants who feel brave enough to\nchallenge the ruler of the Aesir. Runes carved into the rough hewn\nsurface label the place as Valaskialf, and as the Home of Odin. They\ngive off a brilliant glow, almost blinding in its intensity, and almost\nunbearable for your mortal eyes to behold. There is no sign of a lock\nor bar, yet the doors remain firm and refuse to yield when you push against\nthem.",
+  "header_raw": "122 4 2",
+  "flags_text": "4",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": 0,
+      "to": 12291
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12286
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

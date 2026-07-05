@@ -1,0 +1,12 @@
+{
+  "id": 2013,
+  "alias": "lag talkative",
+  "short_desc": "the talkative lag",
+  "long_desc": "A lag is here talking a lot.",
+  "detailed_desc": "Well, at least this gal seems pretty cool.  Talks a lot, but she's a\nfriendly, interesting sort.  Seems to have a clue what she's doing also,\nunlike some others you might see.",
+  "flags_raw": "72 0 100 E",
+  "stats1_raw": "50 -5 2 1d1+1044 5d6+20",
+  "stats2_raw": "750 417675 0",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/20.mob"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 12378,
+  "zone_id": 122,
+  "name": "The Icy Throne of Thrym",
+  "description": "The chambers of the Frost Giant King, Thrym, lie before you, where the giant\nrests in between battles against the Aesir and the Vanir, with or without his\nsometime ally Surtur. Thrym is a strong giant, nowhere near as strong as\nSurtur, but what he lacks in comparison to the fire giant he more than makes\nup for with his cunning and guile. While Surtur is quite happy to mindlessly\nassault Asgardians in direct combat, Thrym tries to plan and make much more\nintelligent tactical decisions. However, he is still but a giant, and often\nfails in his efforts to outsmart the Aesir, though Loki has been known to aid\nhim from time to time.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12376
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

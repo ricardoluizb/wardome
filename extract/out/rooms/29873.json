@@ -1,0 +1,29 @@
+{
+  "id": 29873,
+  "zone_id": 298,
+  "name": "The passage",
+  "description": "You are in a north-south leading passage.  To the south you see light.",
+  "header_raw": "298 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29872
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29874
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/298.wld"
+}

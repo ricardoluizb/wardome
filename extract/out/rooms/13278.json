@@ -1,0 +1,21 @@
+{
+  "id": 13278,
+  "zone_id": 132,
+  "name": "A Citizen's Home",
+  "description": "A rather roomy house for a citizen.  You think that the owner must be a \nmerchant of some type since this is the wealthier side of town.",
+  "header_raw": "132 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "the north wall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13248
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

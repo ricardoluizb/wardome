@@ -1,0 +1,29 @@
+{
+  "id": 20215,
+  "zone_id": 202,
+  "name": "A play ground",
+  "description": "You stand in a large sandbox.  All around the sandbox is park and trees.  Yet\nhere your shoes fill with sand and other interesting things that are buried\nunder the sand.  There are many different types of toys here, from a HUGE\nplayground house to swings, and slides.  All around you, bratty children scream\nas they chase each other around in multiple games of tag and hide and seek.  \nAs you look at the scene you think back to the fun times you had as a kid, when\nevil orcs were not trying to kill you and towns did not need walls to keep out\nevil creatures.",
+  "header_raw": "202 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20216
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20214
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/202.wld"
+}

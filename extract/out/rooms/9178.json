@@ -1,0 +1,37 @@
+{
+  "id": 9178,
+  "zone_id": 91,
+  "name": "Elegant hallway.",
+  "description": "You are in a long, sprawling hallway connecting the eastern and\nwestern wings of the house.  There are several chairs and sofas in\nthe hallway and some gorgeous, handwoven drapes.",
+  "header_raw": "91 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9177
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9179
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9180
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

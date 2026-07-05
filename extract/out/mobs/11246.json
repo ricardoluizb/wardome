@@ -1,0 +1,12 @@
+{
+  "id": 11246,
+  "alias": "priest no'ol",
+  "short_desc": "a Priest of No'ol",
+  "long_desc": "A naked, screaming female prostrates herself before her god.",
+  "detailed_desc": "Utterly evil, inutterably insane, this vile she-witch is a priest of\nNo'ol, and she works herself into unholy frenzies in worship of her\ndeity.",
+  "flags_raw": "8 40 -1000 E",
+  "stats1_raw": "45 -20 -10 1d1+4500 5d9+108",
+  "stats2_raw": "675 469801 9",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

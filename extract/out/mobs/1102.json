@@ -1,0 +1,12 @@
+{
+  "id": 1102,
+  "alias": "oldstyle farmer gamgee",
+  "short_desc": "Farmer Gamgee",
+  "long_desc": "Farmer Gamgee sniffs the air, wondering if harvest time is near.",
+  "detailed_desc": "Farmer Gamgee is a short, stout halfling of thirty years.  His skin has\nbeen tanned from working the fields night and day.  He's quite a jolly\nchap, always ready to befriend an injured bunny rabbit.",
+  "flags_raw": "138 0 350 E",
+  "stats1_raw": "110 -39 -9 1d1+4836 5d12+64",
+  "stats2_raw": "1650 4715076 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/11.mob"
+}

@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "A Dressing Room",
   "description": "You are in a plush dressing room.  Fine garments of many styles and some\noutlandish colours hang from a rack suspended in mid air at eye level.  The\nonly other interesting feature in the room is a large silver mirror on a\nfinely crafted gold stand.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

@@ -1,0 +1,29 @@
+{
+  "id": 1010,
+  "zone_id": 10,
+  "name": "The Clergical Chambers",
+  "description": "These chambers are quite large and appear to be rather clean.  Looking\nabout, you notice that the beds are made and clean robes are hanging on\nhooks by the heads of each one.  The beds are arranged so that the foot of\neach is in the middle of the room, whilst the heads are in small alcove in\nthe wall.  There is a small chest at the foot of each, but a quick glance\nreveals nothing out of the ordinary.\n   The thing that strikes you most oddly about this room however, is that\nthere are no beds along the north wall, but there is a narrow door at the\neast end of it.  A small curtain is located at the southern end of the room\nand small windows line the east and west walls.",
+  "header_raw": "10 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a narrow door at the eastern end of the north wall.",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 1003,
+      "to": 1011
+    },
+    {
+      "dir": 2,
+      "description": "There is a curtain pulled across the doorway here, but you surmise that it\nmust lead out to the main nave of the cathedral.",
+      "keywords": "curtain",
+      "door_flag": 1,
+      "key": -1,
+      "to": 1009
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 11576,
+  "alias": "armourer",
+  "short_desc": "the Armourer",
+  "long_desc": "An Armourer stands here displaying his shiny new (and previously owned) armour.",
+  "detailed_desc": "An old but very strong armourer.  He has made more armour in his life than\nyou have ever seen.",
+  "flags_raw": "24587 40 0 E",
+  "stats1_raw": "50 -9 0 1d1+2196 5d6+40",
+  "stats2_raw": "750 514062 2",
+  "stats3_raw": "8 8 1 -1 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

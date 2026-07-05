@@ -1,0 +1,12 @@
+{
+  "id": 20106,
+  "alias": "demon",
+  "short_desc": "Your own inner demon",
+  "long_desc": "Your own inner demon screams and attacks!",
+  "detailed_desc": "This extremely ugly creature looks very familiar. Wait a minute, it looks\nexactly like you. In fact, it is you!",
+  "flags_raw": "110 8389800 -201 E",
+  "stats1_raw": "90 -39 -14 1d1+7560 5d19+106",
+  "stats2_raw": "1350 2970309 7",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/201.mob"
+}

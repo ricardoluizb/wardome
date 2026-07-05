@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Dining Room",
   "description": "You are in the dining area of the student mages.  From the number of\ntables and chairs here, you can see that this room could easily seat\nseveral hundred people.  It is oddly deserted here, obviously not meal\ntime.\n   Exits lead west to the kitchen, and back east.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

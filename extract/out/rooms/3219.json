@@ -1,0 +1,38 @@
+{
+  "id": 3219,
+  "zone_id": 32,
+  "name": "The Bull's Chamber",
+  "description": "This room is in TOTAL dissaray.  Items seem to have been swept of the room's\nnumerous shelves and just dumped on the floor.  The room has an unfamiliar\nsmell, and you wrinkle your nose in disgust.  An great sliding window is open\nto the south and leads to the balcony, and a heavy iron door is to the east.",
+  "header_raw": "32 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door heavy iron",
+      "door_flag": 1,
+      "key": 3207,
+      "to": 3220
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3221
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "shelves",
+      "description": "The shelves have been swept clean."
+    },
+    {
+      "keywords": "window",
+      "description": "Its a great, big walk-through window."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/32.wld"
+}

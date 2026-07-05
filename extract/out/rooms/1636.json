@@ -1,0 +1,29 @@
+{
+  "id": 1636,
+  "zone_id": 16,
+  "name": "Second Level of the Eastern Tower",
+  "description": "You are in the center of the second level of the Eastern tower. This large\nroom appears quite empty, except for the candle abras firmly fixed to the\nwalls.  An opening leads westward, and a spiral staircase leads down.",
+  "header_raw": "16 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1637
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1635
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 12382,
+  "zone_id": 122,
+  "name": "Niflheim",
+  "description": "Fell shapes and shadows hurl themselves at you out of the bloody gloom,\neager to feast on your body and soul. No mortal would sanely venture\nhere unless they were one of the fallen who were deemed unworthy of\nValhalla. But undaunted you press on, mostly because the edit that you\npassed through to enter this infernal realm has disappeared...",
+  "header_raw": "122 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12384
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12381
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

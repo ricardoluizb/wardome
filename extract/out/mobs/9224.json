@@ -1,0 +1,12 @@
+{
+  "id": 9224,
+  "alias": "oldstyle dust elemental",
+  "short_desc": "a dust cloud",
+  "long_desc": "A dust cloud blowing by makes you sneeze.",
+  "detailed_desc": "The magical dust cloud is a cross between air and earth.",
+  "flags_raw": "74 40 0 E",
+  "stats1_raw": "135 -47 -10 1d1+3780 5d14+54",
+  "stats2_raw": "2025 6908061 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/92.mob"
+}

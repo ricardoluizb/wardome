@@ -1,0 +1,37 @@
+{
+  "id": 20295,
+  "zone_id": 0,
+  "name": "The Hills Of Emyn Muil",
+  "description": "From here all you can see is a lot of mountains, for everywhere.  The place is\ngrey and the fog covers your path.  Be careful where you put your foots in.  \nYou feel your vital energy dissipating.",
+  "header_raw": "0 72 5",
+  "flags_text": "72",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20296
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20288
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20294
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/202.wld"
+}

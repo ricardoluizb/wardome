@@ -1,0 +1,21 @@
+{
+  "id": 30078,
+  "zone_id": 300,
+  "name": "A kitchen",
+  "description": "A typical kitchen in the elven home.  All of the benchtops, the sink and the\noven have been kept thoroughly clean.  There are many cupboards here but you\ncan't imagine anything of great significance being in them.  You could have a\nquick rummage through them though, if you so wished.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30077
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

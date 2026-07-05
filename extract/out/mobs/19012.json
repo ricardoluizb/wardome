@@ -1,0 +1,12 @@
+{
+  "id": 19012,
+  "alias": "Elf bard Elven",
+  "short_desc": "the Elven bard",
+  "long_desc": "An Elven bard is sitting here playing on his lute and singing.",
+  "detailed_desc": "This Elf is dressed in green, whith brown pants. He is playing on a \nfine rose-tree lute with silver strings.",
+  "flags_raw": "10 8 750 E",
+  "stats1_raw": "71 -15 0 1d1+1980 5d8+28",
+  "stats2_raw": "1065 1105582 0",
+  "stats3_raw": "6 6 1 2 3",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/190.mob"
+}

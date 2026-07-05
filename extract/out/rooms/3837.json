@@ -1,0 +1,34 @@
+{
+  "id": 3837,
+  "zone_id": 38,
+  "name": "An End of the Tunnel",
+  "description": "You are at an end of the tunnels.  A high lantern shows a large silver door to\nthe south.  The door seems to glow.  The tunnel leads back north.  There is a\nlarge sign here, scribbled on it, 'Do NOT Enter!'",
+  "header_raw": "38 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3836
+    },
+    {
+      "dir": 2,
+      "description": "The sign says, 'Do NOT Enter!'",
+      "keywords": "door silver",
+      "door_flag": 1,
+      "key": 3801,
+      "to": 3838
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "The sign says, 'Do NOT Enter!'"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

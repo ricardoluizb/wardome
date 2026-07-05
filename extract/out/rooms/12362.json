@@ -1,0 +1,29 @@
+{
+  "id": 12362,
+  "zone_id": 122,
+  "name": "The Realm of Fire",
+  "description": "A narrow twisting tunnel lit by flaming gases winds into the bowels of\nthe earth, the heat causing you to sweat profusely, it is entirely\nunexpected after the freezing cold of the rest of Asgard. Long shadows\ncast by the tall inhabitants of this lair loom menacingly up ahead.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12364
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12361
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

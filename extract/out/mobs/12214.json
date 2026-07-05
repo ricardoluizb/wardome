@@ -1,0 +1,12 @@
+{
+  "id": 12214,
+  "alias": "munin raven",
+  "short_desc": "Munin",
+  "long_desc": "A black feathered raven perches here, eyeing you cautiously.",
+  "detailed_desc": "These ravens are used by Odin as scouts and messengers. Loyal and highly\nintelligent, they are invaluable allies to the God.",
+  "flags_raw": "10 271400 200 E",
+  "stats1_raw": "20 2 1 1d1+1200 5d3+48",
+  "stats2_raw": "300 52343 4",
+  "stats3_raw": "8 8 0 4 3",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/122.mob"
+}

@@ -1,10 +1,10 @@
 {
   "id": 7304,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "The Cave Turning-Point",
   "description": "The mud is getting deeper.  You are wondering, 'Would it be an idea to\nleave, before I disappear?'.  To the south you notice a flat round stone\nis blocking the way.  To the west you can see mud.",
-  "header_raw": "73 ad 2",
-  "flags_text": "ad",
+  "header_raw": "72 9 2",
+  "flags_text": "9",
   "sector": 2,
   "exits": [
     {

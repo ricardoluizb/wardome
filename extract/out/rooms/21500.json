@@ -1,0 +1,29 @@
+{
+  "id": 21500,
+  "zone_id": 215,
+  "name": "the Hole Pit",
+  "description": "You approach in a great hole, you can see only the dark down there you can here\ntoo loudy screams of the creatures who live there some ropes and laders can be\nclearly sighted from atop, down here and will see what waits you.",
+  "header_raw": "215 16777225 0",
+  "flags_text": "16777225",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22000
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 21501
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/215.wld"
+}

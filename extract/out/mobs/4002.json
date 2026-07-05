@@ -4,9 +4,9 @@
   "short_desc": "the centipede",
   "long_desc": "A small centipede is here, making its way across the floor.",
   "detailed_desc": "It looks completely harmless.",
-  "flags_raw": "b 0 100 S",
-  "stats1_raw": "3 20 6 2d10+20 1d6+0",
-  "stats2_raw": "0 400",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "10 0 100 E",
+  "stats1_raw": "5 18 9 1d1+99 5d1+2",
+  "stats2_raw": "75 1651 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/40.mob"
 }

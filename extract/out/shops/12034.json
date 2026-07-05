@@ -6,13 +6,14 @@
     3052,
     3053,
     3054,
-    12030
+    12030,
+    12038
   ],
   "profit_buy": 1.85,
   "profit_sell": 0.5,
   "buy_types": [
-    "SCROLL",
-    "WAND"
+    "2",
+    "3"
   ],
   "messages": [
     "%s We don't carry that item.",
@@ -30,10 +31,10 @@
     96,
     12042,
     -1,
-    8,
-    18,
+    0,
+    28,
     0,
     0
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/shp/120.shp"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/120.shp"
 }

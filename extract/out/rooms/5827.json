@@ -1,0 +1,21 @@
+{
+  "id": 5827,
+  "zone_id": 57,
+  "name": "The Dwarf Room",
+  "description": "You open this door to be greeted by a very odd sight. Several Dwarves, \nsmoking pipes and playing poker, are seated about a table. There is a deck\nof cards scattered about, and as you watch the last player folds and the\ndealer collects. Spying you they offer a cordial greeting and ask you if\nyou would like to join them.",
+  "header_raw": "57 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "a junction",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5826
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

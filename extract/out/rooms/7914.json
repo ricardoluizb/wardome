@@ -3,8 +3,8 @@
   "zone_id": 79,
   "name": "On The Huge Chain",
   "description": "This place has quite a good view over Midgaard.  Your possibilities of\nmovement seem to extend only to the up and down directions.  Unless you\nwant to let go of the secure and seemingly unmovable chain, then those are\nthe directions you should take from here.",
-  "header_raw": "79 c 5",
-  "flags_text": "c",
+  "header_raw": "79 16777220 5",
+  "flags_text": "16777220",
   "sector": 5,
   "exits": [
     {
@@ -21,7 +21,7 @@
       "keywords": "",
       "door_flag": 0,
       "key": -1,
-      "to": 3120
+      "to": -1
     }
   ],
   "extra_descriptions": [],

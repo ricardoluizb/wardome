@@ -1,0 +1,42 @@
+{
+  "id": 6830,
+  "zone_id": 67,
+  "name": "Under an oak dark and wet with rain",
+  "description": "A broad oak, knotted with the eons it has seen, stands amidst a\ncircle of blackberry shrubs that seem to form a protective shroud\nof thorns about the area. Ivy vines hang loose from its many-cornered\nlimbs.\nSome images have been carved into the oak.",
+  "header_raw": "67 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6847
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6829
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6831
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "oak",
+      "description": "The giant oak is covered in thick blue-green mosses and dark swaying\nivy. Some images have been carved and charred in by a fiery \ntouch, a sternly beautiful woman with a ruby dagger sheathed at\nher waist stands beside a man with the robe of the priesthood.\nThe cold wind of the sea blows the sails of the rocking ship they\nride upon. The rogue woman is imploring a second man to destroy\na beast far too great for his strength, a cruel smile playing\nupon her lips. \nThe image is frozen upon the bark, immobile, yet it is apparent\nshe is winning the battle. Beneath the picture are engraved the\nwords \"Know thy limits\"."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

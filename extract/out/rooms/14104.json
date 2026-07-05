@@ -1,0 +1,37 @@
+{
+  "id": 14104,
+  "zone_id": 141,
+  "name": "New Magincia Road",
+  "description": "The path continues to the south and north.  On the east there\nseems to be administrative building.",
+  "header_raw": "141 64 1",
+  "flags_text": "64",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "There is a shimmering light.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14103
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14114
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14105
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

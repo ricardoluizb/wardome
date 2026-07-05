@@ -3,8 +3,8 @@
   "zone_id": 53,
   "name": "The Fire Pool",
   "description": "This room is dominated by a massive raised pool that is filled with\nnot water but flames of intense heat.  The multicoloured flames lick out\nat you, searching for things to burn.  The pool proceeds to the east into\na small chamber.",
-  "header_raw": "53 cd 0",
-  "flags_text": "cd",
+  "header_raw": "53 32780 0",
+  "flags_text": "32780",
   "sector": 0,
   "exits": [
     {

@@ -1,0 +1,37 @@
+{
+  "id": 8209,
+  "zone_id": 82,
+  "name": "The Eastern Corridor",
+  "description": "You are in the eastern corridor of the cathedral, you see wood benches at your \nleft and right sides, where people are seated and wishpering to each other. To\nthe east you see a small room that leads you to the chapel.",
+  "header_raw": "82 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8210
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8217
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8208
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

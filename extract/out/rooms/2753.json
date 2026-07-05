@@ -1,0 +1,29 @@
+{
+  "id": 2753,
+  "zone_id": 27,
+  "name": "The Bree Cemetery",
+  "description": "There is an eerie quiet about this place that makes you feel uneasy.  Yes, the\nwilderness is scary, but it's not as bad as this.  Although, for some strange\nreason, a voice in your head echoes \"Rest in peace\".  In fact, the only ones\nwho seem to rest here are the dead.    \nYou stand before the cemetery of Bree.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2754
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2752
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

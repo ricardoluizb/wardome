@@ -1,0 +1,29 @@
+{
+  "id": 733,
+  "zone_id": 7,
+  "name": "Wall Side Road, South",
+  "description": "All the buildings in this area are semi-destroyed, victims of a\nraid or war it seems.  There are some signs of construction about, but\nit seems that there is no great need for more buildings right now.\n   Wall Side Road continues north and south.",
+  "header_raw": "7 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 734
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 732
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

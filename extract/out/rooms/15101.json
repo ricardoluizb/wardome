@@ -1,0 +1,45 @@
+{
+  "id": 15101,
+  "zone_id": 150,
+  "name": "A Dirt Path",
+  "description": "A worn dirt path leads east, north and south from here.  To the north and\nsouth, you can see more holding cells, to the east you see a number of huts,\ntents, and outbuildings.",
+  "header_raw": "150 64 1",
+  "flags_text": "64",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 15103
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 15111
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 15102
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door cell",
+      "door_flag": 2,
+      "key": -1,
+      "to": 15100
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/151.wld"
+}

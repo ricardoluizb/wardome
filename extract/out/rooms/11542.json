@@ -1,0 +1,21 @@
+{
+  "id": 11542,
+  "zone_id": 115,
+  "name": "An unfinished room",
+  "description": "You stand in a dim room that appears to be surprisingly decrepid for part of\nsuch a new building.  It seems doubtful that anyone actually showers here, as\nyou'd probably only get more dirty attempting to.  As you peer through what\nlittle light there is, you notice a loose grate in the far corner.  Letting\ncuriosity get the best of you, you lift up the grate and find a long ladder\ndescending into darkness.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11541
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

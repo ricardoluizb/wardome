@@ -1,0 +1,29 @@
+{
+  "id": 739,
+  "zone_id": 7,
+  "name": "George's Place",
+  "description": "This store is such a crazy confusion of items for sale you can\nhardly figure out where to start looking.  You feel you could find\nEXACTLY what you've been looking for, if only you had enough time to\nlook for it...\n   As greediness lights your brain, you notice all of the concealed\ncrossbows around the room.  Maybe it wouldn't be a hot idea to try\ntosteal something after all...",
+  "header_raw": "7 152 0",
+  "flags_text": "152",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 731
+    },
+    {
+      "dir": 1,
+      "description": "This is a big metal door with a sign hung on it saying, 'KEEP OUT!'",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 726,
+      "to": 740
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

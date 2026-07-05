@@ -1,0 +1,21 @@
+{
+  "id": 17871,
+  "zone_id": 178,
+  "name": "Hobgoblin Armory",
+  "description": "The guards store their spare weapons and armor here.  There are rusty swords\non rotting shelves, and armor hanging from hooks or laying on the floor.",
+  "header_raw": "178 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the shaft.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17862
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

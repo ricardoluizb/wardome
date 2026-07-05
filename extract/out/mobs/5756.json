@@ -1,0 +1,12 @@
+{
+  "id": 5756,
+  "alias": "sandworm giant",
+  "short_desc": "a giant Sandworm",
+  "long_desc": "A giant Sandworm rears up out of the sand and attacks!",
+  "detailed_desc": "This big fellow makes sea serpents of old look tiny. His circular maw is\nlined with rows and rows of teeth, all ready to bite into you!.",
+  "flags_raw": "106 8200 0 E",
+  "stats1_raw": "20 -12 -9 1d1+2316 5d7+118",
+  "stats2_raw": "300 65430 11",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 11223,
+  "alias": "skeleton horse",
+  "short_desc": "a skeletal horse",
+  "long_desc": "The skeleton of a dead horse rises from the ground!",
+  "detailed_desc": "Although its physical form is long dead, the remains of the horse\narise by the dint of some foul necromancy to assault any who intrude\nupon its place of death!",
+  "flags_raw": "42 0 -400 E",
+  "stats1_raw": "35 -15 -8 1d1+3492 5d7+104",
+  "stats2_raw": "525 238782 9",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 5823,
+  "zone_id": 57,
+  "name": "A Creepy Room",
+  "description": "You have entered a creepy-looking room, littered with corpses and various\nitems of rubbish. Shadows flicker and dance in the glare of your wavering\nlight source, and you fancy you can feel a palpable aura of evil in this\nplace. You may hurry quickly north to a passage there, or back up to the\nsafety of the corridor you just left.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a bend",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5824
+    },
+    {
+      "dir": 4,
+      "description": "a passage",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5814
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

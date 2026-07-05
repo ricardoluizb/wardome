@@ -1,0 +1,21 @@
+{
+  "id": 6916,
+  "zone_id": 69,
+  "name": "A Bloody Cell",
+  "description": "This cell is bloodier than ever!  Blood drenches the walls, and there is\nblood all over the floor, making you slip and lose your balance.  Lucky you\ndidn't fall in that mess!  Yuck!  Red bones lie in a corner, their color\nchanged as an effect to the blood.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "cell bars",
+      "door_flag": 1,
+      "key": 6902,
+      "to": 6914
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

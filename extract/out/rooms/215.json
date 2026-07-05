@@ -1,0 +1,21 @@
+{
+  "id": 215,
+  "zone_id": 2,
+  "name": "Quest Preparation Room",
+  "description": "This room is exactly as you left it.  One exit... down...",
+  "header_raw": "2 12 0",
+  "flags_text": "12",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "The water below still looks ominous.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 202
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/2.wld"
+}

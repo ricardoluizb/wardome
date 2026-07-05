@@ -1,0 +1,29 @@
+{
+  "id": 1053,
+  "zone_id": 10,
+  "name": "Above The Molten Lava",
+  "description": "You are currently a short distance above the molten lava which just\nso happens to be below.  The walls of the pit are glassy smooth at this\npoint, it is probably that the stone has been melted to that consistency.\nThe pits continues upwards into the darkness and down a short distance\ninto the lava.",
+  "header_raw": "10 8 9",
+  "flags_text": "8",
+  "sector": 9,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "The pit keeps going upwards as far as you can see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1052
+    },
+    {
+      "dir": 5,
+      "description": "There is scads of molten lava right below you.  Guess this means that\nthe pit didn't fall forever doesn't it?",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1054
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

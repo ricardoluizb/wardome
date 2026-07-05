@@ -1,0 +1,29 @@
+{
+  "id": 2363,
+  "zone_id": 23,
+  "name": "The city streets of Mahn-Tor",
+  "description": "You walk among the ice and snow covered shops and homes. Most of the doors are\nclosed and only the light from the windows betrays the presence of inhabitants.\nA cold wind blows through here, scattering fine clouds of snow all about. Small\nstreets lead south and east.",
+  "header_raw": "23 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2364
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2366
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

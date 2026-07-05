@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "The King's Road",
   "description": "You stand at the beginning of the actual King's Road.  The road is wide\nenough for several horses to ride along side by side with room to spare.\nThe stones which make up the road have been put into place with such skill\nthat the road seems to be perfectly smooth and perfectly straight.\n   You spot a small trail leading to the south through the undergrowth which\nsurrounds the road at this point.\nA traveller passes by and waves cheerfully at you.",
-  "header_raw": "150 c 1",
-  "flags_text": "c",
+  "header_raw": "150 4 1",
+  "flags_text": "4",
   "sector": 1,
   "exits": [
     {

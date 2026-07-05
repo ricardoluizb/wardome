@@ -1,12 +1,12 @@
 {
   "id": 3065,
-  "alias": "beggar",
-  "short_desc": "the beggar",
-  "long_desc": "A beggar is here, asking for a few coins.",
-  "detailed_desc": "The beggar looks like she is fed up with life.",
-  "flags_raw": "b 0 400 S",
-  "stats1_raw": "1 20 9 2d6+10 1d5+0",
-  "stats2_raw": "0 100",
-  "stats3_raw": "8 8 2",
+  "alias": "sucubus demon",
+  "short_desc": "the sucubus",
+  "long_desc": "A very delicious sucubus stands here(and your stick stands too).",
+  "detailed_desc": "It is a very delicious sucubus. If you are a man, this creature\nis the perfect creature for sex. If you can stand still, you 'd better\nleave now.",
+  "flags_raw": "10 0 -1000 E",
+  "stats1_raw": "160 -60 -14 1d1+4476 5d17+64",
+  "stats2_raw": "2400 11302310 0",
+  "stats3_raw": "8 8 2 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

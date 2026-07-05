@@ -4,9 +4,9 @@
   "short_desc": "the horrible ghost",
   "long_desc": "You hear a frightening wail, and see a horrible ghost approaching.",
   "detailed_desc": "The ghost is almost translucent, and looks really SCARY!",
-  "flags_raw": "bcefnopqr dks -700 S",
-  "stats1_raw": "15 6 -6 9d6+150 2d8+2",
-  "stats2_raw": "3000 22000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "254014 263176 -700 E",
+  "stats1_raw": "135 -47 -10 1d1+3780 5d14+54",
+  "stats2_raw": "2025 6908061 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/150.mob"
 }

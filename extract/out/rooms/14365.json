@@ -1,0 +1,37 @@
+{
+  "id": 14365,
+  "zone_id": 143,
+  "name": "A Round Tunnel",
+  "description": "The hallway here resembles the shape of a sewer pipe as it is completely round.\nYou feel a draft from the east while the darkness continues to the south.",
+  "header_raw": "143 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Through the darkness you can just see the outline of a huge pit...it looks\ndangerous!",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14366
+    },
+    {
+      "dir": 2,
+      "description": "It is too dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14367
+    },
+    {
+      "dir": 3,
+      "description": "It is too dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14350
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

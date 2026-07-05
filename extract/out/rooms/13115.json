@@ -1,0 +1,29 @@
+{
+  "id": 13115,
+  "zone_id": 131,
+  "name": "Fourth Floor Landing",
+  "description": "You are standing on the fourth floor of the temple.  You have traveled much\ntoo far already, but feel that going onward is a must.  Something about this\nfloor demands respect.",
+  "header_raw": "131 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You hear water to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13116
+    },
+    {
+      "dir": 5,
+      "description": "Stairs lead down from here.",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 13114
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/131.wld"
+}

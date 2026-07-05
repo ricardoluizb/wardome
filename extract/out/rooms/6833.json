@@ -1,0 +1,37 @@
+{
+  "id": 6833,
+  "zone_id": 67,
+  "name": "The southern path",
+  "description": "The soft mud of the path loosens and parts as it meets your heels,\npulling you in slightly with each step. A rotten stench is filtering\nin from the west, repelling you in another direction automatically\nsuch that it takes a great conscious effort for you to turn that way.\nThe path heads north into the town's mainstream, and south closer to\nthe wildlands beyond it.",
+  "header_raw": "67 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6727
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6835
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "stone",
+      "door_flag": 0,
+      "key": 23,
+      "to": 6834
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

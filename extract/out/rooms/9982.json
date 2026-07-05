@@ -1,0 +1,29 @@
+{
+  "id": 9982,
+  "zone_id": 99,
+  "name": "A slimey footpath.",
+  "description": "The slime seems to be lessening a bit here, though the way is still \nas slippery as can be.  A clearing can be seen to the South.",
+  "header_raw": "99 1 1",
+  "flags_text": "1",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9981
+    },
+    {
+      "dir": 2,
+      "description": "A small clearing.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9983
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

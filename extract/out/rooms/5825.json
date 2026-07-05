@@ -1,0 +1,29 @@
+{
+  "id": 5825,
+  "zone_id": 57,
+  "name": "A Widening in the Passage",
+  "description": "*>CLANG<*! As soon as you enter this area, a huge, heavy portcullis slams\ndown into place behind you, preventing your returning in that direction,\nmeaning you have no choice but to continue east into a sinister-looking area\nof the dungeons of Firetop Mountain. You pray that you will find the key\nto the portcullis somewhere in here...",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "junction",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5826
+    },
+    {
+      "dir": 3,
+      "description": "a bend",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 5808,
+      "to": 5824
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

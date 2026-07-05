@@ -1,0 +1,21 @@
+{
+  "id": 13071,
+  "zone_id": 130,
+  "name": "Headquarter's Office",
+  "description": "Here is the office, there are two desks  and a big table, you can\nsee the Map of the Wardome City in the wall inside  a big square named\nNEW TARGET.  The exit is to the east.",
+  "header_raw": "130 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13061
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

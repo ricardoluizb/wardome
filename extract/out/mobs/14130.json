@@ -1,0 +1,12 @@
+{
+  "id": 14130,
+  "alias": "bartender",
+  "short_desc": "the bartender",
+  "long_desc": "A bartender stands here in the middle of a throng of people.",
+  "detailed_desc": "A smiling face asks you what you would like to drink.  Well\nversed in compassion, he has heard and sympathized with many\npeople who have gone to him for advice.  His advice to you, is to\nkick back and enjoy a drink.",
+  "flags_raw": "2120 1024 1000 E",
+  "stats1_raw": "80 -22 -3 1d1+2880 5d9+42",
+  "stats2_raw": "1200 1878758 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 6909,
+  "zone_id": 69,
+  "name": "A Small Tunnel",
+  "description": "You are walking in the tunnel that strangely turns and heads west, with a\ntorch burning on the wall.  The torch is bright enough to just be able to see\nthe tunnel, and what you see amazes you.  The tunnel is rounded at the top,\nwith dirt as the ground.  Bugs and other living things crawl all around inside\nof the tunnel, bothering you to the point where you're going crazy.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6908
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6910
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

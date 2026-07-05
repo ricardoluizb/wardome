@@ -1,0 +1,21 @@
+{
+  "id": 8138,
+  "zone_id": 81,
+  "name": "The Guard Room",
+  "description": "This is a small cave hollowed out for the use of the goblin doorwards.\nOften arms are also stored here, in case of an invasion.  The guards\nare so bad, however, that Goblin town places little trust in this,\ntheir first line of defense.",
+  "header_raw": "81 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You can only go east.",
+      "keywords": "door runed",
+      "door_flag": 1,
+      "key": -1,
+      "to": 8137
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

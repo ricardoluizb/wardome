@@ -1,0 +1,21 @@
+{
+  "id": 30514,
+  "zone_id": 305,
+  "name": "&BO templo dos Elfos Aquatico&n",
+  "description": "Voce esta no Templo dos Elfos Aquaticos, um bonito lugar com corais, recifes\ne peixes por toda a parte.  Nao e' dificil descobrir qual deus eles seguem pois\nha' imagens dele por toda a parte.  Seu nome e' Taerom, o filho de Poseidon.  \nA saida a estrada dos Templos e' ao sul.",
+  "header_raw": "305 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30506
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/305.wld"
+}

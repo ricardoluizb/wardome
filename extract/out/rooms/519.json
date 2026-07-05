@@ -1,0 +1,21 @@
+{
+  "id": 519,
+  "zone_id": 5,
+  "name": "&BThe Temple of the Lizardmen&n",
+  "description": "You are standing on the Lizardmens ground, a very unpleasant place, it has\na terrible scent and it seems to be comming from the walls, your boots are sunken\nin a grossy, thick mud, that is visible every part. Surelly only a Lizardman\ncould live here.\n   The exit to the Temple Street is to the North.",
+  "header_raw": "5 1048596 0",
+  "flags_text": "1048596",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 506
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

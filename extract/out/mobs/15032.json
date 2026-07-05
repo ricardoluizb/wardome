@@ -4,9 +4,9 @@
   "short_desc": "the pit fiend",
   "long_desc": "A large demon surrounded by flames rises out of the dark pool.",
   "detailed_desc": "It is a horrifying thing, this demonic creature from the depths of the\nAbyss.  It glares down at you through blood-red eyes, and bares its huge\nwhite fangs and its razor-sharp talons.",
-  "flags_raw": "abeflnopqr dfhk 1000 S",
-  "stats1_raw": "33 0 -10 3d60+1480 4d8+16",
-  "stats2_raw": "35000 1000000",
-  "stats3_raw": "6 8 1",
+  "flags_raw": "256059 8389800 1000 E",
+  "stats1_raw": "125 -42 -8 1d1+3492 5d13+50",
+  "stats2_raw": "1875 5532299 0",
+  "stats3_raw": "6 8 1 10 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/150.mob"
 }

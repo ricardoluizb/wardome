@@ -1,0 +1,37 @@
+{
+  "id": 2317,
+  "zone_id": 23,
+  "name": "The hills overlooking the shore",
+  "description": "Standing at the edge of the foothills, you are able to look down upon a rocky\nshoreline. It appears as though a vast ocean is to the south. Sea birds have\nmade their nests here in the rocks and you are heartened by the presence of\nlife here. It is possible to climb down to the shore here. The hills\nthemselves are to the north. The edge of the hills leads to the east along the\nshoreline.",
+  "header_raw": "23 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2313
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2318
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2320
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

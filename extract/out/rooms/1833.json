@@ -1,0 +1,45 @@
+{
+  "id": 1833,
+  "zone_id": 18,
+  "name": "The Snow-filled Land",
+  "description": "You could get lost in the snow, you know.\nThe snow is cold, white, and deep.\nIt seems you have miles to go before you sleep,\n...miles to go before you sleep.\nYou see an outpost to the south.",
+  "header_raw": "18 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1831
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1832
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1807
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1832
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/18.wld"
+}

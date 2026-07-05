@@ -1,0 +1,21 @@
+{
+  "id": 20112,
+  "zone_id": 201,
+  "name": "The Disciples' Bunk",
+  "description": "This is the sleeping chamber of all the young men, like yourself,who come \nfrom all over the world to learn the legendary martial skills of Shaolin.",
+  "header_raw": "201 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 20108
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/201.wld"
+}

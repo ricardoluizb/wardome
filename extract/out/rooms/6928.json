@@ -1,0 +1,21 @@
+{
+  "id": 6928,
+  "zone_id": 69,
+  "name": "The Outhouse",
+  "description": "This outhouse really stinks!  Why did you come in here anyway?  You should\nhave just went into the spooky old house.  The smell is beginning to get to you\nnow.  Get out of here before you faint!",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6927
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 12251,
+  "alias": "shark great",
+  "short_desc": "the great shark",
+  "long_desc": "A monstrous white shark glides through the water.",
+  "detailed_desc": "One of the most feared and hated marine predators, sharks are at the\nbest of times worthy opponents. This monster, however, is the size of\nthree normal sharks, nearly thirty feet in length, and with several\nrows of teeth that could bite an armored knight in half like a twig.\nThat is, if it didn't just swallow them whole...",
+  "flags_raw": "4194408 1064 -400 E",
+  "stats1_raw": "60 -18 -5 1d1+3600 5d7+64",
+  "stats2_raw": "900 879375 4",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/122.mob"
+}

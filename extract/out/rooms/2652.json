@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "A Grey Tiled Hallway",
   "description": "You are in a grey tiled hallway leading north and south.  Dim balls\nof energy float here and there shedding a warm light, and showing the\nway.  A feeling of peace and balance comes over you.\n   Large, grey metal double doors can be seen to the south.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

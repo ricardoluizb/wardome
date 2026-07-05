@@ -1,0 +1,29 @@
+{
+  "id": 9938,
+  "zone_id": 99,
+  "name": "A cramped grotto.",
+  "description": "You are in a cramped grotto over the cave entrance.  Even if you \narent claustrophobic this place can surely make you that way.  A \ncrawlspace leads West.  Watch your head.",
+  "header_raw": "99 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9939
+    },
+    {
+      "dir": 5,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9934
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

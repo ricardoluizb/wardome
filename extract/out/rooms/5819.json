@@ -1,0 +1,29 @@
+{
+  "id": 5819,
+  "zone_id": 57,
+  "name": "A Corridor",
+  "description": "You have entered a short corridor that runs north to a junction and south to\na sturdy oak door. You fancy you can hear raspy breathing coming from behind\nit.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "junction",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5820
+    },
+    {
+      "dir": 2,
+      "description": "a room",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5818
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

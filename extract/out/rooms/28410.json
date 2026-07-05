@@ -1,0 +1,29 @@
+{
+  "id": 28410,
+  "zone_id": 284,
+  "name": "The Entrance",
+  "description": "You are standing by a large entrance in the floor. The entrance measures\nten meters in height and five meters in width.a Big rock obstruct your passage.\n  Maybe you should turn back while you can.",
+  "header_raw": "284 8 6",
+  "flags_text": "8",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "East is where you came from.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28409
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "entrance",
+      "door_flag": 1,
+      "key": -1,
+      "to": 28411
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/284.wld"
+}

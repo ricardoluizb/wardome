@@ -1,0 +1,12 @@
+{
+  "id": 10425,
+  "alias": "oldstyle demonguard",
+  "short_desc": "Demonguard",
+  "long_desc": "A demonguard patrols the planes of Hell.",
+  "detailed_desc": "This very large demon stands before you, licking his daggerlike teeth.\nYellow spittle runs down the scales of his blackened skin.",
+  "flags_raw": "104 8389760 -800 E",
+  "stats1_raw": "100 -32 -6 1d1+3600 5d11+50",
+  "stats2_raw": "1500 3541448 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/104.mob"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 11259,
+  "zone_id": 112,
+  "name": "A Guard Room",
+  "description": "Even temples have need of security, in these times of trouble, and\nthe Temple of Asteh is not staffed by naive fools. Here they quarter a\nstout guardian, whose purpose is to repel unwanted invaders. Unfortunately\nhe was easily overcome by the magical powers of the usurpers of Hochenyana,\nand stuffed in here until they decide what to do with him.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11258
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

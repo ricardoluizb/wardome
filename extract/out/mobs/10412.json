@@ -1,0 +1,12 @@
+{
+  "id": 10412,
+  "alias": "Horned Demon",
+  "short_desc": "Horned Demon",
+  "long_desc": "The Horned Demon looks at you...",
+  "detailed_desc": "The Horned Demon is a giant beast with a enormous horn.",
+  "flags_raw": "4706346 8389760 0 E",
+  "stats1_raw": "100 -32 -6 1d1+3600 5d11+50",
+  "stats2_raw": "1500 3541448 1",
+  "stats3_raw": "8 8 0 10 11",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/104.mob"
+}

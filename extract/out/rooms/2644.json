@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "Between The Shelves",
   "description": "You are in the great library of magic.  The shelves seem uncomfortably\nclose here, you can barely maneuver between them.  The musty smell is still\nstrong, and the elusive books still hover just out of reach.\n   A faint flicker of light can barely be made out to the north.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

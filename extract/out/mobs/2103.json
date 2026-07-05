@@ -1,0 +1,12 @@
+{
+  "id": 2103,
+  "alias": "rabbit brown",
+  "short_desc": "the brown rabbit",
+  "long_desc": "A brown rabbit hops along merrily.",
+  "detailed_desc": "The rabbit looks up at you with big brown eyes, then scoots away..  Hey..  \nThere goes lunch!",
+  "flags_raw": "200 0 100 E",
+  "stats1_raw": "75 -17 -1 1d1+2100 5d8+30",
+  "stats2_raw": "1125 1289737 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/21.mob"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 10023,
+  "zone_id": 100,
+  "name": "Wide Stone Stairway",
+  "description": "These stairs continue down just a little further, into the room below which\nseems to be some sort of burial vault or something.  You get a very ominous\nfeeling standing so close all those coffins.  Very ominous indeed.",
+  "header_raw": "100 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10022
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10027
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/100.wld"
+}

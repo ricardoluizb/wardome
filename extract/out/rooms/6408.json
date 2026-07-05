@@ -3,8 +3,8 @@
   "zone_id": 64,
   "name": "A Linen Closet",
   "description": "This small room holds many types of linen on shelves \nalong the walls.  They are undoubtedly preserved by\nmagic against the toil of the ages, since they seem\nfreshly washed and folded.  You wonder what sort of\nmage could wield so much power to waste on such little\nthings.",
-  "header_raw": "64 ad 0",
-  "flags_text": "ad",
+  "header_raw": "64 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

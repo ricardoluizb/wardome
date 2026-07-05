@@ -3,8 +3,8 @@
   "zone_id": 33,
   "name": "A Cave Passageway",
   "description": "The cave twists around like a coiled snake, leading \neast and north from here.  You begin to wonder if your \norientations are still correct.  That worries you for\nsome reason.",
-  "header_raw": "33 d 0",
-  "flags_text": "d",
+  "header_raw": "33 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

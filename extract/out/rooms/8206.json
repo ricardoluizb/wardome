@@ -1,0 +1,29 @@
+{
+  "id": 8206,
+  "zone_id": 82,
+  "name": "The Atrium Of Notre Dame",
+  "description": "You are at the west side of the atrium, the walls and the ceiling is decorated\nwith some stone statues, or in the ceiling you notice some angels made out of\ngold. The floor is made out of a very expensive white marble, making you wish\nyou where a priest so you could live in a place like this.",
+  "header_raw": "82 8192 0",
+  "flags_text": "8192",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8205
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

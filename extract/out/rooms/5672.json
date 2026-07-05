@@ -3,10 +3,18 @@
   "zone_id": 54,
   "name": "On A Small Ledge",
   "description": "You clamber out of the water up onto this narrow ledge to see if\nit leads deeper into the mountain.  Unfortunately, the ledge is only\nwide enough to rest upon for a while and there does not appear to be\nany other exits other than rejoining the underground river.",
-  "header_raw": "54 ad 2",
-  "flags_text": "ad",
+  "header_raw": "54 9 2",
+  "flags_text": "9",
   "sector": 2,
   "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30201
+    },
     {
       "dir": 2,
       "description": "",

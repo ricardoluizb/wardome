@@ -1,0 +1,21 @@
+{
+  "id": 1645,
+  "zone_id": 16,
+  "name": "The Armory",
+  "description": "In this room, which has somehow evaded the ravages of time, are neatly stored\nracks of common weapons.  They appear to be quite ordinary; however, a chest\nin one corner catches your eye.  The only exit is the way you came in.",
+  "header_raw": "16 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 1,
+      "key": -1,
+      "to": 1644
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 29597,
+  "zone_id": 295,
+  "name": "The Center of the Palace",
+  "description": "Here stands the throne of King Priam, and is the room in which he conducts\nbusiness and receives visitors. To the north, east and west lie the chambers\nof his family.",
+  "header_raw": "295 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 2,
+      "key": -1,
+      "to": 29600
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 2,
+      "key": -1,
+      "to": 29598
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 2,
+      "key": -1,
+      "to": 29592
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 2,
+      "key": -1,
+      "to": 29599
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/295.wld"
+}

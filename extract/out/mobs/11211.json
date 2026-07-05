@@ -1,0 +1,12 @@
+{
+  "id": 11211,
+  "alias": "guard",
+  "short_desc": "a village guard",
+  "long_desc": "A stout human clad in mismatched armor stares into space.",
+  "detailed_desc": "This stout, dependable chap was once one of Hochenyana's famed\nmilitia, a sturdy guard who have fended off countless orcish raids.\nBut now he seems more interested in studying a passing fly than in\nwell armed intruders in his village...",
+  "flags_raw": "74 0 -200 E",
+  "stats1_raw": "35 -15 -8 1d1+3492 5d7+104",
+  "stats2_raw": "525 238782 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

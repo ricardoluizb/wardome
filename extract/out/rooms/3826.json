@@ -1,0 +1,45 @@
+{
+  "id": 3826,
+  "zone_id": 38,
+  "name": "The Firedrake's Lair",
+  "description": "You are in a large, roughly dug room, about 15 paces by 15 paces and 10 paces\nhigh.  A light smoke fills the air, and you see burn marks all around you.  A\nsteel door is to the east, another is to the west, and tunnels lead north and\nsouth.",
+  "header_raw": "38 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3825
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door steel",
+      "door_flag": 1,
+      "key": 3802,
+      "to": 3827
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3829
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door steel",
+      "door_flag": 1,
+      "key": 3802,
+      "to": 3828
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

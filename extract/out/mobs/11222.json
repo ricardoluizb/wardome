@@ -1,0 +1,12 @@
+{
+  "id": 11222,
+  "alias": "maddax",
+  "short_desc": "Maddax",
+  "long_desc": "An elderly man clad in wizard's robes hawks his wares.",
+  "detailed_desc": "Two things strike you as unusual about this fellow; firstly, he is\ntalking, and no one else in the village you have met has actually\naddressed you in a polite manner. Secondly, his eyes do not appear to\nbe glazed over as the others are.",
+  "flags_raw": "10 8200 760 E",
+  "stats1_raw": "35 -15 -8 1d1+3492 5d7+104",
+  "stats2_raw": "525 238782 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

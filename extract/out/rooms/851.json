@@ -1,0 +1,29 @@
+{
+  "id": 851,
+  "zone_id": 7,
+  "name": "Graveyard",
+  "description": "The earth here has been freshly turned up, the graves recent.\nThe headstones tell tale of faithful wives and brave husbands, \nmeeting their ends with dignity and aplomb.  Two pits are dug\nnear the wall for a burial yet to take place.  You feel strangely\nchilled by the night air...",
+  "header_raw": "7 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 848
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 850
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

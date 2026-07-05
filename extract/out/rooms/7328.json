@@ -1,10 +1,10 @@
 {
   "id": 7328,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "The Dragon's Lair",
   "description": "You can see burned walls, the floorstones are fiery red.  All kinds\nof bones are scattered all over the floor.  On the walls you can see\nsome burned shapes.  You smell burnt flesh.  Two creatures are half\nmelted into the floor.",
-  "header_raw": "73 d 2",
-  "flags_text": "d",
+  "header_raw": "72 8 2",
+  "flags_text": "8",
   "sector": 2,
   "exits": [
     {

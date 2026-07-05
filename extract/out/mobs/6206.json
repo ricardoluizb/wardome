@@ -4,9 +4,9 @@
   "short_desc": "the orc child",
   "long_desc": "An orc child frantically searches for her mother.",
   "detailed_desc": "She is raggedy, and seems to be covered with sores.",
-  "flags_raw": "h k 50 S",
-  "stats1_raw": "3 18 90 3d5+30 1d7+0",
-  "stats2_raw": "0 350",
-  "stats3_raw": "8 8 2",
+  "flags_raw": "136 1024 50 E",
+  "stats1_raw": "72 -16 0 1d1+2016 5d8+28",
+  "stats2_raw": "1080 1149862 0",
+  "stats3_raw": "8 8 2 3 5",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/62.mob"
 }

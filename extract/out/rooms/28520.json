@@ -1,0 +1,29 @@
+{
+  "id": 28520,
+  "zone_id": 285,
+  "name": "The Hall",
+  "description": "You are in a huge hall. Large tapestries line the walls and huge statues \nof various make and appearance are spread about. The ceiling above supports \nhuge candelabras, which light the room. To the east, you see a bright light\nand hear sounds of inhabitation. Looking west, you see the entry gates to \nthe keep.",
+  "header_raw": "285 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28521
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28519
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/285.wld"
+}

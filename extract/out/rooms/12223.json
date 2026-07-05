@@ -1,0 +1,21 @@
+{
+  "id": 12223,
+  "zone_id": 122,
+  "name": "Stables of Gullin-Bursti",
+  "description": "Equally magnificent as the counterpart to the west, these stables\ncontain a single chariot, large enough to easily carry a dozen men,\nand a large pile of fresh straw, upon which Gullin-Bursti, boar of\nFrey, rests when weary, which is seldom indeed for the sturdy porcine\npet. He draws Frey's chariot when the mood takes Frey to travel about\nin it, and is never far from his master's side.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12220
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

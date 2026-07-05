@@ -3,8 +3,8 @@
   "zone_id": 120,
   "name": "A Small Dirt Trail",
   "description": "This small dirt path seems to be a joint between a large clay road\nlocated a short distance to the west and the expanse of sand which opens\nup before you to the east.  The clay road appears to lead through the\nfoothills towards the snowcapped mountain chain to the west.  Perhaps\nthere is a city or settlement in that direction.\n   You cannot see any breaks in the horizon of the sand which fills your\nvision as you look to the east, it seems to stretch forever.",
-  "header_raw": "120 c 1",
-  "flags_text": "c",
+  "header_raw": "120 16777220 1",
+  "flags_text": "16777220",
   "sector": 1,
   "exits": [
     {

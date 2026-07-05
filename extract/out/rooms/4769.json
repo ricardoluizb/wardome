@@ -1,0 +1,29 @@
+{
+  "id": 4769,
+  "zone_id": 47,
+  "name": "Ancients Tomb",
+  "description": "Two large stone sarcophagus's lie stagnant in the center of this small tomb.\nThe walls are lined with holes that contain many coffers containing, no doubt,\nthe remains of some ancient dwarf.\n  A great stone door leads to the west, it has many inscriptions upon it.",
+  "header_raw": "47 13 1",
+  "flags_text": "13",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4768
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "tomb vault door",
+      "door_flag": 1,
+      "key": 4700,
+      "to": 4770
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

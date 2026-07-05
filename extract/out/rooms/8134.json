@@ -1,0 +1,21 @@
+{
+  "id": 8134,
+  "zone_id": 81,
+  "name": "Down, Down, to Goblin-Town!",
+  "description": "The floor opened! But sliding down a steep tunnel you realize you have \nshut yourself in.  There is no escape now but deeper in, and farther \ndown.  There is a faint smell of goblins about this place.",
+  "header_raw": "81 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see a stone hallway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8135
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

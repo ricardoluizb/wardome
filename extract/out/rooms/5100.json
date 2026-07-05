@@ -3,8 +3,8 @@
   "zone_id": 51,
   "name": "The City Entrance",
   "description": "You are at the entrance to a small underground city.  A great adamantite\ngate lies open to the west allowing entrance into the city.",
-  "header_raw": "51 acd 0",
-  "flags_text": "acd",
+  "header_raw": "51 16777229 0",
+  "flags_text": "16777229",
   "sector": 0,
   "exits": [
     {

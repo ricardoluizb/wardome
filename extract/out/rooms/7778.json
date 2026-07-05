@@ -1,0 +1,30 @@
+{
+  "id": 7778,
+  "zone_id": 77,
+  "name": "A Gateway to the Underworld",
+  "description": "You step through the tiny hole in the altar, and stand before a swirling\nfield of blackness.  Through the field you can hear the howls of lost souls\nand long-dead beings.",
+  "header_raw": "77 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "The gith altar",
+      "keywords": "altar",
+      "door_flag": 1,
+      "key": 7724,
+      "to": 7779
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "blood",
+      "description": "The blood drips from above your head and falls through the field..."
+    },
+    {
+      "keywords": "field gateway",
+      "description": "The field pulses and feeds on the blood dripping from above.\n\nA tangible wave of hatred washes over you, striking fear into your very soul."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/77.wld"
+}

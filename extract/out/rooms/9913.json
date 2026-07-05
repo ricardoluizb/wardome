@@ -1,0 +1,61 @@
+{
+  "id": 9913,
+  "zone_id": 99,
+  "name": "Isnt this fun!??",
+  "description": "You just keep\n \n             ||           ||\n             || F         ||\n             ||  A        ||\n             ||   L       ||\n             ||    L      ||\n             ||     I     ||\n             ||      N    ||\n             ||       G   ||\n             ||           ||\n             ||          A||\n             ||         N ||\n             ||        D  ||\n             ||           ||\n             ||      F    ||\n             ||     A     ||\n             ||    L      ||\n             ||   L       ||\n             ||  I        ||\n             || N         ||\n             ||G          ||\n             ||           ||",
+  "header_raw": "99 8204 0",
+  "flags_text": "8204",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9913
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9913
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9913
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9913
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9913
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9913
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

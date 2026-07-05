@@ -1,0 +1,21 @@
+{
+  "id": 1011,
+  "zone_id": 10,
+  "name": "The Inner Sanctum",
+  "description": "This small room is hidden away at the back of the cathedral.  From the\noutside, you would never have known of its existence.  The walls are lined\nwith shelves and racks.  The walls beneath the shelves are almost entirely\nlined with chests.  There are no lights visible in the room, and even the\ndoor to the south seems to have been a perfect fit in its frame.\n   A single door to the south blocks the entrance to this room.",
+  "header_raw": "10 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see a door.",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 1003,
+      "to": 1010
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

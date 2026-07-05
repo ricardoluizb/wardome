@@ -1,0 +1,12 @@
+{
+  "id": 745,
+  "alias": "Talbot",
+  "short_desc": "Talbot",
+  "long_desc": "Talbot spars with his brother Korino here.",
+  "detailed_desc": "Talbot has a permanent sneer on his face.  He barely glances at you as\nhe beats his brother's sword back to take a vicious swipe...",
+  "flags_raw": "10 128 0 E",
+  "stats1_raw": "50 -15 -5 1d1+3396 5d11+70",
+  "stats2_raw": "750 542978 5",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

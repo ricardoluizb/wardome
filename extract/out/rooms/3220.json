@@ -1,0 +1,29 @@
+{
+  "id": 3220,
+  "zone_id": 32,
+  "name": "The Dark Chamber",
+  "description": "You are in a shadowy chamber, and the hairs at the back of your neck begin\nto rise.  There is so little light in this room that you start to imagine\nthings..  Or do you?  You know for certain that you spotted a door to the west\nwhen you first entered.",
+  "header_raw": "32 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3217
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door heavy iron",
+      "door_flag": 1,
+      "key": 3207,
+      "to": 3219
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/32.wld"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 28676,
+  "zone_id": 286,
+  "name": "The Altar Chamber",
+  "description": "Your eyes have trouble adjusting to the dim lighting.  All around you are\ncolumnar statues of Golden Dragon turned towards the altar standing at the top\nof a series of steps.",
+  "header_raw": "286 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The steps lead north and up to a massive sacrificial altar.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28677
+    },
+    {
+      "dir": 2,
+      "description": "You think you can see the hall.",
+      "keywords": "mist door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 28675
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "arch archway door",
+      "description": "The archway is shrouded in a strange black mist that obscures your vision."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/286.wld"
+}

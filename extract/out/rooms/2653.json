@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Antechamber",
   "description": "You are in the antechamber of the Master Magician of the Grey Light.\nA feeling of strong magic floats in the air about you, almost as if you\ncould taste the power held within these walls.\n   Once your eyes adjust to the semi-light, you can make out a larger\nroom to the south.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

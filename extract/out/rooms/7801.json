@@ -1,0 +1,45 @@
+{
+  "id": 7801,
+  "zone_id": 78,
+  "name": "Along the Path",
+  "description": "You are on the path away from the Plains of Ofcol.  The main path leads north\nto an overlook and south back toward the Plains of Ofcol.  Western and eastern\nside paths can be seen, probably deer trails by the width of them.",
+  "header_raw": "78 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the overlook.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7804
+    },
+    {
+      "dir": 1,
+      "description": "You see the small trail.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7803
+    },
+    {
+      "dir": 2,
+      "description": "You see the path back toward Ofcol.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7800
+    },
+    {
+      "dir": 3,
+      "description": "You see the small trail.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7802
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/78.wld"
+}

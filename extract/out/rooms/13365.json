@@ -1,0 +1,29 @@
+{
+  "id": 13365,
+  "zone_id": 132,
+  "name": "A Winding Cavern",
+  "description": "There are more stalactites hanging from the ceiling here and you realize \nthe reflections on the walls are diamonds and other jewels.  A constant\nsnoring echos through the cavern.",
+  "header_raw": "132 9 5",
+  "flags_text": "9",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "the cavern",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13364
+    },
+    {
+      "dir": 3,
+      "description": "cavern",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13366
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

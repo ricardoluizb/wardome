@@ -1,0 +1,37 @@
+{
+  "id": 2919,
+  "zone_id": 29,
+  "name": "The tunnel",
+  "description": "You are standing in a dark tunnel.",
+  "header_raw": "29 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The tunnel continues into the dark.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2921
+    },
+    {
+      "dir": 1,
+      "description": "You see a small fire newt house.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2920
+    },
+    {
+      "dir": 3,
+      "description": "You see a bend in the tunnel.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2918
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/29.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1716,
+  "alias": "centaur chief",
+  "short_desc": "the centaur chief",
+  "long_desc": "The chief of the centaur villagers reclines here.",
+  "detailed_desc": "He has been the leader of this tribe for many years, and has acquired much\nwisdom.",
+  "flags_raw": "14 2 200 E",
+  "stats1_raw": "192 -96 -48 1d1+20736 5d58+176",
+  "stats2_raw": "2880 30756656 10",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/16.mob"
+}

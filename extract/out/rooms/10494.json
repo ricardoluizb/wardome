@@ -1,0 +1,21 @@
+{
+  "id": 10494,
+  "zone_id": 104,
+  "name": "Records Hall",
+  "description": "This Hallway is actually an enourmous records library. Millions of records\nare kept here detailing the status of peoples lives. These are confidential\nfiles and only authorized personnel are allowed to view them.\nThe records room continues to the west.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "You see rows and rows of records.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10493
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

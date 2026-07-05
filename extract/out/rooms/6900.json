@@ -1,0 +1,29 @@
+{
+  "id": 6900,
+  "zone_id": 69,
+  "name": "Up a Twisting Path",
+  "description": "This is a small, rocky path which looks to be heading up the mountain.  The\nmountain stands high above you, and you have no knowledge of what lies at the\nend of the path.  It is a very stormy night, with rain pouring down and\nlightning striking in the distance.  Thunder claps and booms as you head up the\npath hoping for a place to stay until the storm passes over.",
+  "header_raw": "69 5 4",
+  "flags_text": "5",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6901
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "trapdoor",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6601
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

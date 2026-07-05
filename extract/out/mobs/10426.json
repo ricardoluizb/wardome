@@ -1,0 +1,12 @@
+{
+  "id": 10426,
+  "alias": "oldstyle burning fool",
+  "short_desc": "the burning fool",
+  "long_desc": "A burning fool is here, crisping away.",
+  "detailed_desc": "You can barely make out anything on it. All you can make out are the flames \nof Hell consuming it, and the smell of burning flesh.",
+  "flags_raw": "10 1024 -900 E",
+  "stats1_raw": "100 -32 -6 1d1+3600 5d11+50",
+  "stats2_raw": "1500 3541448 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/104.mob"
+}

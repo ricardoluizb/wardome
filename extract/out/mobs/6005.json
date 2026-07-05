@@ -4,9 +4,9 @@
   "short_desc": "the brown fox",
   "long_desc": "A brown fox is stalking rabbits through the underbrush here.",
   "detailed_desc": "It is a large fox with beautiful, red-brown fur and a long, thick bushy tail.",
-  "flags_raw": "g 0 -50 S",
-  "stats1_raw": "2 18 6 1d4+18 1d6+0",
-  "stats2_raw": "0 225",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "72 0 -50 E",
+  "stats1_raw": "2 19 9 1d1+36 5d1+0",
+  "stats2_raw": "30 376 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/60.mob"
 }

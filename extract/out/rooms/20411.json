@@ -1,0 +1,21 @@
+{
+  "id": 20411,
+  "zone_id": 204,
+  "name": "The Dinning Hall",
+  "description": "The lights shine, the smells is good...HUM...The dinner is in the tabbles.\nThe ants no more imports who is here, its only thinks in food. You can see a cook, and its assistants serving.\nLooking back, you think is better stay.",
+  "header_raw": "204 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "deposit",
+      "door_flag": 1,
+      "key": 0,
+      "to": 20410
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/204.wld"
+}

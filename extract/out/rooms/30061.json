@@ -1,0 +1,29 @@
+{
+  "id": 30061,
+  "zone_id": 300,
+  "name": "Aboard a ship at the stern",
+  "description": "You are aboard a mighty ship at the stern.  A gangplank leads southeast, back\nto the pier.  In the timbers of the deck you notice a small hatch which leads\ndown into the interior of the ship.  Above you is a huge mainsail and mast.  \nGazing upwards you see the crow's nest.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30060
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30062
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

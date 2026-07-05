@@ -1,0 +1,37 @@
+{
+  "id": 8155,
+  "zone_id": 81,
+  "name": "A Dark Hall in Goblin-Town.",
+  "description": "This passage is a dead end! No, wait-there are doors to east and south.\nBut they are locked-wait, perhaps you can pick them, or do you carry\nthe keys? If not, stand and fight! Hope is not lost.",
+  "header_raw": "81 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A hallway continues north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8153
+    },
+    {
+      "dir": 1,
+      "description": "An iron door leads east.",
+      "keywords": "door iron",
+      "door_flag": 1,
+      "key": 8100,
+      "to": 8157
+    },
+    {
+      "dir": 2,
+      "description": "A stone door leads south.",
+      "keywords": "door stone",
+      "door_flag": 2,
+      "key": 8103,
+      "to": 8156
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

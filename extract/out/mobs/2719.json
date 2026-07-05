@@ -1,0 +1,12 @@
+{
+  "id": 2719,
+  "alias": "sam",
+  "short_desc": "Sam",
+  "long_desc": "Sam, Frodo's gardener is here mowing the lawn.",
+  "detailed_desc": "Sam seems to be a kind hobbit.  He is short and fat and shouldn't be that hard\nto squash.",
+  "flags_raw": "8 0 0 E",
+  "stats1_raw": "75 -27 -8 1d1+5100 5d15+80",
+  "stats2_raw": "1125 1676658 5",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/27.mob"
+}

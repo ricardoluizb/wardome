@@ -1,0 +1,32 @@
+{
+  "id": 11500,
+  "producing": [
+    3050,
+    3052
+  ],
+  "profit_buy": 2.0,
+  "profit_sell": 0.5,
+  "buy_types": [],
+  "messages": [
+    "%s Terribly sorry, I don't have one of those, but I have a poem about one.  Would you like to hear it?",
+    "%s Don't you know Goethe knows all?  Sell me something you have.",
+    "%s Get a clue!  Try the store next door.  Non-poets can't stand them.",
+    "%s I've spent all my money to feed all the hungry artists in the world.  I can't afford that.",
+    "%s Sorry, you can't afford that, but you can afford a copy of 'Goethe: the poet's early years' (autographed version).",
+    "%s That will cost you %d coins.  And with that fine purchase you recieve a free copy of 'Goethe: Mere Genius or God.'",
+    "%s Money is but transient ether.  I will buy it for %d coins."
+  ],
+  "tail": [
+    0,
+    2,
+    11500,
+    0,
+    11581,
+    -1,
+    0,
+    28,
+    0,
+    0
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/115.shp"
+}

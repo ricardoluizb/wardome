@@ -1,0 +1,26 @@
+{
+  "id": 28513,
+  "zone_id": 285,
+  "name": "Atlantis Master of Mages Study",
+  "description": "This room is oure mana. It reeks of evil. the manafield leads west.",
+  "header_raw": "285 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "manafield",
+      "door_flag": 2,
+      "key": 28503,
+      "to": 28529
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "manafield",
+      "description": "It looks like it leads back to the hall."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/285.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 9961,
+  "zone_id": 99,
+  "name": "The trading post.",
+  "description": "You are standing in what was once the trading post.  A dais stands \nin the nothernmost end of the room with a toppled podium upon it.  \nWooden benches lie tipped over in virtually every reach of this \nauditorium sized room.  The city streets of Ghenna lie South of here.",
+  "header_raw": "99 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9960
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

@@ -2,11 +2,11 @@
   "id": 73,
   "name": "The Tunnels In The Sewer",
   "header": {
-    "raw": "7300 7399 25 2",
-    "min_room": 7300,
-    "top_room": 7399,
-    "lifespan": 25,
-    "reset_mode": 2
+    "raw": "7399 25 2",
+    "min_room": 7399,
+    "top_room": 25,
+    "lifespan": 2,
+    "reset_mode": null
   },
   "commands": [
     {
@@ -220,5 +220,5 @@
       "comment": "Stair-Room Entrance"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/73.zon"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/73.zon"
 }

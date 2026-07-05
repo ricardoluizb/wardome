@@ -1,0 +1,21 @@
+{
+  "id": 29557,
+  "zone_id": 295,
+  "name": "Diomedes' Tent",
+  "description": "This is the tent of Diomedes, King of Argos, the most amicable and well-\nliked of the Achaean leaders on the field. He is also a competent warrior\nand military leader, and engenders great likeness and respect from the\ntroops.",
+  "header_raw": "295 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29552
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/295.wld"
+}

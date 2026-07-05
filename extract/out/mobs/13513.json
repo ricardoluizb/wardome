@@ -1,0 +1,12 @@
+{
+  "id": 13513,
+  "alias": "hulk umber",
+  "short_desc": "the umber hulk",
+  "long_desc": "A lumbering umber hulk is here.",
+  "detailed_desc": "This great beast has huge mandibles and a mammals' mouth, angry animal\neyes set between unreadable insect eyes.  The effect is confusing.",
+  "flags_raw": "40 0 -750 E",
+  "stats1_raw": "25 -10 -7 1d1+2496 5d5+100",
+  "stats2_raw": "375 98889 9",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/135.mob"
+}

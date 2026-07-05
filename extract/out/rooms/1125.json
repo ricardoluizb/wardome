@@ -1,0 +1,29 @@
+{
+  "id": 1125,
+  "zone_id": 11,
+  "name": "Rear of watermill",
+  "description": "You stand in a damp, dimly lit room.  Mildew clings to the walls and it\nappears as if you were the first person to enter the room in ages.  A barely\nvisible portal in the ground catches your eye.",
+  "header_raw": "11 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A watermill meets your gaze.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1124
+    },
+    {
+      "dir": 5,
+      "description": "A hidden portal reveals a passageway down.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1146
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

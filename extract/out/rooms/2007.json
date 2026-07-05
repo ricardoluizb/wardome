@@ -1,0 +1,21 @@
+{
+  "id": 2007,
+  "zone_id": 20,
+  "name": "Mistress",
+  "description": "This is the mistress' chamber.  A large canopied bed graces the center of\nthe room.  On a small table are bottles of scented oils and lotions and a\nbasket holding nipple clamps and cock rings, and leather straps of different\nlengths delicately carved chest at the foot of the bed contains an\nassortment of switches, crops and paddles along with a strap-on dildo and a double headed dildo. Many things to pleasure both Mistress and Sub.",
+  "header_raw": "20 668 0",
+  "flags_text": "668",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 2022,
+      "to": 2002
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

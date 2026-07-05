@@ -1,0 +1,29 @@
+{
+  "id": 10118,
+  "zone_id": 101,
+  "name": "The Door into the Last Homely House",
+  "description": "You are standing before a giant house with a large porch, that wraps around the\nfront.  This is the home of Elrond and the many elves who live in the valley of\nRivendell.  It is surrounded by beautiful gardens, and you can smell the scent\nof flowers around you.",
+  "header_raw": "101 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10136
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "Door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 10117
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/101.wld"
+}

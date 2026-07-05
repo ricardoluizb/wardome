@@ -4,9 +4,9 @@
   "short_desc": "the orc woman",
   "long_desc": "A pregnant orc woman tries to stand to flee from you.",
   "detailed_desc": "She is too far gone to move very quickly.  You could\nkill her easily.",
-  "flags_raw": "bh k -50 S",
-  "stats1_raw": "5 16 100 3d5+58 1d4+0",
-  "stats2_raw": "0 750",
-  "stats3_raw": "6 6 2",
+  "flags_raw": "138 1024 -50 E",
+  "stats1_raw": "73 -16 0 1d1+2040 5d8+28",
+  "stats2_raw": "1095 1195305 0",
+  "stats3_raw": "6 6 2 3 5",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/62.mob"
 }

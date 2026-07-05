@@ -1,0 +1,12 @@
+{
+  "id": 2200,
+  "alias": "oldstyle hatchling dragon baby",
+  "short_desc": "the dragon hatchling",
+  "long_desc": "A dragon hatchling is here, chewing on a bone.",
+  "detailed_desc": "This small dragon hisses at you as you enter the room.  Although it is only a\nfew feet long, its sharp teeth make you think twice about petting it.",
+  "flags_raw": "106 8389800 -900 E",
+  "stats1_raw": "160 -76 -26 1d1+14712 5d33+144",
+  "stats2_raw": "2400 16146158 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/22.mob"
+}

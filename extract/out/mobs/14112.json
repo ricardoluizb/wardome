@@ -1,0 +1,12 @@
+{
+  "id": 14112,
+  "alias": "snake",
+  "short_desc": "the snake",
+  "long_desc": "The snake strikes.",
+  "detailed_desc": "The green snake tongue darts in and out tasting the air.  It\nsenses spilled beer, and the distinctive taste of human.",
+  "flags_raw": "2056 1024 -1000 E",
+  "stats1_raw": "100 -32 -6 1d1+3600 5d11+50",
+  "stats2_raw": "1500 3541448 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2039,
+  "zone_id": 20,
+  "name": "The Deadly Depths of the Moat",
+  "description": "OOPS You are Dead you cant take the pressure",
+  "header_raw": "20 2 8",
+  "flags_text": "2",
+  "sector": 8,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "Under water in the Moat",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2038
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

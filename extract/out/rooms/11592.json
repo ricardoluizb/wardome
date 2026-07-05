@@ -1,0 +1,29 @@
+{
+  "id": 11592,
+  "zone_id": 115,
+  "name": "City Hall",
+  "description": "This is your everyday bureau of red tape...  Which is why certain things in\ntown don't get done.  Underworked and overpaid civil servants are everywhere,\nplanning this year's family reunion.  Broadway is to the west, the Mayor's\nOffice is to the east.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11593
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11580
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

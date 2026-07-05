@@ -1,0 +1,45 @@
+{
+  "id": 12299,
+  "zone_id": 122,
+  "name": "Before Hlidskialf",
+  "description": "Few people indeed outside the Aesir have been inside Valaskialf, and\nOdin likes it that way. This is his private residence; he prefers to\nconduct official business in his council chambers, or, more rarely, at\nappointed places in Midgaard. The interior of the main hall is similar\nto most Aesir lodges, save that the main chamber bears a massive throne,\nplaced before a roaring fireplace.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12289
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12294
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12291
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12296
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

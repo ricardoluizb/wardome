@@ -1,0 +1,29 @@
+{
+  "id": 5747,
+  "zone_id": 57,
+  "name": "A Westward Corridor",
+  "description": "You are advancing along an east-west corridor that ends at the east in a\njuction and at the west in a solid oak portal. From behind the portal you\ncan hear screams, apparently being elicited by the bullwhip you hear cracking\njust before each cry.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "a junction",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5746
+    },
+    {
+      "dir": 3,
+      "description": "a door",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5799
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

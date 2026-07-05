@@ -3,8 +3,8 @@
   "zone_id": 35,
   "name": "A Small Alcove",
   "description": "A small alcove has been carved out here.  There are a bunch of twigs\nand leaves thrown into a pile here, probably serving as a bed.",
-  "header_raw": "35 a 1",
-  "flags_text": "a",
+  "header_raw": "35 1 1",
+  "flags_text": "1",
   "sector": 1,
   "exits": [
     {

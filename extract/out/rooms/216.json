@@ -1,0 +1,26 @@
+{
+  "id": 216,
+  "zone_id": 2,
+  "name": "LUCKY",
+  "description": "This room is empty.  There is a LUCKY blocking your way to the south.\nThere is a sign on the wall.",
+  "header_raw": "2 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The is a LUCKY blocking your view.",
+      "keywords": "lucky",
+      "door_flag": 1,
+      "key": -1,
+      "to": 202
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "The sign says:\n \n                        Boy are you ever LUCKY!!!!"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/2.wld"
+}

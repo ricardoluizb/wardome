@@ -1,0 +1,12 @@
+{
+  "id": 12212,
+  "alias": "berserker",
+  "short_desc": "a berserker",
+  "long_desc": "An enraged berserker foams at the mouth.",
+  "detailed_desc": "",
+  "flags_raw": "104 1024 0 E",
+  "stats1_raw": "20 2 1 1d1+1200 5d3+48",
+  "stats2_raw": "300 47585 4",
+  "stats3_raw": "8 8 1 10 11",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/122.mob"
+}

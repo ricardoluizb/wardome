@@ -1,0 +1,53 @@
+{
+  "id": 1104,
+  "zone_id": 11,
+  "name": "Bywater Road",
+  "description": "You stand on Bywater Road, the busiest street in all of Shiredom.  The road\ncontinues to the east and west while to the north lies the general store.",
+  "header_raw": "11 8192 1",
+  "flags_text": "8192",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The general store lies to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1188
+    },
+    {
+      "dir": 1,
+      "description": "To the east runs Bywater Road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1106
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1179
+    },
+    {
+      "dir": 3,
+      "description": "To the west you see the entrance to the Shire.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1103
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1199
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

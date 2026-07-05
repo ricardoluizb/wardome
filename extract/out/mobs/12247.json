@@ -1,0 +1,12 @@
+{
+  "id": 12247,
+  "alias": "sylvan elf",
+  "short_desc": "a sylvan elf",
+  "long_desc": "A slender elf flits silenty through the trees.",
+  "detailed_desc": "These slender but hardly elfin folk reside under the protection of\nFrey, in the forests of Alfheim.",
+  "flags_raw": "72 795648 500 E",
+  "stats1_raw": "50 -13 -3 1d1+3000 5d6+60",
+  "stats2_raw": "750 531587 4",
+  "stats3_raw": "8 8 1 7 8",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/122.mob"
+}

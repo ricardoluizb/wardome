@@ -1,0 +1,29 @@
+{
+  "id": 9615,
+  "zone_id": 96,
+  "name": "Tarrasque Home",
+  "description": "You rise of the ground and observes an IMMENSE creature in your front...  \nWithout could move or think you wield your weapon...  But it seems that her\nthis sleeping.  You stop to think and begins to observe the monster.  You don't\nbelieve but it is, is the Legendary Tarrasque.    \n\n&RLEAVE THIS PLACE NOW!  &n",
+  "header_raw": "96 384 0",
+  "flags_text": "384",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 9601,
+      "to": 9616
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9612
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/96.wld"
+}

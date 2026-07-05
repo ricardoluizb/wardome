@@ -1,0 +1,12 @@
+{
+  "id": 14144,
+  "alias": "dragon",
+  "short_desc": "the dragon",
+  "long_desc": "A dragon lies on his heap of treasure, turns his head, and fire",
+  "detailed_desc": "The dragon looks like every other dragon you've seen, wings,\ntail, fire.  Only this one doesn't have a dorky color attached\nto it.  And doesn't talk about annoying C terms.",
+  "flags_raw": "2122 1073742976 -1000 E",
+  "stats1_raw": "175 -69 -17 1d1+6300 5d18+80",
+  "stats2_raw": "2625 19593072 1",
+  "stats3_raw": "8 8 1 8 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

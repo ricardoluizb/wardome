@@ -1,0 +1,29 @@
+{
+  "id": 12318,
+  "zone_id": 122,
+  "name": "The Mines",
+  "description": "This rough hewn tunnel is dimly lit, and thus you stumble more than\nonce on a pick or pile of ore, or bang into a mine cart as you make\nyour way through the mine. Workers ignore you, intent on salvaging\nwhat they may from the natural reserves of precious metals before it\nis too late.",
+  "header_raw": "122 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12319
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12317
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

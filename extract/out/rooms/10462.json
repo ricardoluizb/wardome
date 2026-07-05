@@ -1,0 +1,21 @@
+{
+  "id": 10462,
+  "zone_id": 104,
+  "name": "Foreman's Office",
+  "description": "You stand in a crudly constructed office. Blueprints and change orders are\nscattered everywhere. A metal filing cabinet stands in the corner. Before\nyou stands a stone table covered with blueprints. On the wall is a \nconstruction plaque that reads, \"4th DEMONsion Contruction\"",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the door to the office.",
+      "keywords": "",
+      "door_flag": 1,
+      "key": -1,
+      "to": 10452
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

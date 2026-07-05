@@ -1,0 +1,12 @@
+{
+  "id": 9231,
+  "alias": "oldstyle magician",
+  "short_desc": "an elemental magician",
+  "long_desc": "An elemental magician seeks magical stones for a spell.",
+  "detailed_desc": "The elemental magician has come here in search of the fabled\nStone of Surrender which can be used to render opponents senseless.",
+  "flags_raw": "74 2 -50 E",
+  "stats1_raw": "145 -52 -11 1d1+4056 5d15+58",
+  "stats2_raw": "2175 9344030 0",
+  "stats3_raw": "8 8 0 0 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/92.mob"
+}

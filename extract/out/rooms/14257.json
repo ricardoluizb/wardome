@@ -1,0 +1,45 @@
+{
+  "id": 14257,
+  "zone_id": 141,
+  "name": "The Graveyard",
+  "description": "When you walk into here you are immediately soothed.  Nothing\ncould be wrong with the world.  All your senses are pleased.",
+  "header_raw": "141 64 2",
+  "flags_text": "64",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "There is a shimmering light.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14249
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14258
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14260
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14256
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

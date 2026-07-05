@@ -1,0 +1,29 @@
+{
+  "id": 13205,
+  "zone_id": 132,
+  "name": "Before the City of Cloudy Mountain",
+  "description": "In this are many dragons and half-dragons.  Under normal circumstances,\ndragons tend to live in solitary environments, but due to disappearing \nterritories, many have gathered in this city.  Some have also have taken \nspouses from other races, creating new half-races.  Although legally these\nhalf-dragons are to be treated equal, most of the high ranking officials and\nofficers are pure dragon.",
+  "header_raw": "132 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A large iron gate",
+      "keywords": "gate no north",
+      "door_flag": 1,
+      "key": -1,
+      "to": 13207
+    },
+    {
+      "dir": 2,
+      "description": "a road",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13204
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

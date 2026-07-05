@@ -1,0 +1,29 @@
+{
+  "id": 13110,
+  "zone_id": 131,
+  "name": "Shogun of Gi",
+  "description": "You finally find yourself in a different room!  You see the Shogun of Gi\nstanding before you pointing his finger and lecturing you for killing his\nfellow Shogun.  Now you gonna get it!",
+  "header_raw": "131 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "East is where you came from.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13109
+    },
+    {
+      "dir": 4,
+      "description": "A stairway leads upward.",
+      "keywords": "forcefield",
+      "door_flag": 1,
+      "key": 13101,
+      "to": 13111
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/131.wld"
+}

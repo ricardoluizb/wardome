@@ -1,0 +1,12 @@
+{
+  "id": 8240,
+  "alias": "citizen Lyon",
+  "short_desc": "citizen of Lyon",
+  "long_desc": "a citizen of Lyon is standing here.",
+  "detailed_desc": "He is a comon citizen of this town, maybe he works as a farmer or merchant,\nthe only thing you are shure is that he isnt a good figther.",
+  "flags_raw": "4296 32768 10 E",
+  "stats1_raw": "160 -68 -20 1d1+9600 5d17+104",
+  "stats2_raw": "2400 14384759 4",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/82.mob"
+}

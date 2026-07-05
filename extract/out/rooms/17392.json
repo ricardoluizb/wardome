@@ -1,0 +1,42 @@
+{
+  "id": 17392,
+  "zone_id": 173,
+  "name": "Farms",
+  "description": "You have spent a day travelling though the breadbasket of Camelot, following \na cobble stone road. The fields are producing well this year, and the \npeasants are out harvesting a bountiful crop. Soon the harvest end festivals \nwill begin and all will celebrate another fine year. Your pleasant mood is \ninterrupted by the sight of smoke and the sounds of screams from the south.",
+  "header_raw": "173 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A cobblestone road",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17391
+    },
+    {
+      "dir": 2,
+      "description": "Towards the smoke",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17395
+    },
+    {
+      "dir": 3,
+      "description": "A cobblestone road",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17394
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "smoke screams",
+      "description": "You can make out the cries of 'To Arms! To Arms! The Angle raiders are here!"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

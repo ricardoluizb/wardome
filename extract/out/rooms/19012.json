@@ -1,0 +1,45 @@
+{
+  "id": 19012,
+  "zone_id": 190,
+  "name": "A fine path through the elven forest.",
+  "description": "On both sides of this path are doors. Over the eastern door is a sign \ntelling you this must be the magic shop of the elven village, and \nover the western door is a similar sign telling you it's Quintors \nfine shop. To the north the path continues.",
+  "header_raw": "190 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 19015
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 19014
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 19009
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 19013
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/190.wld"
+}

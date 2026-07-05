@@ -1,0 +1,21 @@
+{
+  "id": 9749,
+  "zone_id": 97,
+  "name": "The Believer",
+  "description": "A voice whispers, 'before the time has passed, enjoy your life.'",
+  "header_raw": "97 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9737
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/97.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 13201,
+  "zone_id": 132,
+  "name": "A Mountain Road",
+  "description": "Your pace quickens as you remember a legend about a city inhabited by \ndragons in these parts.  Could it be true? It would explain the width of this\nroad.",
+  "header_raw": "132 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a road",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13202
+    },
+    {
+      "dir": 2,
+      "description": "a road",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13200
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

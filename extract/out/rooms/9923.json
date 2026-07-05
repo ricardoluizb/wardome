@@ -1,0 +1,29 @@
+{
+  "id": 9923,
+  "zone_id": 99,
+  "name": "The bathroom.",
+  "description": "Boy, the smell of feces here is awful!!  There is a hole in the \nfloor which serves as the toilet - pretty primitive.  A washbasin \nsits on the floor, filled with bloodied water, and a dirty mirror \nreflects your image.",
+  "header_raw": "99 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Too dark to tell.",
+      "keywords": "mirror",
+      "door_flag": 1,
+      "key": 0,
+      "to": 9943
+    },
+    {
+      "dir": 1,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9922
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

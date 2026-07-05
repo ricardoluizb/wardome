@@ -1,0 +1,26 @@
+{
+  "id": 11528,
+  "zone_id": 115,
+  "name": "Baltimore Avenue",
+  "description": "This is a dead end (yes, we know Baltimore Avenue is a small red light\ndistrict, but did you expect the good people of New Sparta to put up with\nanymore!!!  ).  There is some graffiti on the south wall.  Baltimore Avenue is\nto the north.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11526
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "graffiti",
+      "description": "Try Peggy at Pee Wee's, She's da Best!"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 715,
+  "zone_id": 7,
+  "name": "Intersection at the Cliff's Edge",
+  "description": "This is an unearthly scene: the stars shining down pale light upon\nthis intersection of Cliffside Road and Star Gate Road, the thousand\nfoot drop off just to your east with the ocean below.  Hmm...something\ntells you not to go east...must be that brain thing, eh?\n   Cliffside road leads south, Star Gate Road leads west.",
+  "header_raw": "7 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 766
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 714
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 716
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

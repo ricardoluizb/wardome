@@ -1,0 +1,45 @@
+{
+  "id": 1625,
+  "zone_id": 16,
+  "name": "Base of the Western Tower",
+  "description": "You stand in the center of the Western tower's base. Torch brackets occupy\nthe four corners of this huge room. Above each torch is a lifelike ornate\nstone gargoyle.  There are doors north and south, and passages east and west.",
+  "header_raw": "16 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1627
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1626
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1628
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1624
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

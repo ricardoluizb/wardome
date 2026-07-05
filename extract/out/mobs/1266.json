@@ -1,0 +1,12 @@
+{
+  "id": 1266,
+  "alias": "emissary teste",
+  "short_desc": "&gEmissary&n",
+  "long_desc": "] &gEmissary&n",
+  "detailed_desc": "The grey and strained eyes of the courier look at you with ill-concealed\nlack of interest. The scars on his face are an indication that he has\nseen foul weather of all sorts on the roads, and nothing you could\nrequest would surprise him.",
+  "flags_raw": "1042440 33563708 -10 E",
+  "stats1_raw": "200 -80 -20 1d1+5592 10d21+80",
+  "stats2_raw": "3000 21657860 0",
+  "stats3_raw": "8 8 1 7 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/12.mob"
+}

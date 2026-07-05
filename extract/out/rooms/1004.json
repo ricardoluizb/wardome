@@ -1,0 +1,29 @@
+{
+  "id": 1004,
+  "zone_id": 10,
+  "name": "The Aisle Of Pews",
+  "description": "As you move through the cathedral, you find yourself fighting your\nway through the numerous overturned pews here.  Interspersed amongst\nthe pews are mouldy remains of books.  Dust and decay covers everything\nhere, giving you the impression that nothing has been touched for years.\n   The cathedral entrance is off to the south, and the altar is surely\nlocated somewhere to the north.\n   You hear a quiet wail coming from somewhere below.",
+  "header_raw": "10 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The mess of pews ends just to the north where the cathedral opens up\ninto a sort of worship chambers.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1005
+    },
+    {
+      "dir": 2,
+      "description": "The cathedral entrance and courtyard are off to the south.  A dry wind\nis blowing through the cathedral from the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1001
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

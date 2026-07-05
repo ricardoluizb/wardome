@@ -1,0 +1,34 @@
+{
+  "id": 1041,
+  "zone_id": 10,
+  "name": "The Antechamber",
+  "description": "This looks to be an antechamber of sorts, but an antechamber to\nwhat?  The walls have shelves upon them that are thick with dust.\nThe floor is covered with footprints marring the unvisited look that\nthis room seems to have been cultivating for quite a long time.  The\nthing that strikes you as most strange about this room is perhaps the\nalmost new coffin sitting in one corner of the room.  The walls are\ncovered with mosaics and there is an archway set in the northern wall.",
+  "header_raw": "10 13 0",
+  "flags_text": "13",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Through the archway to the north, you can see what looks to be a crypt.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1039
+    },
+    {
+      "dir": 2,
+      "description": "The mosaic to the south does not appear to be properly attached to the\nwall, perhaps you could open it...",
+      "keywords": "mosaic",
+      "door_flag": 2,
+      "key": 1011,
+      "to": 1042
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "mosaic mosaics walls",
+      "description": "The mosaics covering the walls of this room appear to be merely strange\ndesigns made of multitudes of small tiles.  The one to the south does\nnot appear to be properly attached to the wall, perhaps you could open\nit..."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

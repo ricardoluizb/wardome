@@ -2,728 +2,32 @@
   "id": 54,
   "name": "New Thalos",
   "header": {
-    "raw": "5400 5699 20 2",
-    "min_room": 5400,
-    "top_room": 5699,
-    "lifespan": 20,
-    "reset_mode": 2
+    "raw": "5699 20 2 1 -1",
+    "min_room": 5699,
+    "top_room": 20,
+    "lifespan": 2,
+    "reset_mode": 1
   },
   "commands": [
     {
       "cmd": "M",
       "args": [
         0,
-        5400,
-        1,
-        5548
-      ],
-      "comment": "Mage Guildmaster"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5401,
-        1,
-        5503
-      ],
-      "comment": "Cleric Guildmaster"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5402,
-        1,
-        5534
-      ],
-      "comment": "Warrior Guildmaster"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5403,
-        1,
-        5546
-      ],
-      "comment": "Thief Guildmaster"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5404,
-        1,
-        5401
-      ],
-      "comment": "Receptionist"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5405,
-        1,
-        5402
-      ],
-      "comment": "Old Withered Mage/Bartender - Shopkeeper"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5467,
-        100
-      ],
-      "comment": "Glass Of Blue Oasis"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5468,
-        100
-      ],
-      "comment": "Glass Of Wine"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5469,
-        100
-      ],
-      "comment": "Bottle Of Grog"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5406,
-        1,
-        5402
-      ],
-      "comment": "Brother John"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5407,
-        1,
-        5403
-      ],
-      "comment": "Panhandler"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5408,
-        1,
-        5404
-      ],
-      "comment": "Panhandler"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5409,
-        20,
-        5410
-      ],
-      "comment": "Beggar"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5410,
-        1,
-        5535
-      ],
-      "comment": "Baker - Shopkeeper"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5440,
-        100
-      ],
-      "comment": "Hunk Of Cheese"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5441,
-        100
-      ],
-      "comment": "Bread"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5442,
-        100
-      ],
-      "comment": "Some Dry Rations"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5443,
-        100
-      ],
-      "comment": "Some Iron Rations"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5445,
-        100
-      ],
-      "comment": "Some Nuts"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5491,
-        100
-      ],
-      "comment": "Sesame Seed"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5411,
-        1,
-        5528
-      ],
-      "comment": "Shopkeeper - Shopkeeper"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5434,
-        100
-      ],
-      "comment": "Sack"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5435,
-        100
-      ],
-      "comment": "Oil Lamp"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5436,
-        100
-      ],
-      "comment": "Backpack"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5437,
-        100
-      ],
-      "comment": "Basket"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5438,
-        100
-      ],
-      "comment": "Belt Pouch"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5439,
-        100
-      ],
-      "comment": "Candle"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5412,
-        1,
-        5521
-      ],
-      "comment": "Banker"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5413,
-        1,
-        5514
-      ],
-      "comment": "Ahkeem The Tailor - Shopkeeper"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5446,
-        100
-      ],
-      "comment": "Belt"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5447,
-        100
-      ],
-      "comment": "Hiking Boots"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5448,
-        100
-      ],
-      "comment": "Fur Cloak"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5449,
-        100
-      ],
-      "comment": "Girdle"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5450,
-        100
-      ],
-      "comment": "Pair Of Hose"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5451,
-        100
-      ],
-      "comment": "Common Robe"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5452,
-        100
-      ],
-      "comment": "Embroidered Robe"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5453,
-        100
-      ],
-      "comment": "Sandals"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5454,
-        100
-      ],
-      "comment": "Sash"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5455,
-        100
-      ],
-      "comment": "Silk Jacket"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        5483,
-        100,
-        16
-      ],
-      "comment": "Sewing Shears"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5414,
-        1,
-        5515
-      ],
-      "comment": "Vera The Veggie Lady - Shopkeeper"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5456,
-        100
-      ],
-      "comment": "Egg"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5457,
-        100
-      ],
-      "comment": "Carrot"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5458,
-        100
-      ],
-      "comment": "Tomatoe"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5459,
-        100
-      ],
-      "comment": "Fig"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5460,
-        100
-      ],
-      "comment": "Some Dates"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5415,
-        1,
-        5522
-      ],
-      "comment": "Butch The Meatcutter - Shopkeeper"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5461,
-        100
-      ],
-      "comment": "Leg Of Lamb"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5462,
-        100
-      ],
-      "comment": "Side Of Beef"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5463,
-        100
-      ],
-      "comment": "Whole Chicken"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        5484,
-        100,
-        16
-      ],
-      "comment": "Meat Cleaver"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5416,
-        1,
-        5529
-      ],
-      "comment": "Abdul The Armorer - Shopkeeper"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5415,
-        100
-      ],
-      "comment": "Suit Of Banded Mail"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5416,
-        100
-      ],
-      "comment": "Suit Of Brigandine"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5417,
-        100
-      ],
-      "comment": "Suit Of Field Plate"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5418,
-        100
-      ],
-      "comment": "Suit Of Ringmail"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5419,
-        100
-      ],
-      "comment": "Suit Of Splintmail"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5420,
-        100
-      ],
-      "comment": "Wooden Shield"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5421,
-        100
-      ],
-      "comment": "Splinted Shield"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5417,
-        1,
-        5536
-      ],
-      "comment": "Igor The Weaponsmith - Shopkeeper"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5403,
-        100
-      ],
-      "comment": "Morningstar"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5404,
-        100
-      ],
-      "comment": "Awl-Pike"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5405,
-        100
-      ],
-      "comment": "Bardiche"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5406,
-        100
-      ],
-      "comment": "Bec De Corbine"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5407,
-        100
-      ],
-      "comment": "Bill-Guisarme"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5408,
-        100
-      ],
-      "comment": "Fauchard"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5409,
-        100
-      ],
-      "comment": "Glaive"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5410,
-        100
-      ],
-      "comment": "Guisarme"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5411,
-        100
-      ],
-      "comment": "Sickle"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5412,
-        100
-      ],
-      "comment": "Two-Handed Bastard Sword"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5413,
-        100
-      ],
-      "comment": "Scimitar"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5414,
-        100
-      ],
-      "comment": "Rapier"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5418,
-        1,
-        5432
-      ],
-      "comment": "Cassandra - Shopkeeper"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5464,
-        20
-      ],
-      "comment": "Salted Herring"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5465,
-        20
-      ],
-      "comment": "Muscle"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
         5419,
         1,
         5425
       ],
-      "comment": "Foreman"
+      "comment": "(the foreman)"
     },
     {
       "cmd": "E",
       "args": [
         1,
         5485,
-        1,
+        10,
         16
       ],
-      "comment": "Fountain Pen"
+      "comment": "(&wA &Wf&Co&Wu&Cn&Wt&Ca&Wi&Cn &cpen&n)"
     },
     {
       "cmd": "M",
@@ -733,7 +37,7 @@
         2,
         5425
       ],
-      "comment": "Construction Worker"
+      "comment": "(the construction worker)"
     },
     {
       "cmd": "E",
@@ -743,7 +47,7 @@
         2,
         16
       ],
-      "comment": "Sledge Hammer"
+      "comment": "(a sledge hammer)"
     },
     {
       "cmd": "M",
@@ -753,7 +57,7 @@
         2,
         5425
       ],
-      "comment": "Construction Worker"
+      "comment": "(the construction worker)"
     },
     {
       "cmd": "E",
@@ -763,756 +67,7 @@
         2,
         16
       ],
-      "comment": "Sledge Hammer"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5421,
-        1,
-        5511
-      ],
-      "comment": "Statue Of Brahman"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5422,
-        1,
-        5511
-      ],
-      "comment": "Statue Of Siva"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5423,
-        1,
-        5511
-      ],
-      "comment": "Statue Of Indra"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5424,
-        1,
-        5511
-      ],
-      "comment": "Statue Of Yama"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5425,
-        1,
-        5516
-      ],
-      "comment": "Statue Of Surya"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5426,
-        1,
-        5516
-      ],
-      "comment": "Statue Of Kali"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5427,
-        1,
-        5516
-      ],
-      "comment": "Statue Of Brihaspati"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5428,
-        1,
-        5516
-      ],
-      "comment": "Statue Of Puchan"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5429,
-        1,
-        5466
-      ],
-      "comment": "Aziz"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5430,
-        1,
-        5466
-      ],
-      "comment": "Mustafah"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5431,
-        1,
-        5466
-      ],
-      "comment": "Fatima"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5432,
-        1,
-        5466
-      ],
-      "comment": "Kareem"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5433,
-        12,
-        5406
-      ],
-      "comment": "Nomad Merchant"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5433,
-        12,
-        5509
-      ],
-      "comment": "Nomad Merchant"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5433,
-        12,
-        5414
-      ],
-      "comment": "Nomad Merchant"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5433,
-        12,
-        5426
-      ],
-      "comment": "Nomad Merchant"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5433,
-        12,
-        5449
-      ],
-      "comment": "Nomad Merchant"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5433,
-        12,
-        5462
-      ],
-      "comment": "Nomad Merchant"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5434,
-        4,
-        5589
-      ],
-      "comment": "Sultan's Bodyguard"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5434,
-        4,
-        5589
-      ],
-      "comment": "Sultan's Bodyguard"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5434,
-        4,
-        5589
-      ],
-      "comment": "Sultan's Bodyguard"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5434,
-        4,
-        5589
-      ],
-      "comment": "Sultan's Bodyguard"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5435,
-        3,
-        5468
-      ],
-      "comment": "Skinny Kid"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5435,
-        3,
-        5468
-      ],
-      "comment": "Skinny Kid"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5435,
-        3,
-        5468
-      ],
-      "comment": "Skinny Kid"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5436,
-        8,
-        5433
-      ],
-      "comment": "Dockworker"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5436,
-        8,
-        5433
-      ],
-      "comment": "Dockworker"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5436,
-        8,
-        5433
-      ],
-      "comment": "Dockworker"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5436,
-        8,
-        5434
-      ],
-      "comment": "Dockworker"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5436,
-        8,
-        5434
-      ],
-      "comment": "Dockworker"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5436,
-        8,
-        5435
-      ],
-      "comment": "Dockworker"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5436,
-        8,
-        5443
-      ],
-      "comment": "Dockworker"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5436,
-        8,
-        5443
-      ],
-      "comment": "Dockworker"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5437,
-        2,
-        5406
-      ],
-      "comment": "Taxcollector"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        5400,
-        1
-      ],
-      "comment": "The Palace Key Of New Thalos"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5438,
-        1,
-        5415
-      ],
-      "comment": "Gord"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5439,
-        1,
-        5405
-      ],
-      "comment": "Chulainn"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        5492,
-        1,
-        16
-      ],
-      "comment": "Gae Bolg"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        5415,
-        60,
-        5
-      ],
-      "comment": "Banded Mail"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5440,
-        1,
-        5406
-      ],
-      "comment": "Daghdha"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5441,
-        1,
-        5415
-      ],
-      "comment": "Curley GreenLeaf"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5442,
-        21,
-        5410
-      ],
-      "comment": "Wandering Prophet"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5442,
-        21,
-        5424
-      ],
-      "comment": "Wandering Prophet"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5442,
-        21,
-        5508
-      ],
-      "comment": "Wandering Prophet"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5442,
-        21,
-        5509
-      ],
-      "comment": "Wandering Prophet"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5442,
-        21,
-        5513
-      ],
-      "comment": "Wandering Prophet"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5442,
-        21,
-        5513
-      ],
-      "comment": "Wandering Prophet"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5442,
-        21,
-        5514
-      ],
-      "comment": "Wandering Prophet"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5442,
-        21,
-        5631
-      ],
-      "comment": "Wandering Prophet"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5442,
-        21,
-        5631
-      ],
-      "comment": "Wandering Prophet"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5443,
-        14,
-        5465
-      ],
-      "comment": "Alley Cat"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5443,
-        14,
-        5467
-      ],
-      "comment": "Alley Cat"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5443,
-        14,
-        5469
-      ],
-      "comment": "Alley Cat"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5443,
-        14,
-        5473
-      ],
-      "comment": "Alley Cat"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5443,
-        14,
-        5514
-      ],
-      "comment": "Alley Cat"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5443,
-        14,
-        5569
-      ],
-      "comment": "Alley Cat"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5443,
-        14,
-        5617
-      ],
-      "comment": "Alley Cat"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5444,
-        24,
-        5429
-      ],
-      "comment": "Vulture"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5444,
-        24,
-        5430
-      ],
-      "comment": "Vulture"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5444,
-        24,
-        5453
-      ],
-      "comment": "Vulture"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5444,
-        24,
-        5463
-      ],
-      "comment": "Vulture"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5444,
-        24,
-        5507
-      ],
-      "comment": "Vulture"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5444,
-        24,
-        5522
-      ],
-      "comment": "Vulture"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5444,
-        24,
-        5523
-      ],
-      "comment": "Vulture"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5444,
-        24,
-        5524
-      ],
-      "comment": "Vulture"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5444,
-        24,
-        5532
-      ],
-      "comment": "Vulture"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5444,
-        24,
-        5549
-      ],
-      "comment": "Vulture"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5444,
-        24,
-        5555
-      ],
-      "comment": "Vulture"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5444,
-        24,
-        5567
-      ],
-      "comment": "Vulture"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5444,
-        24,
-        5568
-      ],
-      "comment": "Vulture"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5444,
-        24,
-        5692
-      ],
-      "comment": "Vulture"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5445,
-        2,
-        5455
-      ],
-      "comment": "Old Man"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        5490,
-        2,
-        17
-      ],
-      "comment": "Chessboard"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5445,
-        2,
-        5455
-      ],
-      "comment": "Old Man"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        5490,
-        2,
-        17
-      ],
-      "comment": "Chessboard"
+      "comment": "(a sledge hammer)"
     },
     {
       "cmd": "M",
@@ -1522,7 +77,1517 @@
         1,
         5551
       ],
-      "comment": "Lugh The Librarian"
+      "comment": "(Lugh the Librarian)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9824,
+        1,
+        -1
+      ],
+      "comment": "(&WTales From Wardome&n (Tome II))"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5400,
+        1,
+        5548
+      ],
+      "comment": "(the guildmaster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5401,
+        1,
+        5503
+      ],
+      "comment": "(the guildmaster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5402,
+        1,
+        5534
+      ],
+      "comment": "(the guildmaster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5403,
+        1,
+        5546
+      ],
+      "comment": "(the guildmaster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5404,
+        1,
+        5401
+      ],
+      "comment": "(the receptionist)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5405,
+        1,
+        5402
+      ],
+      "comment": "(the old withered man)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5467,
+        900,
+        -1
+      ],
+      "comment": "(a glass)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5468,
+        900,
+        -1
+      ],
+      "comment": "(a glass)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5469,
+        900,
+        -1
+      ],
+      "comment": "(a bottle of grog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5406,
+        1,
+        5402
+      ],
+      "comment": "(Brother John)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5407,
+        1,
+        5403
+      ],
+      "comment": "(the panhandler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5408,
+        1,
+        5404
+      ],
+      "comment": "(the panhandler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5409,
+        20,
+        5410
+      ],
+      "comment": "(the beggar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5410,
+        1,
+        5535
+      ],
+      "comment": "(the baker)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5440,
+        888,
+        -1
+      ],
+      "comment": "(a hunk of cheese)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5441,
+        888,
+        -1
+      ],
+      "comment": "(some bread)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5442,
+        888,
+        -1
+      ],
+      "comment": "(some dry rations)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5443,
+        888,
+        -1
+      ],
+      "comment": "(some iron rations)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5445,
+        888,
+        -1
+      ],
+      "comment": "(some nuts)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5491,
+        888,
+        -1
+      ],
+      "comment": "(a sesame seed)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5411,
+        1,
+        5528
+      ],
+      "comment": "(the shopkeeper)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5434,
+        888,
+        -1
+      ],
+      "comment": "(a sack)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5435,
+        888,
+        -1
+      ],
+      "comment": "(an oil lamp)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5436,
+        888,
+        -1
+      ],
+      "comment": "(a backpack)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5437,
+        888,
+        -1
+      ],
+      "comment": "(a basket)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5438,
+        888,
+        -1
+      ],
+      "comment": "(a belt pouch)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5439,
+        888,
+        -1
+      ],
+      "comment": "(A candle)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5412,
+        1,
+        5521
+      ],
+      "comment": "(the banker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5413,
+        1,
+        5514
+      ],
+      "comment": "(Ahkeem the tailor)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5446,
+        999,
+        -1
+      ],
+      "comment": "(a belt)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5447,
+        999,
+        -1
+      ],
+      "comment": "(a pair of hiking boots)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5448,
+        999,
+        -1
+      ],
+      "comment": "(a fur cloak)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5449,
+        999,
+        -1
+      ],
+      "comment": "(a girdle)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5450,
+        999,
+        -1
+      ],
+      "comment": "(a pair of hose)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5451,
+        999,
+        -1
+      ],
+      "comment": "(a common robe)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5452,
+        999,
+        -1
+      ],
+      "comment": "(an embroidered robe)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5453,
+        999,
+        -1
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5454,
+        999,
+        -1
+      ],
+      "comment": "(a sash)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5455,
+        999,
+        -1
+      ],
+      "comment": "(a silk jacket)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5483,
+        999,
+        16
+      ],
+      "comment": "(a pair of sewing shears)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5414,
+        1,
+        5515
+      ],
+      "comment": "(Vera the veggie lady)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5456,
+        999,
+        -1
+      ],
+      "comment": "(an egg)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5457,
+        999,
+        -1
+      ],
+      "comment": "(a carrot)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5458,
+        999,
+        -1
+      ],
+      "comment": "(a tomato)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5459,
+        999,
+        -1
+      ],
+      "comment": "(a fig)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5460,
+        999,
+        -1
+      ],
+      "comment": "(some dates)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5415,
+        1,
+        5522
+      ],
+      "comment": "(Butch the meatcutter)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5461,
+        888,
+        -1
+      ],
+      "comment": "(a leg of lamb)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5462,
+        888,
+        -1
+      ],
+      "comment": "(a side of beef)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5463,
+        888,
+        -1
+      ],
+      "comment": "(a whole chicken)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5484,
+        888,
+        16
+      ],
+      "comment": "(a meat cleaver)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5416,
+        1,
+        5529
+      ],
+      "comment": "(Abdul the armorer)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5415,
+        998,
+        -1
+      ],
+      "comment": "(a suit of banded mail)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5416,
+        998,
+        -1
+      ],
+      "comment": "(a suit of brigandine)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5417,
+        998,
+        -1
+      ],
+      "comment": "(a suit of field plate)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5418,
+        998,
+        -1
+      ],
+      "comment": "(a suit of ringmail)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5419,
+        998,
+        -1
+      ],
+      "comment": "(a suit of splintmail)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5420,
+        998,
+        -1
+      ],
+      "comment": "(a wooden shield)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5421,
+        888,
+        -1
+      ],
+      "comment": "(A splinted shield)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5417,
+        1,
+        5536
+      ],
+      "comment": "(Igor the weaponsmith)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5403,
+        998,
+        -1
+      ],
+      "comment": "(a morningstar)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5404,
+        998,
+        -1
+      ],
+      "comment": "(an awl-pike)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5405,
+        998,
+        -1
+      ],
+      "comment": "(a bardiche)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5406,
+        998,
+        -1
+      ],
+      "comment": "(a bec de corbin)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5407,
+        998,
+        -1
+      ],
+      "comment": "(a bill-guisarme)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5408,
+        998,
+        -1
+      ],
+      "comment": "(a fauchard)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5409,
+        998,
+        -1
+      ],
+      "comment": "(A glaive)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5410,
+        998,
+        -1
+      ],
+      "comment": "(a guisarme)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5411,
+        998,
+        -1
+      ],
+      "comment": "(a sickle)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5412,
+        998,
+        -1
+      ],
+      "comment": "(a two-handed bastard sword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5413,
+        998,
+        -1
+      ],
+      "comment": "(a scimitar)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5414,
+        998,
+        -1
+      ],
+      "comment": "(a rapier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5418,
+        1,
+        5432
+      ],
+      "comment": "(Cassandra)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5464,
+        20,
+        -1
+      ],
+      "comment": "(a salted herring)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5465,
+        20,
+        -1
+      ],
+      "comment": "(a muscle)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5421,
+        1,
+        5511
+      ],
+      "comment": "(the statue of Brahman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5422,
+        1,
+        5511
+      ],
+      "comment": "(the statue of Siva)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5423,
+        1,
+        5511
+      ],
+      "comment": "(the statue of Indra)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5424,
+        1,
+        5511
+      ],
+      "comment": "(the statue of Yama)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5425,
+        1,
+        5516
+      ],
+      "comment": "(the statue of Surya)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5426,
+        1,
+        5516
+      ],
+      "comment": "(the statue of Kali)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5427,
+        1,
+        5516
+      ],
+      "comment": "(the statue of Brihaspati)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5428,
+        1,
+        5516
+      ],
+      "comment": "(the statue of Puchan)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5429,
+        1,
+        5466
+      ],
+      "comment": "(Aziz)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5430,
+        1,
+        5466
+      ],
+      "comment": "(Mustafah)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5431,
+        1,
+        5466
+      ],
+      "comment": "(Fatima)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5432,
+        1,
+        5466
+      ],
+      "comment": "(Kareem)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5433,
+        12,
+        5406
+      ],
+      "comment": "(the nomad merchant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5433,
+        12,
+        5509
+      ],
+      "comment": "(the nomad merchant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5433,
+        12,
+        5414
+      ],
+      "comment": "(the nomad merchant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5433,
+        12,
+        5426
+      ],
+      "comment": "(the nomad merchant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5433,
+        12,
+        5449
+      ],
+      "comment": "(the nomad merchant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5433,
+        12,
+        5462
+      ],
+      "comment": "(the nomad merchant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5434,
+        4,
+        5589
+      ],
+      "comment": "(the Sultan's Bodyguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5434,
+        4,
+        5589
+      ],
+      "comment": "(the Sultan's Bodyguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5434,
+        4,
+        5589
+      ],
+      "comment": "(the Sultan's Bodyguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5434,
+        4,
+        5589
+      ],
+      "comment": "(the Sultan's Bodyguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5435,
+        3,
+        5468
+      ],
+      "comment": "(the skinny kid)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5435,
+        3,
+        5468
+      ],
+      "comment": "(the skinny kid)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5435,
+        3,
+        5468
+      ],
+      "comment": "(the skinny kid)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5436,
+        8,
+        5433
+      ],
+      "comment": "(the dockworker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5436,
+        8,
+        5433
+      ],
+      "comment": "(the dockworker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5436,
+        8,
+        5433
+      ],
+      "comment": "(the dockworker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5436,
+        8,
+        5434
+      ],
+      "comment": "(the dockworker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5436,
+        8,
+        5434
+      ],
+      "comment": "(the dockworker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5436,
+        8,
+        5435
+      ],
+      "comment": "(the dockworker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5436,
+        8,
+        5443
+      ],
+      "comment": "(the dockworker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5436,
+        8,
+        5443
+      ],
+      "comment": "(the dockworker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5437,
+        2,
+        5406
+      ],
+      "comment": "(the taxcollector)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5400,
+        1,
+        -1
+      ],
+      "comment": "(the palace key of New Thalos)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5438,
+        1,
+        5415
+      ],
+      "comment": "(Gord)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5439,
+        1,
+        5405
+      ],
+      "comment": "(Chulainn)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5492,
+        1,
+        16
+      ],
+      "comment": "(Gae Bolg)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5415,
+        60,
+        5
+      ],
+      "comment": "(a suit of banded mail)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5440,
+        1,
+        5406
+      ],
+      "comment": "(Daghdha)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5441,
+        1,
+        5415
+      ],
+      "comment": "(Curley GreenLeaf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5442,
+        21,
+        5410
+      ],
+      "comment": "(the wandering prophet)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5442,
+        21,
+        5424
+      ],
+      "comment": "(the wandering prophet)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5442,
+        21,
+        5508
+      ],
+      "comment": "(the wandering prophet)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5442,
+        21,
+        5509
+      ],
+      "comment": "(the wandering prophet)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5442,
+        21,
+        5513
+      ],
+      "comment": "(the wandering prophet)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5442,
+        21,
+        5513
+      ],
+      "comment": "(the wandering prophet)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5442,
+        21,
+        5514
+      ],
+      "comment": "(the wandering prophet)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5442,
+        21,
+        5631
+      ],
+      "comment": "(the wandering prophet)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5442,
+        21,
+        5631
+      ],
+      "comment": "(the wandering prophet)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5443,
+        14,
+        5465
+      ],
+      "comment": "(the alley cat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5443,
+        14,
+        5467
+      ],
+      "comment": "(the alley cat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5443,
+        14,
+        5469
+      ],
+      "comment": "(the alley cat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5443,
+        14,
+        5473
+      ],
+      "comment": "(the alley cat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5443,
+        14,
+        5514
+      ],
+      "comment": "(the alley cat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5443,
+        14,
+        5569
+      ],
+      "comment": "(the alley cat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5443,
+        14,
+        5617
+      ],
+      "comment": "(the alley cat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5444,
+        24,
+        5429
+      ],
+      "comment": "(the vulture)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5444,
+        24,
+        5430
+      ],
+      "comment": "(the vulture)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5444,
+        24,
+        5453
+      ],
+      "comment": "(the vulture)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5444,
+        24,
+        5463
+      ],
+      "comment": "(the vulture)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5444,
+        24,
+        5507
+      ],
+      "comment": "(the vulture)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5444,
+        24,
+        5522
+      ],
+      "comment": "(the vulture)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5444,
+        24,
+        5523
+      ],
+      "comment": "(the vulture)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5444,
+        24,
+        5524
+      ],
+      "comment": "(the vulture)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5444,
+        24,
+        5532
+      ],
+      "comment": "(the vulture)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5444,
+        24,
+        5549
+      ],
+      "comment": "(the vulture)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5444,
+        24,
+        5555
+      ],
+      "comment": "(the vulture)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5444,
+        24,
+        5567
+      ],
+      "comment": "(the vulture)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5444,
+        24,
+        5568
+      ],
+      "comment": "(the vulture)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5444,
+        24,
+        5692
+      ],
+      "comment": "(the vulture)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5445,
+        2,
+        5455
+      ],
+      "comment": "(the old man)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5490,
+        2,
+        17
+      ],
+      "comment": "(The Apocaliptikal Banner)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5445,
+        2,
+        5455
+      ],
+      "comment": "(the old man)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5490,
+        2,
+        17
+      ],
+      "comment": "(The Apocaliptikal Banner)"
     },
     {
       "cmd": "M",
@@ -1532,7 +1597,7 @@
         1,
         5411
       ],
-      "comment": "Dirt Devil"
+      "comment": "(the dirt devil)"
     },
     {
       "cmd": "M",
@@ -1542,7 +1607,7 @@
         1,
         5411
       ],
-      "comment": "Lamia"
+      "comment": "(the lamia)"
     },
     {
       "cmd": "M",
@@ -1552,7 +1617,7 @@
         1,
         5411
       ],
-      "comment": "Raggety Dervish"
+      "comment": "(the raggety dervish)"
     },
     {
       "cmd": "M",
@@ -1562,7 +1627,7 @@
         1,
         5589
       ],
-      "comment": "Sultan"
+      "comment": "(the Sultan)"
     },
     {
       "cmd": "M",
@@ -1572,7 +1637,7 @@
         8,
         5587
       ],
-      "comment": "Harem Girl"
+      "comment": "(a harem girl)"
     },
     {
       "cmd": "M",
@@ -1582,7 +1647,7 @@
         8,
         5587
       ],
-      "comment": "Harem Girl"
+      "comment": "(a harem girl)"
     },
     {
       "cmd": "M",
@@ -1592,7 +1657,7 @@
         8,
         5587
       ],
-      "comment": "Harem Girl"
+      "comment": "(a harem girl)"
     },
     {
       "cmd": "M",
@@ -1602,7 +1667,7 @@
         8,
         5587
       ],
-      "comment": "Harem Girl"
+      "comment": "(a harem girl)"
     },
     {
       "cmd": "M",
@@ -1612,7 +1677,7 @@
         8,
         5587
       ],
-      "comment": "Harem Girl"
+      "comment": "(a harem girl)"
     },
     {
       "cmd": "M",
@@ -1622,7 +1687,7 @@
         8,
         5587
       ],
-      "comment": "Harem Girl"
+      "comment": "(a harem girl)"
     },
     {
       "cmd": "M",
@@ -1632,7 +1697,7 @@
         8,
         5587
       ],
-      "comment": "Harem Girl"
+      "comment": "(a harem girl)"
     },
     {
       "cmd": "M",
@@ -1642,7 +1707,7 @@
         8,
         5587
       ],
-      "comment": "Harem Girl"
+      "comment": "(a harem girl)"
     },
     {
       "cmd": "M",
@@ -1652,16 +1717,17 @@
         1,
         5591
       ],
-      "comment": "Jailor"
+      "comment": "(the jailer)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5493,
-        1
+        1,
+        -1
       ],
-      "comment": "Jail Key"
+      "comment": "(the jail key)"
     },
     {
       "cmd": "M",
@@ -1671,7 +1737,7 @@
         4,
         5587
       ],
-      "comment": "Eunich"
+      "comment": "(a eunich)"
     },
     {
       "cmd": "M",
@@ -1681,7 +1747,7 @@
         4,
         5587
       ],
-      "comment": "Eunich"
+      "comment": "(a eunich)"
     },
     {
       "cmd": "M",
@@ -1691,7 +1757,7 @@
         4,
         5587
       ],
-      "comment": "Eunich"
+      "comment": "(a eunich)"
     },
     {
       "cmd": "M",
@@ -1701,7 +1767,7 @@
         4,
         5587
       ],
-      "comment": "Eunich"
+      "comment": "(a eunich)"
     },
     {
       "cmd": "M",
@@ -1711,7 +1777,7 @@
         1,
         5587
       ],
-      "comment": "Nichole, The Sultan's Favorite"
+      "comment": "(Nichole, the Sultan's favorite)"
     },
     {
       "cmd": "M",
@@ -1721,7 +1787,7 @@
         1,
         5566
       ],
-      "comment": "Allah"
+      "comment": "(Allah)"
     },
     {
       "cmd": "E",
@@ -1731,7 +1797,7 @@
         2,
         16
       ],
-      "comment": "The Wrath Of Allah"
+      "comment": "(the wrath of Allah)"
     },
     {
       "cmd": "M",
@@ -1741,7 +1807,7 @@
         1,
         5525
       ],
-      "comment": "Mage Guildguard"
+      "comment": "(the guildguard)"
     },
     {
       "cmd": "M",
@@ -1751,7 +1817,7 @@
         1,
         5512
       ],
-      "comment": "Cleric Guildguard"
+      "comment": "(the guildguard)"
     },
     {
       "cmd": "M",
@@ -1761,7 +1827,7 @@
         1,
         5526
       ],
-      "comment": "Warrior Guildguard"
+      "comment": "(the guildguard)"
     },
     {
       "cmd": "M",
@@ -1771,7 +1837,7 @@
         1,
         5532
       ],
-      "comment": "Thief Guildguard"
+      "comment": "(the guildguard)"
     },
     {
       "cmd": "M",
@@ -1781,7 +1847,7 @@
         2,
         5561
       ],
-      "comment": "Servant Boy"
+      "comment": "(the servant boy)"
     },
     {
       "cmd": "M",
@@ -1791,7 +1857,7 @@
         2,
         5561
       ],
-      "comment": "Servant Boy"
+      "comment": "(the servant boy)"
     },
     {
       "cmd": "M",
@@ -1801,7 +1867,7 @@
         20,
         5412
       ],
-      "comment": "Sultan's Guard"
+      "comment": "(the Sultan's Guard)"
     },
     {
       "cmd": "E",
@@ -1811,7 +1877,7 @@
         100,
         16
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "E",
@@ -1821,7 +1887,7 @@
         53,
         5
       ],
-      "comment": "Suit Of Field Plate"
+      "comment": "(a suit of field plate)"
     },
     {
       "cmd": "E",
@@ -1831,7 +1897,7 @@
         52,
         11
       ],
-      "comment": "Splinted Shield"
+      "comment": "(A splinted shield)"
     },
     {
       "cmd": "M",
@@ -1841,7 +1907,7 @@
         20,
         5418
       ],
-      "comment": "Sultan's Guard"
+      "comment": "(the Sultan's Guard)"
     },
     {
       "cmd": "E",
@@ -1851,7 +1917,7 @@
         100,
         16
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "E",
@@ -1861,7 +1927,7 @@
         43,
         5
       ],
-      "comment": "Suit Of Field Plate"
+      "comment": "(a suit of field plate)"
     },
     {
       "cmd": "E",
@@ -1871,7 +1937,7 @@
         42,
         11
       ],
-      "comment": "Splinted Shield"
+      "comment": "(A splinted shield)"
     },
     {
       "cmd": "M",
@@ -1881,7 +1947,7 @@
         20,
         5419
       ],
-      "comment": "Sultan's Guard"
+      "comment": "(the Sultan's Guard)"
     },
     {
       "cmd": "E",
@@ -1891,7 +1957,7 @@
         100,
         16
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "E",
@@ -1901,7 +1967,7 @@
         43,
         5
       ],
-      "comment": "Suit Of Field Plate"
+      "comment": "(a suit of field plate)"
     },
     {
       "cmd": "E",
@@ -1911,7 +1977,7 @@
         42,
         11
       ],
-      "comment": "Splinted Shield"
+      "comment": "(A splinted shield)"
     },
     {
       "cmd": "M",
@@ -1921,7 +1987,7 @@
         20,
         5420
       ],
-      "comment": "Sultan's Guard"
+      "comment": "(the Sultan's Guard)"
     },
     {
       "cmd": "E",
@@ -1931,7 +1997,7 @@
         100,
         16
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "E",
@@ -1941,7 +2007,7 @@
         43,
         5
       ],
-      "comment": "Suit Of Field Plate"
+      "comment": "(a suit of field plate)"
     },
     {
       "cmd": "E",
@@ -1951,7 +2017,7 @@
         42,
         11
       ],
-      "comment": "Splinted Shield"
+      "comment": "(A splinted shield)"
     },
     {
       "cmd": "M",
@@ -1961,7 +2027,7 @@
         20,
         5444
       ],
-      "comment": "Sultan's Guard"
+      "comment": "(the Sultan's Guard)"
     },
     {
       "cmd": "M",
@@ -1971,7 +2037,7 @@
         20,
         5445
       ],
-      "comment": "Sultan's Guard"
+      "comment": "(the Sultan's Guard)"
     },
     {
       "cmd": "M",
@@ -1981,7 +2047,7 @@
         20,
         5446
       ],
-      "comment": "Sultan's Guard"
+      "comment": "(the Sultan's Guard)"
     },
     {
       "cmd": "M",
@@ -1991,7 +2057,7 @@
         20,
         5447
       ],
-      "comment": "Sultan's Guard"
+      "comment": "(the Sultan's Guard)"
     },
     {
       "cmd": "M",
@@ -2001,7 +2067,7 @@
         20,
         5572
       ],
-      "comment": "Sultan's Guard"
+      "comment": "(the Sultan's Guard)"
     },
     {
       "cmd": "M",
@@ -2011,7 +2077,7 @@
         20,
         5581
       ],
-      "comment": "Sultan's Guard"
+      "comment": "(the Sultan's Guard)"
     },
     {
       "cmd": "M",
@@ -2021,7 +2087,7 @@
         20,
         5582
       ],
-      "comment": "Sultan's Guard"
+      "comment": "(the Sultan's Guard)"
     },
     {
       "cmd": "M",
@@ -2031,7 +2097,7 @@
         20,
         5588
       ],
-      "comment": "Sultan's Guard"
+      "comment": "(the Sultan's Guard)"
     },
     {
       "cmd": "M",
@@ -2041,7 +2107,7 @@
         12,
         5413
       ],
-      "comment": "Sultan's Guard"
+      "comment": "(the Sultan's Guard)"
     },
     {
       "cmd": "E",
@@ -2051,7 +2117,7 @@
         100,
         16
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "E",
@@ -2061,7 +2127,7 @@
         53,
         5
       ],
-      "comment": "Suit Of Field Plate"
+      "comment": "(a suit of field plate)"
     },
     {
       "cmd": "E",
@@ -2071,7 +2137,7 @@
         72,
         11
       ],
-      "comment": "Splinted Shield"
+      "comment": "(A splinted shield)"
     },
     {
       "cmd": "M",
@@ -2081,7 +2147,7 @@
         12,
         5413
       ],
-      "comment": "Sultan's Guard"
+      "comment": "(the Sultan's Guard)"
     },
     {
       "cmd": "E",
@@ -2091,7 +2157,7 @@
         100,
         16
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "E",
@@ -2101,7 +2167,7 @@
         53,
         5
       ],
-      "comment": "Suit Of Field Plate"
+      "comment": "(a suit of field plate)"
     },
     {
       "cmd": "E",
@@ -2111,7 +2177,7 @@
         42,
         11
       ],
-      "comment": "Splinted Shield"
+      "comment": "(A splinted shield)"
     },
     {
       "cmd": "M",
@@ -2121,7 +2187,7 @@
         12,
         5422
       ],
-      "comment": "Sultan's Guard"
+      "comment": "(the Sultan's Guard)"
     },
     {
       "cmd": "E",
@@ -2131,7 +2197,7 @@
         100,
         16
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "E",
@@ -2141,7 +2207,7 @@
         43,
         5
       ],
-      "comment": "Suit Of Field Plate"
+      "comment": "(a suit of field plate)"
     },
     {
       "cmd": "E",
@@ -2151,7 +2217,7 @@
         42,
         11
       ],
-      "comment": "Splinted Shield"
+      "comment": "(A splinted shield)"
     },
     {
       "cmd": "M",
@@ -2161,7 +2227,7 @@
         12,
         5422
       ],
-      "comment": "Sultan's Guard"
+      "comment": "(the Sultan's Guard)"
     },
     {
       "cmd": "E",
@@ -2171,7 +2237,7 @@
         100,
         16
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "E",
@@ -2181,7 +2247,7 @@
         43,
         5
       ],
-      "comment": "Suit Of Field Plate"
+      "comment": "(a suit of field plate)"
     },
     {
       "cmd": "E",
@@ -2191,7 +2257,7 @@
         42,
         11
       ],
-      "comment": "Splinted Shield"
+      "comment": "(A splinted shield)"
     },
     {
       "cmd": "M",
@@ -2201,7 +2267,7 @@
         12,
         5423
       ],
-      "comment": "Sultan's Guard"
+      "comment": "(the Sultan's Guard)"
     },
     {
       "cmd": "E",
@@ -2211,7 +2277,7 @@
         100,
         16
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "E",
@@ -2221,7 +2287,7 @@
         43,
         5
       ],
-      "comment": "Suit Of Field Plate"
+      "comment": "(a suit of field plate)"
     },
     {
       "cmd": "E",
@@ -2231,7 +2297,7 @@
         42,
         11
       ],
-      "comment": "Splinted Shield"
+      "comment": "(A splinted shield)"
     },
     {
       "cmd": "M",
@@ -2241,7 +2307,7 @@
         12,
         5423
       ],
-      "comment": "Sultan's Guard"
+      "comment": "(the Sultan's Guard)"
     },
     {
       "cmd": "E",
@@ -2251,7 +2317,7 @@
         100,
         16
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "E",
@@ -2261,7 +2327,7 @@
         43,
         5
       ],
-      "comment": "Suit Of Field Plate"
+      "comment": "(a suit of field plate)"
     },
     {
       "cmd": "E",
@@ -2271,7 +2337,7 @@
         42,
         11
       ],
-      "comment": "Splinted Shield"
+      "comment": "(A splinted shield)"
     },
     {
       "cmd": "M",
@@ -2281,7 +2347,7 @@
         12,
         5431
       ],
-      "comment": "Sultan's Guard"
+      "comment": "(the Sultan's Guard)"
     },
     {
       "cmd": "E",
@@ -2291,7 +2357,7 @@
         100,
         16
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "E",
@@ -2301,7 +2367,7 @@
         43,
         5
       ],
-      "comment": "Suit Of Field Plate"
+      "comment": "(a suit of field plate)"
     },
     {
       "cmd": "E",
@@ -2311,7 +2377,7 @@
         42,
         11
       ],
-      "comment": "Splinted Shield"
+      "comment": "(A splinted shield)"
     },
     {
       "cmd": "M",
@@ -2321,7 +2387,7 @@
         12,
         5431
       ],
-      "comment": "Sultan's Guard"
+      "comment": "(the Sultan's Guard)"
     },
     {
       "cmd": "E",
@@ -2331,7 +2397,7 @@
         100,
         16
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "E",
@@ -2341,7 +2407,7 @@
         43,
         5
       ],
-      "comment": "Suit Of Field Plate"
+      "comment": "(a suit of field plate)"
     },
     {
       "cmd": "E",
@@ -2351,7 +2417,7 @@
         42,
         11
       ],
-      "comment": "Splinted Shield"
+      "comment": "(A splinted shield)"
     },
     {
       "cmd": "M",
@@ -2361,7 +2427,7 @@
         1,
         5406
       ],
-      "comment": "Chief Sultan's Guard"
+      "comment": "(the Chief Guard)"
     },
     {
       "cmd": "M",
@@ -2371,7 +2437,7 @@
         1,
         5531
       ],
-      "comment": "Mercenary"
+      "comment": "(the mercenary)"
     },
     {
       "cmd": "M",
@@ -2381,25 +2447,27 @@
         1,
         5542
       ],
-      "comment": "Shipwright - Shopkeeper"
+      "comment": "(the shipwright)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3060,
-        100
+        100,
+        -1
       ],
-      "comment": "Raft"
+      "comment": "(a raft)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3061,
-        100
+        100,
+        -1
       ],
-      "comment": "Canoe"
+      "comment": "(a canoe)"
     },
     {
       "cmd": "M",
@@ -2409,34 +2477,37 @@
         1,
         5544
       ],
-      "comment": "Blacksmith - Shopkeeper"
+      "comment": "(the blacksmith)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5487,
-        100
+        989,
+        -1
       ],
-      "comment": "Horse Shoe"
+      "comment": "(a horse shoe)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5488,
-        100
+        989,
+        -1
       ],
-      "comment": "Saddle"
+      "comment": "(a saddle)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5489,
-        100
+        989,
+        -1
       ],
-      "comment": "Riding Crop"
+      "comment": "(a riding crop)"
     },
     {
       "cmd": "M",
@@ -2446,7 +2517,7 @@
         6,
         5545
       ],
-      "comment": "Horse"
+      "comment": "(the horse)"
     },
     {
       "cmd": "M",
@@ -2456,7 +2527,7 @@
         6,
         5545
       ],
-      "comment": "Horse"
+      "comment": "(the horse)"
     },
     {
       "cmd": "M",
@@ -2466,7 +2537,7 @@
         6,
         5545
       ],
-      "comment": "Horse"
+      "comment": "(the horse)"
     },
     {
       "cmd": "M",
@@ -2476,7 +2547,7 @@
         6,
         5545
       ],
-      "comment": "Horse"
+      "comment": "(the horse)"
     },
     {
       "cmd": "M",
@@ -2486,7 +2557,7 @@
         6,
         5545
       ],
-      "comment": "Horse"
+      "comment": "(the horse)"
     },
     {
       "cmd": "M",
@@ -2496,7 +2567,7 @@
         6,
         5545
       ],
-      "comment": "Horse"
+      "comment": "(the horse)"
     },
     {
       "cmd": "M",
@@ -2506,7 +2577,7 @@
         8,
         5427
       ],
-      "comment": "Tourist"
+      "comment": "(the tourist)"
     },
     {
       "cmd": "M",
@@ -2516,7 +2587,7 @@
         8,
         5428
       ],
-      "comment": "Tourist"
+      "comment": "(the tourist)"
     },
     {
       "cmd": "M",
@@ -2526,7 +2597,7 @@
         1,
         5699
       ],
-      "comment": "Ixitxachitl"
+      "comment": "(the ixitxachitl)"
     },
     {
       "cmd": "M",
@@ -2536,7 +2607,7 @@
         1,
         5600
       ],
-      "comment": "Cryohydra"
+      "comment": "(the cryohydra)"
     },
     {
       "cmd": "M",
@@ -2546,7 +2617,7 @@
         1,
         5604
       ],
-      "comment": "Minotaur Lizard"
+      "comment": "(the minotaur lizard)"
     },
     {
       "cmd": "M",
@@ -2556,7 +2627,7 @@
         5,
         5599
       ],
-      "comment": "Death Dog"
+      "comment": "(the death dog)"
     },
     {
       "cmd": "M",
@@ -2566,7 +2637,7 @@
         5,
         5599
       ],
-      "comment": "Death Dog"
+      "comment": "(the death dog)"
     },
     {
       "cmd": "M",
@@ -2576,7 +2647,7 @@
         5,
         5599
       ],
-      "comment": "Death Dog"
+      "comment": "(the death dog)"
     },
     {
       "cmd": "M",
@@ -2586,7 +2657,7 @@
         5,
         5599
       ],
-      "comment": "Death Dog"
+      "comment": "(the death dog)"
     },
     {
       "cmd": "M",
@@ -2596,7 +2667,7 @@
         5,
         5599
       ],
-      "comment": "Death Dog"
+      "comment": "(the death dog)"
     },
     {
       "cmd": "M",
@@ -2606,7 +2677,7 @@
         1,
         5603
       ],
-      "comment": "Spotted Lion"
+      "comment": "(the spotted lion)"
     },
     {
       "cmd": "M",
@@ -2616,7 +2687,7 @@
         1,
         5598
       ],
-      "comment": "Behir"
+      "comment": "(the behir)"
     },
     {
       "cmd": "M",
@@ -2626,7 +2697,7 @@
         1,
         5597
       ],
-      "comment": "Chimera"
+      "comment": "(the chimera)"
     },
     {
       "cmd": "M",
@@ -2636,7 +2707,7 @@
         1,
         5602
       ],
-      "comment": "Couatl"
+      "comment": "(the couatl)"
     },
     {
       "cmd": "M",
@@ -2646,7 +2717,7 @@
         1,
         5601
       ],
-      "comment": "Giant Hornet"
+      "comment": "(the giant hornet)"
     },
     {
       "cmd": "M",
@@ -2656,7 +2727,7 @@
         1,
         5583
       ],
-      "comment": "Pegasus"
+      "comment": "(the pegasus)"
     },
     {
       "cmd": "M",
@@ -2666,52 +2737,57 @@
         1,
         5523
       ],
-      "comment": "Elvria - Shopkeeper"
+      "comment": "(Elriva)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5470,
-        100
+        888,
+        -1
       ],
-      "comment": "Glowing Blue Vial"
+      "comment": "(a glowing blue vial)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5471,
-        100
+        888,
+        -1
       ],
-      "comment": "Deep-Green Potion"
+      "comment": "(a deep-green potion)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5472,
-        100
+        888,
+        -1
       ],
-      "comment": "Crystal Clear Potion"
+      "comment": "(a crystal clear potion)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5473,
-        100
+        888,
+        -1
       ],
-      "comment": "Off White Potion"
+      "comment": "(an off-white potion)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5474,
-        100
+        888,
+        -1
       ],
-      "comment": "Dark Blue Potion"
+      "comment": "(a dark blue potion)"
     },
     {
       "cmd": "M",
@@ -2721,52 +2797,57 @@
         1,
         5524
       ],
-      "comment": "Braheem - Shopkeeper"
+      "comment": "(Braheem)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5478,
-        100
+        888,
+        -1
       ],
-      "comment": "Scroll Of Recall"
+      "comment": "(a scroll of recall)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5479,
-        100
+        888,
+        -1
       ],
-      "comment": "Grey-Silver Wand"
+      "comment": "(a grey-silver wand)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5480,
-        100
+        888,
+        -1
       ],
-      "comment": "Wand Of Glinting Yellow"
+      "comment": "(a wand of glinting yellow)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5481,
-        100
+        888,
+        -1
       ],
-      "comment": "Wand Of Oak"
+      "comment": "(an oak wand)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5482,
-        100
+        888,
+        -1
       ],
-      "comment": "Pink Wand"
+      "comment": "(a pink wand)"
     },
     {
       "cmd": "M",
@@ -2776,7 +2857,7 @@
         1,
         5504
       ],
-      "comment": "High Priest"
+      "comment": "(the high priest)"
     },
     {
       "cmd": "M",
@@ -2786,7 +2867,7 @@
         15,
         5407
       ],
-      "comment": "Royal Guard"
+      "comment": "(the Royal Guard)"
     },
     {
       "cmd": "M",
@@ -2796,7 +2877,7 @@
         15,
         5408
       ],
-      "comment": "Royal Guard"
+      "comment": "(the Royal Guard)"
     },
     {
       "cmd": "M",
@@ -2806,7 +2887,7 @@
         15,
         5414
       ],
-      "comment": "Royal Guard"
+      "comment": "(the Royal Guard)"
     },
     {
       "cmd": "M",
@@ -2816,7 +2897,7 @@
         15,
         5416
       ],
-      "comment": "Royal Guard"
+      "comment": "(the Royal Guard)"
     },
     {
       "cmd": "M",
@@ -2826,7 +2907,7 @@
         15,
         5444
       ],
-      "comment": "Royal Guard"
+      "comment": "(the Royal Guard)"
     },
     {
       "cmd": "M",
@@ -2836,7 +2917,7 @@
         15,
         5445
       ],
-      "comment": "Royal Guard"
+      "comment": "(the Royal Guard)"
     },
     {
       "cmd": "M",
@@ -2846,7 +2927,7 @@
         15,
         5450
       ],
-      "comment": "Royal Guard"
+      "comment": "(the Royal Guard)"
     },
     {
       "cmd": "M",
@@ -2856,7 +2937,7 @@
         15,
         5452
       ],
-      "comment": "Royal Guard"
+      "comment": "(the Royal Guard)"
     },
     {
       "cmd": "M",
@@ -2866,34 +2947,37 @@
         1,
         5538
       ],
-      "comment": "Patch The Bartender - Shopkeeper"
+      "comment": "(Patch the bartender)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5475,
-        100
+        989,
+        -1
       ],
-      "comment": "Flaming Scorpion"
+      "comment": "(a flaming scorpion)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5476,
-        100
+        989,
+        -1
       ],
-      "comment": "Barrel Of Beer"
+      "comment": "(a barrel)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5477,
-        100
+        989,
+        -1
       ],
-      "comment": "Shot Of Whisky"
+      "comment": "(a shot)"
     },
     {
       "cmd": "M",
@@ -2903,115 +2987,127 @@
         1,
         5537
       ],
-      "comment": "Stitch, The Leather Dude - Shopkeeper"
+      "comment": "(Stitch, the leather dude)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5422,
-        100
+        989,
+        -1
       ],
-      "comment": "Buckler"
+      "comment": "(a buckler)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5423,
-        100
+        989,
+        -1
       ],
-      "comment": "Leather Jacket"
+      "comment": "(a leather jacket)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5424,
-        100
+        989,
+        -1
       ],
-      "comment": "Leather Sleeves"
+      "comment": "(a pair of leather sleeves)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5425,
-        100
+        989,
+        -1
       ],
-      "comment": "Leather Cap"
+      "comment": "(a leather cap)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5426,
-        100
+        989,
+        -1
       ],
-      "comment": "Leather Pants"
+      "comment": "(a pair of leather pants)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5427,
-        100
+        989,
+        -1
       ],
-      "comment": "Leather Gloves"
+      "comment": "(a pair of leather gloves)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5428,
-        100
+        989,
+        -1
       ],
-      "comment": "Padded Leather Boots"
+      "comment": "(a pair of padded leather boots)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5429,
-        100
+        989,
+        -1
       ],
-      "comment": "Studded Leather Jacket"
+      "comment": "(a studded leather jacket)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5430,
-        100
+        989,
+        -1
       ],
-      "comment": "Studded Leather Sleeves"
+      "comment": "(a pair of studded leather sleeves)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5431,
-        100
+        989,
+        -1
       ],
-      "comment": "Studded Leather Pants"
+      "comment": "(a pair of studded leather pants)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5432,
-        100
+        989,
+        -1
       ],
-      "comment": "Studded Leather Gloves"
+      "comment": "(a pair of studded leather gloves)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5433,
-        100
+        989,
+        -1
       ],
-      "comment": "Leather Shield"
+      "comment": "(a leather shield)"
     },
     {
       "cmd": "M",
@@ -3021,7 +3117,7 @@
         1,
         5578
       ],
-      "comment": "Gardener"
+      "comment": "(the gardener)"
     },
     {
       "cmd": "M",
@@ -3031,7 +3127,7 @@
         1,
         5583
       ],
-      "comment": "Nightmare"
+      "comment": "(the nightmare)"
     },
     {
       "cmd": "M",
@@ -3041,7 +3137,7 @@
         1,
         5596
       ],
-      "comment": "Wolverine"
+      "comment": "(the wolverine)"
     },
     {
       "cmd": "E",
@@ -3051,7 +3147,7 @@
         1,
         16
       ],
-      "comment": "Wolverine Claw"
+      "comment": "(the wolverine claw)"
     },
     {
       "cmd": "M",
@@ -3061,7 +3157,7 @@
         1,
         5580
       ],
-      "comment": "Mimic"
+      "comment": "(the mimic)"
     },
     {
       "cmd": "M",
@@ -3071,16 +3167,17 @@
         1,
         5554
       ],
-      "comment": "Mayor"
+      "comment": "(the mayor)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5401,
-        1
+        1,
+        -1
       ],
-      "comment": "Key To The City Of New Thalos"
+      "comment": "(the Key to the City of New Thalos)"
     },
     {
       "cmd": "M",
@@ -3090,16 +3187,17 @@
         1,
         5561
       ],
-      "comment": "Chef"
+      "comment": "(the chef)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         5521,
-        3034
+        3034,
+        -1
       ],
-      "comment": ""
+      "comment": "(an automatic teller machine)"
     },
     {
       "cmd": "O",
@@ -3109,16 +3207,17 @@
         10,
         5521
       ],
-      "comment": "ATM"
+      "comment": "(an automatic teller machine)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         5406,
-        5402
+        5402,
+        -1
       ],
-      "comment": ""
+      "comment": "(the large central fountain)"
     },
     {
       "cmd": "O",
@@ -3128,7 +3227,7 @@
         1,
         5406
       ],
-      "comment": "Large Central Fountain"
+      "comment": "(the large central fountain)"
     },
     {
       "cmd": "D",
@@ -3138,7 +3237,7 @@
         2,
         2
       ],
-      "comment": "The South Gate"
+      "comment": "(Inside The South Gate Of New Thalos)"
     },
     {
       "cmd": "D",
@@ -3148,7 +3247,7 @@
         0,
         2
       ],
-      "comment": ""
+      "comment": "(Outside The Southern Gate Of New Thalos)"
     },
     {
       "cmd": "D",
@@ -3158,7 +3257,7 @@
         0,
         2
       ],
-      "comment": "The North Gate"
+      "comment": "(Inside The Northern Gate Of New Thalos)"
     },
     {
       "cmd": "D",
@@ -3168,7 +3267,7 @@
         2,
         2
       ],
-      "comment": ""
+      "comment": "(Outside The Northern Gate Of New Thalos)"
     },
     {
       "cmd": "D",
@@ -3178,7 +3277,7 @@
         3,
         2
       ],
-      "comment": "The West Gate"
+      "comment": "(Inside The West Gate Of New Thalos)"
     },
     {
       "cmd": "D",
@@ -3188,7 +3287,7 @@
         1,
         2
       ],
-      "comment": ""
+      "comment": "(Outside The West Gate Of New Thalos)"
     },
     {
       "cmd": "D",
@@ -3198,7 +3297,7 @@
         1,
         2
       ],
-      "comment": "The East Gate"
+      "comment": "(Inside the Eastern Gate of New Thalos)"
     },
     {
       "cmd": "D",
@@ -3208,7 +3307,7 @@
         3,
         2
       ],
-      "comment": ""
+      "comment": "(Outside The Eastern Gate Of New Thalos)"
     },
     {
       "cmd": "D",
@@ -3218,7 +3317,7 @@
         2,
         2
       ],
-      "comment": "Jail"
+      "comment": "(West Casbah)"
     },
     {
       "cmd": "D",
@@ -3228,7 +3327,7 @@
         0,
         2
       ],
-      "comment": ""
+      "comment": "(The Jail)"
     },
     {
       "cmd": "D",
@@ -3238,7 +3337,7 @@
         5,
         1
       ],
-      "comment": "Underground"
+      "comment": "(Alley)"
     },
     {
       "cmd": "D",
@@ -3248,7 +3347,7 @@
         4,
         1
       ],
-      "comment": ""
+      "comment": "(Underground)"
     },
     {
       "cmd": "D",
@@ -3258,7 +3357,7 @@
         5,
         1
       ],
-      "comment": "Underground"
+      "comment": "(Alley)"
     },
     {
       "cmd": "D",
@@ -3268,7 +3367,7 @@
         4,
         1
       ],
-      "comment": ""
+      "comment": "(Underground)"
     },
     {
       "cmd": "D",
@@ -3278,7 +3377,7 @@
         5,
         1
       ],
-      "comment": "Underground"
+      "comment": "(Alley)"
     },
     {
       "cmd": "D",
@@ -3288,7 +3387,7 @@
         4,
         1
       ],
-      "comment": ""
+      "comment": "(Underground)"
     },
     {
       "cmd": "D",
@@ -3298,7 +3397,7 @@
         3,
         1
       ],
-      "comment": "Grating On River Ishtar"
+      "comment": "(River Ishtar)"
     },
     {
       "cmd": "D",
@@ -3308,7 +3407,7 @@
         1,
         1
       ],
-      "comment": ""
+      "comment": "(River Ishtar)"
     },
     {
       "cmd": "D",
@@ -3318,7 +3417,7 @@
         3,
         1
       ],
-      "comment": "Grating On River Ishtar"
+      "comment": "(River Ishtar)"
     },
     {
       "cmd": "D",
@@ -3328,7 +3427,7 @@
         1,
         1
       ],
-      "comment": ""
+      "comment": "(River Ishtar)"
     },
     {
       "cmd": "D",
@@ -3338,7 +3437,7 @@
         4,
         1
       ],
-      "comment": "Outside The Wall"
+      "comment": "(A Dark Passage)"
     },
     {
       "cmd": "D",
@@ -3348,7 +3447,7 @@
         1,
         1
       ],
-      "comment": "Alley"
+      "comment": "(Clerics' Sanctum)"
     },
     {
       "cmd": "D",
@@ -3358,7 +3457,7 @@
         2,
         1
       ],
-      "comment": "Braheem's Magic Shop"
+      "comment": "(The Base Of The Tower)"
     },
     {
       "cmd": "D",
@@ -3368,7 +3467,7 @@
         1,
         1
       ],
-      "comment": "The Thieves' Guild"
+      "comment": "(The Mercenaries' Guild)"
     },
     {
       "cmd": "D",
@@ -3378,7 +3477,7 @@
         3,
         1
       ],
-      "comment": ""
+      "comment": "(Entrance To The Thieves' Guild)"
     },
     {
       "cmd": "D",
@@ -3388,7 +3487,7 @@
         1,
         1
       ],
-      "comment": "Alley"
+      "comment": "(The Tournament And Practice Yard)"
     },
     {
       "cmd": "D",
@@ -3398,7 +3497,7 @@
         2,
         1
       ],
-      "comment": "Alley"
+      "comment": "(The Secret Yard)"
     },
     {
       "cmd": "D",
@@ -3408,7 +3507,7 @@
         3,
         2
       ],
-      "comment": "The Palace Gate"
+      "comment": "(The Palace Gate)"
     },
     {
       "cmd": "D",
@@ -3418,7 +3517,7 @@
         1,
         2
       ],
-      "comment": ""
+      "comment": "(The Grand Entrance)"
     },
     {
       "cmd": "D",
@@ -3428,7 +3527,7 @@
         2,
         1
       ],
-      "comment": "The Kitchen"
+      "comment": "(A Hall)"
     },
     {
       "cmd": "D",
@@ -3438,7 +3537,7 @@
         0,
         1
       ],
-      "comment": ""
+      "comment": "(The Kitchen)"
     },
     {
       "cmd": "D",
@@ -3448,7 +3547,7 @@
         0,
         1
       ],
-      "comment": "The Shrine Of Allah"
+      "comment": "(A Hall)"
     },
     {
       "cmd": "D",
@@ -3458,7 +3557,7 @@
         2,
         1
       ],
-      "comment": ""
+      "comment": "(The Shrine Of Allah)"
     },
     {
       "cmd": "D",
@@ -3468,7 +3567,7 @@
         2,
         1
       ],
-      "comment": "Dining Hall"
+      "comment": "(A Hall)"
     },
     {
       "cmd": "D",
@@ -3478,7 +3577,7 @@
         0,
         1
       ],
-      "comment": ""
+      "comment": "(The Grand Dining Hall)"
     },
     {
       "cmd": "D",
@@ -3488,7 +3587,7 @@
         0,
         1
       ],
-      "comment": "Entrance To The Dungeon"
+      "comment": "(A Hall)"
     },
     {
       "cmd": "D",
@@ -3498,7 +3597,7 @@
         2,
         1
       ],
-      "comment": ""
+      "comment": "(The Entrance To The Dungeon)"
     },
     {
       "cmd": "D",
@@ -3508,7 +3607,7 @@
         5,
         1
       ],
-      "comment": "Jailer's Room"
+      "comment": "(The Entrance To The Dungeon)"
     },
     {
       "cmd": "D",
@@ -3518,7 +3617,7 @@
         4,
         1
       ],
-      "comment": ""
+      "comment": "(The Jailer's Room)"
     },
     {
       "cmd": "D",
@@ -3528,7 +3627,7 @@
         2,
         1
       ],
-      "comment": "Guest Room"
+      "comment": "(A Hall)"
     },
     {
       "cmd": "D",
@@ -3538,7 +3637,7 @@
         0,
         1
       ],
-      "comment": ""
+      "comment": "(A Guest Room)"
     },
     {
       "cmd": "D",
@@ -3548,7 +3647,7 @@
         0,
         1
       ],
-      "comment": "Art Exhibit"
+      "comment": "(A Hall)"
     },
     {
       "cmd": "D",
@@ -3558,7 +3657,7 @@
         2,
         1
       ],
-      "comment": ""
+      "comment": "(The Art Exhibit)"
     },
     {
       "cmd": "D",
@@ -3568,7 +3667,7 @@
         2,
         1
       ],
-      "comment": "Guest Room"
+      "comment": "(A Hall)"
     },
     {
       "cmd": "D",
@@ -3578,7 +3677,7 @@
         0,
         1
       ],
-      "comment": ""
+      "comment": "(A Guest Room)"
     },
     {
       "cmd": "D",
@@ -3588,7 +3687,7 @@
         3,
         2
       ],
-      "comment": "Harem"
+      "comment": "(A Hall)"
     },
     {
       "cmd": "D",
@@ -3598,7 +3697,7 @@
         1,
         2
       ],
-      "comment": ""
+      "comment": "(The Harem)"
     },
     {
       "cmd": "D",
@@ -3608,7 +3707,7 @@
         0,
         1
       ],
-      "comment": "Guard Room"
+      "comment": "(A Hall)"
     },
     {
       "cmd": "D",
@@ -3618,7 +3717,7 @@
         2,
         1
       ],
-      "comment": ""
+      "comment": "(The Guard Room)"
     },
     {
       "cmd": "D",
@@ -3628,7 +3727,7 @@
         3,
         1
       ],
-      "comment": "Throne Room"
+      "comment": "(A Hall)"
     },
     {
       "cmd": "D",
@@ -3638,7 +3737,7 @@
         1,
         1
       ],
-      "comment": ""
+      "comment": "(The Throne Room)"
     },
     {
       "cmd": "D",
@@ -3648,7 +3747,7 @@
         0,
         1
       ],
-      "comment": "Throne Room"
+      "comment": "(A Small room)"
     },
     {
       "cmd": "D",
@@ -3658,7 +3757,7 @@
         2,
         1
       ],
-      "comment": ""
+      "comment": "(The Throne Room)"
     },
     {
       "cmd": "D",
@@ -3668,7 +3767,7 @@
         2,
         1
       ],
-      "comment": "Harem"
+      "comment": "(A Small room)"
     },
     {
       "cmd": "D",
@@ -3678,7 +3777,7 @@
         0,
         1
       ],
-      "comment": ""
+      "comment": "(The Harem)"
     },
     {
       "cmd": "D",
@@ -3688,7 +3787,7 @@
         0,
         2
       ],
-      "comment": "Treasury"
+      "comment": "(The Throne Room)"
     },
     {
       "cmd": "D",
@@ -3698,7 +3797,7 @@
         2,
         2
       ],
-      "comment": ""
+      "comment": "(The Treasure Room)"
     },
     {
       "cmd": "D",
@@ -3708,7 +3807,7 @@
         1,
         1
       ],
-      "comment": "Tunnel In The Dungeon"
+      "comment": "(The Jailer's Room)"
     },
     {
       "cmd": "D",
@@ -3718,7 +3817,7 @@
         3,
         1
       ],
-      "comment": ""
+      "comment": "(A Tunnel In The Dungeon)"
     },
     {
       "cmd": "D",
@@ -3728,7 +3827,7 @@
         0,
         2
       ],
-      "comment": "Cell"
+      "comment": "(A Tunnel In The Dungeon)"
     },
     {
       "cmd": "D",
@@ -3738,7 +3837,7 @@
         2,
         2
       ],
-      "comment": ""
+      "comment": "(The Cell)"
     },
     {
       "cmd": "D",
@@ -3748,7 +3847,7 @@
         2,
         2
       ],
-      "comment": "Cell"
+      "comment": "(A Tunnel In The Dungeon)"
     },
     {
       "cmd": "D",
@@ -3758,7 +3857,7 @@
         0,
         2
       ],
-      "comment": ""
+      "comment": "(The Cell)"
     },
     {
       "cmd": "D",
@@ -3768,7 +3867,7 @@
         0,
         2
       ],
-      "comment": "Cell"
+      "comment": "(A Tunnel In The Dungeon)"
     },
     {
       "cmd": "D",
@@ -3778,7 +3877,7 @@
         2,
         2
       ],
-      "comment": ""
+      "comment": "(The Cell)"
     },
     {
       "cmd": "D",
@@ -3788,7 +3887,7 @@
         2,
         2
       ],
-      "comment": "Cell"
+      "comment": "(A Tunnel In The Dungeon)"
     },
     {
       "cmd": "D",
@@ -3798,7 +3897,7 @@
         0,
         2
       ],
-      "comment": ""
+      "comment": "(The Cell)"
     },
     {
       "cmd": "D",
@@ -3808,7 +3907,7 @@
         0,
         2
       ],
-      "comment": "Cell"
+      "comment": "(A Tunnel In The Dungeon)"
     },
     {
       "cmd": "D",
@@ -3818,7 +3917,7 @@
         2,
         2
       ],
-      "comment": ""
+      "comment": "(The Cell)"
     },
     {
       "cmd": "D",
@@ -3828,7 +3927,7 @@
         2,
         2
       ],
-      "comment": "Cell"
+      "comment": "(A Tunnel In The Dungeon)"
     },
     {
       "cmd": "D",
@@ -3838,7 +3937,7 @@
         0,
         2
       ],
-      "comment": ""
+      "comment": "(The Cell)"
     },
     {
       "cmd": "D",
@@ -3848,7 +3947,7 @@
         0,
         2
       ],
-      "comment": "Cell"
+      "comment": "(A Tunnel In The Dungeon)"
     },
     {
       "cmd": "D",
@@ -3858,7 +3957,7 @@
         2,
         2
       ],
-      "comment": ""
+      "comment": "(The Cell)"
     },
     {
       "cmd": "D",
@@ -3868,7 +3967,7 @@
         1,
         2
       ],
-      "comment": "Secret Cell"
+      "comment": "(A Tunnel In The Dungeon)"
     },
     {
       "cmd": "D",
@@ -3878,7 +3977,7 @@
         3,
         2
       ],
-      "comment": ""
+      "comment": "(The Secret Cell)"
     },
     {
       "cmd": "D",
@@ -3888,7 +3987,7 @@
         2,
         2
       ],
-      "comment": "Cell"
+      "comment": "(A Tunnel In The Dungeon)"
     },
     {
       "cmd": "D",
@@ -3898,7 +3997,7 @@
         0,
         2
       ],
-      "comment": ""
+      "comment": "(The Cell)"
     },
     {
       "cmd": "D",
@@ -3908,7 +4007,7 @@
         1,
         1
       ],
-      "comment": "Boulder To River"
+      "comment": "(In The Mountains)"
     },
     {
       "cmd": "D",
@@ -3918,7 +4017,7 @@
         3,
         1
       ],
-      "comment": "Lair Of The Ixitxachitl"
+      "comment": "(Under The dock)"
     },
     {
       "cmd": "D",
@@ -3928,8 +4027,8 @@
         1,
         1
       ],
-      "comment": ""
+      "comment": "(The Lair Of The Ixitxachitl)"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/54.zon"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/54.zon"
 }

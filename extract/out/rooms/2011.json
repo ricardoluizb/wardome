@@ -1,0 +1,29 @@
+{
+  "id": 2011,
+  "zone_id": 20,
+  "name": "Armoury",
+  "description": "Here you enter the this very large room you see that it stores all the\nweapons and equipment for war. You see polished and shiny.. the metal coats of\narmour worn my the army lined up along one wall.. hanging on the other\nwalls and about the benches are different styles of weapons. you see long bows,\nand swords, spears and lances.. maces and sheilds and battleaxes.. large\nnumbers of them in neat and organized fashion ready for battle when the need\narises....",
+  "header_raw": "20 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2012
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2009
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

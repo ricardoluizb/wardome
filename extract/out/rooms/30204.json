@@ -1,0 +1,29 @@
+{
+  "id": 30204,
+  "zone_id": 302,
+  "name": "&MD&mragons &BA&brsenal&n",
+  "description": "This place is FULL of accessory and instruments and that can be useful to the\nmembers of the Purple Dragons.  This is a great room with some tables of rock,\nin which the equipment are organized in a mode that you can visualize quickly\nwhat you desires.  You can usufruct of this equipment, however also you will\nneed to help in its collection and in the \"refinement\" of those you bring, for\nin such a way certify yourself that the item has some value to deserve to be\nkept in here.  The perpetual guard of the room is a small humanoid rock dragon,\nwith approximately 2,5m and ready for battle with an armor of metallic leagues\nand a pretty vorpal sword.  It is said in some legends that at times of\nnecessity this dragon will wake up and influence the way of the great battles.",
+  "header_raw": "302 6668 0",
+  "flags_text": "6668",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30202
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/302.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 13219,
+  "alias": "citizen dragon",
+  "short_desc": "a citizen",
+  "long_desc": "A citizen of Cloudy Mountain eyes you suspiciously.",
+  "detailed_desc": "A half-drawf, this dragon is suspicious of strangers in the city.",
+  "flags_raw": "8392 40 350 E",
+  "stats1_raw": "20 -6 -5 1d1+1836 5d5+88",
+  "stats2_raw": "300 53412 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

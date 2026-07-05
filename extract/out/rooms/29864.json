@@ -1,0 +1,29 @@
+{
+  "id": 29864,
+  "zone_id": 298,
+  "name": "&wIn The &GForest&n",
+  "description": "You are walking in a dense florest, a lot of animals are walking around you.  \nWait, you can see great constructions..",
+  "header_raw": "298 76 3",
+  "flags_text": "76",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29865
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29973
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/298.wld"
+}

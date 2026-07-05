@@ -1,0 +1,29 @@
+{
+  "id": 5779,
+  "zone_id": 57,
+  "name": "A Long Passageway",
+  "description": "You are heading along a long east-west passageway which meets a junction to\nthe east and bends sharply to the north to the west.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "a junction",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5756
+    },
+    {
+      "dir": 3,
+      "description": "entrance to a cave",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5780
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

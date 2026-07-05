@@ -1,0 +1,21 @@
+{
+  "id": 13070,
+  "zone_id": 130,
+  "name": "Chief's Room",
+  "description": "You are inside the chief's room, it's a beautiful place.  You see\na bed and a silver chest in the left corner.  The exit is to the west.",
+  "header_raw": "130 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "Silver Door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 13062
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

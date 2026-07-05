@@ -1,0 +1,21 @@
+{
+  "id": 13077,
+  "zone_id": 130,
+  "name": "Headquarter's Reception",
+  "description": "You are in the reception there are to desk with two old secretary\nand a big bench.  In the walls you can see some pictures of the wanted\npeople, the Headquarter's Hall is to the west.",
+  "header_raw": "130 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13060
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

@@ -1,0 +1,38 @@
+{
+  "id": 24513,
+  "zone_id": 245,
+  "name": "The corner of the world",
+  "description": "You are at the corner of the world, floating on a vast sea of blood.\nAn unstoppered vial floats in the water here. Beyond the corner is\nan endless stretch of empty black.",
+  "header_raw": "245 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "More blood",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24527
+    },
+    {
+      "dir": 3,
+      "description": "More blood",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24512
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "runes strange",
+      "description": "2nd vial of wrath: Turning of the seas to blood."
+    },
+    {
+      "keywords": "vial unstoppered",
+      "description": "You look at the vial. On the side are some strange runes."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/245.wld"
+}

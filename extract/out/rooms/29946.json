@@ -1,0 +1,45 @@
+{
+  "id": 29946,
+  "zone_id": 298,
+  "name": "At the lowest flet",
+  "description": "You stand on the first flet level.  You are quite a bit higher in the tree than\nyou care to be.  The elves don't seem to mind the height at all.  As you look\naround, you notice several limbs and what appears to be the guest flet.  An\nabundance of guards occupy this level, protecting the inhabitants of the tree\nfrom outside dangers.  There is not much light here, but the tree seems to\nshine, almost magically.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29947
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29948
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29953
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29945
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

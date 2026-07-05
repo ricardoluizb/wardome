@@ -1,0 +1,21 @@
+{
+  "id": 9721,
+  "zone_id": 97,
+  "name": "Cell",
+  "description": "You are in a small, cramped, dirty cell.  It is a horrid place.",
+  "header_raw": "97 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 9727,
+      "to": 9718
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/97.wld"
+}

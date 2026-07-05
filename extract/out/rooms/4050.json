@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Tunnel",
   "description": "You are at a bend in the tunnel here.  It turns from an eastwards\nheading to a southwards one.  The walls are cold and seem to be damp\nwith moisture.  you can see some greenish moss growing up near the\nroof of the passageway on the northern wall.",
-  "header_raw": "40 ad 3",
-  "flags_text": "ad",
+  "header_raw": "40 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

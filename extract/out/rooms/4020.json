@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Hole",
   "description": "You are standing in a small alcove off the main tunnel.  There is\na fairly wide hole broken through the floor of the alcove.  The only\nother exit is to the north.",
-  "header_raw": "40 acd 3",
-  "flags_text": "acd",
+  "header_raw": "40 13 3",
+  "flags_text": "13",
   "sector": 3,
   "exits": [
     {

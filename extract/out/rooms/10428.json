@@ -1,0 +1,29 @@
+{
+  "id": 10428,
+  "zone_id": 104,
+  "name": "Blood Room",
+  "description": "You enter the room and are immediately assaulted by the smell of rotting\nflesh and blood. The walls are covered with the crimson fluid as it runs\ndown from the ceiling.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "It is too dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10429
+    },
+    {
+      "dir": 3,
+      "description": "It is too dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10427
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

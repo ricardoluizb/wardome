@@ -1,0 +1,29 @@
+{
+  "id": 5767,
+  "zone_id": 57,
+  "name": "A Gallery",
+  "description": "You have entered what appears to be an art gallery. Paintings of various old\nmen and women of noble birth line the whitewashed walls and you supress a\nyawn as you walk past. However, one portrait here appears to be different...\n\nDoors to the north and south allow you to leave this place.",
+  "header_raw": "57 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a short corridor",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5802
+    },
+    {
+      "dir": 2,
+      "description": "a short corridor",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5801
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

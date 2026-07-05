@@ -1,0 +1,1434 @@
+{
+  "id": 99,
+  "name": "Ghenna",
+  "header": {
+    "raw": "9999 30 2 17 -1",
+    "min_room": 9999,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": 17
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9923,
+        1,
+        9952
+      ],
+      "comment": "(the Ghenna Swordmaster)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9923,
+        30,
+        16
+      ],
+      "comment": "(&wthe &WS&wword of &WN&wo&Ws&wf&We&wr&Wa&wt&Wu&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9999,
+        99,
+        17
+      ],
+      "comment": "(a voodoo totem)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9924,
+        30,
+        8
+      ],
+      "comment": "(&YS&yome &YR&yazor &YT&yipped &YB&yoots&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9925,
+        30,
+        7
+      ],
+      "comment": "(&WChrome L&weggings&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9926,
+        30,
+        10
+      ],
+      "comment": "(&WChrome S&wleeves&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9927,
+        30,
+        11
+      ],
+      "comment": "(&WChrome S&whield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9928,
+        30,
+        12
+      ],
+      "comment": "(&ra &rVe&Rrm&Wil&Rli&ron &RC&rl&Wo&ra&Rk&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9929,
+        30,
+        9
+      ],
+      "comment": "(&WChrome G&wauntlets&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9930,
+        30,
+        6
+      ],
+      "comment": "(&WChrome H&welm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9936,
+        30,
+        21
+      ],
+      "comment": "(&wChrome M&wask&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9913,
+        1,
+        9941
+      ],
+      "comment": "(The Efreeti)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9910,
+        20,
+        13
+      ],
+      "comment": "(&ca &CG&cenie's &CC&cinch&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9921,
+        20,
+        14
+      ],
+      "comment": "(&Wa &RPrizmatic &WBracelet&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9922,
+        20,
+        7
+      ],
+      "comment": "(&mBaggy &MPurple &mPants&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9901,
+        20,
+        -1
+      ],
+      "comment": "(a pillow)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9900,
+        20,
+        -1
+      ],
+      "comment": "(a candelabra)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9919,
+        50,
+        -1
+      ],
+      "comment": "(&yan &YO&yriental &YR&yug&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9990,
+        20,
+        19
+      ],
+      "comment": "(&Wa &RPrizmatic &wEarring&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9901,
+        1,
+        9900
+      ],
+      "comment": "(the barrow wight)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9903,
+        99,
+        -1
+      ],
+      "comment": "(&wa &RD&read &WF&wly&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9900,
+        5,
+        2
+      ],
+      "comment": "(A barrow mound.)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        9931,
+        1,
+        9950
+      ],
+      "comment": "(&yThe &YF&yootlocker&n)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        9932,
+        1,
+        9931
+      ],
+      "comment": "(&ythe &WBook &yof the &gWyrm&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9917,
+        20,
+        9998
+      ],
+      "comment": "(a citizen of Ghenna)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9998,
+        2,
+        1
+      ],
+      "comment": "(A dead end.)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9997,
+        1,
+        9997
+      ],
+      "comment": "(the Deepspawn)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9996,
+        20,
+        12
+      ],
+      "comment": "(&GGelatinous &gSkin&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9997,
+        20,
+        7
+      ],
+      "comment": "(&GGelatinous &gLeggings&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9915,
+        15,
+        9987
+      ],
+      "comment": "(the Orc)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9912,
+        5,
+        9987
+      ],
+      "comment": "(the errant Elf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9987,
+        1,
+        9987
+      ],
+      "comment": "(Roger the dodger)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9987,
+        20,
+        16
+      ],
+      "comment": "(&wa &WLight &YMahogany &yBow&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9985,
+        5,
+        9985
+      ],
+      "comment": "(the Maedar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9986,
+        3,
+        9985
+      ],
+      "comment": "(the Maedar master)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9986,
+        20,
+        5
+      ],
+      "comment": "(a translucent tunic)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9981,
+        1,
+        9981
+      ],
+      "comment": "(the Dwarf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9981,
+        20,
+        13
+      ],
+      "comment": "(&wa &WM&withril &YB&yelt&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9971,
+        20,
+        9971
+      ],
+      "comment": "(the prostitute)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        9965,
+        99,
+        9965
+      ],
+      "comment": "(a shoe)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9965,
+        5,
+        2
+      ],
+      "comment": "(A vandalized closet.)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9964,
+        1,
+        9964
+      ],
+      "comment": "(the Doll Golem)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9964,
+        20,
+        16
+      ],
+      "comment": "(a hatpin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9915,
+        15,
+        9959
+      ],
+      "comment": "(the Orc)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9903,
+        3,
+        9959
+      ],
+      "comment": "(the Argos)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9958,
+        1,
+        9958
+      ],
+      "comment": "(the Dominatrix)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9958,
+        20,
+        13
+      ],
+      "comment": "(a black leather thong)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9933,
+        20,
+        16
+      ],
+      "comment": "(a cat 'o nine tails)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9934,
+        20,
+        5
+      ],
+      "comment": "(A black leather push-up bra)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9935,
+        20,
+        8
+      ],
+      "comment": "(&YS&ypiked &YH&yeels&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9915,
+        15,
+        9957
+      ],
+      "comment": "(the Orc)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9917,
+        20,
+        9957
+      ],
+      "comment": "(a citizen of Ghenna)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9912,
+        5,
+        9957
+      ],
+      "comment": "(the errant Elf)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9957,
+        0,
+        1
+      ],
+      "comment": "(The streets of Ghenna.)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9909,
+        5,
+        9956
+      ],
+      "comment": "(the Death Knight)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9914,
+        20,
+        5
+      ],
+      "comment": "(an impermeable carapace)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9966,
+        20,
+        17
+      ],
+      "comment": "(a voodoo totem.)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9995,
+        20,
+        2
+      ],
+      "comment": "(&wa &wP&Wl&wa&Wt&wi&Wn&wu&Wm Ring&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9917,
+        20,
+        9955
+      ],
+      "comment": "(a citizen of Ghenna)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9917,
+        20,
+        9955
+      ],
+      "comment": "(a citizen of Ghenna)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9917,
+        20,
+        9954
+      ],
+      "comment": "(a citizen of Ghenna)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9910,
+        1,
+        9937
+      ],
+      "comment": "(the Deep Dragon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9918,
+        20,
+        16
+      ],
+      "comment": "(&ga &GD&gragon's &WC&wlaw&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9917,
+        20,
+        1
+      ],
+      "comment": "(a ring made of viscera)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9913,
+        20,
+        0
+      ],
+      "comment": "(&ythe &WJa&wwbo&Wne &yof &YL&yord &YS&yuzerain&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9915,
+        20,
+        3
+      ],
+      "comment": "(A scrimshaw cameo)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9937,
+        4,
+        1
+      ],
+      "comment": "(A lair full of corpses.)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9915,
+        15,
+        9927
+      ],
+      "comment": "(the Orc)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9931,
+        5,
+        9927
+      ],
+      "comment": "(a claw toed foot protruding from the wall)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9932,
+        5,
+        9927
+      ],
+      "comment": "(a claw fingered arm protruding from the wall)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9914,
+        1,
+        9920
+      ],
+      "comment": "(the Medusa)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9920,
+        20,
+        6
+      ],
+      "comment": "(&ga &GC&grown of &YW&yoven &GS&gnakes&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9966,
+        99,
+        -1
+      ],
+      "comment": "(a voodoo totem.)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9989,
+        5,
+        9909
+      ],
+      "comment": "(the Dragonet)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9904,
+        15,
+        9903
+      ],
+      "comment": "(the Bugbear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9989,
+        2,
+        9903
+      ],
+      "comment": "(the Dragonet)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9902,
+        5,
+        9903
+      ],
+      "comment": "(the Banshee)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9903,
+        5,
+        1
+      ],
+      "comment": "(The smell of death.)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9904,
+        15,
+        9902
+      ],
+      "comment": "(the Bugbear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9918,
+        1,
+        9902
+      ],
+      "comment": "(the Avon lady)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9904,
+        20,
+        -1
+      ],
+      "comment": "(&wa &RHeart &wS&Wh&wa&Wp&we&Wd &yBox&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9917,
+        20,
+        9902
+      ],
+      "comment": "(a citizen of Ghenna)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        9977,
+        1,
+        9901
+      ],
+      "comment": "(sign)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        9908,
+        15,
+        9901
+      ],
+      "comment": "(&wa &RBlood &rPotion&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9915,
+        10,
+        9901
+      ],
+      "comment": "(the Orc)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9911,
+        20,
+        17
+      ],
+      "comment": "(a spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9917,
+        20,
+        9901
+      ],
+      "comment": "(a citizen of Ghenna)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9900,
+        1,
+        9901
+      ],
+      "comment": "(Shamus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9902,
+        20,
+        16
+      ],
+      "comment": "(a bardiche)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9901,
+        4,
+        1
+      ],
+      "comment": "(City limits of Ghenna.)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9907,
+        1,
+        9907
+      ],
+      "comment": "(a Man-Eating plant)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9909,
+        99,
+        -1
+      ],
+      "comment": "(&wa &Rd&read &Wf&wly&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9909,
+        99,
+        -1
+      ],
+      "comment": "(&wa &Rd&read &Wf&wly&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9909,
+        99,
+        -1
+      ],
+      "comment": "(&wa &Rd&read &Wf&wly&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        9900,
+        9,
+        9922
+      ],
+      "comment": "(a candelabra)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9902,
+        5,
+        9910
+      ],
+      "comment": "(the Banshee)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9916,
+        1,
+        9916
+      ],
+      "comment": "(the barkeep)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9916,
+        99,
+        6
+      ],
+      "comment": "(a dangling skeleton earring)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9906,
+        9,
+        9935
+      ],
+      "comment": "(the Bullywug)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9911,
+        99,
+        16
+      ],
+      "comment": "(a spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9906,
+        9,
+        9935
+      ],
+      "comment": "(the Bullywug)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9911,
+        99,
+        16
+      ],
+      "comment": "(a spear)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        9998,
+        1,
+        9907
+      ],
+      "comment": "(a skull)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9906,
+        9,
+        9935
+      ],
+      "comment": "(the Bullywug)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9911,
+        99,
+        16
+      ],
+      "comment": "(a spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9906,
+        9,
+        9935
+      ],
+      "comment": "(the Bullywug)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9911,
+        2,
+        9935
+      ],
+      "comment": "(the Derro)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9902,
+        99,
+        16
+      ],
+      "comment": "(a bardiche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9911,
+        2,
+        9935
+      ],
+      "comment": "(the Derro)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9902,
+        99,
+        1
+      ],
+      "comment": "(a bardiche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9908,
+        1,
+        9936
+      ],
+      "comment": "(the Gorgimera)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9912,
+        1,
+        5
+      ],
+      "comment": "(&ga pair of &GD&gragon's &WW&wings&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9933,
+        1,
+        9933
+      ],
+      "comment": "(the stone golem)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9933,
+        5,
+        1
+      ],
+      "comment": "(The mouth of a large cave.)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9975,
+        1,
+        9975
+      ],
+      "comment": "(the whore)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9975,
+        1,
+        9977
+      ],
+      "comment": "(the whore)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9905,
+        9,
+        9908
+      ],
+      "comment": "(a Broken One)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9905,
+        9,
+        9910
+      ],
+      "comment": "(a Broken One)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9972,
+        1,
+        9972
+      ],
+      "comment": "(Lester the molester)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9991,
+        3,
+        1
+      ],
+      "comment": "(An east-west tunnel.)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9989,
+        1,
+        9989
+      ],
+      "comment": "(the Dragonet)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9904,
+        10,
+        9906
+      ],
+      "comment": "(the Bugbear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9994,
+        1,
+        9994
+      ],
+      "comment": "(the cockroach)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9986,
+        2,
+        9986
+      ],
+      "comment": "(the Maedar master)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9903,
+        1,
+        9988
+      ],
+      "comment": "(the Argos)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9932,
+        5,
+        9932
+      ],
+      "comment": "(a claw fingered arm protruding from the wall)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9932,
+        5,
+        9926
+      ],
+      "comment": "(a claw fingered arm protruding from the wall)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9931,
+        5,
+        9926
+      ],
+      "comment": "(a claw toed foot protruding from the wall)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9932,
+        5,
+        9926
+      ],
+      "comment": "(a claw fingered arm protruding from the wall)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9931,
+        5,
+        9931
+      ],
+      "comment": "(a claw toed foot protruding from the wall)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9932,
+        5,
+        9929
+      ],
+      "comment": "(a claw fingered arm protruding from the wall)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9931,
+        5,
+        9929
+      ],
+      "comment": "(a claw toed foot protruding from the wall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9921,
+        2,
+        2
+      ],
+      "comment": "(An upstairs hallway.)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9904,
+        0,
+        1
+      ],
+      "comment": "(A culdesac)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9906,
+        5,
+        1
+      ],
+      "comment": "(The twisting hedges.)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9907,
+        5,
+        1
+      ],
+      "comment": "(The twisting hedges.)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9915,
+        2,
+        1
+      ],
+      "comment": "(Blood Tavern.)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9919,
+        0,
+        2
+      ],
+      "comment": "(An upstairs hallway.)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9923,
+        0,
+        1
+      ],
+      "comment": "(The bathroom.)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9934,
+        4,
+        1
+      ],
+      "comment": "(Inside the cave entrance.)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9947,
+        2,
+        1
+      ],
+      "comment": "(A backwall niche.)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9948,
+        5,
+        1
+      ],
+      "comment": "(Free fall.)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/99.zon"
+}

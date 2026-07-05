@@ -1,0 +1,29 @@
+{
+  "id": 26609,
+  "zone_id": 266,
+  "name": "Comendo e bebendo",
+  "description": "Eh interessante sempre deixar seu player em boa saude. Para comer\nalgo, digite : '&Reat Nome da comida&n'. Como vc possue um '&ybread&n' digite '&Reat bread&n'\npara se alimentar. Para beber, digite '&Rdrink Nome da Bebida&n'. Como vc possue\num '&ybottle&n' digite : '&Rdrink bottle&n' para matar a sua sede.\n&w &n\nNao se preocupe, ninguem morre por fome e sede nesse mud. Comer e beber\napenas aumentam o taxa de recuperacao (&Rlife&n/&Cmana&n/&Gmove&n) de seu player.\n&w &n\nDigite '&Rw&n' para continuar a sua licao.",
+  "header_raw": "266 1310720 0",
+  "flags_text": "1310720",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26608
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26610
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/266.wld"
+}

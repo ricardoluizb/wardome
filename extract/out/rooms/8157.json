@@ -1,0 +1,29 @@
+{
+  "id": 8157,
+  "zone_id": 81,
+  "name": "A Guard Room",
+  "description": "Not now! Not another guard room! But this is where one should be;\nafter all, there hasn't been any other on this floor.",
+  "header_raw": "81 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "There is a steel door to the east.",
+      "keywords": "door steel",
+      "door_flag": 2,
+      "key": 8100,
+      "to": 8158
+    },
+    {
+      "dir": 3,
+      "description": "An iron door opens to the west.",
+      "keywords": "door iron",
+      "door_flag": 1,
+      "key": 8100,
+      "to": 8155
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

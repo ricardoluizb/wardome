@@ -1,0 +1,37 @@
+{
+  "id": 7826,
+  "zone_id": 78,
+  "name": "A Trail Leading from the Valley",
+  "description": "You are on a narrow trail leading away from the Valley of the Elves.  This\ntrail leads north and south.  A rope ladder leads up to a rope bridge.",
+  "header_raw": "78 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The trail continues north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7827
+    },
+    {
+      "dir": 2,
+      "description": "The trail leads back to the valley.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7824
+    },
+    {
+      "dir": 4,
+      "description": "You see the rope bridge above you.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7858
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/78.wld"
+}

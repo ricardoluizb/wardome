@@ -3,8 +3,8 @@
   "zone_id": 186,
   "name": "The Alchemist's Room",
   "description": "Lots of bottles and flasks lie about this room, but it all looks like\nworthless clutter.  It appears whatever alchemist has been working here\nis really very adept at his art.  There are a lot of formulae and spells\nwritten on the walls too... couldn't he buy some paper?  There is a door\nto the north, and also a dark stairway in the corner leading down, with a\nlarge sign next to it that you probably should read...",
-  "header_raw": "186 d 0",
-  "flags_text": "d",
+  "header_raw": "186 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

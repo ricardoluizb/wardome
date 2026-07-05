@@ -1,0 +1,42 @@
+{
+  "id": 28506,
+  "zone_id": 285,
+  "name": "The city streets of Atlantis",
+  "description": "You trudge through the streets of the city. The street itself is made of\ncoraltones and the footing is quite treacherous. To the south, you see \nwhat appears to be a small tavern. Bright lights shine through the windows. \n  Small streets also lead north and east.\nA small sign hangs outside the tavern.",
+  "header_raw": "285 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28503
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28507
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28509
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign small",
+      "description": "[]=============[]\n |   The Inn   |\n |    of the   |\n |  Andromeda  |\n []=============[]"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/285.wld"
+}

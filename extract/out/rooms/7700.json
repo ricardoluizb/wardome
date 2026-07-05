@@ -1,0 +1,26 @@
+{
+  "id": 7700,
+  "zone_id": 77,
+  "name": "The Bottom of the Rainbow",
+  "description": "You are standing before a shimmering rainbow arching high up into the\nsky.  You feel somehow separated from the natural world, even though the\ntemple spire is only a few meters below you.",
+  "header_raw": "77 16777216 1",
+  "flags_text": "16777216",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7701
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "rainbow",
+      "description": "The rainbow softly glows with beams of light, in colours that defie \ndescription."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/77.wld"
+}

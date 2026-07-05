@@ -1,0 +1,45 @@
+{
+  "id": 12342,
+  "zone_id": 122,
+  "name": "The Storm-Tossed Sea",
+  "description": "Adrift on the churning, frigid waters, you cannot see land anywhere\nyou look. The icy spray freezes on your face, and your hands turn\nblue as you grip onto whatever is keeping you afloat. Only a fool\nwould attempt to negotiate these waters; and it is a fool you must\nbe, to be out here. Long, dark shapes move silently beneath the\nsalty brine, barely visible through the foam.",
+  "header_raw": "122 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12347
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12345
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12341
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12353
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

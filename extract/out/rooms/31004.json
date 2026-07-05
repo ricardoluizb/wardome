@@ -1,0 +1,29 @@
+{
+  "id": 31004,
+  "zone_id": 310,
+  "name": "Mnemosyne's Shop",
+  "description": "This is where Mnemosyne decided wait while the Titans depose Jupiter.\nAfter Mnemosyne builded a house here. Mnemosyne's son still living here\nand trade things to make money to live. \nExits goes Up and Down.",
+  "header_raw": "310 144 1",
+  "flags_text": "144",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 31005
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 31002
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/310.wld"
+}

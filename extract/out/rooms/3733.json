@@ -1,0 +1,21 @@
+{
+  "id": 3733,
+  "zone_id": 37,
+  "name": "&RThe &RF&rl&Ya&ym&Yi&rn&Rg T&rh&Yro&rn&Re&n",
+  "description": "You come in a large room, all is in fire!  , you see a huge throne in the\nmiddle of the room, in fire too!  , your skins burn when you approaches the\nroom!  Muhahaha, the huge flaming skeleton is standing up of the throne and is\ncoming to you, its best you flee from here.",
+  "header_raw": "37 77 2",
+  "flags_text": "77",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The chapel door is made of old bone.",
+      "keywords": "Bone_Door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 3704
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/37.wld"
+}

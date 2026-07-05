@@ -1,0 +1,34 @@
+{
+  "id": 9259,
+  "zone_id": 92,
+  "name": "Windy Tunnel",
+  "description": "A tunnel leads east.  To the west you can enter a portal. The wind in\nthis tunnel is quite fierce, it seems as if it's forced.",
+  "header_raw": "92 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9260
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9258
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "portal",
+      "description": "Through the portal you see nothing but sky."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/92.wld"
+}

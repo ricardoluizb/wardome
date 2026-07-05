@@ -1,0 +1,12 @@
+{
+  "id": 24535,
+  "alias": "captain chief",
+  "short_desc": "the chief captain",
+  "long_desc": "A former captain is here, fleeing divine wrath.",
+  "detailed_desc": "The chief captain is in rags. He blames his sins\non the king, who ordered him to commit atrocities.",
+  "flags_raw": "74 0 -400 E",
+  "stats1_raw": "130 -49 -12 1d1+5712 5d14+72",
+  "stats2_raw": "1950 7624337 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/245.mob"
+}

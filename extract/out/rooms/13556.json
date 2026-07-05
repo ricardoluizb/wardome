@@ -1,0 +1,42 @@
+{
+  "id": 13556,
+  "zone_id": 135,
+  "name": "A Stone Corridor",
+  "description": "You are in a circular tunnel of stone.  The walls are irregular and\npockmarked.  The tunnel continues east and west.",
+  "header_raw": "135 13 0",
+  "flags_text": "13",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see the beginning of a new, smoother tunnel.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13528
+    },
+    {
+      "dir": 2,
+      "description": "It seems you might be able to pry the fissure open.",
+      "keywords": "fissure",
+      "door_flag": 1,
+      "key": -1,
+      "to": 13527
+    },
+    {
+      "dir": 3,
+      "description": "You see the bone doorway leading towards the stomach cavern.",
+      "keywords": "door doors bone",
+      "door_flag": 1,
+      "key": 13518,
+      "to": 13526
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "walls",
+      "description": "A small fissure appears to be set in the south wall."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

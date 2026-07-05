@@ -4,9 +4,9 @@
   "short_desc": "the hieracosphinx",
   "long_desc": "A hieracosphinx looks at you cunningly.",
   "detailed_desc": "The hieracosphinx are cunning, small, but nasty creatures, having the heads\nof birds, mighty wingspans, and a full set of four paws to rend their victims\nto pieces.  They tend to be quite jealous of the sharper wits of their older\ncousins.",
-  "flags_raw": "efglnoq kkp -200 S",
-  "stats1_raw": "15 5 3 15d15+150 1d10+5",
-  "stats2_raw": "7500 21000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "92280 33792 -200 E",
+  "stats1_raw": "115 -37 -7 1d1+3216 5d12+46",
+  "stats2_raw": "1725 4352286 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/53.mob"
 }

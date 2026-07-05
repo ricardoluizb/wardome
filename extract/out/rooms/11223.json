@@ -1,0 +1,21 @@
+{
+  "id": 11223,
+  "zone_id": 112,
+  "name": "The Flawed Diamond",
+  "description": "Once a propserous jewellery store, this empty building now only contains\nsmashed and broken cases, the valuable gemstones long since stolen by\nmany rampagers and monsters. With no one to defend them, they were easy\npickings. The jeweller himself remains oblivious to all of this, seeming\nintent only on how awful the weather is...",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11222
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

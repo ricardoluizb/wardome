@@ -1,0 +1,21 @@
+{
+  "id": 26624,
+  "zone_id": 266,
+  "name": "Final",
+  "description": "You already know the basics of this mud. If you have some questions,\nfeel free to use the command 'chat' to ask something to the most\nexperienced players. You can also type 'help' and 'help TOPIC' to\nread useful informations. Continue killing the monsters here and \nthere. When you reach level 2, just say 'i am done' to begin to play\nin a more advanced zone.\nThe Wardome Gods and Imples hope that you have a good time with us.\n\nGrateful, someone.",
+  "header_raw": "266 1310720 0",
+  "flags_text": "1310720",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26623
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/266.wld"
+}

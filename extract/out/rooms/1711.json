@@ -1,0 +1,45 @@
+{
+  "id": 1711,
+  "zone_id": 16,
+  "name": "West side of the Centaur Clearing",
+  "description": "You are on the west side of the clearing in the center of the Centaur village.\nHuts surround the clearing on all sides, and beyond are towering firs.  The\nclearing continues to the east.  To the west is a very large hut.",
+  "header_raw": "16 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "There is a hut here.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1714
+    },
+    {
+      "dir": 1,
+      "description": "You see the east side of the clearing.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1710
+    },
+    {
+      "dir": 2,
+      "description": "There is a hut here.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1715
+    },
+    {
+      "dir": 3,
+      "description": "There is a hut here.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1716
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

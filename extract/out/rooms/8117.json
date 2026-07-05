@@ -1,0 +1,29 @@
+{
+  "id": 8117,
+  "zone_id": 81,
+  "name": "The Guard Headquarters",
+  "description": "This is where the men that guard Ofingia keep their dinner pails.  \nLook around! You may find a dagger, but most of the weapons are in\nuse.  Why would they leave them here while they were on patrol? And as \nfor finding money, don't bother! Only in Midgaard do foolish guards\nkeep 32000 gold coins where Pippin or any old thief can steal them.",
+  "header_raw": "81 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A red door leads north to the city hall.",
+      "keywords": "door red",
+      "door_flag": 2,
+      "key": 8109,
+      "to": 8123
+    },
+    {
+      "dir": 3,
+      "description": "A strong oak door leads west to the street outside.",
+      "keywords": "door strong oak",
+      "door_flag": 2,
+      "key": 8109,
+      "to": 8116
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

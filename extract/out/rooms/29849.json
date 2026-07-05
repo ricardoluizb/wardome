@@ -1,0 +1,29 @@
+{
+  "id": 29849,
+  "zone_id": 298,
+  "name": "The crypt",
+  "description": "Lit torches lines the walls of the crypt.  You can see a big throne at the end\nof the room.  A thick layer of dust covers the floor.  It looks like nobody\nhave been here for ages.  In the middle of the room you see a large stone chest\nwith arcane writings.",
+  "header_raw": "298 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29848
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "Trapdoor",
+      "door_flag": 1,
+      "key": 29808,
+      "to": 29850
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/298.wld"
+}

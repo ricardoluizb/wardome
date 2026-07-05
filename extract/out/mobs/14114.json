@@ -1,0 +1,12 @@
+{
+  "id": 14114,
+  "alias": "bard musician",
+  "short_desc": "the bard",
+  "long_desc": "A bard sits here strumming his mandolin.",
+  "detailed_desc": "The bard seems happy and content to play his mandolin.  He is a\nseeker of compassion, but in his spare time he sings and\ndances.",
+  "flags_raw": "8 1024 750 E",
+  "stats1_raw": "50 -7 1 1d1+1800 5d6+30",
+  "stats2_raw": "750 507177 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 3905,
+  "zone_id": 39,
+  "name": "The Nexus",
+  "description": "As you come walking from the south you find there are no walls close to you,\nyou are in a huge room with only columns separating the exits, the room has a\ndomed roof, with the dawn sky pained on it.  The corridor keeps it way straight\nahead and there are exits to both east and west now, you can also go back from\nwhere you came.",
+  "header_raw": "39 33 9",
+  "flags_text": "33",
+  "sector": 9,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3919
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3906
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3904
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3914
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/39.wld"
+}

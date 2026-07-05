@@ -4,9 +4,9 @@
   "short_desc": "Gwydion",
   "long_desc": "Gwydion the Royal Guard is here on duty.",
   "detailed_desc": "As all members of the Guard, Gwydion wears the chain mail required\nof them as uniform.  He seems very well trained, and moves like an\nexperienced fighter.",
-  "flags_raw": "abg 0 800 S",
-  "stats1_raw": "11 9 2 3d6+130 1d8+4",
-  "stats2_raw": "400 11000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "75 0 800 E",
+  "stats1_raw": "135 -47 -10 1d1+3780 5d14+54",
+  "stats2_raw": "2025 6908061 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/150.mob"
 }

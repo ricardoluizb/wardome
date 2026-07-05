@@ -1,0 +1,12 @@
+{
+  "id": 5762,
+  "alias": "ghoul",
+  "short_desc": "a Ghoul",
+  "long_desc": "Hidden among the corpses is a sadistic Ghoul!",
+  "detailed_desc": "This decaying corpse-like undead slashes at you with its filthy fingernails,\nattempting to slay and devour you!",
+  "flags_raw": "106 8200 -500 E",
+  "stats1_raw": "40 -22 -12 1d1+4632 5d13+126",
+  "stats2_raw": "600 398410 11",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

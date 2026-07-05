@@ -1,0 +1,37 @@
+{
+  "id": 6739,
+  "zone_id": 67,
+  "name": "A shaded lane",
+  "description": "The bent limbs of ash and oak trees lining the lane casts a pattern\nof dappled light on the ground, which shifts languidly back and forth\nin the breeze. To the west stands the old post office, and the lane\ncontinues north and south.",
+  "header_raw": "67 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6738
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6740
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6757
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

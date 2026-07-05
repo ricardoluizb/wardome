@@ -1,0 +1,29 @@
+{
+  "id": 2327,
+  "zone_id": 23,
+  "name": "The swampy path",
+  "description": "This damp path seems to lead into a deep, dark swamp. The trees above block\nout all light and stifle the wind. You smell swamp gas and hear damp squashing\nsounds all around you. The path leads east deeper into the swamp. You also see\na dark forest to the west.",
+  "header_raw": "23 13 3",
+  "flags_text": "13",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2328
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2305
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

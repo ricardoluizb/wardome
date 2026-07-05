@@ -1,0 +1,45 @@
+{
+  "id": 2213,
+  "zone_id": 22,
+  "name": "The Court",
+  "description": "You are continuing down the hall.  To the east and west you see ornate doors.",
+  "header_raw": "22 64 1",
+  "flags_text": "64",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the court.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2211
+    },
+    {
+      "dir": 1,
+      "description": "You see a black door.",
+      "keywords": "door black",
+      "door_flag": 1,
+      "key": 2240,
+      "to": 2214
+    },
+    {
+      "dir": 2,
+      "description": "You see the court.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2216
+    },
+    {
+      "dir": 3,
+      "description": "You see a white door.",
+      "keywords": "door white",
+      "door_flag": 1,
+      "key": 2233,
+      "to": 2215
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

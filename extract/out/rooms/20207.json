@@ -1,0 +1,29 @@
+{
+  "id": 20207,
+  "zone_id": 202,
+  "name": "The middle of a stairway",
+  "description": "You're resting on a long stairway.  The stairway is very very long, and you're\njust about in the middle.  You can see what must be the ceiling a long long way\nup.  You can also see the floor, a long, long way down.  Not much else to see\nreally...",
+  "header_raw": "202 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20208
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20206
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/202.wld"
+}

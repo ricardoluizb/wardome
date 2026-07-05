@@ -1,0 +1,12 @@
+{
+  "id": 11517,
+  "alias": "alley cat",
+  "short_desc": "the alley cat",
+  "long_desc": "An alley cat is looking for food.",
+  "detailed_desc": "This is an everyday unwanted alley cat who spends most of his day looking\nfor food.",
+  "flags_raw": "2248 0 200 E",
+  "stats1_raw": "30 1 2 1d1+1320 5d4+32",
+  "stats2_raw": "450 130339 2",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

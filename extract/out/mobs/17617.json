@@ -1,0 +1,12 @@
+{
+  "id": 17617,
+  "alias": "oldstyle citizen man",
+  "short_desc": "the citizen",
+  "long_desc": "A citizen is here, smiling at you.",
+  "detailed_desc": "The citizen smiles at you.  He is having a great day, and he wishes the same\nfor you.  He looks at you strangely, though, wondering why you are so armed and\narmored.",
+  "flags_raw": "136 0 500 E",
+  "stats1_raw": "20 10 7 1d1+414 5d3+8",
+  "stats2_raw": "300 37388 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/176.mob"
+}

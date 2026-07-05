@@ -1,0 +1,21 @@
+{
+  "id": 1115,
+  "zone_id": 11,
+  "name": "A smial",
+  "description": "You are inside a smial, a hole in the ground which serves as the proper\ndwelling place for halflings.  As you look around this private abode, you feel\nas if you were intruding and so quickly cover your eyes.  The only exit lies\nto the west.",
+  "header_raw": "11 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "The only exit lies to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1113
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

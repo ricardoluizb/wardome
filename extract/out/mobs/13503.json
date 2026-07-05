@@ -1,0 +1,12 @@
+{
+  "id": 13503,
+  "alias": "lazarus assassin physician",
+  "short_desc": "Lazarus",
+  "long_desc": "Lazarus, Assassin and Guild Physician, is here.",
+  "detailed_desc": "This master herbalist was found too valuable to the Guild as a maker\nof both soothing balms and poisons.  Even death could not release\nhim... the necromancers just reanimated him.",
+  "flags_raw": "10 128 -900 E",
+  "stats1_raw": "35 -15 -8 1d1+3492 5d7+104",
+  "stats2_raw": "525 262660 9",
+  "stats3_raw": "8 8 1 4 3",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/135.mob"
+}

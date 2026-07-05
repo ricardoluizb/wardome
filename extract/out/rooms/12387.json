@@ -1,0 +1,29 @@
+{
+  "id": 12387,
+  "zone_id": 122,
+  "name": "Niflheim",
+  "description": "The path here skirts a bottomless gorge that looms to the left, filled\npartially by searing flame, into which a multitude of sinners are thrust\nby tiny, grinning imps with pitchforks. The stench of burning flesh is\noverpowering, and threatens to induce nausea, though the sickening odor\nis overshadowed by the sight of bags of naked, screaming children, the\noffspring of the damned, being flung into pits of fire and trampled by\ngrinning fiery giants, who take a disturbing pride in their work.",
+  "header_raw": "122 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12384
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12388
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

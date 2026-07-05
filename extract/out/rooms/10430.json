@@ -1,0 +1,29 @@
+{
+  "id": 10430,
+  "zone_id": 104,
+  "name": "Skeleton Factory",
+  "description": "This is probably where they make all the skeletons for nightmares and\ngraveyards. The room is simply littered with bones. A poster on the\nwall reads, \"Remember ....the head bone is connected to the neck bone..\"\nThe poster continues on...but it seems to get very technical and boring..",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "It is too dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10420
+    },
+    {
+      "dir": 3,
+      "description": "It is too dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10429
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

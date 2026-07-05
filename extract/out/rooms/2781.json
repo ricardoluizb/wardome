@@ -1,0 +1,21 @@
+{
+  "id": 2781,
+  "zone_id": 27,
+  "name": "The Rangers Hall",
+  "description": "You are in a large hall.  Various plaques and paintings of long dead heroes of\nnature adorn the walls.  There are long tables here piled with food fresh from\nthe forest.  Rangers lounge here resting from their walks to who knows where.\nThis is a good place for rangers-in-training to make contacts and learn more\nabout their skills.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2780
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

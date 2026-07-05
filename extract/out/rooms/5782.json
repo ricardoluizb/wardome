@@ -1,0 +1,29 @@
+{
+  "id": 5782,
+  "zone_id": 57,
+  "name": "A Bend",
+  "description": "You have reached a bend in the passageway, where you can continue to the \nnorth or the east, depending on which way you were travelling. You can hear\nfaint laughter coming from the north.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a junction",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5783
+    },
+    {
+      "dir": 1,
+      "description": "entrance to a cave",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5780
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

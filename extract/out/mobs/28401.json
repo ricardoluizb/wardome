@@ -1,0 +1,12 @@
+{
+  "id": 28401,
+  "alias": "a Giant Shark",
+  "short_desc": "Giant Shark",
+  "long_desc": "Giant shark smells blood.",
+  "detailed_desc": "This fish can sense blood in the water and comes to kill you.",
+  "flags_raw": "8388616 0 0 E",
+  "stats1_raw": "80 -20 -2 1d1+2232 5d9+32",
+  "stats2_raw": "1200 1547212 0",
+  "stats3_raw": "8 8 0 -1 9",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/284.mob"
+}

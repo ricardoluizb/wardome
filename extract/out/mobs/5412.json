@@ -4,9 +4,9 @@
   "short_desc": "the banker",
   "long_desc": "A banker stands here waiting to help you.",
   "detailed_desc": "This small halfling seems adept at counting money.",
-  "flags_raw": "blno d 0 S",
-  "stats1_raw": "10 1 0 1d1+30000 3d6+2",
-  "stats2_raw": "1 0",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "26634 8 0 E",
+  "stats1_raw": "60 -10 1 1d1+1260 5d7+24",
+  "stats2_raw": "900 690938 0",
+  "stats3_raw": "8 8 1 -1 0",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

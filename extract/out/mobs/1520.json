@@ -1,12 +1,12 @@
 {
   "id": 1520,
   "alias": "baby innocent",
-  "short_desc": "the innocent baby",
+  "short_desc": "The innocent baby",
   "long_desc": "Lying on the ground wrapped in blankets is the most innocent of babies.",
   "detailed_desc": "The baby is barely aware of your presence, lost in a sleepy and\ncontented yawn.",
-  "flags_raw": "b dk 1000 S",
-  "stats1_raw": "22 -3 -4 5d10+150 4d6+4",
-  "stats2_raw": "20000 145000",
-  "stats3_raw": "4 4 1",
+  "flags_raw": "10 1032 1000 E",
+  "stats1_raw": "150 -67 -21 1d1+11400 5d31+120",
+  "stats2_raw": "2250 12495398 6",
+  "stats3_raw": "4 4 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/15.mob"
 }

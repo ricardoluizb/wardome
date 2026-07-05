@@ -1,0 +1,21 @@
+{
+  "id": 30517,
+  "zone_id": 305,
+  "name": "&BO Templo dos Drows&n",
+  "description": "&nVoce esta no templo da escuridao de Wardome.  Pouco iluminado por tochas.\nNas paredes ha' estranhas figuras, tracando historias de grandes batalhas entre\nElfos e Drows, as quais comecaram muitos seculos atras, e ainda acontecem\nhoje...  A razao de tanta\n  A saida a estrada dos templos e' ao norte.",
+  "header_raw": "305 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30507
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/305.wld"
+}

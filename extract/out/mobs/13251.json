@@ -1,0 +1,12 @@
+{
+  "id": 13251,
+  "alias": "Gringle shadow",
+  "short_desc": "Gringle",
+  "long_desc": "Something very large looms in the shadows.",
+  "detailed_desc": "You shine your light in the corner to expose Gringle, Head Assassin of the \nthief guild.  He is a shadow dragon who loves surprises.  In fact, chances are\nhe found you first.",
+  "flags_raw": "238 786568 -800 E",
+  "stats1_raw": "40 -16 -8 1d1+3672 5d9+96",
+  "stats2_raw": "600 325233 8",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

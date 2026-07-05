@@ -1,0 +1,29 @@
+{
+  "id": 13203,
+  "zone_id": 132,
+  "name": "A Mountain Road",
+  "description": "You see a city up ahead, your excitement turns to fear as you remember that\nthis legendary city has one of the best armies in the land.  Cloudy Mountain\nrises high into the clouds behind the city.",
+  "header_raw": "132 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a road",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13204
+    },
+    {
+      "dir": 3,
+      "description": "a road",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13202
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

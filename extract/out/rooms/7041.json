@@ -3,8 +3,8 @@
   "zone_id": 70,
   "name": "The Shaft",
   "description": "You are standing by the edge of a deep, dark shaft leading down.  A single\nladder is your tool to work your way down if you so wish.  The sewer pipe\nleads south from here.",
-  "header_raw": "70 ad 1",
-  "flags_text": "ad",
+  "header_raw": "70 9 1",
+  "flags_text": "9",
   "sector": 1,
   "exits": [
     {

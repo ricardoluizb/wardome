@@ -1,0 +1,29 @@
+{
+  "id": 9935,
+  "zone_id": 99,
+  "name": "Eaten to death.",
+  "description": "Boy, the smell of sulfur just keeps getting stronger - YUCK!  As if \nthat werent bad enough, there are about a hundred horribly disfigured \ncorpses laying here.  It looks as though the flesh was eaten off of \ntheir living bodies as they writhed in agony.  The stream of blood you \nwitnessed at the entrance is much larger here, apparently you are onto \nsomething.",
+  "header_raw": "99 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9936
+    },
+    {
+      "dir": 2,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9934
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

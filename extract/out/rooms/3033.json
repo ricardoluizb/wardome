@@ -2,9 +2,9 @@
   "id": 3033,
   "zone_id": 30,
   "name": "The Magic Shop",
-  "description": "Behind the counter you see various items, neatly placed in racks,\npresumably most of them are magic.",
-  "header_raw": "30 dh 0",
-  "flags_text": "dh",
+  "description": "This was once a place of great magic itens and wizards of great\npower. Now, it is only a room with no magic power at all and smelling\nsomething really bad.",
+  "header_raw": "30 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

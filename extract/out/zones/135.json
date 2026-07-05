@@ -1,0 +1,1034 @@
+{
+  "id": 135,
+  "name": "Ancalador/Necromancers' Guild",
+  "header": {
+    "raw": "13599 23 2 1 -1",
+    "min_room": 13599,
+    "top_room": 23,
+    "lifespan": 2,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13507,
+        1,
+        13500
+      ],
+      "comment": "(the hermit)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13500,
+        4,
+        1
+      ],
+      "comment": "(A Wild Valley)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13500,
+        4,
+        13527
+      ],
+      "comment": "(the putrid zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13500,
+        4,
+        13551
+      ],
+      "comment": "(the putrid zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13500,
+        4,
+        13551
+      ],
+      "comment": "(the putrid zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13500,
+        4,
+        13552
+      ],
+      "comment": "(the putrid zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13501,
+        3,
+        13554
+      ],
+      "comment": "(the deadly asp)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13501,
+        3,
+        13554
+      ],
+      "comment": "(the deadly asp)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13501,
+        3,
+        13554
+      ],
+      "comment": "(the deadly asp)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13502,
+        1,
+        13553
+      ],
+      "comment": "(Morticia)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13509,
+        2,
+        16
+      ],
+      "comment": "(the Heartseeker)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13510,
+        20,
+        11
+      ],
+      "comment": "(a scarab shield)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13503,
+        1,
+        13546
+      ],
+      "comment": "(Lazarus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13506,
+        10,
+        16
+      ],
+      "comment": "(a blowgun)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13504,
+        2,
+        13545
+      ],
+      "comment": "(the undead riding beetle)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13505,
+        6,
+        13548
+      ],
+      "comment": "(the wraith knight)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13500,
+        50,
+        16
+      ],
+      "comment": "(a falchion)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13505,
+        6,
+        13548
+      ],
+      "comment": "(the wraith knight)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13500,
+        50,
+        16
+      ],
+      "comment": "(a falchion)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13505,
+        6,
+        13549
+      ],
+      "comment": "(the wraith knight)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13500,
+        50,
+        16
+      ],
+      "comment": "(a falchion)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13505,
+        6,
+        13553
+      ],
+      "comment": "(the wraith knight)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13500,
+        50,
+        16
+      ],
+      "comment": "(a falchion)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13505,
+        6,
+        13553
+      ],
+      "comment": "(the wraith knight)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13500,
+        50,
+        16
+      ],
+      "comment": "(a falchion)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13505,
+        6,
+        13553
+      ],
+      "comment": "(the wraith knight)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13500,
+        50,
+        16
+      ],
+      "comment": "(a falchion)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13506,
+        1,
+        13554
+      ],
+      "comment": "(the Crypt Keeper)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13511,
+        2,
+        16
+      ],
+      "comment": "(the Mace of Undead Fred)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13508,
+        1,
+        17
+      ],
+      "comment": "(the Bloodstone)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13508,
+        2,
+        13503
+      ],
+      "comment": "(the green slime)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13508,
+        2,
+        13503
+      ],
+      "comment": "(the green slime)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13509,
+        2,
+        13508
+      ],
+      "comment": "(the flame dweller)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13509,
+        2,
+        13511
+      ],
+      "comment": "(the flame dweller)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13510,
+        5,
+        13517
+      ],
+      "comment": "(the green crystal spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13510,
+        5,
+        13519
+      ],
+      "comment": "(the green crystal spider)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13516,
+        5,
+        9
+      ],
+      "comment": "(a minstrel's glove)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13510,
+        5,
+        13521
+      ],
+      "comment": "(the green crystal spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13510,
+        5,
+        13523
+      ],
+      "comment": "(the green crystal spider)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13512,
+        7,
+        11
+      ],
+      "comment": "(an arsenal buckler)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        13513,
+        49,
+        13512
+      ],
+      "comment": "(a throwing knife)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        13513,
+        49,
+        13512
+      ],
+      "comment": "(a throwing knife)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        13513,
+        49,
+        13512
+      ],
+      "comment": "(a throwing knife)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        13513,
+        49,
+        13512
+      ],
+      "comment": "(a throwing knife)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        13513,
+        49,
+        13512
+      ],
+      "comment": "(a throwing knife)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        13513,
+        49,
+        13512
+      ],
+      "comment": "(a throwing knife)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        13513,
+        49,
+        13512
+      ],
+      "comment": "(a throwing knife)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13510,
+        5,
+        13525
+      ],
+      "comment": "(the green crystal spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13511,
+        5,
+        13518
+      ],
+      "comment": "(the yellow crystal spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13511,
+        5,
+        13520
+      ],
+      "comment": "(the yellow crystal spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13511,
+        5,
+        13522
+      ],
+      "comment": "(the yellow crystal spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13511,
+        5,
+        13525
+      ],
+      "comment": "(the yellow crystal spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13511,
+        5,
+        13523
+      ],
+      "comment": "(the yellow crystal spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13512,
+        1,
+        13526
+      ],
+      "comment": "(the Petrified Warden)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13515,
+        16,
+        16
+      ],
+      "comment": "(a guisarme)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13518,
+        1,
+        17
+      ],
+      "comment": "(a granite key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13513,
+        6,
+        13529
+      ],
+      "comment": "(the umber hulk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13513,
+        6,
+        13533
+      ],
+      "comment": "(the umber hulk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13513,
+        6,
+        13536
+      ],
+      "comment": "(the umber hulk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13513,
+        6,
+        13538
+      ],
+      "comment": "(the umber hulk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13513,
+        6,
+        13539
+      ],
+      "comment": "(the umber hulk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13513,
+        6,
+        13540
+      ],
+      "comment": "(the umber hulk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13514,
+        6,
+        13530
+      ],
+      "comment": "(the ochre jello)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13521,
+        5,
+        -1
+      ],
+      "comment": "(a rusty dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13514,
+        6,
+        13534
+      ],
+      "comment": "(the ochre jello)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13523,
+        2,
+        -1
+      ],
+      "comment": "(a large, shiny shield)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13514,
+        6,
+        13537
+      ],
+      "comment": "(the ochre jello)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13522,
+        20,
+        -1
+      ],
+      "comment": "(a puce potion)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13514,
+        6,
+        13538
+      ],
+      "comment": "(the ochre jello)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13527,
+        2,
+        -1
+      ],
+      "comment": "(a strange metal rod)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13514,
+        6,
+        13541
+      ],
+      "comment": "(the ochre jello)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13522,
+        20,
+        -1
+      ],
+      "comment": "(a puce potion)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13514,
+        6,
+        13541
+      ],
+      "comment": "(the ochre jello)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13517,
+        1,
+        -1
+      ],
+      "comment": "(some shabby mail)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13515,
+        3,
+        13548
+      ],
+      "comment": "(the Necromancer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13520,
+        15,
+        16
+      ],
+      "comment": "(a grave beater)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13501,
+        5,
+        -1
+      ],
+      "comment": "(a chalice)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13515,
+        3,
+        13551
+      ],
+      "comment": "(the Necromancer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13520,
+        15,
+        16
+      ],
+      "comment": "(a grave beater)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13505,
+        1,
+        17
+      ],
+      "comment": "(a skeleton key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13515,
+        3,
+        13552
+      ],
+      "comment": "(the Necromancer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13520,
+        15,
+        16
+      ],
+      "comment": "(a grave beater)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13519,
+        1,
+        -1
+      ],
+      "comment": "(the embalmed flesh)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        13502,
+        1,
+        13546
+      ],
+      "comment": "(the copper coffer)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        13503,
+        20,
+        13502
+      ],
+      "comment": "(a tonic of comfrey root)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        13504,
+        20,
+        13502
+      ],
+      "comment": "(an elixir of Adder's Tongue)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        13507,
+        1,
+        13551
+      ],
+      "comment": "(the pool)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        13514,
+        1,
+        13523
+      ],
+      "comment": "(the pile)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        13521,
+        5,
+        13514
+      ],
+      "comment": "(a rusty dagger)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        13524,
+        9,
+        13514
+      ],
+      "comment": "(a green torch)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        13525,
+        5,
+        13514
+      ],
+      "comment": "(a silver helm)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        13526,
+        5,
+        13514
+      ],
+      "comment": "(a rotted leather jacket)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13526,
+        1,
+        2
+      ],
+      "comment": "(The End Of The Stomach)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13556,
+        3,
+        2
+      ],
+      "comment": "(A Stone Corridor)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13527,
+        0,
+        1
+      ],
+      "comment": "(The Dragon's Pancreas)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13556,
+        2,
+        1
+      ],
+      "comment": "(A Stone Corridor)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13552,
+        3,
+        1
+      ],
+      "comment": "(The Guildhall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13553,
+        1,
+        1
+      ],
+      "comment": "(The Altar Of Annihilation)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13547,
+        1,
+        1
+      ],
+      "comment": "(The Macabre Amphitheather)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13546,
+        3,
+        1
+      ],
+      "comment": "(The Private Chambers)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13553,
+        5,
+        2
+      ],
+      "comment": "(The Altar Of Annihilation)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13554,
+        4,
+        2
+      ],
+      "comment": "(The Darken Pit)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/135.zon"
+}

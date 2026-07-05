@@ -1,0 +1,21 @@
+{
+  "id": 6775,
+  "zone_id": 67,
+  "name": "A cliffhanging home",
+  "description": "Quaint cobblestone and mortar walls enclose you, creating a quiet\natmosphere. This is home now to only a few small mice, but it appears\nthat it could be a comforatble place to live, with a little work.\nAnd enough gold. Perhaps it may be bought from one of the gods of the\nrealm.",
+  "header_raw": "67 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6769
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

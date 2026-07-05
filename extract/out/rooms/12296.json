@@ -1,0 +1,29 @@
+{
+  "id": 12296,
+  "zone_id": 122,
+  "name": "A Stairway to...",
+  "description": "A small stair heads up to a trapdoor here, opening onto the roof of\nValaskialf and whatever it quarters. Magical forces here prevent the\ntrapdoor remaining open, and thus protect the interior from the elements.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12299
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "trapdoor",
+      "door_flag": 1,
+      "key": 0,
+      "to": 12295
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

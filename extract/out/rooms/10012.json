@@ -1,0 +1,45 @@
+{
+  "id": 10012,
+  "zone_id": 100,
+  "name": "Echoing Hallway",
+  "description": "This long, gothic hallway runs north and south through the center of this\nwicked place.  The ceiling, domed and sculptured rises high above you head,\nnearly out of sight.  A small oak door lies off to you east, and wide archway\nopens to the west.",
+  "header_raw": "100 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10013
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 10024
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10011
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10020
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/100.wld"
+}

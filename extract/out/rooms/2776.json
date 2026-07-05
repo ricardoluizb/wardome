@@ -1,0 +1,21 @@
+{
+  "id": 2776,
+  "zone_id": 27,
+  "name": "The Acro parlour",
+  "description": "You stand in a huge circular room.  Surrounding you are numerous wooden benches\noccupied by hobbits and strange-looking humans.  All of them seem to be paying\nattention to a really fat hobbit lad standing alone in the middle of the hall.\nOn the walls are pictures of past Acro champions and a list of scheduled games.\nWelcome to the Acro hall!  A huge chalkboard is attached to the door you might\nbe able to learn a thing or two by reading it.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2774
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

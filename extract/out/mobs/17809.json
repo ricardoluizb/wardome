@@ -1,0 +1,12 @@
+{
+  "id": 17809,
+  "alias": "rat large",
+  "short_desc": "a large rat",
+  "long_desc": "A large rat runs up to you and nibbles on your boots.",
+  "detailed_desc": "You have the urge to kill this vile creature.",
+  "flags_raw": "12 0 -200 E",
+  "stats1_raw": "43 -1 3 1d1+900 5d5+16",
+  "stats2_raw": "645 276818 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/178.mob"
+}

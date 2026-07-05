@@ -1,0 +1,12 @@
+{
+  "id": 13245,
+  "alias": "Drakknar",
+  "short_desc": "Drakknar",
+  "long_desc": "The Great Cloud Dragon, Drakknar, towers above you.",
+  "detailed_desc": "He is a pure dragon, and doesn't like other races, especially humans.  However\nhe is a great politician, and it is he that prevents the two halves of the \ncity from destroying each other.",
+  "flags_raw": "8202 168 0 E",
+  "stats1_raw": "35 -13 -7 1d1+3216 5d7+94",
+  "stats2_raw": "525 227412 8",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

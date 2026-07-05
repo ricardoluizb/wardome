@@ -1,0 +1,12 @@
+{
+  "id": 1004,
+  "alias": "priest man",
+  "short_desc": "the man",
+  "long_desc": "A man, dressed in black and silver robes, is fighting off some undead!",
+  "detailed_desc": "This man is wearing a black and silver robe and is swinging a mace made\nof what looks to be obsidian.  He seems to be sorely beset by the undead\nbefore him.",
+  "flags_raw": "170 136 -750 E",
+  "stats1_raw": "80 -40 -17 1d1+8640 5d25+132",
+  "stats2_raw": "1200 2995403 10",
+  "stats3_raw": "8 8 1 1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/10.mob"
+}

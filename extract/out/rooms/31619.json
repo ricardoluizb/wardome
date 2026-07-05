@@ -1,0 +1,21 @@
+{
+  "id": 31619,
+  "zone_id": 316,
+  "name": "Bathroom",
+  "description": "Where all the residents make your needs.",
+  "header_raw": "316 64 0",
+  "flags_text": "64",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 31614
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/316.wld"
+}

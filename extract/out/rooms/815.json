@@ -1,0 +1,29 @@
+{
+  "id": 815,
+  "zone_id": 7,
+  "name": "Second Trial",
+  "description": "Here are two doors, north and east.  The door you came through is\ngone like chaff in the wind.  There's no clue as to which door is the\ncorrect one to exit by, and you wonder if this is merely a test of\nguess.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "north",
+      "door_flag": 1,
+      "key": -1,
+      "to": 817
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "east",
+      "door_flag": 1,
+      "key": -1,
+      "to": 816
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 13514,
+  "alias": "jello ochre",
+  "short_desc": "the ochre jello",
+  "long_desc": "A hideous ochre jello approaches.",
+  "detailed_desc": "As it oozes slowly at you, you can make out items undigested within\nit.  From past unfortunates, you presume.",
+  "flags_raw": "40 0 -700 E",
+  "stats1_raw": "25 -10 -7 1d1+2496 5d5+100",
+  "stats2_raw": "375 98889 9",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/135.mob"
+}

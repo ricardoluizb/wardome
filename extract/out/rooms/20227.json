@@ -1,0 +1,37 @@
+{
+  "id": 20227,
+  "zone_id": 202,
+  "name": "A battle-stricken street",
+  "description": "All along this cobbled road is the gore of recent battle.  This part of town\nwas clearly in the thick of the fighting.  The grass along the sides of the\nroad was probably once very nice, but has now been trampled under the harsh\nfeet of war.  A small house sits to the west, and a tent is to the east.",
+  "header_raw": "202 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20229
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20228
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20225
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/202.wld"
+}

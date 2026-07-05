@@ -1,0 +1,29 @@
+{
+  "id": 2365,
+  "zone_id": 23,
+  "name": "The city streets of Mahn-Tor",
+  "description": "You trudge among the icy streets of Mahn-Tor. The streets themselves are made\nof cobblestone and are quite treacherous. Small homes and businesses along\nthe street are closed tight and light from their windows throws eerie shadows\nacross the dark street. Small streets lead west and south here.",
+  "header_raw": "23 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2368
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2364
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

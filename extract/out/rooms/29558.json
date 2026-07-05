@@ -1,0 +1,45 @@
+{
+  "id": 29558,
+  "zone_id": 295,
+  "name": "The Front Line",
+  "description": "You are on the front line, in the midst of the field that has hosted the\nbulk of the senseless conflict between Achaean and Trojan. The blood of\nthousands slain on both sides has soaked into the soil here, and there are\nweapons, armor and bones littered all about here.",
+  "header_raw": "295 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29565
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29561
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29556
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29560
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/295.wld"
+}

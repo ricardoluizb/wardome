@@ -1,0 +1,37 @@
+{
+  "id": 6923,
+  "zone_id": 69,
+  "name": "A Room in the House",
+  "description": "This is just a plain old room in this awful house, which doesn't attract\nmuch of your attention.  There are sheets draped over the furniture in this\nroom, just like all of the rooms.  To the west you can just make out a\nstaircase leading up, and to the east the back door is seen.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6921
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6922
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6924
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

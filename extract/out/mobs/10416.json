@@ -1,0 +1,12 @@
+{
+  "id": 10416,
+  "alias": "gold bar",
+  "short_desc": "&yThe &YGold &wbar&n",
+  "long_desc": "A shiny gold bar lies on the ground.",
+  "detailed_desc": "This gold bar must be worth bucks!",
+  "flags_raw": "8202 1082131592 0 E",
+  "stats1_raw": "80 -22 -3 1d1+2880 5d9+42",
+  "stats2_raw": "1200 1878758 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/104.mob"
+}

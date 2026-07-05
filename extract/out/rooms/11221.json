@@ -1,0 +1,21 @@
+{
+  "id": 11221,
+  "zone_id": 112,
+  "name": "The Footman's Pike",
+  "description": "This weaponsmith has been thoroughly looted and trashed, whatever force\nthat did it taking advantage of the poor mental state of the townsfolk and\nthe absence of any obvious security. Broken and smashed weapons of all\nsorts litter the bloodsoaked floor, along with several corpses of giant\nrats, goblins and even a large toad. What odd findings in a suburban\nresidental area!",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11219
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

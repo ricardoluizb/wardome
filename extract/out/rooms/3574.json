@@ -3,8 +3,8 @@
   "zone_id": 35,
   "name": "The Woodsman Inn",
   "description": "You are in the common room of the Woodsman Inn.  A thin haze of smoke\nsits in the air here.  The Inn is often empty, as the forest has become\noverrun by goblins as of late, and it is no longer safe in these parts.\nThe bar is just north of here.  If you'd rather have your own table, one\nis empty to the south.",
-  "header_raw": "35 cd 1",
-  "flags_text": "cd",
+  "header_raw": "35 12 1",
+  "flags_text": "12",
   "sector": 1,
   "exits": [
     {

@@ -1,0 +1,29 @@
+{
+  "id": 30055,
+  "zone_id": 300,
+  "name": "Lighthouse bottom",
+  "description": "The lower level and entrance of the lighthouse.  The concrete floor and dull\nmetal walls hardly make the lighthouse look exciting.  A spiral staircase of\nmetal steps leads up..  And up..  And up.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 30031
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30056
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

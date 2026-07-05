@@ -1,0 +1,37 @@
+{
+  "id": 13229,
+  "zone_id": 132,
+  "name": "The Court",
+  "description": "The homes appear to be more friendly and elegant in this section.  The \ncourt continues north, south, and west.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "the court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13232
+    },
+    {
+      "dir": 2,
+      "description": "the court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13226
+    },
+    {
+      "dir": 3,
+      "description": "the court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13228
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

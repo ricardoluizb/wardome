@@ -1,0 +1,45 @@
+{
+  "id": 3811,
+  "zone_id": 38,
+  "name": "Beneath the Old Stairway",
+  "description": "You are beneath the old stairway.  It reeks of dead meat and fecal matter here,\nand the combined darkness makes this place quite forbidding.  Small rooms can\nbe seen in the west and east, and a hallway leads north.  Unlit torches adorn\nthe walls.",
+  "header_raw": "38 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3812
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3816
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3815
+    },
+    {
+      "dir": 4,
+      "description": "You see the relative safety of the upper floor.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3804
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

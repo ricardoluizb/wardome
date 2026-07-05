@@ -1,0 +1,21 @@
+{
+  "id": 6945,
+  "zone_id": 69,
+  "name": "The Room of the Golden Lance",
+  "description": "You are in a room with a golden lance sticking up in the middle of it.  The\nweapon looks rather nice, and would do you greatly.  Pick it up and get out of\nhere fast.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "golden gates",
+      "door_flag": 2,
+      "key": 6907,
+      "to": 6920
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

@@ -1,0 +1,61 @@
+{
+  "id": 9516,
+  "zone_id": 95,
+  "name": "Don't really know",
+  "description": "You are in the second part of the maze of Dts, the exits to north, east, \nup, down, south, west are completely dark. You have no idea of\nwhere you are standing. This is the part of Charism, you'll have to\npass three rooms, then the Great Avatar of Charism, and in the end, the\nthird part Guardian of the Maze of Dts.",
+  "header_raw": "95 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9515
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9524
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9524
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9524
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9524
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9517
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/95.wld"
+}

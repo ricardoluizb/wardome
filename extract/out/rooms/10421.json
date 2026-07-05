@@ -1,0 +1,29 @@
+{
+  "id": 10421,
+  "zone_id": 104,
+  "name": "Bloody Stairway.",
+  "description": "You are standing on a very slippy stairway. The walls and stairs are\ncovered with blood and gore. Pieces of goo and ooze drip from the\nceiling overhead. You almost slip a couple times on the stairway.\nThe stench here is overwhelming.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "It is too dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10409
+    },
+    {
+      "dir": 5,
+      "description": "It is too dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10431
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

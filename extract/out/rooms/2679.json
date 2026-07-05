@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Library",
   "description": "You are in a small cosy looking library.  A few well made books sit atop\nshelves which span every wall.  A large oaken writing table is in the center\nof the room with odd papers and parchments on it.  The illumination here,\nto your surprise is a quite un-magical oil lamp.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

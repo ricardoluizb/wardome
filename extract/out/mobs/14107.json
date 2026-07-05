@@ -1,0 +1,12 @@
+{
+  "id": 14107,
+  "alias": "spider",
+  "short_desc": "the giant spider",
+  "long_desc": "The giant spider sits on its web.",
+  "detailed_desc": "This scavenger has seemed to collected many things, including\nbooks, scrolls, and other scraps.  His glistening teeth drip with\npoison.",
+  "flags_raw": "2094 1024 -1000 E",
+  "stats1_raw": "40 -2 2 1d1+1440 5d5+26",
+  "stats2_raw": "600 276448 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

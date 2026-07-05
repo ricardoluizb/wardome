@@ -4,9 +4,9 @@
   "short_desc": "Elstar",
   "long_desc": "An elven wizard is here.  He looks angry.",
   "detailed_desc": "He looks at you archly as he wonders why you have\ninvaded his domain.  No matter... it shouldn't be\ntoo hard for him to destroy you, no?",
-  "flags_raw": "bfl dk -1000 S",
-  "stats1_raw": "15 6 -75 3d5+183 2d8+2",
-  "stats2_raw": "10000 21000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "2090 1032 -1000 E",
+  "stats1_raw": "105 -32 -5 1d1+2940 5d11+42",
+  "stats2_raw": "1575 3688326 0",
+  "stats3_raw": "8 8 1 0 3",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/62.mob"
 }

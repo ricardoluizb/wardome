@@ -1,0 +1,21 @@
+{
+  "id": 6702,
+  "zone_id": 67,
+  "name": "The alms room",
+  "description": "Murals of black and gold adorn the walls in swirling patterns,\nwithin which are outlined several dark silhouettes. Under some\nscrutiny you can trace a basilisk, a chimera, and a dragon\ncircling a deity, a dusty red cloak about her neck. \nHomage and sacrifice to this human deity are paid here by the\nother citizens of the realm.",
+  "header_raw": "67 28 0",
+  "flags_text": "28",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6701
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 11209,
+  "alias": "dazed villager",
+  "short_desc": "a dazed villager",
+  "long_desc": "A dazed villager stumbles along.",
+  "detailed_desc": "This poor soul appears to have no willpower left. He shuffles along\noblivious to his surroundings.",
+  "flags_raw": "72 0 -200 E",
+  "stats1_raw": "35 -15 -8 1d1+3492 5d7+104",
+  "stats2_raw": "525 238782 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

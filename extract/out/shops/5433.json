@@ -4,10 +4,10 @@
   "profit_buy": 1.1,
   "profit_sell": 1.0,
   "buy_types": [
-    "SCROLL",
-    "WAND",
-    "STAFF",
-    "TREASURE"
+    "2",
+    "3",
+    "4",
+    "8"
   ],
   "messages": [
     "%s Don't have one, but I think I might be able to find one...",
@@ -72,7 +72,7 @@
     5460,
     5461,
     5462,
-    5463,
+    6563,
     5464,
     -1,
     0,
@@ -80,5 +80,5 @@
     0,
     0
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/shp/54.shp"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/54.shp"
 }

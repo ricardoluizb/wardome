@@ -1,0 +1,29 @@
+{
+  "id": 14121,
+  "zone_id": 141,
+  "name": "Library Office",
+  "description": "A big desk dominates this room.  All books must go through this\noffice before getting taken out.  Through this office, and\nthrough this man.",
+  "header_raw": "141 72 0",
+  "flags_text": "72",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14120
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14122
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

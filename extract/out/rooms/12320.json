@@ -1,0 +1,29 @@
+{
+  "id": 12320,
+  "zone_id": 122,
+  "name": "The Hall of Forseti",
+  "description": "You stride into the protective shelter of a hall that appears to be\ncomposed entirely of gold and other precious metals; the effect is quite\ndazzling and you blink in disbelief. All this gold! So little time to\ntry and steal it... Shaking yourself free of such delusions, you peer about\nand note the many representations of Law and Order, and realize that the\nowner of this mighty hall is undoubtedly of honorable mein and equally\nundoubtedly quite capable of preventing vandalism or theft of his wealth.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12213
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12321
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

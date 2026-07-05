@@ -1,10 +1,10 @@
 {
   "id": 7339,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "The North-Western Part Of The Basilisk's Cave",
   "description": "You can see some hay spread on the floor.  The smell is awful here, and it\nmakes you feel sick.  This place where the Basilisk sleeps.  Watch out...\nmaybe it is not far from here...",
-  "header_raw": "73 ad 2",
-  "flags_text": "ad",
+  "header_raw": "72 9 2",
+  "flags_text": "9",
   "sector": 2,
   "exits": [
     {

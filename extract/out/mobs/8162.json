@@ -1,0 +1,12 @@
+{
+  "id": 8162,
+  "alias": "ogre",
+  "short_desc": "the ogre",
+  "long_desc": "A large ogre trudges about, pushing boulders that must weigh tons.",
+  "detailed_desc": "He looks very strong.",
+  "flags_raw": "6346 1024 -900 E",
+  "stats1_raw": "167 -85 -31 1d1+19368 5d49+176",
+  "stats2_raw": "2505 22401156 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

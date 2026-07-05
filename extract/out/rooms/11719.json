@@ -1,0 +1,29 @@
+{
+  "id": 11719,
+  "zone_id": 117,
+  "name": "The right cemetery corner.",
+  "description": "This is another room on the cemetary.  Just like the others this place stinks\ndead corpses and no one can stand here longer because of the smell.  You can\nsee a lot of tumbs along the floor.  To the west you can see the central\ncemetary.",
+  "header_raw": "117 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11718
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/117.wld"
+}

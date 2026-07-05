@@ -1,0 +1,37 @@
+{
+  "id": 5814,
+  "zone_id": 57,
+  "name": "A Hole in the Wall",
+  "description": "You are passing by a hole in the north wall in this east west passageway.\nYou can feel a strangely warm breeze blowing from this direction. You can\nenter if you wish, or proceed east or west. A junction lies to the east,\nwhile to the west the passage bends sharply to the south.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "a junction",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5820
+    },
+    {
+      "dir": 3,
+      "description": "a bend",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5813
+    },
+    {
+      "dir": 5,
+      "description": "a creepy room",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5823
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

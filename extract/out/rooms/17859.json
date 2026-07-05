@@ -1,0 +1,29 @@
+{
+  "id": 17859,
+  "zone_id": 178,
+  "name": "The Clearing",
+  "description": "Your progress is suddenly stopped by mountains on all sides.  The path leads\nback to the west, and there appears to be an old mine shaft to the north.",
+  "header_raw": "178 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a mine shaft.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17860
+    },
+    {
+      "dir": 3,
+      "description": "You see a path.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17858
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

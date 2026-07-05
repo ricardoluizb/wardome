@@ -1,10 +1,10 @@
 {
   "id": 6545,
-  "zone_id": 54,
+  "zone_id": 65,
   "name": "The Coal Room",
   "description": "You are inside the storage area for the raw materials that are\nfound down here.  The room is very unsturdy as the supports are\nvery rickety.",
-  "header_raw": "54 ad 0",
-  "flags_text": "ad",
+  "header_raw": "65 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

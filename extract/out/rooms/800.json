@@ -1,0 +1,29 @@
+{
+  "id": 800,
+  "zone_id": 7,
+  "name": "Entrance to the Blue Trials",
+  "description": "You enter the musty area beneath the blue temple and stop in awe.\nThe stonework here is simply incredible--a combination of dwarven\nstonemanship and elven artistry.  On the wall there is an inscription:\n\n'Only those who brave the elder beasts may arrive safely at the orb.'\n\n   There is a door to the east.",
+  "header_raw": "7 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 801
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 703
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

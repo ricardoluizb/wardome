@@ -1,0 +1,37 @@
+{
+  "id": 6839,
+  "zone_id": 67,
+  "name": "Trudging through a pool of slime",
+  "description": "The dark passage slopes into a pool of drainage from the roads of\ntown, seeping in through cracks above you and wetting your hair\nwith slime. There is an eerie feeling about this place, as if only\nthe few and priviledged are welcome here.",
+  "header_raw": "67 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6840
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6838
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6845
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

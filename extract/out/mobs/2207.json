@@ -1,0 +1,12 @@
+{
+  "id": 2207,
+  "alias": "oldstyle bodyguard draconian",
+  "short_desc": "a bodyguard",
+  "long_desc": "A bodyguard is here, staring at you menacingly.",
+  "detailed_desc": "This creature has devoted its life to defending the king.  Your intrusion has\nnot pleased it.",
+  "flags_raw": "6186 8389804 -800 E",
+  "stats1_raw": "170 -81 -27 1d1+15636 5d35+148",
+  "stats2_raw": "2550 19259032 8",
+  "stats3_raw": "8 8 1 -1 21",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/22.mob"
+}

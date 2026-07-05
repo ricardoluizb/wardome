@@ -1,0 +1,12 @@
+{
+  "id": 14100,
+  "alias": "insects swarm bugs",
+  "short_desc": "the insects",
+  "long_desc": "You hear buzzing, and see a swarm of insects flying at you.",
+  "detailed_desc": "These insects are more of an annoyance than a threat.  It is made\nup of hundreds of annoying insects.",
+  "flags_raw": "4138 67109888 -200 E",
+  "stats1_raw": "5 16 7 1d1+180 5d1+12",
+  "stats2_raw": "75 2005 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

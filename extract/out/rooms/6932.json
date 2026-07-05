@@ -1,0 +1,37 @@
+{
+  "id": 6932,
+  "zone_id": 69,
+  "name": "At the Bookshelf",
+  "description": "You are now in a room with a bookshelf at the northern wall.  The bookshelf\ncontains very old books, which look to be ruined from the affects of time.  \nThere is a door to the east, which is probably a closet.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "bookshelf",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6934
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "closet door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6933
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6921
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

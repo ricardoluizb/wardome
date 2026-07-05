@@ -1,0 +1,564 @@
+{
+  "id": 220,
+  "name": "The Infernal Pit of Kerjim",
+  "header": {
+    "raw": "22060 60 2 17 -1",
+    "min_room": 22060,
+    "top_room": 60,
+    "lifespan": 2,
+    "reset_mode": 17
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22005,
+        1,
+        22007
+      ],
+      "comment": "(Kerjim)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        22000,
+        15,
+        16
+      ],
+      "comment": "(&wthe &rGothic &WKris&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        22002,
+        15,
+        5
+      ],
+      "comment": "(&wa set of &WGlowing &YArmplates&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        22000,
+        4,
+        1
+      ],
+      "comment": "(The pit of Kerjim)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22008,
+        20,
+        22059
+      ],
+      "comment": "(a large balrog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22008,
+        20,
+        22059
+      ],
+      "comment": "(a large balrog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22006,
+        1,
+        22059
+      ],
+      "comment": "(Lilith)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        22001,
+        1,
+        6
+      ],
+      "comment": "(&wan &GE&gm&Ge&gr&Ga&gl&Gd &WCrown&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        22003,
+        1,
+        13
+      ],
+      "comment": "(&wa &WJeweled &YBelt&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        22059,
+        2,
+        1
+      ],
+      "comment": "(The temple of Lilith)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22008,
+        20,
+        22043
+      ],
+      "comment": "(a large balrog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22008,
+        20,
+        22043
+      ],
+      "comment": "(a large balrog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22004,
+        15,
+        22038
+      ],
+      "comment": "(a human slave)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22004,
+        15,
+        22038
+      ],
+      "comment": "(a human slave)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22004,
+        15,
+        22036
+      ],
+      "comment": "(a human slave)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22004,
+        15,
+        22036
+      ],
+      "comment": "(a human slave)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22007,
+        10,
+        22029
+      ],
+      "comment": "(the corpse)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        22004,
+        15,
+        16
+      ],
+      "comment": "(&ra &RD&reath &RS&rpear&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22007,
+        10,
+        22029
+      ],
+      "comment": "(the corpse)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        22004,
+        15,
+        16
+      ],
+      "comment": "(&ra &RD&reath &RS&rpear&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22003,
+        30,
+        22024
+      ],
+      "comment": "(a medium balrog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22000,
+        30,
+        22024
+      ],
+      "comment": "(a small balrog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22008,
+        10,
+        22022
+      ],
+      "comment": "(a large balrog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22001,
+        10,
+        22022
+      ],
+      "comment": "(the Elder Balrog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22000,
+        30,
+        22019
+      ],
+      "comment": "(a small balrog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22003,
+        30,
+        22019
+      ],
+      "comment": "(a medium balrog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22000,
+        30,
+        22017
+      ],
+      "comment": "(a small balrog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22000,
+        30,
+        22017
+      ],
+      "comment": "(a small balrog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22003,
+        30,
+        22013
+      ],
+      "comment": "(a medium balrog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22003,
+        30,
+        22013
+      ],
+      "comment": "(a medium balrog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22003,
+        30,
+        22012
+      ],
+      "comment": "(a medium balrog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22003,
+        30,
+        22012
+      ],
+      "comment": "(a medium balrog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22000,
+        30,
+        22008
+      ],
+      "comment": "(a small balrog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22000,
+        30,
+        22008
+      ],
+      "comment": "(a small balrog)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        22008,
+        2,
+        1
+      ],
+      "comment": "(A cavern)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22003,
+        30,
+        22006
+      ],
+      "comment": "(a medium balrog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22003,
+        30,
+        22006
+      ],
+      "comment": "(a medium balrog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22000,
+        30,
+        22004
+      ],
+      "comment": "(a small balrog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22000,
+        30,
+        22004
+      ],
+      "comment": "(a small balrog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22000,
+        30,
+        22003
+      ],
+      "comment": "(a small balrog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22000,
+        30,
+        22003
+      ],
+      "comment": "(a small balrog)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        22030,
+        0,
+        1
+      ],
+      "comment": "(A secret chamber)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        22035,
+        2,
+        1
+      ],
+      "comment": "(The maze of Kerjim)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        22058,
+        0,
+        1
+      ],
+      "comment": "(At the door)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22004,
+        15,
+        22044
+      ],
+      "comment": "(a human slave)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22004,
+        15,
+        22044
+      ],
+      "comment": "(a human slave)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22004,
+        15,
+        22044
+      ],
+      "comment": "(a human slave)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22004,
+        15,
+        22042
+      ],
+      "comment": "(a human slave)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22004,
+        15,
+        22042
+      ],
+      "comment": "(a human slave)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22004,
+        15,
+        22040
+      ],
+      "comment": "(a human slave)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22004,
+        15,
+        22039
+      ],
+      "comment": "(a human slave)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22004,
+        15,
+        22039
+      ],
+      "comment": "(a human slave)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22002,
+        2,
+        22020
+      ],
+      "comment": "(the Grand Balrog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22002,
+        2,
+        22020
+      ],
+      "comment": "(the Grand Balrog)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        22026,
+        0,
+        1
+      ],
+      "comment": "(The end of the path)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/220.zon"
+}

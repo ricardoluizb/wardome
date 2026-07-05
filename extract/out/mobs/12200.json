@@ -1,0 +1,12 @@
+{
+  "id": 12200,
+  "alias": "heimdall",
+  "short_desc": "Heimdall",
+  "long_desc": "A towering guardian clad in brilliant white armor stands guarding Bifrost.",
+  "detailed_desc": "Sworn guardian of Bifrost, the rainbow bridge, Heimdall is stalwart,\nloyal and brave to a fault. Nothing save his utter destruction will\ncause him to forsake his sworn duty.",
+  "flags_raw": "10 8236 -1000 E",
+  "stats1_raw": "10 7 2 1d1+600 5d2+44",
+  "stats2_raw": "150 9070 4",
+  "stats3_raw": "8 8 1 3 6",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/122.mob"
+}

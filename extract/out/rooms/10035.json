@@ -1,0 +1,29 @@
+{
+  "id": 10035,
+  "zone_id": 100,
+  "name": "Dark Dripping Hallway",
+  "description": "This narrow hallway smells of mold and mildew.  There seems to be an end to\nthe hallway just south of here.  There is a heavy iron bound door at the hall's\nend.",
+  "header_raw": "100 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10036
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10034
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/100.wld"
+}

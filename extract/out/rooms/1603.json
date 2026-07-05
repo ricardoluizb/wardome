@@ -1,0 +1,29 @@
+{
+  "id": 1603,
+  "zone_id": 16,
+  "name": "Path through an Open Area",
+  "description": "You are on a path through an open area. East of here loom two tall towers,\njoined by a barbican and surrounded by a murky moat. West the path passes\nbetween low hills.",
+  "header_raw": "16 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Two fantastic towers surrounded by a moat rise before you.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1604
+    },
+    {
+      "dir": 3,
+      "description": "The road continues.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1602
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

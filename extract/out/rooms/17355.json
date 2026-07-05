@@ -1,0 +1,50 @@
+{
+  "id": 17355,
+  "zone_id": 173,
+  "name": "Squire's Run at the North Gate",
+  "description": "You stand on Squire's run. A steady stream of traffic is coming and going \nto the south, where the squire's barracks is. To the north is the Great \nNorthern Gate of Camelot. Squire's run continues to the west, and the \nTourney Yard of Camelot is to the west. At your feet sits a beggar holding \na cup.",
+  "header_raw": "173 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The Great Northern Gate of Camelot",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17356
+    },
+    {
+      "dir": 1,
+      "description": "Tourney Yard of Camelot",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17362
+    },
+    {
+      "dir": 2,
+      "description": "Squire's Barracks",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17357
+    },
+    {
+      "dir": 3,
+      "description": "Squire's Run",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17350
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "beggar cup",
+      "description": "You toss a coin to the beggar. He smiles at you and whispers \"Beware of \nSir Garlon, the Invisible Knight in the area outside the west gate\". \nWith a groan and a grovel the beggar shuffles off to the discard pile."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

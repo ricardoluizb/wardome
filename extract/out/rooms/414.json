@@ -1,0 +1,21 @@
+{
+  "id": 414,
+  "zone_id": 4,
+  "name": "Locky's Place",
+  "description": "You are in a indescribable place, but you know, if you are here...\nLocky likes you.",
+  "header_raw": "4 2560 0",
+  "flags_text": "2560",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 406
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/4.wld"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2206,
+  "zone_id": 22,
+  "name": "Storage Room",
+  "description": "This room is covered with dust, it looks as if no one has been here in ages.",
+  "header_raw": "22 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see the hallway.",
+      "keywords": "",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2204
+    },
+    {
+      "dir": 5,
+      "description": "You see nothing special.",
+      "keywords": "trapdoor",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2208
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "dust",
+      "description": "As you look closely at the dust, you notice the outline of a trapdoor!"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

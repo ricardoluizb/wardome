@@ -1,0 +1,29 @@
+{
+  "id": 2008,
+  "zone_id": 20,
+  "name": "Servant's Quarters",
+  "description": "Here in this room you see a very humble abode. A simple place where the\nservants live having only the necessities of life. There are rows of simple\ncots with thin bedding and blankets, little privacy for any who share this\nplace. Some have draped old moth eaten blankets between thier cots for some\nsemblence of a place of privacy.  There is little time spent her for the\nservents.. only for a few limited hours of sleep before they are called on for\nthier duties to be performed for the Master and Mistress of the Castle.",
+  "header_raw": "20 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2003
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2009
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

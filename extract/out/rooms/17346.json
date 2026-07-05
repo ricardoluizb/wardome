@@ -1,0 +1,26 @@
+{
+  "id": 17346,
+  "zone_id": 173,
+  "name": "Behind the Pict Lines",
+  "description": "You have battled your way through the ranks of the Picts, and your \nsalley has placed you behind the Pict lines! To the east the battle \nrages, and you see fleeing Picts headed this way.  A barbarian is winding \na horn with the recall signal.",
+  "header_raw": "173 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Into the raging battle",
+      "keywords": "ranks",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17397
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "barbarian horn",
+      "description": "The barbarian sees you looking at you, and flees in terror!"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3842,
+  "zone_id": 38,
+  "name": "Icaza's Study",
+  "description": "You are in a small room.  A large bed is in the corner, and a wooden rocker\ncreaks of it's own will on the hardwood floors.  You can see a stuffed ducky\nand a stuffed piggie on the bed.  This bed looks like it's for display use\nonly, as the owner of this room must sleep somewhere else.  You can hear the\nringing of a small bell in the background.  The exit is to the north.",
+  "header_raw": "38 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3840
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

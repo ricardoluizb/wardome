@@ -1,0 +1,37 @@
+{
+  "id": 17883,
+  "zone_id": 178,
+  "name": "Mess Hall",
+  "description": "You stand in the hobgoblin eating area.  There are a few rotting tables\nand many broken dishes scattered around the room.  You almost slip on a\nrotten piece of meat, but catch yourself just in time.",
+  "header_raw": "178 8 2",
+  "flags_text": "8",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a small room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17884
+    },
+    {
+      "dir": 1,
+      "description": "You see a kitchen.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17885
+    },
+    {
+      "dir": 3,
+      "description": "You see a large room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17881
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

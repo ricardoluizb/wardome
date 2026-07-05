@@ -1,0 +1,29 @@
+{
+  "id": 6930,
+  "zone_id": 69,
+  "name": "The Path East",
+  "description": "This is a path leading right through a field.  The path is covered with mud,\nmaking you wish you had stayed home tonight.  A gigantic thunderstorm is still\nin this area and it's raining pretty hard now.  Suddenly, lightning strikes a\ntree, which makes a loud noise before falling to the ground with a loud \"THUD\".",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6931
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6927
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

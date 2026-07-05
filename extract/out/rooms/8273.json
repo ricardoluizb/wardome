@@ -1,0 +1,29 @@
+{
+  "id": 8273,
+  "zone_id": 82,
+  "name": "The Eastern Passage",
+  "description": "You are in the eastern passage, you see some paintings decorating the walls\nsomething very comon in France. The passage leads to the north where you can\nfind the rooms of the Musketeers, or the dungeon. The patio that is at east\nis closed, and you cant enter, but you can still go west or north.",
+  "header_raw": "82 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8274
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8272
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

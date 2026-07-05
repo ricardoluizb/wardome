@@ -1,0 +1,21 @@
+{
+  "id": 9616,
+  "zone_id": 96,
+  "name": "Sacred Room",
+  "description": "Ok...Now take this and get out!",
+  "header_raw": "96 69 0",
+  "flags_text": "69",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9615
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/96.wld"
+}

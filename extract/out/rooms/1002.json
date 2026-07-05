@@ -1,0 +1,29 @@
+{
+  "id": 1002,
+  "zone_id": 10,
+  "name": "An Alcove",
+  "description": "This is a small alcove which stands just east of the main cathedral\nentrance.  Just to the west, you can see what is left of the font and\nspring in the cathedral.  Just to the east you can see a set of spiral\nstairs leading up and down.",
+  "header_raw": "10 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "There is a set of spiral stairs just to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1013
+    },
+    {
+      "dir": 3,
+      "description": "The cathedral entrance can be seen to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1001
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

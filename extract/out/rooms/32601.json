@@ -1,0 +1,37 @@
+{
+  "id": 32601,
+  "zone_id": 326,
+  "name": "The Castle",
+  "description": "You are in front of a huge castle made of crystal. It seems to be a temple of a God forgotten a long time ago. There's no evidence of living presence here for ages. The Castle shines so much that it almost makes you blind.",
+  "header_raw": "326 4 2",
+  "flags_text": "4",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 32609
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 32602
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/326.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 10007,
+  "zone_id": 100,
+  "name": "A Winding Mountain Trail",
+  "description": "The trail continues to climb toward the castle, which is just above you only\na man's height or so.  To the west is the base of a set of wide stone steps\nwhich lead directly up to the front gates of the castle.  The trail also leads\ndown from here toward the forest below.",
+  "header_raw": "100 1 3",
+  "flags_text": "1",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10008
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10006
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/100.wld"
+}

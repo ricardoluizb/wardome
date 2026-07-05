@@ -1,10 +1,10 @@
 {
   "id": 7305,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "The Secret Room",
   "description": "There is dust all over the place.  It looks like nobody has been here\nfor ages.  In the middle of the room you see a socket with a crystal globe.\nThe globe glows with a pulsing light.  To the north you see a stone door.\nTo the south you see a grey block.",
-  "header_raw": "73 d 1",
-  "flags_text": "d",
+  "header_raw": "72 8 1",
+  "flags_text": "8",
   "sector": 1,
   "exits": [
     {
@@ -26,12 +26,12 @@
   ],
   "extra_descriptions": [
     {
-      "keywords": "socket",
-      "description": "The socket looks like the work of a dwarf.  It is VERY beautiful."
-    },
-    {
       "keywords": "crystal globe",
       "description": "The crystal globe is glowing with a pulsing light.  It looks like there is\nsmoke inside it."
+    },
+    {
+      "keywords": "socket",
+      "description": "The socket looks like the work of a dwarf.  It is VERY beautiful."
     }
   ],
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/72.wld"

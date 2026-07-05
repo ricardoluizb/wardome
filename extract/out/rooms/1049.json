@@ -1,0 +1,21 @@
+{
+  "id": 1049,
+  "zone_id": 10,
+  "name": "The Large Cavern",
+  "description": "This room, er, cavern is quite large as it stretches to the north\nand east and looks to have be carved out of the stone below the\ncathedral's foundations.  Hundreds of thousands of bones lie about\nthe cavern in small piles.  There is a rather large pile off in the\nnorthwestern corner of the cavern.  The stone of the floor has been\nshaped to create a ledge of sorts in the southeastern corner.",
+  "header_raw": "10 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "A small passageway opens up to the west, making you wonder just how\nanything bigger than an ogre could even get into this chamber.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1043
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

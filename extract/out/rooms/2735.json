@@ -1,0 +1,21 @@
+{
+  "id": 2735,
+  "zone_id": 27,
+  "name": "Bogo's Hole",
+  "description": "Bogo, the laughing stock of the hobbit village lives here.  This place is all\ndirty and dusty.  Maybe Bogo is here somewhere, but you are not sure.  Anyway,\nyou don't really like the smell of this place.  Hobbit Road is to the north.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2734
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 13252,
+  "alias": "Ghanekar",
+  "short_desc": "Ghanekar",
+  "long_desc": "General Ghanekar becomes angry at your intrusion and attacks!",
+  "detailed_desc": "You are fighting Kringe's right hand man, or so Kringe thinks.  Ghanekar has\na lot of shady deals on the side and no one really controls him.  He is a \ngreen dragon and just so happens to be Gimp's dad.",
+  "flags_raw": "8234 136 -750 E",
+  "stats1_raw": "40 -16 -8 1d1+3672 5d9+96",
+  "stats2_raw": "600 325233 8",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

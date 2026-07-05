@@ -1,0 +1,29 @@
+{
+  "id": 20028,
+  "zone_id": 200,
+  "name": "Main Room",
+  "description": "The bar runs along the length of the west wall here, dispensing drinks to all\ncustomers with impunity.  A few tables are empty here in the southern part of\nthe wayhouse, but the whole place still has that 'mostly filled' air to it.  \nThe dull roar of conversation and the warm air from the fire makes you feel at\nhome somehow, makes you want to have a seat.",
+  "header_raw": "200 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20021
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20027
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/200.wld"
+}

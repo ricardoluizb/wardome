@@ -3,8 +3,8 @@
   "zone_id": 79,
   "name": "Outside Redferne's Residence",
   "description": "A huge cloud forms the plateau on which you are now standing.  The\nwind here is absolutely quiet and the sun is shining warmly upon you.\nFrom under the cloud you can hear the faint sounds of Midgaard.  Right\nbefore you to the north lies the grand Mansion of Naris.",
-  "header_raw": "79 cj 0",
-  "flags_text": "cj",
+  "header_raw": "79 4 0",
+  "flags_text": "4",
   "sector": 0,
   "exits": [
     {
@@ -14,6 +14,14 @@
       "door_flag": 2,
       "key": 7901,
       "to": 7901
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9101
     },
     {
       "dir": 5,

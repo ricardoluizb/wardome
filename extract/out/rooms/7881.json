@@ -1,0 +1,21 @@
+{
+  "id": 7881,
+  "zone_id": 78,
+  "name": "The Workroom",
+  "description": "This room looks like it is used for magical studies.  Potions bubble over\nburners, and the whole room spells of herbs and dead animal flesh.  A furnace\nto the side casts a bright light in this room.  The whole room radiates with\na magical aura.",
+  "header_raw": "78 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 7805,
+      "to": 7880
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/78.wld"
+}

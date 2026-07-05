@@ -1,0 +1,12 @@
+{
+  "id": 5748,
+  "alias": "neanderthal caveman man",
+  "short_desc": "a lumbering Neanderthal",
+  "long_desc": "A primitive Neanderthal swings his stone club at your head!",
+  "detailed_desc": "This dim-witted cave man is possessed of only the most primitive instincts,\nbut has a blow like a sledgehammer and a hide like a stone wall, so fight \nwell!",
+  "flags_raw": "110 9264 0 E",
+  "stats1_raw": "30 -17 -11 1d1+3480 5d10+122",
+  "stats2_raw": "450 185326 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

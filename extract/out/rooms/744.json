@@ -1,0 +1,29 @@
+{
+  "id": 744,
+  "zone_id": 7,
+  "name": "The Fortress",
+  "description": "Wow! This place is better defended that some castles you've seen.\nIn case Kerofk ever falls, this place will surely be the last to go,\nfor this inn lives up to its name: 15 foot high walls, crenellations,\narrow slits...its a remarkable bit of engineering.  As you walk in,\nyou notice that everyone here is carrying some sort of weapon, and\ncarry themselves like they know how to use it.  Seems like a fairly\nsafe place!",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 726
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 745
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

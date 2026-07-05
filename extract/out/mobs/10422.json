@@ -1,0 +1,12 @@
+{
+  "id": 10422,
+  "alias": "oldstyle prisoner raiden",
+  "short_desc": "the prisoner Raiden",
+  "long_desc": "The prisoner of Hell, Raiden sits here for eternity.",
+  "detailed_desc": "This is a sad individual. He smells strongly of the rotten food that has been\nthrown at him. He sits here chained to the wall, banished to Hell forever by\nthe gods.",
+  "flags_raw": "10 1152 -1000 E",
+  "stats1_raw": "100 -32 -6 1d1+3600 5d11+50",
+  "stats2_raw": "1500 3541448 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/104.mob"
+}

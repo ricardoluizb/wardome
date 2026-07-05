@@ -1,0 +1,21 @@
+{
+  "id": 29850,
+  "zone_id": 298,
+  "name": "The Tomb of the Dwarven king",
+  "description": "You climb down into the stonechest.  Something about this makes your backbone\nshiver.  This place does not seem to like your intrusion.  You can see the\nremains of a powerfull looking dwarf.  He wears a shining plate and wields\ntwo-handed axe.  Maybe you shouldn't disturb him.  The only exit seems to be\nup.",
+  "header_raw": "298 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "Trapdoor",
+      "door_flag": 1,
+      "key": 29815,
+      "to": 29849
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/298.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8280,
+  "zone_id": 82,
+  "name": "A Room To The Dungeon",
+  "description": "You are in a small room that has a ladder that goes down, probably will\ntake you to the dungeon where the Musketeers take the prisoners that they\ncapture in the city, and in this times it must be full of revolutioners.",
+  "header_raw": "82 4 0",
+  "flags_text": "4",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 8279
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8289
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

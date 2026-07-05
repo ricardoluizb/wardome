@@ -1,0 +1,5584 @@
+{
+  "id": 81,
+  "name": "Ofingia and the Goblin Town",
+  "header": {
+    "raw": "8199 30 2 2 -1",
+    "min_room": 8199,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": 2
+  },
+  "commands": [
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8100,
+        0,
+        1
+      ],
+      "comment": "(A Narrow Crawlway)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8133,
+        2,
+        8149
+      ],
+      "comment": "(the serpent)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8149,
+        4,
+        2
+      ],
+      "comment": "(The Treasury)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8168,
+        1,
+        8198
+      ],
+      "comment": "(the mimic)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8198,
+        1,
+        2
+      ],
+      "comment": "(The Goblin Treasury)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        8116,
+        3,
+        8198
+      ],
+      "comment": "(an ugly bronze chest)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        8130,
+        100,
+        8116
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        8155,
+        100,
+        8116
+      ],
+      "comment": "(the elixir of life)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        8167,
+        1,
+        8198
+      ],
+      "comment": "(a goblin's spear)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        8137,
+        100,
+        8198
+      ],
+      "comment": "(a broadsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8157,
+        1,
+        8180
+      ],
+      "comment": "(the goblin blacksmith)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8158,
+        2,
+        8180
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8158,
+        2,
+        8180
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8159,
+        4,
+        8180
+      ],
+      "comment": "(the kobold slave)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8159,
+        4,
+        8180
+      ],
+      "comment": "(the kobold slave)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8159,
+        4,
+        8180
+      ],
+      "comment": "(the kobold slave)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8159,
+        4,
+        8180
+      ],
+      "comment": "(the kobold slave)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8160,
+        1,
+        8180
+      ],
+      "comment": "(the hill giant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8161,
+        1,
+        8180
+      ],
+      "comment": "(the mimic)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8117,
+        100,
+        -1
+      ],
+      "comment": "(an oily black potion)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8180,
+        3,
+        1
+      ],
+      "comment": "(The Iron Foundry)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8180,
+        0,
+        1
+      ],
+      "comment": "(The Iron Foundry)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        8180,
+        8138,
+        -1
+      ],
+      "comment": "(a mail-shirt)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        8180,
+        8138,
+        -1
+      ],
+      "comment": "(a mail-shirt)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        8180,
+        8164,
+        -1
+      ],
+      "comment": "(a goblin scimitar)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        8138,
+        100,
+        8180
+      ],
+      "comment": "(a mail-shirt)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        8138,
+        100,
+        8180
+      ],
+      "comment": "(a mail-shirt)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        8164,
+        100,
+        8180
+      ],
+      "comment": "(a goblin scimitar)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        8116,
+        3,
+        8180
+      ],
+      "comment": "(an ugly bronze chest)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        8138,
+        100,
+        8116
+      ],
+      "comment": "(a mail-shirt)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        8117,
+        100,
+        8116
+      ],
+      "comment": "(an oily black potion)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        8185,
+        2,
+        8180
+      ],
+      "comment": "(a tub of dirty water)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8154,
+        3,
+        2
+      ],
+      "comment": "(A Small Storeroom)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        8116,
+        3,
+        8154
+      ],
+      "comment": "(an ugly bronze chest)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        8164,
+        100,
+        8116
+      ],
+      "comment": "(a goblin scimitar)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        8164,
+        100,
+        8116
+      ],
+      "comment": "(a goblin scimitar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8132,
+        4,
+        8138
+      ],
+      "comment": "(the goblin watchman)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8100,
+        100,
+        -1
+      ],
+      "comment": "(a dark key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8164,
+        100,
+        16
+      ],
+      "comment": "(a goblin scimitar)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8138,
+        1,
+        1
+      ],
+      "comment": "(The Guard Room)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        8180,
+        6,
+        8138
+      ],
+      "comment": "(a crude chest)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        8115,
+        100,
+        8180
+      ],
+      "comment": "(a bottle)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        8117,
+        100,
+        8180
+      ],
+      "comment": "(an oily black potion)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8117,
+        0,
+        2
+      ],
+      "comment": "(The Guard Headquarters)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8117,
+        3,
+        2
+      ],
+      "comment": "(The Guard Headquarters)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        8117,
+        8181,
+        -1
+      ],
+      "comment": "(an ebony chest)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        8181,
+        1,
+        8117
+      ],
+      "comment": "(an ebony chest)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        8137,
+        100,
+        8181
+      ],
+      "comment": "(a broadsword)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        8138,
+        100,
+        8181
+      ],
+      "comment": "(a mail-shirt)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        8155,
+        100,
+        8181
+      ],
+      "comment": "(the elixir of life)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        8188,
+        1,
+        8132
+      ],
+      "comment": "(the large portrait)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        8161,
+        1,
+        8188
+      ],
+      "comment": "(an opal ring)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8141,
+        1,
+        8169
+      ],
+      "comment": "(Groff the Troll)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8115,
+        100,
+        -1
+      ],
+      "comment": "(a bottle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8177,
+        100,
+        13
+      ],
+      "comment": "(a pink apron)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8113,
+        1,
+        8116
+      ],
+      "comment": "(Sir Mischa)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8138,
+        100,
+        5
+      ],
+      "comment": "(a mail-shirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8139,
+        100,
+        6
+      ],
+      "comment": "(a helm)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8143,
+        100,
+        12
+      ],
+      "comment": "(a green cloak)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8130,
+        100,
+        16
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8115,
+        4,
+        8116
+      ],
+      "comment": "(the Ofintine guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8137,
+        100,
+        16
+      ],
+      "comment": "(a broadsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8115,
+        4,
+        8116
+      ],
+      "comment": "(the Ofintine guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7211,
+        100,
+        16
+      ],
+      "comment": "(a short sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8122,
+        10,
+        8116
+      ],
+      "comment": "(the big dog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8128,
+        2,
+        8116
+      ],
+      "comment": "(the old man)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8123,
+        100,
+        5
+      ],
+      "comment": "(a plain shirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8116,
+        1,
+        2
+      ],
+      "comment": "(Inside the South Gate of Ofingia)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8112,
+        1,
+        8115
+      ],
+      "comment": "(Tim the Thief)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8111,
+        100,
+        -1
+      ],
+      "comment": "(a silver key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8151,
+        100,
+        5
+      ],
+      "comment": "(a rigid leather breastplate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8129,
+        100,
+        6
+      ],
+      "comment": "(a bandanna)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8135,
+        100,
+        16
+      ],
+      "comment": "(a dirk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8114,
+        8,
+        8115
+      ],
+      "comment": "(the Ofintine guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7211,
+        100,
+        16
+      ],
+      "comment": "(a short sword)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8115,
+        1,
+        1
+      ],
+      "comment": "(Drovers' Street)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8114,
+        8,
+        8113
+      ],
+      "comment": "(the Ofintine guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7211,
+        100,
+        16
+      ],
+      "comment": "(a short sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8102,
+        1,
+        8110
+      ],
+      "comment": "(Zeb Rykalp)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8123,
+        100,
+        5
+      ],
+      "comment": "(a plain shirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8142,
+        100,
+        12
+      ],
+      "comment": "(a blue cloak)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8130,
+        100,
+        16
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8114,
+        8,
+        8110
+      ],
+      "comment": "(the Ofintine guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8152,
+        100,
+        5
+      ],
+      "comment": "(a studded leather jacket)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8139,
+        100,
+        6
+      ],
+      "comment": "(a helm)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8137,
+        100,
+        16
+      ],
+      "comment": "(a broadsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8114,
+        8,
+        8110
+      ],
+      "comment": "(the Ofintine guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8152,
+        100,
+        5
+      ],
+      "comment": "(a studded leather jacket)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8139,
+        100,
+        6
+      ],
+      "comment": "(a helm)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8137,
+        100,
+        16
+      ],
+      "comment": "(a broadsword)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        8186,
+        1,
+        8110
+      ],
+      "comment": "(the Well of Jakur)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8109,
+        1,
+        8124
+      ],
+      "comment": "(Serathana the Guardian of Lore)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8157,
+        100,
+        -1
+      ],
+      "comment": "(a scroll of enchantment)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8158,
+        100,
+        -1
+      ],
+      "comment": "(a scroll of stormbringing)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8159,
+        100,
+        -1
+      ],
+      "comment": "(a scroll of battle-might)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8160,
+        100,
+        -1
+      ],
+      "comment": "(a scroll of lore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8148,
+        100,
+        12
+      ],
+      "comment": "(a white robe)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8108,
+        100,
+        17
+      ],
+      "comment": "(a blued steel key)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        8132,
+        1,
+        8124
+      ],
+      "comment": "(a long spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8108,
+        1,
+        8131
+      ],
+      "comment": "(Marya the Baker)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3309,
+        100,
+        -1
+      ],
+      "comment": "(a loaf of bread)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8124,
+        100,
+        5
+      ],
+      "comment": "(a shortgown)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8128,
+        100,
+        6
+      ],
+      "comment": "(a kerchief)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8126,
+        100,
+        7
+      ],
+      "comment": "(a skirt)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8107,
+        1,
+        8129
+      ],
+      "comment": "(Dek Shattershock)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8127,
+        100,
+        -1
+      ],
+      "comment": "(high boots)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8151,
+        100,
+        -1
+      ],
+      "comment": "(a rigid leather breastplate)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8152,
+        100,
+        -1
+      ],
+      "comment": "(a studded leather jacket)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8123,
+        100,
+        5
+      ],
+      "comment": "(a plain shirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8150,
+        100,
+        16
+      ],
+      "comment": "(a short bow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8105,
+        1,
+        8120
+      ],
+      "comment": "(Maxtrum Holloknob)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8142,
+        100,
+        -1
+      ],
+      "comment": "(a blue cloak)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8144,
+        100,
+        -1
+      ],
+      "comment": "(a backpack)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8145,
+        100,
+        -1
+      ],
+      "comment": "(a pint flask)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8146,
+        100,
+        -1
+      ],
+      "comment": "(a water skin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8123,
+        100,
+        5
+      ],
+      "comment": "(a plain shirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8143,
+        100,
+        12
+      ],
+      "comment": "(a green cloak)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8135,
+        100,
+        16
+      ],
+      "comment": "(a dirk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8126,
+        4,
+        8120
+      ],
+      "comment": "(a hobbit landowner)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8123,
+        100,
+        5
+      ],
+      "comment": "(a plain shirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8135,
+        100,
+        16
+      ],
+      "comment": "(a dirk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8104,
+        1,
+        8114
+      ],
+      "comment": "(Joel Kreb)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8149,
+        100,
+        -1
+      ],
+      "comment": "(a medium shield)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8136,
+        100,
+        -1
+      ],
+      "comment": "(Staff of Power)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8150,
+        100,
+        -1
+      ],
+      "comment": "(a short bow)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8123,
+        100,
+        5
+      ],
+      "comment": "(a plain shirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8133,
+        100,
+        16
+      ],
+      "comment": "(a hand axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8103,
+        1,
+        8119
+      ],
+      "comment": "(Dorig Foehammer)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8130,
+        100,
+        -1
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8137,
+        100,
+        -1
+      ],
+      "comment": "(a broadsword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8133,
+        100,
+        -1
+      ],
+      "comment": "(a hand axe)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8134,
+        100,
+        -1
+      ],
+      "comment": "(a battle axe)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8135,
+        100,
+        -1
+      ],
+      "comment": "(a dirk)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8138,
+        100,
+        -1
+      ],
+      "comment": "(a mail-shirt)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8139,
+        100,
+        -1
+      ],
+      "comment": "(a helm)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6504,
+        100,
+        16
+      ],
+      "comment": "(a dwarven hammer)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        8185,
+        2,
+        8119
+      ],
+      "comment": "(a tub of dirty water)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8100,
+        1,
+        8128
+      ],
+      "comment": "(Reilly the Innkeeper)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3319,
+        100,
+        -1
+      ],
+      "comment": "(a glass)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3320,
+        100,
+        -1
+      ],
+      "comment": "(a glass)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3321,
+        100,
+        -1
+      ],
+      "comment": "(a shot)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8122,
+        100,
+        -1
+      ],
+      "comment": "(some walnuts)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8121,
+        100,
+        -1
+      ],
+      "comment": "(an apple)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8113,
+        100,
+        -1
+      ],
+      "comment": "(some cheese)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8120,
+        100,
+        -1
+      ],
+      "comment": "(the bowl of bigos)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8123,
+        100,
+        5
+      ],
+      "comment": "(a plain shirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8130,
+        100,
+        16
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8119,
+        100,
+        17
+      ],
+      "comment": "(a bottle of Scotch)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8116,
+        4,
+        8128
+      ],
+      "comment": "(an Ofintine volunteer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8123,
+        100,
+        5
+      ],
+      "comment": "(a plain shirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8133,
+        100,
+        16
+      ],
+      "comment": "(a hand axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8117,
+        4,
+        8128
+      ],
+      "comment": "(an Ofintine volunteer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8124,
+        100,
+        5
+      ],
+      "comment": "(a shortgown)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8128,
+        100,
+        6
+      ],
+      "comment": "(a kerchief)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8126,
+        100,
+        7
+      ],
+      "comment": "(a skirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8136,
+        100,
+        16
+      ],
+      "comment": "(Staff of Power)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8123,
+        1,
+        8128
+      ],
+      "comment": "(Reilly's dog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8124,
+        1,
+        8128
+      ],
+      "comment": "(a Lonoyan farmer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8129,
+        100,
+        3
+      ],
+      "comment": "(a bandanna)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8123,
+        100,
+        5
+      ],
+      "comment": "(a plain shirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8125,
+        2,
+        8128
+      ],
+      "comment": "(a dwarf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8123,
+        100,
+        5
+      ],
+      "comment": "(a plain shirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8133,
+        100,
+        16
+      ],
+      "comment": "(a hand axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8127,
+        1,
+        8128
+      ],
+      "comment": "(the bar maid)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8124,
+        100,
+        5
+      ],
+      "comment": "(a shortgown)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8128,
+        100,
+        6
+      ],
+      "comment": "(a kerchief)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8126,
+        100,
+        7
+      ],
+      "comment": "(a skirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8135,
+        100,
+        16
+      ],
+      "comment": "(a dirk)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        8187,
+        1,
+        8128
+      ],
+      "comment": "(the wine fountain)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8114,
+        8,
+        8122
+      ],
+      "comment": "(the Ofintine guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8151,
+        100,
+        5
+      ],
+      "comment": "(a rigid leather breastplate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8134,
+        100,
+        16
+      ],
+      "comment": "(a battle axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8119,
+        4,
+        8122
+      ],
+      "comment": "(a Lonoyan citizen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8124,
+        100,
+        5
+      ],
+      "comment": "(a shortgown)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8128,
+        100,
+        6
+      ],
+      "comment": "(a kerchief)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8126,
+        100,
+        7
+      ],
+      "comment": "(a skirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8135,
+        100,
+        16
+      ],
+      "comment": "(a dirk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8121,
+        8,
+        8122
+      ],
+      "comment": "(a young girl)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8124,
+        100,
+        5
+      ],
+      "comment": "(a shortgown)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8126,
+        100,
+        7
+      ],
+      "comment": "(a skirt)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8122,
+        10,
+        8122
+      ],
+      "comment": "(the big dog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8106,
+        1,
+        8130
+      ],
+      "comment": "(Churt Agenris)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3051,
+        99,
+        -1
+      ],
+      "comment": "(a yellow potion of see invisible)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8153,
+        100,
+        -1
+      ],
+      "comment": "(the healing draught)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8154,
+        100,
+        -1
+      ],
+      "comment": "(the draught of sight)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8155,
+        10000,
+        -1
+      ],
+      "comment": "(the elixir of life)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8156,
+        100,
+        -1
+      ],
+      "comment": "(the potion of evil's bane)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8147,
+        2,
+        12
+      ],
+      "comment": "(a robe of pockets)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8137,
+        100,
+        16
+      ],
+      "comment": "(a broadsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8101,
+        1,
+        8118
+      ],
+      "comment": "(Pater Vinci)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8148,
+        100,
+        12
+      ],
+      "comment": "(a white robe)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8136,
+        100,
+        16
+      ],
+      "comment": "(Staff of Power)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8110,
+        1,
+        8123
+      ],
+      "comment": "(Sir Kelek)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8109,
+        100,
+        -1
+      ],
+      "comment": "(a red key)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8108,
+        100,
+        -1
+      ],
+      "comment": "(a blued steel key)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8107,
+        100,
+        -1
+      ],
+      "comment": "(a huge iron key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8138,
+        100,
+        5
+      ],
+      "comment": "(a mail-shirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8139,
+        100,
+        6
+      ],
+      "comment": "(a helm)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8149,
+        100,
+        11
+      ],
+      "comment": "(a medium shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8143,
+        100,
+        12
+      ],
+      "comment": "(a green cloak)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8134,
+        100,
+        16
+      ],
+      "comment": "(a battle axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8111,
+        1,
+        8123
+      ],
+      "comment": "(King Korbor)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8107,
+        100,
+        -1
+      ],
+      "comment": "(a huge iron key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8110,
+        1,
+        1
+      ],
+      "comment": "(a golden key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8138,
+        100,
+        5
+      ],
+      "comment": "(a mail-shirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8118,
+        1,
+        6
+      ],
+      "comment": "(King Korbor's crown)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8149,
+        100,
+        11
+      ],
+      "comment": "(a medium shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8141,
+        100,
+        12
+      ],
+      "comment": "(a red cloak)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8137,
+        100,
+        16
+      ],
+      "comment": "(a broadsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8114,
+        8,
+        8111
+      ],
+      "comment": "(the Ofintine guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8151,
+        100,
+        5
+      ],
+      "comment": "(a rigid leather breastplate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7211,
+        100,
+        16
+      ],
+      "comment": "(a short sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8114,
+        8,
+        8112
+      ],
+      "comment": "(the Ofintine guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8151,
+        100,
+        5
+      ],
+      "comment": "(a rigid leather breastplate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7211,
+        100,
+        16
+      ],
+      "comment": "(a short sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8114,
+        8,
+        8121
+      ],
+      "comment": "(the Ofintine guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8151,
+        100,
+        5
+      ],
+      "comment": "(a rigid leather breastplate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8134,
+        100,
+        16
+      ],
+      "comment": "(a battle axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8115,
+        4,
+        8109
+      ],
+      "comment": "(the Ofintine guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8152,
+        100,
+        5
+      ],
+      "comment": "(a studded leather jacket)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8134,
+        100,
+        16
+      ],
+      "comment": "(a battle axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8115,
+        4,
+        8109
+      ],
+      "comment": "(the Ofintine guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8152,
+        100,
+        5
+      ],
+      "comment": "(a studded leather jacket)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8137,
+        100,
+        16
+      ],
+      "comment": "(a broadsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8118,
+        4,
+        8121
+      ],
+      "comment": "(a Lonoyan man)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8129,
+        100,
+        3
+      ],
+      "comment": "(a bandanna)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8123,
+        100,
+        5
+      ],
+      "comment": "(a plain shirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8136,
+        100,
+        16
+      ],
+      "comment": "(Staff of Power)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8120,
+        8,
+        8121
+      ],
+      "comment": "(a small boy)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8123,
+        100,
+        5
+      ],
+      "comment": "(a plain shirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8122,
+        10,
+        8109
+      ],
+      "comment": "(the big dog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8128,
+        2,
+        8109
+      ],
+      "comment": "(the old man)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8123,
+        100,
+        5
+      ],
+      "comment": "(a plain shirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8129,
+        3,
+        8108
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8166,
+        100,
+        16
+      ],
+      "comment": "(a goblin's shortbow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8130,
+        1,
+        8108
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8164,
+        100,
+        16
+      ],
+      "comment": "(a goblin scimitar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8131,
+        4,
+        8134
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8163,
+        100,
+        16
+      ],
+      "comment": "(a goblin knife)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8131,
+        4,
+        8135
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8163,
+        100,
+        16
+      ],
+      "comment": "(a goblin knife)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8131,
+        4,
+        8136
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8101,
+        100,
+        -1
+      ],
+      "comment": "(a black key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8163,
+        100,
+        16
+      ],
+      "comment": "(a goblin knife)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8131,
+        4,
+        8145
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8101,
+        100,
+        -1
+      ],
+      "comment": "(a black key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8163,
+        100,
+        16
+      ],
+      "comment": "(a goblin knife)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8132,
+        4,
+        8142
+      ],
+      "comment": "(the goblin watchman)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8100,
+        100,
+        -1
+      ],
+      "comment": "(a dark key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8164,
+        100,
+        16
+      ],
+      "comment": "(a goblin scimitar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8144,
+        1,
+        8143
+      ],
+      "comment": "(the Cementipede)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8147,
+        2,
+        8143
+      ],
+      "comment": "(the green mold)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8164,
+        1,
+        8144
+      ],
+      "comment": "(the red dragon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8147,
+        2,
+        8145
+      ],
+      "comment": "(the green mold)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8133,
+        2,
+        8145
+      ],
+      "comment": "(the serpent)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8150,
+        1,
+        8146
+      ],
+      "comment": "(the Stalker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8147,
+        1,
+        8150
+      ],
+      "comment": "(the green mold)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8134,
+        1,
+        8144
+      ],
+      "comment": "(the lost gnome)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8151,
+        100,
+        5
+      ],
+      "comment": "(a rigid leather breastplate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7211,
+        100,
+        16
+      ],
+      "comment": "(a short sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8135,
+        4,
+        8151
+      ],
+      "comment": "(the goblin guard)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8102,
+        100,
+        -1
+      ],
+      "comment": "(a runed key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8152,
+        100,
+        5
+      ],
+      "comment": "(a studded leather jacket)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8165,
+        100,
+        16
+      ],
+      "comment": "(a goblin's club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8135,
+        4,
+        8151
+      ],
+      "comment": "(the goblin guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8152,
+        100,
+        5
+      ],
+      "comment": "(a studded leather jacket)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8165,
+        100,
+        16
+      ],
+      "comment": "(a goblin's club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8135,
+        4,
+        8157
+      ],
+      "comment": "(the goblin guard)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8103,
+        100,
+        -1
+      ],
+      "comment": "(a pale green key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8152,
+        100,
+        5
+      ],
+      "comment": "(a studded leather jacket)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8165,
+        100,
+        16
+      ],
+      "comment": "(a goblin's club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8135,
+        4,
+        8157
+      ],
+      "comment": "(the goblin guard)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8103,
+        100,
+        -1
+      ],
+      "comment": "(a pale green key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8152,
+        100,
+        5
+      ],
+      "comment": "(a studded leather jacket)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8165,
+        100,
+        16
+      ],
+      "comment": "(a goblin's club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8143,
+        1,
+        8155
+      ],
+      "comment": "(the mimic)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8136,
+        10,
+        8153
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8167,
+        100,
+        16
+      ],
+      "comment": "(a goblin's spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8136,
+        10,
+        8155
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8167,
+        100,
+        16
+      ],
+      "comment": "(a goblin's spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8136,
+        10,
+        8159
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8167,
+        100,
+        16
+      ],
+      "comment": "(a goblin's spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8136,
+        10,
+        8160
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8167,
+        100,
+        16
+      ],
+      "comment": "(a goblin's spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8136,
+        10,
+        8161
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8167,
+        100,
+        16
+      ],
+      "comment": "(a goblin's spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8136,
+        10,
+        8163
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8167,
+        100,
+        16
+      ],
+      "comment": "(a goblin's spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8136,
+        10,
+        8165
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8167,
+        100,
+        16
+      ],
+      "comment": "(a goblin's spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8136,
+        10,
+        8167
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8167,
+        100,
+        16
+      ],
+      "comment": "(a goblin's spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8136,
+        10,
+        8168
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8167,
+        100,
+        16
+      ],
+      "comment": "(a goblin's spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8136,
+        10,
+        8171
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8167,
+        100,
+        16
+      ],
+      "comment": "(a goblin's spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8137,
+        15,
+        8162
+      ],
+      "comment": "(the goblin warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8137,
+        15,
+        8162
+      ],
+      "comment": "(the goblin warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8137,
+        15,
+        8162
+      ],
+      "comment": "(the goblin warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8137,
+        15,
+        8164
+      ],
+      "comment": "(the goblin warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8137,
+        15,
+        8164
+      ],
+      "comment": "(the goblin warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8137,
+        15,
+        8164
+      ],
+      "comment": "(the goblin warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8137,
+        15,
+        8166
+      ],
+      "comment": "(the goblin warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8137,
+        15,
+        8166
+      ],
+      "comment": "(the goblin warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8137,
+        15,
+        8166
+      ],
+      "comment": "(the goblin warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8137,
+        15,
+        8173
+      ],
+      "comment": "(the goblin warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8137,
+        15,
+        8173
+      ],
+      "comment": "(the goblin warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8137,
+        15,
+        8173
+      ],
+      "comment": "(the goblin warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8137,
+        18,
+        8174
+      ],
+      "comment": "(the goblin warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8137,
+        18,
+        8174
+      ],
+      "comment": "(the goblin warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8137,
+        18,
+        8174
+      ],
+      "comment": "(the goblin warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8138,
+        2,
+        8175
+      ],
+      "comment": "(a hobgoblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8168,
+        100,
+        16
+      ],
+      "comment": "(a poleaxe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8138,
+        2,
+        8175
+      ],
+      "comment": "(a hobgoblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8168,
+        100,
+        16
+      ],
+      "comment": "(a poleaxe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8139,
+        1,
+        8175
+      ],
+      "comment": "(Toadstool the Goblin)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8104,
+        1,
+        -1
+      ],
+      "comment": "(an iron key)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8117,
+        100,
+        -1
+      ],
+      "comment": "(an oily black potion)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8174,
+        1,
+        3
+      ],
+      "comment": "(Toadstool's iron collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8172,
+        100,
+        5
+      ],
+      "comment": "(the red platemail)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8175,
+        100,
+        6
+      ],
+      "comment": "(Toadstool's head)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8171,
+        1,
+        16
+      ],
+      "comment": "(a fine broadsword named \"Krat\")"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8140,
+        5,
+        8168
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8140,
+        5,
+        8168
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8140,
+        5,
+        8168
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8140,
+        5,
+        8170
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8115,
+        100,
+        -1
+      ],
+      "comment": "(a bottle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8140,
+        5,
+        8170
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8115,
+        100,
+        -1
+      ],
+      "comment": "(a bottle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8142,
+        1,
+        8170
+      ],
+      "comment": "(the mimic)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8115,
+        100,
+        -1
+      ],
+      "comment": "(a bottle)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8145,
+        2,
+        8170
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8115,
+        100,
+        -1
+      ],
+      "comment": "(a bottle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8145,
+        2,
+        8170
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8115,
+        100,
+        -1
+      ],
+      "comment": "(a bottle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8148,
+        2,
+        8172
+      ],
+      "comment": "(the orc)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8168,
+        100,
+        16
+      ],
+      "comment": "(a poleaxe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8149,
+        4,
+        8177
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8184,
+        100,
+        16
+      ],
+      "comment": "(an orcish pick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8149,
+        4,
+        8179
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8184,
+        100,
+        16
+      ],
+      "comment": "(an orcish pick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8151,
+        2,
+        8176
+      ],
+      "comment": "(the kobold)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8152,
+        1,
+        8183
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8153,
+        1,
+        8182
+      ],
+      "comment": "(the mimic)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8117,
+        100,
+        -1
+      ],
+      "comment": "(an oily black potion)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8154,
+        1,
+        8178
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8155,
+        4,
+        8178
+      ],
+      "comment": "(the human slave)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8183,
+        100,
+        16
+      ],
+      "comment": "(a small pick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8155,
+        4,
+        8178
+      ],
+      "comment": "(the human slave)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8183,
+        100,
+        16
+      ],
+      "comment": "(a small pick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8156,
+        4,
+        8178
+      ],
+      "comment": "(the human slave)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8183,
+        100,
+        16
+      ],
+      "comment": "(a small pick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8156,
+        4,
+        8178
+      ],
+      "comment": "(the human slave)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8183,
+        100,
+        16
+      ],
+      "comment": "(a small pick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8162,
+        1,
+        8183
+      ],
+      "comment": "(the ogre)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8163,
+        1,
+        8184
+      ],
+      "comment": "(an Elf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8169,
+        2,
+        5
+      ],
+      "comment": "(the elven chain mail)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8125,
+        100,
+        7
+      ],
+      "comment": "(a pair of breeches)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8140,
+        2,
+        12
+      ],
+      "comment": "(a green Elven cloak)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8170,
+        100,
+        16
+      ],
+      "comment": "(the elven hunting bow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8165,
+        6,
+        8194
+      ],
+      "comment": "(the troll guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8168,
+        100,
+        16
+      ],
+      "comment": "(a poleaxe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8166,
+        2,
+        8194
+      ],
+      "comment": "(the orc)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8168,
+        100,
+        16
+      ],
+      "comment": "(a poleaxe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8166,
+        2,
+        8194
+      ],
+      "comment": "(the orc)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8168,
+        100,
+        16
+      ],
+      "comment": "(a poleaxe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8165,
+        6,
+        8196
+      ],
+      "comment": "(the troll guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8173,
+        100,
+        16
+      ],
+      "comment": "(a huge black mace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8165,
+        6,
+        8196
+      ],
+      "comment": "(the troll guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8173,
+        100,
+        16
+      ],
+      "comment": "(a huge black mace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8165,
+        6,
+        8196
+      ],
+      "comment": "(the troll guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8173,
+        100,
+        16
+      ],
+      "comment": "(a huge black mace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8165,
+        6,
+        8196
+      ],
+      "comment": "(the troll guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8173,
+        100,
+        16
+      ],
+      "comment": "(a huge black mace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8165,
+        6,
+        8196
+      ],
+      "comment": "(the troll guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8173,
+        100,
+        16
+      ],
+      "comment": "(a huge black mace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8167,
+        1,
+        8195
+      ],
+      "comment": "(the living wall)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8169,
+        1,
+        8197
+      ],
+      "comment": "(Moragd the Goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8173,
+        100,
+        16
+      ],
+      "comment": "(a huge black mace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8170,
+        1,
+        8197
+      ],
+      "comment": "(Gorgh the Goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8173,
+        100,
+        16
+      ],
+      "comment": "(a huge black mace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8171,
+        1,
+        8197
+      ],
+      "comment": "(Khos the Goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8173,
+        100,
+        16
+      ],
+      "comment": "(a huge black mace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8172,
+        6,
+        8197
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8168,
+        100,
+        16
+      ],
+      "comment": "(a poleaxe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8172,
+        6,
+        8197
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8168,
+        100,
+        16
+      ],
+      "comment": "(a poleaxe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8172,
+        6,
+        8197
+      ],
+      "comment": "(the goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8176,
+        100,
+        12
+      ],
+      "comment": "(a goblin hide)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8168,
+        100,
+        16
+      ],
+      "comment": "(a poleaxe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8173,
+        1,
+        8199
+      ],
+      "comment": "(Thrash the Ogre)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8112,
+        1,
+        17
+      ],
+      "comment": "(a copper key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8174,
+        1,
+        8199
+      ],
+      "comment": "(Throm the Giant)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8114,
+        1,
+        -1
+      ],
+      "comment": "(a bright iron key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8175,
+        1,
+        8199
+      ],
+      "comment": "(Tarus)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8176,
+        1,
+        8199
+      ],
+      "comment": "(the Great Goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8178,
+        100,
+        16
+      ],
+      "comment": "(an orcish scimitar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8105,
+        1,
+        17
+      ],
+      "comment": "(a small black key)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8108,
+        1,
+        1
+      ],
+      "comment": "(The Old Plank Road)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8109,
+        3,
+        1
+      ],
+      "comment": "(King's Way)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8123,
+        3,
+        1
+      ],
+      "comment": "(The Great Hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8126,
+        5,
+        2
+      ],
+      "comment": "(The Eastern End of the Great Hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8123,
+        2,
+        2
+      ],
+      "comment": "(The Great Hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8133,
+        5,
+        1
+      ],
+      "comment": "(The Dog-Leg)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8137,
+        3,
+        1
+      ],
+      "comment": "(The Stone Hallway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8139,
+        1,
+        2
+      ],
+      "comment": "(The Stone Hallway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8140,
+        3,
+        2
+      ],
+      "comment": "(The Stone Hallway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8141,
+        1,
+        2
+      ],
+      "comment": "(The Stone Hallway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8142,
+        3,
+        2
+      ],
+      "comment": "(A Small Chamber)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8151,
+        3,
+        2
+      ],
+      "comment": "(Upper Goblin-Town)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8152,
+        1,
+        2
+      ],
+      "comment": "(A Small Armory)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8153,
+        1,
+        2
+      ],
+      "comment": "(A Dark Hall in Goblin-Town)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8155,
+        1,
+        2
+      ],
+      "comment": "(A Dark Hall in Goblin-Town.)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8157,
+        3,
+        2
+      ],
+      "comment": "(A Guard Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8155,
+        2,
+        2
+      ],
+      "comment": "(A Dark Hall in Goblin-Town.)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8156,
+        0,
+        2
+      ],
+      "comment": "(A Small Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8157,
+        1,
+        2
+      ],
+      "comment": "(A Guard Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8158,
+        3,
+        2
+      ],
+      "comment": "(A Landing)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8160,
+        2,
+        2
+      ],
+      "comment": "(A Pale-Glowing Hall in Goblin-Town)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8175,
+        0,
+        2
+      ],
+      "comment": "(The Chieftain's Quarters)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8161,
+        0,
+        1
+      ],
+      "comment": "(A Pale-Glowing Hall in Goblin-Town)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8162,
+        2,
+        1
+      ],
+      "comment": "(A Barracks Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8161,
+        2,
+        1
+      ],
+      "comment": "(A Pale-Glowing Hall in Goblin-Town)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8174,
+        0,
+        1
+      ],
+      "comment": "(The Barracks Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8163,
+        2,
+        1
+      ],
+      "comment": "(A Pale-Glowing Hall in Goblin-Town)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8173,
+        0,
+        1
+      ],
+      "comment": "(The Barracks Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8163,
+        0,
+        1
+      ],
+      "comment": "(A Pale-Glowing Hall in Goblin-Town)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8164,
+        2,
+        1
+      ],
+      "comment": "(A Barracks Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8165,
+        0,
+        1
+      ],
+      "comment": "(A Pale-Glowing Hall in Goblin-Town)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8166,
+        2,
+        1
+      ],
+      "comment": "(A Barracks Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8171,
+        1,
+        2
+      ],
+      "comment": "(The Mess)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8172,
+        3,
+        2
+      ],
+      "comment": "(A Small Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8179,
+        1,
+        1
+      ],
+      "comment": "(A Rough Tunnel)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8182,
+        2,
+        1
+      ],
+      "comment": "(A Rough Tunnel)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8184,
+        5,
+        1
+      ],
+      "comment": "(The Mine Shaft)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8194,
+        4,
+        1
+      ],
+      "comment": "(A Crossing of Tunnels)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8194,
+        0,
+        2
+      ],
+      "comment": "(A Crossing of Tunnels)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8194,
+        1,
+        2
+      ],
+      "comment": "(A Crossing of Tunnels)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8194,
+        2,
+        2
+      ],
+      "comment": "(A Crossing of Tunnels)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8194,
+        3,
+        2
+      ],
+      "comment": "(A Crossing of Tunnels)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8195,
+        2,
+        2
+      ],
+      "comment": "(The Storeroom)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8196,
+        3,
+        2
+      ],
+      "comment": "(The Guard Chamber)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8197,
+        0,
+        2
+      ],
+      "comment": "(The North End of a Hall)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        8107,
+        8122,
+        -1
+      ],
+      "comment": "(some walnuts)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        8108,
+        8122,
+        -1
+      ],
+      "comment": "(some walnuts)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        8122,
+        100,
+        8107
+      ],
+      "comment": "(some walnuts)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        8122,
+        100,
+        8108
+      ],
+      "comment": "(some walnuts)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        8180,
+        6,
+        8142
+      ],
+      "comment": "(a crude chest)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        8163,
+        100,
+        8180
+      ],
+      "comment": "(a goblin knife)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        8163,
+        100,
+        8180
+      ],
+      "comment": "(a goblin knife)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        8180,
+        6,
+        8157
+      ],
+      "comment": "(a crude chest)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        8117,
+        100,
+        8180
+      ],
+      "comment": "(an oily black potion)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        8180,
+        6,
+        8162
+      ],
+      "comment": "(a crude chest)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        8142,
+        100,
+        8180
+      ],
+      "comment": "(a blue cloak)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        8141,
+        100,
+        8180
+      ],
+      "comment": "(a red cloak)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        8117,
+        100,
+        8180
+      ],
+      "comment": "(an oily black potion)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        8180,
+        6,
+        8175
+      ],
+      "comment": "(a crude chest)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        8132,
+        100,
+        8180
+      ],
+      "comment": "(a long spear)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        8153,
+        100,
+        8180
+      ],
+      "comment": "(the healing draught)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        8153,
+        100,
+        8180
+      ],
+      "comment": "(the healing draught)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        8117,
+        100,
+        8180
+      ],
+      "comment": "(an oily black potion)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        8180,
+        6,
+        8175
+      ],
+      "comment": "(a crude chest)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        8122,
+        100,
+        8180
+      ],
+      "comment": "(some walnuts)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        8182,
+        1,
+        8152
+      ],
+      "comment": "(a pinewood chest)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        8131,
+        1,
+        8182
+      ],
+      "comment": "(the claymore of MacLeod)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        8140,
+        2,
+        8182
+      ],
+      "comment": "(a green Elven cloak)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        8169,
+        2,
+        8182
+      ],
+      "comment": "(the elven chain mail)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/81.zon"
+}

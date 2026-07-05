@@ -1,0 +1,12 @@
+{
+  "id": 12241,
+  "alias": "thrym",
+  "short_desc": "Thrym",
+  "long_desc": "A bearded, muscular frost giant hefts a massive axe.",
+  "detailed_desc": "Lord of the frost giants of Jotunheim, Thrym is a vile and evil being,\nand a sworn enemy of the Aesir and Vanir, and awaits Ragnarak, the day\nthat the icy wastes will cover all of Gladsheim.",
+  "flags_raw": "10 9384 -1000 E",
+  "stats1_raw": "50 -13 -3 1d1+3000 5d6+60",
+  "stats2_raw": "750 531587 4",
+  "stats3_raw": "8 8 1 7 5",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/122.mob"
+}

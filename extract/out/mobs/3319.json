@@ -4,9 +4,9 @@
   "short_desc": "the hunter",
   "long_desc": "A hunter walks through the town streets on his own time.",
   "detailed_desc": "He looks mean, as if the very personality of the mountains\nhad infected him with hardness.  His stride is purposeful,\nhis face weathered, his eyes cold and dark.  Others are\nstanding out of his way as he walks on by.",
-  "flags_raw": "bcgm 0 500 S",
-  "stats1_raw": "11 10 -20 3d5+133 2d6+2",
-  "stats2_raw": "1200 11000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "4174 0 500 E",
+  "stats1_raw": "185 -78 -22 1d1+9612 5d19+104",
+  "stats2_raw": "2775 21560153 3",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/33.mob"
 }

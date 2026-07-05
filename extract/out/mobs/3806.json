@@ -1,0 +1,12 @@
+{
+  "id": 3806,
+  "alias": "rat were wererat",
+  "short_desc": "a wererat",
+  "long_desc": "A humanoid rat notices you, then attacks!",
+  "detailed_desc": "This beast looks like a combination rat and human, as it has properties of\nboth, namely standing erect, wielding a weapon, but with fur, ears, and tail\nof a rat.",
+  "flags_raw": "42 0 -500 E",
+  "stats1_raw": "12 14 8 1d1+252 5d2+4",
+  "stats2_raw": "180 10839 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/38.mob"
+}

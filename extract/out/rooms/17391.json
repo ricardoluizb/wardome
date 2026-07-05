@@ -1,0 +1,37 @@
+{
+  "id": 17391,
+  "zone_id": 173,
+  "name": "Farms",
+  "description": "You have spent a day travelling though the breadbasket of Camelot, following \na cobble stone road. The fields are producing well this year, and the \npeasants are out harvesting a bountiful crop. Soon the harvest end festivals \nwill begin and all will celebrate another fine year. In fact you have 3 \ninvitations for various festivals from the people you have met along the \nway.",
+  "header_raw": "173 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A cobblestone road",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17367
+    },
+    {
+      "dir": 2,
+      "description": "A cobblestone road",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17392
+    },
+    {
+      "dir": 3,
+      "description": "A cobblestone road",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17393
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

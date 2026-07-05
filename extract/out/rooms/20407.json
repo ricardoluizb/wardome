@@ -1,0 +1,21 @@
+{
+  "id": 20407,
+  "zone_id": 204,
+  "name": "Second Depository",
+  "description": "You only enter and note that it is bigger then the other depository.\nHere the ants store the food that will be used in the winter.\nAt the corner of this room you see a big cabinet, there were the royal food. The air is better here, and you can breath again.",
+  "header_raw": "204 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "deposit",
+      "door_flag": 1,
+      "key": 0,
+      "to": 20406
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/204.wld"
+}

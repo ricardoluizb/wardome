@@ -4,9 +4,9 @@
   "short_desc": "the smart newbie",
   "long_desc": "A newbie is here, and he looks quite sure of himself.",
   "detailed_desc": "Here is a guy who has it all together.  Nice equipment too, must have read\nthe help files, Eh?",
-  "flags_raw": "68 0 500 S",
-  "stats1_raw": "5 15 9 10d5+20 2d3+2",
-  "stats2_raw": "1100 1000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "76 0 -500 E",
+  "stats1_raw": "6 17 9 1d1+126 5d1+2",
+  "stats2_raw": "90 2371 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/186.mob"
 }

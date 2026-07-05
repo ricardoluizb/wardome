@@ -1,0 +1,29 @@
+{
+  "id": 13293,
+  "zone_id": 132,
+  "name": "The East Market Square",
+  "description": "You are at the southwest corner of the east market.  Citizens are laughing\ngleefully outside one of the many homes to the west and south.  The market \ncontinues north and east.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "east market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13294
+    },
+    {
+      "dir": 1,
+      "description": "east market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13289
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

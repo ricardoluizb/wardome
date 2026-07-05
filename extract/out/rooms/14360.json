@@ -1,0 +1,29 @@
+{
+  "id": 14360,
+  "zone_id": 143,
+  "name": "Entrance to the Crypt",
+  "description": "The walls of this room have been covered with several large drawings depicting\nEqyptian gods. The air is thick with the smell of old perfumes, and the only\nnew exit is a staircase leading down into the darkness.",
+  "header_raw": "143 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "It is too dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14356
+    },
+    {
+      "dir": 5,
+      "description": "The staircase leads down into the darkness.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14361
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

@@ -4,9 +4,9 @@
   "short_desc": "the myconoid shaman",
   "long_desc": "A rather large myconoid stands here chanting in a strange tongue.",
   "detailed_desc": "The shaman shoots spores into the air.",
-  "flags_raw": "acil dhk 950 S",
-  "stats1_raw": "14 7 1 1d12+173 2d7+2",
-  "stats2_raw": "2500 18000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "2349 1160 950 E",
+  "stats1_raw": "22 9 6 1d1+459 5d3+8",
+  "stats2_raw": "330 52306 0",
+  "stats3_raw": "8 8 1 11 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/50.mob"
 }

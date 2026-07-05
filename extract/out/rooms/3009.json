@@ -2,9 +2,9 @@
   "id": 3009,
   "zone_id": 30,
   "name": "The Bakery",
-  "description": "You are standing inside the small bakery.  A sweet scent of Danish and\nfine bread fills the room.  The bread and Danish are arranged in fine order\non the shelves, and seem to be of the finest quality.\nA small sign is on the counter.",
-  "header_raw": "30 dh 0",
-  "flags_text": "dh",
+  "description": "This was the bakery. Breads of finest quality were made here. Now,\nonly dead bodies are made here.",
+  "header_raw": "30 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

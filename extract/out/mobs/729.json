@@ -1,0 +1,12 @@
+{
+  "id": 729,
+  "alias": "captain guard",
+  "short_desc": "the Captain",
+  "long_desc": "The Captain of the Guard salutes you with his epee.",
+  "detailed_desc": "The Captain has a true love of civilized fighting.  He raises his\neyebrow to you...shall we have a go at it?",
+  "flags_raw": "10 128 200 E",
+  "stats1_raw": "90 -35 -11 1d1+6120 5d19+86",
+  "stats2_raw": "1350 2808292 5",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

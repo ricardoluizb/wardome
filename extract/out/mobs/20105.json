@@ -1,0 +1,12 @@
+{
+  "id": 20105,
+  "alias": "monk guard",
+  "short_desc": "a monk guard",
+  "long_desc": "A monk guard charges at you for intruding this room!",
+  "detailed_desc": "Armed and dangerous, you don't want to mess with him.",
+  "flags_raw": "46 16778280 -100 E",
+  "stats1_raw": "80 -34 -12 1d1+6720 5d17+102",
+  "stats2_raw": "1200 2127417 7",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/201.mob"
+}

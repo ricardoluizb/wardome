@@ -3,8 +3,8 @@
   "zone_id": 70,
   "name": "The Junction Going Three Ways",
   "description": "You are in a passageway in the pipes of the sewer system leading north,\neast and west.",
-  "header_raw": "70 ad 1",
-  "flags_text": "ad",
+  "header_raw": "70 9 1",
+  "flags_text": "9",
   "sector": 1,
   "exits": [
     {

@@ -1,0 +1,12 @@
+{
+  "id": 1122,
+  "alias": "oldstyle halfling youth",
+  "short_desc": "a halfling youth",
+  "long_desc": "A halfling youth stands here, waiting for nothing in particular.",
+  "detailed_desc": "The halfling youth is not yet quite in the prime of his youth.  He's knee\nhigh and you get the sudden urge to step on him.",
+  "flags_raw": "200 40 0 E",
+  "stats1_raw": "90 -29 -6 1d1+3960 5d10+56",
+  "stats2_raw": "1350 2658738 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/11.mob"
+}

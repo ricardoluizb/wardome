@@ -4,9 +4,9 @@
   "short_desc": "the tourist",
   "long_desc": "A tourist stands here looking lost.",
   "detailed_desc": "You see a small, rotund man, with a strange object around his neck and\na nose guard.  He is looking at a small map that he seems to be holding\nupside down.",
-  "flags_raw": "cgh 0 0 S",
-  "stats1_raw": "5 18 80 2d10+15 1d8+2",
-  "stats2_raw": "500 650",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "204 0 0 E",
+  "stats1_raw": "5 18 9 1d1+99 5d1+2",
+  "stats2_raw": "75 1651 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

@@ -1,0 +1,42 @@
+{
+  "id": 6601,
+  "zone_id": 66,
+  "name": "The middle of the Mountain",
+  "description": "You are in front of the gate of an old Mansion.\nTo the south you can see a trail that goes to the Top of the Mountain.\nAnd to the north you see a garden.\nThere is a sign on the ground.",
+  "header_raw": "66 16777349 5",
+  "flags_text": "16777349",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": 6600,
+      "to": 6602
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 4076
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "trapdoor",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6900
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "The Dark Mansion was created by Sephiroth\nat May 3th 99.\n              Enjoy! And die."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/66.wld"
+}

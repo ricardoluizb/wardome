@@ -1,0 +1,45 @@
+{
+  "id": 10200,
+  "zone_id": 102,
+  "name": "The Castle Entrance",
+  "description": "You are standing at the castle entrance, in a lower level. There is a\nplataform, followed by a stair. Red royal carpets fullfills every step that\nyou give. There is two pathways leading to both sides of the lower level\nof the plataform. Also there is some statues decorating among the pathways.",
+  "header_raw": "102 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10214
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10207
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11758
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10201
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

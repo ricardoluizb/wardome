@@ -1,0 +1,34 @@
+{
+  "id": 19008,
+  "zone_id": 190,
+  "name": "Path crossing.",
+  "description": "the path splits up into four paths, one in every direction. \nIn the middle on the crossing stands a gigantic stone obelisk \nwith some runes on it.",
+  "header_raw": "190 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 19009
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 19007
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "runes obelisk stone",
+      "description": "If you had been an old elven sage you might have known what the \nrunes told, but you are not, so this means nothing to you...."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/190.wld"
+}

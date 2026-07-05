@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Apprentices' Barracks",
   "description": "You are in the barracks of the apprentice magic users.  Here and there,\na young apprentice sits engrossed in magical study, or practicing a feeble\ncantrip.  Cots line the walls, and the room continues east.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

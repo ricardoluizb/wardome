@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Large Cave",
   "description": "You find yourself in a fairly large cave.  Large enough that the\neastern and western ends are almots completely shrouded in darkness.\nA small tunnel breaks through the southern wall, and it too is full\nof shadows.",
-  "header_raw": "40 ad 2",
-  "flags_text": "ad",
+  "header_raw": "40 9 2",
+  "flags_text": "9",
   "sector": 2,
   "exits": [
     {

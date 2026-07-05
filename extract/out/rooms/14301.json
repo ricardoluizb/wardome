@@ -1,0 +1,29 @@
+{
+  "id": 14301,
+  "zone_id": 143,
+  "name": "In the Desert",
+  "description": "The sun blazes down from above with intense heat. Sweat seeps from your pores\nmaking your clothes cling to your skin. Nothing is to be seen in any direction\nexcept for a speck on the south horizon.",
+  "header_raw": "143 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "To the north is the edge of the desert.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14300
+    },
+    {
+      "dir": 2,
+      "description": "The desert continues to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14302
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

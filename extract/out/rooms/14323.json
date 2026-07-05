@@ -1,0 +1,29 @@
+{
+  "id": 14323,
+  "zone_id": 143,
+  "name": "At the Palace Gates",
+  "description": "A huge marble gate blocks your way.  This is the entrance to the palace of\nCleopatra, Queen of the Eqyptians. Legends of her beauty have spread across\nthe surrounding lands, and many suitors have come and gone in an attempt to\ncourt her.",
+  "header_raw": "143 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A paved street.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14322
+    },
+    {
+      "dir": 3,
+      "description": "The interior of the palace is bright and colorful.",
+      "keywords": "gate",
+      "door_flag": 2,
+      "key": 14323,
+      "to": 14324
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

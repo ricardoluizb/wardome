@@ -1,0 +1,29 @@
+{
+  "id": 17616,
+  "zone_id": 176,
+  "name": "The Shed",
+  "description": "You are in the storage shed.  Bales of wheat, corn and hay are piled\nagainst the wall, and some vegetables are in carts.  You see a small door\nto the west.  The main exit is south.",
+  "header_raw": "176 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see the corn fields.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17612
+    },
+    {
+      "dir": 3,
+      "description": "You see the door.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17600
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/176.wld"
+}

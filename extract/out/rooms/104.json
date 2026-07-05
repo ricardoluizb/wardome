@@ -1,0 +1,29 @@
+{
+  "id": 104,
+  "zone_id": 1,
+  "name": "Nearing the Forest Floor",
+  "description": "The forest looms ever closer, ever more dark and sinister.  You can now see\nthat the birds you saw from up above playing in the treetops were actually\nbuzzards which seem to constantly circle the treetops everywhere, fighting each\nother and anything that trys to get past them.  Looking up, you realize that\nthe climb ahead would be a real bitch, maybe even impossible.",
+  "header_raw": "1 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 103
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 105
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/1.wld"
+}

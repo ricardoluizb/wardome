@@ -1,0 +1,12 @@
+{
+  "id": 14122,
+  "alias": "wisp ball",
+  "short_desc": "the wisp",
+  "long_desc": "A blue ball of light soars over to you and winks.",
+  "detailed_desc": "The Wisp is constantly blinking.  It wishes information exchange.\n\nIt looks peaceful, but will defend itself.",
+  "flags_raw": "2060 1152 0 E",
+  "stats1_raw": "60 -12 0 1d1+2160 5d7+34",
+  "stats2_raw": "900 838996 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

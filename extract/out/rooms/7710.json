@@ -1,0 +1,53 @@
+{
+  "id": 7710,
+  "zone_id": 77,
+  "name": "Exploring the Astral Plane",
+  "description": "You find yourself floating in a field of blackness, filled with tiny tendrils\nof silvery light and insubstantial shining motes of dust.  The weightlessness\nof this environment is very disorienting, and it is difficult to maintain your \nbearings and sense of direction.",
+  "header_raw": "77 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The astral field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7715
+    },
+    {
+      "dir": 1,
+      "description": "The astral field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7707
+    },
+    {
+      "dir": 3,
+      "description": "The astral field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7708
+    },
+    {
+      "dir": 4,
+      "description": "The astral field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7713
+    },
+    {
+      "dir": 5,
+      "description": "The astral field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7709
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/77.wld"
+}

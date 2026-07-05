@@ -1,0 +1,29 @@
+{
+  "id": 9967,
+  "zone_id": 99,
+  "name": "A road in Ghenna.",
+  "description": "This road is quite narrow, but seems to open up towards the South.  \nA fallen building stands to the West, and the city wall blocks the \nexit north.",
+  "header_raw": "99 1 1",
+  "flags_text": "1",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9969
+    },
+    {
+      "dir": 2,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9902
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

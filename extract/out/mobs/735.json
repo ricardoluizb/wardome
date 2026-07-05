@@ -1,0 +1,12 @@
+{
+  "id": 735,
+  "alias": "gateguard",
+  "short_desc": "the Gateguard",
+  "long_desc": "The gateguard is here, guarding the gate.",
+  "detailed_desc": "The guard guard looks at you and enunciates very clearly,\n'Guard guard guard guard guard guard guard guard guard.'\n\t(looks like he got the right job!)",
+  "flags_raw": "10 128 400 E",
+  "stats1_raw": "95 -37 -11 1d1+6456 5d19+88",
+  "stats2_raw": "1425 3275365 5",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

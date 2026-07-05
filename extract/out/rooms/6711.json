@@ -1,0 +1,21 @@
+{
+  "id": 6711,
+  "zone_id": 67,
+  "name": "The alchemy shop",
+  "description": "Vials and bottles of all shapes and sizes line the cluttered shelves\nof this small shop. On a window in the north wall sits a bizarre\ngolden squid-like creature in a jar, glinting in the sun. You wonder\nwhat oddities could be found in storage.",
+  "header_raw": "67 184 0",
+  "flags_text": "184",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6710
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

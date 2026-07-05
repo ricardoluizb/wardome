@@ -1,0 +1,29 @@
+{
+  "id": 11285,
+  "zone_id": 112,
+  "name": "A Narrow Tunnel",
+  "description": "You have been in more pleasant latrines than this cesspit of humanoid\nwaste. You wince at the various ...things... that brush against you in\nthe water, which is thick with excrement and other, even more disgusting,\nobjects. You see, to your abject horror, human hands and feet drift past,\nas well as stinking entrails.",
+  "header_raw": "112 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11281
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11286
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

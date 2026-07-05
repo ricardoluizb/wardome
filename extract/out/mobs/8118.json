@@ -1,0 +1,12 @@
+{
+  "id": 8118,
+  "alias": "man",
+  "short_desc": "a Lonoyan man",
+  "long_desc": "A man of Ofingia stands here.",
+  "detailed_desc": "He won't desert his town for a million goblins, all waving axes.",
+  "flags_raw": "8 0 400 E",
+  "stats1_raw": "152 -78 -29 1d1+17628 5d46+170",
+  "stats2_raw": "2280 17042481 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

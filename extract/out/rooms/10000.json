@@ -1,0 +1,37 @@
+{
+  "id": 10000,
+  "zone_id": 100,
+  "name": "The Start of a Winding Trail",
+  "description": "The forest clears away and you step through the last row of trees.  What\nconfronts you is a nightmarish vision of a huge, dark castle built into the\nwall of the cliff.  A narrow, winding trail is carved into the cliff, snaking\nit's way up to the entrance to the castle, hundreds of feet above you.  You\nthink you may see a bit of movement on the road, possibly a person or two up\nthere, but from here you cannot be sure.  Your choices seem to be quite\nlimited.  You can either head up the winding trail to the castle or head back\ninto this terrible forest, taking your chances with the many monsters which\nroam the trees.",
+  "header_raw": "100 1 3",
+  "flags_text": "1",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10034
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10001
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10033
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/100.wld"
+}

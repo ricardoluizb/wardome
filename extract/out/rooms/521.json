@@ -1,0 +1,21 @@
+{
+  "id": 521,
+  "zone_id": 5,
+  "name": "&BThe Temple of the Giths&n",
+  "description": "You are standing on a floor, covered by craniums and scattered bones, what\nit doesn't sound strange because they are undead creatures made by magic and bones.\nYou can see by an bone-covered altar that the Giths worship evil gods.\n   The exit to the Temple Street is to the North.",
+  "header_raw": "5 1048596 0",
+  "flags_text": "1048596",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 509
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

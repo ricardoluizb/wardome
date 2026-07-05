@@ -1,0 +1,29 @@
+{
+  "id": 30068,
+  "zone_id": 300,
+  "name": "An elven home",
+  "description": "This is a pleasant room in a cozy house.  Upon the wooden floor is a large\nround rug with a colourful patchwork design.  Leafy plants dangle from pots in\nthe ceiling.  Also, inset into the roof is a window allowing the light to pour\nin.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30069
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30067
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

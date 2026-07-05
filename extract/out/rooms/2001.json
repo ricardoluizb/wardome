@@ -1,0 +1,61 @@
+{
+  "id": 2001,
+  "zone_id": 20,
+  "name": "Foyer",
+  "description": "You enter a large Foyer and are greeted by a Butler who Welcomes you to\nthe Castle of Desire it is the home of Shimmer your Queen and Honeybear\nyour King..out infront of you, a dark mysterious corridor lies to your left,\nand on your right, a beautiful large winding stairwell leading\nupwards....You wonder where to start in exploring the forbidden secrets that\nthis Castle must hold....enjoy your stay..and all your desires that you \nfulfill here..  The vision of an Oak Tree appears before you in the corner \nof the room.",
+  "header_raw": "20 16777372 0",
+  "flags_text": "16777372",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2002
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2004
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": -1
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2003
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6002
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "The Castle Moat",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2035
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

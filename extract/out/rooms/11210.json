@@ -1,0 +1,21 @@
+{
+  "id": 11210,
+  "zone_id": 112,
+  "name": "Potrax's Potions",
+  "description": "This is a well appointed alchemist's shop; the shelves are overburdened\nwith all manner of elixirs, potions, flasks and philters. Essential oils\nfill jars and containers near the counter, upon which a smoky oil lamp\ncasts a smoky luminescence. Heaven to mages, the aroma and surrounds tend\nto make others feel rather claustrophobic and uncomfortable.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11209
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

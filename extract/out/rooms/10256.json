@@ -1,0 +1,21 @@
+{
+  "id": 10256,
+  "zone_id": 102,
+  "name": "A Jail Cell",
+  "description": "A jail cell? It is rather strange to a cathedral have a cell inside.\nFor prisioners of war? But even that don't justify the existence of\na cell in a church. There is some several stains of blood on the walls.\nThere is also a skeleton hangin' on a cuff.",
+  "header_raw": "102 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10255
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

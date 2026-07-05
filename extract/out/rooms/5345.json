@@ -3,8 +3,8 @@
   "zone_id": 53,
   "name": "The Tomb Of The Pharoahs",
   "description": "Great golden sarcophogai line the walls of this massive tomb.  It has\nwithstood the passage of time intact, untouched by the hands of thieves\nand looters.  The treasures taken by the pharoahs to their graves still\nlie before your feet.",
-  "header_raw": "53 ad 0",
-  "flags_text": "ad",
+  "header_raw": "53 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

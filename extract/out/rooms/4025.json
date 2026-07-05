@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Cave",
   "description": "You find yourself standing in the northern end of a reasonably\nlarge cave.  The cave wall to the east has an opening that appears\nto lead to a junction of several tunnels.",
-  "header_raw": "40 ad 2",
-  "flags_text": "ad",
+  "header_raw": "40 9 2",
+  "flags_text": "9",
   "sector": 2,
   "exits": [
     {

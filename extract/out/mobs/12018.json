@@ -4,9 +4,9 @@
   "short_desc": "the gateguard",
   "long_desc": "A gateguard stands here, tending the gate.",
   "detailed_desc": "You see a strong, loyal public defender.",
-  "flags_raw": "abcel 0 1000 S",
-  "stats1_raw": "11 10 2 3d6+130 1d6+5",
-  "stats2_raw": "500 11000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "2079 0 1000 E",
+  "stats1_raw": "24 8 6 1d1+504 5d3+8",
+  "stats2_raw": "360 59363 0",
+  "stats3_raw": "8 8 1 3 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/120.mob"
 }

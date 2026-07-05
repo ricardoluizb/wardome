@@ -1,0 +1,29 @@
+{
+  "id": 8145,
+  "zone_id": 81,
+  "name": "The Spiral Tunnel",
+  "description": "The stream of water seems to be your last friend.  Its water is muddy \nbut it still tastes good after walking so far.  The gloom of these\ncaverns is beginning to darken your mind, and you long for the common\nroom of the Grunting Boar Inn.",
+  "header_raw": "81 9 3",
+  "flags_text": "9",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "The endless tunnel spirals upward.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8144
+    },
+    {
+      "dir": 5,
+      "description": "The endless spiral runs deeper still into the earth.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8146
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

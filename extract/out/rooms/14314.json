@@ -1,0 +1,21 @@
+{
+  "id": 14314,
+  "zone_id": 143,
+  "name": "Rez's World of Weapons",
+  "description": "A fat man sits behind a counter eyeing you suspiciously. A sign here says,\n\"NO CREDIT--CASH ONLY.\"",
+  "header_raw": "143 136 1",
+  "flags_text": "136",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A crowded market.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14309
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

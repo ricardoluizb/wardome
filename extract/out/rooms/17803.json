@@ -1,0 +1,50 @@
+{
+  "id": 17803,
+  "zone_id": 178,
+  "name": "A Dusty Path",
+  "description": "You are on a dusty path on the far side of the village.  Houses are to the\nnorth and south, while the path continues east.  There is a sign here.",
+  "header_raw": "178 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a house.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17811
+    },
+    {
+      "dir": 1,
+      "description": "You see a path.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17857
+    },
+    {
+      "dir": 2,
+      "description": "You see a house.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17812
+    },
+    {
+      "dir": 3,
+      "description": "You see a road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17802
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "Warning:  The area to the east was written mostly by Vougon\n                    (giggle)    - Sandman"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

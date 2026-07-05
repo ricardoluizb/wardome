@@ -1,0 +1,12 @@
+{
+  "id": 565,
+  "alias": "beggar",
+  "short_desc": "the beggar",
+  "long_desc": "A beggar is here, asking for a few coins.",
+  "detailed_desc": "The beggar looks like she is fed up with life.",
+  "flags_raw": "10 0 0 E",
+  "stats1_raw": "0 0 0 0d0+400 12d14+8",
+  "stats2_raw": "1 1 252",
+  "stats3_raw": "5 2 4 -76 87",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/5.mob"
+}

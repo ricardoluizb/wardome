@@ -1,0 +1,37 @@
+{
+  "id": 782,
+  "zone_id": 7,
+  "name": "Entrance to the Garden",
+  "description": "Starlight gives this ill-seeming garden illumination, the dim\ntwinkling giving the illusion of movement to the plantlife within.\nAll around you vines crawl up decaying trellises and the other\nvegetation grows out of control, untended.  You hear a gentle swishing\nof water to a northernly direction, and you can go deeper into the\ngarden to the east, but you definitely think going west might be the\nbest idea...",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 783
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 781
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 785
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

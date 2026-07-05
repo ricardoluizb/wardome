@@ -3,8 +3,8 @@
   "zone_id": 52,
   "name": "The South Wing Of The City Hall",
   "description": "You stand in a large room attached to this end of the hallway which \nleads back north to the reception area.  Pedestals and columns have fallen\nand most of the valuable items have been taken, leaving worthless debris.\nA few chairs have survived, as well as a large curved desk.  To the east\nis a vine-covered archway leading out into a private courtyard.",
-  "header_raw": "52 d 1",
-  "flags_text": "d",
+  "header_raw": "52 8 1",
+  "flags_text": "8",
   "sector": 1,
   "exits": [
     {

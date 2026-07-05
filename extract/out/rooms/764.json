@@ -1,0 +1,21 @@
+{
+  "id": 764,
+  "zone_id": 7,
+  "name": "Reception",
+  "description": "Kell's wife, Myrama, greets you with a smile.  The rooms here are\nbig and clean, and you'll never have a more comfortable stay than at\nKell's House.",
+  "header_raw": "7 12 0",
+  "flags_text": "12",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 763
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 607,
+  "zone_id": 6,
+  "name": "How can I cast a Spell and use a Scrool?",
+  "description": "To facilitate your permanence in Wardome Mud, and to\nfacilitate the combat the commands exist Cast and Recite.\nBut so that it serves each one of them? It is that that\nwe will see here in details with the Master of the Magic.",
+  "header_raw": "6 262192 0",
+  "flags_text": "262192",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 608
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 612
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 606
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/6.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 6798,
+  "zone_id": 67,
+  "name": "A garden of wild witchbane",
+  "description": "As you brush through the wild garden, a slightly sticky substance \nwith a dark red hue adheres itself to your legs, raising the hairs\nof suspicion on the back of your neck. The tenuous climbing vines\nare dark green with black undersides, rather resembling.. poison\nivy.",
+  "header_raw": "67 1 3",
+  "flags_text": "1",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6799
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6797
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

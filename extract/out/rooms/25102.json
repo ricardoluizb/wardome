@@ -1,0 +1,37 @@
+{
+  "id": 25102,
+  "zone_id": 251,
+  "name": "The road to Camelot",
+  "description": "The road goes north. At its end you can see a huge wall. Now, you can hear\nnoises from the people of the city.",
+  "header_raw": "251 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 25105
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 25101
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "tree",
+      "door_flag": 1,
+      "key": 0,
+      "to": 25103
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/251.wld"
+}

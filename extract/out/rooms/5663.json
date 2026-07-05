@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "On The Dark River",
   "description": "The walls of rock around you slowly shrink to ground level as the river \nflows out of the mountains and onto the plains.",
-  "header_raw": "54 a 7",
-  "flags_text": "a",
+  "header_raw": "54 1 7",
+  "flags_text": "1",
   "sector": 7,
   "exits": [
     {

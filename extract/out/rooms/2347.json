@@ -1,0 +1,29 @@
+{
+  "id": 2347,
+  "zone_id": 23,
+  "name": "The village dump",
+  "description": "The smell here overpowers you. All around you are the rotting remains of the\nvillage's refuse. Partially eaten corpses, rotting food, and other truly\ndisgusting things have been discarded here. Paths lead south and west towards\nfresher air.",
+  "header_raw": "23 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2344
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2346
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

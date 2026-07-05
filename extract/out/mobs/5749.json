@@ -1,0 +1,12 @@
+{
+  "id": 5749,
+  "alias": "bat giant",
+  "short_desc": "a giant Bat",
+  "long_desc": "A giant Bat swoops down to attack you.",
+  "detailed_desc": "This bat is almost as big as you are, and with its huge black wings and long,\npointy fangs dripping potent venom, it is quite a formidable sight. Better \nbe careful with this one.",
+  "flags_raw": "110 8200 -400 E",
+  "stats1_raw": "20 -12 -9 1d1+2316 5d7+118",
+  "stats2_raw": "300 65430 11",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

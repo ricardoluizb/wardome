@@ -1,0 +1,12 @@
+{
+  "id": 1015,
+  "alias": "specter greater demon",
+  "short_desc": "the Greater Demon Specter",
+  "long_desc": "The Greater Demon Specter floats just above the ground before you.",
+  "detailed_desc": "The Greater Demon Specter, floats about a foot above the ground, its form\nfading in and out of existance, changing colours. The only defining feature is\nits glowing orange and red eyes. It continues to change form, its essence\nforming claws, teeth, talons and tenticles, all of ghostly form, yet very real.",
+  "flags_raw": "233502 9348136 -1000 E",
+  "stats1_raw": "80 -40 -17 1d1+8640 5d25+132",
+  "stats2_raw": "1200 2475540 10",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/10.mob"
+}

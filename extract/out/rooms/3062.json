@@ -3,8 +3,8 @@
   "zone_id": 30,
   "name": "The Post Office",
   "description": "You are in the central post office for Midgaard.  Piles of assorted mail\nlay untouched in the corners, collecting cobwebs.  Several large crates have\nbeen pried open by curious customs agents, and are now stacked along the west\nwall, hiding plenty of 'WANTED' posters.\nThere is a sign posted on the wall here.",
-  "header_raw": "30 deh 1",
-  "flags_text": "deh",
+  "header_raw": "30 152 1",
+  "flags_text": "152",
   "sector": 1,
   "exits": [
     {

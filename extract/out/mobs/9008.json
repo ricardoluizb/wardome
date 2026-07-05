@@ -1,0 +1,12 @@
+{
+  "id": 9008,
+  "alias": "stone ogre",
+  "short_desc": "the stone ogre",
+  "long_desc": "A stone ogre tramples around.",
+  "detailed_desc": "The ogre seems confused.",
+  "flags_raw": "7694 1064 -800 E",
+  "stats1_raw": "196 -96 -32 1d1+19596 5d39+168",
+  "stats2_raw": "2940 30624307 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/90.mob"
+}

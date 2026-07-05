@@ -1,0 +1,12 @@
+{
+  "id": 11234,
+  "alias": "grinning goblin",
+  "short_desc": "a grinning goblin",
+  "long_desc": "A grinning goblin cackles maniacally.",
+  "detailed_desc": "This fecund member of the Gutripper Clan is here under the auspices of\nthe clan shaman, who took it upon himself to invade the mage's tower\nwhen the town came under the influence of whatever malady besets them.\nFerocious even by goblin standards, this sinewy foe is quite capable of\nrending strong adventurers in two.",
+  "flags_raw": "42 0 -500 E",
+  "stats1_raw": "40 -18 -9 1d1+3996 5d9+106",
+  "stats2_raw": "600 341495 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

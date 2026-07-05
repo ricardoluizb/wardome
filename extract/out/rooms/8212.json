@@ -1,0 +1,37 @@
+{
+  "id": 8212,
+  "zone_id": 82,
+  "name": "The Western Corridor",
+  "description": "You are in the western corridor, where there are many wood benches, you see to\nsome French believers who are waiting to the cardenal to arrive. At the sides\nyou can see in the windows some stained-glasses with passages from the bible.\nAt the west a wood and old door, probably will take you to a small room.",
+  "header_raw": "82 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8208
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8215
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 8213
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

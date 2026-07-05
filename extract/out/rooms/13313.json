@@ -1,0 +1,37 @@
+{
+  "id": 13313,
+  "zone_id": 132,
+  "name": "The Southwest Corner",
+  "description": "You are at one of the corners of the city.  A tower is to the southwest and \nthe city walls block your path south and west.  Roads continue along the walls\nnorth and east.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "west wall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13312
+    },
+    {
+      "dir": 1,
+      "description": "south wall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13315
+    },
+    {
+      "dir": 4,
+      "description": "southwest tower",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13314
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

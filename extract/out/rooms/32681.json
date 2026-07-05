@@ -1,0 +1,29 @@
+{
+  "id": 32681,
+  "zone_id": 326,
+  "name": "skill 2",
+  "description": "&MSECOND ATTACK\n\n&c- &CClasses que aprendem: &rWarrior &w(&W45&w)&c, &RBarbarian &w(&W53&w)&c, Ninja &w(&W61&w)&c, &GThief &w(&W74&w)&c, &YRanger &w(&W76&w)&c, &yPaladin &w(&W78&w)&c,\n&BCleric &w(&W90&w)&c, &bShaman &w(&W101&w)&c, &WNecromancer &w(&W104&w)&c, &CSorcerer &w(&W108&w)&c, &mWarlock &w(&W108&w)\n&c- &CDelay: &Rn/a\n&c- &CDuracao: &cpassiva\n&c- &CCondicao: &cn/a\n&c- &CDescricao: &cPermite um golpe a mais ao jogador.\n&c- &CSintaxe: &cn/a",
+  "header_raw": "326 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 32683
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 32680
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/326.wld"
+}

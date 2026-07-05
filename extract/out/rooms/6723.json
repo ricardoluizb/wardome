@@ -1,0 +1,45 @@
+{
+  "id": 6723,
+  "zone_id": 67,
+  "name": "The southern path",
+  "description": "The green grass and firm soil of the path begin to give way to mud\nstrewn with traces of human filth as you pass into the poorer section\nof Sundhaven. The shanties and town dump add a mild stench to the air,\nand attest to the virtual burglaries of the poor by the rich.. and\noften by the poor.",
+  "header_raw": "67 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6720
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6724
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6727
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6725
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

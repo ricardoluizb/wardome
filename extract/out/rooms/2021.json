@@ -1,0 +1,29 @@
+{
+  "id": 2021,
+  "zone_id": 20,
+  "name": "Cullinary",
+  "description": "-You enter a world of delicious smells...Bread is baking in the old stone\novens...The Roast is turning on the spit in the hickory fire... A long\noblong, oval shaped table stands in the middle of the culinary, which is equiped with all the neccessities...A variety of cabinets and shelving line the\nwalls full of food supplies...A large metal rack hangs over the middle table,\nwith pots and and utensils hanging from it...",
+  "header_raw": "20 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2023
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2013
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

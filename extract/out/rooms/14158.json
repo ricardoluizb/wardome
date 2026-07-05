@@ -1,0 +1,29 @@
+{
+  "id": 14158,
+  "zone_id": 141,
+  "name": "Under the Stone Arch",
+  "description": "You stand under a large stone arch.  To your east there is a\nbonfire.  Around the bonfire, are these same stone arches; they\nform a circle around the clearing.",
+  "header_raw": "141 64 3",
+  "flags_text": "64",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "There are chanting druids and a large bonfire to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14159
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14157
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

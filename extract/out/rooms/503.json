@@ -1,0 +1,70 @@
+{
+  "id": 503,
+  "zone_id": 5,
+  "name": "&CThe Fountain Square&n",
+  "description": "&n   You are standing in a large square. At the center of it, there is a\nwonderful marble fountain, gushing out a large quantity of clear water.\n&n   The Wardome &CDonation Room&n is to the east, the &mCommon Board&n is to the west,\nand you see &CThe Center of the Temple Street&n to the south.",
+  "header_raw": "5 148 0",
+  "flags_text": "148",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 502
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 507
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 501
+    },
+    {
+      "dir": 4,
+      "description": "To visit the ORACLE!",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 568
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "Hill",
+      "description": "You see the statue of Hill, the Most powerful being ever."
+    },
+    {
+      "keywords": "Locky",
+      "description": "You see the statue of Locky, the Evil Master of War"
+    },
+    {
+      "keywords": "zhantar",
+      "description": "You see the statue of Zhantar, the Second Master of War"
+    },
+    {
+      "keywords": "Lothar",
+      "description": "You see a statue of Lothar, the First Master of War"
+    },
+    {
+      "keywords": "Taerom",
+      "description": "You see the statue of Taerom, the Good Master of War"
+    },
+    {
+      "keywords": "Arkhon",
+      "description": "You see the statue of Arkhon, the Smart Master of War"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

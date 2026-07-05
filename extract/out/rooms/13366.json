@@ -1,0 +1,29 @@
+{
+  "id": 13366,
+  "zone_id": 132,
+  "name": "A Winding Cavern",
+  "description": "You are very uneasy because of all the stalactites on the ceiling.  You\nlook up and swear one of them is moving until you take a second look.  The \nwalls glitter with gems and gold.",
+  "header_raw": "132 9 5",
+  "flags_text": "9",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "the cavern",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13367
+    },
+    {
+      "dir": 1,
+      "description": "the cavern",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13365
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

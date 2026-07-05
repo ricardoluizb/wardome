@@ -1,0 +1,12 @@
+{
+  "id": 701,
+  "alias": "Sentinel Beast",
+  "short_desc": "the Sentinel Beast",
+  "long_desc": "The Sentinel Beast's eyes glow chaotically as it attacks!",
+  "detailed_desc": "The Sentinel Beast is somewhat reminiscent of a wolf if you ignore the\nmulti-colored glowing eyes, the horns, the six inch long claws...",
+  "flags_raw": "42 136 0 E",
+  "stats1_raw": "100 -40 -12 1d1+6792 5d21+90",
+  "stats2_raw": "1500 3791433 5",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

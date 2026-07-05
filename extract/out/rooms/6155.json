@@ -3,8 +3,8 @@
   "zone_id": 61,
   "name": "The Cultist Temple",
   "description": "This temple, built to a god you don't worship, is a nice place to\nvisit but you feel very uncomfortable about spending any amount of\ntime here.  The wooden altar seems to almost glow as you enter the\nroom.  The only exit is the way you came in.",
-  "header_raw": "61 ad 3",
-  "flags_text": "ad",
+  "header_raw": "61 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

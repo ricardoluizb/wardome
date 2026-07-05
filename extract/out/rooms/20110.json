@@ -1,0 +1,21 @@
+{
+  "id": 20110,
+  "zone_id": 201,
+  "name": "The Kitchen",
+  "description": "The aroma of fresh hot steaming buns almost make you salivate as you enter\nthe kitchen.  Some pots and pans are hung on the wall, waiting to be used.",
+  "header_raw": "201 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The Dining Hall.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20109
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/201.wld"
+}

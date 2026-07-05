@@ -1,0 +1,21 @@
+{
+  "id": 15125,
+  "zone_id": 150,
+  "name": "Food Tent",
+  "description": "This is where the village comes to eat their meals, three times daily.  A\nraised chair at the head of the long table looks down on all, this must\nobviously be Mordecai's seat of honor.  Currently, there is no one here eating.",
+  "header_raw": "150 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 15124
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/151.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 30009,
+  "zone_id": 300,
+  "name": "Grey Haven's shop",
+  "description": "This very room is the center of trade throughout the whole region.  The shelves\nand storeroom are normally packed with all manner of items which may come in\nuseful for the hardy adventurer.",
+  "header_raw": "300 12 1",
+  "flags_text": "12",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30006
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

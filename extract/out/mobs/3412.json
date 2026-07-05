@@ -1,0 +1,12 @@
+{
+  "id": 3412,
+  "alias": "oldstyle spirit ghost king crotus",
+  "short_desc": "the spirit of King Crotus",
+  "long_desc": "The spirit of King Crotus is floating lazily above the floor.",
+  "detailed_desc": "Floating above the ground here and looking a bit dead, he whispers\nsoftly into the air:\n\n    The forces of evil have unlocked my spirit as\n    well as one other.  Free me from this misery,\n    anyone that can hear. The peace of the grave\n    calls me but I am blocked from its quiet.",
+  "flags_raw": "10 40 350 E",
+  "stats1_raw": "180 -82 -26 1d1+13680 5d37+132",
+  "stats2_raw": "2700 21231447 6",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/34.mob"
+}

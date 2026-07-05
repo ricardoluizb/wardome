@@ -1,0 +1,34 @@
+{
+  "id": 1000,
+  "zone_id": 10,
+  "name": "The Cathedral Courtyard",
+  "description": "Leaves blown about by the wind of countless centuries fill this \nlonely empty courtyard with their dull hollow rustle.  As you look\naround an eerie feeling overcomes you, as if you are being watched.\n   Just to the north, you see that the once beautiful double doors\nleading into the cathedral proper have been torn from their frames\nand left lying on the ground near the now open doorway.\n   At the southern end of the courtyard, a large iron wrought gate\ncan be seen, creaking in the wind.  On the other side of the gate,\nthere seems to be an older road leading away from the cathedral.",
+  "header_raw": "10 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A large fountain of water can be seen inside the open doorway to the\nnorth.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1001
+    },
+    {
+      "dir": 2,
+      "description": "The iron wrought gate stands in the middle of the stone wall, and blocks\nthe way southwards towards the old stone road.",
+      "keywords": "gate iron wrought",
+      "door_flag": 1,
+      "key": -1,
+      "to": 1055
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "door doors",
+      "description": "The remains of the two doors that served as the main entranceway to\nthe cathedral are now lying in near ruins on the ground.  The doors\nare covered with scuff and scratch marks and are merely a shadow of\ntheir former glory."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

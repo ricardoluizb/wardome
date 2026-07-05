@@ -1,0 +1,12 @@
+{
+  "id": 21000,
+  "alias": "muir",
+  "short_desc": "Muir",
+  "long_desc": "An unfinished mob stands here.",
+  "detailed_desc": "It looks unfinished.",
+  "flags_raw": "8 0 0 E",
+  "stats1_raw": "0 20 10 1d1+0 10d1+0",
+  "stats2_raw": "0 0 127",
+  "stats3_raw": "8 8 2 0 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/210.mob"
+}

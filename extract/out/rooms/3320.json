@@ -3,8 +3,8 @@
   "zone_id": 33,
   "name": "A Cave Passageway",
   "description": "This twisty passage leads east and west from here.  \nEastwards you hear the unmistakable sounds of low \nvoices.  The echoes seem to be playing funny effects \non you, however, and you are not sure  from how far \noff these voices might be coming.",
-  "header_raw": "33 d 0",
-  "flags_text": "d",
+  "header_raw": "33 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

@@ -1,0 +1,12 @@
+{
+  "id": 13217,
+  "alias": "blob",
+  "short_desc": "the blob",
+  "long_desc": "The blob is eating everything in it's path",
+  "detailed_desc": "Although slow moving, this....thing...will drain your life very quickly if \nyou are foolish enough to get too close.",
+  "flags_raw": "78 40 -400 E",
+  "stats1_raw": "20 -6 -5 1d1+1836 5d5+88",
+  "stats2_raw": "300 53412 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

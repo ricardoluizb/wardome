@@ -3,8 +3,8 @@
   "zone_id": 72,
   "name": "A Dry Sewer Drain",
   "description": "You are in a dry but dirty sewer drain.  The drain continues east and\nsouth.",
-  "header_raw": "72 ad 3",
-  "flags_text": "ad",
+  "header_raw": "72 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

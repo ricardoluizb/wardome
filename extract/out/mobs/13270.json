@@ -1,0 +1,12 @@
+{
+  "id": 13270,
+  "alias": "mage",
+  "short_desc": "a mage",
+  "long_desc": "A mage utters the words, 'powerword kill'.",
+  "detailed_desc": "A half-drow, this dragon mage is a master of casting deadly combat spells.",
+  "flags_raw": "172040 1048618 -400 E",
+  "stats1_raw": "45 -18 -8 1d1+4140 5d9+98",
+  "stats2_raw": "675 447429 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

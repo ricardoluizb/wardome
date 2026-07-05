@@ -1,10 +1,10 @@
 {
   "id": 7327,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "The L-Shaped Room",
   "description": "You are standing in a L-shaped room.  You can hear noises from the long\ntunnel to the east.  You feel very afraid!\nA sign is hanging on the wall.",
-  "header_raw": "73 ad 2",
-  "flags_text": "ad",
+  "header_raw": "72 9 2",
+  "flags_text": "9",
   "sector": 2,
   "exits": [
     {

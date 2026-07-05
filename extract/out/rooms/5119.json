@@ -3,8 +3,8 @@
   "zone_id": 51,
   "name": "The Entrance To The Temple Of Lloth",
   "description": "The temple is the largest building in the city.  Even its doors are beyond\nimagination.  Inside of the temple entrance, the walls are made of gold and \nadamantite.",
-  "header_raw": "51 ad 0",
-  "flags_text": "ad",
+  "header_raw": "51 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

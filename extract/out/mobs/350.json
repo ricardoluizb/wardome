@@ -1,0 +1,12 @@
+{
+  "id": 350,
+  "alias": "oldstyle dragon pet",
+  "short_desc": "the pet dragon",
+  "long_desc": "Ravan's pet dragon is bouncing around here flapping her cute wings.",
+  "detailed_desc": "Ravan's pet dragon is about 3 ft. tall with small pointy teeth.\nThe small wings are eagerly trying to lift her from the ground,\nbut so far they haven't succeeded.",
+  "flags_raw": "138 136 1000 E",
+  "stats1_raw": "10 15 8 1d1+207 5d2+4",
+  "stats2_raw": "150 7126 0",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/3.mob"
+}

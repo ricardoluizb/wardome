@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Guard Room",
   "description": "This is living quarters for the guards of the palace.  Barren compared\nto the rest of the Palace, you see only cots and footlockers here.  On the\nwalls you see pictures of well known knights who have give a proud name to\nthe Sultan's Guard.",
-  "header_raw": "54 d 0",
-  "flags_text": "d",
+  "header_raw": "54 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

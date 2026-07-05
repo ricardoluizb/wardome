@@ -1,0 +1,694 @@
+{
+  "id": 47,
+  "name": "The Kingdom of Juargan",
+  "header": {
+    "raw": "4785 8 1 1 -1",
+    "min_room": 4785,
+    "top_room": 8,
+    "lifespan": 1,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        4769,
+        3,
+        2
+      ],
+      "comment": "(Ancients Tomb)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4706,
+        1,
+        4769
+      ],
+      "comment": "(Grimdale the ancient king)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        4706,
+        1,
+        16
+      ],
+      "comment": "(a large dwarven battle axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4708,
+        3,
+        4769
+      ],
+      "comment": "(A dwarven spirit)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4708,
+        3,
+        4769
+      ],
+      "comment": "(A dwarven spirit)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4708,
+        3,
+        4769
+      ],
+      "comment": "(A dwarven spirit)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        4707,
+        1,
+        4769
+      ],
+      "comment": "(a large stone sarcophagus)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        4708,
+        1,
+        4707
+      ],
+      "comment": "(the staff of ruling)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        4700,
+        4,
+        1
+      ],
+      "comment": "(The Spiral Stair)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4700,
+        10,
+        4705
+      ],
+      "comment": "(The small dwarf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        4701,
+        100,
+        16
+      ],
+      "comment": "(a mining pick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4700,
+        10,
+        4709
+      ],
+      "comment": "(The small dwarf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        4701,
+        100,
+        16
+      ],
+      "comment": "(a mining pick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4700,
+        10,
+        4713
+      ],
+      "comment": "(The small dwarf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        4701,
+        100,
+        16
+      ],
+      "comment": "(a mining pick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4705,
+        10,
+        4715
+      ],
+      "comment": "(The duergar dwarf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4700,
+        10,
+        4716
+      ],
+      "comment": "(The small dwarf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        4701,
+        100,
+        16
+      ],
+      "comment": "(a mining pick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4700,
+        10,
+        4720
+      ],
+      "comment": "(The small dwarf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        4701,
+        100,
+        16
+      ],
+      "comment": "(a mining pick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4707,
+        1,
+        4720
+      ],
+      "comment": "(The dreaded rock worm)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4700,
+        10,
+        4723
+      ],
+      "comment": "(The small dwarf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        4701,
+        100,
+        16
+      ],
+      "comment": "(a mining pick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4700,
+        10,
+        4725
+      ],
+      "comment": "(The small dwarf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        4701,
+        100,
+        16
+      ],
+      "comment": "(a mining pick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4700,
+        10,
+        4727
+      ],
+      "comment": "(The small dwarf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        4701,
+        100,
+        16
+      ],
+      "comment": "(a mining pick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4700,
+        10,
+        4729
+      ],
+      "comment": "(The small dwarf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        4701,
+        100,
+        16
+      ],
+      "comment": "(a mining pick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4705,
+        10,
+        4729
+      ],
+      "comment": "(The duergar dwarf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4705,
+        10,
+        4729
+      ],
+      "comment": "(The duergar dwarf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4705,
+        10,
+        4732
+      ],
+      "comment": "(The duergar dwarf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4705,
+        10,
+        4733
+      ],
+      "comment": "(The duergar dwarf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4705,
+        10,
+        4733
+      ],
+      "comment": "(The duergar dwarf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4705,
+        10,
+        4733
+      ],
+      "comment": "(The duergar dwarf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4705,
+        10,
+        4733
+      ],
+      "comment": "(The duergar dwarf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4705,
+        10,
+        4735
+      ],
+      "comment": "(The duergar dwarf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4705,
+        10,
+        4735
+      ],
+      "comment": "(The duergar dwarf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4700,
+        10,
+        4738
+      ],
+      "comment": "(The small dwarf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        4701,
+        100,
+        16
+      ],
+      "comment": "(a mining pick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4702,
+        11,
+        4739
+      ],
+      "comment": "(The dwarf guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4702,
+        11,
+        4739
+      ],
+      "comment": "(The dwarf guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4701,
+        6,
+        4740
+      ],
+      "comment": "(The small dwarf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4701,
+        6,
+        4740
+      ],
+      "comment": "(The small dwarf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4703,
+        1,
+        4743
+      ],
+      "comment": "(Yentle the dwarf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4702,
+        11,
+        4749
+      ],
+      "comment": "(The dwarf guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        4702,
+        100,
+        6
+      ],
+      "comment": "(a dwarven helm)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        4703,
+        100,
+        5
+      ],
+      "comment": "(a dwarven breast plate)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4702,
+        11,
+        4749
+      ],
+      "comment": "(The dwarf guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        4702,
+        100,
+        6
+      ],
+      "comment": "(a dwarven helm)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        4703,
+        100,
+        5
+      ],
+      "comment": "(a dwarven breast plate)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4704,
+        1,
+        4749
+      ],
+      "comment": "(Juargan the Dwarven King)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        4700,
+        1,
+        -1
+      ],
+      "comment": "(a small key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4702,
+        11,
+        4757
+      ],
+      "comment": "(The dwarf guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4702,
+        11,
+        4757
+      ],
+      "comment": "(The dwarf guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4701,
+        6,
+        4759
+      ],
+      "comment": "(The small dwarf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4701,
+        6,
+        4759
+      ],
+      "comment": "(The small dwarf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4701,
+        6,
+        4763
+      ],
+      "comment": "(The small dwarf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4701,
+        6,
+        4763
+      ],
+      "comment": "(The small dwarf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4702,
+        11,
+        4766
+      ],
+      "comment": "(The dwarf guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4702,
+        11,
+        4766
+      ],
+      "comment": "(The dwarf guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4702,
+        11,
+        4766
+      ],
+      "comment": "(The dwarf guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4702,
+        11,
+        4766
+      ],
+      "comment": "(The dwarf guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        4702,
+        11,
+        4766
+      ],
+      "comment": "(The dwarf guard)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        4770,
+        1,
+        2
+      ],
+      "comment": "(Ancients Vault)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        4704,
+        1,
+        4770
+      ],
+      "comment": "(A large dwarven shield)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        4705,
+        1,
+        4770
+      ],
+      "comment": "(a large pile of coins)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        4772,
+        5,
+        1
+      ],
+      "comment": "(The small cave)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/47.zon"
+}

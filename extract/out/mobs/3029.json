@@ -1,0 +1,12 @@
+{
+  "id": 3029,
+  "alias": "priest",
+  "short_desc": "the Priest of Midgaard",
+  "long_desc": "The Priest of Midgaard is here, looking at you.",
+  "detailed_desc": "He seems to be praying.",
+  "flags_raw": "26650 69672 666 E",
+  "stats1_raw": "100 -30 -5 1d1+2796 5d11+40",
+  "stats2_raw": "1500 2916487 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 765,
+  "zone_id": 7,
+  "name": "Kell's Tavern",
+  "description": "Here is the tavern area of Kell's House.  Many people are here,\ntalking about everything from politics to hunting.  Is seems as if\nthis is more of a thinker's bar than a drinker's, however.  The\nbarmaids seem efficient, though, and the bar is very well stocked.",
+  "header_raw": "7 168 0",
+  "flags_text": "168",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 763
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

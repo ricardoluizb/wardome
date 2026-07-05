@@ -1,0 +1,12 @@
+{
+  "id": 11534,
+  "alias": "human thrower warrior",
+  "short_desc": "the Human thrower",
+  "long_desc": "A Warriors' thrower, attempting a pass.",
+  "detailed_desc": "Similar to a quarterback, this is a player with both mobility and a cannon\nfor an arm.  He can also hold his own when hitting with the big boys.",
+  "flags_raw": "2058 1024 200 E",
+  "stats1_raw": "37 -2 1 1d1+1620 5d4+34",
+  "stats2_raw": "555 227262 2",
+  "stats3_raw": "8 8 1 3 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

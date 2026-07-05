@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Long Tunnel",
   "description": "You find yourself in a small bulbous cavern ending.  The somewhat\ncircular 'room' is about thirty feet in diameter and you can see one\nexit from it; a tunnel leading sharply upwards from the western wall.\nThe walls of this cavern are quite indistinct and you cannot see any\nmoss or dampness on them whatsoever.",
-  "header_raw": "40 ad 3",
-  "flags_text": "ad",
+  "header_raw": "40 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

@@ -1,0 +1,45 @@
+{
+  "id": 749,
+  "zone_id": 7,
+  "name": "Mages' Guild, Entrance",
+  "description": "This is a nice, spacious area, filled with bright lights to keep\nthe eternal twilight outside at bay.  There are three doors leading\ndeeper into the guild: the east marked, 'Library', the north marked,\n'Leonna's Office', and the west marked, 'Storeroom'.  You can't but help to\nfeel that this is a SMALL guild for such a large city...",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 751
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "east door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 753
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 704
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "west door",
+      "door_flag": 1,
+      "key": 723,
+      "to": 752
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

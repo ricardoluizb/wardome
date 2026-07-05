@@ -1,0 +1,12 @@
+{
+  "id": 9964,
+  "alias": "ghenna doll golem",
+  "short_desc": "the Doll Golem",
+  "long_desc": "A doll sits here leaning against the wall, forgotten by the child who\nowns it.",
+  "detailed_desc": "This looks like your typical child's doll.  Its about one foot tall, and\nlooks like it is made of plastic.",
+  "flags_raw": "133290 1192 1000 E",
+  "stats1_raw": "33 2 3 1d1+1188 5d4+22",
+  "stats2_raw": "495 165332 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/99.mob"
+}

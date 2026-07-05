@@ -2,9 +2,9 @@
   "id": 1204,
   "zone_id": 12,
   "name": "The Immortal Board Room",
-  "description": "The main hang out of the Gods, the Immortal Board Room is the place to\nbe.  Gods exchange messages here most every day.  The mortal board room is\nto the east and the meeting room for the gods is to the south.  To the north\nis the Gods' Inn and to the west is a post office for Gods.  There is a large\nstaircase leading down to the main temple in the city of Midgaard.  In the\nnortheast corner you spot a small staircase leading upwards.",
-  "header_raw": "12 d 0",
-  "flags_text": "d",
+  "description": "The main hang out of the Gods, the Immortal Board Room is the place to\nbe.  Gods exchange messages here most every day.  The mortal board room is\nto the east and the meeting room for the gods is to the south.  To the north\nis the Gods' Inn and to the west is a post office for Gods.  There is a large\nstaircase leading down to the Fountain of the WarDome City.  In the\nnortheast corner you spot a small staircase leading upwards.",
+  "header_raw": "12 8200 0",
+  "flags_text": "8200",
   "sector": 0,
   "exits": [
     {
@@ -49,11 +49,11 @@
     },
     {
       "dir": 5,
-      "description": "You see the hustle and bustle of the Temple of Midgaard at the bottom of\nthe stairs.",
+      "description": "",
       "keywords": "",
       "door_flag": 0,
       "key": -1,
-      "to": 3001
+      "to": 503
     }
   ],
   "extra_descriptions": [],

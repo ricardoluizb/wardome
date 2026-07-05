@@ -1,0 +1,12 @@
+{
+  "id": 17355,
+  "alias": "hoard pict picts",
+  "short_desc": "the pict hoard",
+  "long_desc": "A hoard of Picts is here, fighting the troops of Camelot.",
+  "detailed_desc": "The hoard of Picts consists of about 500 poorly armed and armored foot \nsoldiers.",
+  "flags_raw": "10 0 -100 E",
+  "stats1_raw": "150 -55 -12 1d1+4200 5d16+60",
+  "stats2_raw": "2250 9371548 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/173.mob"
+}

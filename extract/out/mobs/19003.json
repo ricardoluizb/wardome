@@ -1,0 +1,12 @@
+{
+  "id": 19003,
+  "alias": "Elf Soldier guard elven",
+  "short_desc": "the Elven guard",
+  "long_desc": "An Elven Guard is walking around, protecting the villagers.",
+  "detailed_desc": "This is an elf in her youth, sent by the chief of the village guards, \nto guard the village from unwanted intruders.",
+  "flags_raw": "14 8 1000 E",
+  "stats1_raw": "69 -14 0 1d1+1449 5d7+26",
+  "stats2_raw": "1035 1020450 0",
+  "stats3_raw": "8 8 2 3 3",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/190.mob"
+}

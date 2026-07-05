@@ -4,9 +4,9 @@
   "short_desc": "the Grand Knight of Paladins",
   "long_desc": "The Grand Knight is standing here, waiting for someone to help.",
   "detailed_desc": "The Knight is standing here, smiling at you.  He is dressed all in white,\nblue and silver.  He looks VERY strong, as he stands here, ready to help\nthe innocent.",
-  "flags_raw": "abcilno dhk 1000 S",
-  "stats1_raw": "26 0 -2 10d8+550 2d6+16",
-  "stats2_raw": "31570 170000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "26927 1160 1000 E",
+  "stats1_raw": "116 -38 -7 1d1+3240 5d12+46",
+  "stats2_raw": "1740 4461906 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/79.mob"
 }

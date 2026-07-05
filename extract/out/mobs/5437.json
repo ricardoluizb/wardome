@@ -4,9 +4,9 @@
   "short_desc": "the taxcollector",
   "long_desc": "A small man walks around scribbling in a notebook.",
   "detailed_desc": "The city's taxcollextor walks from store to store collecting the\nSultan's fee for living in his grand city.",
-  "flags_raw": "gh 0 0 S",
-  "stats1_raw": "5 16 50 10d2+45 2d3+1",
-  "stats2_raw": "15 431",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "200 0 0 E",
+  "stats1_raw": "5 18 9 1d1+99 5d1+2",
+  "stats2_raw": "75 1651 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

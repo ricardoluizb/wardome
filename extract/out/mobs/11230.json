@@ -1,0 +1,12 @@
+{
+  "id": 11230,
+  "alias": "wild boar",
+  "short_desc": "a wild boar",
+  "long_desc": "A wild boar grunts in displeasure.",
+  "detailed_desc": "This aggressive brute wandered into town one day, and was surprised at\nthe lack of resistance and decided to stay to enjoy the easy pickings.\nEstroglian boars are by nature quite carniverious, and their bloodlust\nis exacerbated by easy prey.",
+  "flags_raw": "42 0 -209 E",
+  "stats1_raw": "40 -18 -9 1d1+3996 5d9+106",
+  "stats2_raw": "600 341495 9",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

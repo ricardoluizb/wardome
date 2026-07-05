@@ -1,0 +1,45 @@
+{
+  "id": 2318,
+  "zone_id": 23,
+  "name": "The hills overlooking the shoreline",
+  "description": "You stand on a barren section of hills that overlook a rocky shoreline. The\nstiff ocean wind has blown the rocks smooth here and you have to lean forward\na bit to keep your balance. The salty sea air fills your nostrils and you\nnotice signs of life in the rocky crags here. You can climb down towards the\nshore or head north into the hills themselves. The rocky summit you are\nstanding leads east and west along the shoreline.",
+  "header_raw": "23 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2314
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2319
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2317
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2321
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

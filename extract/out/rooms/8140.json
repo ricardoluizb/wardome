@@ -1,0 +1,34 @@
+{
+  "id": 8140,
+  "zone_id": 81,
+  "name": "The Stone Hallway",
+  "description": "The limestone walls in this room are cracked and seep icy water.  Your \nboots are soaking wet by the time you have walked twenty-five yards.",
+  "header_raw": "81 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The walls are just as damp to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8141
+    },
+    {
+      "dir": 3,
+      "description": "There is a door of stone to the west.",
+      "keywords": "door stone",
+      "door_flag": 2,
+      "key": 8100,
+      "to": 8139
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "water",
+      "description": "It is very cold, too cold to safely drink."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

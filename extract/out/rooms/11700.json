@@ -1,0 +1,21 @@
+{
+  "id": 11700,
+  "zone_id": 117,
+  "name": "Journey to the city of time.",
+  "description": "This is the beggining of a fantastic jorney through the gates of time.  Now you\nare standing in the edge of a city lost in time.  This place is the house of\nsome greatest heros in a lost age.  Try not to get lost, visit the place where\nthe hero is buried and enjoy your stay.",
+  "header_raw": "117 16777216 2",
+  "flags_text": "16777216",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11701
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/117.wld"
+}

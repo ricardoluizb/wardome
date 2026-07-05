@@ -1,0 +1,29 @@
+{
+  "id": 9229,
+  "zone_id": 92,
+  "name": "In the River",
+  "description": "To continue you had to walk right in the river.  Though you walk along in\nwater up to your knees, you do not seem to get wet.  A bay stretches out to\nthe north and the river goes south.",
+  "header_raw": "92 0 6",
+  "flags_text": "0",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9230
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9228
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/92.wld"
+}

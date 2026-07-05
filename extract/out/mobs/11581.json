@@ -1,0 +1,12 @@
+{
+  "id": 11581,
+  "alias": "waiter",
+  "short_desc": "the Waiter",
+  "long_desc": "A waiter is going around from one place to another.",
+  "detailed_desc": "This waiter knows where all his customers has their money.",
+  "flags_raw": "10 32 0 E",
+  "stats1_raw": "49 -8 0 1d1+2148 5d5+38",
+  "stats2_raw": "735 486370 2",
+  "stats3_raw": "8 8 1 -1 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

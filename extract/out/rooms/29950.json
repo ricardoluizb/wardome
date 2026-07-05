@@ -1,0 +1,37 @@
+{
+  "id": 29950,
+  "zone_id": 298,
+  "name": "A small walkway leading westwards",
+  "description": "As you slowly walk further down the limb careful of your balance you near the\nend.  But further than before.  The wind slowly sways the limb below and you\nget a feel that maybe this should be left to elves.  At the end you can see a\nbalcony and to the north is what appears to be a parlor.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29951
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29948
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29952
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

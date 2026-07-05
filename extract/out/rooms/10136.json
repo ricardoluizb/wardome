@@ -1,0 +1,29 @@
+{
+  "id": 10136,
+  "zone_id": 101,
+  "name": "&WA Light &GForest&n",
+  "description": "&nWhen you across this place, you no longer feel that &WPeacefull Aura &nthat\nused to surround you.",
+  "header_raw": "101 4 3",
+  "flags_text": "4",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10118
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10137
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/101.wld"
+}

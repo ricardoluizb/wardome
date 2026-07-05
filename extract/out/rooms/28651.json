@@ -1,0 +1,46 @@
+{
+  "id": 28651,
+  "zone_id": 286,
+  "name": "A guard station",
+  "description": "This is a small building just inside the keep.  Doors lead out to the east\nand west.  Some small weapons hang on hooks on the walls, for use in defense\nof the keep.\n   Doors stand in all directions save north.",
+  "header_raw": "286 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see an iron door which leads out onto a grey stone road.",
+      "keywords": "door iron",
+      "door_flag": 1,
+      "key": -1,
+      "to": 28661
+    },
+    {
+      "dir": 2,
+      "description": "You see a rusty steel door which leads out to the nexial link.",
+      "keywords": "steel",
+      "door_flag": 1,
+      "key": -1,
+      "to": 28650
+    },
+    {
+      "dir": 3,
+      "description": "You see an iron door which leads out onto a grey stone road.",
+      "keywords": "door iron",
+      "door_flag": 1,
+      "key": -1,
+      "to": 28652
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "steel",
+      "description": "The door is made from a set of rusting steel plates set deep into the stone."
+    },
+    {
+      "keywords": "door iron",
+      "description": "The door is made from a set of iron plates set deep into the stone."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/286.wld"
+}

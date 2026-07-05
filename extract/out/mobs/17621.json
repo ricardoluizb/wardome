@@ -1,0 +1,12 @@
+{
+  "id": 17621,
+  "alias": "oldstyle maid woman",
+  "short_desc": "the maid",
+  "long_desc": "A maid is here, cleaning the house and preparing the next meal.",
+  "detailed_desc": "The maid startles at your presence.  'You are ruining my floors!  Wait till\nMaster and Mistress come back.  You will get me in trouble!  Shoo!', she says.\nShe hits you with her broom.",
+  "flags_raw": "136 0 500 E",
+  "stats1_raw": "20 10 7 1d1+414 5d3+8",
+  "stats2_raw": "300 37388 0",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/176.mob"
+}

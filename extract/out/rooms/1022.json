@@ -1,0 +1,21 @@
+{
+  "id": 1022,
+  "zone_id": 10,
+  "name": "The Abbott's Room",
+  "description": "This looks to be a step up from an ordinary monk's residence.\nThe cot is still in fine condition in the corner underneath a\nnarrow window and there is a small rug in the center of the floor.\nThe doorway to the east is in shambles however and it looks as if \nwhatever was trying to break through it got in without too much \ndifficulty.  There does not seem to be any sign of a struggle, so\nit would seem that either the Abbott was not in his room or that\nhe went along willingly with whomever (or whatever) broke in.",
+  "header_raw": "10 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The door, or better yet, what is left of it, is made of wood, and hangs\nfrom one hinge, blocking your way through it.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 1020
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

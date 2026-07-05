@@ -1,0 +1,37 @@
+{
+  "id": 20102,
+  "zone_id": 201,
+  "name": "Path to the Shaolin Temple",
+  "description": "After struggling up that flight of stairs, you finally reached the top of \nthe mountain, well almost. Ahead of you, lies the great Shaolin Temple.\nA side mountain path leads west.",
+  "header_raw": "201 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "A mountain path.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20103
+    },
+    {
+      "dir": 4,
+      "description": "A flight of stairs leads up.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20106
+    },
+    {
+      "dir": 5,
+      "description": "Mountain stairway",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20101
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/201.wld"
+}

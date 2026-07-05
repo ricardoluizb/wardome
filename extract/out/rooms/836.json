@@ -1,0 +1,29 @@
+{
+  "id": 836,
+  "zone_id": 7,
+  "name": "Dirt Road",
+  "description": "The road travels north-south here along the side of the mountains.\nTo the north you see some cultivated fields, and to the south a fork\nin the road.  The sky above seems eerie, especially to the west where\nthe glow of the normal sky brightens the horizon...",
+  "header_raw": "7 8 2",
+  "flags_text": "8",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 837
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 841
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

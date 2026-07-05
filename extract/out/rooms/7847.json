@@ -1,0 +1,29 @@
+{
+  "id": 7847,
+  "zone_id": 78,
+  "name": "The Sleeping Quarters",
+  "description": "You are in the sleeping quarters of the valley elves.  Cots line the floor,\nwith two windows showing a view of the valley.  Books in strange languages\nline the shelves, but nothing of interest is here.",
+  "header_raw": "78 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see another room.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7848
+    },
+    {
+      "dir": 2,
+      "description": "You see another room.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7845
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/78.wld"
+}

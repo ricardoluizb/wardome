@@ -1,0 +1,12 @@
+{
+  "id": 8138,
+  "alias": "hobgoblin goblin",
+  "short_desc": "a hobgoblin",
+  "long_desc": "A large goblin clad in stinking hides glares at you.",
+  "detailed_desc": "You would NEVER wear his armor; untanned cowhide is not your style.\nHe doesn't seem to mind it, however, and in any case this fellow is\na dangerous foe for any knight.",
+  "flags_raw": "6248 1024 -400 E",
+  "stats1_raw": "158 -81 -30 1d1+18324 5d46+172",
+  "stats2_raw": "2370 19069362 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 6758,
+  "alias": "imp horned guard guardian",
+  "short_desc": "a guardian imp",
+  "long_desc": "A horned imp is crouched nearby, unfolding its wings.",
+  "detailed_desc": "This is the familiar of the Archmage of the town, at present an ill-\nmeaning sort of ruler. it is charged with the worthy task of defending\nthe guild from unwelcome intruders. Its wickedly curving horns and\ninnocuous teeth attest to its ability to.... well, dispose of you.",
+  "flags_raw": "10 8232 -900 E",
+  "stats1_raw": "160 -60 -14 1d1+4476 5d17+64",
+  "stats2_raw": "2400 11302310 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/67.mob"
+}

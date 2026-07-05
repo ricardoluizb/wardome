@@ -1,0 +1,914 @@
+{
+  "id": 130,
+  "name": "Wardome - Thieve's Lair",
+  "header": {
+    "raw": "13099 15 2 1 -1",
+    "min_room": 13099,
+    "top_room": 15,
+    "lifespan": 2,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13010,
+        1,
+        13018
+      ],
+      "comment": "(the Mad Priest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13010,
+        1,
+        16
+      ],
+      "comment": "(&Ya &RS&Ytrang&Re &YM&Rac&Ye)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13026,
+        1,
+        1
+      ],
+      "comment": "(Treasury's Room)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        13020,
+        1,
+        13026
+      ],
+      "comment": "(a king's chest)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        13021,
+        2,
+        13020
+      ],
+      "comment": "(&MZeina&m's picture&n)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        13022,
+        1,
+        13020
+      ],
+      "comment": "(a mask of the thieve's king)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        13023,
+        1,
+        13020
+      ],
+      "comment": "(a king's treasure)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13099,
+        20,
+        13030
+      ],
+      "comment": "(a prostitute)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13099,
+        5,
+        -1
+      ],
+      "comment": "(a pair of hand cuff's)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13098,
+        10,
+        13030
+      ],
+      "comment": "(the Red Light House guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13063,
+        1,
+        13063
+      ],
+      "comment": "(the captain's horse)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13020,
+        0,
+        1
+      ],
+      "comment": "(Cave's Entrance)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13036,
+        1,
+        13036
+      ],
+      "comment": "(the Legend)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13036,
+        4,
+        16
+      ],
+      "comment": "(&w-{|&BJerry's Battle Axe&w|}-&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13000,
+        0,
+        2
+      ],
+      "comment": "(Thieve's Lair Entrance)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13000,
+        4,
+        13000
+      ],
+      "comment": "(the gate guardian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13000,
+        5,
+        16
+      ],
+      "comment": "(a silver dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13000,
+        2,
+        13000
+      ],
+      "comment": "(the gate guardian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13000,
+        4,
+        16
+      ],
+      "comment": "(a silver dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13055,
+        10,
+        13055
+      ],
+      "comment": "(a Thief Bodyguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13055,
+        10,
+        13055
+      ],
+      "comment": "(a Thief Bodyguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13055,
+        10,
+        13055
+      ],
+      "comment": "(a Thief Bodyguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13055,
+        10,
+        13055
+      ],
+      "comment": "(a Thief Bodyguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13055,
+        10,
+        13055
+      ],
+      "comment": "(a Thief Bodyguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13055,
+        10,
+        13055
+      ],
+      "comment": "(a Thief Bodyguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13055,
+        10,
+        13055
+      ],
+      "comment": "(a Thief Bodyguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13055,
+        10,
+        13055
+      ],
+      "comment": "(a Thief Bodyguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13055,
+        10,
+        13055
+      ],
+      "comment": "(a Thief Bodyguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13055,
+        10,
+        13055
+      ],
+      "comment": "(a Thief Bodyguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13055,
+        10,
+        13055
+      ],
+      "comment": "(a Thief Bodyguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13011,
+        1,
+        13019
+      ],
+      "comment": "(the Thief Arkanus)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13019,
+        2,
+        -1
+      ],
+      "comment": "(a cesamu's key)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13058,
+        2,
+        1
+      ],
+      "comment": "(&rRoom of The Master Thief's&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13028,
+        1,
+        13058
+      ],
+      "comment": "(&rArkanis, The Shadow Master&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13028,
+        1,
+        16
+      ],
+      "comment": "(the Dagger of &rMaster Thief's&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13058,
+        1,
+        5
+      ],
+      "comment": "(&rThe Shadow Cape&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13013,
+        2,
+        1
+      ],
+      "comment": "(A Crypt)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        13001,
+        1,
+        13013
+      ],
+      "comment": "(a silver grate)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        13002,
+        1,
+        13001
+      ],
+      "comment": "(a silver skull helmet)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13024,
+        6,
+        13047
+      ],
+      "comment": "(a Thief Student of Backstab)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13006,
+        6,
+        16
+      ],
+      "comment": "(a &CA&cd&Ca&cm&Ca&cn&Ct&ci&Ct&ce &CD&ca&Cg&cg&Ce&cr&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13060,
+        6,
+        13046
+      ],
+      "comment": "(a Thief Student of Escape)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13056,
+        2,
+        13056
+      ],
+      "comment": "(a Chief of the Bodyguard's)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13057,
+        0,
+        2
+      ],
+      "comment": "(&rRoom of The Bodyguard's&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13056,
+        6,
+        13057
+      ],
+      "comment": "(a Chief of the Bodyguard's)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13005,
+        1,
+        -1
+      ],
+      "comment": "(the Bodyguard key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13053,
+        6,
+        13053
+      ],
+      "comment": "(a Thief Student of Tumble)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13054,
+        6,
+        13054
+      ],
+      "comment": "(a Thief Student of Second Stab)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13052,
+        6,
+        13052
+      ],
+      "comment": "(a Thief Student of Stab)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13051,
+        6,
+        13051
+      ],
+      "comment": "(a Thief Student of Sting)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13025,
+        6,
+        13049
+      ],
+      "comment": "(a Thief Student of Circle Arround)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13026,
+        6,
+        13048
+      ],
+      "comment": "(a Thief Student of Listen)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13023,
+        1,
+        1
+      ],
+      "comment": "(Zeina's Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13006,
+        1,
+        13023
+      ],
+      "comment": "(&WThe beatiful &MPrincess Zeina&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13032,
+        6,
+        13043
+      ],
+      "comment": "(a Thief Student of Pick Lock)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13031,
+        6,
+        13042
+      ],
+      "comment": "(a Thief Student of Hide)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13030,
+        6,
+        13044
+      ],
+      "comment": "(a Thief student of Steal)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13029,
+        6,
+        13041
+      ],
+      "comment": "(a Thief Student of Sneak)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13001,
+        2,
+        2
+      ],
+      "comment": "(Durty Road)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13022,
+        3,
+        1
+      ],
+      "comment": "(Conference Room)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        13026,
+        1,
+        13022
+      ],
+      "comment": "(a conference table)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13024,
+        3,
+        2
+      ],
+      "comment": "(King's Bedroom)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13024,
+        1,
+        1
+      ],
+      "comment": "(King's Bedroom)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13024,
+        2,
+        1
+      ],
+      "comment": "(King's Bedroom)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        13005,
+        1,
+        13024
+      ],
+      "comment": "(the king)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13025,
+        3,
+        1
+      ],
+      "comment": "(King's Bathroom)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        13025,
+        1,
+        13025
+      ],
+      "comment": "(a sanitary vase)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13012,
+        0,
+        1
+      ],
+      "comment": "(The Cemitery)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13002,
+        3,
+        13012
+      ],
+      "comment": "(the Undead Corpse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13001,
+        3,
+        13010
+      ],
+      "comment": "(the Skeleton)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13001,
+        3,
+        13007
+      ],
+      "comment": "(the Skeleton)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13035,
+        1,
+        13035
+      ],
+      "comment": "(Mawerick, the son of Locky)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13035,
+        99,
+        16
+      ],
+      "comment": "(&w-<|&RDagger of Locky&w|>-&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13033,
+        1,
+        13033
+      ],
+      "comment": "(Drizzt, the sailor)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3030,
+        99,
+        -1
+      ],
+      "comment": "(a torch)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3031,
+        99,
+        -1
+      ],
+      "comment": "(a lantern)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3032,
+        99,
+        -1
+      ],
+      "comment": "(a bag)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3033,
+        99,
+        -1
+      ],
+      "comment": "(a box)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3036,
+        99,
+        -1
+      ],
+      "comment": "(a cashcard)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7908,
+        99,
+        -1
+      ],
+      "comment": "(a waybread)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3010,
+        99,
+        -1
+      ],
+      "comment": "(a bread)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3104,
+        99,
+        -1
+      ],
+      "comment": "(a canteen)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3061,
+        99,
+        -1
+      ],
+      "comment": "(a canoe)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3060,
+        99,
+        -1
+      ],
+      "comment": "(a raft)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13021,
+        2,
+        2
+      ],
+      "comment": "(Inside the Cave)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13021,
+        0,
+        1
+      ],
+      "comment": "(Inside the Cave)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13021,
+        1,
+        1
+      ],
+      "comment": "(Inside the Cave)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13021,
+        3,
+        1
+      ],
+      "comment": "(Inside the Cave)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13006,
+        3,
+        1
+      ],
+      "comment": "(Cemitery's Gate)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13003,
+        2,
+        1
+      ],
+      "comment": "(Second Avenue)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/130.zon"
+}

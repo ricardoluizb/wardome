@@ -3,8 +3,8 @@
   "zone_id": 72,
   "name": "The Half-Wet Drain",
   "description": "You are in a sewer drain where the floor is covered with water.  To\nthe north it looks more dry, south however the drain runs down into\nsome water.",
-  "header_raw": "72 ad 4",
-  "flags_text": "ad",
+  "header_raw": "72 9 4",
+  "flags_text": "9",
   "sector": 4,
   "exits": [
     {

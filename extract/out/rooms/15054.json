@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "The Top Of The Tower",
   "description": "This is the highest of all the towers, and is obviously used for\nlookout purposes.  The view is splendid in all four directions.  All\naround you, the rich countryside spreads out to the horizon.  To the\nnorth and east you see a vast mountain range, and far to the west\na beautiful lake.  A bit closer, the town of Midgaard lies at the\nend of the King's Road.  The only exit you can see is down again.",
-  "header_raw": "150 d 0",
-  "flags_text": "d",
+  "header_raw": "150 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

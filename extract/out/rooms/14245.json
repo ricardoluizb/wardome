@@ -1,0 +1,29 @@
+{
+  "id": 14245,
+  "zone_id": 141,
+  "name": "The Desert",
+  "description": "There is a large cave to the north.  Smoke pours out of it, at\nregular intervals.",
+  "header_raw": "141 64 1",
+  "flags_text": "64",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The smoke obscures all vision.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14248
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14246
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

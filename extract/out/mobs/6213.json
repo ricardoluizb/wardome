@@ -4,9 +4,9 @@
   "short_desc": "the mutant thing",
   "long_desc": "A mutant... thing tries to get you, but cannot move into range!",
   "detailed_desc": "It might have been an orc, once.  Now it is a living terror,\npushing everything out of its way to get at you.",
-  "flags_raw": "bl k -800 S",
-  "stats1_raw": "12 9 -20 3d5+170 2d7+4",
-  "stats2_raw": "0 15000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "2058 1024 -800 E",
+  "stats1_raw": "75 -17 -1 1d1+2100 5d8+30",
+  "stats2_raw": "1125 1289737 0",
+  "stats3_raw": "8 8 0 3 5",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/62.mob"
 }

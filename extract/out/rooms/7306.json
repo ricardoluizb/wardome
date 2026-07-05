@@ -1,10 +1,10 @@
 {
   "id": 7306,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "The Mudhole",
   "description": "You are standing in a lot of mud.  The mud goes to your chest.  You feel\nthe presence of something IN the mud.  The only obvious exit is to the west.",
-  "header_raw": "73 ad 6",
-  "flags_text": "ad",
+  "header_raw": "72 9 6",
+  "flags_text": "9",
   "sector": 6,
   "exits": [
     {

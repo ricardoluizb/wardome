@@ -1,0 +1,12 @@
+{
+  "id": 13258,
+  "alias": "noble",
+  "short_desc": "a dragon noble",
+  "long_desc": "A dragon noble brushes past.",
+  "detailed_desc": "A dragon who has devoted it's life to hoarding as many jewels, gold, and riches\nas possible.  Status in this city is determined by wealth and the individual's\ndetermination to get it.",
+  "flags_raw": "8200 40 -25 E",
+  "stats1_raw": "40 -16 -8 1d1+3672 5d9+96",
+  "stats2_raw": "600 325233 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

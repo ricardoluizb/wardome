@@ -1,0 +1,21 @@
+{
+  "id": 7790,
+  "zone_id": 77,
+  "name": "More EXP",
+  "description": "Good Choice!\nNow you are one of us!\nForever close in This Cursed world.\nYour Greed is Your Ruin.",
+  "header_raw": "77 134 0",
+  "flags_text": "134",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7789
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/77.wld"
+}

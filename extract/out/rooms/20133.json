@@ -1,0 +1,21 @@
+{
+  "id": 20133,
+  "zone_id": 201,
+  "name": "An empty prison",
+  "description": "Blood and gore are about the only thing you can find in here. It looks like\nany other MUD prisons. What do you expect?",
+  "header_raw": "201 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "The guard room.",
+      "keywords": "cell",
+      "door_flag": 1,
+      "key": 20131,
+      "to": 20131
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/201.wld"
+}

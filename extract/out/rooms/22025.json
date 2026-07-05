@@ -1,0 +1,29 @@
+{
+  "id": 22025,
+  "zone_id": 220,
+  "name": "A straight path",
+  "description": "The path is nearing an end, the blood is no longer a dark red color,\nbut instead has become a light blueish color, perhaps he blood of a\nBalrog.",
+  "header_raw": "220 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22026
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22024
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/220.wld"
+}

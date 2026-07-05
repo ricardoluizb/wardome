@@ -4,9 +4,9 @@
   "short_desc": "the drone spider",
   "long_desc": "A drone spider walks around doing its master's bidding.",
   "detailed_desc": "An ordinary drone spider.",
-  "flags_raw": "cg 0 -200 S",
-  "stats1_raw": "6 14 4 3d8+70 2d4+1",
-  "stats2_raw": "200 1600",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "76 0 -200 E",
+  "stats1_raw": "106 -33 -5 1d1+2964 5d11+42",
+  "stats2_raw": "1590 3445244 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/63.mob"
 }

@@ -4,9 +4,9 @@
   "short_desc": "the Guardian",
   "long_desc": "A guardian guards the door.  It looks at you and attacks!",
   "detailed_desc": "The guardian guards the door.  That's about all its\nbrain can handle: guarding.",
-  "flags_raw": "beflmnopr dk 0 E",
-  "stats1_raw": "18 3 0 1d1+249 3d6+2",
-  "stats2_raw": "0 35000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "194618 1032 0 E",
+  "stats1_raw": "105 -42 -13 1d1+7140 5d21+92",
+  "stats2_raw": "1575 4358931 5",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/64.mob"
 }

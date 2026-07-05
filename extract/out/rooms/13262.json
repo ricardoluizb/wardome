@@ -1,0 +1,21 @@
+{
+  "id": 13262,
+  "zone_id": 132,
+  "name": "The Southeast Tower",
+  "description": "From this tower guards can see approaching attacks from the valleys south \nand southeast.  Directly east is a mountain range.",
+  "header_raw": "132 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "back to the village",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13261
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

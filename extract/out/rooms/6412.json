@@ -3,8 +3,8 @@
   "zone_id": 64,
   "name": "The Library",
   "description": "A great mages' library is contained on this floor of \nthe tower.  You feel you could learn anything you wanted\nto if you only looked and read long enough.  A door\nopens up back on the stairwell to the east.",
-  "header_raw": "64 ad 0",
-  "flags_text": "ad",
+  "header_raw": "64 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "The Kitchen",
   "description": "You are in the Kitchen.  Lots of helpers hurry to do the Chief Cook's\nbidding, and there is a wonderful smell that makes you feel very hungry.\nAll around the room, there are shelves with different kinds of cooking \ngear stacked on them.  There is an exit to the north, and one to the east;\nboth leading to small passages.",
-  "header_raw": "150 d 0",
-  "flags_text": "d",
+  "header_raw": "150 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

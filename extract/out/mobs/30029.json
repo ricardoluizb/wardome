@@ -1,0 +1,12 @@
+{
+  "id": 30029,
+  "alias": "black grey sparrow",
+  "short_desc": "Sparrow",
+  "long_desc": "A small black and grey sparrow angrily chirps at your presence.",
+  "detailed_desc": "&w &n",
+  "flags_raw": "2120 5288 500 E",
+  "stats1_raw": "70 -23 -6 1d1+4200 5d8+68",
+  "stats2_raw": "1050 1352209 4",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/300.mob"
+}

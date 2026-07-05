@@ -1,0 +1,37 @@
+{
+  "id": 312,
+  "zone_id": 3,
+  "name": "The path intersection",
+  "description": "You are standing on an intersection between 3 paths.\nTo the west you can follow a long, narrow path through the foothills.\nTo the north a wide path leads to the Village of Ofcol and an\nancient path leads towards the south.",
+  "header_raw": "3 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The wide road to Ofcol runs here.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 313
+    },
+    {
+      "dir": 2,
+      "description": "Here is a partially hidden, ancient looking path.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 332
+    },
+    {
+      "dir": 3,
+      "description": "You can see the long narrow path running through the foothills.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 311
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/3.wld"
+}

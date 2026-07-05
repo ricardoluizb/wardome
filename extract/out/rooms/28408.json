@@ -1,0 +1,21 @@
+{
+  "id": 28408,
+  "zone_id": 284,
+  "name": "Another Cave",
+  "description": "You find yourself in another cave similar to that you just came from.\nYou can't particularly tell any differences in this cave at all.",
+  "header_raw": "284 8 6",
+  "flags_text": "8",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "East leads back where you came from.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28407
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/284.wld"
+}

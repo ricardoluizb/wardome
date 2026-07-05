@@ -1,0 +1,21 @@
+{
+  "id": 11214,
+  "zone_id": 112,
+  "name": "The Stables",
+  "description": "The poor beasts that were stabled here have not been fed in months, and\nabandoned thusly they slowly died of starvation. A foul occurence, and\nundoubtedly will result in the lingering of some malevolent manifestation\nof misfortune and doom. The rancid air carries the stench of death, as\nwell as something more sinister.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11212
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

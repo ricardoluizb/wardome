@@ -1,0 +1,44 @@
+{
+  "id": 310,
+  "name": "-.- RESERVADO PARA CLANS -.-",
+  "header": {
+    "raw": "31006 30 2 10",
+    "min_room": 31006,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": 10
+  },
+  "commands": [
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        31006,
+        5,
+        1
+      ],
+      "comment": "(Hyperion Deposit)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        31001,
+        1,
+        31005
+      ],
+      "comment": "(the Titan's Clan board)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        31005,
+        4,
+        1
+      ],
+      "comment": "(Crius's Board)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/310.zon"
+}

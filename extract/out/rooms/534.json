@@ -1,0 +1,21 @@
+{
+  "id": 534,
+  "zone_id": 5,
+  "name": "&YPet Shop&n",
+  "description": "The Pet Shop is a small crowded store, full of cages and animals of\nvarious sizes.  There is a sign on the wall.",
+  "header_raw": "5 24 0",
+  "flags_text": "24",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 526
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

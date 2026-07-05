@@ -3,8 +3,8 @@
   "zone_id": 64,
   "name": "A Bathroom",
   "description": "This is some sort of bathroom, like you've never seen\nbefore...  Water appliances leading from nowhere deliver\nhot and cold running water to basins that drain to...\nwhere?  How strange!",
-  "header_raw": "64 ad 0",
-  "flags_text": "ad",
+  "header_raw": "64 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

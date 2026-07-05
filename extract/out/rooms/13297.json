@@ -1,0 +1,29 @@
+{
+  "id": 13297,
+  "zone_id": 132,
+  "name": "The North Wall",
+  "description": "You are traveling along the north wall.  The road is made up of the same\ntiles as the court.  The wall and the mountain behind cast a shadow over you.\nThe court is east and the road continues west.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "the court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13230
+    },
+    {
+      "dir": 3,
+      "description": "the north wall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13298
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

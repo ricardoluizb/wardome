@@ -1,0 +1,29 @@
+{
+  "id": 13275,
+  "zone_id": 132,
+  "name": "Warrior's Guild",
+  "description": "You enter into the warrior guild.  Many guards look at you and demand that\nyou state your business.",
+  "header_raw": "132 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "warrior guild",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13276
+    },
+    {
+      "dir": 2,
+      "description": "warrior guild",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13274
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

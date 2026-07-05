@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Donation Room",
   "description": "This room is new to the temple, it was created during the hard times\nthat had struck the city in recent decades.  Luckily for them the Sultan\nhad been hoarding some of the basic neccesities for just such an occasion.\nThese days the donation room depends on the generosity of wealthy \nadventurers, and a curse on any that walk in to take everything.",
-  "header_raw": "54 cd 0",
-  "flags_text": "cd",
+  "header_raw": "54 12 0",
+  "flags_text": "12",
   "sector": 0,
   "exits": [
     {

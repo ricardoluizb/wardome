@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Tunnel",
   "description": "The walls of this small tunnel are almost completely covered in a\nstrange orange moss that flakes off to the touch.  The tunnel leads\nin an east-west direction and the air within is very damp and very\nstagnant.  There is no detectable breeze at all but a strange smell\nemanates from the east.  There is a small, almost unnoticed hole in\nthe southern wall.",
-  "header_raw": "40 ad 3",
-  "flags_text": "ad",
+  "header_raw": "40 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

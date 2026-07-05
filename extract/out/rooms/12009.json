@@ -26,20 +26,20 @@
   ],
   "extra_descriptions": [
     {
-      "keywords": "gladiator",
-      "description": "He is a big muscular man with lots of armor.  He sizes you up and decides\nthat you aren't worth his time or trouble."
-    },
-    {
-      "keywords": "driver",
-      "description": "The driver is too busy changing a wheel on his chariot to notice you."
+      "keywords": "coach trainer",
+      "description": "The coach tell you \"Stop bothering my athletes and get lost!\""
     },
     {
       "keywords": "chariot",
       "description": "You see a two wheeled open cart which is obviously meant to be pulled by \nhorses.  The flaming paint-job and the large '01' stenciled on the side \nidentify the chariot as belonging to Drucilis 'Lightning-whip' Octavious,\na favorite driver of the masses."
     },
     {
-      "keywords": "coach trainer",
-      "description": "The coach tell you \"Stop bothering my athletes and get lost!\""
+      "keywords": "driver",
+      "description": "The driver is too busy changing a wheel on his chariot to notice you."
+    },
+    {
+      "keywords": "gladiator",
+      "description": "He is a big muscular man with lots of armor.  He sizes you up and decides\nthat you aren't worth his time or trouble."
     }
   ],
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/120.wld"

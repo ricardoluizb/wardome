@@ -1,0 +1,12 @@
+{
+  "id": 3072,
+  "alias": "shadow",
+  "short_desc": "the cursed shadow",
+  "long_desc": "A cursed shadow stands here.",
+  "detailed_desc": "It is a shadow. It serves the black monster until DEATH!!!",
+  "flags_raw": "8 0 -1000 E",
+  "stats1_raw": "160 -60 -14 1d1+4476 5d17+64",
+  "stats2_raw": "2400 15043374 0",
+  "stats3_raw": "8 8 0 0 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
+}

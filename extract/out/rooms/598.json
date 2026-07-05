@@ -1,0 +1,21 @@
+{
+  "id": 598,
+  "zone_id": 5,
+  "name": "&GReligion Temple&n",
+  "description": "Type religion <number> to change your religion.\n\nThe number means:\n0:Justice Guardian of Muir.\n1:Pain Bearer of Ilmanateur.\n2:Moon Blade of Selune.\n3:Law Keeker of Helm.\n4:Wisdom Seeker of Ohgma.\n5:Battle Guard of Tempus.\n6:Dread Master of Bane.\n7:Killer Rose of Pandora.\n8:Storm Lord of Talos.\n\nAVISO: Mudar religiao acarreta na perda de\n4 pontos de con e dex, para players remorteres apenas.",
+  "header_raw": "5 148 0",
+  "flags_text": "148",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 599
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

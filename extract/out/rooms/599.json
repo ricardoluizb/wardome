@@ -1,0 +1,29 @@
+{
+  "id": 599,
+  "zone_id": 5,
+  "name": "&GAlignment Room&n",
+  "description": "Type alignment <number> to change your alignment.\n\nThe number means:\n0:Lawful Good.\n1:Neutral Good.\n2:Chaotic Good.\n3:Lawful Neutral.\n4:True Neutral.\n5:Chaotic Neutral.\n6:Lawful Evil.\n7:Neutral Evil.\n8:Chaotic Evil.\n\n\nAVISO: pLAYERS REMORTERS PERDERAM PONTOS DE\nATRIBUTOS AO MUDAR DE ALINHAMENTO.",
+  "header_raw": "5 208 0",
+  "flags_text": "208",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 598
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 507
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

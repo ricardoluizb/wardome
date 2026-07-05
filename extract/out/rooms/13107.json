@@ -1,0 +1,37 @@
+{
+  "id": 13107,
+  "zone_id": 131,
+  "name": "Homely Hallway",
+  "description": "You find yourself standing in a homely looking hallway.  This room reminds\nyou of your youth and brings back images of your parents teaching you right\nfrom wrong.",
+  "header_raw": "131 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "South lead to another room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13109
+    },
+    {
+      "dir": 3,
+      "description": "To the west is another room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13108
+    },
+    {
+      "dir": 5,
+      "description": "A golden stairway leads you downward.",
+      "keywords": "forcefield",
+      "door_flag": 1,
+      "key": 0,
+      "to": 13106
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/131.wld"
+}

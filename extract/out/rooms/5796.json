@@ -1,0 +1,29 @@
+{
+  "id": 5796,
+  "zone_id": 57,
+  "name": "A Long Passageway",
+  "description": "This passageway is running south to a junction and north toward the sound\nof running water. You can smell fresh water on the breeze, which blows\ncold from the river to the north.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a rocky beach",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5797
+    },
+    {
+      "dir": 2,
+      "description": "a junction",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5793
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

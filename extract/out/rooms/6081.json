@@ -3,8 +3,8 @@
   "zone_id": 60,
   "name": "In The Dense Forest Between The Hills",
   "description": "You are standing among tightly packed trees between several hills.  You\nlost track of the path long ago, and now must rely on your instincts to guide\nyou.  The ground is very rough and rocky here, and only the most hardy plants\nsurvive.  The crowns of the old trees leave the hills in an unreal twilight\nillumination.",
-  "header_raw": "60 c 4",
-  "flags_text": "c",
+  "header_raw": "60 4 4",
+  "flags_text": "4",
   "sector": 4,
   "exits": [
     {

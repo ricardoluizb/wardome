@@ -1,0 +1,29 @@
+{
+  "id": 8170,
+  "zone_id": 81,
+  "name": "The Mess",
+  "description": "This corner is a crude caricature of a homely Inn, like the good old\nGrunting Boar.  Fellowship and the enjoyment of good beer are unknown\namong these foul creatures, so they swallow some terrible-smelling \nconcoction of cave molds until it kills them.  There is no such thing\nas a happy drunk here.  You remember the dwarven village fondly now.",
+  "header_raw": "81 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You can leave this place, but northwards leads only to more trouble.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8168
+    },
+    {
+      "dir": 1,
+      "description": "A ways to the east is a doorway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8171
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

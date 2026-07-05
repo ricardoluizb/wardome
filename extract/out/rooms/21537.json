@@ -1,0 +1,37 @@
+{
+  "id": 21537,
+  "zone_id": 215,
+  "name": "&rthe fire pit of Ter-Soth&n",
+  "description": "Enormous flames, many fire lakes on the center, you blood boils, your skin\nwarmths you can see only ter soth on the center of the greater fire lake, the\nmagma explodes on each breath you, he approachs you slowly, run now, if you\nwanna live.",
+  "header_raw": "215 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 21535
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 21538
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 21536
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/215.wld"
+}

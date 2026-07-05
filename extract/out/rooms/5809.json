@@ -1,0 +1,29 @@
+{
+  "id": 5809,
+  "zone_id": 57,
+  "name": "A Crypt",
+  "description": "You have entered a Gothic-looking crypt, which currently houses three \nornately-fashioned marble coffins, one of which is open. You glance about\nnervously, seeking its owner, who must be nearby...",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "a zombie room",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5808
+    },
+    {
+      "dir": 3,
+      "description": "a junction",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5810
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

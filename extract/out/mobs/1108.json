@@ -1,0 +1,12 @@
+{
+  "id": 1108,
+  "alias": "oldstyle bull",
+  "short_desc": "a bull",
+  "long_desc": "A bull scratches at the ground and lowers his head.",
+  "detailed_desc": "The bull is in top condition.  He looks like quite a fighter, nothing to be\nreckoned with.  With his horns and his hooves he can attack just about\nanything.",
+  "flags_raw": "42 0 0 E",
+  "stats1_raw": "120 -44 -11 1d1+5280 5d13+68",
+  "stats2_raw": "1800 6053860 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/11.mob"
+}

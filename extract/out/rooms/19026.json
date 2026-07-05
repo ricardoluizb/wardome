@@ -1,0 +1,29 @@
+{
+  "id": 19026,
+  "zone_id": 190,
+  "name": "Guards bed room.",
+  "description": "This looks like an ordinary bed room with about twenty beds in it. \nThere are no other exits than the one to the south.",
+  "header_raw": "190 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 19027
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 19022
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/190.wld"
+}

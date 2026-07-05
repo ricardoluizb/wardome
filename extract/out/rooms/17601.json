@@ -1,0 +1,53 @@
+{
+  "id": 17601,
+  "zone_id": 176,
+  "name": "The Big Intersection",
+  "description": "You are in the big intersection between Raff Way and Impy Way.  Crowds \nof people walk past you as they go on their daily tasks.  Raff Way continues\neast and west, and Impy Way runs north and south.",
+  "header_raw": "176 16777216 1",
+  "flags_text": "16777216",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Impy Way continues north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17625
+    },
+    {
+      "dir": 1,
+      "description": "Raff Way continues east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17666
+    },
+    {
+      "dir": 2,
+      "description": "Impy Way continues south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17602
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 314
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/176.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 1016,
+  "zone_id": 10,
+  "name": "A Spiral Stairway",
+  "description": "You stand on a wooden landing.  Looking eastwards, you notice that\nthrough the stone doorway, a hallway leads northwards and southwards\naway from the staircase.  The wooden stairs continue above you and\nbelow you, continuing up into the heights of the cathedral tower and\ndown into the gloom below as they probe towards the ground level.",
+  "header_raw": "10 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A hallway opens up off of this landing on the staircase.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1019
+    },
+    {
+      "dir": 4,
+      "description": "The stairs continue up into the tower.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1017
+    },
+    {
+      "dir": 5,
+      "description": "The wooden stairs lead down towards the ground level.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1012
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

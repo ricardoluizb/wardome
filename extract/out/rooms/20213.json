@@ -1,0 +1,21 @@
+{
+  "id": 20213,
+  "zone_id": 202,
+  "name": "A poker table",
+  "description": "You are sitting in a comfy velvet covered chair.  Before you is a small wooden\ntable, lit by several dim lamps, across the table sits a man, partially\nenshrouded in darkness.  To one side of you, sits a dealer holding a deck of\ncards firmly in one hand, the other hand rests on a box.",
+  "header_raw": "202 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20212
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/202.wld"
+}

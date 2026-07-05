@@ -1,0 +1,21 @@
+{
+  "id": 1141,
+  "zone_id": 11,
+  "name": "Gamgee Residence",
+  "description": "You stand inside a modest home.  You deduce that this is indeed the home\nof whomever owns the surrounding lands.  The air is somewhat musty and \nthe smell reminds you of a stable.  As you look around disdainfully, you\nthink to yourself that this is more of a shack than a proper residence and\nyou long for the urban riches of the Shire proper.",
+  "header_raw": "11 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see a small path winding its way southward.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1140
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

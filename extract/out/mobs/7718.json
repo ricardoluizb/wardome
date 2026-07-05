@@ -1,0 +1,12 @@
+{
+  "id": 7718,
+  "alias": "oldstyle dragon red slave",
+  "short_desc": "the enslaved red dragon",
+  "long_desc": "A giant red dragon is chained here, his breath heating the furnace.",
+  "detailed_desc": "The mighty scaled beast has been magically bound and subdued by the residents\nof the keep.  Nevertheless, he is still an impressive sight, some twenty feet\nin length with an even more massive wingspan.  He watches you, smoke drifting\nfrom his open mouth.",
+  "flags_raw": "4138 8 -400 E",
+  "stats1_raw": "100 -30 -5 1d1+2796 5d11+40",
+  "stats2_raw": "1500 2916487 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/77.mob"
+}

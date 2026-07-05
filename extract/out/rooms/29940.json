@@ -1,0 +1,21 @@
+{
+  "id": 29940,
+  "zone_id": 298,
+  "name": "The lawn",
+  "description": "Amazing!  The view from here is breathtaking!  As you peer over the overlook,\nyou unconsciously grab a nearby tree branch to reassure yourself that you are\nstill on the lawn.  The lawn breaks before you to form an overlook of a great\nexpanse of Mallorn trees.  Thousands of them are before you, all in gold and\ngreen.  Birds soar through the forest.  From this view, however, they look the\nsize of ants.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29939
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

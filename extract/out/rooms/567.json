@@ -1,0 +1,21 @@
+{
+  "id": 567,
+  "zone_id": 5,
+  "name": "&BThe Temple of the Advanced Races&n",
+  "description": "&n   Here is the temple for the people who have achieved a greater race level,\nalso known as &Yreborn&n. If you are one of these people, congrats! And please,\nmake yourself at home.",
+  "header_raw": "5 1048604 0",
+  "flags_text": "1048604",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 510
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

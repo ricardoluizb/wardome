@@ -1,0 +1,37 @@
+{
+  "id": 317,
+  "zone_id": 3,
+  "name": "Grassy plains",
+  "description": "You walk in the grassy plains among the herbs which grow here. The wind is\nstrong and rough. Far to the north you can see the foothills and further on\nmountain peaks are visible. City of Midgaard is to the south but so are some\nVERY steep slopes.",
+  "header_raw": "3 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The plains extend far to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 338
+    },
+    {
+      "dir": 2,
+      "description": "Some VERY steep slopes prevent you from going this way, it might kill you.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 345
+    },
+    {
+      "dir": 3,
+      "description": "A small path is running through the plains.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 303
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/3.wld"
+}

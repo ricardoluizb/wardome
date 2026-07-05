@@ -1,0 +1,21 @@
+{
+  "id": 30100,
+  "zone_id": 301,
+  "name": "Cursed be thy Words",
+  "description": "Ahhhwww, by entering the room you take a big wiff of clean, nice air...  Of\ncourse, if it wasn't by the blood stench, comming from the walls...  The whole\nroom is surrounded by streched skin, apparently of living beings, or what was\nleft of those.  Among random pairs of streched skin there is messages writen,\nor encarved, which is the word that i believe mostly describe it, messages on\nblood.",
+  "header_raw": "301 152 0",
+  "flags_text": "152",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30102
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/301.wld"
+}

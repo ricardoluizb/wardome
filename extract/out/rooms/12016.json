@@ -8,6 +8,14 @@
   "sector": 2,
   "exits": [
     {
+      "dir": 1,
+      "description": "You see the preparation room of the gladiators.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 12069
+    },
+    {
       "dir": 3,
       "description": "You see athletes warming up and stretching.",
       "keywords": "",

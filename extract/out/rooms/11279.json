@@ -1,0 +1,37 @@
+{
+  "id": 11279,
+  "zone_id": 112,
+  "name": "Two Doors",
+  "description": "The corridor ends here, before two plain metal doors, bearing no\nobvious locks or bars; evidently the mage had sufficient confidence in\nhis golem as to consider such precautions superfluous and unnecessary,\nnot to mention a hindrance should he need to frequent these chambers.\nRunes are carved into each door, denoting its purpose and contents.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11277
+    },
+    {
+      "dir": 2,
+      "description": "The runes read \"The Dungeon\"",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11280
+    },
+    {
+      "dir": 3,
+      "description": "The runes read- \"Arsenel\"",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11278
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

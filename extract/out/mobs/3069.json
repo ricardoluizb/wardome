@@ -1,0 +1,12 @@
+{
+  "id": 3069,
+  "alias": "raven",
+  "short_desc": "the raven",
+  "long_desc": "A raven is flying here.",
+  "detailed_desc": "It looks powerful.",
+  "flags_raw": "81930 67108864 -1000 E",
+  "stats1_raw": "6 17 9 1d1+126 5d1+2",
+  "stats2_raw": "90 2371 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
+}

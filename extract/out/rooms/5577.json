@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "A Hall",
   "description": "The long hall continues here with a wooden door in the south wall.  On\nthe north wall hangs the picture of some forgotten nobleman who once ruled \nthe land.",
-  "header_raw": "54 d 0",
-  "flags_text": "d",
+  "header_raw": "54 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

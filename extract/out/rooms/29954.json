@@ -1,0 +1,29 @@
+{
+  "id": 29954,
+  "zone_id": 298,
+  "name": "A Balcony Above the Forest",
+  "description": "This part of the balcony affords a splendid view to the east.  Directly in\nfront of you, you can see the sumptuous lawns spread out before a large willow\ntree.  Elven figures can be seen going about their business, as can one or two\ndistinctly non-elven guests.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29955
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29953
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "At The Maze Inscription",
   "description": "You are inside the maze, but not far enough in that you could\nget lost.  There is an enscription on the wall which says:\n\n          1    3    2    4\n          N    W    N    S\n\nThis isn't too tough, so don't take it so rough.",
-  "header_raw": "65 ad 0",
-  "flags_text": "ad",
+  "header_raw": "65 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

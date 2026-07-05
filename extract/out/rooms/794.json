@@ -1,0 +1,21 @@
+{
+  "id": 794,
+  "zone_id": 7,
+  "name": "Bedroom",
+  "description": "This bedroom has been made up for two people.  There are bunk beds\nin the center of the room, and different sets of run-down furniture on\neach side.  On the right is a rather neat desk, chair, a chest of\ndrawers, and on the left there is just a mess of clothes, papers,\nbooks, and half-eaten food.  There isn't much interesting here,\nthough.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 793
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

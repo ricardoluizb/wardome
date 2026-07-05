@@ -1,0 +1,21 @@
+{
+  "id": 1629,
+  "zone_id": 16,
+  "name": "The Dining Hall",
+  "description": "You have entered a fabulous dining hall.  The wrecked remains of a long table\ndominate the room. A horrible odor pervades the room, like some foul-smelling\nbeast has been eating and shitting in here.  There is a serving hatch west and\na door south.",
+  "header_raw": "16 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1626
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

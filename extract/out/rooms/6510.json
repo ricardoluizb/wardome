@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "On The Path To The Castle",
   "description": "You are on a path that will eventually lead to the castle.  It\ncontinues north to the castle, and there is a door in the southern\nwall.",
-  "header_raw": "65 d 0",
-  "flags_text": "d",
+  "header_raw": "65 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

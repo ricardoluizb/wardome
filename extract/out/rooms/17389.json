@@ -1,0 +1,30 @@
+{
+  "id": 17389,
+  "zone_id": 173,
+  "name": "The rocky beach",
+  "description": "You stand on the rocky beach wishing you had a boat. You had a tough climb \ndown through all of those crevices. There are several caves and grottos \nhere.",
+  "header_raw": "173 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "A tough climb that you would rather not do",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17386
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "grotto grottos",
+      "description": "The surf is crashing hard in the grottos. You can taste the salt spray."
+    },
+    {
+      "keywords": "cave caves",
+      "description": "You look at the caves- smoke! This place is inhabited!"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

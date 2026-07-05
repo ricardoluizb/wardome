@@ -1,0 +1,21 @@
+{
+  "id": 9728,
+  "zone_id": 97,
+  "name": "Guest Quarters",
+  "description": "You have entered private quarters which are reserved for visitors to the\ncastle.  You nearly faint as you recognize the occupant of this chamber as Odin\nhimself, patron God of Midgaard.  He must be visiting Zeus.",
+  "header_raw": "97 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9711
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/97.wld"
+}

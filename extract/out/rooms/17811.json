@@ -1,0 +1,21 @@
+{
+  "id": 17811,
+  "zone_id": 178,
+  "name": "A Small Gnome House",
+  "description": "This is a small suburban house made from quality wood.  You can see the\nexpert workmanship that went into making it, but it lacks creativity.",
+  "header_raw": "178 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see a path.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17803
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

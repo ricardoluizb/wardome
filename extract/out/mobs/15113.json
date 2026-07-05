@@ -1,0 +1,12 @@
+{
+  "id": 15113,
+  "alias": "bastard sneaky",
+  "short_desc": "the sneaky little bastard",
+  "long_desc": "A sneaky little bastard is here, counting his coins.",
+  "detailed_desc": "The grubby hands and shifty eyes give this little brat the look of a\ncriminal.  He's rooting through his purse inspecting his loot.  Perhaps some of\nit came from yours.",
+  "flags_raw": "104 0 0 E",
+  "stats1_raw": "105 -34 -7 1d1+3780 5d11+52",
+  "stats2_raw": "1575 4071529 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/151.mob"
+}

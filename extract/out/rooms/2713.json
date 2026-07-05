@@ -1,0 +1,29 @@
+{
+  "id": 2713,
+  "zone_id": 27,
+  "name": "&gThe Entrance to &YMiddle Earth's&g Fantasy World&n",
+  "description": "&gAfter a long journey, you found what you've been looking for.  A new land,\nfull of magic and powerful beings wait for you here.  Proceed, if you wish, but\nbe warned...  &n",
+  "header_raw": "27 1048788 1",
+  "flags_text": "1048788",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2742
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2712
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

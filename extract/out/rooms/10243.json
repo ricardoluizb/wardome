@@ -1,0 +1,21 @@
+{
+  "id": 10243,
+  "zone_id": 102,
+  "name": "Princess Marle's Bedroom",
+  "description": "This room is very peculiar, it look indeed very royal. There is a desk\non the right bottom of the room, and a small bed at the upper bottom,\nyou can notice lots of paintings in the walls, and also 2 painting pedestals\nwith blank paintings on them.",
+  "header_raw": "102 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10242
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

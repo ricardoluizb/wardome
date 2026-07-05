@@ -1,0 +1,38 @@
+{
+  "id": 8126,
+  "zone_id": 81,
+  "name": "The Eastern End of the Great Hall",
+  "description": "Here is the end of the Great Hall.  Its size awes you.  The King,\nhowever, is not here, and his throne is dusty.  With his people \nhe has taken up arms and marched forth to fight the evil armies \nthat have lately assailed his kingdom. Long live King Korbor!\nAn ancient throne of carved walnut stands here, bright with gold.\nOn the wall a shield is hung.",
+  "header_raw": "81 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "The hall extends west, as far as you can see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8123
+    },
+    {
+      "dir": 5,
+      "description": "You see a tile floor.",
+      "keywords": "trapdoor",
+      "door_flag": 2,
+      "key": 8110,
+      "to": 8149
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "throne",
+      "description": "You had thought the glint you saw was gilt paint, but it was not.  The \nthrone of carved black walnut is very beautifully crafted, with rather\nplain carving, just enough to be handsome without looking overly fancy.\nGold plates and brackets look lovely against the dark wood. You need \nnot read the engraved plate on its side to know the work of Joel Kreb."
+    },
+    {
+      "keywords": "shield wall",
+      "description": "The shield bears a cross and a stag, the arms of King Korbor."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9952,
+  "zone_id": 99,
+  "name": "The seat of power.",
+  "description": "Fire, fire, everywhere.  A black, marble dais sits amidst the \nflames supporting a black, marble chair which is conspicuously \nempty.  This looks to be a throne of some sort.  The flames make \nevery way impassable except the way you came, and the way of the holy.",
+  "header_raw": "99 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9949
+    },
+    {
+      "dir": 4,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9953
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

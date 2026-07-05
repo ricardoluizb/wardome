@@ -1,0 +1,37 @@
+{
+  "id": 12312,
+  "zone_id": 122,
+  "name": "A Junction",
+  "description": "Several tunnels meet here, branching off into the gloom of the Durin\ncave complex. Inhabitants are few; war and time have ravaged their\nnumbers, and they know that one day their race will die out, as all\nthings eventually do. These halls are a testament, however, to this\nrace's long and glorious history, of war and of excellence in the art\nof smithing and stonemasonry.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12311
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12317
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12313
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

@@ -2,102 +2,13 @@
   "id": 31,
   "name": "Southern part of Midgaard",
   "header": {
-    "raw": "3100 3299 40 2",
-    "min_room": 3100,
-    "top_room": 3299,
-    "lifespan": 40,
-    "reset_mode": 2
+    "raw": "3199 40 2 1 1",
+    "min_room": 3199,
+    "top_room": 40,
+    "lifespan": 2,
+    "reset_mode": 1
   },
   "commands": [
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3060,
-        20,
-        3111
-      ],
-      "comment": "Cityguard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3105,
-        2
-      ],
-      "comment": "Key To HQ"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3060,
-        20,
-        3111
-      ],
-      "comment": "Cityguard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3060,
-        20,
-        3111
-      ],
-      "comment": "Cityguard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3060,
-        20,
-        3111
-      ],
-      "comment": "Cityguard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
     {
       "cmd": "M",
       "args": [
@@ -106,212 +17,117 @@
         4,
         3106
       ],
-      "comment": "Green Blob"
+      "comment": "(the red blood blob)"
     },
     {
       "cmd": "M",
       "args": [
         0,
-        3100,
+        32604,
         1,
         3106
       ],
-      "comment": "Maid"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3100,
-        500
-      ],
-      "comment": "Cup Of Tea"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3101,
-        500
-      ],
-      "comment": "Cup Of Coffee"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3102,
-        500
-      ],
-      "comment": "Cup Of Water"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3101,
-        1,
-        3106
-      ],
-      "comment": "Sexton"
+      "comment": "(Sexton)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3106,
-        2
+        1,
+        -1
       ],
-      "comment": "Key To Graveyard"
+      "comment": "(a rusty key)"
     },
     {
       "cmd": "M",
       "args": [
         0,
-        3102,
-        1,
-        3110
+        3060,
+        20,
+        3111
       ],
-      "comment": "Chief Guard"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3107,
-        2
-      ],
-      "comment": "Key To The Desk"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3103,
-        4,
-        3110
-      ],
-      "comment": "Mad Guard"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        1,
-        3103,
-        4,
-        3110
-      ],
-      "comment": "Mad Guard"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        1,
-        3103,
-        4,
-        3110
-      ],
-      "comment": "Mad Guard"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        1,
-        3103,
-        4,
-        3110
-      ],
-      "comment": "Mad Guard"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3104,
-        1,
-        3137
-      ],
-      "comment": "Secretary"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3105,
-        1,
-        3138
-      ],
-      "comment": "Mayor"
+      "comment": "(a skeleton warrior)"
     },
     {
       "cmd": "E",
       "args": [
         1,
-        3112,
-        1,
-        17
+        3022,
+        100,
+        16
       ],
-      "comment": "City Key"
+      "comment": "(a long sword)"
     },
     {
-      "cmd": "M",
+      "cmd": "G",
       "args": [
-        0,
-        3106,
         1,
-        3120
-      ],
-      "comment": "Town Crier"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3120,
-        1,
-        3114
-      ],
-      "comment": "Swan"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3121,
-        1,
-        3114
-      ],
-      "comment": "Duckling"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3122,
-        1,
-        3109
-      ],
-      "comment": "Sparrow"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3123,
+        3105,
         2,
-        3113
+        -1
       ],
-      "comment": "Duck"
+      "comment": "(an iron key)"
     },
     {
       "cmd": "M",
       "args": [
         0,
-        3123,
-        2,
-        3115
+        3060,
+        20,
+        3111
       ],
-      "comment": "Duck"
+      "comment": "(a skeleton warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3060,
+        20,
+        3111
+      ],
+      "comment": "(a skeleton warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3060,
+        20,
+        3111
+      ],
+      "comment": "(a skeleton warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
     },
     {
       "cmd": "O",
@@ -321,7 +137,7 @@
         1,
         3110
       ],
-      "comment": "Desk"
+      "comment": "(the desk)"
     },
     {
       "cmd": "P",
@@ -331,7 +147,7 @@
         1,
         3109
       ],
-      "comment": "Key To Safe"
+      "comment": "(a brass key)"
     },
     {
       "cmd": "O",
@@ -341,7 +157,7 @@
         1,
         3110
       ],
-      "comment": "Safe"
+      "comment": "(the safe)"
     },
     {
       "cmd": "P",
@@ -351,16 +167,17 @@
         1,
         3110
       ],
-      "comment": "Money"
+      "comment": "(&YThe gold&n)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         3101,
-        3111
+        3111,
+        -1
       ],
-      "comment": ""
+      "comment": "(the Bench)"
     },
     {
       "cmd": "O",
@@ -370,16 +187,17 @@
         3,
         3101
       ],
-      "comment": "Bench"
+      "comment": "(the Bench)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         3102,
-        3111
+        3111,
+        -1
       ],
-      "comment": ""
+      "comment": "(the Bench)"
     },
     {
       "cmd": "O",
@@ -389,16 +207,17 @@
         3,
         3102
       ],
-      "comment": "Bench"
+      "comment": "(the Bench)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         3103,
-        3111
+        3111,
+        -1
       ],
-      "comment": ""
+      "comment": "(the Bench)"
     },
     {
       "cmd": "O",
@@ -408,16 +227,17 @@
         3,
         3103
       ],
-      "comment": "Bench"
+      "comment": "(the Bench)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         3141,
-        3113
+        3113,
+        -1
       ],
-      "comment": ""
+      "comment": "(a fountain)"
     },
     {
       "cmd": "O",
@@ -427,7 +247,7 @@
         1,
         3141
       ],
-      "comment": "Fountain"
+      "comment": "(a fountain)"
     },
     {
       "cmd": "O",
@@ -435,10 +255,9 @@
         0,
         3114,
         1,
-        3141,
-        20
+        3141
       ],
-      "comment": "Coins"
+      "comment": "(a small pile of gold coins)"
     },
     {
       "cmd": "O",
@@ -448,7 +267,7 @@
         1,
         3155
       ],
-      "comment": "Candlestick"
+      "comment": "(a candlestick)"
     },
     {
       "cmd": "O",
@@ -458,7 +277,7 @@
         1,
         3124
       ],
-      "comment": "Elm Tree"
+      "comment": "(an elm tree)"
     },
     {
       "cmd": "D",
@@ -468,7 +287,7 @@
         3,
         2
       ],
-      "comment": "Cityguard HQ"
+      "comment": "(Park Road)"
     },
     {
       "cmd": "D",
@@ -478,7 +297,7 @@
         1,
         2
       ],
-      "comment": ""
+      "comment": "(Cityguard HeadQuarters)"
     },
     {
       "cmd": "D",
@@ -488,7 +307,7 @@
         2,
         2
       ],
-      "comment": "Graveyard"
+      "comment": "(On The Concourse)"
     },
     {
       "cmd": "D",
@@ -498,7 +317,7 @@
         0,
         2
       ],
-      "comment": ""
+      "comment": "(A Gravel Road In The Graveyard)"
     },
     {
       "cmd": "D",
@@ -508,7 +327,7 @@
         2,
         1
       ],
-      "comment": "Chapel"
+      "comment": "(In Front Of The Chapel)"
     },
     {
       "cmd": "D",
@@ -518,8 +337,8 @@
         0,
         1
       ],
-      "comment": ""
+      "comment": "(Inside The Chapel)"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/31.zon"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/31.zon"
 }

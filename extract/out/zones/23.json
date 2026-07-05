@@ -1,0 +1,2474 @@
+{
+  "id": 23,
+  "name": "The Keep of Mahn-Tor",
+  "header": {
+    "raw": "2399 30 1 1 -1",
+    "min_room": 2399,
+    "top_room": 30,
+    "lifespan": 1,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2310,
+        1,
+        2349
+      ],
+      "comment": "(the Ogre Shaman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2388,
+        20,
+        12
+      ],
+      "comment": "(a bearskin cloak)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2389,
+        10,
+        6
+      ],
+      "comment": "(a pair of feathered earrings)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2394,
+        10,
+        21
+      ],
+      "comment": "(a &bHumanoid &mSkull&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2315,
+        10,
+        2364
+      ],
+      "comment": "(the Minotaur Citizen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2362,
+        35,
+        16
+      ],
+      "comment": "(a kopesh sword)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2364,
+        0,
+        1
+      ],
+      "comment": "(Inside the gates of Mahn-Tor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2320,
+        4,
+        2383
+      ],
+      "comment": "(the Royal Minotaur Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2373,
+        10,
+        6
+      ],
+      "comment": "(a red steel helm and visor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2374,
+        10,
+        7
+      ],
+      "comment": "(a pair of red steel greaves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2375,
+        10,
+        10
+      ],
+      "comment": "(a pair of red steel vambraces)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2366,
+        15,
+        5
+      ],
+      "comment": "(a steel breast plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2376,
+        10,
+        16
+      ],
+      "comment": "(a minotaur glaive)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2383,
+        1,
+        1
+      ],
+      "comment": "(Standing before the throne)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2320,
+        4,
+        2384
+      ],
+      "comment": "(the Royal Minotaur Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2373,
+        10,
+        6
+      ],
+      "comment": "(a red steel helm and visor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2374,
+        10,
+        7
+      ],
+      "comment": "(a pair of red steel greaves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2375,
+        10,
+        10
+      ],
+      "comment": "(a pair of red steel vambraces)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2366,
+        15,
+        5
+      ],
+      "comment": "(a steel breast plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2376,
+        10,
+        16
+      ],
+      "comment": "(a minotaur glaive)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2320,
+        4,
+        2381
+      ],
+      "comment": "(the Royal Minotaur Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2373,
+        10,
+        6
+      ],
+      "comment": "(a red steel helm and visor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2374,
+        10,
+        7
+      ],
+      "comment": "(a pair of red steel greaves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2375,
+        10,
+        10
+      ],
+      "comment": "(a pair of red steel vambraces)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2366,
+        15,
+        5
+      ],
+      "comment": "(a steel breast plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2376,
+        10,
+        16
+      ],
+      "comment": "(a minotaur glaive)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2320,
+        4,
+        2382
+      ],
+      "comment": "(the Royal Minotaur Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2373,
+        10,
+        6
+      ],
+      "comment": "(a red steel helm and visor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2374,
+        10,
+        7
+      ],
+      "comment": "(a pair of red steel greaves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2375,
+        10,
+        10
+      ],
+      "comment": "(a pair of red steel vambraces)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2366,
+        15,
+        5
+      ],
+      "comment": "(a steel breast plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2376,
+        10,
+        16
+      ],
+      "comment": "(a minotaur glaive)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2315,
+        10,
+        2363
+      ],
+      "comment": "(the Minotaur Citizen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2362,
+        35,
+        16
+      ],
+      "comment": "(a kopesh sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2315,
+        10,
+        2365
+      ],
+      "comment": "(the Minotaur Citizen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2362,
+        35,
+        16
+      ],
+      "comment": "(a kopesh sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2315,
+        10,
+        2371
+      ],
+      "comment": "(the Minotaur Citizen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2362,
+        35,
+        16
+      ],
+      "comment": "(a kopesh sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2315,
+        10,
+        2370
+      ],
+      "comment": "(the Minotaur Citizen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2362,
+        35,
+        16
+      ],
+      "comment": "(a kopesh sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2315,
+        10,
+        2367
+      ],
+      "comment": "(the Minotaur Citizen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2362,
+        35,
+        16
+      ],
+      "comment": "(a kopesh sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2317,
+        3,
+        2367
+      ],
+      "comment": "(the Minotaur Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2366,
+        15,
+        5
+      ],
+      "comment": "(a steel breast plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2367,
+        15,
+        6
+      ],
+      "comment": "(a steel helm)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2368,
+        10,
+        16
+      ],
+      "comment": "(a huge halberd)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2315,
+        10,
+        2369
+      ],
+      "comment": "(the Minotaur Citizen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2362,
+        15,
+        16
+      ],
+      "comment": "(a kopesh sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2324,
+        1,
+        2387
+      ],
+      "comment": "(the Minotaur Ring-Keeper)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2383,
+        5,
+        16
+      ],
+      "comment": "(a huge wooden maul)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2382,
+        2,
+        13
+      ],
+      "comment": "(&Ra&m &Wm&Mu&Yl&Bt&Gi&C-&Rc&mo&Wl&Mo&Yr&Be&Gd&C &Rk&me&Wy&M &Yr&Bi&Gn&Cg&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2381,
+        20,
+        -1
+      ],
+      "comment": "(some huge spiked brass knuckles)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        2351,
+        1,
+        2382
+      ],
+      "comment": "(&Ra red key&n)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        2352,
+        1,
+        2382
+      ],
+      "comment": "(&ma purple key&n)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        2353,
+        1,
+        2382
+      ],
+      "comment": "(&Wa white key&n)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        2354,
+        1,
+        2382
+      ],
+      "comment": "(&Ma pink key&n)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        2355,
+        1,
+        2382
+      ],
+      "comment": "(&Ya yellow key&n)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        2356,
+        1,
+        2382
+      ],
+      "comment": "(&Ba blue key&n)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        2357,
+        1,
+        2382
+      ],
+      "comment": "(&Ga green key&n)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        2358,
+        1,
+        2382
+      ],
+      "comment": "(&Ca cyan key&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2332,
+        1,
+        2398
+      ],
+      "comment": "(Dorgar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2335,
+        15,
+        12
+      ],
+      "comment": "(a small leather pack)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2336,
+        10,
+        6
+      ],
+      "comment": "(a black leather hood)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2337,
+        20,
+        10
+      ],
+      "comment": "(a pair of black leather sleeves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2338,
+        10,
+        7
+      ],
+      "comment": "(a pair of black leather pants)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2339,
+        10,
+        16
+      ],
+      "comment": "(a wicked shortsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2325,
+        1,
+        2372
+      ],
+      "comment": "(Harok)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2300,
+        10,
+        9
+      ],
+      "comment": "(a pair of minotaur combat gloves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2301,
+        5,
+        5
+      ],
+      "comment": "(a suit of spiked garde armor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2302,
+        5,
+        7
+      ],
+      "comment": "(a pair of black minotaur greaves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2303,
+        5,
+        10
+      ],
+      "comment": "(a pair of black minotaur vambraces)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2304,
+        3,
+        16
+      ],
+      "comment": "(the Rod of Magic)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2397,
+        1,
+        2
+      ],
+      "comment": "(The end of the guarded hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2397,
+        3,
+        2
+      ],
+      "comment": "(The end of the guarded hall)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2333,
+        1,
+        2396
+      ],
+      "comment": "(Mahn-Tor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2341,
+        5,
+        5
+      ],
+      "comment": "(a suit of black minotaur chainmail)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2342,
+        15,
+        14
+      ],
+      "comment": "(a spiked buckler)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2343,
+        10,
+        2
+      ],
+      "comment": "(a studded ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2344,
+        10,
+        6
+      ],
+      "comment": "(a horned minotaur helm)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2345,
+        1,
+        16
+      ],
+      "comment": "(Mahn-Tor's Great Axe)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2340,
+        10,
+        22
+      ],
+      "comment": "(a major globe of invulnerability)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2312,
+        3,
+        2351
+      ],
+      "comment": "(the Plains Barbarian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2392,
+        20,
+        4
+      ],
+      "comment": "(a thick fur cape)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2393,
+        20,
+        5
+      ],
+      "comment": "(a fur lined tunic)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2360,
+        20,
+        8
+      ],
+      "comment": "(a pair of fur lined boots)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        30202,
+        1,
+        2351
+      ],
+      "comment": "(Strange Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2300,
+        1,
+        2307
+      ],
+      "comment": "(the Dark Ethereal Knight)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2346,
+        5,
+        5
+      ],
+      "comment": "(a suit of ethereal plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2347,
+        5,
+        6
+      ],
+      "comment": "(an ethereal helm)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2348,
+        10,
+        16
+      ],
+      "comment": "(an ethereal blade)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2301,
+        1,
+        2314
+      ],
+      "comment": "(the Old Treant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2302,
+        1,
+        2316
+      ],
+      "comment": "(the Cave Dweller)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2303,
+        4,
+        2311
+      ],
+      "comment": "(the Rock Toad)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2303,
+        4,
+        2312
+      ],
+      "comment": "(the Rock Toad)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2303,
+        4,
+        2313
+      ],
+      "comment": "(the Rock Toad)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2303,
+        4,
+        2319
+      ],
+      "comment": "(the Rock Toad)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2304,
+        1,
+        2330
+      ],
+      "comment": "(the Weeping Willow)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2349,
+        15,
+        -1
+      ],
+      "comment": "(a willow branch)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2305,
+        3,
+        2332
+      ],
+      "comment": "(the Mistling)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2305,
+        3,
+        2337
+      ],
+      "comment": "(the Mistling)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2305,
+        3,
+        2333
+      ],
+      "comment": "(the Mistling)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2306,
+        1,
+        2336
+      ],
+      "comment": "(the Swamp Wraith)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2384,
+        20,
+        -1
+      ],
+      "comment": "(a misty potion)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2307,
+        5,
+        2346
+      ],
+      "comment": "(The Ogre Villager)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2385,
+        25,
+        13
+      ],
+      "comment": "(a pouch belt)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2307,
+        5,
+        2343
+      ],
+      "comment": "(The Ogre Villager)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2385,
+        25,
+        13
+      ],
+      "comment": "(a pouch belt)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2307,
+        5,
+        2345
+      ],
+      "comment": "(The Ogre Villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2307,
+        5,
+        2348
+      ],
+      "comment": "(The Ogre Villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2307,
+        5,
+        2344
+      ],
+      "comment": "(The Ogre Villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2308,
+        4,
+        2347
+      ],
+      "comment": "(The Ogre Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2386,
+        25,
+        16
+      ],
+      "comment": "(an ogre spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2308,
+        4,
+        2342
+      ],
+      "comment": "(The Ogre Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2386,
+        25,
+        16
+      ],
+      "comment": "(an ogre spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2308,
+        4,
+        2348
+      ],
+      "comment": "(The Ogre Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2386,
+        25,
+        16
+      ],
+      "comment": "(an ogre spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2308,
+        4,
+        2346
+      ],
+      "comment": "(The Ogre Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2386,
+        25,
+        16
+      ],
+      "comment": "(an ogre spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2309,
+        4,
+        2348
+      ],
+      "comment": "(the Ogre Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2387,
+        25,
+        16
+      ],
+      "comment": "(an ogre war club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2309,
+        4,
+        2342
+      ],
+      "comment": "(the Ogre Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2387,
+        25,
+        16
+      ],
+      "comment": "(an ogre war club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2309,
+        4,
+        2341
+      ],
+      "comment": "(the Ogre Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2387,
+        25,
+        16
+      ],
+      "comment": "(an ogre war club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2309,
+        4,
+        2341
+      ],
+      "comment": "(the Ogre Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2387,
+        25,
+        16
+      ],
+      "comment": "(an ogre war club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2311,
+        1,
+        2350
+      ],
+      "comment": "(the Ogre Chieftain)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2390,
+        5,
+        9
+      ],
+      "comment": "(Gauntlets of ogre power)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2391,
+        10,
+        16
+      ],
+      "comment": "(a massive club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2312,
+        3,
+        2354
+      ],
+      "comment": "(the Plains Barbarian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2392,
+        20,
+        4
+      ],
+      "comment": "(a thick fur cape)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2393,
+        20,
+        5
+      ],
+      "comment": "(a fur lined tunic)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2360,
+        20,
+        8
+      ],
+      "comment": "(a pair of fur lined boots)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2312,
+        3,
+        2359
+      ],
+      "comment": "(the Plains Barbarian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2392,
+        20,
+        4
+      ],
+      "comment": "(a thick fur cape)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2393,
+        20,
+        5
+      ],
+      "comment": "(a fur lined tunic)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2360,
+        20,
+        8
+      ],
+      "comment": "(a pair of fur lined boots)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2313,
+        3,
+        2357
+      ],
+      "comment": "(the White Yeti)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2361,
+        20,
+        12
+      ],
+      "comment": "(the white pelt of a yeti)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2313,
+        3,
+        2359
+      ],
+      "comment": "(the White Yeti)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2361,
+        20,
+        12
+      ],
+      "comment": "(the white pelt of a yeti)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2313,
+        3,
+        2355
+      ],
+      "comment": "(the White Yeti)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2361,
+        20,
+        12
+      ],
+      "comment": "(the white pelt of a yeti)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2314,
+        3,
+        2352
+      ],
+      "comment": "(the Ice Worm)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2314,
+        3,
+        2354
+      ],
+      "comment": "(the Ice Worm)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2314,
+        3,
+        2356
+      ],
+      "comment": "(the Ice Worm)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2316,
+        3,
+        2368
+      ],
+      "comment": "(the Minotaur Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2363,
+        15,
+        10
+      ],
+      "comment": "(a pair of steel vambraces)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2364,
+        15,
+        7
+      ],
+      "comment": "(a pair of steel greaves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2365,
+        10,
+        16
+      ],
+      "comment": "(a battle axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2316,
+        3,
+        2366
+      ],
+      "comment": "(the Minotaur Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2363,
+        15,
+        10
+      ],
+      "comment": "(a pair of steel vambraces)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2364,
+        15,
+        7
+      ],
+      "comment": "(a pair of steel greaves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2365,
+        10,
+        16
+      ],
+      "comment": "(a battle axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2316,
+        3,
+        2362
+      ],
+      "comment": "(the Minotaur Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2363,
+        15,
+        10
+      ],
+      "comment": "(a pair of steel vambraces)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2364,
+        15,
+        7
+      ],
+      "comment": "(a pair of steel greaves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2365,
+        10,
+        16
+      ],
+      "comment": "(a battle axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2317,
+        3,
+        2376
+      ],
+      "comment": "(the Minotaur Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2366,
+        15,
+        5
+      ],
+      "comment": "(a steel breast plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2367,
+        15,
+        6
+      ],
+      "comment": "(a steel helm)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2368,
+        10,
+        16
+      ],
+      "comment": "(a huge halberd)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2317,
+        3,
+        2378
+      ],
+      "comment": "(the Minotaur Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2366,
+        15,
+        5
+      ],
+      "comment": "(a steel breast plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2367,
+        15,
+        6
+      ],
+      "comment": "(a steel helm)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2368,
+        10,
+        16
+      ],
+      "comment": "(a huge halberd)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2318,
+        1,
+        2377
+      ],
+      "comment": "(the Minotaur Gatekeeper)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2350,
+        1,
+        -1
+      ],
+      "comment": "(the keep key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2319,
+        2,
+        2380
+      ],
+      "comment": "(the High Minotaur Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2369,
+        15,
+        6
+      ],
+      "comment": "(a blue steel helm and visor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2370,
+        15,
+        7
+      ],
+      "comment": "(a pair of blue steel greaves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2371,
+        15,
+        10
+      ],
+      "comment": "(A pair of blue steel vambraces)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2366,
+        15,
+        5
+      ],
+      "comment": "(a steel breast plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2372,
+        10,
+        16
+      ],
+      "comment": "(a Two-handed large Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2319,
+        2,
+        2379
+      ],
+      "comment": "(the High Minotaur Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2369,
+        15,
+        6
+      ],
+      "comment": "(a blue steel helm and visor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2370,
+        15,
+        7
+      ],
+      "comment": "(a pair of blue steel greaves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2371,
+        15,
+        10
+      ],
+      "comment": "(A pair of blue steel vambraces)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2366,
+        15,
+        5
+      ],
+      "comment": "(a steel breast plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2372,
+        10,
+        16
+      ],
+      "comment": "(a Two-handed large Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2321,
+        2,
+        2385
+      ],
+      "comment": "(the Elite Minotaur Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2377,
+        5,
+        6
+      ],
+      "comment": "(a crimson steel helm and visor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2378,
+        5,
+        7
+      ],
+      "comment": "(a pair of crimson steel greaves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2379,
+        5,
+        10
+      ],
+      "comment": "(a pair of crimson steel vambraces)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2366,
+        15,
+        5
+      ],
+      "comment": "(a steel breast plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2380,
+        5,
+        16
+      ],
+      "comment": "(a huge morningstar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2321,
+        2,
+        2385
+      ],
+      "comment": "(the Elite Minotaur Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2377,
+        5,
+        6
+      ],
+      "comment": "(a crimson steel helm and visor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2378,
+        5,
+        7
+      ],
+      "comment": "(a pair of crimson steel greaves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2379,
+        5,
+        10
+      ],
+      "comment": "(a pair of crimson steel vambraces)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2366,
+        15,
+        5
+      ],
+      "comment": "(a steel breast plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2380,
+        5,
+        16
+      ],
+      "comment": "(a huge morningstar)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2359,
+        1,
+        -1
+      ],
+      "comment": "(a runed key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2322,
+        5,
+        2393
+      ],
+      "comment": "(the Harem Girl)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2322,
+        5,
+        2393
+      ],
+      "comment": "(the Harem Girl)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2322,
+        5,
+        2393
+      ],
+      "comment": "(the Harem Girl)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2322,
+        5,
+        2393
+      ],
+      "comment": "(the Harem Girl)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2322,
+        5,
+        2393
+      ],
+      "comment": "(the Harem Girl)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2323,
+        1,
+        2395
+      ],
+      "comment": "(the Minotaur Butler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2326,
+        1,
+        2373
+      ],
+      "comment": "(Darkoth)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2305,
+        20,
+        12
+      ],
+      "comment": "(a pitch black cloak)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2306,
+        15,
+        4
+      ],
+      "comment": "(a black plate neckguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2307,
+        5,
+        9
+      ],
+      "comment": "(a pair of spiked gauntlets)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2308,
+        10,
+        11
+      ],
+      "comment": "(the shadow shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2309,
+        3,
+        16
+      ],
+      "comment": "(&wooo[==&WNight&rbringer-&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2327,
+        1,
+        2374
+      ],
+      "comment": "(Yergoth)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2310,
+        10,
+        6
+      ],
+      "comment": "(a golden helm and visor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2311,
+        5,
+        5
+      ],
+      "comment": "(a gilded gold breast plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2312,
+        15,
+        4
+      ],
+      "comment": "(a billowing white cape )"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2313,
+        20,
+        11
+      ],
+      "comment": "(a huge tower shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2314,
+        3,
+        16
+      ],
+      "comment": "(a huge mace named \"Dawnbringer\")"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2328,
+        1,
+        2391
+      ],
+      "comment": "(Amyrok)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2315,
+        10,
+        1
+      ],
+      "comment": "(a pair of wire rimmed spectacles)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2316,
+        5,
+        2
+      ],
+      "comment": "(a banded ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2317,
+        5,
+        12
+      ],
+      "comment": "(a minor globe of invulnerability)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2318,
+        3,
+        16
+      ],
+      "comment": "(a gnarled magius staff)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2319,
+        10,
+        13
+      ],
+      "comment": "(a girdle of many pouches)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2329,
+        1,
+        2390
+      ],
+      "comment": "(Sumaron)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2320,
+        15,
+        12
+      ],
+      "comment": "(a heavy woolen robe)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2321,
+        5,
+        3
+      ],
+      "comment": "(a brooch of life)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2322,
+        20,
+        17
+      ],
+      "comment": "(a manual of healing arts)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2323,
+        3,
+        16
+      ],
+      "comment": "(a huge mithril mace)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2324,
+        15,
+        4
+      ],
+      "comment": "(a golden holy symbol)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2330,
+        1,
+        2394
+      ],
+      "comment": "(Nasturn)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2325,
+        10,
+        1
+      ],
+      "comment": "(a thick marble ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2326,
+        10,
+        15
+      ],
+      "comment": "(a thick marble bracelet)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2327,
+        10,
+        8
+      ],
+      "comment": "(boots of striding)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2328,
+        10,
+        12
+      ],
+      "comment": "(an icy white cloak)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2329,
+        3,
+        16
+      ],
+      "comment": "(an ice staff)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2331,
+        1,
+        2399
+      ],
+      "comment": "(Belrak)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2330,
+        10,
+        2
+      ],
+      "comment": "(a carved wooden ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2331,
+        20,
+        17
+      ],
+      "comment": "(the horn of life)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2332,
+        10,
+        13
+      ],
+      "comment": "(the belt of life)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2334,
+        3,
+        16
+      ],
+      "comment": "(a huge crossbow)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2333,
+        5,
+        -1
+      ],
+      "comment": "(a blood red stone)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        2377,
+        1,
+        2
+      ],
+      "comment": "(Before the Keep of Mahn-Tor)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        2379,
+        3,
+        2
+      ],
+      "comment": "(The entryway to the Keep of Mahn-Tor)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        2385,
+        1,
+        2
+      ],
+      "comment": "(The secret hallway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        2386,
+        3,
+        2
+      ],
+      "comment": "(Entry to the Royal Chambers)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        2388,
+        1,
+        2
+      ],
+      "comment": "(The guarded hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        2388,
+        3,
+        2
+      ],
+      "comment": "(The guarded hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        2389,
+        1,
+        2
+      ],
+      "comment": "(The guarded hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        2389,
+        3,
+        2
+      ],
+      "comment": "(The guarded hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        2392,
+        1,
+        2
+      ],
+      "comment": "(The guarded hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        2392,
+        3,
+        2
+      ],
+      "comment": "(The guarded hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        2362,
+        2,
+        1
+      ],
+      "comment": "(Before the gates of Mahn-Tor)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/23.zon"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 29941,
+  "zone_id": 298,
+  "name": "Among the Lilacs",
+  "description": "At this point, the lush grass gives way to lilac bushes.  Little paths run\namong the bushes.  Occasionally you find an iron bench along one of the paths.\nThe southeastern-most part is dominated by a large willow tree.  Its sweeping\nbranches completely hide the trunk, making it the perfect place for a tryst.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29938
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29942
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29943
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

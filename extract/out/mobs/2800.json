@@ -1,0 +1,12 @@
+{
+  "id": 2800,
+  "alias": "pit warrior",
+  "short_desc": "the pit warrior",
+  "long_desc": "A great warrior is walking here.",
+  "detailed_desc": "The best warrior.",
+  "flags_raw": "8 0 0 E",
+  "stats1_raw": "80 -20 -2 1d1+3000 12d11+32",
+  "stats2_raw": "0 1 0",
+  "stats3_raw": "8 8 0 0 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/28.mob"
+}

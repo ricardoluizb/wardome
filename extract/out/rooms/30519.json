@@ -1,0 +1,21 @@
+{
+  "id": 30519,
+  "zone_id": 305,
+  "name": "&BO Templo dos Orcs",
+  "description": "E' muito dificil acreditar que no submundo, que mesmo para os insetos e'\ndificil viver, a vida existe.  Voce esta' no Templo dos Orcs, a mais horrivel\nraca de Wardome.  Ha muitas pinturas nas paredes, voce nao consegue imaginar\nquem sao os seus deuses, ou\n  A Estrada dos Templos fica ao sul.",
+  "header_raw": "305 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30509
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/305.wld"
+}

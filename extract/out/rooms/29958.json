@@ -1,0 +1,29 @@
+{
+  "id": 29958,
+  "zone_id": 298,
+  "name": "Above the Forest",
+  "description": "The forest spreads around you like a lush green carpet, and you can see why the\nelves are so attached to this forest home.  Far below you, you catch a glimpse\nof metal, flashing in the sun, and are reminded of the battle to the south.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29957
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29959
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

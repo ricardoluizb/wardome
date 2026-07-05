@@ -3,8 +3,8 @@
   "zone_id": 70,
   "name": "The Sewer Pipe Bend",
   "description": "You can look in two different directions where the pipe goes: west and \nnorth.",
-  "header_raw": "70 ad 2",
-  "flags_text": "ad",
+  "header_raw": "70 9 2",
+  "flags_text": "9",
   "sector": 2,
   "exits": [
     {

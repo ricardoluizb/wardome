@@ -1,0 +1,21 @@
+{
+  "id": 516,
+  "zone_id": 5,
+  "name": "&BThe Temple of the Humans&n",
+  "description": "You are in a small temple, appearing to be a house. Here you can rest, sleep\nor even wait until yor next battle. The strongests human gladiators have already\nwalked upon this ground.\n   The exit to the Temple Street is to the South.",
+  "header_raw": "5 1048596 0",
+  "flags_text": "1048596",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 510
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

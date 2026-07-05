@@ -1,0 +1,12 @@
+{
+  "id": 9212,
+  "alias": "oldstyle water elemental ruler",
+  "short_desc": "the Water Ruler",
+  "long_desc": "The Ruler of the water elementals.",
+  "detailed_desc": "As you look at him he changes to mist, which swirls around you.  Just\nas you get scared, it reforms in elemental form.",
+  "flags_raw": "10 128 0 E",
+  "stats1_raw": "160 -60 -14 1d1+4476 5d17+64",
+  "stats2_raw": "2400 11302310 0",
+  "stats3_raw": "8 8 0 3 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/92.mob"
+}

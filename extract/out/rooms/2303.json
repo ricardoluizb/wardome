@@ -1,0 +1,29 @@
+{
+  "id": 2303,
+  "zone_id": 23,
+  "name": "The edge of the forest and hills",
+  "description": "You stand at the edge of a dark forest. A path leads north into the forest and\nits deadly darkness and silence. Looking west, you see a path that leads up\ninto a foothills region. Standing here on the boundary between light and\ndarkness, you feel very vulnerable and alone.",
+  "header_raw": "23 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2302
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2309
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

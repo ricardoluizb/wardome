@@ -1,0 +1,12 @@
+{
+  "id": 14108,
+  "alias": "mage",
+  "short_desc": "the mage",
+  "long_desc": "A mage stands here reading a book.",
+  "detailed_desc": "The mage in his ever-increasing search for Honesty and Truth, has\ncome to library to peruse the ancient tomes of knowledge.  He\nglances at you, and returns to his study.",
+  "flags_raw": "2056 1168 1000 E",
+  "stats1_raw": "35 1 3 1d1+1260 5d4+24",
+  "stats2_raw": "525 193300 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

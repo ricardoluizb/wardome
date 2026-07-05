@@ -1,0 +1,29 @@
+{
+  "id": 28431,
+  "zone_id": 284,
+  "name": "Poseidon Throne",
+  "description": "You have done it now. You are at the very most depths of Sea. Before\nyou stands the altar of none other than the god of 7 seas himself.\nThe Lord of Oceans, Poseidon.",
+  "header_raw": "284 32768 6",
+  "flags_text": "32768",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "South of here is something.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28432
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 2,
+      "key": 28418,
+      "to": 28433
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/284.wld"
+}

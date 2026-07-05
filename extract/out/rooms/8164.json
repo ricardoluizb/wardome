@@ -1,0 +1,21 @@
+{
+  "id": 8164,
+  "zone_id": 81,
+  "name": "A Barracks Room",
+  "description": "The goblins sleep in here, packed in like sardines in a can.  The rooms\nsmell worse than week-old sardines, littered as they are with old \nhides and accumulated filth.  You had better be leaving.",
+  "header_raw": "81 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "There is a bronze door to the south.",
+      "keywords": "door bronze",
+      "door_flag": 1,
+      "key": 8100,
+      "to": 8163
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

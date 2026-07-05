@@ -1,0 +1,29 @@
+{
+  "id": 5813,
+  "zone_id": 57,
+  "name": "A Bend in the Passageway",
+  "description": "You have come to a bend, where you may proceed south toward a junction, or\neast toward a hole in the north wall. The sounds one would normally associate\nwith heavy excavation echo from the south somewhere.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "a hole",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5814
+    },
+    {
+      "dir": 2,
+      "description": "a junction",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5810
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 17620,
+  "zone_id": 176,
+  "name": "Barn",
+  "description": "You are in a barn.  There are some cows here, munching on mounds of hay.\nMilk is milked and bottled here.  You see the exit west.",
+  "header_raw": "176 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "You see the dirt road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17618
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/176.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 5769,
+  "zone_id": 57,
+  "name": "A Pear-Shaped Room",
+  "description": "You have entered a pear-shaped room, with the south entrance opening into\nthe wide base and a door to the north exiting at the top of the fruit shape.\nSeveral items of interest are scattered on the floor here..\n\nThe sound of flowing water is stronger than ever here. It appears to be\ncoming from directly beyond the door in the north wall.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a door",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5773
+    },
+    {
+      "dir": 2,
+      "description": "a short corridor",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5802
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

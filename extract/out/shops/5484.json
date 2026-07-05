@@ -2,22 +2,12 @@
   "id": 5484,
   "producing": [
     5422,
-    5423,
-    5524,
-    5525,
-    5526,
-    5527,
-    5528,
-    5529,
-    5530,
-    5531,
-    5532,
-    5533
+    5423
   ],
   "profit_buy": 1.1,
   "profit_sell": 0.5,
   "buy_types": [
-    "ARMOR"
+    "9"
   ],
   "messages": [
     "%s Havn't got that in storage, try LIST!",
@@ -40,5 +30,5 @@
     0,
     0
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/shp/54.shp"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/54.shp"
 }

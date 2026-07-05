@@ -1,0 +1,21 @@
+{
+  "id": 17307,
+  "zone_id": 173,
+  "name": "Lair of the Questing Beast",
+  "description": "You have found the lair of the questing beast! Bones are strewn everywhere.\nThe only exit is to the east.",
+  "header_raw": "173 1 3",
+  "flags_text": "1",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Trail of Bones",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17304
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

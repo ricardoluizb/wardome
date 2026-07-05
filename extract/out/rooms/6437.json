@@ -3,8 +3,8 @@
   "zone_id": 64,
   "name": "The Hallway",
   "description": "This is the southern part of the hallway.  There is \na door to the west, barred with gleaming bands of lights.\nTo the north is more hallway.",
-  "header_raw": "64 ad 0",
-  "flags_text": "ad",
+  "header_raw": "64 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {
@@ -20,7 +20,7 @@
       "description": "",
       "keywords": "door",
       "door_flag": 1,
-      "key": -1,
+      "key": 6453,
       "to": 6438
     }
   ],

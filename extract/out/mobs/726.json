@@ -1,0 +1,12 @@
+{
+  "id": 726,
+  "alias": "priest",
+  "short_desc": "the Priest",
+  "long_desc": "A priest is here, performing his absolutions.",
+  "detailed_desc": "The priest looks like a kindly man who has seen too much suffering for\none life.  He now devotes his life to Hope, hoping to one day ascend to\nimmortality.",
+  "flags_raw": "138 128 0 E",
+  "stats1_raw": "90 -35 -11 1d1+6120 5d19+86",
+  "stats2_raw": "1350 2808292 5",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

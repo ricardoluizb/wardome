@@ -1,0 +1,26 @@
+{
+  "id": 4749,
+  "zone_id": 47,
+  "name": "Temple of Juargan",
+  "description": "This large building is circular in shape and open on all sides, as the ceiling\nis supported by pillars made of the deep red stone from the heart of the\nDra-Korrin.\n  In the center there is rests a large throne, formed of red rock.",
+  "header_raw": "47 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4745
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "throne",
+      "description": "The throne is made of deep red rock from the core of the Dra-Korrin."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

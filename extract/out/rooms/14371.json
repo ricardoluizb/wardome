@@ -1,0 +1,29 @@
+{
+  "id": 14371,
+  "zone_id": 143,
+  "name": "A Bend in the Tunnel",
+  "description": "The tunnel makes an abrupt turn here. The walls are covered with scenes of a\ngreat funeral, and two copper pots with stout bases are resting in the corner.",
+  "header_raw": "143 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The room is veiled in darkness.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14370
+    },
+    {
+      "dir": 3,
+      "description": "Nothing can be seen in the darkness ahead.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14372
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

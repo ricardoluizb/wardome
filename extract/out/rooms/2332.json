@@ -1,0 +1,45 @@
+{
+  "id": 2332,
+  "zone_id": 23,
+  "name": "Lost in the Mist",
+  "description": "You wander, hopelessly lost. Swirling mist obscures your vision and clouds\nyour mind. You lose all concept of direction. Small, silent giggles can be\nheard all around. You can wander in any direction.",
+  "header_raw": "23 8388617 4",
+  "flags_text": "8388617",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2337
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2334
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2335
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2334
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

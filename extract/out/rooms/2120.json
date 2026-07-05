@@ -1,0 +1,26 @@
+{
+  "id": 2120,
+  "zone_id": 21,
+  "name": "Hanging By a Thread",
+  "description": "As you reach for your next handhold, the rock comes loose and tumbles down,\ndown, down to the ground.  You barely manage to save yourself by clinging\ndesperately to the rock face with your other hand.  Returning back west is out\nof the question, but you might be able to pull yourself upwards onto a very\nthin ledge.",
+  "header_raw": "21 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2121
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "ledge thin",
+      "description": "The ledge is very narrow, perhaps two feet at it's widest part."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/21.wld"
+}

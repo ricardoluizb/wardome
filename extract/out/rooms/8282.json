@@ -1,0 +1,29 @@
+{
+  "id": 8282,
+  "zone_id": 82,
+  "name": "The Western Corridor",
+  "description": "You are in the western corridor the walls here are very stretch, and\nthis place like all the other are very cold because there made of a\ncold material like stone. The walls, and ceiling arent painted like in\nthe entrance, and worst of all you see in the floor a cockroach.",
+  "header_raw": "82 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8281
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8283
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

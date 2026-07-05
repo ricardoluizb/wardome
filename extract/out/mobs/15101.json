@@ -1,0 +1,12 @@
+{
+  "id": 15101,
+  "alias": "skinny woman villager",
+  "short_desc": "the skinny woman",
+  "long_desc": "A skinny woman stands here. She is pale, sickly and generally pathetic to see.",
+  "detailed_desc": "The woman would probably be quite a hotty if not for her ribs showing\nthrough the flimsy fabric of her grubby, raggety dress.",
+  "flags_raw": "200 0 -300 E",
+  "stats1_raw": "90 -27 -5 1d1+3240 5d10+46",
+  "stats2_raw": "1350 2623130 1",
+  "stats3_raw": "8 8 2 -1 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/151.mob"
+}

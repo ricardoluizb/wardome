@@ -1,0 +1,29 @@
+{
+  "id": 28403,
+  "zone_id": 284,
+  "name": "Entrance to Fissure",
+  "description": "You find yourself standing in the entrance to the ground between two\nenormous rocks.In the south you notice a hole.",
+  "header_raw": "284 9 6",
+  "flags_text": "9",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "North of you is the exit to the fissure out.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28402
+    },
+    {
+      "dir": 2,
+      "description": "South you notice a entrance between the enormous rocks.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28404
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/284.wld"
+}

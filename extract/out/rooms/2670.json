@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Meditation Chamber",
   "description": "You are in a small meditation chamber.  White silk cushions are\neverywhere, looking very comfortable.  You get an easy peaceful\nfeeling of relaxation here, almost making you want to lie down and\nfall asleep.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

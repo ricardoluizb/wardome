@@ -1,0 +1,12 @@
+{
+  "id": 610,
+  "alias": "boar",
+  "short_desc": "the boar",
+  "long_desc": "A boar tries to run you over.",
+  "detailed_desc": "It grunts at you.",
+  "flags_raw": "104 0 0 E",
+  "stats1_raw": "0 3 20 9d1+1 63d10+1",
+  "stats2_raw": "0 45 669",
+  "stats3_raw": "0 8 0 0 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/6.mob"
+}

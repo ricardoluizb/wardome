@@ -3,8 +3,8 @@
   "zone_id": 31,
   "name": "The Western Park Entrance",
   "description": "You are standing at the western end of the park.  A small path leads east\ninto the park and going west through the entrance you will reach Park Road.",
-  "header_raw": "31 c 1",
-  "flags_text": "c",
+  "header_raw": "31 4 1",
+  "flags_text": "4",
   "sector": 1,
   "exits": [
     {

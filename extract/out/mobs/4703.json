@@ -1,0 +1,12 @@
+{
+  "id": 4703,
+  "alias": "dwarf yentle",
+  "short_desc": "Yentle the dwarf",
+  "long_desc": "A small dwarf sits here trying to grow a new rock.",
+  "detailed_desc": "The insane little dwarf who thinks he can grow a rock.  He is dressed in many\nyellows and oranges, and seems to have a happy look about him despite his years\nof failure at growing rocks.",
+  "flags_raw": "12 8 1000 E",
+  "stats1_raw": "80 -28 -8 1d1+4800 5d9+72",
+  "stats2_raw": "1200 1969179 4",
+  "stats3_raw": "6 0 1 10 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/47.mob"
+}

@@ -4,9 +4,9 @@
   "short_desc": "the Black Queen",
   "long_desc": "The Black Queen stands here.",
   "detailed_desc": "The Black Queen is a strikingly beautiful woman with pale skin and a\nmass of dark hair that crowns her head like a black cloud.  If looks\ncould kill, you would already be dead.",
-  "flags_raw": "bcfl dh -750 S",
-  "stats1_raw": "32 11 -3 5d10+900 4d6+13",
-  "stats2_raw": "10000 200000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "133166 578822312 -750 E",
+  "stats1_raw": "190 -89 -29 1d1+15960 5d39+146",
+  "stats2_raw": "2850 25635634 7",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/36.mob"
 }

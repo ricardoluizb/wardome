@@ -1,0 +1,964 @@
+{
+  "id": 190,
+  "name": "The Elven woods",
+  "header": {
+    "raw": "19099 20 2 1",
+    "min_room": 19099,
+    "top_room": 20,
+    "lifespan": 2,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19009,
+        1,
+        19090
+      ],
+      "comment": "(the Elven receptionist)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19001,
+        100,
+        16
+      ],
+      "comment": "(a fine Longsword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6101,
+        1,
+        -1
+      ],
+      "comment": "(a sign)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19017,
+        1,
+        19019
+      ],
+      "comment": "(the Champion)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19000,
+        1,
+        16
+      ],
+      "comment": "(A diamond-edged sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19011,
+        8,
+        19018
+      ],
+      "comment": "(The Elven guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19001,
+        100,
+        16
+      ],
+      "comment": "(a fine Longsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19011,
+        8,
+        19018
+      ],
+      "comment": "(The Elven guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19001,
+        100,
+        16
+      ],
+      "comment": "(a fine Longsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19011,
+        8,
+        19018
+      ],
+      "comment": "(The Elven guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19011,
+        8,
+        19018
+      ],
+      "comment": "(The Elven guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19003,
+        15,
+        19015
+      ],
+      "comment": "(The Elven guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19001,
+        100,
+        16
+      ],
+      "comment": "(a fine Longsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19002,
+        10,
+        19012
+      ],
+      "comment": "(The Elven soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19001,
+        100,
+        16
+      ],
+      "comment": "(a fine Longsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19002,
+        10,
+        19009
+      ],
+      "comment": "(The Elven soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19001,
+        100,
+        16
+      ],
+      "comment": "(a fine Longsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19002,
+        10,
+        19008
+      ],
+      "comment": "(The Elven soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19001,
+        100,
+        16
+      ],
+      "comment": "(a fine Longsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19003,
+        10,
+        19008
+      ],
+      "comment": "(The Elven guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19001,
+        100,
+        16
+      ],
+      "comment": "(a fine Longsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19003,
+        10,
+        19008
+      ],
+      "comment": "(The Elven guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19001,
+        100,
+        16
+      ],
+      "comment": "(a fine Longsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19003,
+        10,
+        19008
+      ],
+      "comment": "(The Elven guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19003,
+        10,
+        19008
+      ],
+      "comment": "(The Elven guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19002,
+        10,
+        19007
+      ],
+      "comment": "(The Elven soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19001,
+        100,
+        16
+      ],
+      "comment": "(a fine Longsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19002,
+        15,
+        19006
+      ],
+      "comment": "(The Elven soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19001,
+        100,
+        16
+      ],
+      "comment": "(a fine Longsword)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        19005,
+        1,
+        19006
+      ],
+      "comment": "(a Telescope)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        19003,
+        5,
+        1
+      ],
+      "comment": "(Guard room.)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19011,
+        8,
+        19003
+      ],
+      "comment": "(The Elven guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19001,
+        100,
+        16
+      ],
+      "comment": "(a fine Longsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19011,
+        8,
+        19003
+      ],
+      "comment": "(The Elven guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19001,
+        100,
+        16
+      ],
+      "comment": "(a fine Longsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19011,
+        8,
+        19003
+      ],
+      "comment": "(The Elven guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19011,
+        8,
+        19003
+      ],
+      "comment": "(The Elven guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19002,
+        10,
+        19002
+      ],
+      "comment": "(The Elven soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19001,
+        100,
+        16
+      ],
+      "comment": "(a fine Longsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19015,
+        10,
+        19002
+      ],
+      "comment": "(The enlarged Bear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19024,
+        1,
+        20
+      ],
+      "comment": "(Bear's skin pendant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19016,
+        10,
+        19002
+      ],
+      "comment": "(the Enlarged Tiger)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19023,
+        1,
+        21
+      ],
+      "comment": "(Eyelets of the Tiger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19001,
+        2,
+        19001
+      ],
+      "comment": "(The Elven guardian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19003,
+        10,
+        5
+      ],
+      "comment": "(a Mithril chainmail)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19004,
+        10,
+        16
+      ],
+      "comment": "(a Two-handed Mithril Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19001,
+        2,
+        19001
+      ],
+      "comment": "(The Elven guardian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19004,
+        10,
+        16
+      ],
+      "comment": "(a Two-handed Mithril Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19013,
+        1,
+        19001
+      ],
+      "comment": "(The old Druid)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19021,
+        25,
+        12
+      ],
+      "comment": "(a warm woolen cape)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19007,
+        1,
+        19013
+      ],
+      "comment": "(the Elf named Quintor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19001,
+        100,
+        16
+      ],
+      "comment": "(a fine Longsword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        19013,
+        1000,
+        -1
+      ],
+      "comment": "(a small green bag)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        19014,
+        1000,
+        -1
+      ],
+      "comment": "(a large green sack)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        19017,
+        1000,
+        -1
+      ],
+      "comment": "(a small glass jar with a glowing worm in it)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7208,
+        100,
+        -1
+      ],
+      "comment": "(a small stick)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        19005,
+        4,
+        1
+      ],
+      "comment": "(Cellar.)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19005,
+        1,
+        19010
+      ],
+      "comment": "(the Elven armoursmith)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19001,
+        100,
+        16
+      ],
+      "comment": "(a fine Longsword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3042,
+        100,
+        -1
+      ],
+      "comment": "(a shield)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3086,
+        100,
+        -1
+      ],
+      "comment": "(A pair of leather sleeves)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3076,
+        100,
+        -1
+      ],
+      "comment": "(A leather cap)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        19002,
+        100,
+        -1
+      ],
+      "comment": "(an Elven chainmail)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        19007,
+        100,
+        -1
+      ],
+      "comment": "(an Elven Chaincoif)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        19008,
+        100,
+        -1
+      ],
+      "comment": "(a pair of Elven Chain leggings)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19004,
+        1,
+        19011
+      ],
+      "comment": "(the Elven weaponsmith)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19004,
+        100,
+        16
+      ],
+      "comment": "(a Two-handed Mithril Sword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        19001,
+        100,
+        -1
+      ],
+      "comment": "(a fine Longsword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3020,
+        100,
+        -1
+      ],
+      "comment": "(a dagger)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3021,
+        100,
+        -1
+      ],
+      "comment": "(A small sword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3023,
+        100,
+        -1
+      ],
+      "comment": "(a wooden club)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        19006,
+        100,
+        -1
+      ],
+      "comment": "(an Elven hunting bow)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7211,
+        100,
+        -1
+      ],
+      "comment": "(a short sword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6000,
+        100,
+        -1
+      ],
+      "comment": "(a lumber axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19006,
+        1,
+        19014
+      ],
+      "comment": "(the Elven mage)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19001,
+        100,
+        16
+      ],
+      "comment": "(a fine Longsword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3050,
+        1000,
+        -1
+      ],
+      "comment": "(a scroll of identify)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3051,
+        1000,
+        -1
+      ],
+      "comment": "(a yellow potion of see invisible)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        19009,
+        10,
+        -1
+      ],
+      "comment": "(a Leaf-green potion)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        19010,
+        100,
+        -1
+      ],
+      "comment": "(an oak branch staff)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        19011,
+        100,
+        -1
+      ],
+      "comment": "(an Ocean-blue potion)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        19012,
+        10,
+        -1
+      ],
+      "comment": "(a Mithril flute)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19008,
+        1,
+        19016
+      ],
+      "comment": "(the Elven bartender)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19001,
+        100,
+        16
+      ],
+      "comment": "(a fine Longsword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        19018,
+        1000,
+        -1
+      ],
+      "comment": "(a homemade milk skin)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        19019,
+        1000,
+        -1
+      ],
+      "comment": "(a nicely rosted rabbit)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3102,
+        1000,
+        -1
+      ],
+      "comment": "(a cup)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        19020,
+        1000,
+        -1
+      ],
+      "comment": "(a fine elven bisquet)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19010,
+        1,
+        19004
+      ],
+      "comment": "(The Chief of the elven guard.)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19001,
+        10,
+        16
+      ],
+      "comment": "(a fine Longsword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19002,
+        10,
+        5
+      ],
+      "comment": "(an Elven chainmail)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        3023,
+        100,
+        19027
+      ],
+      "comment": "(a wooden club)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        3023,
+        100,
+        19027
+      ],
+      "comment": "(a wooden club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        19014,
+        1,
+        19027
+      ],
+      "comment": "(a Huge Fire Elemental)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        19022,
+        25,
+        1
+      ],
+      "comment": "(A small fire-opal ring )"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/190.zon"
+}

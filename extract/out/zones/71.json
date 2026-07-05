@@ -2,11 +2,11 @@
   "id": 71,
   "name": "The Second Sewer",
   "header": {
-    "raw": "7100 7199 20 2",
-    "min_room": 7100,
-    "top_room": 7199,
-    "lifespan": 20,
-    "reset_mode": 2
+    "raw": "7199 20 2 1",
+    "min_room": 7199,
+    "top_room": 20,
+    "lifespan": 2,
+    "reset_mode": 1
   },
   "commands": [
     {
@@ -17,7 +17,7 @@
         3,
         7102
       ],
-      "comment": "The Earth Beetle"
+      "comment": "(the giant earth beetle)"
     },
     {
       "cmd": "M",
@@ -27,7 +27,7 @@
         7,
         7112
       ],
-      "comment": "The Giant Maggot"
+      "comment": "(the maggot)"
     },
     {
       "cmd": "M",
@@ -37,7 +37,7 @@
         7,
         7112
       ],
-      "comment": "The Giant Maggot"
+      "comment": "(the maggot)"
     },
     {
       "cmd": "M",
@@ -47,7 +47,7 @@
         7,
         7122
       ],
-      "comment": "The Giant Maggot"
+      "comment": "(the maggot)"
     },
     {
       "cmd": "M",
@@ -57,7 +57,7 @@
         7,
         7104
       ],
-      "comment": "The Sewer Rat"
+      "comment": "(the sewer rat)"
     },
     {
       "cmd": "M",
@@ -67,7 +67,7 @@
         3,
         7103
       ],
-      "comment": "The Horrifying Mudmonster"
+      "comment": "(the horrifying Mudmonster)"
     },
     {
       "cmd": "M",
@@ -77,7 +77,7 @@
         3,
         7103
       ],
-      "comment": "The Horrifying Mudmonster"
+      "comment": "(the horrifying Mudmonster)"
     },
     {
       "cmd": "M",
@@ -87,7 +87,7 @@
         7,
         7113
       ],
-      "comment": "The Slithering Snake"
+      "comment": "(the snake)"
     },
     {
       "cmd": "M",
@@ -97,7 +97,7 @@
         7,
         7122
       ],
-      "comment": "The Slithering Snake"
+      "comment": "(the snake)"
     },
     {
       "cmd": "M",
@@ -107,7 +107,7 @@
         7,
         7122
       ],
-      "comment": "The Slithering Snake"
+      "comment": "(the snake)"
     },
     {
       "cmd": "D",
@@ -117,7 +117,7 @@
         5,
         1
       ],
-      "comment": "The Abyss"
+      "comment": "(The Northwestern Corner Of The Ledge)"
     },
     {
       "cmd": "D",
@@ -127,7 +127,7 @@
         5,
         1
       ],
-      "comment": "The Abyss"
+      "comment": "(The Southwestern Corner Of The Ledge)"
     },
     {
       "cmd": "D",
@@ -137,7 +137,7 @@
         5,
         1
       ],
-      "comment": "The Abyss"
+      "comment": "(The Southeastern Corner Of The Ledge)"
     },
     {
       "cmd": "D",
@@ -147,7 +147,7 @@
         4,
         1
       ],
-      "comment": ""
+      "comment": "(The Wall Of The Abyss)"
     },
     {
       "cmd": "D",
@@ -157,7 +157,7 @@
         5,
         1
       ],
-      "comment": "Secret Way Down"
+      "comment": "(The Northeastern Corner Of The Ledge)"
     },
     {
       "cmd": "D",
@@ -167,8 +167,8 @@
         4,
         1
       ],
-      "comment": ""
+      "comment": "(The Entrance)"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/71.zon"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/71.zon"
 }

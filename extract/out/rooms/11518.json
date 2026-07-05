@@ -1,0 +1,21 @@
+{
+  "id": 11518,
+  "zone_id": 115,
+  "name": "The Seven-Eleven",
+  "description": "Much to your surprise, there IS a friendly neighbourhood 7-11 in New Sparta.\nMuch like any other 7-11, here you can purchase many necessities at inflated\nprices all hours of the night.  And what would a 7-11 be without a foreign\nclerk with a funny accent?",
+  "header_raw": "115 144 1",
+  "flags_text": "144",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11511
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

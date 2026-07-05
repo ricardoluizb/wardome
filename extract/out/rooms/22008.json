@@ -1,0 +1,45 @@
+{
+  "id": 22008,
+  "zone_id": 220,
+  "name": "A cavern",
+  "description": "A long cavern continues to the west, at the end of it is a bright glowing\nstatue, you can not make out any of it's features but it looks magnificent.",
+  "header_raw": "220 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22027
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22007
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "wall",
+      "door_flag": 1,
+      "key": 0,
+      "to": 22030
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22009
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/220.wld"
+}

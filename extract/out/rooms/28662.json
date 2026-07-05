@@ -1,0 +1,34 @@
+{
+  "id": 28662,
+  "zone_id": 286,
+  "name": "A small building",
+  "description": "You have stepped inside a dimly lit building, which apparently serves as\nliving quarters for several Golden Dragon.   The walls are heavy stone blocks, \ncovered with panels of strangely knotted and twisted wood.  A couple of candles\nburn dimly in sconces here and there.",
+  "header_raw": "286 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "Door Large Golden",
+      "door_flag": 2,
+      "key": 28699,
+      "to": 28680
+    },
+    {
+      "dir": 3,
+      "description": "The wooden door leads back out onto the grey cobblestone road.",
+      "keywords": "door wooden",
+      "door_flag": 1,
+      "key": -1,
+      "to": 28653
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "door wooden",
+      "description": "The door is thick, made from a knotted and twisted greyish wood."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/286.wld"
+}

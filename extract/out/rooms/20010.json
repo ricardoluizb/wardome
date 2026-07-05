@@ -1,0 +1,29 @@
+{
+  "id": 20010,
+  "zone_id": 200,
+  "name": "Inside the Stable",
+  "description": "You are standing inside the dusty confines of the stable.  Stalls line the\naisle, some with horses, some empty.  A pail filled with water and a stack of\ngrain are heaped up against the interior wall, dimly illuminated by a lantern\nhanging from a rafter.  Seems rather quiet in here...",
+  "header_raw": "200 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20009
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20012
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/200.wld"
+}

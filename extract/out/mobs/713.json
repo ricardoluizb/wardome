@@ -1,0 +1,12 @@
+{
+  "id": 713,
+  "alias": "citizen",
+  "short_desc": "the Citizen",
+  "long_desc": "A citizen is here, debating politics with anyone who will listen.",
+  "detailed_desc": "The citizen seems very upset about something.  You're not sure exactly\nwhat, but he seems anxious to tell you.  The more he talks, the more\nyour attention wanders until you're ready to go.",
+  "flags_raw": "138 128 350 E",
+  "stats1_raw": "90 -35 -11 1d1+6120 5d19+86",
+  "stats2_raw": "1350 2808292 5",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

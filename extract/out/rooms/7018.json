@@ -3,8 +3,8 @@
   "zone_id": 70,
   "name": "The Ordinary Junction",
   "description": "This looks like an ordinary junction, actually it seems very quiet\nhere.  The pipelines lead west, east and north.",
-  "header_raw": "70 acd 1",
-  "flags_text": "acd",
+  "header_raw": "70 13 1",
+  "flags_text": "13",
   "sector": 1,
   "exits": [
     {

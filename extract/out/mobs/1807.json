@@ -1,0 +1,12 @@
+{
+  "id": 1807,
+  "alias": "giant frost guard",
+  "short_desc": "the cold frost giant",
+  "long_desc": "The frost giant guard is ready for intruders.",
+  "detailed_desc": "He's blue, and he doesn't really like gnomes\nbut they keep him fed.",
+  "flags_raw": "12 8 0 E",
+  "stats1_raw": "90 -25 -3 1d1+2520 5d10+36",
+  "stats2_raw": "1350 2160224 0",
+  "stats3_raw": "8 0 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/18.mob"
+}

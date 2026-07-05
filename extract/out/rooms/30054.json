@@ -1,0 +1,29 @@
+{
+  "id": 30054,
+  "zone_id": 300,
+  "name": "An archway through a shrine",
+  "description": "A massive stone archway through which the street passes.  It is part of a great\nand ancient shrine.  The building proper is above and to the east.  You can\nenter by going up nearby stairs.  The archway is decorated with motifs that\nhave been cut right into the wall.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30051
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30031
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

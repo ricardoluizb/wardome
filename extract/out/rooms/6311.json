@@ -3,8 +3,8 @@
   "zone_id": 63,
   "name": "The Tree Trunk",
   "description": "You feel that you can rest here safely.  There is evidence of\nwebbing here, but it is of a finer quality.",
-  "header_raw": "63 c 2",
-  "flags_text": "c",
+  "header_raw": "63 4 2",
+  "flags_text": "4",
   "sector": 2,
   "exits": [
     {

@@ -1,0 +1,42 @@
+{
+  "id": 28666,
+  "zone_id": 286,
+  "name": "The Forge",
+  "description": "In the center of the room is a massive furnace which emits great gouts of\nheat and a strange smell which comes from the melting of the silvery metal used\nby the Dragons.  A large trough of icy water stands to the west, used for \nquenching hot metal.\n   Doorways stand to the north and south.  The furnace door lies to the east.",
+  "header_raw": "286 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the armoury.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28667
+    },
+    {
+      "dir": 1,
+      "description": "Through the grille in the furnace door you see only flames.",
+      "keywords": "door furnace",
+      "door_flag": 1,
+      "key": -1,
+      "to": 28668
+    },
+    {
+      "dir": 2,
+      "description": "You see the weaponry.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28665
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "door furnace",
+      "description": "The entire furnace is glowing white-hot to the touch.\nThe furnace door looks too hot to even attempt to open."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/286.wld"
+}

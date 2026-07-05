@@ -1,0 +1,21 @@
+{
+  "id": 28411,
+  "zone_id": 284,
+  "name": "Another Dark Cave",
+  "description": "You find yourself on a dark landing of third floor down the surface.\nYour legs ache from all the swiming and you wonder to yourself exactly how\nmany floors this place has.",
+  "header_raw": "284 8 6",
+  "flags_text": "8",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "East: A tunel apears!",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28412
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/284.wld"
+}

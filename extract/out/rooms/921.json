@@ -3,8 +3,8 @@
   "zone_id": 9,
   "name": "The Final Trial Of Minos",
   "description": "This is Minos' room.  What else did you expect?  The room is lavishly\ndecorated for this bovine king.  Everything is so opulent that it makes\nyour eyes bulge.  Survive and reap his fortune!  The only exit is a large\noak door in the east wall.",
-  "header_raw": "9 ad 0",
-  "flags_text": "ad",
+  "header_raw": "9 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

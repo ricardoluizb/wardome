@@ -3,8 +3,8 @@
   "zone_id": 51,
   "name": "The Grand Stairway",
   "description": "You are climbing a set of obsidian stairs surrounded by adamantite walls.\nTo the north are a set of large golden doors.",
-  "header_raw": "51 ad 0",
-  "flags_text": "ad",
+  "header_raw": "51 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

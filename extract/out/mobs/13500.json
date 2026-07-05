@@ -1,0 +1,12 @@
+{
+  "id": 13500,
+  "alias": "zombie putrid",
+  "short_desc": "the putrid zombie",
+  "long_desc": "A putrid zombie is here.",
+  "detailed_desc": "It is a prime example of the undead:  sickly green skin, sunken eyes\nwith a yellowish tinge, and sharp, dirt-encrusted claws.",
+  "flags_raw": "10 0 0 E",
+  "stats1_raw": "10 -3 -5 1d1+996 5d3+94",
+  "stats2_raw": "150 10689 9",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/135.mob"
+}

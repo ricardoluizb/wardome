@@ -1,0 +1,45 @@
+{
+  "id": 14355,
+  "zone_id": 143,
+  "name": "Crumbling Junction",
+  "description": "Tunnels branch in all directions.  You see old yellowed bones lying around,\nbones of something not quite human.",
+  "header_raw": "143 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A tiny passage is north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14383
+    },
+    {
+      "dir": 1,
+      "description": "You think the cracked and smoking floor to the east looks EXTREMELY dangerous.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14382
+    },
+    {
+      "dir": 2,
+      "description": "A dark passage lies south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14357
+    },
+    {
+      "dir": 3,
+      "description": "The dusty passage is west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14354
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2321,
+  "alias": "oldstyle guard minotaur elite",
+  "short_desc": "the Elite Minotaur Guard",
+  "long_desc": "The elite minotaur guard sees you and attacks!",
+  "detailed_desc": "This minotaur wields a huge morningstar and is clad in heavy crimson plate and\nfurs.",
+  "flags_raw": "2158 8 -250 E",
+  "stats1_raw": "200 -84 -23 1d1+8796 5d21+100",
+  "stats2_raw": "3000 26655827 2",
+  "stats3_raw": "8 8 1 3 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/23.mob"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2152,
+  "zone_id": 21,
+  "name": "The Tunnel",
+  "description": "The tunnel leads north and south, and to either side of you are great cells.\nPeeking in a smudged window, you see human prisoners, many of them wearing the\nuniform of the Graye Guard.",
+  "header_raw": "21 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2153
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2151
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/21.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 13340,
+  "zone_id": 132,
+  "name": "The Thieves' Guild",
+  "description": "You enter a dark room filled with shady characters.  They check you out \nto make sure you aren't an undercover guard before being allowed to continue\ninto the guild.",
+  "header_raw": "132 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "west market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13339
+    },
+    {
+      "dir": 2,
+      "description": "thief guild",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13341
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

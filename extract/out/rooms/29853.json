@@ -1,0 +1,29 @@
+{
+  "id": 29853,
+  "zone_id": 298,
+  "name": "Outside the cottage",
+  "description": "You are on a small island outside a cottage.  You can continue North into the\ncottage or East into the water.",
+  "header_raw": "298 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 29854
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29852
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/298.wld"
+}

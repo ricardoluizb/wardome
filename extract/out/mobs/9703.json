@@ -1,0 +1,12 @@
+{
+  "id": 9703,
+  "alias": "oldstyle poseidon",
+  "short_desc": "Poseidon",
+  "long_desc": "Poseidon is dining here.",
+  "detailed_desc": "He is the brother of Zeus himself, chosen to rule the seas.  He must be\nvisiting Mount Olympus.  He nods at you and motions for you to enter and\nhave a seat.",
+  "flags_raw": "14 8362 1000 E",
+  "stats1_raw": "200 -80 -20 1d1+5592 5d21+80",
+  "stats2_raw": "3000 23823646 0",
+  "stats3_raw": "8 8 1 9 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/97.mob"
+}

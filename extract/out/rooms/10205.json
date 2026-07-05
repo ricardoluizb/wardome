@@ -1,0 +1,29 @@
+{
+  "id": 10205,
+  "zone_id": 102,
+  "name": "The Wounded Haven",
+  "description": "You are in a little dirty room, but still very confortable for those\nwhom 've been hurted in the wars. There are some wounded people resting\nby the beds, and a couple of nurses walks monitoring 'em. But you still\nhear the screams, that seems to come from a massive oak door in the\nsouth of the room.",
+  "header_raw": "102 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10204
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10206
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 29529,
+  "zone_id": 295,
+  "name": "An Inlet",
+  "description": "You are bobbing up and down in an inlet below a small cliff than lies beneath\nthe walls of a massive city- TROY. You could ascend this way, if you have\nthe means, otherwise you will have to sail round till you find a more\nconvenient disemarkation point.",
+  "header_raw": "295 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29527
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29530
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/295.wld"
+}

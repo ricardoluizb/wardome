@@ -1,0 +1,37 @@
+{
+  "id": 11531,
+  "zone_id": 115,
+  "name": "Inside The WarDome",
+  "description": "The inside of the stadium offers a dramatic contrast.  Like the exterior,\nthe stands offer the most luxurious accommodations for the spectators.  The\nfield however, is a battleground composed of mud, turf and rock surrounded by\nan 8-foot high stone wall.  There are two entrances to the playing field--as\naudience participation is welcomed, though not strongly recommended.  To the\neast are the Blue Seats, to the north are the West Stands.  Going west, you\nexit the stadium.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11532
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11543
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11530
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

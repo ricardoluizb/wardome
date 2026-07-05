@@ -1,0 +1,12 @@
+{
+  "id": 6707,
+  "alias": "thief",
+  "short_desc": "a thief",
+  "long_desc": "You sense someone lurking about.",
+  "detailed_desc": "Catching you spotting him, he gives you a quick grin and a friendly nudge.\nBetter check your pockets.",
+  "flags_raw": "233 786472 -600 E",
+  "stats1_raw": "150 -55 -12 1d1+4200 5d16+60",
+  "stats2_raw": "2250 9371548 0",
+  "stats3_raw": "8 8 1 2 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/67.mob"
+}

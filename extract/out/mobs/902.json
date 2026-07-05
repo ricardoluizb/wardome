@@ -4,9 +4,9 @@
   "short_desc": "the Mummy of Rabscuttle",
   "long_desc": "The Mummy of Rabscuttle wanders here, hands aloft, walking towards you.",
   "detailed_desc": "All bandages, no personality.",
-  "flags_raw": "bflm dkp -780 S",
-  "stats1_raw": "11 10 1 6d3+130 2d6+2",
-  "stats2_raw": "750 10500",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "6154 33800 -780 E",
+  "stats1_raw": "20 -4 -3 1d1+1680 5d5+78",
+  "stats2_raw": "300 51409 7",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/9.mob"
 }

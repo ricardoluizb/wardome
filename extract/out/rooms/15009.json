@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "Under The Tower",
   "description": "You are below one the three mighty towers of the Castle.  There are\nno guards here, and you sense that this part of the Castle is largely\nunused.  There are stairs going up to the tower, and there is also an\nexit to the north.",
-  "header_raw": "150 cd 0",
-  "flags_text": "cd",
+  "header_raw": "150 12 0",
+  "flags_text": "12",
   "sector": 0,
   "exits": [
     {

@@ -4,9 +4,9 @@
   "short_desc": "the large, black wolf",
   "long_desc": "A large, black wolf is here, glaring hungrily at you.",
   "detailed_desc": "The large, black wolf eyes you with interest while licking its lips.",
-  "flags_raw": "fg k -150 S",
-  "stats1_raw": "3 18 7 1d12+45 1d7+3",
-  "stats2_raw": "0 450",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "104 1024 -150 E",
+  "stats1_raw": "5 18 9 1d1+99 5d1+2",
+  "stats2_raw": "75 1651 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/61.mob"
 }

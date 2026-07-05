@@ -1,10 +1,10 @@
 {
   "id": 7337,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "The North-Eastern Part Of The Basilisk's Cave",
   "description": "It is hard to see here because of the smoke.  To the north you can barely\nsee a small tunnel.  Other exits are to the south and to the west.",
-  "header_raw": "73 ad 2",
-  "flags_text": "ad",
+  "header_raw": "72 9 2",
+  "flags_text": "9",
   "sector": 2,
   "exits": [
     {

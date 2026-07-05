@@ -1,0 +1,45 @@
+{
+  "id": 536,
+  "zone_id": 5,
+  "name": "&cWest end of Second Street&n",
+  "description": "Here it is the end of the Second street, but nor for that the diversion \nends, for south you have Casino, very sought for the practice of games, \nand to north, in case you need rest, has a comfortable and clean lodge, in\nPriscilla's Inn.",
+  "header_raw": "5 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 541
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 537
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 545
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 590
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

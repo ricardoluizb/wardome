@@ -1,0 +1,12 @@
+{
+  "id": 2305,
+  "alias": "oldstyle mist mistling",
+  "short_desc": "the Mistling",
+  "long_desc": "A mistling emerges from the mist surrounding you.",
+  "detailed_desc": "It looks like a thin wisp of mist that has gained substance and size.",
+  "flags_raw": "42 524288 0 E",
+  "stats1_raw": "190 -79 -21 1d1+8352 5d20+96",
+  "stats2_raw": "2850 22946581 2",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/23.mob"
+}

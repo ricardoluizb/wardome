@@ -1,0 +1,12 @@
+{
+  "id": 17323,
+  "alias": "squire charmed",
+  "short_desc": "Charmed Squire",
+  "long_desc": "A charmed squire stands here woodenly",
+  "detailed_desc": "The charmed squire is wearing various leather garmets in a state of disarray.",
+  "flags_raw": "140 262656 -250 E",
+  "stats1_raw": "118 -39 -7 1d1+3300 5d12+46",
+  "stats2_raw": "1770 4686629 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/173.mob"
+}

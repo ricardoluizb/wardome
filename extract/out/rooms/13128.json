@@ -1,0 +1,29 @@
+{
+  "id": 13128,
+  "zone_id": 131,
+  "name": "Hall of Truth",
+  "description": "You stare at the scribes who seem oblivious to your presence.  But upon\nlooking closer, you find that no scribes are in fact even in this room!  You\nnotice that truth is not all within the realm of sight.  Nifty idea ain't it??",
+  "header_raw": "131 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A landing is to your north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13127
+    },
+    {
+      "dir": 1,
+      "description": "To your east you hear cheers.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13129
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/131.wld"
+}

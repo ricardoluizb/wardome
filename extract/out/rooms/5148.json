@@ -3,8 +3,8 @@
   "zone_id": 51,
   "name": "The Dias",
   "description": "You stand upon a dias behind the altar.  Above you is a enormous illusion\nof a female drow turning into a giant spider and back again.  There is a door \nto the west.",
-  "header_raw": "51 ad 0",
-  "flags_text": "ad",
+  "header_raw": "51 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

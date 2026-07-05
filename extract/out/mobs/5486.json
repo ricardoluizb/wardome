@@ -4,9 +4,9 @@
   "short_desc": "the nightmare",
   "long_desc": "A large horse, black as night, stands here.",
   "detailed_desc": "You see the largest horse you have ever seen before.  Standing 10'\nat the shoulder it breathes flame from his nostrils and leaps to\nattack you.",
-  "flags_raw": "blno dfghkps 1000 S",
-  "stats1_raw": "10 0 -5 3d9+300 3d5+7",
-  "stats2_raw": "0 5500",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "26634 296168 1000 E",
+  "stats1_raw": "10 15 8 1d1+207 5d2+4",
+  "stats2_raw": "150 7126 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

@@ -1,0 +1,37 @@
+{
+  "id": 1132,
+  "zone_id": 11,
+  "name": "Delving Lane",
+  "description": "Delving Lane runs north and south in this small borough of the Shire.  To \nthe south stands Brandywine Bridge.  The Green Dragon, the undisputed leader\nin the art of innkeeping, offers rest and comfort to the east.  You hear the\nbray of horses from the west.",
+  "header_raw": "11 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see Delving Lane.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1133
+    },
+    {
+      "dir": 1,
+      "description": "The Green Dragon offers food, drink, and above all hospitality for mere gold.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1144
+    },
+    {
+      "dir": 2,
+      "description": "Brandywine Bridge offers safe passage across the tumultuous river.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1131
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 30103,
+  "zone_id": 301,
+  "name": "Dead Moor Behind the Crooked Cross",
+  "description": "By passing a strange Crooked Cross, you reach a stinky and cold Moor.  The\nstench is not overwhelmed only by the number of dead bodies throwed at the\nmoor.  It is quite a chaotic place, this is suposed to be the donation of the\nclan...  The distribution of the equipment is really simple, while the dead\nbodies, with the equipment roots, maggots and vermins eat them, leaving only\nthe bones, which are consumed by the acid water of the moor.",
+  "header_raw": "301 8391196 0",
+  "flags_text": "8391196",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30102
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/301.wld"
+}

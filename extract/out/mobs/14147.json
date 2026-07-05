@@ -1,0 +1,12 @@
+{
+  "id": 14147,
+  "alias": "reaper",
+  "short_desc": "the reaper",
+  "long_desc": "The reaper strikes out with his tentacles.",
+  "detailed_desc": "The reaper is immobilized and attached to the ground.  Even with\nthis disadvantage his tentacles and magical powers more then make\nup for disadvantage.",
+  "flags_raw": "2120 1152 -1000 E",
+  "stats1_raw": "170 -67 -17 1d1+6120 5d18+78",
+  "stats2_raw": "2550 16370177 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

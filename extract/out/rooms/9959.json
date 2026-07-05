@@ -1,0 +1,29 @@
+{
+  "id": 9959,
+  "zone_id": 99,
+  "name": "A street in Ghenna.",
+  "description": "This narrow, dimly lit street leads East into darkness, and West \ntowards the city entrance.  The rubble from fallen buildings has \nmade any other exits impossible.",
+  "header_raw": "99 1 1",
+  "flags_text": "1",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9960
+    },
+    {
+      "dir": 3,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9901
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

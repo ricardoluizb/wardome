@@ -1,0 +1,37 @@
+{
+  "id": 1020,
+  "zone_id": 10,
+  "name": "The End Of The Dark Hall",
+  "description": "You find yourself at what appears to be the southern end of a rather\nlong stone hallway lined with wooden doors from end to end.  Looking\nnorthwards you can see that something is lighting the hallway farther\nalong, but insuffuicient light has penetrated the darkness here to\nhelp your visibility at all.  There is an open wooden door on the east\nside of the hallway here, and a closed one on the west.",
+  "header_raw": "10 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The hallway leads off towards the north, where you can see that it\nis lit somewhat better than here.  Not a difficult task mind you.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1019
+    },
+    {
+      "dir": 1,
+      "description": "The doorway to the east looks to have been smashed in by something\nquite, uhm, large.  It looks as if there was a door there... once.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1021
+    },
+    {
+      "dir": 3,
+      "description": "The doorway to the west looks to be much sturdier than the one to\nthe east, but that doesn't say very much for it.  It hangs from one\nhinge, and pieces of the door appear to be missing.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 1022
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

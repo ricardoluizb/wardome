@@ -1,0 +1,21 @@
+{
+  "id": 12392,
+  "zone_id": 122,
+  "name": "A Lonely Death",
+  "description": "As you step into the cave, the entrance mysteriously disappears, leaving\nyou trapped in the darkness, with no means of escape. You try every spell\nand trick you know, but all is in vain. Eventually malnutrition gets the\nbetter of you and you slowly perish in this; one of Hel's favorite death\ntraps, your body never to be seen again.",
+  "header_raw": "122 13 1",
+  "flags_text": "13",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 12393
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

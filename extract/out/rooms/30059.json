@@ -1,0 +1,29 @@
+{
+  "id": 30059,
+  "zone_id": 300,
+  "name": "A long pier",
+  "description": "You stand atop a colossal wooden pier.  It juts out into the Gulf of Lune like\na tremendous bridge over the sea.  Toward the end of the pier you can see two\nmajestic ships, with sails flapping gently in the breeze.  Below you are the\nwaters of the Gulf of Lune.  Waves crash on the cold grey shore.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30051
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30060
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 6612,
+  "zone_id": 66,
+  "name": "Inside the Mansion",
+  "description": "Finally! You are out of that terrifying garden. The nightmare seems to have  \nfinish, but when you decide to look at in your turn...  \nThe door that you could escape from within of the Mansion closes.  \nNoises begin to leave for the walls, people's sounds being in death agony...  \nNow, you are inside of the Mansion.",
+  "header_raw": "66 77 0",
+  "flags_text": "77",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6613
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 6607,
+      "to": 6607
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "blood wall",
+      "description": "Dark Mansion\n       ============\n\n  Inside there we do not have mercy.\n  Stay here, and pray for yourself soul.\n                Mhuahahahaha!"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/66.wld"
+}

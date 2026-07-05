@@ -2,9 +2,9 @@
   "id": 3050,
   "zone_id": 30,
   "name": "The Deserted Warehouse",
-  "description": "You are inside the warehouse.  The room is decorated with various old\nitems from ships.",
-  "header_raw": "30 d 0",
-  "flags_text": "d",
+  "description": "You are inside the warehouse.  The room is decorated with various parts of human\nbody.",
+  "header_raw": "30 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

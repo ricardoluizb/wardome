@@ -1,0 +1,29 @@
+{
+  "id": 29977,
+  "zone_id": 298,
+  "name": "Streaming to the Anduin",
+  "description": "The water is too fast, now going directly to the Anduin, there are less threes\nas you get far from your startpoint.",
+  "header_raw": "298 4 7",
+  "flags_text": "4",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29976
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29978
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

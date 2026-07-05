@@ -1,0 +1,21 @@
+{
+  "id": 29879,
+  "zone_id": 298,
+  "name": "The secret chamber",
+  "description": "You are in a secret chamber, the room is filled with an evil feeling.",
+  "header_raw": "298 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29880
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/298.wld"
+}

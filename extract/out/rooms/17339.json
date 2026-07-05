@@ -1,0 +1,21 @@
+{
+  "id": 17339,
+  "zone_id": 173,
+  "name": "East Bailey Tower",
+  "description": "You stand inside the eastern bailey tower. You have a commanding view of\nthe bailey and could fire uncontested through the murder hole. Stairs lead \ndown.",
+  "header_raw": "173 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "Inside the Curtain Wall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17329
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

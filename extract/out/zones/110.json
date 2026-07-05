@@ -1,0 +1,44 @@
+{
+  "id": 110,
+  "name": "Wardome - Dragon in the air",
+  "header": {
+    "raw": "11099 30 0 1 -1",
+    "min_room": 11099,
+    "top_room": 30,
+    "lifespan": 0,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11001,
+        3,
+        11001
+      ],
+      "comment": "(the winged dragon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11001,
+        3,
+        11001
+      ],
+      "comment": "(the winged dragon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11001,
+        3,
+        11001
+      ],
+      "comment": "(the winged dragon)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/110.zon"
+}

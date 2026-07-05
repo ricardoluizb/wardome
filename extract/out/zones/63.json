@@ -2,13 +2,53 @@
   "id": 63,
   "name": "Arachnos",
   "header": {
-    "raw": "6300 6399 34 2",
-    "min_room": 6300,
-    "top_room": 6399,
-    "lifespan": 34,
-    "reset_mode": 2
+    "raw": "6399 34 2 1 -1",
+    "min_room": 6399,
+    "top_room": 34,
+    "lifespan": 2,
+    "reset_mode": 1
   },
   "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6302,
+        1,
+        6360
+      ],
+      "comment": "(Yevaud)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6304,
+        2,
+        -1
+      ],
+      "comment": "(a black knight's visor)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7203,
+        1,
+        -1
+      ],
+      "comment": "(a purple cloak)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6306,
+        3,
+        -1
+      ],
+      "comment": "(Yevaud's head)"
+    },
     {
       "cmd": "M",
       "args": [
@@ -17,7 +57,7 @@
         10,
         6301
       ],
-      "comment": "Young Spider"
+      "comment": "(the young spider)"
     },
     {
       "cmd": "M",
@@ -27,7 +67,7 @@
         10,
         6306
       ],
-      "comment": "Young Spider"
+      "comment": "(the young spider)"
     },
     {
       "cmd": "M",
@@ -37,7 +77,7 @@
         10,
         6306
       ],
-      "comment": "Young Spider"
+      "comment": "(the young spider)"
     },
     {
       "cmd": "M",
@@ -47,7 +87,7 @@
         10,
         6304
       ],
-      "comment": "Young Spider"
+      "comment": "(the young spider)"
     },
     {
       "cmd": "M",
@@ -57,7 +97,7 @@
         1,
         6303
       ],
-      "comment": "Wasp"
+      "comment": "(the queen wasp)"
     },
     {
       "cmd": "M",
@@ -67,7 +107,7 @@
         1,
         6342
       ],
-      "comment": "Bird Spider"
+      "comment": "(the bird spider)"
     },
     {
       "cmd": "M",
@@ -77,7 +117,7 @@
         1,
         6313
       ],
-      "comment": "Wolf Spider"
+      "comment": "(the wolf spider)"
     },
     {
       "cmd": "M",
@@ -87,7 +127,7 @@
         5,
         6308
       ],
-      "comment": "Slave"
+      "comment": "(the slave)"
     },
     {
       "cmd": "M",
@@ -97,7 +137,7 @@
         5,
         6308
       ],
-      "comment": "Slave"
+      "comment": "(the slave)"
     },
     {
       "cmd": "M",
@@ -107,7 +147,7 @@
         5,
         6308
       ],
-      "comment": "Slave"
+      "comment": "(the slave)"
     },
     {
       "cmd": "M",
@@ -117,7 +157,7 @@
         5,
         6308
       ],
-      "comment": "Slave"
+      "comment": "(the slave)"
     },
     {
       "cmd": "M",
@@ -127,7 +167,7 @@
         5,
         6308
       ],
-      "comment": "Slave"
+      "comment": "(the slave)"
     },
     {
       "cmd": "M",
@@ -137,7 +177,7 @@
         2,
         6327
       ],
-      "comment": "Quasit"
+      "comment": "(the quasit)"
     },
     {
       "cmd": "M",
@@ -147,7 +187,7 @@
         5,
         6335
       ],
-      "comment": "Ethereal Spider"
+      "comment": "(the ethereal spider)"
     },
     {
       "cmd": "M",
@@ -157,7 +197,7 @@
         5,
         6333
       ],
-      "comment": "Ethereal Spider"
+      "comment": "(the ethereal spider)"
     },
     {
       "cmd": "M",
@@ -167,16 +207,17 @@
         1,
         6332
       ],
-      "comment": "Stuck Orc"
+      "comment": "(the orc)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         6300,
-        1
+        1,
+        -1
       ],
-      "comment": "Key To Arachnos' Chambers"
+      "comment": "(a black key)"
     },
     {
       "cmd": "M",
@@ -186,16 +227,17 @@
         3,
         6321
       ],
-      "comment": "Drone Spider"
+      "comment": "(the drone spider)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         6305,
-        10
+        10,
+        -1
       ],
-      "comment": "Black Potion"
+      "comment": "(a thick white potion)"
     },
     {
       "cmd": "M",
@@ -205,16 +247,17 @@
         3,
         6331
       ],
-      "comment": "Drone Spider"
+      "comment": "(the drone spider)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         6305,
-        10
+        10,
+        -1
       ],
-      "comment": "Black Potion"
+      "comment": "(a thick white potion)"
     },
     {
       "cmd": "M",
@@ -224,16 +267,17 @@
         1,
         6373
       ],
-      "comment": "Hermit"
+      "comment": "(the hermit)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         6302,
-        2
+        2,
+        -1
       ],
-      "comment": "Wizard's Hat"
+      "comment": "(a wizard's hat)"
     },
     {
       "cmd": "M",
@@ -243,25 +287,27 @@
         1,
         6350
       ],
-      "comment": "Ki-Rin"
+      "comment": "(the Ki-Rin)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         6109,
-        10
+        10,
+        -1
       ],
-      "comment": "Blue Potion"
+      "comment": "(a blue potion)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         6109,
-        10
+        10,
+        -1
       ],
-      "comment": "Blue Potion"
+      "comment": "(a blue potion)"
     },
     {
       "cmd": "M",
@@ -271,43 +317,47 @@
         1,
         6399
       ],
-      "comment": "Arachnos"
+      "comment": "(Arachnos)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         6301,
-        5
+        5,
+        -1
       ],
-      "comment": "Thief's Knife"
+      "comment": "(a very sharp knife)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         6302,
-        2
+        2,
+        -1
       ],
-      "comment": "Wizard's Hat"
+      "comment": "(a wizard's hat)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         6303,
-        2
+        2,
+        -1
       ],
-      "comment": "Pontiff's Headdress"
+      "comment": "(a pontiff's headress)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         6304,
-        2
+        2,
+        -1
       ],
-      "comment": "Black Knight's Visor"
+      "comment": "(a black knight's visor)"
     },
     {
       "cmd": "M",
@@ -317,25 +367,27 @@
         1,
         6370
       ],
-      "comment": "Donjonkeeper"
+      "comment": "(the Donjonkeeper)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         6301,
-        5
+        5,
+        -1
       ],
-      "comment": "Thief's Knife"
+      "comment": "(a very sharp knife)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         6109,
-        10
+        10,
+        -1
       ],
-      "comment": "Blue Potion"
+      "comment": "(a blue potion)"
     },
     {
       "cmd": "M",
@@ -345,7 +397,7 @@
         1,
         6367
       ],
-      "comment": "Guardian"
+      "comment": "(the guardian)"
     },
     {
       "cmd": "M",
@@ -355,35 +407,7 @@
         3,
         6330
       ],
-      "comment": "Drone Spider"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        6302,
-        1,
-        6360
-      ],
-      "comment": "Yevaud"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        6304,
-        2
-      ],
-      "comment": "Black Knight's Visor"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        7203,
-        1
-      ],
-      "comment": "Purple Cloak"
+      "comment": "(the drone spider)"
     },
     {
       "cmd": "M",
@@ -393,7 +417,7 @@
         1,
         6330
       ],
-      "comment": "Baby Dragon"
+      "comment": "(the young wormkin)"
     },
     {
       "cmd": "M",
@@ -403,7 +427,7 @@
         1,
         6340
       ],
-      "comment": "Elder Wormkin"
+      "comment": "(the elder wormkin)"
     },
     {
       "cmd": "D",
@@ -413,7 +437,7 @@
         0,
         2
       ],
-      "comment": "Arachnos' Lair"
+      "comment": "(The Great Door)"
     },
     {
       "cmd": "D",
@@ -423,8 +447,8 @@
         2,
         2
       ],
-      "comment": ""
+      "comment": "(The Lair Of Arachnos)"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/63.zon"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/63.zon"
 }

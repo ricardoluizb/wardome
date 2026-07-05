@@ -3,8 +3,8 @@
   "zone_id": 72,
   "name": "The Lair",
   "description": "On the floor you see a lot of human decay, like bones and skulls.  You\nalso see a lot of slime.  On the wall is a torch sitting in its sconce.  To\nthe north is a wooden door.",
-  "header_raw": "72 d 1",
-  "flags_text": "d",
+  "header_raw": "72 8 1",
+  "flags_text": "8",
   "sector": 1,
   "exits": [
     {
@@ -34,16 +34,16 @@
   ],
   "extra_descriptions": [
     {
-      "keywords": "skull skulls bones decay",
-      "description": "On all the skulls you notice that there is a three inch hole in the \nforehead.  All the bones are broken and old."
+      "keywords": "torch sconce",
+      "description": "The torch is bolted to the sconce and the sconce to the wall."
     },
     {
       "keywords": "slime",
       "description": "The slime is slimy and uninteresting."
     },
     {
-      "keywords": "torch sconce",
-      "description": "The torch is bolted to the sconce and the sconce to the wall."
+      "keywords": "skull skulls bones decay",
+      "description": "On all the skulls you notice that there is a three inch hole in the \nforehead.  All the bones are broken and old."
     }
   ],
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/72.wld"

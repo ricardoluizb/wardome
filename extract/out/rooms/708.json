@@ -1,0 +1,45 @@
+{
+  "id": 708,
+  "zone_id": 7,
+  "name": "Intersection at the Cliff's Edge",
+  "description": "This is the intersection of Cliffside Road, and Center Road.  \n   Cliffside?\n   About fifteen feet ahead of you there is a sheer precipice that\ndrops down about a thousand feet into the dark ocean.  You don't think\nit would be a good idea to step off, but you've already guessed that,\nhaven't you?\n   Cliffside Road runs north and south from here.",
+  "header_raw": "7 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 714
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 766
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 709
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 706
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

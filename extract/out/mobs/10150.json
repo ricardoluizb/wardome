@@ -1,0 +1,12 @@
+{
+  "id": 10150,
+  "alias": "orc archer",
+  "short_desc": "Orc Archer",
+  "long_desc": "A strange Archer is here.",
+  "detailed_desc": "You see a very ugly creature smelling bad here, he have a bow.",
+  "flags_raw": "143400 1073743016 -750 E",
+  "stats1_raw": "100 -42 -14 1d1+7596 5d21+100",
+  "stats2_raw": "1500 3888649 6",
+  "stats3_raw": "8 8 0 -1 5",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/101.mob"
+}

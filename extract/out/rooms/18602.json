@@ -3,8 +3,8 @@
   "zone_id": 186,
   "name": "The Dirty Hallway",
   "description": "You continue wandering down the hallway.  Nothing much different here,\nbut you are positive you here noises behind the door to the south, and\ncoming from the east.  The walls are a bit slimy and moldy here... yeech,\ncouldn't they hire someone to clean this place?  What will the newbies\nthink?  Oh well, you can continue along the hallway to the east or west.",
-  "header_raw": "186 d 0",
-  "flags_text": "d",
+  "header_raw": "186 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

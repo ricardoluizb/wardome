@@ -1,0 +1,21 @@
+{
+  "id": 10160,
+  "zone_id": 101,
+  "name": "The light cave",
+  "description": "You are in a light cave, through a hole large above you, you see the sky.  A\nsmall tunnel to the south is the only way out.  You notice the source of the\nstrange smell, all around you there is corpses from several monsters.",
+  "header_raw": "101 8 2",
+  "flags_text": "8",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10159
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/101.wld"
+}

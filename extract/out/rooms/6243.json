@@ -3,8 +3,8 @@
   "zone_id": 62,
   "name": "A Tunnel Forking",
   "description": "The tunnel forks here, one branch leading north, the \nother west.  Additionally, you can head back outside to \nthe east, which seems like a very good idea to your \ntortured nasal passages.  Your eyes water from the stench,\nand you clench your left hand tightly to keep control of \nyour bile.\n   Forcing your eyes open, you notice the warning signs\npainted around the tunnel to the north.",
-  "header_raw": "62 ad 4",
-  "flags_text": "ad",
+  "header_raw": "62 9 4",
+  "flags_text": "9",
   "sector": 4,
   "exits": [
     {

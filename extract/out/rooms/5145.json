@@ -3,8 +3,8 @@
   "zone_id": 51,
   "name": "The Altar",
   "description": "You are standing in front of a highly and freshly bloodstained altar.  \nEngraved on the top of the altar is a giant spider with a human head.  Looking \ndown from the altar you see a large sacrificial pit with thousands of swarming\nspiders looking for their next meal!",
-  "header_raw": "51 ad 0",
-  "flags_text": "ad",
+  "header_raw": "51 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

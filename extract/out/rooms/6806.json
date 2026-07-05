@@ -1,0 +1,21 @@
+{
+  "id": 6806,
+  "zone_id": 67,
+  "name": "A home embedded in the cliff",
+  "description": "This is a windowless, but airy nook of walls inside cliff stone.\nIt looks as though with some cleaning up it could be a comfortable\nplace to live.",
+  "header_raw": "67 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6804
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

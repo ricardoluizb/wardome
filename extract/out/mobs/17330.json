@@ -1,0 +1,12 @@
+{
+  "id": 17330,
+  "alias": "serf",
+  "short_desc": "a serf",
+  "long_desc": "A dirty serf shuffles along here.",
+  "detailed_desc": "The serf is in rags, smells, and you actually think you can see lice on him.",
+  "flags_raw": "140 0 0 E",
+  "stats1_raw": "105 -32 -5 1d1+2940 5d11+42",
+  "stats2_raw": "1575 3353024 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/173.mob"
+}

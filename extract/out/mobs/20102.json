@@ -1,0 +1,12 @@
+{
+  "id": 20102,
+  "alias": "female prisoner",
+  "short_desc": "an imprisoned nun",
+  "long_desc": "A female prisoner cringes away from you in terror.",
+  "detailed_desc": "Judging from what is left of her clothes, she appears to be a nun.",
+  "flags_raw": "76 0 0 E",
+  "stats1_raw": "70 -29 -11 1d1+5880 5d15+98",
+  "stats2_raw": "1050 1460869 7",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/201.mob"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 12293,
+  "zone_id": 122,
+  "name": "A Kennels",
+  "description": "This section of Odin's palace houses his great wolves, Freke and Gere,\nwho serve Odin as companions, bodyguards, scouts and sometimes even\nas steeds, for they are ten feet in length and as strong as ten horses.\nOdin also sets them upon miscreant or blasphemous mortals, when the\nneed arises for such punishment.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12294
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

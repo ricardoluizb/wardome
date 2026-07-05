@@ -1,0 +1,12 @@
+{
+  "id": 8165,
+  "alias": "troll guard",
+  "short_desc": "the troll guard",
+  "long_desc": "A huge troll of the Olog-Hai stands guard here.",
+  "detailed_desc": "Oh dear! Time to leave the way you came in!",
+  "flags_raw": "6378 1024 -900 E",
+  "stats1_raw": "167 -85 -31 1d1+19368 5d49+176",
+  "stats2_raw": "2505 22401156 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

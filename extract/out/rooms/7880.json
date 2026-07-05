@@ -1,0 +1,37 @@
+{
+  "id": 7880,
+  "zone_id": 78,
+  "name": "The Den of the Pyrohydra",
+  "description": "You are in the den of the pyrohydra.  All the walls are charred, and this\nroom is filled with a smell close to that of burning tar.",
+  "header_raw": "78 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the relative safety to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7879
+    },
+    {
+      "dir": 1,
+      "description": "You see breaks in the charred rock to the east.",
+      "keywords": "secret",
+      "door_flag": 1,
+      "key": 7805,
+      "to": 7882
+    },
+    {
+      "dir": 3,
+      "description": "You see a door to the west.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 7805,
+      "to": 7881
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/78.wld"
+}

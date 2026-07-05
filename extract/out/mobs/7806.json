@@ -1,0 +1,12 @@
+{
+  "id": 7806,
+  "alias": "oldstyle elf valley",
+  "short_desc": "a valley elf",
+  "long_desc": "A valley elf is here, doing her duties.",
+  "detailed_desc": "She is currently doing some menial chores, and ignores your intrusion except\nwhen you are in her way.",
+  "flags_raw": "200 263168 0 E",
+  "stats1_raw": "70 -21 -5 1d1+3636 5d8+58",
+  "stats2_raw": "1050 1328062 3",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/78.mob"
+}

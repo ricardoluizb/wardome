@@ -1,0 +1,12 @@
+{
+  "id": 3900,
+  "alias": "library guardian",
+  "short_desc": "the Library Guardian",
+  "long_desc": "An Huge Guardian is here protecting the Library Entrance.",
+  "detailed_desc": "It's a statue...  You can swear on that, still it moves towards you!",
+  "flags_raw": "10 2 0 E",
+  "stats1_raw": "180 -74 -19 1d1+7920 10d19+76",
+  "stats2_raw": "2700 19598258 2",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/39.mob"
+}

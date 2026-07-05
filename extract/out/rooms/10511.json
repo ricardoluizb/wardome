@@ -1,0 +1,29 @@
+{
+  "id": 10511,
+  "zone_id": 104,
+  "name": "Court Room",
+  "description": "This is the Courts of Hell. Here you are convicted, sentenced and punished.\nAnd no...you don't get a trial. You don't deserve one. The courtroom is\nfilled with spectators and jury members. They seem to have no real reason\nto be here since there isn't going to be a trial. They jeer and boo you as you\nstand in the middle of the courtroom.\nTo the north is the Halls of Judgement.\nBehind the judges bench is a wooden door.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the Halls of Judgement.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10501
+    },
+    {
+      "dir": 2,
+      "description": "You see a large wooden door.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10521
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

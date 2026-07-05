@@ -1,0 +1,45 @@
+{
+  "id": 9903,
+  "zone_id": 99,
+  "name": "The smell of death.",
+  "description": "You are standing in what appears to be the town graveyard.  \nNobody feels the need to bury the dead, so the corpses are just \nstrewn about in no particular order.  And the smell, oh boy!  \nIt's all you can do to keep from losing your lunch right now.  \n  The corpses are stacked too high to exit East, but you can \npass North, South or West.",
+  "header_raw": "99 1 1",
+  "flags_text": "1",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9901
+    },
+    {
+      "dir": 2,
+      "description": "The twisting hedges.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9905
+    },
+    {
+      "dir": 3,
+      "description": "The streets of Ghenna.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9951
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "guts",
+      "door_flag": 1,
+      "key": -1,
+      "to": 9912
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

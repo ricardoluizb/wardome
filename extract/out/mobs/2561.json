@@ -4,9 +4,9 @@
   "short_desc": "the white cat",
   "long_desc": "A white cat is here preening its fur.",
   "detailed_desc": "It seems to be nothing more than a large ball of fluff with claws.",
-  "flags_raw": "bg dks 800 S",
-  "stats1_raw": "15 4 -4 15d8+10 3d7+3",
-  "stats2_raw": "0 7950",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "74 263176 800 E",
+  "stats1_raw": "135 -47 -10 1d1+3780 5d14+54",
+  "stats2_raw": "2025 6908061 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

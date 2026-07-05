@@ -1,0 +1,12 @@
+{
+  "id": 2311,
+  "alias": "oldstyle chief chieftain ogre",
+  "short_desc": "the Ogre Chieftain",
+  "long_desc": "The ogre chieftain is here, observing his subjects.",
+  "detailed_desc": "This is the biggest ogre you have ever seen. He is heavily equipped and looks\nquite formidable. He towers high above you and growls menacingly.",
+  "flags_raw": "238 136 -1000 E",
+  "stats1_raw": "200 -84 -23 1d1+8796 5d21+100",
+  "stats2_raw": "3000 26655827 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/23.mob"
+}

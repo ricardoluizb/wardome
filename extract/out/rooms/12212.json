@@ -1,0 +1,29 @@
+{
+  "id": 12212,
+  "zone_id": 122,
+  "name": "The Shores of the Sea",
+  "description": "You are standing at the edge of a wind driven sea; choppy waves break\nover the rocky shoreline near your feet. A chill wind numbs your bones\nand you shiver as you try to peer across the foggy depths. An occasional\nroar, as of some behemoth uttering its own particular profanity, echoes\nacross the sea, and you imagine you can see something- something large,\nvery large- shifting about under the waters.",
+  "header_raw": "122 4 4",
+  "flags_text": "4",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12352
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12211
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

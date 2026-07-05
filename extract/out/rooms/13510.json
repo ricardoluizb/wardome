@@ -1,0 +1,29 @@
+{
+  "id": 13510,
+  "zone_id": 135,
+  "name": "A Stone Tunnel",
+  "description": "This stone passage is lit by a great light and fierce heat from its\nfar end, which lies above.",
+  "header_raw": "135 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13506
+    },
+    {
+      "dir": 4,
+      "description": "You must cover your eyes rather than peer into the sun-like brightness.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13511
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

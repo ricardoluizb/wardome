@@ -1,0 +1,29 @@
+{
+  "id": 30525,
+  "zone_id": 305,
+  "name": "A Praca da Fonte",
+  "description": "Esse lugar esta' diferente, as portas que levaria voce ao mural nao estao\nmais aqui, ha' apenas uma grande parede ao seu lado esquerdo, a saida ao sul e\na comum porta ao leste.",
+  "header_raw": "305 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30526
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30508
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/305.wld"
+}

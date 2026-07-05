@@ -1,0 +1,21 @@
+{
+  "id": 11224,
+  "zone_id": 112,
+  "name": "An Empty Building",
+  "description": "This abandoned tenement shows signs of a recent battle, blood stains\nand broken weapons littering the dirty floor. A couple of decaying\ncorpses add an unwholesome odor to this unpleasant scene, and a hint\nthat whoever died here did so battling fecund goblins and orcs. Strange\nindeed, as you have noticed no other sign of the evil humanoids thus\nfar.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11222
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8187,
+  "zone_id": 81,
+  "name": "The Stream at the Underground Cliff",
+  "description": "Here the stream passes south of a gravelly ledge, and flows on east.\nThe cave is much narrower there, and the current roars as it rushes\nover some rocks. You had better leave the stream while you can. \nAs the walls narrow, the stream rushes faster and faster, and you\nhear a great thrashing noise like a mill wheel close by to the east.",
+  "header_raw": "81 201 6",
+  "flags_text": "201",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Looks like gravel.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8189
+    },
+    {
+      "dir": 1,
+      "description": "The roaring noise to the east sounds like rapids or worse, better stop.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8188
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

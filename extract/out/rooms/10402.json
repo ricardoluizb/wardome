@@ -1,0 +1,37 @@
+{
+  "id": 10402,
+  "zone_id": 104,
+  "name": "Ancient Room",
+  "description": "You are standing in a large stone room - feels like a crypt.  Ancient murals\nof Hell and punishment cover the walls.  In the middle of the room are stairs\nthat lead down into the darkness.  From the stairway you can smell brimstone\nand sulfur.\nTo the west, there appears to be a shrine.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "It is too dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10401
+    },
+    {
+      "dir": 3,
+      "description": "You see an ancient shrine.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10418
+    },
+    {
+      "dir": 5,
+      "description": "You see a dark stairway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10403
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 20121,
+  "zone_id": 201,
+  "name": "A Master's Chamber",
+  "description": "This room looks empty except for a hard bed, a table and some chairs. It\nlooks extremely well kept, so make sure you do not dirty it.  You better\nleave before the master catches you in here.",
+  "header_raw": "201 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A side hall.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20120
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/201.wld"
+}

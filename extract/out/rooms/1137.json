@@ -1,0 +1,29 @@
+{
+  "id": 1137,
+  "zone_id": 11,
+  "name": "Pantry",
+  "description": "You are inside the pantry.  Shelves filled with food and drink surround\nyou on all sides.  You wonder why a halfling would need so much to eat.\nThe presence of something unseen chills you to your bones.  On the floor\nyou spy a trapdoor.",
+  "header_raw": "11 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "Beyond the door you see the main room of Bag End.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 1135
+    },
+    {
+      "dir": 5,
+      "description": "It's anyone's guess as to where the trapdoor leads.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1156
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

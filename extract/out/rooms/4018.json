@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Cave",
   "description": "You find yourself at the southern end of a cave as it begins\nto turn into a tunnel which leads off to the south.  The cave\ncontinues northwards deeper into the darkness.\nYou notice a large pile of bones in the corner.",
-  "header_raw": "40 ad 2",
-  "flags_text": "ad",
+  "header_raw": "40 9 2",
+  "flags_text": "9",
   "sector": 2,
   "exits": [
     {

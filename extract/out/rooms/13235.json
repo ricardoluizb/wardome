@@ -1,0 +1,21 @@
+{
+  "id": 13235,
+  "zone_id": 132,
+  "name": "Fred's Room",
+  "description": "A messy room with beer mugs and barrels scattered about.  Many useless\ntreasures litter the room.  A table with half-eaten food is in the center of \nthe room.",
+  "header_raw": "132 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "the palace",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13234
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

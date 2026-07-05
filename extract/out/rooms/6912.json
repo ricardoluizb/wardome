@@ -1,0 +1,21 @@
+{
+  "id": 6912,
+  "zone_id": 69,
+  "name": "A Cell",
+  "description": "This is one of the cells of the dungeon in the basement of the old, creepy\nhouse.  There is blood on the walls, and on the floor lies a pool of blood.  \nBones are hanging on the walls and on the floor, with blood constantly dripping\noff of the ones hanging.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "cell bars",
+      "door_flag": 1,
+      "key": 6902,
+      "to": 6911
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

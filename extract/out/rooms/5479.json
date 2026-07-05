@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "Underground",
   "description": "The passage ends here and you hear some low chanting from the west.\nYou also notice the clearing of dust on the ground but can't seem to\nfind any door in that direction.",
-  "header_raw": "54 ad 1",
-  "flags_text": "ad",
+  "header_raw": "54 9 1",
+  "flags_text": "9",
   "sector": 1,
   "exits": [
     {

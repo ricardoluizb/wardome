@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "Alley",
   "description": "The alley ends here as do the footprints you had noticed earlier.",
-  "header_raw": "54 a 1",
-  "flags_text": "a",
+  "header_raw": "54 1 1",
+  "flags_text": "1",
   "sector": 1,
   "exits": [
     {

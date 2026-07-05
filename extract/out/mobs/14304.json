@@ -1,0 +1,12 @@
+{
+  "id": 14304,
+  "alias": "mob Habib shopkeeper",
+  "short_desc": "Habib",
+  "long_desc": "Habib the armorer is here, selling his wears.",
+  "detailed_desc": "This man has huge caloused hands from pounding on hard steel with a hammer for\nyears. Although he is middle-aged, he looks strong, tough, and very healthy.",
+  "flags_raw": "24590 136 0 E",
+  "stats1_raw": "80 -38 -15 1d1+7992 5d17+122",
+  "stats2_raw": "1200 2320818 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/143.mob"
+}

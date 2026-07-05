@@ -1,0 +1,29 @@
+{
+  "id": 28419,
+  "zone_id": 284,
+  "name": "The Lost City of Atlantis",
+  "description": "Thats the Legendary Lost submerce city of Atlantis.\nThere is no monsters here.You cant see humanoids figures... with tridents.\n   Oh no...",
+  "header_raw": "284 16777224 6",
+  "flags_text": "16777224",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "South: you can see a big coral reef.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28420
+    },
+    {
+      "dir": 3,
+      "description": "You can hear shouts come from west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28421
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/284.wld"
+}

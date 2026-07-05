@@ -1,0 +1,37 @@
+{
+  "id": 1135,
+  "zone_id": 11,
+  "name": "Bag End",
+  "description": "You stand in a comfortably well-equipped house, a palace by humble halfling\nstandards.  On the wall you see a banner which reads \"Home Sweet Home\".\nA solid oak door to the east leads to a pantry while you see a cozy bedroom\nto the west.",
+  "header_raw": "11 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Through the keyhole you see what looks like a well stocked pantry.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 1137
+    },
+    {
+      "dir": 2,
+      "description": "You see Delving Lane.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1134
+    },
+    {
+      "dir": 3,
+      "description": "You see a bedroom.  It looks like the beds have recently been slept in.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1136
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

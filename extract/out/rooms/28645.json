@@ -1,0 +1,61 @@
+{
+  "id": 28645,
+  "zone_id": 286,
+  "name": "Deep Within the Dragon Village .",
+  "description": "You have travelled deep inside the Dragon Village field.  Here the fabric\nof the field has become twisted and warped due to the proximity of another.\nSome of the tendrils of light that line the Dragon Village field have been\nwarped and twisted into portals to other worlds.\n   Take care before you step through one -- you might never return.",
+  "header_raw": "286 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The Dragon Village field leads on into the depths.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28646
+    },
+    {
+      "dir": 1,
+      "description": "The Dragon Village field leads on into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28630
+    },
+    {
+      "dir": 2,
+      "description": "The nexial link has been blocked by the gods for your protection.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": -1
+    },
+    {
+      "dir": 3,
+      "description": "The Dragon Village field leads on into the depths.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28649
+    },
+    {
+      "dir": 4,
+      "description": "Through the nexial link you can see a stony keep.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28650
+    },
+    {
+      "dir": 5,
+      "description": "The Dragon Village field leads on into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28628
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/286.wld"
+}

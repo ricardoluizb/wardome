@@ -1,0 +1,1234 @@
+{
+  "id": 215,
+  "name": "Wardome - Abyssal's Pit",
+  "header": {
+    "raw": "21599 20 2 25 -1",
+    "min_room": 21599,
+    "top_room": 20,
+    "lifespan": 2,
+    "reset_mode": 25
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21510,
+        1,
+        21562
+      ],
+      "comment": "(&wBlack&Wwind&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21513,
+        30,
+        16
+      ],
+      "comment": "(&wThe Black&Wwind&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        21539,
+        2,
+        2
+      ],
+      "comment": "(Qor-Teth's throne room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21506,
+        1,
+        21539
+      ],
+      "comment": "(Qor-Teth)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21509,
+        50,
+        12
+      ],
+      "comment": "(&RA&rbyssal &YC&yloak&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21508,
+        50,
+        16
+      ],
+      "comment": "(&RA&rbyssal &YS&yword&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21507,
+        50,
+        11
+      ],
+      "comment": "(&RA&rbyssal &YS&yhield&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        21514,
+        10,
+        -1
+      ],
+      "comment": "(&RA&rbyssal &YKey&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        21540,
+        0,
+        2
+      ],
+      "comment": "(in the pit)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21507,
+        15,
+        21540
+      ],
+      "comment": "(Sacarian Mad)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21510,
+        30,
+        7
+      ],
+      "comment": "(&RA&rbyssal &YL&yeggings&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21509,
+        15,
+        21548
+      ],
+      "comment": "(Brine Fiend)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21512,
+        30,
+        15
+      ],
+      "comment": "(&RA&rbyssal &YB&yracer&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21508,
+        15,
+        21548
+      ],
+      "comment": "(Unclean Spirit)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21511,
+        30,
+        19
+      ],
+      "comment": "(&RA&rbyssal &YE&yarring&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21509,
+        15,
+        21561
+      ],
+      "comment": "(Brine Fiend)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21512,
+        30,
+        15
+      ],
+      "comment": "(&RA&rbyssal &YB&yracer&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21509,
+        15,
+        21560
+      ],
+      "comment": "(Brine Fiend)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21512,
+        30,
+        15
+      ],
+      "comment": "(&RA&rbyssal &YB&yracer&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21508,
+        15,
+        21560
+      ],
+      "comment": "(Unclean Spirit)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21511,
+        30,
+        19
+      ],
+      "comment": "(&RA&rbyssal &YE&yarring&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21509,
+        15,
+        21559
+      ],
+      "comment": "(Brine Fiend)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21512,
+        30,
+        15
+      ],
+      "comment": "(&RA&rbyssal &YB&yracer&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21508,
+        15,
+        21559
+      ],
+      "comment": "(Unclean Spirit)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21511,
+        30,
+        19
+      ],
+      "comment": "(&RA&rbyssal &YE&yarring&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21509,
+        15,
+        21558
+      ],
+      "comment": "(Brine Fiend)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21512,
+        30,
+        15
+      ],
+      "comment": "(&RA&rbyssal &YB&yracer&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21509,
+        15,
+        21557
+      ],
+      "comment": "(Brine Fiend)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21512,
+        30,
+        15
+      ],
+      "comment": "(&RA&rbyssal &YB&yracer&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21509,
+        15,
+        21556
+      ],
+      "comment": "(Brine Fiend)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21512,
+        30,
+        15
+      ],
+      "comment": "(&RA&rbyssal &YB&yracer&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21509,
+        15,
+        21555
+      ],
+      "comment": "(Brine Fiend)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21512,
+        30,
+        15
+      ],
+      "comment": "(&RA&rbyssal &YB&yracer&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21508,
+        15,
+        21555
+      ],
+      "comment": "(Unclean Spirit)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21511,
+        30,
+        19
+      ],
+      "comment": "(&RA&rbyssal &YE&yarring&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21507,
+        15,
+        21555
+      ],
+      "comment": "(Sacarian Mad)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21510,
+        30,
+        7
+      ],
+      "comment": "(&RA&rbyssal &YL&yeggings&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21508,
+        15,
+        21554
+      ],
+      "comment": "(Unclean Spirit)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21511,
+        30,
+        19
+      ],
+      "comment": "(&RA&rbyssal &YE&yarring&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21507,
+        15,
+        21554
+      ],
+      "comment": "(Sacarian Mad)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21510,
+        30,
+        7
+      ],
+      "comment": "(&RA&rbyssal &YL&yeggings&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21508,
+        15,
+        21553
+      ],
+      "comment": "(Unclean Spirit)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21511,
+        30,
+        19
+      ],
+      "comment": "(&RA&rbyssal &YE&yarring&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21508,
+        15,
+        21552
+      ],
+      "comment": "(Unclean Spirit)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21511,
+        30,
+        19
+      ],
+      "comment": "(&RA&rbyssal &YE&yarring&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21508,
+        15,
+        21551
+      ],
+      "comment": "(Unclean Spirit)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21511,
+        30,
+        19
+      ],
+      "comment": "(&RA&rbyssal &YE&yarring&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21508,
+        15,
+        21550
+      ],
+      "comment": "(Unclean Spirit)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21511,
+        30,
+        19
+      ],
+      "comment": "(&RA&rbyssal &YE&yarring&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21508,
+        15,
+        21549
+      ],
+      "comment": "(Unclean Spirit)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21511,
+        30,
+        19
+      ],
+      "comment": "(&RA&rbyssal &YE&yarring&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21507,
+        15,
+        21547
+      ],
+      "comment": "(Sacarian Mad)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21510,
+        30,
+        7
+      ],
+      "comment": "(&RA&rbyssal &YL&yeggings&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21507,
+        15,
+        21546
+      ],
+      "comment": "(Sacarian Mad)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21510,
+        30,
+        7
+      ],
+      "comment": "(&RA&rbyssal &YL&yeggings&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21507,
+        15,
+        21545
+      ],
+      "comment": "(Sacarian Mad)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21510,
+        30,
+        7
+      ],
+      "comment": "(&RA&rbyssal &YL&yeggings&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21507,
+        15,
+        21544
+      ],
+      "comment": "(Sacarian Mad)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21510,
+        30,
+        7
+      ],
+      "comment": "(&RA&rbyssal &YL&yeggings&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21507,
+        15,
+        21543
+      ],
+      "comment": "(Sacarian Mad)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21510,
+        30,
+        7
+      ],
+      "comment": "(&RA&rbyssal &YL&yeggings&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21507,
+        15,
+        21542
+      ],
+      "comment": "(Sacarian Mad)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21510,
+        30,
+        7
+      ],
+      "comment": "(&RA&rbyssal &YL&yeggings&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21507,
+        15,
+        21541
+      ],
+      "comment": "(Sacarian Mad)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21510,
+        30,
+        7
+      ],
+      "comment": "(&RA&rbyssal &YL&yeggings&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21505,
+        1,
+        21537
+      ],
+      "comment": "(Ter-soth)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21505,
+        50,
+        10
+      ],
+      "comment": "(&RA&rbyssal &YS&yleeves&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21506,
+        50,
+        8
+      ],
+      "comment": "(&RA&rbyssal &YB&yoots&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21503,
+        10,
+        21530
+      ],
+      "comment": "(Shadowreaver)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21503,
+        50,
+        13
+      ],
+      "comment": "(&RA&rbyssal &YG&yirth&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21504,
+        10,
+        21534
+      ],
+      "comment": "(Zhul)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21504,
+        50,
+        13
+      ],
+      "comment": "(&RA&rbyssal &YP&ylate&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21504,
+        10,
+        21533
+      ],
+      "comment": "(Zhul)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21504,
+        50,
+        13
+      ],
+      "comment": "(&RA&rbyssal &YP&ylate&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21503,
+        10,
+        21532
+      ],
+      "comment": "(Shadowreaver)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21503,
+        50,
+        13
+      ],
+      "comment": "(&RA&rbyssal &YG&yirth&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21503,
+        10,
+        21531
+      ],
+      "comment": "(Shadowreaver)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21503,
+        50,
+        13
+      ],
+      "comment": "(&RA&rbyssal &YG&yirth&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21502,
+        10,
+        21525
+      ],
+      "comment": "(Golgoth)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21502,
+        50,
+        0
+      ],
+      "comment": "(&RA&rbyssal &WL&wight&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21502,
+        10,
+        21524
+      ],
+      "comment": "(Golgoth)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21502,
+        50,
+        0
+      ],
+      "comment": "(&RA&rbyssal &WL&wight&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21502,
+        10,
+        21523
+      ],
+      "comment": "(Golgoth)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21502,
+        50,
+        0
+      ],
+      "comment": "(&RA&rbyssal &WL&wight&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21502,
+        10,
+        21522
+      ],
+      "comment": "(Golgoth)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21502,
+        50,
+        0
+      ],
+      "comment": "(&RA&rbyssal &WL&wight&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21502,
+        10,
+        21521
+      ],
+      "comment": "(Golgoth)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21502,
+        50,
+        0
+      ],
+      "comment": "(&RA&rbyssal &WL&wight&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21501,
+        10,
+        21520
+      ],
+      "comment": "(Skincrawler)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21501,
+        50,
+        9
+      ],
+      "comment": "(&RA&rbyssal &YG&yloves&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21501,
+        10,
+        21519
+      ],
+      "comment": "(Skincrawler)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21501,
+        50,
+        9
+      ],
+      "comment": "(&RA&rbyssal &YG&yloves&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21501,
+        10,
+        21518
+      ],
+      "comment": "(Skincrawler)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21501,
+        50,
+        9
+      ],
+      "comment": "(&RA&rbyssal &YG&yloves&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21501,
+        10,
+        21517
+      ],
+      "comment": "(Skincrawler)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21501,
+        50,
+        9
+      ],
+      "comment": "(&RA&rbyssal &YG&yloves&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21501,
+        10,
+        21516
+      ],
+      "comment": "(Skincrawler)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21501,
+        50,
+        9
+      ],
+      "comment": "(&RA&rbyssal &YG&yloves&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21500,
+        20,
+        21514
+      ],
+      "comment": "(Nightclaw)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21500,
+        50,
+        16
+      ],
+      "comment": "(&RA&rbyssal &YC&ylaws&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21500,
+        20,
+        21513
+      ],
+      "comment": "(Nightclaw)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21500,
+        50,
+        16
+      ],
+      "comment": "(&RA&rbyssal &YC&ylaws&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21500,
+        20,
+        21512
+      ],
+      "comment": "(Nightclaw)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21500,
+        50,
+        16
+      ],
+      "comment": "(&RA&rbyssal &YC&ylaws&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21500,
+        20,
+        21510
+      ],
+      "comment": "(Nightclaw)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21500,
+        50,
+        16
+      ],
+      "comment": "(&RA&rbyssal &YC&ylaws&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21500,
+        20,
+        21509
+      ],
+      "comment": "(Nightclaw)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21500,
+        50,
+        16
+      ],
+      "comment": "(&RA&rbyssal &YC&ylaws&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21500,
+        20,
+        21508
+      ],
+      "comment": "(Nightclaw)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21500,
+        50,
+        16
+      ],
+      "comment": "(&RA&rbyssal &YC&ylaws&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21500,
+        20,
+        21507
+      ],
+      "comment": "(Nightclaw)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21500,
+        50,
+        16
+      ],
+      "comment": "(&RA&rbyssal &YC&ylaws&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21500,
+        20,
+        21506
+      ],
+      "comment": "(Nightclaw)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21500,
+        50,
+        16
+      ],
+      "comment": "(&RA&rbyssal &YC&ylaws&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21500,
+        20,
+        21505
+      ],
+      "comment": "(Nightclaw)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21500,
+        50,
+        16
+      ],
+      "comment": "(&RA&rbyssal &YC&ylaws&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21500,
+        20,
+        21504
+      ],
+      "comment": "(Nightclaw)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21500,
+        50,
+        16
+      ],
+      "comment": "(&RA&rbyssal &YC&ylaws&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21500,
+        20,
+        21503
+      ],
+      "comment": "(Nightclaw)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21500,
+        50,
+        16
+      ],
+      "comment": "(&RA&rbyssal &YC&ylaws&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        21500,
+        20,
+        21502
+      ],
+      "comment": "(Nightclaw)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        21500,
+        50,
+        16
+      ],
+      "comment": "(&RA&rbyssal &YC&ylaws&n)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/215.zon"
+}

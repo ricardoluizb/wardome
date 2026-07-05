@@ -1,0 +1,45 @@
+{
+  "id": 17625,
+  "zone_id": 176,
+  "name": "Impy Way",
+  "description": "You are on Impy Way.  East and west of you are big houses.  Impy Way\ncontinues north and reaches a big intersection south.  Children are running to\nfrom home to home.",
+  "header_raw": "176 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Impy Way continues north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17632
+    },
+    {
+      "dir": 1,
+      "description": "You see a big house.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 665,
+      "to": 17626
+    },
+    {
+      "dir": 2,
+      "description": "You see a big intersection.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17601
+    },
+    {
+      "dir": 3,
+      "description": "You see a big house.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 665,
+      "to": 17629
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/176.wld"
+}

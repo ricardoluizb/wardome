@@ -1,0 +1,21 @@
+{
+  "id": 17606,
+  "zone_id": 176,
+  "name": "The Pawn Shop.",
+  "description": "You are in a little shop filled with a lot of knick knacks and semi-\nvaluable goods.  There is a display case full of little treasures that you are\nsure that you or any other little kid would like to touch!  The exit is east.",
+  "header_raw": "176 152 0",
+  "flags_text": "152",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see Impy Way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17605
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/176.wld"
+}

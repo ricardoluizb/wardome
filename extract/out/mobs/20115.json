@@ -1,0 +1,12 @@
+{
+  "id": 20115,
+  "alias": "abbot Abbot monk",
+  "short_desc": "the Abbot of Shaolin",
+  "long_desc": "The Abbot of Shaolin nods in your direction, acknowledging your presence.",
+  "detailed_desc": "Looking strong and healthy even at this age, the Abbot cuts an impressive \nfigure.",
+  "flags_raw": "204 1098915968 800 E",
+  "stats1_raw": "100 -44 -15 1d1+8400 5d21+110",
+  "stats2_raw": "1500 4010169 7",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/201.mob"
+}

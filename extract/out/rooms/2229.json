@@ -1,0 +1,34 @@
+{
+  "id": 2229,
+  "zone_id": 22,
+  "name": "The Great Hall Ends.",
+  "description": "You have come to the end of the great hall.  You see before you a huge\ngolden door, it must be at least twenty feet tall!  It has beautiful etchings\nof dragons.  You see a sign on the door.",
+  "header_raw": "22 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see a great golden door.",
+      "keywords": "door great golden",
+      "door_flag": 2,
+      "key": 2299,
+      "to": 2230
+    },
+    {
+      "dir": 3,
+      "description": "You see the hall.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2224
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "Congratulations on making it this far!  Watch out, it gets a little\n    nasty here... :) - Wench"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

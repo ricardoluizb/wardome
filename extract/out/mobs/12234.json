@@ -1,0 +1,12 @@
+{
+  "id": 12234,
+  "alias": "idun",
+  "short_desc": "Idun",
+  "long_desc": "A muscular Aesir woman clad in silvery armor stands here.",
+  "detailed_desc": "This stout ranger is loyal to her duty and to Odin, whom entrusted her\nthe task many centuries ago. She will protect the apples until the day\nof Ragnarak, at which point it will no longer be necessary.\nIdun is also the beloved wife of Bragi, who can be found in the Chambers\nof the Aesir at most times.",
+  "flags_raw": "72 9384 400 E",
+  "stats1_raw": "40 -8 -2 1d1+2400 5d5+56",
+  "stats2_raw": "600 318728 4",
+  "stats3_raw": "8 8 2 0 5",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/122.mob"
+}

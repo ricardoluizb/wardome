@@ -1,0 +1,12 @@
+{
+  "id": 11237,
+  "alias": "fire elemental",
+  "short_desc": "a fire elemental",
+  "long_desc": "A towering pillar of flame fills this chamber with heat.",
+  "detailed_desc": "This semi intelligent being from the plane of fire seeks only to destroy\nby fire all it encounters.",
+  "flags_raw": "4194344 524288 -400 E",
+  "stats1_raw": "40 -18 -9 1d1+3996 5d9+106",
+  "stats2_raw": "600 341495 9",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

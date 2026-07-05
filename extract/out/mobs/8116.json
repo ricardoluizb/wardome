@@ -1,0 +1,12 @@
+{
+  "id": 8116,
+  "alias": "volunteer",
+  "short_desc": "an Ofintine volunteer",
+  "long_desc": "An Ofintine volunteer patrolls his town.",
+  "detailed_desc": "He has taken up arms to fight the goblins.",
+  "flags_raw": "4104 0 400 E",
+  "stats1_raw": "151 -77 -29 1d1+17508 5d46+170",
+  "stats2_raw": "2265 16719291 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

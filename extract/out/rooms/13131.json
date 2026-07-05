@@ -1,0 +1,29 @@
+{
+  "id": 13131,
+  "zone_id": 131,
+  "name": "Eighth Floor Landing",
+  "description": "You have finally reached the eighth floor, the final floor in this bizarre\nand twisted world that mirrors ancient Japan.  But wait a minute, you glance\nout a nearby window and find that you are not at the top yet.  You sigh and\ncontinue onward.",
+  "header_raw": "131 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "South of here is something.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13132
+    },
+    {
+      "dir": 3,
+      "description": "West of here is something.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13133
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/131.wld"
+}

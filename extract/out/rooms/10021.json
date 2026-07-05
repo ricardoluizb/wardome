@@ -1,0 +1,29 @@
+{
+  "id": 10021,
+  "zone_id": 100,
+  "name": "Top of Stairway",
+  "description": "You stand at the top of a flight of wide stairs.  There is no railing along\nthe stairs the entire distance, however the stairs do follow along a wall to\none side.  The other side of the stairs opens into an enormous room which is\nlittered with closed coffins, all lined in perfect order.  The north wall of\nthe chamber rises three stories, strange, small niches built into the wall.  \nThose niches look a great deal like burial vaults.  Maybe it would be a good\nidea to leave this room.",
+  "header_raw": "100 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 10016
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10022
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/100.wld"
+}

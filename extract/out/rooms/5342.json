@@ -3,8 +3,8 @@
   "zone_id": 53,
   "name": "A Turn In The Hallway",
   "description": "You are standing in an elbow turn in a dust-covered stone hallway,\nthat dead ends to the north and continues on to the west.  To the south\nthe stones of the pyramid have been torn asunder by thieves, making\na low-ceilinged tunnel.",
-  "header_raw": "53 d 0",
-  "flags_text": "d",
+  "header_raw": "53 32776 0",
+  "flags_text": "32776",
   "sector": 0,
   "exits": [
     {

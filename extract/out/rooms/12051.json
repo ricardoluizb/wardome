@@ -26,12 +26,12 @@
   ],
   "extra_descriptions": [
     {
-      "keywords": "spires towers",
-      "description": "There are two tall spires on either side of the gate and are constantly\nmanned by the city guards.  They are made of stone and stand about 40\nfeet tall."
-    },
-    {
       "keywords": "gate",
       "description": "The gate is fabricated from iron and has been designed to keep intruders\nout of the city."
+    },
+    {
+      "keywords": "spires towers",
+      "description": "There are two tall spires on either side of the gate and are constantly\nmanned by the city guards.  They are made of stone and stand about 40\nfeet tall."
     }
   ],
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/120.wld"

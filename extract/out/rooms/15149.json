@@ -1,0 +1,21 @@
+{
+  "id": 15149,
+  "zone_id": 150,
+  "name": "Outdoor Temple",
+  "description": "This small basin, set in an almost tranquil setting, has been fashioned into\na place of worship by the people of the village.  Wooden benches serving as\npughs have been set into side of the hill.  At the bottom of the basin, a stage\nwith a podium has been erected, obviously for Mordecai and his sermons.",
+  "header_raw": "150 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 15147
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/151.wld"
+}

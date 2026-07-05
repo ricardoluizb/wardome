@@ -1,0 +1,29 @@
+{
+  "id": 8214,
+  "zone_id": 82,
+  "name": "The Stairs To The Steeple",
+  "description": "This is a very dark room, the only light is a torch that it is in the wall\nyou can see infront of you an old wood ladder. It looks very old, and not\nvery dependable, go up by your own risk.",
+  "header_raw": "82 13 0",
+  "flags_text": "13",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8213
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8225
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

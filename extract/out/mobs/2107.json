@@ -1,0 +1,12 @@
+{
+  "id": 2107,
+  "alias": "demon imp",
+  "short_desc": "the demon imp",
+  "long_desc": "A tiny demon snarls at you.",
+  "detailed_desc": "It seems like a relatively harmless little demon, but those sharp teeth\nmight hurt if they were wrapped around your arm.",
+  "flags_raw": "2152 8192 -200 E",
+  "stats1_raw": "85 -22 -2 1d1+2376 5d9+34",
+  "stats2_raw": "1275 1836749 0",
+  "stats3_raw": "8 8 0 -1 19",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/21.mob"
+}

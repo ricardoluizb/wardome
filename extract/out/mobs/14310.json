@@ -1,0 +1,12 @@
+{
+  "id": 14310,
+  "alias": "mob captain guard",
+  "short_desc": "the Captain of the Guard",
+  "long_desc": "The Captain of the Guard is here, humming softly to himself.",
+  "detailed_desc": "This man appears to be in his late thirties. His arms and chest are bulging\nwith nearly super-human muscles. From his neck dangles a small golden key on a\nstring.",
+  "flags_raw": "229386 0 0 E",
+  "stats1_raw": "60 -28 -12 1d1+6000 5d13+114",
+  "stats2_raw": "900 1036406 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/143.mob"
+}

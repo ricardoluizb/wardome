@@ -1,0 +1,45 @@
+{
+  "id": 11206,
+  "zone_id": 112,
+  "name": "Main Street",
+  "description": "You have reached a corner of the rectangular street of Hochenyana, where\nit heads east and south. Shops and houses line each direction, though there\nis little evidence of activity in them. Several lie nearby, their doors open\nor missing entirely...\n\nA weatherbeaten sign hangs over a small business to the west, marking it as\nan inn or tavern of some sort.",
+  "header_raw": "112 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11207
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11203
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11209
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11208
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

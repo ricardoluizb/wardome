@@ -1,0 +1,21 @@
+{
+  "id": 10497,
+  "zone_id": 104,
+  "name": "Office of the High Priest",
+  "description": "This is the office of the High Priest of Hell. A black stone desk stands\nbefore you. The office is lavishly furnished with gold, gems and many\nantiques. A large portrait of a demons face is on the wall behind his desk.\nYou see a stone door to the west.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "You see a stone door.",
+      "keywords": "door stone",
+      "door_flag": 1,
+      "key": -1,
+      "to": 10496
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

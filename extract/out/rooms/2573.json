@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Master Scribe's Workshop",
   "description": "You are in the workshop of the tower's master scribe.  Many half\nfinished scrolls lay on the writing table in the center of the room.\nA giant candle flickering with soft blue flames provides the only\nlight here.\n   The only apparent exit is the way you came in.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

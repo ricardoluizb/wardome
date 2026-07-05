@@ -3,8 +3,8 @@
   "zone_id": 51,
   "name": "The Warriors' Barracks",
   "description": "The room is a complete mess.  None of the beds are made, clothes and other\nitems have been left all about the room.  Well drow warriors never were known\nfor neatness.",
-  "header_raw": "51 ad 0",
-  "flags_text": "ad",
+  "header_raw": "51 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

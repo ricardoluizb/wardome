@@ -1,0 +1,29 @@
+{
+  "id": 12221,
+  "zone_id": 122,
+  "name": "Approaching the Wooden Lodges",
+  "description": "The ground becomes harder here, and the path much wider, as it approaches\na small collection of wooden lodges to the north, undoubtedly the\nresidences of the lords of this realm. Few mortals indeed have traversed\nthis far into the home of Frey and Freya, and it is with not a small\ndegree of trepidation that you advance upon those known to most as gods.",
+  "header_raw": "122 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12220
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12219
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

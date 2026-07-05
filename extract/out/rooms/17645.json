@@ -1,0 +1,21 @@
+{
+  "id": 17645,
+  "zone_id": 176,
+  "name": "Kitchen",
+  "description": "You are in a kitchen.  There isn't much of interest here.  The main room\nis east of here.",
+  "header_raw": "176 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see the main room of the house.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17643
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/176.wld"
+}

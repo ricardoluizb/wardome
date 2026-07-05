@@ -1,0 +1,29 @@
+{
+  "id": 12315,
+  "zone_id": 122,
+  "name": "Descending into the Darkness",
+  "description": "The tunnel descends steeply, the walls showing signs of working with\ntools, though only in parts, where a vein of minerals has been found\nby these expert miners and stonemasons. Few dwarves can be found in\nhere; their numbers are small, and dwindling by the decade. One day\nthese halls will be the sole reminder that this proud and ancient\nrace ever existed.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12316
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12314
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

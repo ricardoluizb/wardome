@@ -1,0 +1,12 @@
+{
+  "id": 14309,
+  "alias": "mob nobleman egyptian",
+  "short_desc": "the egyptian nobleman",
+  "long_desc": "An egyptian nobleman is standing here, counting his pocket change.",
+  "detailed_desc": "This man is overdressed in gaudy fashions. He stinks of expensive perfumes, and\nhis face is covered with make up in several places.",
+  "flags_raw": "69640 0 0 E",
+  "stats1_raw": "60 -28 -12 1d1+6000 5d13+114",
+  "stats2_raw": "900 1036406 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/143.mob"
+}

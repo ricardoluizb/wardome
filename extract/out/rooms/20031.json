@@ -1,0 +1,45 @@
+{
+  "id": 20031,
+  "zone_id": 200,
+  "name": "Hallway",
+  "description": "This is a plain hallway on the second floor.  The stairs leading down are to\nthe east, and the hall continues to the west.  On either side to the north and\nsouth are doors to private rooms.  You can hear a dull roar coming from below\nin the main room, but the thick wooden floorboards do a good job of blocking\nthe majority of the noise out.",
+  "header_raw": "200 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 20039
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20032
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 20038
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20030
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/200.wld"
+}

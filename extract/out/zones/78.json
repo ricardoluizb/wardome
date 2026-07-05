@@ -1,0 +1,1604 @@
+{
+  "id": 78,
+  "name": "The Valley of the Elves",
+  "header": {
+    "raw": "7899 240 1 1 -1",
+    "min_room": 7899,
+    "top_room": 240,
+    "lifespan": 1,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        7848,
+        2,
+        2
+      ],
+      "comment": "(Study)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        7848,
+        3,
+        1
+      ],
+      "comment": "(Study)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7803,
+        4,
+        7848
+      ],
+      "comment": "(a valley elf sentry)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7800,
+        9,
+        5
+      ],
+      "comment": "(elven chainmail)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7801,
+        9,
+        8
+      ],
+      "comment": "(elven boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7802,
+        25,
+        16
+      ],
+      "comment": "(an elven longsword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7803,
+        9,
+        3
+      ],
+      "comment": "(a brown cloak)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7826,
+        10,
+        7
+      ],
+      "comment": "(elven leggings)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7827,
+        10,
+        9
+      ],
+      "comment": "(elven gloves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7829,
+        10,
+        11
+      ],
+      "comment": "(an elven shield)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7804,
+        4,
+        7848
+      ],
+      "comment": "(a valley elf sentry)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7800,
+        9,
+        5
+      ],
+      "comment": "(elven chainmail)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7801,
+        9,
+        8
+      ],
+      "comment": "(elven boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7802,
+        25,
+        16
+      ],
+      "comment": "(an elven longsword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7803,
+        9,
+        3
+      ],
+      "comment": "(a brown cloak)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7826,
+        10,
+        7
+      ],
+      "comment": "(elven leggings)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7828,
+        10,
+        10
+      ],
+      "comment": "(elven sleeves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7829,
+        10,
+        11
+      ],
+      "comment": "(an elven shield)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7882,
+        3,
+        2
+      ],
+      "comment": "(The Storage Room)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        7808,
+        9,
+        7882
+      ],
+      "comment": "(a potion)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        7822,
+        9,
+        7882
+      ],
+      "comment": "(a scroll)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        7821,
+        9,
+        7882
+      ],
+      "comment": "(a scroll)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        7810,
+        9,
+        7882
+      ],
+      "comment": "(a potion)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        7812,
+        9,
+        7882
+      ],
+      "comment": "(a potion)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        7811,
+        9,
+        7882
+      ],
+      "comment": "(a potion)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        7820,
+        9,
+        7882
+      ],
+      "comment": "(a scroll)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        7815,
+        9,
+        7882
+      ],
+      "comment": "(a potion)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        7818,
+        9,
+        7882
+      ],
+      "comment": "(a scroll)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        7814,
+        9,
+        7882
+      ],
+      "comment": "(a potion)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        7813,
+        9,
+        7882
+      ],
+      "comment": "(a potion)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        7823,
+        9,
+        7882
+      ],
+      "comment": "(a scroll)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7812,
+        1,
+        7882
+      ],
+      "comment": "(the guardian daemon)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7881,
+        1,
+        2
+      ],
+      "comment": "(The Workroom)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7811,
+        1,
+        7881
+      ],
+      "comment": "(Talemon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7806,
+        5,
+        1
+      ],
+      "comment": "(a gold ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7807,
+        5,
+        16
+      ],
+      "comment": "(a quarterstaff)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7824,
+        3,
+        0
+      ],
+      "comment": "(&WThe Rod of &wN&We&wu&Wt&wr&Wa&wl&Wi&wt&Wy&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7880,
+        1,
+        2
+      ],
+      "comment": "(The Den of the Pyrohydra)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7880,
+        3,
+        2
+      ],
+      "comment": "(The Den of the Pyrohydra)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7809,
+        1,
+        7880
+      ],
+      "comment": "(The pyrohydra)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7805,
+        1,
+        -1
+      ],
+      "comment": "(a key)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        7829,
+        0,
+        1
+      ],
+      "comment": "(A Smaller Valley)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        7834,
+        2,
+        1
+      ],
+      "comment": "(The Elf Home)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        7845,
+        1,
+        2
+      ],
+      "comment": "(The Elders' Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        7846,
+        3,
+        2
+      ],
+      "comment": "(The Storage Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        7845,
+        0,
+        1
+      ],
+      "comment": "(The Elders' Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        7846,
+        0,
+        2
+      ],
+      "comment": "(The Storage Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        7847,
+        1,
+        1
+      ],
+      "comment": "(The Sleeping Quarters)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        7847,
+        2,
+        1
+      ],
+      "comment": "(The Sleeping Quarters)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        7870,
+        3,
+        1
+      ],
+      "comment": "(The Small Valley)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        7878,
+        1,
+        1
+      ],
+      "comment": "(Inside the Small Shack)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        7878,
+        5,
+        1
+      ],
+      "comment": "(Inside the Small Shack)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        7879,
+        4,
+        1
+      ],
+      "comment": "(Beneath the Small Shack)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7800,
+        6,
+        7806
+      ],
+      "comment": "(a cooshee)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7800,
+        6,
+        7807
+      ],
+      "comment": "(a cooshee)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7800,
+        6,
+        7837
+      ],
+      "comment": "(a cooshee)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7800,
+        6,
+        7873
+      ],
+      "comment": "(a cooshee)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7800,
+        6,
+        7823
+      ],
+      "comment": "(a cooshee)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7800,
+        6,
+        7833
+      ],
+      "comment": "(a cooshee)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7801,
+        6,
+        7805
+      ],
+      "comment": "(a valley elf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7802,
+        25,
+        16
+      ],
+      "comment": "(an elven longsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7801,
+        6,
+        7820
+      ],
+      "comment": "(a valley elf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7802,
+        25,
+        16
+      ],
+      "comment": "(an elven longsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7801,
+        6,
+        7818
+      ],
+      "comment": "(a valley elf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7802,
+        25,
+        16
+      ],
+      "comment": "(an elven longsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7801,
+        6,
+        7844
+      ],
+      "comment": "(a valley elf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7802,
+        25,
+        16
+      ],
+      "comment": "(an elven longsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7801,
+        6,
+        7877
+      ],
+      "comment": "(a valley elf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7802,
+        25,
+        16
+      ],
+      "comment": "(an elven longsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7801,
+        6,
+        7816
+      ],
+      "comment": "(a valley elf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7802,
+        25,
+        16
+      ],
+      "comment": "(an elven longsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7802,
+        6,
+        7868
+      ],
+      "comment": "(a valley elf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7802,
+        25,
+        16
+      ],
+      "comment": "(an elven longsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7802,
+        6,
+        7811
+      ],
+      "comment": "(a valley elf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7802,
+        25,
+        16
+      ],
+      "comment": "(an elven longsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7802,
+        6,
+        7865
+      ],
+      "comment": "(a valley elf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7802,
+        25,
+        16
+      ],
+      "comment": "(an elven longsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7802,
+        6,
+        7854
+      ],
+      "comment": "(a valley elf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7802,
+        25,
+        16
+      ],
+      "comment": "(an elven longsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7802,
+        6,
+        7842
+      ],
+      "comment": "(a valley elf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7802,
+        25,
+        16
+      ],
+      "comment": "(an elven longsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7802,
+        6,
+        7820
+      ],
+      "comment": "(a valley elf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7802,
+        25,
+        16
+      ],
+      "comment": "(an elven longsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7803,
+        4,
+        7853
+      ],
+      "comment": "(a valley elf sentry)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7800,
+        9,
+        5
+      ],
+      "comment": "(elven chainmail)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7801,
+        9,
+        8
+      ],
+      "comment": "(elven boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7802,
+        25,
+        16
+      ],
+      "comment": "(an elven longsword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7803,
+        9,
+        3
+      ],
+      "comment": "(a brown cloak)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7803,
+        4,
+        7866
+      ],
+      "comment": "(a valley elf sentry)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7800,
+        9,
+        5
+      ],
+      "comment": "(elven chainmail)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7801,
+        9,
+        8
+      ],
+      "comment": "(elven boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7802,
+        25,
+        16
+      ],
+      "comment": "(an elven longsword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7803,
+        9,
+        3
+      ],
+      "comment": "(a brown cloak)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7803,
+        4,
+        7860
+      ],
+      "comment": "(a valley elf sentry)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7800,
+        9,
+        5
+      ],
+      "comment": "(elven chainmail)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7801,
+        9,
+        8
+      ],
+      "comment": "(elven boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7802,
+        25,
+        16
+      ],
+      "comment": "(an elven longsword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7803,
+        9,
+        3
+      ],
+      "comment": "(a brown cloak)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7804,
+        4,
+        7850
+      ],
+      "comment": "(a valley elf sentry)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7800,
+        9,
+        5
+      ],
+      "comment": "(elven chainmail)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7801,
+        9,
+        8
+      ],
+      "comment": "(elven boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7802,
+        25,
+        16
+      ],
+      "comment": "(an elven longsword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7803,
+        9,
+        3
+      ],
+      "comment": "(a brown cloak)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7804,
+        4,
+        7856
+      ],
+      "comment": "(a valley elf sentry)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7800,
+        9,
+        5
+      ],
+      "comment": "(elven chainmail)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7801,
+        9,
+        8
+      ],
+      "comment": "(elven boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7802,
+        25,
+        16
+      ],
+      "comment": "(an elven longsword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7803,
+        9,
+        3
+      ],
+      "comment": "(a brown cloak)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7804,
+        4,
+        7863
+      ],
+      "comment": "(a valley elf sentry)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7800,
+        9,
+        5
+      ],
+      "comment": "(elven chainmail)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7801,
+        9,
+        8
+      ],
+      "comment": "(elven boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7802,
+        25,
+        16
+      ],
+      "comment": "(an elven longsword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7803,
+        9,
+        3
+      ],
+      "comment": "(a brown cloak)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7805,
+        5,
+        7852
+      ],
+      "comment": "(a valley elf scout)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7801,
+        9,
+        8
+      ],
+      "comment": "(elven boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7802,
+        25,
+        16
+      ],
+      "comment": "(an elven longsword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7803,
+        9,
+        3
+      ],
+      "comment": "(a brown cloak)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7805,
+        5,
+        7862
+      ],
+      "comment": "(a valley elf scout)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7801,
+        9,
+        8
+      ],
+      "comment": "(elven boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7802,
+        25,
+        16
+      ],
+      "comment": "(an elven longsword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7803,
+        9,
+        3
+      ],
+      "comment": "(a brown cloak)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7805,
+        5,
+        7827
+      ],
+      "comment": "(a valley elf scout)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7801,
+        9,
+        8
+      ],
+      "comment": "(elven boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7802,
+        25,
+        16
+      ],
+      "comment": "(an elven longsword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7803,
+        9,
+        3
+      ],
+      "comment": "(a brown cloak)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7805,
+        5,
+        7842
+      ],
+      "comment": "(a valley elf scout)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7801,
+        9,
+        8
+      ],
+      "comment": "(elven boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7802,
+        25,
+        16
+      ],
+      "comment": "(an elven longsword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7803,
+        9,
+        3
+      ],
+      "comment": "(a brown cloak)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7805,
+        5,
+        7876
+      ],
+      "comment": "(a valley elf scout)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7801,
+        9,
+        8
+      ],
+      "comment": "(elven boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7802,
+        25,
+        16
+      ],
+      "comment": "(an elven longsword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7803,
+        9,
+        3
+      ],
+      "comment": "(a brown cloak)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7806,
+        5,
+        7847
+      ],
+      "comment": "(a valley elf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7806,
+        5,
+        7847
+      ],
+      "comment": "(a valley elf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7806,
+        5,
+        7835
+      ],
+      "comment": "(a valley elf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7806,
+        5,
+        7838
+      ],
+      "comment": "(a valley elf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7806,
+        5,
+        7839
+      ],
+      "comment": "(a valley elf)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        7809,
+        9,
+        7846
+      ],
+      "comment": "(a potion)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        7823,
+        9,
+        7846
+      ],
+      "comment": "(a scroll)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        7820,
+        9,
+        7846
+      ],
+      "comment": "(a scroll)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        7817,
+        9,
+        7846
+      ],
+      "comment": "(a scroll)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        7815,
+        9,
+        7846
+      ],
+      "comment": "(a potion)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        7816,
+        9,
+        7846
+      ],
+      "comment": "(a potion)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        7819,
+        9,
+        7846
+      ],
+      "comment": "(a scroll)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7807,
+        1,
+        7845
+      ],
+      "comment": "(a valley elf elder)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7806,
+        5,
+        1
+      ],
+      "comment": "(a gold ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7825,
+        5,
+        16
+      ],
+      "comment": "(a quarterstaff)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7804,
+        1,
+        -1
+      ],
+      "comment": "(a key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7808,
+        1,
+        7845
+      ],
+      "comment": "(a valley elf elder)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7806,
+        5,
+        1
+      ],
+      "comment": "(a gold ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7825,
+        5,
+        16
+      ],
+      "comment": "(a quarterstaff)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7810,
+        1,
+        7878
+      ],
+      "comment": "(an old hermit)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7813,
+        3,
+        7818
+      ],
+      "comment": "(a wolf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7813,
+        3,
+        7830
+      ],
+      "comment": "(a wolf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7813,
+        3,
+        7860
+      ],
+      "comment": "(a wolf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7814,
+        3,
+        7815
+      ],
+      "comment": "(an antelope)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7814,
+        3,
+        7825
+      ],
+      "comment": "(an antelope)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7814,
+        3,
+        7852
+      ],
+      "comment": "(an antelope)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/78.zon"
+}

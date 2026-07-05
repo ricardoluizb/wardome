@@ -1,0 +1,12 @@
+{
+  "id": 7809,
+  "alias": "oldstyle pyrohydra pyro hydra",
+  "short_desc": "the pyrohydra",
+  "long_desc": "A big beast with many heads, each breathing fire, stares at you with malice.",
+  "detailed_desc": "This big beast looks like a small red dragon, but has many more heads than a\nregular dragon, too.  It doesn't look happy.",
+  "flags_raw": "42 0 0 E",
+  "stats1_raw": "80 -26 -6 1d1+4152 5d9+62",
+  "stats2_raw": "1200 1934015 3",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/78.mob"
+}

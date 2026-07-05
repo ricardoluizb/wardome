@@ -1,0 +1,29 @@
+{
+  "id": 12313,
+  "zone_id": 122,
+  "name": "A Bend in the Tunnel",
+  "description": "The tunnel bends here, heading east towards a junction. Smoldering\nbrands thrust into iron cressets mounted on the finished walls cast\na little light through the pervasive subterranean gloom, while a dim\nglow, from light reflecting off uncut gemstones piled near the walls,\nis also visible. The dwarves live where they work, here in the mines\nof their ancestors.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12312
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12314
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

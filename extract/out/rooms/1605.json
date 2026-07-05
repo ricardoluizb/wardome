@@ -1,0 +1,29 @@
+{
+  "id": 1605,
+  "zone_id": 16,
+  "name": "Path North of Moat",
+  "description": "You walk on a faint path heading south toward the west side of the moat,\nand north to three small buildings.",
+  "header_raw": "16 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Several low buildings lie this way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1606
+    },
+    {
+      "dir": 2,
+      "description": "The path ends west of the moat.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1604
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 5742,
+  "alias": "prisoner",
+  "short_desc": "a deranged prisoner",
+  "long_desc": "A wild-eyed man lunges insanely at you!",
+  "detailed_desc": "Ack! Watch out! He's going to...Oh. You realize, as the deranged figure\nsuddenly collapses sobbing at your feet that this man is not aggressive or\nseeking to attack you but was simply overjoyed at beign released. He is\nquite harmless, but very filthy.",
+  "flags_raw": "142 0 0 E",
+  "stats1_raw": "31 -17 -11 1d1+3588 5d10+122",
+  "stats2_raw": "465 202008 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

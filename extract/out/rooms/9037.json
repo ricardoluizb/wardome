@@ -1,0 +1,34 @@
+{
+  "id": 9037,
+  "zone_id": 90,
+  "name": "The Foothills",
+  "description": "You are in the foothills surrounding the mountain.  A large\nclaymore is lying on the ground here.",
+  "header_raw": "90 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9023
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9044
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "claymore",
+      "description": "The more you look at it the more it vanishes, to your desperate \ngrief."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/90.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 20008,
+  "alias": "Eshiay woman",
+  "short_desc": "Eshiay",
+  "long_desc": "A young woman sits here, a confused expression upon her face.",
+  "detailed_desc": "Eshiay seems somewhat pretty, but very confused.  She moves a little awkwardly,\nas if her body doesn't fit her very well.  She smiles at you uncertainly, and\nthen ignores you.",
+  "flags_raw": "1204234 1032 -500 E",
+  "stats1_raw": "150 -61 -17 1d1+7800 5d16+90",
+  "stats2_raw": "2250 11714435 3",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/200.mob"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9993,
+  "zone_id": 99,
+  "name": "Crawlspace.",
+  "description": "You crawl into the hole, which is infested with bugs that crunch \nunder your weight - GROSS!  You can continue Southward this way, if \nthe bugs dont bother you too much, or you can back out into the \ntunnel to the North.",
+  "header_raw": "99 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9992
+    },
+    {
+      "dir": 2,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9994
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

@@ -4,9 +4,9 @@
   "short_desc": "Uncle Juan",
   "long_desc": "Uncle Juan is here ready to take your order.",
   "detailed_desc": "He looks like he may or may not have a green card.",
-  "flags_raw": "ablno 0 900 S",
-  "stats1_raw": "33 0 -10 1d1+30000 2d8+18",
-  "stats2_raw": "2000 160000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "26635 0 900 E",
+  "stats1_raw": "33 4 5 1d1+693 5d4+12",
+  "stats2_raw": "495 136156 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

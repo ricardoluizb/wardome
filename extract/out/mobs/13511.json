@@ -1,0 +1,12 @@
+{
+  "id": 13511,
+  "alias": "spider yellow",
+  "short_desc": "the yellow crystal spider",
+  "long_desc": "A yellow crystal spider is clicking its mandibles here.",
+  "detailed_desc": "Slightly smaller than its green cousin, this creature also appears\nto be made of living crystalline substance which glows yellow.",
+  "flags_raw": "40 0 -350 E",
+  "stats1_raw": "20 -8 -6 1d1+1992 5d5+98",
+  "stats2_raw": "300 56083 9",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/135.mob"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2761,
+  "zone_id": 27,
+  "name": "The Port Royale Smokeshop",
+  "description": "This shop is filled with the spicy aroma of pipe smoke and fresh tobacco.  \nAgainst one wall stands a large counter.  On the counter are two small,\ngilt-lettered signs, one of which lists the various pipes for sale, and the\nother listing the blends of tobacco.  Behind the counter stands Jeffrey the\nproprietor, observing you with a slight frown on his face.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2756
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

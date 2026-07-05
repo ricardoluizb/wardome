@@ -1,0 +1,26 @@
+{
+  "id": 13013,
+  "zone_id": 130,
+  "name": "A Crypt",
+  "description": "You are in a place iluminated by a red magic light,\nthere is a glass table with a black coffin in front\nof you and it emits the red light, behind the coffin you can see \na Holy book protected by a silver grate.",
+  "header_raw": "130 8196 0",
+  "flags_text": "8196",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "Crypt's Door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 13012
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "holy book",
+      "description": "You look at the Holy book and read the words..\nBE CAREFUL with Locky, he is the Personification of the EVIL!!"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

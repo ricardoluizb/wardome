@@ -1,0 +1,34 @@
+{
+  "id": 14269,
+  "zone_id": 141,
+  "name": "The Altar of Honesty",
+  "description": "You may gain true enlightenment here.  There is a large plaque on\nthe wall.  The path continues only if you use the mantra, to\ngain enlightenment.",
+  "header_raw": "141 64 0",
+  "flags_text": "64",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The Path Of Enlightenment leads on.",
+      "keywords": "Path",
+      "door_flag": 2,
+      "key": 14104,
+      "to": 14270
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 14264
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "plaque",
+      "description": "Honesty is the scrupulous respect for truth-the willingness never\nto deceive oneself or another."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

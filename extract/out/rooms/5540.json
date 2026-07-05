@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Warehouse",
   "description": "You are standing in a large room used to store merchandise made in the\ncity before it is shipped off.  All the items here are made in New Thalos\nand shipped to other parts of the land.",
-  "header_raw": "54 d 0",
-  "flags_text": "d",
+  "header_raw": "54 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

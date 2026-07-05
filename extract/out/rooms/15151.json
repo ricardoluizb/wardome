@@ -1,0 +1,21 @@
+{
+  "id": 15151,
+  "zone_id": 150,
+  "name": "The Wives",
+  "description": "The interior of this home smells of both stale perfume and rotten fish.  \nMordecai keeps his favorites for the month in this home, in apparent 'luxury',\ntreating them well for the services they render.  Heaps of stained bedding lie\nin disarray all over the floor.  Pillows, torn and in some places,\nbloodstained, lie in heaped in different corners.",
+  "header_raw": "150 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 15148
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/151.wld"
+}

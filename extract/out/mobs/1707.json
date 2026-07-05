@@ -1,0 +1,12 @@
+{
+  "id": 1707,
+  "alias": "ranger leader",
+  "short_desc": "a ranger leader",
+  "long_desc": "A leader of the Rangers is watching you solemnly.",
+  "detailed_desc": "This individual has quite a reputation at the local trading posts!",
+  "flags_raw": "14 8 300 E",
+  "stats1_raw": "200 -100 -50 1d1+21600 5d61+180",
+  "stats2_raw": "3000 34652576 10",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/16.mob"
+}

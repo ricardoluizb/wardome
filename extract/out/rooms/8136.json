@@ -1,0 +1,29 @@
+{
+  "id": 8136,
+  "zone_id": 81,
+  "name": "The Stone Hallway",
+  "description": "The walls are carved from limestone, and drip water.  You are beginning\nto fear for your health, and cold is not your greatest worry.",
+  "header_raw": "81 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The walls are just as damp to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8135
+    },
+    {
+      "dir": 3,
+      "description": "There used to be a door there, but it is broken now.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8137
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

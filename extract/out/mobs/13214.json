@@ -1,0 +1,12 @@
+{
+  "id": 13214,
+  "alias": "rat",
+  "short_desc": "a cave rat",
+  "long_desc": "A large cave rat is searching for it's next meal",
+  "detailed_desc": "This is the biggest rat you've ever seen!  Even though you are still bigger,\nit is still bent on killing you.",
+  "flags_raw": "234 40 -450 E",
+  "stats1_raw": "20 -6 -5 1d1+1836 5d5+88",
+  "stats2_raw": "300 53412 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 720,
+  "alias": "council members",
+  "short_desc": "the Council Member",
+  "long_desc": "The council member looks quite upset as you interrupt them!",
+  "detailed_desc": "The council member is not just another politician...he can fight, too!",
+  "flags_raw": "138 128 350 E",
+  "stats1_raw": "100 -40 -12 1d1+6792 5d21+90",
+  "stats2_raw": "1500 3791433 5",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

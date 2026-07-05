@@ -1,0 +1,21 @@
+{
+  "id": 808,
+  "zone_id": 7,
+  "name": "Passageway",
+  "description": "The door behind you has disappeared, and you sigh.  This is getting\nold.  This is just a tiny room with a door to the south.  You feel you\nknow that door already.",
+  "header_raw": "7 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 801
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

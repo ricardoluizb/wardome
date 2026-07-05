@@ -1,0 +1,12 @@
+{
+  "id": 2315,
+  "alias": "oldstyle citizen minotaur",
+  "short_desc": "the Minotaur Citizen",
+  "long_desc": "A minotaur citizen is here, hurrying through the icy streets.",
+  "detailed_desc": "You see a rather ragged and cold minotaur. It appears to be looking for a warm\nplace to seek refuge from the cold.",
+  "flags_raw": "204 0 100 E",
+  "stats1_raw": "190 -79 -21 1d1+8352 5d20+96",
+  "stats2_raw": "2850 22946581 2",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/23.mob"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 561,
+  "zone_id": 5,
+  "name": "The Poor Alley",
+  "description": "You are at the poor alley and you notice a nasty smell here.  Nothing much\nhere but small cats and dust.  To north is the Dark alley.",
+  "header_raw": "5 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 560
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "grate",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3801
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

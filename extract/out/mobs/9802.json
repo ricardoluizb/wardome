@@ -1,0 +1,12 @@
+{
+  "id": 9802,
+  "alias": "Priest",
+  "short_desc": "Priest",
+  "long_desc": "The priest meditate here.",
+  "detailed_desc": "It looks unfinished.  This priest serves Shalyzaar, he is meditating in that\nroom.  When you approach him, he ask to you.  Can I help you?",
+  "flags_raw": "26696 41947272 0 E",
+  "stats1_raw": "150 -65 -20 1d1+10200 5d31+110",
+  "stats2_raw": "2250 13401314 5",
+  "stats3_raw": "8 8 1 1 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/98.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2020,
+  "alias": "dungeon master",
+  "short_desc": "the Dungeon Master",
+  "long_desc": "A Dungeon Master stands here.",
+  "detailed_desc": "The Dungeon Master seems willing to help you straight into your grave so\nhe can bless you properly.",
+  "flags_raw": "2174 8 -500 E",
+  "stats1_raw": "70 -15 0 1d1+1956 5d8+28",
+  "stats2_raw": "1050 1062450 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/20.mob"
+}

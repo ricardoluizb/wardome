@@ -1,0 +1,21 @@
+{
+  "id": 2037,
+  "zone_id": 20,
+  "name": "The Western Side of the Moat",
+  "description": "As you continue swimming you finally come to a solid wall which signals the end of this side of the moat.Your only choice is to go back from where you came.",
+  "header_raw": "20 0 6",
+  "flags_text": "0",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "The Castle Moat",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2035
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

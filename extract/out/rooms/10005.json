@@ -1,0 +1,29 @@
+{
+  "id": 10005,
+  "zone_id": 100,
+  "name": "A Winding Mountain Trail",
+  "description": "The trail heads and west - east toward the hellish castle and west toward\nthe nightmarish forest.  You are not really left with much a choice.",
+  "header_raw": "100 1 3",
+  "flags_text": "1",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10006
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10004
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/100.wld"
+}

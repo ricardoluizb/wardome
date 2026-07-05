@@ -1,0 +1,34 @@
+{
+  "id": 13202,
+  "zone_id": 132,
+  "name": "A Mountain Road",
+  "description": "The road turns east here.  You notice there are very large footprints in \nthe dirt, whomever left them must have been marching.  You thought the city\ndidn't exist or was destroyed, but there are signs that it exists!\nA sign is on the side of the road.",
+  "header_raw": "132 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "a road",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13203
+    },
+    {
+      "dir": 2,
+      "description": "a road",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13201
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "This area is based on the Intellivison game \"Advanced Dungeons and Dragons\" \nwhich is of course based on TSR's role playing game.  The name Cloudy Mountain,\nthe caves in Cloudy Mountain and the mobs in Cloudy Mountain are taken \ndirectly from the game and credit should be given to Matel Electronics and TSR.\nThe city/village is from Scourge, summer 1996.  Some mob ideas are from TSR's\nMonstrous Manual, copyright 1993, TSR, Inc."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

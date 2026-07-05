@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Boat Ramp",
   "description": "This sloped slab of stone allows easy passage to and from the River\nIshtar.  Boats are moored to the docks here awaiting their masters to\nreturn from the warehouses and the pubs.  The waters of the River Ishtar\nlap at your feet to the south and Ishtar Drive is to the north.",
-  "header_raw": "54 c 1",
-  "flags_text": "c",
+  "header_raw": "54 4 1",
+  "flags_text": "4",
   "sector": 1,
   "exits": [
     {

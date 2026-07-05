@@ -1,0 +1,12 @@
+{
+  "id": 301,
+  "alias": "oldstyle hermit sorbus",
+  "short_desc": "Sorbus the Hermit",
+  "long_desc": "Sorbus the Hermit is sitting here, roasting a rabbit.",
+  "detailed_desc": "Sorbus bares the marks of a long, hard life in solitude.\nHe is dressed in simple clothing and looks like he has little\nor nothing to say.",
+  "flags_raw": "10 32768 0 E",
+  "stats1_raw": "15 13 7 1d1+315 5d2+6",
+  "stats2_raw": "225 18413 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/3.mob"
+}

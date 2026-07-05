@@ -1,0 +1,29 @@
+{
+  "id": 9111,
+  "zone_id": 91,
+  "name": "High and perilous cliff",
+  "description": "You are on a high and rocky cliff.  To the west you see a huge\nominous storm cloud moving this way.  You might want to take cover\nbefore the storm hits.  You think that there is a narrow trail\nleading to the south.",
+  "header_raw": "91 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9112
+    },
+    {
+      "dir": 3,
+      "description": "An ominous storm cloud looms to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9110
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

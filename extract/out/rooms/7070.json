@@ -3,8 +3,8 @@
   "zone_id": 70,
   "name": "A Ledge By A Dark Pool",
   "description": "You can't see much here but the echo tells you that there is quite a drop\ndown.  You can just make out a huge dark pool out there in the darkness,\nmostly because of the trickling of water.  The water from the sewer actually\nwashes over this ledge and makes it quite slippery.  From here it drops,\nlike a waterfall, into the pool far down.  Under you there is a small fissure\nin the rock.  It seems big enough to contain a few people.",
-  "header_raw": "70 ad 5",
-  "flags_text": "ad",
+  "header_raw": "70 9 5",
+  "flags_text": "9",
   "sector": 5,
   "exits": [
     {

@@ -1,0 +1,21 @@
+{
+  "id": 1108,
+  "zone_id": 11,
+  "name": "Kid'n Keep",
+  "description": "You are inside Kid'n Keep, the convenient one-stop nursery that maintains\nthe youth of the Shire.  Toddlers run every which way while their nursemaids\nsigh in exasperation.  The only exit lies to the north.",
+  "header_raw": "11 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The only exit lies to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1106
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

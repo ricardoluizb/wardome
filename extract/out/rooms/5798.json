@@ -1,0 +1,45 @@
+{
+  "id": 5798,
+  "zone_id": 57,
+  "name": "The Other Side",
+  "description": "You have reached the other side of the river. From here you can progress\neast towards a secure-looking door, or west towards what looks like a door\nto living quarters. Alternatively, there is a door set flush in the north\nwall directly ahead of you.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a door",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5807
+    },
+    {
+      "dir": 1,
+      "description": "towards a door",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5815
+    },
+    {
+      "dir": 2,
+      "description": "a bridge to the south bank",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5773
+    },
+    {
+      "dir": 3,
+      "description": "towards living quarters",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5804
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

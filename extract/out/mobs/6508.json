@@ -4,9 +4,9 @@
   "short_desc": "the mine leader",
   "long_desc": "A dwarven mine leader is here, supervising the work.",
   "detailed_desc": "The mine leader is very big and very strong, though he must be fairly\nbright also, to have gotten this job.",
-  "flags_raw": "bl k 700 S",
-  "stats1_raw": "19 1 0 50d2+270 3d4+6",
-  "stats2_raw": "18000 35000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "2058 1024 700 E",
+  "stats1_raw": "60 -10 1 1d1+1260 5d7+24",
+  "stats2_raw": "900 690938 0",
+  "stats3_raw": "8 8 1 10 2",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/65.mob"
 }

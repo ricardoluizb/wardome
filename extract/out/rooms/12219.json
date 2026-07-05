@@ -1,0 +1,29 @@
+{
+  "id": 12219,
+  "zone_id": 122,
+  "name": "Alfheim",
+  "description": "You cannot remember having ever been in a more peaceful forest than\nthis one; strolling casually beneath the protective overhanging boughs\nof the mighty trees of Vanaheim you feel totally at ease. You know that\nno harm will come to you in this place, unless of course you provoke\nsuch an action from the realm's inhabitants, who will react with\nunderstandable zeal to protect their haven.",
+  "header_raw": "122 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12221
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12218
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

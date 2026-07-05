@@ -1,0 +1,29 @@
+{
+  "id": 30021,
+  "zone_id": 300,
+  "name": "Street end",
+  "description": "This is the end of the street.  At this point, and all around the city, are\nhuge stone walls separating the city from the sea.  They were erected in an\neffort to protect the Havens from the wrath of the ocean.  The walls are very\nsmooth but you can see one lower section which you think you could climb over.",
+  "header_raw": "300 12 1",
+  "flags_text": "12",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30019
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30022
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9232,
+  "zone_id": 92,
+  "name": "Elemental Bay",
+  "description": "The water is crystal clear here and you can see the bottom of the bay 30 feet\nbelow you.  Then you realize you are walking on the water itself.  Truly\nmagical water indeed.  Though you splash through the bay you do not get wet.",
+  "header_raw": "92 0 6",
+  "flags_text": "0",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9235
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9231
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/92.wld"
+}

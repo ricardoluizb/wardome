@@ -1,0 +1,29 @@
+{
+  "id": 13103,
+  "zone_id": 131,
+  "name": "Entrance to Temple",
+  "description": "You find yourself standing in the entrance to the great Temple of the\nSamurai.  This temple glows golden and is a tribute to all of the great\nwarriors of the past.  You feel as if you have entruded where mortals were\nnever meant to tred.",
+  "header_raw": "131 16777224 0",
+  "flags_text": "16777224",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "North of you is the exit to the temple.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13102
+    },
+    {
+      "dir": 2,
+      "description": "South you notice a flower filled room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13104
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/131.wld"
+}

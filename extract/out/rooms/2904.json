@@ -1,0 +1,34 @@
+{
+  "id": 2904,
+  "zone_id": 29,
+  "name": "Mountain side",
+  "description": "The mountain is very high and looks to be quite old. There is smoke coming\nfrom the top of the mountain.",
+  "header_raw": "29 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see mountains to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2903
+    },
+    {
+      "dir": 2,
+      "description": "The mountain continues.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2905
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "smoke",
+      "description": "The smoke is grey and puffs out of the top of the mountain."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/29.wld"
+}

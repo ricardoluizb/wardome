@@ -1,0 +1,29 @@
+{
+  "id": 609,
+  "zone_id": 6,
+  "name": "Learning how to Battle",
+  "description": "That room doesn't need description. That room has the\nsmell of the war of the blood. therefore kills all \nthe enemies that you can.",
+  "header_raw": "6 262176 0",
+  "flags_text": "262176",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 610
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 608
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/6.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 8249,
+  "zone_id": 82,
+  "name": "A Dead End",
+  "description": "You are at the end of a black, and dirty tunnel, you feel uncomfortable,\nyou should be going back by now. This place is stinky, smells like well,\nmmm... you dont know, but what ever it is you dont like it. You should be\ncareful this is the kind of places where thiefs like to hide.",
+  "header_raw": "82 353 6",
+  "flags_text": "353",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8248
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

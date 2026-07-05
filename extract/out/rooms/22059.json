@@ -1,0 +1,29 @@
+{
+  "id": 22059,
+  "zone_id": 220,
+  "name": "The temple of Lilith",
+  "description": "You are in a remarkable splender, the walls elegantly carved with marble\nand bejeweled with the finest of emeralds, opals, sapphires and more. The\ntable is covered with fresh fruits, vegetables, loaves of wholesome wheat\nbread and the smell if magnificent. At the head of the table is a large\nchair encrusted with the name Lilith. In it sits a beautiful woman covered\nin solemn clothing.",
+  "header_raw": "220 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22060
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 22058
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/220.wld"
+}

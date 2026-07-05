@@ -1,0 +1,29 @@
+{
+  "id": 6616,
+  "zone_id": 66,
+  "name": "The deposit of soul's",
+  "description": "Here is the deposit room...\nthe small demon goes to steal its soul now",
+  "header_raw": "66 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6618
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6613
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/66.wld"
+}

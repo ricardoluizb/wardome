@@ -1,0 +1,37 @@
+{
+  "id": 20014,
+  "zone_id": 200,
+  "name": "Main Room",
+  "description": "A window here offers a view outside, where it doesn't seem near as social as it\nis inside.  Tables filled with laughing customers eat and drink and generally\nbe merry, not caring what the weather is like, and probably not even knowing.\nThere's a general sense of joy in the room the joy of still being alive in such\na dangerous world as this one.  For a moment, you feel like joining them...",
+  "header_raw": "200 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20015
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20019
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20013
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/200.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 64,
   "name": "A Hidden Hall",
   "description": "This is a small hidden hall with a secret entrance to the\nlibrary on the north end of the west wall, and a trapdoor \non the south end.",
-  "header_raw": "64 ad 0",
-  "flags_text": "ad",
+  "header_raw": "64 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

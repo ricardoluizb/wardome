@@ -1,0 +1,21 @@
+{
+  "id": 30205,
+  "zone_id": 302,
+  "name": "&MT&memple &Wof &BJ&bustice&n",
+  "description": "o azoun que eh bom nisso.",
+  "header_raw": "302 1048644 0",
+  "flags_text": "1048644",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30203
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/302.wld"
+}

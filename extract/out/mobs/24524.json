@@ -1,0 +1,12 @@
+{
+  "id": 24524,
+  "alias": "beast",
+  "short_desc": "the beast",
+  "long_desc": "The seven headed, ten horned beast is here.",
+  "detailed_desc": "The beast has seven heads, ten horns. Upon the ten\nhorns are ten crowns. It is like a leopard with\nfeet like a bear and the mouth of a lion. A huge\nscar runs across one head, where it was mortally\nwounded and healed.",
+  "flags_raw": "74 40 -400 E",
+  "stats1_raw": "110 -39 -9 1d1+4836 5d12+64",
+  "stats2_raw": "1650 4715076 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/245.mob"
+}

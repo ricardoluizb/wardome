@@ -1,0 +1,12 @@
+{
+  "id": 2327,
+  "alias": "yergoth minotaur paladin master",
+  "short_desc": "Yergoth",
+  "long_desc": "Yergoth, the minotaur paladin, is here worshipping silently.",
+  "detailed_desc": "Yergoth is the minotaur incarnation of good. You feel safe and at ease in his\npresence. He is the leader of the Mahn-Tor paladins.",
+  "flags_raw": "10 136 1000 E",
+  "stats1_raw": "200 -84 -23 1d1+8796 5d21+100",
+  "stats2_raw": "3000 26655827 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/23.mob"
+}

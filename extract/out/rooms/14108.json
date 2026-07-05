@@ -1,0 +1,29 @@
+{
+  "id": 14108,
+  "zone_id": 141,
+  "name": "Humility Lane",
+  "description": "This is a even smaller dirt path that crosses New Maginica Road. \nTo your north there is a barn, and to the south you see a\ncondemned building, though you cannot enter this way.  West is\nblocked off a herd o sheep.",
+  "header_raw": "141 64 1",
+  "flags_text": "64",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14107
+    },
+    {
+      "dir": 1,
+      "description": "There is a shimmering light to the east.",
+      "keywords": "",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14103
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

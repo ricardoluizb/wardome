@@ -1,0 +1,12 @@
+{
+  "id": 1006,
+  "alias": "vampire erich man",
+  "short_desc": "Erich",
+  "long_desc": "A pale white man dressed in a black stands before you.",
+  "detailed_desc": "The man before you is dressed in all black except for his cape which\nhas a red satin lining.  He has dark hair and cold green eyes that\ncatch and reflect every movement.  Erich, as his name happens to be,\nis the master vampire in control of all of the evil undead which\ninfest this cathedral.",
+  "flags_raw": "46 136 -1000 E",
+  "stats1_raw": "60 -30 -14 1d1+6480 5d19+124",
+  "stats2_raw": "900 1105500 10",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/10.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 13203,
+  "alias": "lieutenant dragon",
+  "short_desc": "a dragon lieutenant",
+  "long_desc": "A lieutenant is drilling his troops.",
+  "detailed_desc": "This half-minotaur is very powerful and doesn't take kindly to slackers in his\nranks.",
+  "flags_raw": "8266 40 -400 E",
+  "stats1_raw": "10 -1 -3 1d1+912 5d3+84",
+  "stats2_raw": "150 10180 8",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

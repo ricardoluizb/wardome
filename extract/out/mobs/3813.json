@@ -1,0 +1,12 @@
+{
+  "id": 3813,
+  "alias": "slave human",
+  "short_desc": "a human slave",
+  "long_desc": "A human slave crouches in a corner, shivering.",
+  "detailed_desc": "This human looks familiar, and upon further examination, you see that this\nslave used to be a citizen of Midgaard!  She asks pitifully for you to help\nher escape.",
+  "flags_raw": "136 0 100 E",
+  "stats1_raw": "10 15 8 1d1+207 5d2+4",
+  "stats2_raw": "150 7126 0",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/38.mob"
+}

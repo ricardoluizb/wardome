@@ -1,0 +1,45 @@
+{
+  "id": 11215,
+  "zone_id": 112,
+  "name": "Main Street",
+  "description": "Main Street runs east and west here, past more deserted dwellings and\nshops fallen into states of disrepair and ruination. A lingering stench\nof decaying foodstuffs wafts in from the north, while to the south you\ncan hear someone gibbering, in fear or madness, or both.",
+  "header_raw": "112 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11216
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11218
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11217
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11212
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

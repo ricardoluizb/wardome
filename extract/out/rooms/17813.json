@@ -1,0 +1,21 @@
+{
+  "id": 17813,
+  "zone_id": 178,
+  "name": "A Gnome Shop",
+  "description": "You are in one of the several shops of this fine town.  The wares look fine,\nbut unfortunately the gnomes don't do business with outsiders.",
+  "header_raw": "178 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see a road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17806
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 17327,
+  "alias": "perimones knight",
+  "short_desc": "Perimones (the Red Knight)",
+  "long_desc": "A knight dressed red shimmering armor faces you!",
+  "detailed_desc": "Perimones, the red knight, has a red beard and mustache. He is a short \nstocky man. His ruby armor is shimmering in the sunlight, and he wears \nthe silken red favor of Galenvine on his sleeve.",
+  "flags_raw": "10 8192 500 E",
+  "stats1_raw": "132 -46 -9 1d1+3696 5d14+52",
+  "stats2_raw": "1980 6473886 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/173.mob"
+}

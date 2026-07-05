@@ -1,0 +1,12 @@
+{
+  "id": 14170,
+  "alias": "boatseller",
+  "short_desc": "the boatseller",
+  "long_desc": "The Boatseller stands here.",
+  "detailed_desc": "The Boatseller sells... boats.",
+  "flags_raw": "2152 1156 1000 E",
+  "stats1_raw": "160 -62 -15 1d1+5760 5d17+74",
+  "stats2_raw": "2400 13724234 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

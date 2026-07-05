@@ -1,0 +1,12 @@
+{
+  "id": 2309,
+  "alias": "oldstyle guard ogre",
+  "short_desc": "the Ogre Guard",
+  "long_desc": "The ogre guard is here manning his post faithfully.",
+  "detailed_desc": "The ogre guard stands here manning his post. It appears as though he would\nfight to the death before abandoning his post.",
+  "flags_raw": "110 0 -500 E",
+  "stats1_raw": "195 -81 -22 1d1+8580 5d20+98",
+  "stats2_raw": "2925 24754935 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/23.mob"
+}

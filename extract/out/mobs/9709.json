@@ -1,0 +1,12 @@
+{
+  "id": 9709,
+  "alias": "oldstyle soldier",
+  "short_desc": "a Soldier",
+  "long_desc": "A soldier is here, assisting Ares.",
+  "detailed_desc": "This man is waiting on Ares.  Although he does not look very strong, you\nrealize that Ares would not have any weaklings working for him.",
+  "flags_raw": "46 170 0 E",
+  "stats1_raw": "180 -70 -17 1d1+5040 5d19+72",
+  "stats2_raw": "2700 15923585 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/97.mob"
+}

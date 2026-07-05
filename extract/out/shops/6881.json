@@ -1,0 +1,31 @@
+{
+  "id": 6881,
+  "producing": [
+    6708
+  ],
+  "profit_buy": 1.0,
+  "profit_sell": 1.0,
+  "buy_types": [],
+  "messages": [
+    "%s I don't sell any of those!",
+    "%s Nothing is refundable, have a nice day.",
+    "%s Nothing is refundable, have a nice day.",
+    "%s Go buy something you can afford.",
+    "%s Nothing is refundable, have a nice day.",
+    "%s That comes to %d coins. Now get lost! Heheh.",
+    "%s I don't buy."
+  ],
+  "tail": [
+    2,
+    2,
+    6723,
+    0,
+    6881,
+    -1,
+    0,
+    28,
+    0,
+    0
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/67.shp"
+}

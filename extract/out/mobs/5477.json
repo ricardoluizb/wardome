@@ -4,9 +4,9 @@
   "short_desc": "the giant hornet",
   "long_desc": "The giant hornet hovers here.",
   "detailed_desc": "It is a hornet, what else can be said?",
-  "flags_raw": "eqr dgk 300 S",
-  "stats1_raw": "5 15 4 1d1+5 1d4+0",
-  "stats2_raw": "0 45",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "196632 1096 300 E",
+  "stats1_raw": "5 18 9 1d1+99 5d1+2",
+  "stats2_raw": "75 1651 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Hole",
   "description": "You find yourself standing in a small alcove as the tunnel comes to\na somewhat sudden end.  Looking about you suddenly notice a rather big\nhole in the floor of the tunnel.  In fact, it seems that another step\nforward and you would have fallen into it.\n   The tunnel itself leads to the west, and looking down into the hole\nin the floor reveals little beyond the fact that it seems to be very\ndeep and very dark.  There is a very strange smell emanating from the\nhole, it almost smells like something down there is rotting.",
-  "header_raw": "40 acd 3",
-  "flags_text": "acd",
+  "header_raw": "40 13 3",
+  "flags_text": "13",
   "sector": 3,
   "exits": [
     {

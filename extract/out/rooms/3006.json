@@ -1,28 +1,12 @@
 {
   "id": 3006,
   "zone_id": 30,
-  "name": "The Entrance Hall Of The Grunting Boar Inn",
-  "description": "You are standing in the entrance hall of the Grunting Boar Inn.  The hall\nhas been wisely decorated with simple, functional furniture.  The heavy smell\nof dust and aging paper drifts in from the Post Office to the north.  A small\nstaircase leads up to the reception and the bar is to the east.",
-  "header_raw": "30 d 0",
-  "flags_text": "d",
+  "name": "The former bar",
+  "description": "This once was the bar of Midgaard, now this is only a place\nof violence and torture. A heavy smell of death fills the air. There are\nundead everywhere.",
+  "header_raw": "30 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
-    {
-      "dir": 0,
-      "description": "You see the Midgaard Post Office.",
-      "keywords": "",
-      "door_flag": 0,
-      "key": -1,
-      "to": 3062
-    },
-    {
-      "dir": 1,
-      "description": "Surprise!  You see the bar.",
-      "keywords": "",
-      "door_flag": 0,
-      "key": -1,
-      "to": 3007
-    },
     {
       "dir": 3,
       "description": "You see the temple square.",

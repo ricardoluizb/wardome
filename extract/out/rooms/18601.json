@@ -3,8 +3,8 @@
   "zone_id": 186,
   "name": "The Beginning Of The Passage",
   "description": "You find yourself entering a long corridor.  You can hear the sound\nof creatures roaming about, but you can't tell where the sound emanates\nfrom exactly.\n   Exits lead to the east along the hallway, and south back to the\nentrance.",
-  "header_raw": "186 d 0",
-  "flags_text": "d",
+  "header_raw": "186 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {
@@ -21,6 +21,14 @@
       "keywords": "",
       "door_flag": 0,
       "key": -1,
+      "to": -1
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
       "to": 18600
     }
   ],

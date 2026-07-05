@@ -1,0 +1,29 @@
+{
+  "id": 8189,
+  "zone_id": 81,
+  "name": "The Ledge",
+  "description": "You may enter the creek to the south, or look for a way up the cliffs\nthat flank this small stream.  A crevasse nearby looks like it could\nbe chimneyed with a lot of effort.",
+  "header_raw": "81 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The stream flows quickly east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8187
+    },
+    {
+      "dir": 4,
+      "description": "It won't be easy, but you think you can do it.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8190
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

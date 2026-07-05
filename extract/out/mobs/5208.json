@@ -4,9 +4,9 @@
   "short_desc": "the stone golem",
   "long_desc": "In the corner you see a large, stone golem faithfully standing watch.",
   "detailed_desc": "It is a big chunk of rock that has been magically formed into a giant stone\ncreature.  He stands here still guarding the city.",
-  "flags_raw": "bilnopqr dfk 800 S",
-  "stats1_raw": "25 0 -5 6d6+500 4d7+3",
-  "stats2_raw": "4250 145000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "157706 1064 800 E",
+  "stats1_raw": "160 -64 -17 1d1+7032 5d17+84",
+  "stats2_raw": "2400 13910536 2",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/52.mob"
 }

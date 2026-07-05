@@ -1,0 +1,45 @@
+{
+  "id": 29831,
+  "zone_id": 298,
+  "name": "Near the big boulder",
+  "description": "You are in the large stalagmite cave near a big boulder.  You can see a carving\non the boulders left side.  The cave countinues to the north, south and east.",
+  "header_raw": "298 9 3",
+  "flags_text": "9",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29833
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29830
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29828
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "boulder",
+      "door_flag": 1,
+      "key": 0,
+      "to": 29832
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/298.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 8135,
+  "alias": "goblin",
+  "short_desc": "the goblin guard",
+  "long_desc": "A goblin stands here alert, vigilant for intruders.",
+  "detailed_desc": "No one will pass by him unnoticed.",
+  "flags_raw": "6250 1024 -350 E",
+  "stats1_raw": "154 -79 -29 1d1+17856 5d46+170",
+  "stats2_raw": "2310 17701290 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

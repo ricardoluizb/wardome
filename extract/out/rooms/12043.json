@@ -3,8 +3,8 @@
   "zone_id": 120,
   "name": "The Waiting Room",
   "description": "You are standing in a very large room with a high ceiling and there\nare a few people waiting here to see the Emperor on urgent matters.  The\nmaster scheduler tells you to have a seat and sends a page to inform the\nhis highness of your arrival.  There are large doors to the east and west\nand an exit leads south to the foyer.",
-  "header_raw": "120 d 0",
-  "flags_text": "d",
+  "header_raw": "120 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

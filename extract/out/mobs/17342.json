@@ -1,0 +1,12 @@
+{
+  "id": 17342,
+  "alias": "warhorse heavy",
+  "short_desc": "a heavy warhorse",
+  "long_desc": "A heavy warhorse paws the ground and snorts in preparation for battle!",
+  "detailed_desc": "The heavy warhorse has full chain barding and stands 17 hands.",
+  "flags_raw": "8 0 0 E",
+  "stats1_raw": "128 -44 -9 1d1+3576 5d13+50",
+  "stats2_raw": "1920 5923791 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/173.mob"
+}

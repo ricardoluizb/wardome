@@ -1,0 +1,12 @@
+{
+  "id": 1013,
+  "alias": "banshee form humanoid mother superior",
+  "short_desc": "the banshee",
+  "long_desc": "A strange humanoid form stands in one corner of the room, singing.",
+  "detailed_desc": "The once beautiful complexion of this female has deteriorated under the\nravages of time and decay, leaving only a pale resemblence to the former\nliving elf.  Looking closely at the clothing she wears, you notice that\nit appears to be the soul of the cathedral's Mother Superior.",
+  "flags_raw": "74 268501128 800 E",
+  "stats1_raw": "50 -25 -12 1d1+5400 5d16+120",
+  "stats2_raw": "750 668281 10",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/10.mob"
+}

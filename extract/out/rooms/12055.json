@@ -3,8 +3,8 @@
   "zone_id": 120,
   "name": "The Judge's Chambers",
   "description": "You are in a small room that is filled with legal tombs.  There is a\nsmall desk here, literally buried under legal documents.  There is also\na small window overlooking the northern part of the city.",
-  "header_raw": "120 d 0",
-  "flags_text": "d",
+  "header_raw": "120 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {
@@ -18,12 +18,12 @@
   ],
   "extra_descriptions": [
     {
-      "keywords": "tombs books",
-      "description": "The books are very large and filled with Roman legal precedent."
-    },
-    {
       "keywords": "papers documents",
       "description": "There are hundreds of pages of petitions, lawsuits and court orders sitting\non the desk.  One particularly interesting case involves a nobleman, a slave\nand a roll of toilet paper."
+    },
+    {
+      "keywords": "tombs books",
+      "description": "The books are very large and filled with Roman legal precedent."
     }
   ],
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/120.wld"

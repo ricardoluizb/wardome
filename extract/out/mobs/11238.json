@@ -1,0 +1,12 @@
+{
+  "id": 11238,
+  "alias": "minion nool",
+  "short_desc": "a minion of No'ol",
+  "long_desc": "A winged demon hovers above the bloodstained altar.",
+  "detailed_desc": "Sent by the Chaotic Lord to observe the goings-on in this temple,\nthe minion was pleased to note the extent to which chaos had taken\nadvantage of the evil enchantments placed upon the town. No'ol is aware\nof who is behind the enchantment, and his priests have hammered out a\npact of mutual benefit, though Chaos does not always co operate with\nforces of purer Evil.",
+  "flags_raw": "42 168 -1000 E",
+  "stats1_raw": "40 -18 -9 1d1+3996 5d9+106",
+  "stats2_raw": "600 341495 9",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

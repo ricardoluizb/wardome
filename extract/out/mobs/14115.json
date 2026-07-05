@@ -1,0 +1,12 @@
+{
+  "id": 14115,
+  "alias": "beggar",
+  "short_desc": "the beggar",
+  "long_desc": "A beggar is here with his hand out.",
+  "detailed_desc": "He is more accustomed to receiving Compassion, than giving it. \nBut help him out, give him a few coins.",
+  "flags_raw": "2056 1024 500 E",
+  "stats1_raw": "55 -9 0 1d1+1980 5d6+32",
+  "stats2_raw": "825 659312 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

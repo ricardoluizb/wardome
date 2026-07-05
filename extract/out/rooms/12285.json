@@ -1,0 +1,29 @@
+{
+  "id": 12285,
+  "zone_id": 122,
+  "name": "The Top of Yggdrasil",
+  "description": "You have climbed as high as is humanly possible up Yggdrasil; to go\nany higher than this would take you into the airless void that surrounds\nthe plane of Asgard. To the east, a massive wooden lodge looms. This must\nbe the home of Odin and Frigga, and their servants and family. Undoubtedly\nthey would not appreciate any intrustion into this, their most private\nplace.",
+  "header_raw": "122 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12286
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12284
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

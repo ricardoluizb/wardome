@@ -1,10 +1,10 @@
 {
   "id": 7341,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "The Small Cave",
   "description": "You are standing in small cave.  You can see some light at the end.  Exits\nare north and south.",
-  "header_raw": "73 acd 2",
-  "flags_text": "acd",
+  "header_raw": "72 13 2",
+  "flags_text": "13",
   "sector": 2,
   "exits": [
     {
@@ -22,6 +22,14 @@
       "door_flag": 0,
       "key": -1,
       "to": 7342
+    },
+    {
+      "dir": 5,
+      "description": "trapdoor",
+      "keywords": "trapdoor",
+      "door_flag": 1,
+      "key": 0,
+      "to": 7350
     }
   ],
   "extra_descriptions": [],

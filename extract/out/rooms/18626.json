@@ -3,8 +3,8 @@
   "zone_id": 186,
   "name": "A Long East-West Passage",
   "description": "This is a long, narrow passage leading east and west.  The walls are\ndamp and covered with mildew and fungus.  There is a very unhealthy air\nabout this place and you're beginning to want out of here... soon.",
-  "header_raw": "186 ad 0",
-  "flags_text": "ad",
+  "header_raw": "186 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

@@ -1,0 +1,29 @@
+{
+  "id": 2340,
+  "zone_id": 23,
+  "name": "A forested path",
+  "description": "The path here leads north through a thick forest. High bushes and forest\nundergrowth line both sides of the trail. Looking north, you see a thin line\nof smoke rising up above the tree line. You also notice a crude wooden gate\nfarther north on the trail. The trail itself leads south into murky territory.",
+  "header_raw": "23 4 3",
+  "flags_text": "4",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2341
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2339
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

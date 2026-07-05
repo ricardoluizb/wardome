@@ -1,0 +1,21 @@
+{
+  "id": 4761,
+  "zone_id": 47,
+  "name": "Pasty's Dwelling",
+  "description": "This is a small stone dwelling with a large oven on the south wall.  There are\nmany tables and chairs placed about the place and by the oven there is a table\npiled with grains and a small bowl of dough.",
+  "header_raw": "47 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4758
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

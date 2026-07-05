@@ -1,0 +1,12 @@
+{
+  "id": 8211,
+  "alias": "Priest",
+  "short_desc": "Tintoreto the priest",
+  "long_desc": "A priest",
+  "detailed_desc": "He is sitting in a wood chair, he looks very old, but is strong enough\nto give a good fight for his life. You must remember that he has God on\nhis side, so dont disturb him.",
+  "flags_raw": "18442 1152 50 E",
+  "stats1_raw": "150 -63 -18 1d1+9000 5d16+100",
+  "stats2_raw": "2250 11927425 4",
+  "stats3_raw": "6 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/82.mob"
+}

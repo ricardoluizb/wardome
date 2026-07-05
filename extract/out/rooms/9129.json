@@ -1,0 +1,29 @@
+{
+  "id": 9129,
+  "zone_id": 91,
+  "name": "Sleepy little cloud.",
+  "description": "This cloud is peacefully snoozing away, enjoying himself.  There\nis grumpy cloud to the east and a rather shy cloud north of here.",
+  "header_raw": "91 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The cloud to the north blushes and tries to hide when you look at\nit.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9132
+    },
+    {
+      "dir": 1,
+      "description": "The cloud to the east mutters and grumbles at you.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9130
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

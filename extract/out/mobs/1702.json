@@ -1,0 +1,12 @@
+{
+  "id": 1702,
+  "alias": "trapper",
+  "short_desc": "a trapper",
+  "long_desc": "A trapper stands here, bartering his pelts.",
+  "detailed_desc": "The trapper is clad mostly in the fur of various animals he's caught.",
+  "flags_raw": "12 0 0 E",
+  "stats1_raw": "170 -85 -45 1d1+18360 5d52+168",
+  "stats2_raw": "2550 21570117 10",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/16.mob"
+}

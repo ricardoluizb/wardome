@@ -1,0 +1,29 @@
+{
+  "id": 13545,
+  "zone_id": 135,
+  "name": "An Undead Garden",
+  "description": "Shaking shrubberies and quivering palms surround a few skeletal\ntrees that make up this gruesome garden.  The shriveled plantlife, set\nin niches within the deformed chamber walls, seem to have all died and\ncome back from the afterlife somehow.  Openings in the petrified organ\nwall lead west and down.",
+  "header_raw": "135 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13527
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13550
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2308,
+  "zone_id": 23,
+  "name": "The rocky path",
+  "description": "The path here winds among the low rocky hills. The long trek up and down the\nhills begins to tire you greatly. Looking east, you see a small clearing. More\nhills are to the north of here.",
+  "header_raw": "23 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2309
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2307
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

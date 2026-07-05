@@ -1,0 +1,29 @@
+{
+  "id": 6627,
+  "zone_id": 66,
+  "name": "Torture Chamber",
+  "description": "You are on a terrifying room...  On the walls you can see alot of torture\ninstruments, and constantly you can hear strange screams.",
+  "header_raw": "66 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6628
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6623
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/66.wld"
+}

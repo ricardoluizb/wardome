@@ -4,9 +4,9 @@
   "short_desc": "the giant lizard",
   "long_desc": "A giant lizard is here.",
   "detailed_desc": "This scaly creature looks like it is well adapted to its underground\nhabitat.  He looks very powerful.",
-  "flags_raw": "bflm dkp 100 S",
-  "stats1_raw": "16 6 2 10d2+220 3d4+5",
-  "stats2_raw": "1200 26000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "6186 33800 100 E",
+  "stats1_raw": "25 -6 -4 1d1+2100 5d5+80",
+  "stats2_raw": "375 90648 7",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/9.mob"
 }

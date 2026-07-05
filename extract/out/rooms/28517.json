@@ -1,0 +1,45 @@
+{
+  "id": 28517,
+  "zone_id": 285,
+  "name": "Before the Keep of Atlantis",
+  "description": "You stand before a huge keep that has been carved into the side of the\nmountain. Huge coral gates before you provide entrance to the keep. It\nappears as though the storm here has convinced the guards to seek shelter \ninside. You see the lights of the city to the west. You also notice small\nguard houses to the north and south.",
+  "header_raw": "285 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28516
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 2,
+      "key": 28501,
+      "to": 28519
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28518
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28515
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/285.wld"
+}

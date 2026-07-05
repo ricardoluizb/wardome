@@ -1,0 +1,12 @@
+{
+  "id": 718,
+  "alias": "mayor kell",
+  "short_desc": "Kell",
+  "long_desc": "Mayor Kell greets you into his office with a welcoming hand.",
+  "detailed_desc": "The mayor seems happy to see you, even though you interrupted his\nputting practice.  He sits you down, offers you a drink, and asks what\nhe can do for you.",
+  "flags_raw": "10 128 1000 E",
+  "stats1_raw": "100 -40 -12 1d1+6792 5d21+90",
+  "stats2_raw": "1500 3791433 5",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

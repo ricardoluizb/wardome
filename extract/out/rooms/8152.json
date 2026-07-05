@@ -1,0 +1,21 @@
+{
+  "id": 8152,
+  "zone_id": 81,
+  "name": "A Small Armory",
+  "description": "The Goblins keep a few weapons here, perhaps those they do not like\nto use.",
+  "header_raw": "81 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "An iron door leads east.",
+      "keywords": "door iron",
+      "door_flag": 2,
+      "key": 8105,
+      "to": 8151
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

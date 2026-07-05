@@ -1,23 +1,18 @@
 {
-  "rooms": 1197,
-  "zones": 30,
-  "shops": 46,
-  "help_entries": 201,
+  "rooms": 7906,
+  "zones": 140,
+  "shops": 153,
+  "help_entries": 186,
   "tables": {
-    "commands": 351,
+    "commands": 350,
     "spells": 300,
     "skills": 207,
     "classes": 13,
     "constants": 47
   },
   "errors": [
-    "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/36.wld: list index out of range",
-    "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/51.wld: list index out of range",
-    "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/54.wld: list index out of range",
-    "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/62.wld: list index out of range",
-    "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/63.wld: list index out of range",
-    "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/65.wld: list index out of range"
+    "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/55.wld: list index out of range"
   ],
   "objects": 679,
-  "mobs": 569
+  "mobs": 3042
 }

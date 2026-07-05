@@ -1,0 +1,29 @@
+{
+  "id": 10480,
+  "zone_id": 104,
+  "name": "White Marble Hall",
+  "description": "You are standing in a white marble hallway. It is dry and clean. Many\nportraits of demons and devils in business suits adorn the walls on either\nside of you.\nThe hall continues to the south.\nTo the west is a steel door.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see a marble hallway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10490
+    },
+    {
+      "dir": 3,
+      "description": "You see a steel door.",
+      "keywords": "door steel",
+      "door_flag": 1,
+      "key": -1,
+      "to": 10479
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

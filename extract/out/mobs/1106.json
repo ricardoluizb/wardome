@@ -1,0 +1,12 @@
+{
+  "id": 1106,
+  "alias": "oldstyle pig",
+  "short_desc": "a pig",
+  "long_desc": "A pig wallows in the mud and oinks in contentment.",
+  "detailed_desc": "The pig appears quite happy to be a pig.  He is oblivious to your presence\nand cares only for the care-free life that he leads.  It is enormously fat\nand consequently cannot move around very quickly.",
+  "flags_raw": "72 0 0 E",
+  "stats1_raw": "80 -24 -5 1d1+3516 5d9+52",
+  "stats2_raw": "1200 1904261 2",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/11.mob"
+}

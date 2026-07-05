@@ -1,0 +1,21 @@
+{
+  "id": 517,
+  "zone_id": 5,
+  "name": "&BThe Temple of the Drows&n",
+  "description": "You are standing on the darkest temple of Wardome. Briefly illuminated by\ntorches. In the walls, there are several pictures, tracing the story of great\nbattles between elves and drows, which begun many centuries ago, and still\nhappens nowadays... The reason of such war remains a mystery.\n   The exit to the Temple Street is to the North.",
+  "header_raw": "5 1048596 0",
+  "flags_text": "1048596",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 504
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

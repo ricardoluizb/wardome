@@ -1,0 +1,21 @@
+{
+  "id": 12287,
+  "zone_id": 122,
+  "name": "A Small Bedchamber",
+  "description": "Odin's resting place, where he lies with Frigga when he is in need\nof rest, is a simple affair, consisting of a bed covered in thick\nanimal furs, and a small fireplace which perpetually burns at various\ntemperatures when commanded thusly by Frigga, who is a master of the\nelements.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12288
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

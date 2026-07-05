@@ -1,0 +1,21 @@
+{
+  "id": 28420,
+  "zone_id": 284,
+  "name": "The South Reef of Atlantis",
+  "description": "You are standing inside of the south reef of Atlantis. There are two tall\nwalls, impossible to pass. From which the guards can see a whole north side\nof the city.",
+  "header_raw": "284 8 6",
+  "flags_text": "8",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A landing is to your north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28419
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/284.wld"
+}

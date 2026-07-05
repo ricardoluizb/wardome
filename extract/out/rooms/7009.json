@@ -3,8 +3,8 @@
   "zone_id": 70,
   "name": "The Sewer Junction",
   "description": "You stand in the middle of a huge junction of sewer pipes right under\nwhat you'd think was an air shaft.  The sewer pipes lead to the north,\nsouth, east and west.  It look quite impossible to force your way up.",
-  "header_raw": "70 ad 3",
-  "flags_text": "ad",
+  "header_raw": "70 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

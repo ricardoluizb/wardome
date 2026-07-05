@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Master Enchanter's Chamber",
   "description": "You have entered the Master Enchanter's chamber.  Upon all the walls\nhere are racks of finely crafted weapons.  A huge chest with a glowing\nlock is set to one side.  Several unfinished looking blades rest atop a\nsmall work table.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

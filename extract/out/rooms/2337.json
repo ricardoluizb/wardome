@@ -1,0 +1,45 @@
+{
+  "id": 2337,
+  "zone_id": 23,
+  "name": "Lost in the Mist",
+  "description": "You wander through the thick mist. It swirls all about you and makes it hard\nto breathe. The ground below you makes a soft squishing sound as you trudge\non, but this noise is absorbed by the mist and does not travel. You can wander\nin any direction.",
+  "header_raw": "23 8388617 4",
+  "flags_text": "8388617",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2335
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2338
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2332
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2338
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

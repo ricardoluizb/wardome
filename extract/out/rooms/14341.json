@@ -1,0 +1,29 @@
+{
+  "id": 14341,
+  "zone_id": 143,
+  "name": "Entryway into the Pyramid",
+  "description": "This room is lit only by the dim light that pours in from the north door. The \nonly exit leads south into the darkness. Strange symbols have been etched\nand painted on the walls.",
+  "header_raw": "143 12 1",
+  "flags_text": "12",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "An exit from the pyramid.",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 14324,
+      "to": 14312
+    },
+    {
+      "dir": 2,
+      "description": "The pale light fades into the darkness.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14342
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

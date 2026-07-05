@@ -4,9 +4,9 @@
   "short_desc": "the camel",
   "long_desc": "A very dangerous creature, a camel, snorts at you.",
   "detailed_desc": "It is advisable not to mess with this creature.  After all, you\nhave heard many a horror story about experiences with camels.\nBad experiences.",
-  "flags_raw": "bfq 0 -351 S",
-  "stats1_raw": "5 12 6 1d6+60 2d4+3",
-  "stats2_raw": "270 900",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "65578 0 -351 E",
+  "stats1_raw": "10 15 8 1d1+207 5d2+4",
+  "stats2_raw": "150 7126 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/50.mob"
 }

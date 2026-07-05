@@ -1,0 +1,37 @@
+{
+  "id": 29964,
+  "zone_id": 298,
+  "name": "On a Flet outside a Ballroom",
+  "description": "You sit down on the wooden flet.  You see lanterns inside the ballroom which\nnow lies to your southeast, which give it an eerie light.  The stillness and\ncalmness of this area are very soothing.  Above you seems to be the\nheadquarters for the elven army, and beneath this flet lies a heavily guarded\nflet.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29965
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29966
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29960
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

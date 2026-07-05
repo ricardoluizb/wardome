@@ -1,0 +1,12 @@
+{
+  "id": 5739,
+  "alias": "orc chieftain",
+  "short_desc": "an Orcish chieftain",
+  "long_desc": "An Orcish chieftain snarls and cracks his whip at you angrily.",
+  "detailed_desc": "This evil chieftain was busy whipping his hapless servant when you entered,\nand he is glad for a more challenging foe. He is the leader of the Orcs in\nthis area, and as such will be a tough foe.",
+  "flags_raw": "110 1152 -400 E",
+  "stats1_raw": "40 -22 -12 1d1+4632 5d13+126",
+  "stats2_raw": "600 398410 11",
+  "stats3_raw": "8 8 1 -1 5",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

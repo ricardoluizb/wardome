@@ -1,0 +1,45 @@
+{
+  "id": 9809,
+  "zone_id": 98,
+  "name": "Room of the sacrifices",
+  "description": "This room reeks of sadness and solitude.  In this room, human and animal\nsacrifices were performed in homage of Shalynom.",
+  "header_raw": "98 64 0",
+  "flags_text": "64",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9816
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9810
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9802
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9808
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/98.wld"
+}

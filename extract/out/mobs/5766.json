@@ -1,0 +1,12 @@
+{
+  "id": 5766,
+  "alias": "dragon",
+  "short_desc": "an enormous Red Dragon",
+  "long_desc": "An enormous Red Dragon belches forth fire and smoke at you!",
+  "detailed_desc": "You are Dead. This Dragon can tear apart whole armies of Orcs, and eats\nadventurers like you for breakfast. His huge, yellow, heavy-lidded eyes\nglare balefully at you as he swings his massive claws at your head!\n\n\nan enormous Red Dragon's blast *** JOLTS *** you!\nOuch! That attack hurt your Silver Bracer!\nThat sure did HURT!\nYou sure are BLEEDING!\nYou have been KILLED!!!\n\n\nBATTLE UPDATE : adventurer killed by an enormous red dragon.",
+  "flags_raw": "110 9404 -1000 E",
+  "stats1_raw": "40 -22 -12 1d1+4632 5d13+126",
+  "stats2_raw": "600 398410 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

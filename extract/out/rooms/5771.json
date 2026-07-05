@@ -1,0 +1,21 @@
+{
+  "id": 5771,
+  "zone_id": 57,
+  "name": "A Bare Room",
+  "description": "You have entered a room that is completely unrearkable save for a table and\nsome interesting items upon it.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "a corridor",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5770
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

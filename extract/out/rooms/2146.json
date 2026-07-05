@@ -1,0 +1,29 @@
+{
+  "id": 2146,
+  "zone_id": 21,
+  "name": "Tunnel's End",
+  "description": "You reach the end of the tunnel.  Just above you, sunlight peeks around the\nedge of a trapdoor.",
+  "header_raw": "21 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2145
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "trapdoor",
+      "door_flag": 1,
+      "key": 2102,
+      "to": 2147
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/21.wld"
+}

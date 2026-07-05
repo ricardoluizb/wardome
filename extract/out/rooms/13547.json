@@ -1,0 +1,37 @@
+{
+  "id": 13547,
+  "zone_id": 135,
+  "name": "The Macabre Amphitheather",
+  "description": "You are in on a wide, circular ledge overlooking a large slab of\nstone in the chamber below.  Crude seats are fashioned here from the\nsurrounding porous rock and the walls are decorated with various\nbonesaws and a quote in blood, 'That fell arrest without bail.'  A\ncoffin lid door is set in the east wall, while steps cut into the\nrock lead down and west.",
+  "header_raw": "135 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see a doorway made from a coffin's lid.",
+      "keywords": "door coffin",
+      "door_flag": 1,
+      "key": -1,
+      "to": 13546
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13548
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13551
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

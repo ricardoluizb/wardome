@@ -1,0 +1,54 @@
+{
+  "id": 24,
+  "name": "Wardome - Kingdom of Steel",
+  "header": {
+    "raw": "2499 30 2 10 1",
+    "min_room": 2499,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": 10
+  },
+  "commands": [
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        30100,
+        1,
+        2404
+      ],
+      "comment": "(the &WK&wi&Rn&rg&Rd&wo&Wm &wof &cS&Ct&We&Ce&cl&g bulleting board&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        90,
+        1,
+        2405
+      ],
+      "comment": "(&wPolaris &RH&rilda, &CT&che &bO&Bdin &WRencarnation&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2404,
+        1,
+        16
+      ],
+      "comment": "(&wThe &RArmy &Cof &BImmortals &WScepter&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        2400,
+        1,
+        2401
+      ],
+      "comment": "(Sandstone Foutain)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/24.zon"
+}

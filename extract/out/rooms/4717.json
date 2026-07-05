@@ -1,0 +1,29 @@
+{
+  "id": 4717,
+  "zone_id": 47,
+  "name": "Dwarven mines",
+  "description": "The small shaft of the mine continues to the west and to the south here.  A\nsmall amount of light can be seen to the south.",
+  "header_raw": "47 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4718
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4716
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

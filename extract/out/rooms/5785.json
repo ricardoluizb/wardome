@@ -1,0 +1,37 @@
+{
+  "id": 5785,
+  "zone_id": 57,
+  "name": "A T-Junction",
+  "description": "You have come to a T-Junction where an east-west passageway is met by a\nnorth-south one. The north-south passage terminates at the meeting-point. To\nthe south it runs past another side passage before turning sharply to the\neast. The east-west passage bends to the north in both directions.\n\nYou see a small recess in the north wall here and think this would be a good \nplace to rest your weary bones.",
+  "header_raw": "57 13 0",
+  "flags_text": "13",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "a bend",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5786
+    },
+    {
+      "dir": 2,
+      "description": "a side passage",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5783
+    },
+    {
+      "dir": 3,
+      "description": "a bend",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5788
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

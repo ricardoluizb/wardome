@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "A Store Room",
   "description": "You are in a small store room.  Assorted junk is piled on shelves or\nleaning against walls.\n   The only apparent exit it back south.",
-  "header_raw": "25 adg 0",
-  "flags_text": "adg",
+  "header_raw": "25 73 0",
+  "flags_text": "73",
   "sector": 0,
   "exits": [
     {

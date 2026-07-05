@@ -3,8 +3,8 @@
   "zone_id": 30,
   "name": "The Thieves' Bar",
   "description": "The bar of the thieves.  Once upon a time this place was beautifully\nfurnished, but now it seems almost empty.  To the south is the yard, and to\nthe west is the entrance hall.\n   (Maybe the furniture has been stolen?!)",
-  "header_raw": "30 cdh 0",
-  "flags_text": "cdh",
+  "header_raw": "30 156 0",
+  "flags_text": "156",
   "sector": 0,
   "exits": [
     {

@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Tunnel",
   "description": "You find yourself at a small intersection of sorts in this tunnel.\nThe main tunnel appears to curve from south to west but there is an\nentrance into a cave to the north.  The entrance itself looks to be\nunnatural and much more recent than the tunnel or even the cave.",
-  "header_raw": "40 ad 3",
-  "flags_text": "ad",
+  "header_raw": "40 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

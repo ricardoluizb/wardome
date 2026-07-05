@@ -1,0 +1,21 @@
+{
+  "id": 14115,
+  "zone_id": 141,
+  "name": "Katrina's Office",
+  "description": "This is office is very sparse... and humble.  There are no\ndecorations, in fact the room is bare except for a simple desk\nand its chair.",
+  "header_raw": "141 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14114
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

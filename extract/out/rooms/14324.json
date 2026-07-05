@@ -1,0 +1,45 @@
+{
+  "id": 14324,
+  "zone_id": 143,
+  "name": "Entrance to the Palace",
+  "description": "The interior of the palace leaves you in awe. The floors are made of polished\nmarble and the ceilings are 30 feet high and adorned with colorful art.\nSeveral common items such as doorknobs and hinges are made of solid gold!\nA large door lies to the north.",
+  "header_raw": "143 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A wooden door is set in the north wall.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14326
+    },
+    {
+      "dir": 1,
+      "description": "The castle gate.",
+      "keywords": "gate",
+      "door_flag": 2,
+      "key": 14323,
+      "to": 14323
+    },
+    {
+      "dir": 2,
+      "description": "A small, dull room no bigger than a large closet.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14325
+    },
+    {
+      "dir": 3,
+      "description": "The beautiful palace courtyard lies to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14327
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

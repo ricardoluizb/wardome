@@ -1,0 +1,45 @@
+{
+  "id": 2780,
+  "zone_id": 27,
+  "name": "South main street of Bree",
+  "description": "You are on the small cobblestoned main street of Bree.  The street is lightly\npopulated.  There are a few stores here where you can get basic supplies for\nyour journeys.  To the east is the Bree Courthouse, where many a wrongdoer has\nbeen forced to pay for crimes committed.  The road continues to the south.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2746
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2782
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2783
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2781
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

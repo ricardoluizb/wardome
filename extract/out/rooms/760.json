@@ -1,0 +1,26 @@
+{
+  "id": 760,
+  "zone_id": 7,
+  "name": "Inner Chamber",
+  "description": "Now you've done it!  You've interrupted a Council Session!  You'll\nnever work in this town again!  What?!?  You don't work here?  Guards,\nATTACK!!!\n\n   There is a big round table here with 6 seats.  Otherwise, this room\nseems plain, to minimize the distractions upon the Council Members.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 759
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "table",
+      "description": "You notice a small engraving on one side:\n\t\t'Amanda was here.'"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

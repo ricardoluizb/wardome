@@ -1,0 +1,12 @@
+{
+  "id": 22003,
+  "alias": "balrog medium",
+  "short_desc": "a medium balrog",
+  "long_desc": "A medium winged balrog is here gazing at you with demonic red eyes",
+  "detailed_desc": "The Balrog is a winged creature with eyes which seem to pervade your being\nand tear your soul apart.",
+  "flags_raw": "4425800 0 0 E",
+  "stats1_raw": "60 -16 -3 1d1+3120 5d7+54",
+  "stats2_raw": "900 863672 3",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/220.mob"
+}

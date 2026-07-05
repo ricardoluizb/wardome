@@ -1,0 +1,29 @@
+{
+  "id": 13389,
+  "zone_id": 132,
+  "name": "Scourge' Room",
+  "description": "You have entered Scourge's private room.  It is rather dark, those of \ngood alignment may find it sinister and feel uncomfortable...those who walk\nthe path of evil are right at home.  There is a roaring fire in the fireplace,\nyet the room feels chilly.  There are some plants in the window, but they \nappear to be dead.  Scourge is sitting in a black and red chair, he grins \nat you evilly.",
+  "header_raw": "132 541 0",
+  "flags_text": "541",
+  "sector": 0,
+  "exits": [],
+  "extra_descriptions": [
+    {
+      "keywords": "fire fireplace roaring",
+      "description": "A fire roars here, for a second you think you see a body in the fire, but you\nblink and it's gone."
+    },
+    {
+      "keywords": "plants window",
+      "description": "The plants look like they died from lack of water and disease, you notice\nthat you are developing a cough as you sit in your chair."
+    },
+    {
+      "keywords": "chair red black",
+      "description": "The chair looks very comfortable, the pattern is the colors of the Katyusha \nclan."
+    },
+    {
+      "keywords": "scourge",
+      "description": "You meet his cold stare, as a chill runs up and down your spine, he speaks.\nScourge says, 'I am not here right now, if you would like to leave a message,\nplease leave your name, number, and I'll get back to you as soon as possible.'\n*BEEP*"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

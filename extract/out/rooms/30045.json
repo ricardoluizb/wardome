@@ -1,0 +1,21 @@
+{
+  "id": 30045,
+  "zone_id": 300,
+  "name": "Cirdan's chamber",
+  "description": "This is Cirdan's personal chamber.  It is not what you had imagined an elven\nlord's quarters to be like: extravagant, richly decorated and closely guarded.\nInstead it is a sumptuous but otherwise plain bedroom.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30043
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

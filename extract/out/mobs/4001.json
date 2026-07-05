@@ -4,9 +4,9 @@
   "short_desc": "the green snake",
   "long_desc": "A small green snake is here, and it doesn't look too friendly...",
   "detailed_desc": "It looks harmless.",
-  "flags_raw": "ab 0 -100 S",
-  "stats1_raw": "7 12 4 3d10+30 2d6+1",
-  "stats2_raw": "0 2500",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "11 0 -100 E",
+  "stats1_raw": "7 17 9 1d1+144 5d1+2",
+  "stats2_raw": "105 3264 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/40.mob"
 }

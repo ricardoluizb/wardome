@@ -1,0 +1,45 @@
+{
+  "id": 17650,
+  "zone_id": 176,
+  "name": "Swiftest Way",
+  "description": "You are on Swiftest Way, the commoner's residential area.  Small houses\nare north and south of you.  Swiftest Way continues east and west.",
+  "header_raw": "176 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a small house.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17661
+    },
+    {
+      "dir": 1,
+      "description": "Swiftest Way continues east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17649
+    },
+    {
+      "dir": 2,
+      "description": "You see a small house.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17662
+    },
+    {
+      "dir": 3,
+      "description": "You see the end of Swiftest Way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17651
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/176.wld"
+}

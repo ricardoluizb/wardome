@@ -1,0 +1,21 @@
+{
+  "id": 30048,
+  "zone_id": 300,
+  "name": "A council chamber",
+  "description": "A pleasant but simple council chamber.  There are no paintings, ornaments or\nother distractions: just clean walls, a plush carpet and a long table with\nmatching chairs.  It is said that the White Council, the group of the Wise\nformed to resist Sauron, often met here to discuss policies and measures to\ncombat the Dark Lord.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30046
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

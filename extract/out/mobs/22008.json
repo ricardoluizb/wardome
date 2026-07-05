@@ -1,0 +1,12 @@
+{
+  "id": 22008,
+  "alias": "balrog large",
+  "short_desc": "a large balrog",
+  "long_desc": "A large winged balrog is here gazing at you with demonic red eyes",
+  "detailed_desc": "The Balrog is a winged creature with eyes which seem to pervade your being\nand tear your soul apart.",
+  "flags_raw": "4687944 0 0 E",
+  "stats1_raw": "70 -21 -5 1d1+3636 5d8+58",
+  "stats2_raw": "1050 1328062 3",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/220.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 14308,
+  "alias": "mob guard",
+  "short_desc": "the Pyramid guard",
+  "long_desc": "A Pyramid guard is here, watching out for graverobbers",
+  "detailed_desc": "This is a young man with a short, pointy beard and a shiny helmet on his head.\nHe looks as though he is well-trained, and takes his job very seriously.",
+  "flags_raw": "106506 0 0 E",
+  "stats1_raw": "60 -28 -12 1d1+6000 5d13+114",
+  "stats2_raw": "900 1036406 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/143.mob"
+}

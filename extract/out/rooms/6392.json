@@ -3,8 +3,8 @@
   "zone_id": 63,
   "name": "The Great Door",
   "description": "Before you you see a large, web-like door.  Various designs\nof ancient runes and names of Midgaard heroes are etched into\nthe webwork.  Perhaps lists of victims?  You can't tell.",
-  "header_raw": "63 d 2",
-  "flags_text": "d",
+  "header_raw": "63 8 2",
+  "flags_text": "8",
   "sector": 2,
   "exits": [
     {

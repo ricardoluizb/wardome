@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "At The Bottom Of The Mineshaft",
   "description": "You are at the bottom of the mineshaft.  The air here is very sooty, and\nit is very hard to breath.  The mineshaft leads up and east.",
-  "header_raw": "65 ad 0",
-  "flags_text": "ad",
+  "header_raw": "65 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

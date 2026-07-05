@@ -1,0 +1,21 @@
+{
+  "id": 17600,
+  "zone_id": 176,
+  "name": "Granny's Still Room",
+  "description": "You are in Granny Jenkins' still room.  The smell of whiskey is heady, and\nthe bottles of it on the floor make your mouth water and your mind swirl.  You\nalso see a very large still.  So THIS is why there are so many grain fields!\nThe exit is to the east.",
+  "header_raw": "176 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see the storage shed.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17616
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/176.wld"
+}

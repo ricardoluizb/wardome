@@ -4,9 +4,9 @@
   "short_desc": "the aged wizard",
   "long_desc": "An aged wizard is sleeping here.",
   "detailed_desc": "Dreams of magic and power are probably flowing through his head right\nnow, better not wake him up.",
-  "flags_raw": "afgh dk 350 S",
-  "stats1_raw": "20 5 -5 20d20+200 3d4+9",
-  "stats2_raw": "1567 37500",
-  "stats3_raw": "4 8 1",
+  "flags_raw": "233 1032 350 E",
+  "stats1_raw": "152 -56 -12 1d1+4248 5d16+60",
+  "stats2_raw": "2280 9738561 0",
+  "stats3_raw": "4 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

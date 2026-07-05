@@ -1,0 +1,45 @@
+{
+  "id": 6841,
+  "zone_id": 67,
+  "name": "A hall in the Assassins Guild",
+  "description": "You stand in a wide, dark hallway of the Assassins Guild. On the\nceiling spreads a gigantic mural of the black serpentlike naga,\na model of stealth and intelligence, in muted blue and black.\nAn elegant table stands against the wall, laid with a simple\nblack cloth and a few daggers.",
+  "header_raw": "67 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6844
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6842
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 0,
+      "key": 23,
+      "to": 6840
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "rug",
+      "door_flag": 1,
+      "key": 6781,
+      "to": 6843
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

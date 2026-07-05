@@ -1,0 +1,37 @@
+{
+  "id": 11712,
+  "zone_id": 117,
+  "name": "Walking by the cemetery road.",
+  "description": "You are walking through this small roud thinking where this path could lead\nyou.  To north is the road's beggining and to south is the continuation of this\nsad road.  To the west you can see another house.",
+  "header_raw": "117 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11711
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11715
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11714
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/117.wld"
+}

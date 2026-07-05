@@ -1,0 +1,21 @@
+{
+  "id": 562,
+  "zone_id": 5,
+  "name": "&YThe Wardome City Bank&n",
+  "description": "You stand in a large hall decorated with black marble and red satin.  Huge\npillars support an arched ceiling far above your head.  In the corner is a\nengine where you make your bank transactions.",
+  "header_raw": "5 24 1",
+  "flags_text": "24",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 559
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

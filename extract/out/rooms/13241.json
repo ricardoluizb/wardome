@@ -1,0 +1,21 @@
+{
+  "id": 13241,
+  "zone_id": 132,
+  "name": "The Queen's Bedroom",
+  "description": "This empty room belonged to the human Queen of Cloudy Mountain.  No one \nknow for sure how the queen died, but it is generally thought to be foul play.\nAlthough the marriage was widely celebrated publicly, many of the pure dragon\nnobles were against the marriage.  It has been rumored that Drakknar committed\nthis ghastly act, but those who know him well do not believe this.",
+  "header_raw": "132 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "the waiting room",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13240
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

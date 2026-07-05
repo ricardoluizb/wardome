@@ -1,0 +1,21 @@
+{
+  "id": 30303,
+  "zone_id": 303,
+  "name": "Red Team Castle Entrance",
+  "description": "undefined",
+  "header_raw": "303 68 0",
+  "flags_text": "68",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30304
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/303.wld"
+}

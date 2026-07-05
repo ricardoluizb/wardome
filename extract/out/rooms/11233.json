@@ -1,0 +1,21 @@
+{
+  "id": 11233,
+  "zone_id": 112,
+  "name": "The Constable's Office",
+  "description": "Slaughter without, order within; what sort of constable could just sit\nhere while his fellow guards and the citizens were being senselessly\nslaughtered outside? Strange indeed, considering that by all accounts\nHolst Brecker is a fine upstanding man with a deep seated sense of honor\nand justice. But he stands here, behind his desk, staring outside at\napparently nothing.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11231
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

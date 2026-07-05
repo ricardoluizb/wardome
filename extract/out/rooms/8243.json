@@ -1,0 +1,21 @@
+{
+  "id": 8243,
+  "zone_id": 82,
+  "name": "The Magic Shop Of France",
+  "description": "You are in a small tent made out of blue cloth. In this tent you can\nbuy many intresting things like magic potions.",
+  "header_raw": "82 144 0",
+  "flags_text": "144",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8242
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 1640,
+  "zone_id": 16,
+  "name": "Second Level of the Western Tower",
+  "description": "You are in the center of the western tower's second floor.  A large spiral\nstaircase of 29 steps connects this level with the third.  There are doors\nto the east and west.  Except for a torch bracket in each corner, the\nroom is barren.",
+  "header_raw": "16 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1637
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1641
+    },
+    {
+      "dir": 4,
+      "description": "You see the spiral staircase leading up.",
+      "keywords": "trapdoor",
+      "door_flag": 2,
+      "key": 1665,
+      "to": 1642
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

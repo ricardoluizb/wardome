@@ -1,0 +1,29 @@
+{
+  "id": 2749,
+  "zone_id": 27,
+  "name": "Bree General Store",
+  "description": "You are in the general store of Bree.  Basic equipment is sold here.  A\ntraveler can find almost any basic piece of equipment that he needs in this\nshop.  The prices are reasonable and the storekeeper is nice, but don't try to\nsteal anything or he might get mad.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2750
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2748
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 748,
+  "alias": "digger gravedigger",
+  "short_desc": "the gravedigger",
+  "long_desc": "A gravedigger works away the nightshift here.",
+  "detailed_desc": "He looks tired and dirty.  A glare out of the corner of his eye, and\nhe dismisses you easily.  He doesn't seem to care one whit about you.",
+  "flags_raw": "10 128 200 E",
+  "stats1_raw": "30 -5 -2 1d1+2040 5d7+62",
+  "stats2_raw": "450 137671 5",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

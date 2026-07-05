@@ -1,0 +1,37 @@
+{
+  "id": 1821,
+  "zone_id": 18,
+  "name": "The Guard's Dining Hall",
+  "description": "Statues of Odin and Thor decorate this\nlavish hall complete with benches and dining\ntables for a thousand warriors. You hear\nsounds of song and cheer and begin to understand\nhow the alliance of Frost Giants and gnomes came\nabout.  There are exits to the south and north and a\nroom to the east.",
+  "header_raw": "18 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1823
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1822
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1812
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/18.wld"
+}

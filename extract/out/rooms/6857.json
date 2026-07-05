@@ -1,0 +1,29 @@
+{
+  "id": 6857,
+  "zone_id": 67,
+  "name": "Some battered stone steps",
+  "description": "Broad, shallow stairs of dark stone descend into a hallway warm\nwith the heat of sparring warriors. Above you the sounds of the\nalehouse distract you with bawdy laughter. A doorway is west,\nbruised with sword-points.",
+  "header_raw": "67 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6752
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6748
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

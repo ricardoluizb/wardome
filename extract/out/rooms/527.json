@@ -1,0 +1,45 @@
+{
+  "id": 527,
+  "zone_id": 5,
+  "name": "&cFirst Street&n",
+  "description": "You are in the first street, to the north you can find the\nGeneral Store and to the south you can see the Water shop.\nLeading east you will leave the town and west you will find\nyourself in the Market Square.",
+  "header_raw": "5 4 0",
+  "flags_text": "4",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 531
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 502,
+      "to": 3502
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 535
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 526
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

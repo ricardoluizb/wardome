@@ -1,0 +1,26 @@
+{
+  "id": 2136,
+  "zone_id": 21,
+  "name": "The City Streets",
+  "description": "Small houses line both sides of the street, and armed guards are posted at\nevery junction.  You see a small poster pasted to the wall here.",
+  "header_raw": "21 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2135
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "poster small",
+      "description": "The poster reads:\n\nGreat rewards will be given to anyone who can rescue the benevolent King Relnar."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/21.wld"
+}

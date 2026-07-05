@@ -1,0 +1,21 @@
+{
+  "id": 11260,
+  "zone_id": 112,
+  "name": "An Empty Chamber",
+  "description": "The interior of this small room is dark, unnaturally so; even your\nstrong light cannot penetrate far into the gloom. You are able to make\nout vague shapes of abandoned furniture and something small moving\nfurtively amongst them. The effect is eerie, and you unconsciously tighten\nyour grip on your weapon.",
+  "header_raw": "112 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11258
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

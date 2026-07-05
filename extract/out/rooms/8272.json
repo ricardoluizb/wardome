@@ -1,0 +1,37 @@
+{
+  "id": 8272,
+  "zone_id": 82,
+  "name": "A Hall In the H.Q.",
+  "description": "You are in a big hall, in front of you is a intern fountain of green marble,\nbut there is a chain that doesnt let you pass. From here you can go east or\nwest that leads you to a corridor inside the Musketeer H.Q. or go back to the\nentrace south.",
+  "header_raw": "82 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8273
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8270
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8286
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

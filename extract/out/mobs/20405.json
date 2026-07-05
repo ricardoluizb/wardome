@@ -1,0 +1,12 @@
+{
+  "id": 20405,
+  "alias": "Bodyguard",
+  "short_desc": "Bodyguard",
+  "long_desc": "A Bodyguard is here, ready to kill you.",
+  "detailed_desc": "A large Ant that was designed to protect its Anthill.",
+  "flags_raw": "2058 1083179144 0 E",
+  "stats1_raw": "0 0 -180 -40d10+1 1d100+5",
+  "stats2_raw": "121 420 14300",
+  "stats3_raw": "10 8 8 1 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/204.mob"
+}

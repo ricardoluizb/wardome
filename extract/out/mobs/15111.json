@@ -1,0 +1,12 @@
+{
+  "id": 15111,
+  "alias": "wandering chicken",
+  "short_desc": "the chicken",
+  "long_desc": "A chicken wanders by you, no concerns in life but to cluck.",
+  "detailed_desc": "Sometimes you wonder if life would be better as a chicken.",
+  "flags_raw": "136 0 0 E",
+  "stats1_raw": "90 -27 -5 1d1+3240 5d10+46",
+  "stats2_raw": "1350 2623130 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/151.mob"
+}

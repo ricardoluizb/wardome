@@ -2,9 +2,9 @@
   "id": 6092,
   "zone_id": 60,
   "name": "A Road Through The Plains",
-  "description": "You are on a dust covered east-west road crossing the grassy plains between\nMidgaard the forest of Haon-Dor.  An occasional hunter or adventurer can be \nseen, heading to or from the forest.  To the east is the walled city, Midgaard, \nand to the west the road continues towards a large forest.",
-  "header_raw": "60 c 1",
-  "flags_text": "c",
+  "description": "You are on a dust covered east-west road crossing the grassy plains between\nWarDome City the forest of Haon-Dor.  An occasional hunter or adventurer can be\nseen, heading to or from the forest.  To the east is the WarDome City, and to \nthe west the road continues towards a large forest.",
+  "header_raw": "60 0 1",
+  "flags_text": "0",
   "sector": 1,
   "exits": [
     {
@@ -12,8 +12,8 @@
       "description": "To the east you see the walls and West Gate of Midgaard.",
       "keywords": "",
       "door_flag": 0,
-      "key": -1,
-      "to": 3052
+      "key": 502,
+      "to": 523
     },
     {
       "dir": 3,

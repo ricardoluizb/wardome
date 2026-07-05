@@ -1,0 +1,12 @@
+{
+  "id": 24523,
+  "alias": "one marked",
+  "short_desc": "the marked one",
+  "long_desc": "A marked one is here, preparing for the final battle.",
+  "detailed_desc": "The marked one has chosen the side of evil for\nthe final conflict. He seems to be suffering from a pox.",
+  "flags_raw": "74 40 400 E",
+  "stats1_raw": "105 -36 -8 1d1+4620 5d11+62",
+  "stats2_raw": "1575 4126799 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/245.mob"
+}

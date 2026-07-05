@@ -1,0 +1,29 @@
+{
+  "id": 17008,
+  "zone_id": 170,
+  "name": "Inside the Big Cave",
+  "description": "You are standing inside the Big Cave. Each pass you go the cave is becoming\ndarker. You feel that this place is the house of a great animal. The pictures\nin the wall are increasing. All of them have a history. But you don't\nunderstand anyone.",
+  "header_raw": "170 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "It's to dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17009
+    },
+    {
+      "dir": 3,
+      "description": "It's too dark, but you see the light of the entrance of the cave.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17006
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/170.wld"
+}

@@ -1,0 +1,35 @@
+{
+  "id": 6712,
+  "producing": [
+    6724
+  ],
+  "profit_buy": 1.0,
+  "profit_sell": 1.0,
+  "buy_types": [
+    "4",
+    "3",
+    "2"
+  ],
+  "messages": [
+    "%s I offer no such thing! Try list.",
+    "%s You lack the item in question.",
+    "%s The price of this is beyond my means.",
+    "%s You can't afford to purchase this!",
+    "%s I buy the tools of magicians only.",
+    "%s %d coins, thank you.",
+    "%s You'll have %d coins for that."
+  ],
+  "tail": [
+    2,
+    2,
+    6730,
+    0,
+    6712,
+    -1,
+    0,
+    28,
+    0,
+    0
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/67.shp"
+}

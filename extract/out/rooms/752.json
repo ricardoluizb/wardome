@@ -1,0 +1,21 @@
+{
+  "id": 752,
+  "zone_id": 7,
+  "name": "Mages' Guild Storeroom",
+  "description": "The Mage's Guild of Kerofk store their supplies here.  There are\nneat stacks of blank scrolls, quills, ink, unenchanted wands and\nstaves, empty vials, and everything else the professional mage could\nwant.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 723,
+      "to": 749
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

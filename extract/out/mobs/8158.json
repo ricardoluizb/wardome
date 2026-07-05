@@ -1,0 +1,12 @@
+{
+  "id": 8158,
+  "alias": "goblin",
+  "short_desc": "the goblin",
+  "long_desc": "A goblin pumps the great forge-bellows here.",
+  "detailed_desc": "He works at a furious pace as the overseer cracks his whip, to keep \nthe goblins' iron furnace white-hot.",
+  "flags_raw": "6248 1024 -250 E",
+  "stats1_raw": "159 -81 -30 1d1+18444 5d46+172",
+  "stats2_raw": "2385 19422044 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

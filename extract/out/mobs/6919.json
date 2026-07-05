@@ -1,0 +1,12 @@
+{
+  "id": 6919,
+  "alias": "slave",
+  "short_desc": "a slave",
+  "long_desc": "A slave sits here working for his master.",
+  "detailed_desc": "It looks unfinished.  This is really sad.  He gets whipped and whipped by\nthe dungeon ruler, who makes him work all day long for nothing.  He has marks\nall over his body from a whip.",
+  "flags_raw": "3658 8388616 -900 E",
+  "stats1_raw": "179 -69 -16 1d1+5004 5d18+70",
+  "stats2_raw": "2685 15667085 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/69.mob"
+}

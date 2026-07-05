@@ -1,0 +1,45 @@
+{
+  "id": 11511,
+  "zone_id": 115,
+  "name": "Broadway",
+  "description": "You are on the 300 block of Broadway, though you wouldn't be able to tell\nthat because someone has stolen the street sign (probably ;a bunch of bored\ncollege students).  To the east is the Weapons Shop, and to the west is the\nSeven- Eleven.  Broadway continues north and south of here.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11516
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11517
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11506
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11518
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

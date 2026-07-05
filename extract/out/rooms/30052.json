@@ -1,0 +1,29 @@
+{
+  "id": 30052,
+  "zone_id": 300,
+  "name": "The shipyards",
+  "description": "The shipyards of the Grey Havens.  Magnificent seacraft are constructed here by\nthe skilled tradesmen of the region.  Only one major ship is being built here\nat the moment and it is only in the early stages of production.  Piles of ship\nbuilding materials line the docks including rope, canvas and a single great\nanchor.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30053
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30051
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

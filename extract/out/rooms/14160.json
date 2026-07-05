@@ -1,0 +1,21 @@
+{
+  "id": 14160,
+  "zone_id": 141,
+  "name": "Pub",
+  "description": "You are in a happy little pub.  There are many little tables and\ncitizens are talking here.",
+  "header_raw": "141 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14161
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

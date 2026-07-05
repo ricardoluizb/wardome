@@ -1,0 +1,244 @@
+{
+  "id": 39,
+  "name": "Wardome - Old Thalos Library",
+  "header": {
+    "raw": "3999 30 2 1 -1",
+    "min_room": 3999,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3903,
+        10,
+        3920
+      ],
+      "comment": "(The Library Mage)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3902,
+        10,
+        0
+      ],
+      "comment": "(a small ball of light )"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3906,
+        1,
+        3920
+      ],
+      "comment": "(Denubis Manager)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3905,
+        1,
+        22
+      ],
+      "comment": "(the dirty key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3902,
+        10,
+        3920
+      ],
+      "comment": "(a Scholar)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        3900,
+        1,
+        3920
+      ],
+      "comment": "(a dirty chest)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        3904,
+        1,
+        3900
+      ],
+      "comment": "(The Book of Blindness)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3905,
+        1,
+        3902
+      ],
+      "comment": "(Parlin Majere)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3901,
+        1,
+        16
+      ],
+      "comment": "(&bMajere&n Staff)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3901,
+        2,
+        3901
+      ],
+      "comment": "(The Metal Golem)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3903,
+        2,
+        22
+      ],
+      "comment": "(a soulrune Stone )"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3902,
+        4,
+        3901
+      ],
+      "comment": "(a Scholar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3903,
+        10,
+        3901
+      ],
+      "comment": "(The Library Mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3903,
+        10,
+        3904
+      ],
+      "comment": "(The Library Mage)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3902,
+        10,
+        0
+      ],
+      "comment": "(a small ball of light )"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3903,
+        10,
+        3905
+      ],
+      "comment": "(The Library Mage)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3902,
+        10,
+        0
+      ],
+      "comment": "(a small ball of light )"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3904,
+        1,
+        3919
+      ],
+      "comment": "(Sora, the thief)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3903,
+        10,
+        3915
+      ],
+      "comment": "(The Library Mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3903,
+        10,
+        3906
+      ],
+      "comment": "(The Library Mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3903,
+        10,
+        3903
+      ],
+      "comment": "(The Library Mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3900,
+        2,
+        3900
+      ],
+      "comment": "(the Library Guardian)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3900,
+        2,
+        3900
+      ],
+      "comment": "(the Library Guardian)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/39.zon"
+}

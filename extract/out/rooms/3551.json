@@ -3,8 +3,8 @@
   "zone_id": 35,
   "name": "Deep In The Forest Of Miden'nir",
   "description": "The branches above you block out all direct sunlight, making\nthe forest in this area very dark.  The forest continues west,\nbut mountains block further exploration in all other directions,\nexcept south, where you notice a small tunnel dug into the\nmountainside.",
-  "header_raw": "35 a 3",
-  "flags_text": "a",
+  "header_raw": "35 1 3",
+  "flags_text": "1",
   "sector": 3,
   "exits": [
     {

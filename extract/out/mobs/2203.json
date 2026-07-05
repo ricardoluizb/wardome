@@ -1,0 +1,12 @@
+{
+  "id": 2203,
+  "alias": "oldstyle man mage wizard",
+  "short_desc": "a powerful mage",
+  "long_desc": "A man is here, studying some books.",
+  "detailed_desc": "A powerful looking mage is standing in this room studying his spells.  You are\nsurprised at the fact that he is human, and realize that he must be very\npowerful to have been accepted by the creatures which live here.",
+  "flags_raw": "42 1194 -900 E",
+  "stats1_raw": "160 -76 -26 1d1+14712 5d33+144",
+  "stats2_raw": "2400 16146158 8",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/22.mob"
+}

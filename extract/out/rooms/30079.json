@@ -1,0 +1,21 @@
+{
+  "id": 30079,
+  "zone_id": 300,
+  "name": "Grey Havens Mailroom",
+  "description": "The mailroom of the Grey Havens.  Amazingly you can send to and receive mail\nfrom many other distant locations throughout Middle Earth.",
+  "header_raw": "300 28 1",
+  "flags_text": "28",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30006
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

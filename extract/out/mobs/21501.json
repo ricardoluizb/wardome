@@ -1,0 +1,12 @@
+{
+  "id": 21501,
+  "alias": "aberration Skincrawler",
+  "short_desc": "Skincrawler",
+  "long_desc": "a aberration worned a huge carapace is near you, ready to attack.",
+  "detailed_desc": "It looks unfinished.",
+  "flags_raw": "43016 1064 0 E",
+  "stats1_raw": "20 4 2 1d1+1032 5d3+38",
+  "stats2_raw": "300 46736 3",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/215.mob"
+}

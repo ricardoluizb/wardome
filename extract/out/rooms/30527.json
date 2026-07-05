@@ -1,0 +1,29 @@
+{
+  "id": 30527,
+  "zone_id": 305,
+  "name": "The Sewer",
+  "description": "You are walking in this dirty sewer, what are you trying to find here?  Go\nkill some mobs!!!    \n  The sewer continues west and east.",
+  "header_raw": "305 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30538
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30528
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/305.wld"
+}

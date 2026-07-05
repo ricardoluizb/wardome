@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "The Stairs",
   "description": "You are standing by a staircase leading down.  As you look down,\nyou notice that for the first time since you entered the castle,\nthings are not aesthetically made.  Instead it looks more functional\nand prison-like.",
-  "header_raw": "150 d 0",
-  "flags_text": "d",
+  "header_raw": "150 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

@@ -1,0 +1,29 @@
+{
+  "id": 31005,
+  "zone_id": 310,
+  "name": "Crius's Board",
+  "description": "When Crius reach this point he writted on a stone board a message to the\nother Titans, telling then de path to the sky. The Stone Board still here\nand some other peoples writted other messages on it.\nExits goes Down.",
+  "header_raw": "310 132 1",
+  "flags_text": "132",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "Gate",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": 0,
+      "to": 31006
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 31004
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/310.wld"
+}

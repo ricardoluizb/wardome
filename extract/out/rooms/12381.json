@@ -1,0 +1,21 @@
+{
+  "id": 12381,
+  "zone_id": 122,
+  "name": "Niflheim",
+  "description": "Blasted, twisted trees sprout haphazardly from broken, uneven ground\nlittered with decaying corpses and burnt skulls. Impaled humans howl\nand scream in pain as they dangle from the horrid implements thrust\nthrough their bellies. Blood drips from the blackened walls, flowing\ninto large pools at your feet. The smell is as diabolical as one would\nexpect in such a dire place.",
+  "header_raw": "122 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12382
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

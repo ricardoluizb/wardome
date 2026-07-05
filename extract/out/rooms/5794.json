@@ -1,0 +1,37 @@
+{
+  "id": 5794,
+  "zone_id": 57,
+  "name": "A Bend",
+  "description": "You have entered into a bend in the passage, where you can head west toward\na junction, or south along a long dark passageway. There is also a heavy\noaken portal to the north, wich has a rubber skirt along the base, and heavy\nrubber insulation along the sides...",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "gas room",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5795
+    },
+    {
+      "dir": 2,
+      "description": "a long passageway",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5787
+    },
+    {
+      "dir": 3,
+      "description": "a junction",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5793
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

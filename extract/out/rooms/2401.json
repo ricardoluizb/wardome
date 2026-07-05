@@ -1,0 +1,34 @@
+{
+  "id": 2401,
+  "zone_id": 24,
+  "name": "&CL&cos&Ct &YC&yo&Yi&yn&Ys &GDream&BLand&n",
+  "description": "This is the center of the fortress, drunken beggars, insane bards, lost\nchilds, dead warriors, you can find the almost any kind of person here, which\nfits the kingdoms purpose, its obvious.  Among medics, wounded soldiers, guards\npull a carriage, fullfiled of swords, armors and other equipment, wich\neventually were lost at the battlefield, and now they come back for re-forging.\nIn the center of the crossroads, there is a sandstone fountain, adorned in pure\nsteel, some coins are spread by the fountains.  Usually warriors come to the\nfountain after and before a battle to fill their water canteens.    \n\n\n&cThe last banner is posted here, type read banner to see.",
+  "header_raw": "24 68 0",
+  "flags_text": "68",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2402
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 0,
+      "key": 2403,
+      "to": 2400
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "banner",
+      "description": "Heart of Steel\n\nBuild A Fire A Thousand Miles Away\nTo Light My Long Way Home\nI Ride A Comet\nMy Trail Is Long To Stay\nSilence Is A Heavy Stone\nI Fight The World And Take All They Can Give\nThere Are Times My Heart Hangs Low\nBorn To Walk Against The Wind\nBorn To Hear My Name\nNo Matter Where I Stand Im Alone\n\nStand And Fight\nLive By Your Heart\nAlways One More Try\nIm Not Afraid To Die\nStand And Fight\nSay What You Feel\nBorn With A Heart Of Steel\n\nBurn The Bridge Behind You Leave No Retreat\nTheres Only One Way Home\nThose Who Laugh And Crowd The Path\nAnd Cut Each Other's Throats\nWill Fall Like Melting Snow\nTheyll Watch Us Rise With Fire In Our Eyes\nTheyll Bow Their Heads\nTheir Hearts Will Hang Low\nThen Well Laugh And They Will Kneel\nAnd Know This Heart Of Steel\nWas Too Hard To Break\nToo Hard To Hold..."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/24.wld"
+}

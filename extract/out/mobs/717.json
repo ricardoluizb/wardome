@@ -1,0 +1,12 @@
+{
+  "id": 717,
+  "alias": "secretary",
+  "short_desc": "the Secretary",
+  "long_desc": "The secretary pops his gum and asks you what you want.",
+  "detailed_desc": "The secretary is a bored, out-of-place looking man, until you spot the\nhidden daggers in his sleeve, boot, shirt, down his back, etc.  (not\ntoo good at hiding them, is he?).  Obviously, this man is here more to\nprotect the mayor than to do office work.",
+  "flags_raw": "10 128 0 E",
+  "stats1_raw": "100 -40 -12 1d1+6792 5d21+90",
+  "stats2_raw": "1500 3791433 5",
+  "stats3_raw": "6 6 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

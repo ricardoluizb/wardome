@@ -1,0 +1,21 @@
+{
+  "id": 418,
+  "zone_id": 4,
+  "name": "&GCasa do Shi&n",
+  "description": "&g   Bem vindo(a) a casa do Shi, a casa mais massa de todo o Wardome!&n\n&gFique a vontade ae... sinta-se em casa!&n\n&g   Aqui, voce pode ver alguns objetos pessoais do Shi, e a leste, voce\nve a porta que leva ao corredor do castelo.&n",
+  "header_raw": "4 1079304 0",
+  "flags_text": "1079304",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "&gDeste lado, voce ve a porta que leva de volta ao corredor do castelo.&n",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 404
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/4.wld"
+}

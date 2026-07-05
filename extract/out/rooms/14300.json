@@ -1,0 +1,45 @@
+{
+  "id": 14300,
+  "zone_id": 143,
+  "name": "The Middle of the Desert",
+  "description": "The desert reaches out as far as you can see in all directions. You see a\nfaint speck on the south horizon.",
+  "header_raw": "143 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Could this be the way out of the desert?  naaaaa..",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14300
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 14300
+    },
+    {
+      "dir": 2,
+      "description": "The desert expands to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14301
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 14300
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

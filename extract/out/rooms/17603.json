@@ -1,0 +1,21 @@
+{
+  "id": 17603,
+  "zone_id": 176,
+  "name": "The Blacksmith",
+  "description": "You are in a black and smelly room.  Pieces of metal are strewn all over\nthe floor, and a wave of heat from a big furnace hits you.  An anvil sits on \none side of the room, and on the other side is a workbench.  The exit is east.",
+  "header_raw": "176 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see Impy Way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17602
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/176.wld"
+}

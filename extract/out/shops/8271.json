@@ -1,0 +1,36 @@
+{
+  "id": 8271,
+  "producing": [
+    3101,
+    3010,
+    3308,
+    8271,
+    19019,
+    8285
+  ],
+  "profit_buy": 3.5,
+  "profit_sell": 1.0,
+  "buy_types": [],
+  "messages": [
+    "%s Sorry, I don't stock that item.",
+    "%s You don't seem to have that.",
+    "%s I don't trade in such items.",
+    "%s I can't afford that!",
+    "%s You are too poor!",
+    "%s That'll be %d coins, thanks.",
+    "%s I'll give you %d coins for that."
+  ],
+  "tail": [
+    0,
+    2,
+    8271,
+    34,
+    8271,
+    -1,
+    6,
+    18,
+    6,
+    18
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/82.shp"
+}

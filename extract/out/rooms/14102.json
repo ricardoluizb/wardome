@@ -1,0 +1,29 @@
+{
+  "id": 14102,
+  "zone_id": 141,
+  "name": "New Magincia Road",
+  "description": "The path continues to the south and the north.  You see the\ntracks of sheep here.",
+  "header_raw": "141 64 1",
+  "flags_text": "64",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The path continues to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14101
+    },
+    {
+      "dir": 2,
+      "description": "There is a shimmering light to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14103
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

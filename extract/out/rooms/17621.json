@@ -1,0 +1,45 @@
+{
+  "id": 17621,
+  "zone_id": 176,
+  "name": "Dirt Road",
+  "description": "You are on a dirt road.  To the north and south, you see some grass \nfields.  There is a pigsty west, and the dirt road continues east.",
+  "header_raw": "176 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see some grass fields.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17622
+    },
+    {
+      "dir": 1,
+      "description": "You see the dirt road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17618
+    },
+    {
+      "dir": 2,
+      "description": "You see some grass fields.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17623
+    },
+    {
+      "dir": 3,
+      "description": "You see the pigsty.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17624
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/176.wld"
+}

@@ -4,9 +4,9 @@
   "short_desc": "the guardian naga",
   "long_desc": "The guardian naga looks kindly at you.",
   "detailed_desc": "The naga are a snake-liked creature.  She is covered in green-gold scales\nwith silvery triangles along her back.  Her eyes are golden.  She notices\nthat you are staring at her, and she says 'Watch out.  This way leads to\nsome evil creatures.'",
-  "flags_raw": "b k 700 S",
-  "stats1_raw": "12 9 2 1d18+148 2d7+1",
-  "stats2_raw": "100 13500",
-  "stats3_raw": "8 8 2",
+  "flags_raw": "10 1024 700 E",
+  "stats1_raw": "12 14 8 1d1+252 5d2+4",
+  "stats2_raw": "180 10839 0",
+  "stats3_raw": "8 8 2 3 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/70.mob"
 }

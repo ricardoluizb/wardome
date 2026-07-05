@@ -4,9 +4,9 @@
   "short_desc": "the baker",
   "long_desc": "The baker looks at you calmly, wiping flour from his face with one hand.",
   "detailed_desc": "A fat, nice looking baker.  But you can see that he has many scars on his\nbody.",
-  "flags_raw": "bl d 900 S",
-  "stats1_raw": "33 0 -10 6d10+30000 2d8+22",
-  "stats2_raw": "2000 80000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "26634 8 900 E",
+  "stats1_raw": "30 5 5 1d1+630 5d4+12",
+  "stats2_raw": "450 105901 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/120.mob"
 }

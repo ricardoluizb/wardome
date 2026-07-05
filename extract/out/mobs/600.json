@@ -1,0 +1,12 @@
+{
+  "id": 600,
+  "alias": "acolyte cleric",
+  "short_desc": "the acolyte of Frag",
+  "long_desc": "An acolyte of Overlord Frag is here, grinning at you.",
+  "detailed_desc": "He is big and bad.  Don't mess with him.",
+  "flags_raw": "74 136 0 E",
+  "stats1_raw": "1000 30 6 5d1+1 630d10+4",
+  "stats2_raw": "12 450 105901",
+  "stats3_raw": "0 8 0 1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/6.mob"
+}

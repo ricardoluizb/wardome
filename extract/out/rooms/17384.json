@@ -1,0 +1,42 @@
+{
+  "id": 17384,
+  "zone_id": 173,
+  "name": "The Grassy Plains",
+  "description": "You spend a week travelling through a great grassy plain. You have crossed \nseveral baronies in you travels. You have encounterd knights and pilgrims \non your journey, and slept in many a hayloft and haystack. The farmland is \nproductive here, and there have been many horse ranches, in which the fine \nsteeds of Camelot are produced. At present you stand in a strange stone \nformation in the vast plain. The road stretches west to the rolling hills, \nand east to the rocky coast.",
+  "header_raw": "173 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The rocky coast",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17386
+    },
+    {
+      "dir": 3,
+      "description": "The rolling hills",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17382
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "stone strange formation",
+      "description": "You look at the stone formation. The stones stand about 15' tall an are \narranged in a circular series of frames, with two stones stacked on end \nand one laid across the tops of the other two. There is a stone table in \nthe center of the formation, upon which the first light of day is striking."
+    },
+    {
+      "keywords": "table",
+      "description": "You walk up to the table and examine it. It has rusty brown stains on it-\nBLOOD! You examine the ground around the table and find fleece. Obviously \nthis is an altar. You can just make out some lettering on the stone."
+    },
+    {
+      "keywords": "lettering",
+      "description": "The lettering says:\n\n LACNOGIRANDUTOS ROYU AYLGPIN LILSK SI BLAMMENEDOC"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

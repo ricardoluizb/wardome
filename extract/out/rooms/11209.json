@@ -1,0 +1,45 @@
+{
+  "id": 11209,
+  "zone_id": 112,
+  "name": "Main Street",
+  "description": "Main street runs south here, past several neatly manicured gardens and\nmore spacious, comfortable dwellings, while to the north it bends\neastward, heading towards the entrance to the town. You notice a dog,\nsitting listlessly in the gutter, ignoring your attempts to provoke him\ninto playing with stick or ball. The air here is still, and the ambient\nnoise level is contributed to only by you or the noise of shuffling\nvillagers' feet.",
+  "header_raw": "112 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11206
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11211
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11212
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11210
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

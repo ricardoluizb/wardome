@@ -1,0 +1,29 @@
+{
+  "id": 2019,
+  "zone_id": 20,
+  "name": "Royalty",
+  "description": "You have descended into an intimate amphitheatre of abandon where\nexhibitionists and voyeurs are welcome (and encouraged) to play. Far above you, a large crack in the domed ceiling reveals a myriad of dark constellations. \nThe morning star winks mischieveously on the horizon.  A low stage, covered\nwith soft, luxurious cushions, is surrounded by a reviewing stand rising\nabove it on all sides.  The stands are padded and cozy, allowing watchers to\nlounge or indulge themselves in the shadows.  The stage is surrounded by\nsoft, low candlelights, the players move slow to the music. Two large thrones\nsit at the front of the stage for the King and his Queen to view the\nscenes.",
+  "header_raw": "20 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2020
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2018
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

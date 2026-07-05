@@ -1,0 +1,29 @@
+{
+  "id": 9137,
+  "zone_id": 91,
+  "name": "Cold, damp cloud.",
+  "description": "Your mood grows grumpy as you find yourself cold and wet from this\ndismal cloud.  You notice a rock outcropping above you.",
+  "header_raw": "91 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "There is a pure white cloud east of you.  It is snowing!",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9136
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9138
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

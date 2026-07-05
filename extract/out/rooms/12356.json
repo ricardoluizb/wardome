@@ -1,0 +1,29 @@
+{
+  "id": 12356,
+  "zone_id": 122,
+  "name": "Plunging into the Depths",
+  "description": "You sink like a stone as you hit the water, quickly swept under by the\nraging sea, which quickly becomes apparent is a blessing; if you can\nsurvive here, it is much more pleasant than the surface. Schools of\nfish swim past while larger predators dart here and there, snapping at\nthem as they flee into the deep blue waters. The water is cold, but is\nkept from freezing you by a warm current that rises from far below the\nsurface. This haven from the tempest atop is welcome indeed!",
+  "header_raw": "122 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12353
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12357
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

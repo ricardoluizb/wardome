@@ -1,0 +1,37 @@
+{
+  "id": 8287,
+  "zone_id": 82,
+  "name": "A French Stable",
+  "description": "You are in the stable where the horses of the Musketeers sleep at night, this\nplace smells awful, you dont know for how much time this horses havent had a\nbath. In this room the only thing that you see are horses and a lot of velvet\nglass which the horses are eating.",
+  "header_raw": "82 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 8286
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

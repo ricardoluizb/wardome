@@ -4,9 +4,9 @@
   "short_desc": "the undead giant",
   "long_desc": "An undead giant lumbers towards you.",
   "detailed_desc": "This thing seems to be the reanimated corpse of a giant, creating an\nenormous zombie.",
-  "flags_raw": "cfgnopr dk -500 S",
-  "stats1_raw": "18 5 -4 18d18+180 3d5+10",
-  "stats2_raw": "0 22000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "188524 1032 -500 E",
+  "stats1_raw": "148 -54 -12 1d1+4140 5d15+58",
+  "stats2_raw": "2220 9013866 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

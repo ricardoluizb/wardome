@@ -3,8 +3,8 @@
   "zone_id": 60,
   "name": "Out On A Limb In A Large Oak",
   "description": "This sturdy branch hangs far out over a path to the west, which you might\nbe able to jump down to.  Several squirrels scamper into hiding as you\napproach, leaving you alone and swaying slightly with the wind.  To your north\nyou can see a small log cabin through the trees, and to the southeast there\nseems to be some sort of clearing, with many birds circling above it.",
-  "header_raw": "60 c 3",
-  "flags_text": "c",
+  "header_raw": "60 4 3",
+  "flags_text": "4",
   "sector": 3,
   "exits": [
     {

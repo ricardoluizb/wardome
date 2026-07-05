@@ -3,8 +3,8 @@
   "zone_id": 62,
   "name": "A Cave",
   "description": "A few sleeping pallets, made of moldy straw and \nstinking furs are arranged around a small firepit here.  \nA wooden cup, carved by a crude tool and cruder hands \nsits near the ashes filled with water you consider \nundrinkable.  Somewhere to the east you hear an orc \nchild's whining cry, and a voice hushes it urgently.  \nBeware, orcs!  Adventurers are here!  Hide your children!",
-  "header_raw": "62 d 4",
-  "flags_text": "d",
+  "header_raw": "62 8 4",
+  "flags_text": "8",
   "sector": 4,
   "exits": [
     {

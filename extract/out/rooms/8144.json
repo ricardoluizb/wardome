@@ -1,0 +1,29 @@
+{
+  "id": 8144,
+  "zone_id": 81,
+  "name": "The Spiral Tunnel",
+  "description": "The tunnel slopes gradually down, turning round and round in its path\nto the goblin city.  Whatever madness brought you here, it is too late\nto curse your foolishness, for goblins lie both before you and behind.",
+  "header_raw": "81 9 3",
+  "flags_text": "9",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "A stream of water flows from this direction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8143
+    },
+    {
+      "dir": 5,
+      "description": "The tunnel spirals ever farther into the rock.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8145
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

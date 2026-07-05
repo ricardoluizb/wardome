@@ -1,0 +1,29 @@
+{
+  "id": 9140,
+  "zone_id": 91,
+  "name": "Tower.",
+  "description": "You are in a musty old tower.  The smell of mold and mildew is\nalmost overpowering.  You hear strange creaks and groans ... is it\nthe wind or did someone (something?) make that noise.  To the west\nis the house and there is a stairway leading up into the tower.",
+  "header_raw": "91 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9139
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9141
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

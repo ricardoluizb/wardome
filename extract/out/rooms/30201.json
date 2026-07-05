@@ -1,0 +1,29 @@
+{
+  "id": 30201,
+  "zone_id": 302,
+  "name": "&MB&mridge&c of the &BC&bastle&n",
+  "description": "You're in the bridge of the castle.  You feel yourself astonished with the\nconstruction, it transmits a noble and imponent air.  There is a lake around\nthe castle for better protection, and this is the reason of the existence of\nthis large bridge that you are steping on.  There are two magnificent\nobservation towers keeping the bridge, and behind them, you still can see in a\nhigh distance the superior part of the castle.  You dive in your mind thinking\nwho could build a so beautiful architectural workmanship,with all the aspects\nof a great fortress, but still with a noble air.    \nThis is all you are able to appreciate of this place if you are not a\nPurple Dragon.",
+  "header_raw": "302 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30202
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 5672
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/302.wld"
+}

@@ -4,9 +4,9 @@
   "short_desc": "the squirrel",
   "long_desc": "A squirrel spots you and runs around a tree!",
   "detailed_desc": "It is a small, brown squirrel.  Kind of like a\nfuzzy high-tension spring.",
-  "flags_raw": "h 0 0 S",
-  "stats1_raw": "0 20 -10 1d3+0 1d1+1",
-  "stats2_raw": "0 10",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "136 0 0 E",
+  "stats1_raw": "1 20 10 1d1+18 5d1+0",
+  "stats2_raw": "15 196 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/62.mob"
 }

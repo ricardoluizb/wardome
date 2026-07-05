@@ -1,0 +1,29 @@
+{
+  "id": 1015,
+  "zone_id": 10,
+  "name": "The Bell Tower",
+  "description": "You stand in a small room at the top of the old wooden staircase.  An\nexit to the west leads into what must certainly be the main bell room.\nLoud chimes peal their solemn tones which, due to your certain proximity,\nleave your ears ringing.\n   Even though you can hear the beautiful bell tones, the creaking of the\nstairs below is quite disturbing, as is the unsteady floor upon which you\nstand.",
+  "header_raw": "10 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "Looking westwards, you can see the dim light creating eerie shadows with\nthe objects in the room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1018
+    },
+    {
+      "dir": 5,
+      "description": "As you look down you can see that this stairway is swaying from side to\nside with every movement you make.  Surely that cannot be safe.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1014
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

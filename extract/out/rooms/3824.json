@@ -1,0 +1,21 @@
+{
+  "id": 3824,
+  "zone_id": 38,
+  "name": "A Meeting Room",
+  "description": "You are in a roughly dug room, about 20 paces by 20 paces, and 8 paces high.\nA table is in the center, with about a dozen chairs surrounding it.  A lit\ntorch is on a wall, and you can tell that someone must do some upkeep here,\nbecause the obnoxious smell is less in this room.  The exit is down the\nstairway.",
+  "header_raw": "38 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3823
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

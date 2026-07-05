@@ -1,0 +1,21 @@
+{
+  "id": 7882,
+  "zone_id": 78,
+  "name": "The Storage Room",
+  "description": "This room is used to store scrolls, potions, and other magical items.  The\nwhole room radiates with a magical aura.",
+  "header_raw": "78 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "secret door",
+      "door_flag": 1,
+      "key": 7805,
+      "to": 7880
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/78.wld"
+}

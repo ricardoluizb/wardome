@@ -1,0 +1,42 @@
+{
+  "id": 2201,
+  "zone_id": 22,
+  "name": "The Tower Gates",
+  "description": "You are at the entrance to a tall tower.  Lightning flashes periodically and\nit is raining.  You think it might be a good idea to turn back into the grove.",
+  "header_raw": "22 16777285 1",
+  "flags_text": "16777285",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a large steel gate.  Beyond is the Foyer of the Tower.",
+      "keywords": "gate steel",
+      "door_flag": 1,
+      "key": 2231,
+      "to": 2202
+    },
+    {
+      "dir": 1,
+      "description": "The shadows cloud your vision.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28605
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "gate",
+      "description": "The gate is tall and secure.  Whoever built it values privacy."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

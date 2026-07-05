@@ -1,0 +1,29 @@
+{
+  "id": 14213,
+  "zone_id": 141,
+  "name": "The Beach",
+  "description": "This beach ends here.  You can go east or west.",
+  "header_raw": "141 65 0",
+  "flags_text": "65",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14214
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14284
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

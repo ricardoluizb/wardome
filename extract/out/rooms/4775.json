@@ -1,0 +1,29 @@
+{
+  "id": 4775,
+  "zone_id": 47,
+  "name": "A valley",
+  "description": "You see a fresh green valley.  Flowers blossom everywhere around you, and you\nhave a big urge to giggle.  To the north, you can see the source of this\ngreenness, a waterfall.  To the west, you see the trail along the valley.",
+  "header_raw": "47 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You hear the rush of a waterfall.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 4774
+    },
+    {
+      "dir": 3,
+      "description": "You see the valley.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 4776
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

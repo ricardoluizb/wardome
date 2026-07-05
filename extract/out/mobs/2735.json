@@ -1,0 +1,12 @@
+{
+  "id": 2735,
+  "alias": "bogo",
+  "short_desc": "Bogo",
+  "long_desc": "Bogo is standing here with a bottle to his mouth as usual.",
+  "detailed_desc": "Bogo the hobbit drunk is here, drinking as usual.  He doesn't look too tough.\nMaybe you should put an end to his misery.",
+  "flags_raw": "8 0 0 E",
+  "stats1_raw": "75 -27 -8 1d1+5100 5d15+80",
+  "stats2_raw": "1125 1676658 5",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/27.mob"
+}

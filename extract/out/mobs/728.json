@@ -1,0 +1,12 @@
+{
+  "id": 728,
+  "alias": "sergeant recruiting",
+  "short_desc": "the Sergeant",
+  "long_desc": "The recruiting sergeant tries to make you sign his forms.",
+  "detailed_desc": "The recruiting sergeant has seen the world.  Now he's trying to make\nyou do the same.  ARGH!!! Resist!  Resist!!",
+  "flags_raw": "10 128 0 E",
+  "stats1_raw": "85 -32 -10 1d1+5772 5d17+84",
+  "stats2_raw": "1275 2387774 5",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

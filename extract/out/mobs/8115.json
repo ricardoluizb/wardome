@@ -1,0 +1,12 @@
+{
+  "id": 8115,
+  "alias": "guard",
+  "short_desc": "the Ofintine guard",
+  "long_desc": "An Ofintine guard watches the gate.",
+  "detailed_desc": "A sturdy guardsman, ever vigilant for evil.",
+  "flags_raw": "6410 0 400 E",
+  "stats1_raw": "154 -79 -29 1d1+17856 5d46+170",
+  "stats2_raw": "2310 17701290 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 11515,
+  "zone_id": 115,
+  "name": "Tin Can Alley",
+  "description": "You are walking along Tin Can Alley, which leads to the bad part of town.  \nConsidering the situation here, you wonder how much worse it can get.  Tin Can\nAlley continues to the east and west.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11508
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11522
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

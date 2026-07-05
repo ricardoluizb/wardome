@@ -1,0 +1,21 @@
+{
+  "id": 1360,
+  "zone_id": 13,
+  "name": "Prision Chamber",
+  "description": "Prision Chamber\n                 ____________________________\n                /                            \\\n ______________|___    ---------------  ______|______________\n| VVVVVVVVVVVVVVVVVV  |PRISION CHAMBER|  VVVVVVVVVVVVVVVVVVV |\n \\_____________________--------------- _____________________/\n   |=====||=====||=====|              |=====||=====||=====|\n    _===_  _===_  _===_                _===_  _===_  _===_\n     |||    |||    |||                  |||    |||    |||\n     |||    |||    |||                  |||    |||    |||\n     |||    |||    |||                  |||    |||    |||\n     |||    |||    |||                  |||    |||    |||\n     |||    |||    |||                  |||    |||    |||\n    _ | _  _ | _  _ | _                _ | _  _ | _  _ | _\n   |=====||=====||=====| _____________|=====||=====||=====|\n======================================================================",
+  "header_raw": "13 4325512 0",
+  "flags_text": "4325512",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "To Dark Tunnel",
+      "keywords": "exit",
+      "door_flag": 2,
+      "key": 1399,
+      "to": 1362
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/13.wld"
+}

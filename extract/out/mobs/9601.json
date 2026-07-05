@@ -1,0 +1,12 @@
+{
+  "id": 9601,
+  "alias": "giant rat",
+  "short_desc": "the Giant Rat",
+  "long_desc": "An enormous Rat is here crawling.",
+  "detailed_desc": "This is the biggest rat you ever see.",
+  "flags_raw": "40 8388608 -900 E",
+  "stats1_raw": "170 -75 -23 1d1+11556 5d35+118",
+  "stats2_raw": "2550 17525720 5",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/96.mob"
+}

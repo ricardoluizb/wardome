@@ -1,0 +1,29 @@
+{
+  "id": 10222,
+  "zone_id": 102,
+  "name": "At the bottom of a long circular Stairway",
+  "description": "You are standing at the bottom of massive stone circular stairway,\nwhich seems to be very, very long... There are some paintings before\nreaching the stairs. Also, hanging in the wall there are some torches\nlittin' the room.",
+  "header_raw": "102 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10216
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10223
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 8205,
+  "zone_id": 82,
+  "name": "The Atrium Of The Cathedral",
+  "description": "You have enter to one of the most beautiful cathedrals of gotic style, you \nsee the golden ornaments at the ceiling, the stone walls with stone statues,\nand the marble floor. When you turn around, you see at the sides of the door\ntwo beautiful columns of doric style, with their capital and frieze.",
+  "header_raw": "82 8196 0",
+  "flags_text": "8196",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 8203
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8207
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8208
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8206
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

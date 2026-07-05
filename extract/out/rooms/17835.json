@@ -1,0 +1,37 @@
+{
+  "id": 17835,
+  "zone_id": 178,
+  "name": "Dark Hallway",
+  "description": "You find yourself in a very old section of the fortress.  You must be the\nfirst person to pass through here in years.  The hallway continues south\nand a door leads off to the east.",
+  "header_raw": "178 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17836
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17837
+    },
+    {
+      "dir": 3,
+      "description": "You see a rusty door.",
+      "keywords": "rusty door",
+      "door_flag": 1,
+      "key": 17800,
+      "to": 17834
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

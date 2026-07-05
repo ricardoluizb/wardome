@@ -1,0 +1,45 @@
+{
+  "id": 14180,
+  "zone_id": 141,
+  "name": "Yew Forest",
+  "description": "This is the Yew Forest.  The trees look all the same.  Consequently\nyou are lost.",
+  "header_raw": "141 65 3",
+  "flags_text": "65",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "There is a shimmering light.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14184
+    },
+    {
+      "dir": 1,
+      "description": "You see trees.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14181
+    },
+    {
+      "dir": 2,
+      "description": "You see trees.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14177
+    },
+    {
+      "dir": 3,
+      "description": "You see trees.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14179
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

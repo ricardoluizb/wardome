@@ -1,0 +1,29 @@
+{
+  "id": 3836,
+  "zone_id": 38,
+  "name": "The Tunnel",
+  "description": "You are in the tunnels.  A high lantern shows exits to the north and south.\nThe walls glitter slightly.",
+  "header_raw": "38 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3833
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3837
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

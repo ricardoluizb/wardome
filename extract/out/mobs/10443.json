@@ -1,0 +1,12 @@
+{
+  "id": 10443,
+  "alias": "Fiend",
+  "short_desc": "Fiend Worker",
+  "long_desc": "A fiend Worker is here, working for you master.",
+  "detailed_desc": "You see a rather plain-looking office personel here, filing paperwork on\nsomeone.",
+  "flags_raw": "42 33555500 -1000 E",
+  "stats1_raw": "120 -42 -9 1d1+4320 5d13+58",
+  "stats2_raw": "1800 5972782 1",
+  "stats3_raw": "8 8 0 10 11",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/104.mob"
+}

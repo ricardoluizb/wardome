@@ -1,0 +1,29 @@
+{
+  "id": 6758,
+  "zone_id": 67,
+  "name": "Standing at the brink",
+  "description": "A sea of light, floating fog opens up before you, swallowing most\nof the cliff and the lands beyond in its pale jaws. Far beyond the\nwhiteness opens out to reveal a welcome azure that is the mantle\nof the sea. A trail disappears downwards into the mist.",
+  "header_raw": "67 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": 6779,
+      "to": 6709
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

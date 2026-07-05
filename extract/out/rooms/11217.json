@@ -1,0 +1,21 @@
+{
+  "id": 11217,
+  "zone_id": 112,
+  "name": "An Abandoned Tenement",
+  "description": "Smashed furniture covered in dust and cobwebs litters the floor of this\nhouse, accompanied by bloodstains and scraps of cloth. It would appear that\nnot all of the residents of Hochenyana succumbed easily to the evil sorcery\nworked upon this place, and paid for their willpower with their lives. The\nsenselessness of all of this angers you; when will it stop?",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11215
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 11716,
+  "zone_id": 117,
+  "name": "Time void deposit.",
+  "description": "Garbages and trash are placed all over around here, you can see some strange\ndevices and another that ressemble to the pre-historical ages.  Only after one\nminuto or two that you realize that this is a kind o time deposit where you can\nfind things from all ages.",
+  "header_raw": "117 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11715
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/117.wld"
+}

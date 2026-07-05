@@ -3,8 +3,8 @@
   "zone_id": 79,
   "name": "On The Great Chain Of Naris",
   "description": "You are approximately on the middle of the treacherous Chain.  One false\nstep and death will come and collect you quickly.  The chain leads upwards\nand down.  No way are you going to descend now... You've only just begun\nyour climb.  Besides it could cost you your life.  Look down and you'll\nsee why.",
-  "header_raw": "79 c 5",
-  "flags_text": "c",
+  "header_raw": "79 4 5",
+  "flags_text": "4",
   "sector": 5,
   "exits": [
     {

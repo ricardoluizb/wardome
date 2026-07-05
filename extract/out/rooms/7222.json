@@ -3,8 +3,8 @@
   "zone_id": 72,
   "name": "The Sewer Drain",
   "description": "You are in a drain, with some slimy water on the floor.",
-  "header_raw": "72 ad 3",
-  "flags_text": "ad",
+  "header_raw": "72 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

@@ -3,8 +3,8 @@
   "zone_id": 71,
   "name": "Under The Dark Pit",
   "description": "Nice place you found yourself in.  You stand in the middle of a room\nwith only two exits, up and east.  A tall ladder has been left here so\nthat you can climb up through the pit without the use of a rope.",
-  "header_raw": "71 ad 1",
-  "flags_text": "ad",
+  "header_raw": "71 9 1",
+  "flags_text": "9",
   "sector": 1,
   "exits": [
     {
@@ -26,10 +26,10 @@
     {
       "dir": 5,
       "description": "",
-      "keywords": "trapdoor",
-      "door_flag": 1,
+      "keywords": "",
+      "door_flag": 0,
       "key": -1,
-      "to": 7300
+      "to": -1
     }
   ],
   "extra_descriptions": [

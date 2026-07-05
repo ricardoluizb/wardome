@@ -1,0 +1,29 @@
+{
+  "id": 2361,
+  "zone_id": 23,
+  "name": "On the cliffside",
+  "description": "You cling to the side of the cliff. Looking down, you are terrified by the\nsheer distance to the ground below. You can climb up higher into the cliffs,\nbut the area above is obscured by clouds and you cannot tell what lies waiting\nabove.",
+  "header_raw": "23 4 5",
+  "flags_text": "4",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2362
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2360
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

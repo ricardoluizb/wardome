@@ -1,12 +1,12 @@
 {
   "id": 3027,
-  "alias": "knight",
-  "short_desc": "the knight",
-  "long_desc": "A knight is guarding the entrance.",
-  "detailed_desc": "He is an expert warrior who has attained knighthood through countless\nchivalrous deeds.  His duty is to protect the Guild of Swordsmen and his\nextreme skill combined with his experience in warfare makes him a deadly\nopponent.",
-  "flags_raw": "ablnop dh 800 S",
-  "stats1_raw": "33 0 -8 6d10+990 1d8+40",
-  "stats2_raw": "2000 160000",
-  "stats3_raw": "8 8 1",
+  "alias": "undead knight",
+  "short_desc": "an undead knight",
+  "long_desc": "An undead knight guards the entrance.",
+  "detailed_desc": "He is an expert warrior who has attained knighthood through countless\nchivalrous deeds.  His duty is to protect the Guild of Swordsmen and his\nextreme skill combined with his experience in warfare makes him a deadly\nopponent.\nBut now, he is skilled to KILL YOU.",
+  "flags_raw": "59402 136 -1000 E",
+  "stats1_raw": "190 -75 -18 1d1+5316 5d20+76",
+  "stats2_raw": "2850 18644097 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

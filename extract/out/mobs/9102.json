@@ -1,0 +1,12 @@
+{
+  "id": 9102,
+  "alias": "oldstyle harpy leader",
+  "short_desc": "the screaming harpy leader",
+  "long_desc": "The screaming harpy leader tries to scratch your eyes out!",
+  "detailed_desc": "The harpy leader looks at you and grins menacingly.  She stretches\nher wings and you see insects crawling around them.  Her hair is\nmatted and greasy and you are sickened by the stench that pervades\nher presence.",
+  "flags_raw": "46 262184 -750 E",
+  "stats1_raw": "10 15 8 1d1+207 5d2+4",
+  "stats2_raw": "150 7126 0",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/91.mob"
+}

@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "A Dark Hallway",
   "description": "You are in a dark hallway.  It is apparent that this area is seldom\nused by the regular occupants of the tower.  Dust covers the floors\nhere.\n   The faint outline of a trapdoor can be seen in the dust.",
-  "header_raw": "25 adg 0",
-  "flags_text": "adg",
+  "header_raw": "25 73 0",
+  "flags_text": "73",
   "sector": 0,
   "exits": [
     {

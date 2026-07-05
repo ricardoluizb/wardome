@@ -1,0 +1,12 @@
+{
+  "id": 6723,
+  "alias": "cartographer",
+  "short_desc": "the cartographer",
+  "long_desc": "The cartographer grins at you over wire-rimmed spectacles.",
+  "detailed_desc": "Thin and wisp-haired, this old man regards you with a wily grin and\nlooks ready to cut some deals. There is a rumour he was kicked out of\nthe mages guild for fraud. Can you trust his goods?",
+  "flags_raw": "24586 128 -800 E",
+  "stats1_raw": "140 -50 -11 1d1+3912 5d15+56",
+  "stats2_raw": "2100 7674036 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/67.mob"
+}

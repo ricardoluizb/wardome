@@ -1,0 +1,21 @@
+{
+  "id": 3807,
+  "zone_id": 38,
+  "name": "A Small Storage Room",
+  "description": "You are in a small storage room.  A horrid stench fills this room, smelling\nlike some dead animal is rotting away here.  The exit is to the east.",
+  "header_raw": "38 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3803
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

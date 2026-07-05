@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Secret Tunnel",
   "description": "You are currently standing in a narrow passageway that does not seem\nto have been heavily visited at any time.  It leads northwards towards\na lit room and south towards what appears to be a chamber.",
-  "header_raw": "40 ad 3",
-  "flags_text": "ad",
+  "header_raw": "40 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

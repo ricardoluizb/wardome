@@ -1,0 +1,12 @@
+{
+  "id": 2004,
+  "alias": "keeper lag monster",
+  "short_desc": "the lag Guard",
+  "long_desc": "The lag Guard is here wondering where that lag went.",
+  "detailed_desc": "The Guard also had the job of taking care of the court jester's pet lag,\nbut he doesn't seem to be doing a good job of it.  He looks at you and\nsays, 'Have you seen that lag?  Master will have my head if I don't find\nhim.'",
+  "flags_raw": "10 0 0 E",
+  "stats1_raw": "50 -5 2 1d1+1044 5d6+20",
+  "stats2_raw": "750 417675 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/20.mob"
+}

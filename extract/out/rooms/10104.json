@@ -1,0 +1,21 @@
+{
+  "id": 10104,
+  "zone_id": 101,
+  "name": "The &RF&rir&Re&c Hall&n",
+  "description": "Before you lies a large hall, devoid of tables.  At the far end of the hall, a\nlarge marble fireplace has been set into the very foundation of the house.  \nTwo large pillars flank the fireplace, reaching from the high ceiling to the\nwooden floor.  A portrait on the east wall catches your eye.",
+  "header_raw": "101 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 10103
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/101.wld"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 2316,
+  "zone_id": 23,
+  "name": "Inside the horrid cave",
+  "description": "The stench is overwhelming. You can hardly breathe as you enter the cave.\nLooking around, you realize that some bizarre and horrible creature uses this\ncave as a home. Skeletal remains lie all over. Several half-eaten corpses are\nrotting away slowly in the gloomy darkness. In the back of the cave, you see a\nlarge pile of rotting cloth, fur, and plant matter. Light and safety is\ntowards the west.",
+  "header_raw": "23 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2315
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "pile",
+      "description": "It appears to be some sort of nest......"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

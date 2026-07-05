@@ -1,0 +1,21 @@
+{
+  "id": 1209,
+  "zone_id": 12,
+  "name": "The Sugestion's Place - Only GODS allowed",
+  "description": "If you have a sugestion, here is the right place but if you don't GET OUT!!!",
+  "header_raw": "12 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1200
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/12.wld"
+}

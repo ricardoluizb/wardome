@@ -1,0 +1,42 @@
+{
+  "id": 8141,
+  "zone_id": 81,
+  "name": "The Stone Hallway",
+  "description": "There is as much seepage here as anywhere else but you wrap your cloak\ntight around you and go on.  No turning back now!  The floor is drier\nhere; the seepage drips around a square panel on the floor.",
+  "header_raw": "81 8 2",
+  "flags_text": "8",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A glowing stone door is balanced on posts of steel and bolted shut.",
+      "keywords": "door glowing",
+      "door_flag": 1,
+      "key": 8101,
+      "to": 8142
+    },
+    {
+      "dir": 3,
+      "description": "You hear water dripping throughout the tunnels.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8140
+    },
+    {
+      "dir": 5,
+      "description": "A hole has been cut in the floor and fitted with a stone slab.",
+      "keywords": "slab stone",
+      "door_flag": 1,
+      "key": -1,
+      "to": 8143
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "door stone",
+      "description": "Its glow lights this tunnel up somewhat, but it brings no pleasant \nrecollection of daylight.  It is a sickly pale-green light, as if the \nlamps in dwarven mansions were stolen and ruined by the goblins.  Even\nin Moria some of the dwarf lights burn still with their old light. If\ndwarves lived here once, they are long gone."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

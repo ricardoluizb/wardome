@@ -1,0 +1,21 @@
+{
+  "id": 6943,
+  "zone_id": 69,
+  "name": "A Room in the House",
+  "description": "The floor boards creak and groan as you pass over them.  The room is covered\nin dust and cobwebs.  The walls are stained and rotting.  The ceiling and floor\nlook ready to collapse.  The creaking and groaning seems to be escalating\ntowards snapping and cracking.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6942
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 20008,
+  "zone_id": 200,
+  "name": "Just Outside the Stable",
+  "description": "The stable of the Wayhouse is just south of you, its wooden doors spread open\nand inviting.  Inside you can hear the snorting of horses, and the occasional\nhoof scraping against the ground.  The path leads to the west, towards the\nWayhouse.",
+  "header_raw": "200 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20009
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20007
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/200.wld"
+}

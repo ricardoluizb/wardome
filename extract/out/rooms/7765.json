@@ -1,0 +1,34 @@
+{
+  "id": 7765,
+  "zone_id": 77,
+  "name": "The Githyanki Weaponry",
+  "description": "A large chamber, full of weapons in various states of completion.  Strange\nglowing blocks of silvery metal are being pounded and rolled out into deadly \nrazor-sharp knives, daggers, and swords.\n   Sounds of hammering and blasts of heat and strange smells come from the open\ndoorway to the north.  An iron door stands to the west.",
+  "header_raw": "77 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a massive forgeroom, lit by a white-hot furnace.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7766
+    },
+    {
+      "dir": 3,
+      "description": "The iron door leads back out onto the grey cobblestone road.",
+      "keywords": "door iron",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7760
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "door iron",
+      "description": "The door is made from many hammered iron plates, set deep into the stone wall."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/77.wld"
+}

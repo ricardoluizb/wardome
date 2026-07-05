@@ -1,0 +1,29 @@
+{
+  "id": 14369,
+  "zone_id": 143,
+  "name": "A Partial Cave-In",
+  "description": "A huge block from the ceiling has sunk here, so that you must bend down to\npass through the room. Exits lie to the west and north.",
+  "header_raw": "143 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You can't make out anything in the darkness.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14370
+    },
+    {
+      "dir": 3,
+      "description": "It is too dark to see there.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14368
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

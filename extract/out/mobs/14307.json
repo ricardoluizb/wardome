@@ -1,0 +1,12 @@
+{
+  "id": 14307,
+  "alias": "mob commoner",
+  "short_desc": "the egyptian commoner",
+  "long_desc": "An eqyptian commoner is resting here after a long day of work.",
+  "detailed_desc": "This is a short, thin man, who works long hard days for meager wages.",
+  "flags_raw": "8 0 0 E",
+  "stats1_raw": "60 -28 -12 1d1+6000 5d13+114",
+  "stats2_raw": "900 1036406 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/143.mob"
+}

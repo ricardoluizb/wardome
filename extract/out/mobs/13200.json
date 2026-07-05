@@ -1,0 +1,12 @@
+{
+  "id": 13200,
+  "alias": "guard palace",
+  "short_desc": "a Palace Guard",
+  "long_desc": "A palace guard is ready to attack at the slightest sign of trouble.",
+  "detailed_desc": "You see a huge, heavily armored dragon guard.  This is one of the city's best\nguards.  Palace guards are chosen by the King himself as the last line of \nprotection against attacks.",
+  "flags_raw": "8266 40 -175 E",
+  "stats1_raw": "10 -1 -3 1d1+912 5d3+84",
+  "stats2_raw": "150 10180 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

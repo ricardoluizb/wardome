@@ -1,0 +1,45 @@
+{
+  "id": 13520,
+  "zone_id": 135,
+  "name": "The Acid Forest",
+  "description": "You stand before an amazing sight.  Wrapped within the mists here\non the cavern floor is a forest of oddly shaped stalagmites surrounded\neverywhere by puddles of what must be the remnants of the dragons\nstomach acid.",
+  "header_raw": "135 8 4",
+  "flags_text": "8",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13517
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13521
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13523
+    },
+    {
+      "dir": 4,
+      "description": "You see the ledge at the entrance to the stomach cavern.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13512
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

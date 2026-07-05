@@ -1,0 +1,45 @@
+{
+  "id": 1001,
+  "zone_id": 10,
+  "name": "The Cathedral Entrance",
+  "description": "In this large open area just inside the cathedral doors, you can\nsee the once beautiful font and the once pristine spring from which\nthe holy waters were once drawn.  All that remains now is the result\nof the desolation, despair, and destruction caused by whatever turned\nthis cathedral into the ruin it is now.  It seems as though everything\nhere has been corrupted and spoiled.\n   There are small alcoves to both the east and west.  The cathedral\nalso continues northwards towards where the altar should be.  There\nis a large open doorway to the south, leading out to the courtyard.",
+  "header_raw": "10 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The way north looks to be almost blocked by numreous overturned pews,\nbut passable all the same.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1004
+    },
+    {
+      "dir": 1,
+      "description": "A small alcove opens up to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1002
+    },
+    {
+      "dir": 2,
+      "description": "The courtyard of the cathedral can be seen outside the doorway to the\nsouth.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1000
+    },
+    {
+      "dir": 3,
+      "description": "A small alcove opens up to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1003
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

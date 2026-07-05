@@ -1,0 +1,45 @@
+{
+  "id": 724,
+  "zone_id": 7,
+  "name": "Intersection",
+  "description": "There are just too many people here at the intersection of Center\nRoad and Business Road!  Too many people, walking around hurriedly.\nYou hustle to avoid getting bumped over only to nearly get pushed\nover.  Your reflexes save you, but you feel you better get out of this\nintersection soon.\n   Center Road is east-west, Business road is north-south.",
+  "header_raw": "7 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 723
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 725
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 730
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 738
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

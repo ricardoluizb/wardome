@@ -2,10 +2,10 @@
   "id": 64,
   "name": "Rand's Tower",
   "header": {
-    "raw": "6400 6499 20 1",
-    "min_room": 6400,
-    "top_room": 6499,
-    "lifespan": 20,
+    "raw": "6499 20 1 1 -1",
+    "min_room": 6499,
+    "top_room": 20,
+    "lifespan": 1,
     "reset_mode": 1
   },
   "commands": [
@@ -13,532 +13,161 @@
       "cmd": "M",
       "args": [
         0,
-        6400,
-        3,
-        6400
-      ],
-      "comment": "Goats"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        6400,
-        3,
-        6402
-      ],
-      "comment": "Goats"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        6400,
-        3,
-        6404
-      ],
-      "comment": "Goats"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        6401,
-        2,
-        6407
-      ],
-      "comment": "Demons"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        6401,
-        2,
-        6407
-      ],
-      "comment": "Demons"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        6402,
-        1,
-        6412
-      ],
-      "comment": "Book Monster"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        6410,
-        20
-      ],
-      "comment": "Chaos Book"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
         6411,
-        20
+        2,
+        6436
       ],
-      "comment": "Elder Book"
+      "comment": "(The skeleton mage)"
     },
     {
-      "cmd": "M",
-      "args": [
-        0,
-        6403,
-        1,
-        6411
-      ],
-      "comment": "Bad Feeling"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        6405,
-        1,
-        6437
-      ],
-      "comment": "Door Guardian"
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        6416,
-        1,
-        6416
-      ],
-      "comment": "Chest"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        6404,
-        3,
-        6416
-      ],
-      "comment": "Worst Nightmare"
-    },
-    {
-      "cmd": "P",
+      "cmd": "E",
       "args": [
         1,
-        6401,
-        50,
-        6416
-      ],
-      "comment": "Glowing Platemail"
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        6417,
+        6415,
         1,
-        6416
+        17
       ],
-      "comment": "Chest"
+      "comment": "(Rand's staff)"
     },
     {
-      "cmd": "M",
-      "args": [
-        0,
-        6404,
-        3,
-        6416
-      ],
-      "comment": "Worst Nightmare"
-    },
-    {
-      "cmd": "P",
-      "args": [
-        1,
-        6405,
-        100,
-        6417
-      ],
-      "comment": "Dragon's Blood"
-    },
-    {
-      "cmd": "P",
-      "args": [
-        1,
-        6407,
-        50,
-        6417
-      ],
-      "comment": "Tent Pole"
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        6418,
-        1,
-        6416
-      ],
-      "comment": "Chest"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        6404,
-        1,
-        6416
-      ],
-      "comment": "Worst Nightmare"
-    },
-    {
-      "cmd": "P",
-      "args": [
-        1,
-        6406,
-        100,
-        6418
-      ],
-      "comment": "Amulet"
-    },
-    {
-      "cmd": "P",
-      "args": [
-        1,
-        6408,
-        1,
-        6418
-      ],
-      "comment": "Powder Of Wealth"
-    },
-    {
-      "cmd": "P",
-      "args": [
-        1,
-        6412,
-        10,
-        6418
-      ],
-      "comment": "Occluded Lens"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        6411,
-        6404
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        6404,
-        5,
-        6411
-      ],
-      "comment": "Sculpture"
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        6409,
-        1,
-        6411
-      ],
-      "comment": "Desk"
-    },
-    {
-      "cmd": "P",
-      "args": [
-        0,
-        6402,
-        50,
-        6409
-      ],
-      "comment": "Agate"
-    },
-    {
-      "cmd": "P",
-      "args": [
-        0,
-        6403,
-        50,
-        6409
-      ],
-      "comment": "Jade"
-    },
-    {
-      "cmd": "P",
-      "args": [
-        0,
-        6400,
-        50,
-        6409
-      ],
-      "comment": "Glowing Dagger"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        6441,
-        6413
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        6413,
-        100,
-        6441
-      ],
-      "comment": "Mevais"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        6441,
-        6414
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        6414,
-        100,
-        6441
-      ],
-      "comment": "Peska"
-    },
-    {
-      "cmd": "R",
+      "cmd": "D",
       "args": [
         0,
         6436,
-        6415
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        6415,
-        10,
-        6436
-      ],
-      "comment": "Rand's Staff"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        6410,
-        6419
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        6419,
         1,
-        6410
+        2
       ],
-      "comment": "Water Basin"
+      "comment": "(The Doorway)"
     },
     {
-      "cmd": "R",
+      "cmd": "M",
       "args": [
         0,
-        6424,
-        6420
+        6412,
+        1,
+        6445
       ],
-      "comment": ""
+      "comment": "(A powerfull wizard)"
     },
     {
-      "cmd": "O",
+      "cmd": "E",
       "args": [
-        0,
-        6420,
-        10,
-        6424
+        1,
+        6452,
+        1,
+        6
       ],
-      "comment": "Food"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        6424,
-        6420
-      ],
-      "comment": ""
+      "comment": "(the black crown of the wizard)"
     },
     {
       "cmd": "O",
       "args": [
         0,
-        6420,
-        10,
-        6424
+        6416,
+        1,
+        6416
       ],
-      "comment": "Food"
+      "comment": "(a wooden chest)"
     },
     {
-      "cmd": "D",
+      "cmd": "M",
       "args": [
         0,
+        6404,
+        3,
+        6416
+      ],
+      "comment": "(Your Worst Nightmare)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6401,
+        50,
+        6416
+      ],
+      "comment": "(the glowing platemail)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6417,
+        1,
+        6416
+      ],
+      "comment": "(a wooden chest)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6404,
+        3,
+        6416
+      ],
+      "comment": "(Your Worst Nightmare)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6405,
+        100,
+        6417
+      ],
+      "comment": "(a vial of dragon's blood)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6418,
+        3,
+        6416
+      ],
+      "comment": "(a wooden chest)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6404,
+        3,
+        6416
+      ],
+      "comment": "(Your Worst Nightmare)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
         6406,
-        5,
-        1
+        1,
+        6418
       ],
-      "comment": ""
+      "comment": "(an amulet)"
     },
     {
-      "cmd": "D",
+      "cmd": "P",
       "args": [
-        0,
-        6407,
-        4,
-        1
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        6407,
-        2,
-        1
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
+        1,
         6408,
-        0,
-        1
+        1,
+        6418
       ],
-      "comment": ""
+      "comment": "(a bag of powder of wealth)"
     },
     {
-      "cmd": "D",
+      "cmd": "P",
       "args": [
-        0,
-        6409,
-        0,
-        1
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        6409,
-        2,
-        1
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        6410,
-        0,
-        1
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        6411,
-        2,
-        1
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
+        1,
         6412,
         1,
-        1
+        6418
       ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        6412,
-        3,
-        1
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        6413,
-        3,
-        1
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        6414,
-        1,
-        1
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        6414,
-        5,
-        1
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        6415,
-        3,
-        1
-      ],
-      "comment": ""
+      "comment": "(the Occluded Lens)"
     },
     {
       "cmd": "D",
@@ -548,57 +177,7 @@
         4,
         1
       ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        6417,
-        0,
-        1
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        6417,
-        1,
-        1
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        6417,
-        2,
-        1
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        6418,
-        0,
-        1
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        6419,
-        2,
-        1
-      ],
-      "comment": ""
+      "comment": "(The Hidden Treasure Room)"
     },
     {
       "cmd": "D",
@@ -606,9 +185,9 @@
         0,
         6420,
         0,
-        1
+        2
       ],
-      "comment": ""
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -618,17 +197,127 @@
         2,
         1
       ],
-      "comment": ""
+      "comment": "(A Servant's Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6401,
+        5,
+        6421
+      ],
+      "comment": "(the Demon of Decay)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6354,
+        1,
+        -1
+      ],
+      "comment": "(a strange key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6405,
+        1,
+        6437
+      ],
+      "comment": "(the Guardian)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6453,
+        1,
+        -1
+      ],
+      "comment": "(a black key)"
     },
     {
       "cmd": "D",
       "args": [
         0,
-        6423,
-        0,
-        1
+        6437,
+        3,
+        2
       ],
-      "comment": ""
+      "comment": "(The Hallway)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6411,
+        2,
+        6444
+      ],
+      "comment": "(The skeleton mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6410,
+        3,
+        6431
+      ],
+      "comment": "(the human mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6410,
+        3,
+        6430
+      ],
+      "comment": "(the human mage)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6424,
+        6420,
+        -1
+      ],
+      "comment": "(some food)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6420,
+        10,
+        6424
+      ],
+      "comment": "(some food)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6424,
+        6420,
+        -1
+      ],
+      "comment": "(some food)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6420,
+        10,
+        6424
+      ],
+      "comment": "(some food)"
     },
     {
       "cmd": "D",
@@ -638,7 +327,457 @@
         2,
         1
       ],
-      "comment": ""
+      "comment": "(The Kitchen Area)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6403,
+        5,
+        6424
+      ],
+      "comment": "(a Bad Feeling)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6418,
+        0,
+        1
+      ],
+      "comment": "(A Servant's Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6403,
+        5,
+        6418
+      ],
+      "comment": "(a Bad Feeling)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6419,
+        2,
+        1
+      ],
+      "comment": "(A Servant's Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6401,
+        5,
+        6419
+      ],
+      "comment": "(the Demon of Decay)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6401,
+        5,
+        6419
+      ],
+      "comment": "(the Demon of Decay)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6401,
+        2,
+        6407
+      ],
+      "comment": "(the Demon of Decay)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6401,
+        2,
+        6407
+      ],
+      "comment": "(the Demon of Decay)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6407,
+        4,
+        1
+      ],
+      "comment": "(A Stairwell)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6407,
+        2,
+        1
+      ],
+      "comment": "(A Stairwell)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6400,
+        3,
+        6400
+      ],
+      "comment": "(the mountain goat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6400,
+        3,
+        6402
+      ],
+      "comment": "(the mountain goat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6400,
+        3,
+        6404
+      ],
+      "comment": "(the mountain goat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6402,
+        1,
+        6412
+      ],
+      "comment": "(the Book Monster)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6410,
+        20,
+        -1
+      ],
+      "comment": "(the Book of Chaos)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6411,
+        20,
+        -1
+      ],
+      "comment": "(the Book of the Elder)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6403,
+        1,
+        6411
+      ],
+      "comment": "(a Bad Feeling)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6411,
+        6404,
+        -1
+      ],
+      "comment": "(a piece of sculpture)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6404,
+        5,
+        6411
+      ],
+      "comment": "(a piece of sculpture)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6409,
+        1,
+        6411
+      ],
+      "comment": "(a desk)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        0,
+        6402,
+        50,
+        6409
+      ],
+      "comment": "(an agate)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        0,
+        6403,
+        50,
+        6409
+      ],
+      "comment": "(a piece of jade)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        0,
+        6400,
+        50,
+        6409
+      ],
+      "comment": "(a glowing dagger)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6441,
+        6413,
+        -1
+      ],
+      "comment": "(a leaf of mevais)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6413,
+        100,
+        6441
+      ],
+      "comment": "(a leaf of mevais)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6441,
+        6414,
+        -1
+      ],
+      "comment": "(a bottle of peska)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6414,
+        100,
+        6441
+      ],
+      "comment": "(a bottle of peska)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6410,
+        6419,
+        -1
+      ],
+      "comment": "(a water basin)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6419,
+        1,
+        6410
+      ],
+      "comment": "(a water basin)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6406,
+        5,
+        1
+      ],
+      "comment": "(In A Clearing)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6408,
+        0,
+        1
+      ],
+      "comment": "(A Linen Closet)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6409,
+        0,
+        1
+      ],
+      "comment": "(A Corridor)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6409,
+        2,
+        1
+      ],
+      "comment": "(A Corridor)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6410,
+        0,
+        1
+      ],
+      "comment": "(A Bathroom)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6411,
+        2,
+        1
+      ],
+      "comment": "(The Master Bedroom)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6412,
+        1,
+        1
+      ],
+      "comment": "(The Library)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6412,
+        3,
+        1
+      ],
+      "comment": "(The Library)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6413,
+        3,
+        1
+      ],
+      "comment": "(The Stairwell)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6414,
+        1,
+        1
+      ],
+      "comment": "(A Hidden Hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6414,
+        5,
+        1
+      ],
+      "comment": "(A Hidden Hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6415,
+        3,
+        1
+      ],
+      "comment": "(A Stairwell)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6417,
+        0,
+        1
+      ],
+      "comment": "(A Hallway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6417,
+        1,
+        1
+      ],
+      "comment": "(A Hallway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6417,
+        2,
+        1
+      ],
+      "comment": "(A Hallway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6423,
+        0,
+        1
+      ],
+      "comment": "(The Dining Hall)"
     },
     {
       "cmd": "D",
@@ -648,27 +787,7 @@
         3,
         2
       ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        6436,
-        1,
-        2
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        6437,
-        3,
-        1
-      ],
-      "comment": ""
+      "comment": "(The Entranceway)"
     },
     {
       "cmd": "D",
@@ -678,8 +797,8 @@
         1,
         1
       ],
-      "comment": ""
+      "comment": "(The Stairs)"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/64.zon"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/64.zon"
 }

@@ -1,0 +1,46 @@
+{
+  "id": 17817,
+  "zone_id": 178,
+  "name": "Path by a Stream",
+  "description": "You are on a small east-west path.  The path shows new grass, as if it\nhas stopped being used sometime in the recent past.  A river is to the south,\nand a small hut is to the west.",
+  "header_raw": "178 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see a small path.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17816
+    },
+    {
+      "dir": 2,
+      "description": "You see the stream.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17820
+    },
+    {
+      "dir": 3,
+      "description": "You see a small hut that is starting to fall apart.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17818
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "stream",
+      "description": "The stream is pretty small, but it looks too cold to swim."
+    },
+    {
+      "keywords": "hut",
+      "description": "The hut looks well built, but it seems to have taken some damage."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

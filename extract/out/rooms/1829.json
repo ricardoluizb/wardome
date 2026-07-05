@@ -1,0 +1,50 @@
+{
+  "id": 1829,
+  "zone_id": 18,
+  "name": "Another Mirrored Room",
+  "description": "Walls of mirrors adorn this room.  You see many\nrooms leading into many directions, making\nyou completely dizzy!  There is\na big plaque on the wall.\n\nThe white mistress leaps and shouts \"Intruder!\"",
+  "header_raw": "18 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1830
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1828
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1828
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1828
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "plaque",
+      "description": "The plaque reads, \"Created by Mahatma 5/24/90\nwith thanks to Alander, Hatchet, & Little.\nThanks to Savaki & Drustan for starting me on\nthis junk.  & the sprig of mints are for Andersen.\""
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/18.wld"
+}

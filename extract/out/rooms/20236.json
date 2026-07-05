@@ -1,0 +1,37 @@
+{
+  "id": 20236,
+  "zone_id": 202,
+  "name": "A trashy street",
+  "description": "You step carefully around piles of garbage as you walk down this street.  This\narea seems to be the uptown of the slums, as houses are made out of old wooden\nplanks probably stolen from the nicer parts of Dimrill Dale.  To your west is\nwhat was a fine jewelry shop.  Now, as all of Dimrill Dale's forces are gone\nfighting the evil armies, it has been broken into and most of it is in pieces.",
+  "header_raw": "202 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20231
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20238
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20237
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/202.wld"
+}

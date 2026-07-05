@@ -1,0 +1,29 @@
+{
+  "id": 11568,
+  "zone_id": 115,
+  "name": "Wally's Wonderful World Of Magic",
+  "description": "You are thoroughly impressed with the thousands of magic items on display\nhere (very few are actually for sale, though) which leads you to believe that\nWally is no man to be trifled with.  The magic items range from things like\nLila's Book of Infinite Problems to things like Wand of High Frog Jumping (to\nhelp your frog win in those;high stake frog races).  Broadway is to the east\nand the Entrance to the Mages' Guild is to the west.",
+  "header_raw": "115 144 1",
+  "flags_text": "144",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11566
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11575
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

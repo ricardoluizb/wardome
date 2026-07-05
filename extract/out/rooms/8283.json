@@ -1,0 +1,29 @@
+{
+  "id": 8283,
+  "zone_id": 82,
+  "name": "The Western End Of The Corridor",
+  "description": "You are at the end of this corridor, you see an arch window to the west, and\nto the north there is a ladder that takes you to the tower. You see that only\nthe entrance had the walls painted, because here the walls have the color of\nthe stone, grey. You can go back or go north.",
+  "header_raw": "82 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8284
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8282
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

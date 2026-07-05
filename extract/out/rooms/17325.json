@@ -1,0 +1,29 @@
+{
+  "id": 17325,
+  "zone_id": 173,
+  "name": "The Green Field Before Camelot",
+  "description": "You stand under the open sky in the emerald green field before Camelot.\nCamelot lies ontop of a hill overlooking the field. Flags and banners \nsnap in the fresh breeze from the proud towers of Camelot. You can either \nhead east to Camelot or west to the chasm.",
+  "header_raw": "173 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The Eastern Gate of Camelot",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17326
+    },
+    {
+      "dir": 3,
+      "description": "The Chasm",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17322
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2314,
+  "alias": "oldstyle worm ice iceworm",
+  "short_desc": "the Ice Worm",
+  "long_desc": "A huge ice worm burrows through the ice and snow here. It rears up and\nattacks!",
+  "detailed_desc": "The huge worm is almost 50 feet long. Its huge gaping mouth spews ice and snow\nas it charges directly at you.",
+  "flags_raw": "8388718 0 0 E",
+  "stats1_raw": "190 -79 -21 1d1+8352 5d20+96",
+  "stats2_raw": "2850 22946581 2",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/23.mob"
+}

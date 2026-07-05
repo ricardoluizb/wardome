@@ -1,0 +1,61 @@
+{
+  "id": 3700,
+  "zone_id": 37,
+  "name": "A Gravel Road in the Graveyard",
+  "description": "You are on a well-kept gravel road that leads north-south through the\ngraveyard.  On both sides of the road grow dark evergreen trees.  An iron grate\nis to the north and narrow gravel paths lead east and west.  A grate is down\nhere, you feel that the necromancers are living above you.",
+  "header_raw": "37 16777220 2",
+  "flags_text": "16777220",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "grate",
+      "door_flag": 1,
+      "key": -1,
+      "to": -1
+    },
+    {
+      "dir": 1,
+      "description": "The gravel path leads eastwards between the dark evergreen trees.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3731
+    },
+    {
+      "dir": 2,
+      "description": "The gravel road continues southwards.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3701
+    },
+    {
+      "dir": 3,
+      "description": "The gravel path leads westwards between the dark evergreen trees.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3705
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3155
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "grate",
+      "door_flag": 1,
+      "key": 0,
+      "to": 13500
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/37.wld"
+}

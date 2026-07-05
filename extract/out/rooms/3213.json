@@ -1,0 +1,26 @@
+{
+  "id": 3213,
+  "zone_id": 32,
+  "name": "Mateon's Chamber",
+  "description": "You find yourself in a small, cramped chamber.  A window is set in the north\nwall, and a sturdy oak door is to the west.",
+  "header_raw": "32 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door oak",
+      "door_flag": 1,
+      "key": 3206,
+      "to": 3214
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "window",
+      "description": "The window overlooks a grassy field."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/32.wld"
+}

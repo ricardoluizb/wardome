@@ -3,8 +3,8 @@
   "zone_id": 186,
   "name": "The Entrance",
   "description": "It is dark, dank, disgusting and cold up here.  Plus you here the\nsounds of creatures all around you... and somehow they don't sound\nfriendly.  It is probably wise to exercise some degree of caution\nhere... no telling what you may run into here.",
-  "header_raw": "186 ad 0",
-  "flags_text": "ad",
+  "header_raw": "186 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

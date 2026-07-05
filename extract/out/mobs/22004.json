@@ -1,0 +1,12 @@
+{
+  "id": 22004,
+  "alias": "slave human chained",
+  "short_desc": "a human slave",
+  "long_desc": "A human slave is chained to the wall here.",
+  "detailed_desc": "He looks pretty pathetic, maybe you should end his misery",
+  "flags_raw": "4194318 0 50 E",
+  "stats1_raw": "50 -11 -2 1d1+2592 5d6+50",
+  "stats2_raw": "750 522094 3",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/220.mob"
+}

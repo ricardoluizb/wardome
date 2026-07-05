@@ -1,0 +1,12 @@
+{
+  "id": 727,
+  "alias": "high priest guildmaster",
+  "short_desc": "the High Priest",
+  "long_desc": "The High Priest is here, glowing with the benevolence of AO.",
+  "detailed_desc": "The High Priest will be ascending to Hope soon, and now his entire\nbody glows with the same light as his soul.",
+  "flags_raw": "10 0 1000 E",
+  "stats1_raw": "80 -30 -9 1d1+5436 5d17+82",
+  "stats2_raw": "1200 2011376 5",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

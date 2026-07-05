@@ -1,0 +1,12 @@
+{
+  "id": 11201,
+  "alias": "umber hulk",
+  "short_desc": "an umber hulk",
+  "long_desc": "A massive, purple skinned beast with multiple eyes and huge tusks lurks here.",
+  "detailed_desc": "These powerfully built creatures are feared foes of any subterranean\ndwellers, for their muscular arms and huge tusks are capable of rending\nmany creatures in seconds. To find them so boldly outside their natural\nhabitat is bad for two reasons; one, it means all regular methods of\nmonster control have collapsed, making this a perilous place indeed to\nbe. And secondly, umber hulks are usually found outside of their lairs\nonly as lackeys of more powerful evil creatures such as Illithids and\nBeholders. And if either of those fell creatures is about you could be\nin serious trouble indeed...",
+  "flags_raw": "42 40 -600 E",
+  "stats1_raw": "35 -15 -8 1d1+3492 5d7+104",
+  "stats2_raw": "525 238782 9",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

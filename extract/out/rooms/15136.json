@@ -1,0 +1,21 @@
+{
+  "id": 15136,
+  "zone_id": 150,
+  "name": "Tent Dwelling",
+  "description": "This tent, roughly 10x10, serves as the primary dwelling for one of the\nfamilies under Mordecai's 'care'.  Four cots sit side by side along one wall\nand a leather chest sits in a corner holding what you assume would all of their\nworldy possessions.",
+  "header_raw": "150 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 15145
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/151.wld"
+}

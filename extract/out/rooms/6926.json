@@ -1,0 +1,37 @@
+{
+  "id": 6926,
+  "zone_id": 69,
+  "name": "Back on the Ground",
+  "description": "You are on the ground now, as a small path forms at your feet and heads\nnorth to the outhouse.  A path leads east from here too, which doesn't look to\nbe going anywhere.  The lightning is still striking, and therefore the thunder\nis still hurting your ears.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6927
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6929
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6925
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

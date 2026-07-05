@@ -1,10 +1,10 @@
 {
   "id": 7333,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "The End Of Long Tunnel",
   "description": "You are at a end of a long tunnel.  Right in front of you, you can see a\ngrey mass.  To the east you can see a tremendously long tunnel, but you know\nthat, you were just there.",
-  "header_raw": "73 ad 5",
-  "flags_text": "ad",
+  "header_raw": "72 9 5",
+  "flags_text": "9",
   "sector": 5,
   "exits": [
     {

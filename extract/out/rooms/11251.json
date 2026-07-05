@@ -1,0 +1,45 @@
+{
+  "id": 11251,
+  "zone_id": 112,
+  "name": "The Gaol",
+  "description": "The iron door opens onto a small guard room, filled with shelves bearing\nmanacles, leg irons, guard rosters and other paraphenalia. Three cell doors\nlead off from this room, to the north, west and south, and a large desk\nmarks the place where the duty guard usually sits.",
+  "header_raw": "112 12 0",
+  "flags_text": "12",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 11261,
+      "to": 11253
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11250
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 11261,
+      "to": 11254
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 11261,
+      "to": 11252
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

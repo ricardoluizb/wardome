@@ -3,8 +3,8 @@
   "zone_id": 12,
   "name": "The Gods' Mortal Board Room",
   "description": "Here the Gods have magically created an exact copy of the mortal board\nroom.  Any God can easily post and read messages from the mortal board room\nwithout being seen by any mortals.  The Immortal Board Room is to the west.",
-  "header_raw": "12 d 0",
-  "flags_text": "d",
+  "header_raw": "12 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

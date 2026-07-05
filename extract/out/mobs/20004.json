@@ -1,0 +1,12 @@
+{
+  "id": 20004,
+  "alias": "Desslok elf dark",
+  "short_desc": "Desslok",
+  "long_desc": "A dark elf stands against the wall, watching.",
+  "detailed_desc": "You feel his eyes bore through you for a moment, and then whisk away.  He\nstands motionless, quietly...  Awaiting a proper moment perhaps?",
+  "flags_raw": "8 0 -500 E",
+  "stats1_raw": "140 -56 -15 1d1+7272 5d15+86",
+  "stats2_raw": "2100 9592545 3",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/200.mob"
+}

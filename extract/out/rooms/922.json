@@ -3,8 +3,8 @@
   "zone_id": 9,
   "name": "The Royal Chamber",
   "description": "The treasure room of Minos is dark save for your lantern.\nHopefully it has not been looted yet by the many legendary thieves\nof Midgaard.  A clever looking secret passage leads upward from here.",
-  "header_raw": "9 adj 0",
-  "flags_text": "adj",
+  "header_raw": "9 521 0",
+  "flags_text": "521",
   "sector": 0,
   "exits": [
     {

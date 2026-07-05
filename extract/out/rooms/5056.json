@@ -3,8 +3,8 @@
   "zone_id": 50,
   "name": "A Nomad Camp",
   "description": "This small group of desert nomads has stopped for the day to rest\nand refresh themselves beside this beautiful oasis.  Three tents and some\ncamels make up the party.  From within two of the tents you hear muffled\nvoices, obviously surprised at your visit.",
-  "header_raw": "50 g 2",
-  "flags_text": "g",
+  "header_raw": "50 64 2",
+  "flags_text": "64",
   "sector": 2,
   "exits": [
     {

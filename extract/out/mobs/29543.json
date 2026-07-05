@@ -1,0 +1,12 @@
+{
+  "id": 29543,
+  "alias": "trojan soldier",
+  "short_desc": "a Trojan soldier",
+  "long_desc": "A Trojan soldier marches back and forth.",
+  "detailed_desc": "This fellow has been fighting for nine years.",
+  "flags_raw": "72 0 0 E",
+  "stats1_raw": "125 -50 -14 1d1+7500 5d13+90",
+  "stats2_raw": "1875 7041107 4",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/295.mob"
+}

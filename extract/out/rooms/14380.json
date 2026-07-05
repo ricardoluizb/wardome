@@ -1,0 +1,29 @@
+{
+  "id": 14380,
+  "zone_id": 143,
+  "name": "Lit Corridor",
+  "description": "The corridor widens here, and you see the remnants of half-eaten humanoids.\nYou get the feeling that something large and aggressive lives here.",
+  "header_raw": "143 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "An alcove is to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14381
+    },
+    {
+      "dir": 3,
+      "description": "The lit corridor continues west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14374
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

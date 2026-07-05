@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "The Great Treasury",
   "description": "As you enter this room, you are astonished by the riches that\nare stowed away here; not so much in gold, but paintings, tapestries,\nskillful carvings and sculptures all over the vast room.  You realise,\nhowever, that most of these things are too well known to be sold\nanywhere, without branding yourself as a thief, and condemning yourself\nto instant death at the hands of the Royal Guard.",
-  "header_raw": "150 d 0",
-  "flags_text": "d",
+  "header_raw": "150 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

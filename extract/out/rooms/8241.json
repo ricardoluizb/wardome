@@ -1,0 +1,21 @@
+{
+  "id": 8241,
+  "zone_id": 82,
+  "name": "The Lyon Park",
+  "description": "You are in a small but pretty park, you see some kids playing in the games.\nYou see here many swings, and tall trees you can even see a poodle or two.\nFrom here you can only go back to the streets by east.",
+  "header_raw": "82 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8239
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 217,
+  "zone_id": 2,
+  "name": "The Real World Ends Here",
+  "description": "This is the point where the real world ends...\n \n                        PROCEED AT YOUR OWN RISK!\n \nThe entrance to the Lizard Lair Safari is to the west.\nThere is a huge metal door to the south.",
+  "header_raw": "2 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "This is the entrance way to the Safari.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 200
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "door metal huge",
+      "description": "It's one of those huge studio-like doors.  It seems pretty strong."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/2.wld"
+}

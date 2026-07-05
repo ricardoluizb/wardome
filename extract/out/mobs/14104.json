@@ -1,0 +1,12 @@
+{
+  "id": 14104,
+  "alias": "sheep",
+  "short_desc": "the sheep",
+  "long_desc": "A sheep peacefully eats grass.",
+  "detailed_desc": "Even the sheep in New Magincia seem to exude humbleness.  The\nsheep has pure white fleece.",
+  "flags_raw": "200 1024 1000 E",
+  "stats1_raw": "5 16 7 1d1+180 5d1+12",
+  "stats2_raw": "75 2005 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

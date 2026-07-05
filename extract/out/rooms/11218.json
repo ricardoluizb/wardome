@@ -1,0 +1,37 @@
+{
+  "id": 11218,
+  "zone_id": 112,
+  "name": "A Junction",
+  "description": "Here, Main Street is met by another street, Heroes' Walk, which runs\nsouth towards some larger structures in the town. Named for the annual\nmarch which used to traditionally take place here to celebrate the\ndefeat of the Chaos Hordes at this point by the townsfolk, it has not\nseen such a parade in some time.",
+  "header_raw": "112 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11231
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11234
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11215
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

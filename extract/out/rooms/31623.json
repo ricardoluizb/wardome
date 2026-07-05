@@ -1,0 +1,37 @@
+{
+  "id": 31623,
+  "zone_id": 316,
+  "name": "Choose your destination",
+  "description": "This room is completely clean and very well illuminated, the lights came from\neverywhere and you soon perceive that was a magical power in this place.  You\ncan see three doors, each one with a grooving skull and a inscription that you\ndo not have difficulties to read:\n&n\n&W     \"Three ways to choose:&n\n&n\n&W              One to come back without knowing&n\n&W              One to follow without knowing&n\n&W              One to die and never to know\"&n",
+  "header_raw": "316 128 0",
+  "flags_text": "128",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door1",
+      "door_flag": 1,
+      "key": 0,
+      "to": 31623
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door2",
+      "door_flag": 1,
+      "key": 0,
+      "to": 31630
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door3",
+      "door_flag": 1,
+      "key": 0,
+      "to": 31624
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/316.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8114,
+  "zone_id": 81,
+  "name": "Joel Kreb's Fine Woodbutchery",
+  "description": "Joel is a very busy man.  He tells you so.  Only now he is sitting \non a sawhorse with a mug of ale.  Well, all that sawdust makes a man \nthirsty, don't you know! He can make just about anything you want, if \nit is wooden, but just now has only a few items in stock.  He might\nlist them for you, if you asked really nicely.",
+  "header_raw": "81 152 0",
+  "flags_text": "152",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A small street is north of here.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8111
+    },
+    {
+      "dir": 1,
+      "description": "You can see a wide street past Joel's saw pit.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8113
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

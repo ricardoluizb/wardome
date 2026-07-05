@@ -1,0 +1,29 @@
+{
+  "id": 12314,
+  "zone_id": 122,
+  "name": "The Tunnels of the Durin",
+  "description": "The Durin live in vast subterranean complexes, like their sworn enemy\nthe giants, though it is there that the similarity ends. For while\ngiant lairs are dark, grim places with little to recommend them, the\ntunnels of the Durin are of finished stone, inlaid with intricately\ncarved murals that are indicative of the superb skill of the artisans.\nStatues of their ancestors line the walls, seeming to support the roof\nof the tunnels that serve as their income and their residences.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12313
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12315
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

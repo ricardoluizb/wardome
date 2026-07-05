@@ -1,0 +1,38 @@
+{
+  "id": 2385,
+  "zone_id": 23,
+  "name": "The secret hallway",
+  "description": "You are in a small, torch lit hall. It leads from east to west. A large gold\ndoor is to the west. To the east, you see a heavy stone door.",
+  "header_raw": "23 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see a heavy stone door there.",
+      "keywords": "door heavy stone",
+      "door_flag": 2,
+      "key": 2359,
+      "to": 2386
+    },
+    {
+      "dir": 3,
+      "description": "You see the back of the huge golden throne there.",
+      "keywords": "throne huge golden",
+      "door_flag": 1,
+      "key": 0,
+      "to": 2383
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "gold",
+      "description": "Looks like the back of a secret door of sorts."
+    },
+    {
+      "keywords": "huge stone",
+      "description": "A very formidable looking door."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

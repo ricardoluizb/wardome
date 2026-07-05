@@ -1,0 +1,45 @@
+{
+  "id": 10011,
+  "zone_id": 100,
+  "name": "Echoing Hallway",
+  "description": "This castle radiates a strange presence, a feeling of ancient hatred, old\ngrudges long since forgotten through the centuries.  All around you, signs of\ndisuse are apparent, yet you get the feeling that this place is most definately\ninhabited.  The cobwebs which are strung through almost every archway, the dust\non the floor, and the way all of the furnishings seem to have fallen into\ncomplete disrepair should give an impression of abandonment, however it seems\njust the opposite.  High archways lead both east and west into large rooms, the\nhall continues north and south.",
+  "header_raw": "100 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10012
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10017
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10010
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10018
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/100.wld"
+}

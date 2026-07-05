@@ -1,0 +1,37 @@
+{
+  "id": 10412,
+  "zone_id": 104,
+  "name": "Living Walls",
+  "description": "The walls here actually consist of greying and sinewy flesh - faces, hands,\nbroken bones, feet, and toes jutting from the surface. You hear low moans\nof horror, pain, and sorrow issuing from within.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "It's too smoky to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10413
+    },
+    {
+      "dir": 2,
+      "description": "It's too smoky to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10409
+    },
+    {
+      "dir": 3,
+      "description": "It's too smoky to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10411
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

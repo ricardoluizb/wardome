@@ -1,0 +1,12 @@
+{
+  "id": 11248,
+  "alias": "ghost bishop",
+  "short_desc": "the ghost of the bishop",
+  "long_desc": "The ghost of the bishop of Asteh haunts this place.",
+  "detailed_desc": "This poor soul was slain here, and his enraged spirit refuses to rest;\nindeed it cannot until the evil here has been laid to rest.",
+  "flags_raw": "10 8360 1000 E",
+  "stats1_raw": "46 -21 -10 1d1+4596 5d9+108",
+  "stats2_raw": "690 498781 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

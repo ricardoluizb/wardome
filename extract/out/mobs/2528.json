@@ -4,9 +4,9 @@
   "short_desc": "the spell teacher",
   "long_desc": "A spell teacher is here relaxing.",
   "detailed_desc": "The teacher looks to be worn out by a long day of magic working, difficult\nspells, and inattentive students.",
-  "flags_raw": "abg dk 200 S",
-  "stats1_raw": "15 5 1 15d15+150 3d4+4",
-  "stats2_raw": "1002 15800",
-  "stats3_raw": "5 5 1",
+  "flags_raw": "75 1032 200 E",
+  "stats1_raw": "145 -52 -11 1d1+4056 5d15+58",
+  "stats2_raw": "2175 8494573 0",
+  "stats3_raw": "5 5 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

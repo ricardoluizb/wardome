@@ -1,0 +1,21 @@
+{
+  "id": 12269,
+  "zone_id": 122,
+  "name": "A Bed Chamber",
+  "description": "This is the room where Thor lies with his wife, the beautiful warrior\ngoddess Sif, whose skill with the sword and spear is legendary. Few\nindeed will stand before her twin blades; even amongst the Aesir her\nskill is respected and acknowledged. Sif does not adventure as much as\nshe used to these days, but she still keeps practicing her legendary\nbattle skills.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12266
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

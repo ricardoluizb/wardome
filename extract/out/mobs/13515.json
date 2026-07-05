@@ -1,0 +1,12 @@
+{
+  "id": 13515,
+  "alias": "necromancer",
+  "short_desc": "the Necromancer",
+  "long_desc": "A Necromancer of the Bloodstone, creating zombies, is here.",
+  "detailed_desc": "Evil reeks from his dark robes.  His hands are adorned with the\nlong, wicked nails which are stained with the ichor of embalmers\nand malignant salves.",
+  "flags_raw": "170 128 -900 E",
+  "stats1_raw": "30 -13 -8 1d1+3000 5d7+102",
+  "stats2_raw": "450 174736 9",
+  "stats3_raw": "8 8 1 4 5",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/135.mob"
+}

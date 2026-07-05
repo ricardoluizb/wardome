@@ -1,0 +1,29 @@
+{
+  "id": 779,
+  "zone_id": 7,
+  "name": "Foyer",
+  "description": "Deep crevices rack the walls here, leaving holes big enough for\nsomething quite nasty to live in.  The front door creaks behind you,\nand you whirl about, expecting it to slam shut.  It doesn't and you\nfeel kind of silly.  'No one lives here,' you say to yourself quietly,\njust as footsteps upstairs sound...",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 778
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 780
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

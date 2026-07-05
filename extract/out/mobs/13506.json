@@ -1,0 +1,12 @@
+{
+  "id": 13506,
+  "alias": "keeper",
+  "short_desc": "the Crypt Keeper",
+  "long_desc": "The Crypt Keeper, grinning at you maliciously, is here.",
+  "detailed_desc": "The dessicated little fellow cackles with mad glee as he approaches\nyou.  He twitches from excitement so much that his scraggly hair\njostles as he flashes his dull yellow teeth.",
+  "flags_raw": "42 8 -1000 E",
+  "stats1_raw": "15 -5 -5 1d1+1500 5d3+96",
+  "stats2_raw": "225 27620 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/135.mob"
+}

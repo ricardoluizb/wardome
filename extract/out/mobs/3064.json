@@ -4,9 +4,9 @@
   "short_desc": "the drunk",
   "long_desc": "A singing, happy Drunk.",
   "detailed_desc": "A drunk who seems to be too happy, and to carry too much money.",
-  "flags_raw": "b 0 400 S",
-  "stats1_raw": "2 19 8 2d6+22 1d6+0",
-  "stats2_raw": "53 200",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "10 0 400 E",
+  "stats1_raw": "2 19 9 1d1+36 5d1+0",
+  "stats2_raw": "30 376 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

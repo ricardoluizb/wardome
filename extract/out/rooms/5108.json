@@ -3,8 +3,8 @@
   "zone_id": 51,
   "name": "The 2nd House",
   "description": "You stand inside the 2nd house of the city.  The room is highly decorated\nwith statues of spiders and murals everywhere.",
-  "header_raw": "51 ad 0",
-  "flags_text": "ad",
+  "header_raw": "51 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

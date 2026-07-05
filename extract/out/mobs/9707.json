@@ -1,0 +1,12 @@
+{
+  "id": 9707,
+  "alias": "oldstyle hephaestus smith",
+  "short_desc": "Hephaestus",
+  "long_desc": "Hephaestus the Smith is here, crafting a fine weapon.",
+  "detailed_desc": "This God is the only one who is not physically perfect.  He is lame and very\nugly.  You get the impression that he is kind, however, and would go out of his\nway to help you.  He is attended by three golden maidens.",
+  "flags_raw": "14 8362 1000 E",
+  "stats1_raw": "180 -70 -17 1d1+5040 5d19+72",
+  "stats2_raw": "2700 15923585 0",
+  "stats3_raw": "8 8 1 10 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/97.mob"
+}

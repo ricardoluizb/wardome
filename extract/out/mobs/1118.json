@@ -1,0 +1,12 @@
+{
+  "id": 1118,
+  "alias": "M",
+  "short_desc": "the shopkeeper",
+  "long_desc": "The shopkeeper smiles and patiently waits for you to buy something.",
+  "detailed_desc": "The shopkeeper will fight like a madman to protect his store from riff-raff\nlike you.",
+  "flags_raw": "24586 0 600 E",
+  "stats1_raw": "85 -26 -5 1d1+3732 5d9+54",
+  "stats2_raw": "1275 2260615 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/11.mob"
+}

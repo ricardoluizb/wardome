@@ -1,0 +1,21 @@
+{
+  "id": 29906,
+  "zone_id": 298,
+  "name": "A stuffy Scriptorium",
+  "description": "You are in a stuffy scriptorium.  The walls are fronted by racks of pigeonholes\ncrammed full of scrolls.  A small ink-stained desk sits in the middle of the\nroom, and a very severe looking chair is propped against it.  Your nose is\nassaulted by the smell of dried ink and dry paper.",
+  "header_raw": "298 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29905
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

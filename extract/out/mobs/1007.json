@@ -1,0 +1,12 @@
+{
+  "id": 1007,
+  "alias": "giant zombie",
+  "short_desc": "the giant zombie",
+  "long_desc": "A rather large zombie is lumbering about here, quite aimlessly.",
+  "detailed_desc": "The zombie giant seems to be wandering around crushing those who\noppose the... it.  It is an enormous mass of rotting flesh and\nfilth that smells, to put it bluntly, really bad.",
+  "flags_raw": "10 1073741960 1000 E",
+  "stats1_raw": "55 -27 -13 1d1+5940 5d16+122",
+  "stats2_raw": "825 868740 10",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/10.mob"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 6920,
+  "zone_id": 69,
+  "name": "The Lair of the Dungeon Ruler",
+  "description": "This is the room of the dungeon ruler.  He is covered with shadows as he\nsits in his huge chair watching your every move and tapping his unbelievably\nlong claws.  His red eyes seem to penetrate yours, telling you to leave this\nmoment...",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6917
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "golden gates",
+      "door_flag": 2,
+      "key": 6907,
+      "to": 6945
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

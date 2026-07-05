@@ -1,0 +1,37 @@
+{
+  "id": 29515,
+  "zone_id": 295,
+  "name": "Sailing Over the Wine Dark Sea",
+  "description": "You are sailing across the deep seas of the north. Dawn appears, fresh and\nrosy-fingered, and catches you making your way across the wine dark stretches\nof the deep sea, sailing toward whatever adventures may wait.",
+  "header_raw": "295 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29520
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29516
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29510
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/295.wld"
+}

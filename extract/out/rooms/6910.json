@@ -1,0 +1,29 @@
+{
+  "id": 6910,
+  "zone_id": 69,
+  "name": "At the End of the Tunnel",
+  "description": "You are at the end of the tunnel, inside a now lit up room.  The dim light\ncomes from torches on either side of you, and from up ahead on both sides.  Up\nahead looks to be a dungeon-type place.  Kind of spooky, don't you think?",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6909
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6911
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

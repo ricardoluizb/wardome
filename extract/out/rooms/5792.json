@@ -1,0 +1,21 @@
+{
+  "id": 5792,
+  "zone_id": 57,
+  "name": "A Giant Room",
+  "description": "Fee Fi Fo Fum! You have entered a huge room filled with huge furniture. \nObviously you have stumbled into the lair of a giant! He probably uses the\ngiant rats in the room you just exited as a food supply. Foul creature!",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "rat room",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5791
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

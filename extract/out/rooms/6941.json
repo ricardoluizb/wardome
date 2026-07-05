@@ -1,0 +1,21 @@
+{
+  "id": 6941,
+  "zone_id": 69,
+  "name": "A Room in the House",
+  "description": "You are in another room of the old house where there really isn't anything.\nA small bed lies in the corner near a large window, and a clock hangs on the\nwall, busted from time.  Flashes of light shine through the window for a half\nsecond and then stop.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6939
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2917,
+  "zone_id": 29,
+  "name": "The tunnel",
+  "description": "You are standing in a dry, dark tunnel.",
+  "header_raw": "29 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a bend in the tunnel.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2918
+    },
+    {
+      "dir": 2,
+      "description": "You see the bottom of the shaft.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2916
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/29.wld"
+}

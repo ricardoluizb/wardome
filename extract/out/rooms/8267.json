@@ -1,0 +1,37 @@
+{
+  "id": 8267,
+  "zone_id": 82,
+  "name": "Revolution Plaza",
+  "description": "You are at the eastern end of the plaza, in front of you is a hotel, and\nit has a sign that says \"Close for remodeling, sorry for the inconvenience\nthat this can cause to you.\" At the west you can see the entrace to the\nMusketeer Headquarters or school.",
+  "header_raw": "82 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8288
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8266
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8268
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

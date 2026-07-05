@@ -1,0 +1,42 @@
+{
+  "id": 3207,
+  "zone_id": 32,
+  "name": "The Atrium and Gardens",
+  "description": "Beautiful green plants wind around bamboo poles here, leaves outfolded to\ncatch the sun's rays coming in from the open sky.  The smell of rich dark earth\noverwhelms your senses, and a small brook winds beneath your feet.",
+  "header_raw": "32 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3210
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3208
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3206
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "brook",
+      "description": "What a nice little bubbling brook!"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/32.wld"
+}

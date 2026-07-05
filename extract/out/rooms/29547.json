@@ -1,0 +1,21 @@
+{
+  "id": 29547,
+  "zone_id": 295,
+  "name": "The Games",
+  "description": "Even during times of war, the Achaeans find time for competitive sports\nmeets, and this war is no exception. This area has been converted into\na rudimentary arena, with lanes for running and chariot racing, circles\nfor discus and shotput, and a ring for boxing.",
+  "header_raw": "295 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29546
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/295.wld"
+}

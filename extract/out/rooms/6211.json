@@ -3,8 +3,8 @@
   "zone_id": 62,
   "name": "By The Barrier",
   "description": "To the west the magical energy barrier crackles and\nhums to itself, almost looking harmless.  Almost -- all\naround on the ground are charred corpses and bodies.\nSeveral poles with skulls on top face to the west, warning\ntravellers on the forest paths away from here.  The air\nsmells of death and decay, and the air is very still.  You\nfeel uncomfortable.",
-  "header_raw": "62 c 3",
-  "flags_text": "c",
+  "header_raw": "62 4 3",
+  "flags_text": "4",
   "sector": 3,
   "exits": [
     {

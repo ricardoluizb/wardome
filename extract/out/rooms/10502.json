@@ -1,0 +1,37 @@
+{
+  "id": 10502,
+  "zone_id": 104,
+  "name": "Halls of Judgement",
+  "description": "You are standing in the Halls of Judgement. There are many alcoves \nwhich contain different methods of torture. Each more grotesque than\nthe one before it. \nThe hall continues to the east and west.\nThe hall of records is to the north.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the Hall of Records.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10492
+    },
+    {
+      "dir": 1,
+      "description": "You see the Halls of Judgement.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10503
+    },
+    {
+      "dir": 3,
+      "description": "You see the Halls of Judgement.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10501
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

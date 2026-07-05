@@ -1,0 +1,29 @@
+{
+  "id": 10029,
+  "zone_id": 100,
+  "name": "Vault",
+  "description": "This huge burial vault does not give you the easy feeling you have been\nhoping to find ever since you entered the forests below this castle.  The\nscattered coffins, the oppressing darkness only lend to the feeling that you\nhave to get out of this place as soon as is possible, sooner even.",
+  "header_raw": "100 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10027
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10030
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/100.wld"
+}

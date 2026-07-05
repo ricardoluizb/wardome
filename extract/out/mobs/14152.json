@@ -1,0 +1,12 @@
+{
+  "id": 14152,
+  "alias": "daemon demon",
+  "short_desc": "the daemon",
+  "long_desc": "He unfurls his wings and swoops into you.",
+  "detailed_desc": "The most dangerous undead, and among the most dangerous of all\nmonsters, this beast can use all magics, is strong and hardy. \nRight now he seems to be busy... killing you.",
+  "flags_raw": "2120 1073742976 -1000 E",
+  "stats1_raw": "175 -69 -17 1d1+6300 5d18+80",
+  "stats2_raw": "2625 17811884 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

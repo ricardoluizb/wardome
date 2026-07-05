@@ -1,0 +1,12 @@
+{
+  "id": 721,
+  "alias": "jailer",
+  "short_desc": "the Jailer",
+  "long_desc": "The jailer reads his newspaper while sitting in his chair.",
+  "detailed_desc": "The jailer looks bored, as if he was in a Fortran class.  That\nbored...really!",
+  "flags_raw": "10 128 100 E",
+  "stats1_raw": "85 -32 -10 1d1+5772 5d17+84",
+  "stats2_raw": "1275 2387774 5",
+  "stats3_raw": "6 6 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

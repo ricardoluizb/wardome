@@ -1,0 +1,12 @@
+{
+  "id": 8154,
+  "alias": "goblin",
+  "short_desc": "the goblin",
+  "long_desc": "A goblin slave driver supervises the miners and cracks his whip!",
+  "detailed_desc": "He lashes fiercely at you with that great whip when he sees you \nin his mine tunnels.",
+  "flags_raw": "6252 1024 -800 E",
+  "stats1_raw": "156 -80 -29 1d1+18096 5d46+172",
+  "stats2_raw": "2340 18376847 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

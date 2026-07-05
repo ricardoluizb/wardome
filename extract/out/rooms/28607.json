@@ -1,0 +1,66 @@
+{
+  "id": 28607,
+  "zone_id": 286,
+  "name": "Into the Dragon Village Plane",
+  "description": "You step through the gate, and into another reality...\n   You find yourself floating in a field of blackness, filled with tiny\ntendrils of silvery light and insubstantial shining motes of dust.  The\nweightlessness of this environment is very disorienting, although it is not too\nlate to return through the gate to the south.",
+  "header_raw": "286 4 2",
+  "flags_text": "4",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The Dragon Village field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28608
+    },
+    {
+      "dir": 1,
+      "description": "The Dragon Village field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28609
+    },
+    {
+      "dir": 2,
+      "description": "The Dragon Village gate leads back to your world.",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": -1,
+      "to": 28606
+    },
+    {
+      "dir": 3,
+      "description": "The Dragon Village field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28610
+    },
+    {
+      "dir": 4,
+      "description": "The Dragon Village field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28611
+    },
+    {
+      "dir": 5,
+      "description": "The Dragon Village field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28612
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "gate",
+      "description": "From here the pearly-coloured gate seems very small and insubstantial.  Through\nits bars you can see the Dragon Village Guardian, protecting your world from th\nperils of this . of existence."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/286.wld"
+}

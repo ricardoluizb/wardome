@@ -1,0 +1,37 @@
+{
+  "id": 731,
+  "zone_id": 7,
+  "name": "Moon Gate Road, West",
+  "description": "An enterprising merchant has set up shop just to your south, the\nsign proclaiming, 'Jenk's Place' in a hundred point font.  It seems to\nbe some sort of 'catch-all' general store.  Also, Moon Gate Road\ncontinues east towards the cliff, and west towards the actual Moon\nGate.",
+  "header_raw": "7 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 729
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 739
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 732
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

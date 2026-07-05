@@ -1,0 +1,45 @@
+{
+  "id": 7789,
+  "zone_id": 77,
+  "name": "Choose your Destiny",
+  "description": "Congratulations! You are the best fight in this Real of Fighter.\nThis Samsara Want you Forever!\nPlease Choose your Final Destiny\n... to become ours master!",
+  "header_raw": "77 128 0",
+  "flags_text": "128",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7791
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7790
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7792
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 7786
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/77.wld"
+}

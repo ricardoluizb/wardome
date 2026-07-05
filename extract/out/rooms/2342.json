@@ -1,0 +1,29 @@
+{
+  "id": 2342,
+  "zone_id": 23,
+  "name": "Among the crude huts",
+  "description": "You walk among the huts of the ogre village. The village appears to be cut\nfrom the heart of the forest itself. The swamp, nearby, provides the ogres\nwith a prime hunting ground. Small paths lead north and east.",
+  "header_raw": "23 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2345
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2343
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

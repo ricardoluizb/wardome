@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Entrance To The Dungeon",
   "description": "You enter a cold damp room with bare roughly hewn stone walls.\nThis room seems very out of place compared to the splendor of the\nrest of the Palace.\n   A large steel grating leads down into darkness, and an iron door\nreturns you to the hallway.",
-  "header_raw": "54 d 0",
-  "flags_text": "d",
+  "header_raw": "54 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

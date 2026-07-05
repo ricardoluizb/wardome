@@ -1,0 +1,34 @@
+{
+  "id": 11530,
+  "zone_id": 115,
+  "name": "The Entrance To The WarDome",
+  "description": "You gaze in awe at mammoth WarDome.  It is a masterpiece in modern\narchitecture and technology, built of huge marble columns leading up to golden\nfigures of typical stadium fans -- beautiful, but at the same time oddly\ngrotesque.  An egg-shaped dome covers the stadium which has the ability to\nretract during ideal weather conditions (rain, sleet, wind and hail).  A large\nelectronic &RScreen&n adorns the side of the edifice, promoting today's event.\nFirst street is to the west, east takes you into the WarDome.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11531
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11529
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "screen",
+      "description": "**********************************************************\n*                                                        *\n*                        WarDome                         *\n*                        -------                         *\n*                    Capacity: 82,172                    *\n*                                                        *\n*       Today:     The Orcland Raiders                   *\n*                           vs.                          *\n*                The New Sparta Warriors                 *\n*                                                        *\n*       The Warriors host the Western-Division Champ     *\n*       Orcland team in the Conference Championship      *\n*       Game to determine which squad will meet the      *\n*       winner of the Dwarf Giants-Champions of Death    *\n*              match-up in Blood Bowl XII.               *\n*                                                        *\n*                   STANDING ROOM ONLY                   *\n**********************************************************"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

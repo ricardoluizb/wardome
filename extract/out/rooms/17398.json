@@ -1,0 +1,21 @@
+{
+  "id": 17398,
+  "zone_id": 173,
+  "name": "Stables",
+  "description": "You stand in the vast stables of Camelot. Row upon row of stalls greet \nyour eye. Smells of horse sweat and fresh straw combine in a pleasant mix. \nStable hands are busy currying animals, shoeing horses, and feeding the \nmagnificant chargers of Camelot. Light filters in through the rafters. \nTo your west is Knight's Way.",
+  "header_raw": "173 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "Knight's Way",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17342
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

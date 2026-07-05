@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "A Torture Chamber",
   "description": "You are in an ill lit chamber.  Instruments of torture hang from a rack\non the wall, they seem to quiver with anticipation of a victim as if they\nhad a mind of their own.  An operating table is here, though it is bare.\n   An extreme feeling of evil permeates the entire area.",
-  "header_raw": "25 adg 0",
-  "flags_text": "adg",
+  "header_raw": "25 73 0",
+  "flags_text": "73",
   "sector": 0,
   "exits": [
     {

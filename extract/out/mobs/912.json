@@ -1,0 +1,12 @@
+{
+  "id": 912,
+  "alias": "mob unfinished",
+  "short_desc": "the unfinished mob",
+  "long_desc": "An unfinished mob stands here.",
+  "detailed_desc": "It looks unfinished.",
+  "flags_raw": "8 0 0 E",
+  "stats1_raw": "100 -44 -15 1d1+8400 5d21+110",
+  "stats2_raw": "1500 4010169 7",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/9.mob"
+}

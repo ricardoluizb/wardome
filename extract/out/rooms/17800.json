@@ -1,0 +1,29 @@
+{
+  "id": 17800,
+  "zone_id": 178,
+  "name": "Entrance to Gnome Village",
+  "description": "You stand on a dusty path that leads north and east.  To the east you hear\nthe sounds of a small village.",
+  "header_raw": "178 4 2",
+  "flags_text": "4",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15062
+    },
+    {
+      "dir": 1,
+      "description": "You see a dusty path.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17801
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 816,
+  "zone_id": 7,
+  "name": "Passageway",
+  "description": "You feel this was the wrong decision, somehow.  There are two\n'nests' here, for the lack of a better word, looking recently used.",
+  "header_raw": "7 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 801
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

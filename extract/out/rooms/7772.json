@@ -1,0 +1,26 @@
+{
+  "id": 7772,
+  "zone_id": 77,
+  "name": "A tiny cell",
+  "description": "You are in a cold, dank, cramped cell.\n   The only exit is back through the door to the north.",
+  "header_raw": "77 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the cellblock.",
+      "keywords": "door cell",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7770
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "door cell",
+      "description": "The cell door is wooden and about 4' high, with a slot in the bottom to pass\nfood underneath to the prisoner."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/77.wld"
+}

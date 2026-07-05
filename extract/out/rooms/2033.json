@@ -1,0 +1,21 @@
+{
+  "id": 2033,
+  "zone_id": 20,
+  "name": "Bear",
+  "description": "To My Honeybear My Hairy Bear - Love Always - Shimmer Here I stand, and my\nspirits rise.. all my feelings...I feel I have many loves. loves that I can\nnot live with out.. I have many desires, which are what I Iam all about..\nI love walking on beaches and warm summer breezes.. I love sunsets and\nlaughter and star filled skies.. *My life is complicated, My loving is deep If\nyou are part of that life you KNOW... If you have my heart...  you have my\nmind..my soul..my love.. and I will share my life with you.. I am a gentle\nand caring woman and would cherish your friendship forever..",
+  "header_raw": "20 2716 0",
+  "flags_text": "2716",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2020
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

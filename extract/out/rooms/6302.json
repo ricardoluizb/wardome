@@ -3,8 +3,8 @@
   "zone_id": 63,
   "name": "The Webby Passage",
   "description": "You find that footing here is very good, almost too good.  The\nlimbs are coated with cobwebs and seem unusually strong for tree\nbranches.  Paths lead in four directions.  The eastward path goes\ndown a bit.",
-  "header_raw": "63 0 2",
-  "flags_text": "0",
+  "header_raw": "63 16777216 2",
+  "flags_text": "16777216",
   "sector": 2,
   "exits": [
     {

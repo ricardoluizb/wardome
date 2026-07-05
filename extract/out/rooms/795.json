@@ -1,0 +1,37 @@
+{
+  "id": 795,
+  "zone_id": 7,
+  "name": "Hallway",
+  "description": "This hall leads to the northern part of the second floor, where two\nbedrooms lead off to the east and west.  There is nothing remotely\ninteresting here, since the general decrepency of the house is now no\nlonger 'new' to you.  Another window looks out over top a gambling\nparlor to the north, where you see several low-life types walking and\nstaggering in and out.  The starlight filtering in through the window\nmakes this hall a bit more illuminated than the rest of the house.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 796
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 791
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 797
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

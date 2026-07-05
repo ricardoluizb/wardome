@@ -1,0 +1,45 @@
+{
+  "id": 8259,
+  "zone_id": 82,
+  "name": "Champs Elysees",
+  "description": "You are in the Champs Elysees this place is very dark, because the branches\nof the trees doesnt let the solar light pass. Here you see some squirrels\nplaying in the trees, and coleecting some nuts for the winter. The weater\nis very cold, and wet, you are wishing you had brought your sweater. From\nhere you can go north, east, south, and west, for this reason you have lost\nall sense of direction.",
+  "header_raw": "82 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8259
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8258
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8254
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8260
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

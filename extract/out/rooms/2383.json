@@ -1,0 +1,42 @@
+{
+  "id": 2383,
+  "zone_id": 23,
+  "name": "Standing before the throne",
+  "description": "You stand before the throne of Mahn-Tor. This golden throne is so huge that it\ntakes up almost the entire wall, stretching far above the floor. Sitting upon\nit, you feel small and feeble. It is evident that this throne is more of a\ndecoration than anything else. Only the largest of kings could sit upon it.\nThe hall leads south and west into other parts of the keep.",
+  "header_raw": "23 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see a huge golden throne there.",
+      "keywords": "throne huge golden",
+      "door_flag": 1,
+      "key": 0,
+      "to": 2385
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2384
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2381
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "throne huge gold golden",
+      "description": "The golden throne is huge. It takes up the whole wall........."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

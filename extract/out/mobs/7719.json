@@ -1,0 +1,12 @@
+{
+  "id": 7719,
+  "alias": "oldstyle fire furnace flame",
+  "short_desc": "a massive blast of fire",
+  "long_desc": "The fires of the furnace burn away at your skin!",
+  "detailed_desc": "The fire feeds on your skin like a living being, licking out at your hair.",
+  "flags_raw": "4194346 1024 0 E",
+  "stats1_raw": "90 -25 -3 1d1+2520 5d10+36",
+  "stats2_raw": "1350 2160224 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/77.mob"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 14339,
+  "zone_id": 143,
+  "name": "The Royal Bath",
+  "description": "This room is lit with bright light from above. A large wooden chair has been\nplaced before a giant mirror, and a large man made pool is in the far north\ncorner. Several toiletry items have been scattered on a bureau.",
+  "header_raw": "143 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The room to the south is dimly lit making it difficult to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14338
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9114,
+  "zone_id": 91,
+  "name": "Small valley.",
+  "description": "You are in a lush valley full of trees and other vegetation and the\nodd carcass or three.  The trail leads north and it leads down into\na crevasse.",
+  "header_raw": "91 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9113
+    },
+    {
+      "dir": 5,
+      "description": "The crevice looks a little slippery.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9115
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

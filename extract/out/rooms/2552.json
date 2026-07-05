@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "An Empty Classroom",
   "description": "You are in an empty classroom.  Some strange sigils are written on a\nblackboard which is floating in the air here.  Other than a few desks,\nit is bare of furnishings.\n   The only apparent exit leads back east to the hallway.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

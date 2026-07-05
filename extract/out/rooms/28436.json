@@ -1,0 +1,29 @@
+{
+  "id": 28436,
+  "zone_id": 284,
+  "name": "Bermude s Triangle",
+  "description": "You cant believe!\nBack to Bermude s Triangle way?\n  Thats the Awesome magic place.isnt it?",
+  "header_raw": "284 265 6",
+  "flags_text": "265",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28437
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28435
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/284.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1055,
+  "zone_id": 10,
+  "name": "A Clearing in the Forest",
+  "description": "You stand in the clearing in the forest, the dense forest stands behind you\nto the south. A small stone path just up ahead leads towards a large building\nto the north. Blocking the path directly to the north is a large stone wall\nwith an iron wrought gate planted firmly where the path would pass through it.\nThe building to the north appears to be an old church or cathedral.",
+  "header_raw": "10 4 2",
+  "flags_text": "4",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "An iron wrought gate stands in the middle of the stone wall, and blocks\nthe way northwards into the courtyard of the cathedral.",
+      "keywords": "gate iron wrought",
+      "door_flag": 1,
+      "key": -1,
+      "to": 1000
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6003
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

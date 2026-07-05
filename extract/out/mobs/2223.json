@@ -1,0 +1,12 @@
+{
+  "id": 2223,
+  "alias": "oldstyle dragon white",
+  "short_desc": "the Great White Dragon",
+  "long_desc": "A white dragon is here, waiting for you.",
+  "detailed_desc": "This dragon towers over you.  Recalling your previous experiences with white\ndragons, you are not afraid.  She smiles at you and says 'I think you will find\nme a greater challenge than my offspring.'",
+  "flags_raw": "329770 8389800 -1000 E",
+  "stats1_raw": "185 -88 -29 1d1+17016 5d37+154",
+  "stats2_raw": "2775 24640175 8",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/22.mob"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 22041,
+  "zone_id": 220,
+  "name": "Dead end in the maze",
+  "description": "There is a large pile of rubble blocking your way, you cannot journey any\nfurther. The only way back out is to the south.",
+  "header_raw": "220 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22040
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/220.wld"
+}

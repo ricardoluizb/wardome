@@ -1,0 +1,29 @@
+{
+  "id": 28418,
+  "zone_id": 284,
+  "name": "Unbelievable!!",
+  "description": "You are standing in front of a big sign:\n\n    DO NOT ENTER! ALL INTRUDERS MUST DIE!\n\n  You recognize this words...HUMANOID WORDS!",
+  "header_raw": "284 8 6",
+  "flags_text": "8",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "Entryway lies to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28417
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "rock",
+      "door_flag": 1,
+      "key": -1,
+      "to": 28419
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/284.wld"
+}

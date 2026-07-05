@@ -1,0 +1,29 @@
+{
+  "id": 2792,
+  "zone_id": 27,
+  "name": "Ermes Ruined Place",
+  "description": "You are in the ruins of Ermes.  In the darkness, you can see Dark Knights.  \nThey're known as Nazgul.",
+  "header_raw": "27 65 5",
+  "flags_text": "65",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2793
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2791
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

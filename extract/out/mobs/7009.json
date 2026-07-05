@@ -4,9 +4,9 @@
   "short_desc": "the shadowy morkoth",
   "long_desc": "The morkoth are standing here, waiting for someone to KILL!",
   "detailed_desc": "It is a five foot tall, shadow monster.  This has the shape between\na human and a rat.  It breaths very heavily while staring at you.",
-  "flags_raw": "afh f -900 S",
-  "stats1_raw": "10 12 3 1d20+120 2d6+0",
-  "stats2_raw": "1 9000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "169 32 -900 E",
+  "stats1_raw": "15 13 7 1d1+315 5d2+6",
+  "stats2_raw": "225 18413 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/70.mob"
 }

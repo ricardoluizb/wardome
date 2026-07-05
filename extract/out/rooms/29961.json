@@ -1,0 +1,29 @@
+{
+  "id": 29961,
+  "zone_id": 298,
+  "name": "A small guardroom",
+  "description": "Walking further down this thick tree limb you come to a small sheltered\nguardroom.  It has several lanterns hanging from the ceiling that give off just\nenough light to see.  A small table has been set up with several chairs that\nthe guards off duty are at.  A small pile of gear sits in one corner, worthless\nby the looks of it.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29960
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29962
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

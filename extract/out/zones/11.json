@@ -1,0 +1,1204 @@
+{
+  "id": 11,
+  "name": "The Shire",
+  "header": {
+    "raw": "1199 120 1 1 -1",
+    "min_room": 1199,
+    "top_room": 120,
+    "lifespan": 1,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1116,
+        1,
+        1136
+      ],
+      "comment": "(the elven warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1106,
+        1,
+        16
+      ],
+      "comment": "(an elven spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1117,
+        1,
+        1136
+      ],
+      "comment": "(the dwarven prince)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1107,
+        1,
+        16
+      ],
+      "comment": "(a mithril axe)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1130,
+        10,
+        19
+      ],
+      "comment": "(&RTiny &yEarring&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1131,
+        10,
+        21
+      ],
+      "comment": "(a &cSmall &gFace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1129,
+        1,
+        1127
+      ],
+      "comment": "(the mage Maltzabor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1113,
+        1,
+        1116
+      ],
+      "comment": "(the Innkeeper)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1123,
+        5,
+        1116
+      ],
+      "comment": "(a seasoned adventurer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1123,
+        5,
+        1116
+      ],
+      "comment": "(a seasoned adventurer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1124,
+        2,
+        1116
+      ],
+      "comment": "(a local gossip)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1124,
+        2,
+        1116
+      ],
+      "comment": "(a local gossip)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1127,
+        7,
+        1116
+      ],
+      "comment": "(a chic urbanite)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1127,
+        7,
+        1116
+      ],
+      "comment": "(a chic urbanite)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1127,
+        7,
+        1116
+      ],
+      "comment": "(a chic urbanite)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        1102,
+        1,
+        1103
+      ],
+      "comment": "(a sign)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1118,
+        1,
+        1105
+      ],
+      "comment": "(the shopkeeper)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1111,
+        99,
+        -1
+      ],
+      "comment": "(a bag)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1112,
+        99,
+        -1
+      ],
+      "comment": "(a lantern)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1120,
+        1,
+        1107
+      ],
+      "comment": "(the blacksmith)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1104,
+        2,
+        1108
+      ],
+      "comment": "(a nursemaid)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1104,
+        2,
+        1108
+      ],
+      "comment": "(a nursemaid)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1103,
+        6,
+        1108
+      ],
+      "comment": "(a toddler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1103,
+        6,
+        1108
+      ],
+      "comment": "(a toddler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1103,
+        6,
+        1108
+      ],
+      "comment": "(a toddler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1103,
+        6,
+        1108
+      ],
+      "comment": "(a toddler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1103,
+        6,
+        1108
+      ],
+      "comment": "(a toddler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1103,
+        6,
+        1108
+      ],
+      "comment": "(a toddler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1110,
+        8,
+        1110
+      ],
+      "comment": "(a shiriff)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1116,
+        9,
+        16
+      ],
+      "comment": "(a shiriff's dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1110,
+        8,
+        1110
+      ],
+      "comment": "(a shiriff)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1111,
+        4,
+        1110
+      ],
+      "comment": "(a shiriff)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1112,
+        1,
+        1111
+      ],
+      "comment": "(the Thain)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1117,
+        100,
+        16
+      ],
+      "comment": "(the Thain's club)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1108,
+        5,
+        13
+      ],
+      "comment": "(the thain girth)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1128,
+        4,
+        1114
+      ],
+      "comment": "(a country bumpkin)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1103,
+        99,
+        -1
+      ],
+      "comment": "(a pipeweed bread)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1128,
+        4,
+        1115
+      ],
+      "comment": "(a country bumpkin)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1103,
+        99,
+        -1
+      ],
+      "comment": "(a pipeweed bread)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1121,
+        1,
+        1117
+      ],
+      "comment": "(the battle master)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1113,
+        100,
+        16
+      ],
+      "comment": "(a bardiche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1126,
+        3,
+        1117
+      ],
+      "comment": "(a trainee)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1115,
+        100,
+        16
+      ],
+      "comment": "(a wooden bardiche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1126,
+        3,
+        1117
+      ],
+      "comment": "(a trainee)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1115,
+        100,
+        16
+      ],
+      "comment": "(a wooden bardiche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1126,
+        3,
+        1117
+      ],
+      "comment": "(a trainee)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1115,
+        100,
+        16
+      ],
+      "comment": "(a wooden bardiche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1110,
+        8,
+        1119
+      ],
+      "comment": "(a shiriff)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1116,
+        3,
+        16
+      ],
+      "comment": "(a shiriff's dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1110,
+        8,
+        1119
+      ],
+      "comment": "(a shiriff)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1111,
+        4,
+        1119
+      ],
+      "comment": "(a shiriff)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1119,
+        1,
+        1121
+      ],
+      "comment": "(the grocer)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1103,
+        99,
+        -1
+      ],
+      "comment": "(a pipeweed bread)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1115,
+        6,
+        1123
+      ],
+      "comment": "(the mill worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1115,
+        6,
+        1123
+      ],
+      "comment": "(the mill worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1115,
+        6,
+        1124
+      ],
+      "comment": "(the mill worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1115,
+        6,
+        1124
+      ],
+      "comment": "(the mill worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1115,
+        6,
+        1124
+      ],
+      "comment": "(the mill worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1114,
+        1,
+        1124
+      ],
+      "comment": "(the Miller)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1115,
+        6,
+        1125
+      ],
+      "comment": "(the mill worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1122,
+        9,
+        1129
+      ],
+      "comment": "(a halfling youth)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1122,
+        9,
+        1129
+      ],
+      "comment": "(a halfling youth)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1122,
+        9,
+        1129
+      ],
+      "comment": "(a halfling youth)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1122,
+        9,
+        1130
+      ],
+      "comment": "(a halfling youth)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1122,
+        9,
+        1130
+      ],
+      "comment": "(a halfling youth)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1122,
+        9,
+        1130
+      ],
+      "comment": "(a halfling youth)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1125,
+        1,
+        1128
+      ],
+      "comment": "(a halfling beauty)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1100,
+        1,
+        1128
+      ],
+      "comment": "(the Elven Wizard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1104,
+        1,
+        12
+      ],
+      "comment": "(a silvery cloak)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1100,
+        1,
+        0
+      ],
+      "comment": "(the rainbow staff)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1101,
+        1,
+        1137
+      ],
+      "comment": "(the Keeper of the Ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1101,
+        1,
+        16
+      ],
+      "comment": "(sting)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1105,
+        1,
+        1
+      ],
+      "comment": "(the One Ring)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1108,
+        1,
+        1138
+      ],
+      "comment": "(a bull)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1106,
+        5,
+        1139
+      ],
+      "comment": "(a pig)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1106,
+        5,
+        1139
+      ],
+      "comment": "(a pig)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1106,
+        5,
+        1139
+      ],
+      "comment": "(a pig)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1106,
+        5,
+        1139
+      ],
+      "comment": "(a pig)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1106,
+        5,
+        1139
+      ],
+      "comment": "(a pig)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1102,
+        1,
+        1141
+      ],
+      "comment": "(Farmer Gamgee)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1105,
+        3,
+        1142
+      ],
+      "comment": "(a cow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1105,
+        3,
+        1142
+      ],
+      "comment": "(a cow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1105,
+        3,
+        1142
+      ],
+      "comment": "(a cow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1109,
+        4,
+        1142
+      ],
+      "comment": "(a horse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1109,
+        4,
+        1142
+      ],
+      "comment": "(a horse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1109,
+        4,
+        1142
+      ],
+      "comment": "(a horse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1109,
+        4,
+        1142
+      ],
+      "comment": "(a horse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1107,
+        6,
+        1143
+      ],
+      "comment": "(a chicken)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1110,
+        100,
+        -1
+      ],
+      "comment": "(an egg)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1107,
+        6,
+        1143
+      ],
+      "comment": "(a chicken)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1110,
+        100,
+        -1
+      ],
+      "comment": "(an egg)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1107,
+        6,
+        1143
+      ],
+      "comment": "(a chicken)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1110,
+        100,
+        -1
+      ],
+      "comment": "(an egg)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1107,
+        6,
+        1143
+      ],
+      "comment": "(a chicken)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1110,
+        100,
+        -1
+      ],
+      "comment": "(an egg)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1107,
+        6,
+        1143
+      ],
+      "comment": "(a chicken)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1110,
+        100,
+        -1
+      ],
+      "comment": "(an egg)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1107,
+        6,
+        1143
+      ],
+      "comment": "(a chicken)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1110,
+        100,
+        -1
+      ],
+      "comment": "(an egg)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1130,
+        1,
+        1144
+      ],
+      "comment": "(the Innkeeper)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1110,
+        99,
+        -1
+      ],
+      "comment": "(an egg)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1131,
+        1,
+        1157
+      ],
+      "comment": "(the receptionist)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1123,
+        5,
+        1144
+      ],
+      "comment": "(a seasoned adventurer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1123,
+        5,
+        1144
+      ],
+      "comment": "(a seasoned adventurer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1123,
+        5,
+        1144
+      ],
+      "comment": "(a seasoned adventurer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1127,
+        7,
+        1144
+      ],
+      "comment": "(a chic urbanite)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1127,
+        7,
+        1144
+      ],
+      "comment": "(a chic urbanite)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1127,
+        7,
+        1144
+      ],
+      "comment": "(a chic urbanite)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1127,
+        7,
+        1144
+      ],
+      "comment": "(a chic urbanite)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1110,
+        8,
+        1145
+      ],
+      "comment": "(a shiriff)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1116,
+        3,
+        16
+      ],
+      "comment": "(a shiriff's dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1110,
+        8,
+        1145
+      ],
+      "comment": "(a shiriff)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1111,
+        4,
+        1145
+      ],
+      "comment": "(a shiriff)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1110,
+        8,
+        1153
+      ],
+      "comment": "(a shiriff)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1116,
+        3,
+        16
+      ],
+      "comment": "(a shiriff's dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1110,
+        8,
+        1153
+      ],
+      "comment": "(a shiriff)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1111,
+        4,
+        1153
+      ],
+      "comment": "(a shiriff)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1128,
+        4,
+        1154
+      ],
+      "comment": "(a country bumpkin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1128,
+        4,
+        1155
+      ],
+      "comment": "(a country bumpkin)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/11.zon"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 514,
+  "zone_id": 5,
+  "name": "&BThe Temple of the Orcs&n",
+  "description": "It seems quite difficult to believe that in the underworld, where\neven for the insects it is difficult to live, life exists. You are\nstanding in the Temple of Orcs, the most horrible race in Wardome.\nThere is manny paintings in the walls, you cannot realize who is their\ngod, or who is their chief.\n   The exit to the Temple Street is to the South.",
+  "header_raw": "5 1048596 0",
+  "flags_text": "1048596",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 508
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

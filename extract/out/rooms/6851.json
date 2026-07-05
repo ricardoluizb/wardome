@@ -1,0 +1,29 @@
+{
+  "id": 6851,
+  "zone_id": 67,
+  "name": "A red portal",
+  "description": "You stand in the shimmering glow of a portal of deep red light.\nThis is the gift of the Archmage to the warriors guild, in return\nfor other favors, of course. Beyond the glare is a vision of\nthe temple courtyard, the center of town, to the west.",
+  "header_raw": "67 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6850
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6701
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

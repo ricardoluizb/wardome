@@ -1,0 +1,53 @@
+{
+  "id": 11222,
+  "zone_id": 112,
+  "name": "Main Street",
+  "description": "Main Street ends at a corner here, where it bends sharply to the west\nand south, the two roads meeting at right angles forming one corner\nof the quadrangle street that most of Hochenyana depends on. Piles of\ndebris are all about here, in stark contrast to the clean swept street\nwest of here. It is as if someone or something had swept all of the rubbish\ninto this one section of road.",
+  "header_raw": "112 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11223
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11224
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11225
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11219
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "grate",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11281
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

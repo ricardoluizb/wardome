@@ -1,0 +1,12 @@
+{
+  "id": 13100,
+  "alias": "Samurai Trainee",
+  "short_desc": "a Samurai Trainee",
+  "long_desc": "A Samurai Trainee is standing here trying to gather lost Karma.",
+  "detailed_desc": "You see before you a young Samurai.  His clothes and weapon indicate that he\nis only a trainee.",
+  "flags_raw": "2122 8 900 E",
+  "stats1_raw": "130 -47 -11 1d1+4680 5d14+62",
+  "stats2_raw": "1950 7522225 1",
+  "stats3_raw": "8 8 1 6 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/131.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 14162,
+  "alias": "batlin",
+  "short_desc": "Batlin",
+  "long_desc": "Batlin says, 'Join the Fellowship.'",
+  "detailed_desc": "Batlin is an evil man that goes around and corrupts the young. \nYou see also that he has a full set of mantras, probably stolen\nfrom their rightful owners.  He is though protected by the power\nof his god.",
+  "flags_raw": "264298 1152 -1000 E",
+  "stats1_raw": "180 -72 -18 1d1+6480 5d19+82",
+  "stats2_raw": "2700 19335782 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 7800,
+  "alias": "oldstyle dog cooshee",
+  "short_desc": "a cooshee",
+  "long_desc": "A rather large dog is here, wandering the valley.",
+  "detailed_desc": "A beast is the size of the largest common dog.  It has a greenish coat with\nbrown spots.  Its shape, along with its colors, make this cooshee almost\nundetectable as it moves.",
+  "flags_raw": "200 262144 0 E",
+  "stats1_raw": "70 -21 -5 1d1+3636 5d8+58",
+  "stats2_raw": "1050 1328062 3",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/78.mob"
+}

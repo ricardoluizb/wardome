@@ -3,8 +3,8 @@
   "zone_id": 79,
   "name": "The Northern End Of The Hall",
   "description": "You are standing in the northern end of the huge hall.  This part is\nunder the grand wooden staircase so the light seems to be a little less\nbright here, but this doesn't affect your sight at all.  To the north\nlies the kitchen.  To the south lies the southern end of the hall.  To\nthe east there is a huge metal door.  To the west there is a large\naspenwood door.",
-  "header_raw": "79 cdj 0",
-  "flags_text": "cdj",
+  "header_raw": "79 524 0",
+  "flags_text": "524",
   "sector": 0,
   "exits": [
     {

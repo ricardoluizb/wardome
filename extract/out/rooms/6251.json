@@ -3,8 +3,8 @@
   "zone_id": 62,
   "name": "A Cave",
   "description": "You are standing just inside a largish cave, about a \nhundred feet in diameter.  A few dim make-shift lanterns \nburning animal fat illuminate the area, just enough so you\ncan see the rotted food on the floor, and a few bodies \nsprawled throughout the whole area.  Your disgust quickly \nturns to horror as you see a horrible creature, half...\nwell, half something and half orc dash between two \nstalagmites.",
-  "header_raw": "62 d 4",
-  "flags_text": "d",
+  "header_raw": "62 8 4",
+  "flags_text": "8",
   "sector": 4,
   "exits": [
     {

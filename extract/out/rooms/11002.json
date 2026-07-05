@@ -1,0 +1,29 @@
+{
+  "id": 11002,
+  "zone_id": 110,
+  "name": "The sanctuary",
+  "description": "This is a big dragon cemetery, huge bones and skulls are every where you\ncan look, as far as you can see the floor is all covered with bones of\nold dragons.",
+  "header_raw": "110 4 0",
+  "flags_text": "4",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13200
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28600
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/110.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Magic Shop",
   "description": "You are in the High Tower's store of magic.  This place sells all\nsorts of herbs, parchment and other reagents used in magical studies.\n   The only exit leads back east to the common room.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 216 0",
+  "flags_text": "216",
   "sector": 0,
   "exits": [
     {

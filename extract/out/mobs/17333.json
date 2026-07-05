@@ -1,0 +1,12 @@
+{
+  "id": 17333,
+  "alias": "troubadour",
+  "short_desc": "a troubadour",
+  "long_desc": "A troubadour is here, strumming a merry tune.",
+  "detailed_desc": "The troubadour is playing on a mandolin, and is dressed in festival colors.",
+  "flags_raw": "14 0 100 E",
+  "stats1_raw": "103 -31 -5 1d1+2880 5d11+40",
+  "stats2_raw": "1545 3173542 0",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/173.mob"
+}

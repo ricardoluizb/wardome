@@ -1,0 +1,21 @@
+{
+  "id": 30069,
+  "zone_id": 300,
+  "name": "An elven home",
+  "description": "Entering this spacious bedroom, you notice the great window in the roof.  \nDirectly below this is a double bed.  You know the elves love the stars and can\nsee that the couple who lives here is no exception.  The bed looks very\ninviting but you doubt you could sleep here: lights would be shining in your\neyes.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30068
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

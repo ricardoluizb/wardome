@@ -1,0 +1,21 @@
+{
+  "id": 2773,
+  "zone_id": 27,
+  "name": "Prancing Pony Private sleeping Room",
+  "description": "You are in the private sleeping chambers of Mr.  And Mrs.  Butterbur, the\ninnkeepers of the Prancing Pony.  The room is sparsely decorated because the\nButterburs spend most of their time in other parts of the Inn.  The bed,\nhowever, looks very comfortable and you feel drawn to rest on it.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2769
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

@@ -2,13 +2,33 @@
   "id": 53,
   "name": "The Great Pyramid",
   "header": {
-    "raw": "5300 5399 20 2",
-    "min_room": 5300,
-    "top_room": 5399,
-    "lifespan": 20,
-    "reset_mode": 2
+    "raw": "5399 20 2 1 -1",
+    "min_room": 5399,
+    "top_room": 20,
+    "lifespan": 2,
+    "reset_mode": 1
   },
   "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5312,
+        3,
+        5348
+      ],
+      "comment": "(the hieracosphinx)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        5330,
+        1,
+        5348
+      ],
+      "comment": "(stargate)"
+    },
     {
       "cmd": "M",
       "args": [
@@ -17,7 +37,7 @@
         6,
         5302
       ],
-      "comment": "Asp"
+      "comment": "(the horrible asp)"
     },
     {
       "cmd": "M",
@@ -27,7 +47,7 @@
         6,
         5305
       ],
-      "comment": "Asp"
+      "comment": "(the horrible asp)"
     },
     {
       "cmd": "M",
@@ -37,7 +57,7 @@
         6,
         5313
       ],
-      "comment": "Asp"
+      "comment": "(the horrible asp)"
     },
     {
       "cmd": "M",
@@ -47,7 +67,7 @@
         6,
         5340
       ],
-      "comment": "Asp"
+      "comment": "(the horrible asp)"
     },
     {
       "cmd": "M",
@@ -57,7 +77,7 @@
         4,
         5303
       ],
-      "comment": "Cobra"
+      "comment": "(the hooded cobra snake)"
     },
     {
       "cmd": "M",
@@ -67,7 +87,7 @@
         4,
         5341
       ],
-      "comment": "Cobra"
+      "comment": "(the hooded cobra snake)"
     },
     {
       "cmd": "M",
@@ -77,7 +97,7 @@
         3,
         5306
       ],
-      "comment": "Mongoose"
+      "comment": "(the wily little mongoose)"
     },
     {
       "cmd": "M",
@@ -87,7 +107,7 @@
         3,
         5316
       ],
-      "comment": "Mongoose"
+      "comment": "(the wily little mongoose)"
     },
     {
       "cmd": "M",
@@ -97,7 +117,7 @@
         3,
         5326
       ],
-      "comment": "Mongoose"
+      "comment": "(the wily little mongoose)"
     },
     {
       "cmd": "M",
@@ -107,7 +127,7 @@
         6,
         5309
       ],
-      "comment": "Pyramid Watcher"
+      "comment": "(the pyramid watcher)"
     },
     {
       "cmd": "E",
@@ -117,7 +137,7 @@
         6,
         16
       ],
-      "comment": "Egyptian Mace"
+      "comment": "(an egyptian mace)"
     },
     {
       "cmd": "M",
@@ -127,7 +147,7 @@
         6,
         5309
       ],
-      "comment": "Pyramid Watcher"
+      "comment": "(the pyramid watcher)"
     },
     {
       "cmd": "E",
@@ -137,7 +157,7 @@
         10,
         12
       ],
-      "comment": "Sand-Coloured Robes"
+      "comment": "(some sand-colored robes)"
     },
     {
       "cmd": "M",
@@ -147,7 +167,7 @@
         6,
         5337
       ],
-      "comment": "Pyramid Watcher"
+      "comment": "(the pyramid watcher)"
     },
     {
       "cmd": "E",
@@ -157,7 +177,7 @@
         6,
         16
       ],
-      "comment": "Egyptian Mace"
+      "comment": "(an egyptian mace)"
     },
     {
       "cmd": "M",
@@ -167,7 +187,7 @@
         6,
         5337
       ],
-      "comment": "Pyramid Watcher"
+      "comment": "(the pyramid watcher)"
     },
     {
       "cmd": "E",
@@ -177,7 +197,7 @@
         10,
         12
       ],
-      "comment": "Sand-Coloured Robes"
+      "comment": "(some sand-colored robes)"
     },
     {
       "cmd": "M",
@@ -187,7 +207,7 @@
         6,
         5340
       ],
-      "comment": "Pyramid Watcher"
+      "comment": "(the pyramid watcher)"
     },
     {
       "cmd": "E",
@@ -197,7 +217,7 @@
         6,
         16
       ],
-      "comment": "Egyptian Mace"
+      "comment": "(an egyptian mace)"
     },
     {
       "cmd": "M",
@@ -207,7 +227,7 @@
         6,
         5340
       ],
-      "comment": "Pyramid Watcher"
+      "comment": "(the pyramid watcher)"
     },
     {
       "cmd": "E",
@@ -217,7 +237,7 @@
         10,
         12
       ],
-      "comment": "Sand-Coloured Robes"
+      "comment": "(some sand-colored robes)"
     },
     {
       "cmd": "M",
@@ -227,7 +247,7 @@
         6,
         5325
       ],
-      "comment": "Tomb Thief"
+      "comment": "(the tomb thief)"
     },
     {
       "cmd": "E",
@@ -237,7 +257,7 @@
         7,
         16
       ],
-      "comment": "Obsidian Dagger"
+      "comment": "(an obsidian dirk)"
     },
     {
       "cmd": "M",
@@ -247,7 +267,7 @@
         6,
         5326
       ],
-      "comment": "Tomb Thief"
+      "comment": "(the tomb thief)"
     },
     {
       "cmd": "E",
@@ -257,7 +277,7 @@
         7,
         16
       ],
-      "comment": "Obsidian Dagger"
+      "comment": "(an obsidian dirk)"
     },
     {
       "cmd": "M",
@@ -267,7 +287,7 @@
         6,
         5333
       ],
-      "comment": "Tomb Thief"
+      "comment": "(the tomb thief)"
     },
     {
       "cmd": "E",
@@ -277,7 +297,7 @@
         7,
         16
       ],
-      "comment": "Obsidian Dagger"
+      "comment": "(an obsidian dirk)"
     },
     {
       "cmd": "M",
@@ -287,7 +307,7 @@
         6,
         5334
       ],
-      "comment": "Tomb Thief"
+      "comment": "(the tomb thief)"
     },
     {
       "cmd": "E",
@@ -297,7 +317,7 @@
         7,
         16
       ],
-      "comment": "Obsidian Dagger"
+      "comment": "(an obsidian dirk)"
     },
     {
       "cmd": "M",
@@ -307,7 +327,7 @@
         6,
         5335
       ],
-      "comment": "Tomb Thief"
+      "comment": "(the tomb thief)"
     },
     {
       "cmd": "E",
@@ -317,7 +337,7 @@
         7,
         16
       ],
-      "comment": "Obsidian Dagger"
+      "comment": "(an obsidian dirk)"
     },
     {
       "cmd": "M",
@@ -327,7 +347,7 @@
         6,
         5342
       ],
-      "comment": "Tomb Thief"
+      "comment": "(the tomb thief)"
     },
     {
       "cmd": "E",
@@ -337,7 +357,7 @@
         7,
         16
       ],
-      "comment": "Obsidian Dagger"
+      "comment": "(an obsidian dirk)"
     },
     {
       "cmd": "M",
@@ -347,7 +367,7 @@
         1,
         5343
       ],
-      "comment": "Ali Baba"
+      "comment": "(Ali Baba)"
     },
     {
       "cmd": "E",
@@ -357,7 +377,7 @@
         4,
         6
       ],
-      "comment": "Cloth Turban"
+      "comment": "(a dirty cloth turban)"
     },
     {
       "cmd": "E",
@@ -367,7 +387,7 @@
         7,
         16
       ],
-      "comment": "Obsidian Dagger"
+      "comment": "(an obsidian dirk)"
     },
     {
       "cmd": "M",
@@ -377,7 +397,7 @@
         1,
         5323
       ],
-      "comment": "Magic Carpet"
+      "comment": "(the magic carpet)"
     },
     {
       "cmd": "M",
@@ -387,7 +407,7 @@
         4,
         5325
       ],
-      "comment": "Mummy"
+      "comment": "(the mummy)"
     },
     {
       "cmd": "E",
@@ -397,16 +417,17 @@
         5,
         5
       ],
-      "comment": "Cloth Wrappings"
+      "comment": "(some cloth wrappings)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5306,
-        3
+        3,
+        -1
       ],
-      "comment": "Jar Of Formaldehyde"
+      "comment": "(a jar of formaldehyde)"
     },
     {
       "cmd": "M",
@@ -416,7 +437,7 @@
         4,
         5325
       ],
-      "comment": "Mummy"
+      "comment": "(the mummy)"
     },
     {
       "cmd": "E",
@@ -426,16 +447,17 @@
         5,
         5
       ],
-      "comment": "Cloth Wrappings"
+      "comment": "(some cloth wrappings)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5305,
-        2
+        2,
+        -1
       ],
-      "comment": "Bottle Of Embalming Fluid"
+      "comment": "(a bottle of embalming fluid)"
     },
     {
       "cmd": "M",
@@ -445,7 +467,7 @@
         4,
         5337
       ],
-      "comment": "Mummy"
+      "comment": "(the mummy)"
     },
     {
       "cmd": "E",
@@ -455,7 +477,7 @@
         5,
         5
       ],
-      "comment": "Cloth Wrappings"
+      "comment": "(some cloth wrappings)"
     },
     {
       "cmd": "M",
@@ -465,7 +487,7 @@
         4,
         5341
       ],
-      "comment": "Mummy"
+      "comment": "(the mummy)"
     },
     {
       "cmd": "E",
@@ -475,7 +497,7 @@
         5,
         5
       ],
-      "comment": "Cloth Wrappings"
+      "comment": "(some cloth wrappings)"
     },
     {
       "cmd": "M",
@@ -485,7 +507,7 @@
         4,
         5354
       ],
-      "comment": "Sandman"
+      "comment": "(the sandman)"
     },
     {
       "cmd": "M",
@@ -495,7 +517,7 @@
         4,
         5355
       ],
-      "comment": "Sandman"
+      "comment": "(the sandman)"
     },
     {
       "cmd": "M",
@@ -505,7 +527,7 @@
         4,
         5356
       ],
-      "comment": "Sandman"
+      "comment": "(the sandman)"
     },
     {
       "cmd": "M",
@@ -515,7 +537,7 @@
         4,
         5357
       ],
-      "comment": "Sandman"
+      "comment": "(the sandman)"
     },
     {
       "cmd": "M",
@@ -525,7 +547,7 @@
         1,
         5311
       ],
-      "comment": "Efreet"
+      "comment": "(the efreeti)"
     },
     {
       "cmd": "E",
@@ -535,7 +557,7 @@
         4,
         17
       ],
-      "comment": "Ball Of Flame"
+      "comment": "(a small hot ball of fire)"
     },
     {
       "cmd": "M",
@@ -545,7 +567,7 @@
         2,
         5345
       ],
-      "comment": "Caryatid"
+      "comment": "(the caryatid)"
     },
     {
       "cmd": "E",
@@ -555,7 +577,7 @@
         3,
         16
       ],
-      "comment": "Stone Scimitar"
+      "comment": "(a stone scimitar)"
     },
     {
       "cmd": "M",
@@ -565,7 +587,7 @@
         2,
         5345
       ],
-      "comment": "Caryatid"
+      "comment": "(the caryatid)"
     },
     {
       "cmd": "E",
@@ -575,16 +597,17 @@
         3,
         16
       ],
-      "comment": "Stone Scimitar"
+      "comment": "(a stone scimitar)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5309,
-        1
+        1,
+        -1
       ],
-      "comment": "Stone Key"
+      "comment": "(a stone key)"
     },
     {
       "cmd": "M",
@@ -594,7 +617,7 @@
         1,
         5323
       ],
-      "comment": "Djinn"
+      "comment": "(the djinn)"
     },
     {
       "cmd": "E",
@@ -604,17 +627,7 @@
         4,
         17
       ],
-      "comment": "Lamp"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        5312,
-        3,
-        5348
-      ],
-      "comment": "Hieracosphinx"
+      "comment": "(the lamp)"
     },
     {
       "cmd": "M",
@@ -624,7 +637,7 @@
         3,
         5349
       ],
-      "comment": "Hieracosphinx"
+      "comment": "(the hieracosphinx)"
     },
     {
       "cmd": "M",
@@ -634,7 +647,7 @@
         3,
         5351
       ],
-      "comment": "Hieracosphinx"
+      "comment": "(the hieracosphinx)"
     },
     {
       "cmd": "M",
@@ -644,7 +657,7 @@
         2,
         5350
       ],
-      "comment": "Gynosphinx"
+      "comment": "(the gynosphinx)"
     },
     {
       "cmd": "M",
@@ -654,16 +667,17 @@
         2,
         5350
       ],
-      "comment": "Gynosphinx"
+      "comment": "(the gynosphinx)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5314,
-        2
+        2,
+        -1
       ],
-      "comment": "Ankh"
+      "comment": "(an ankh)"
     },
     {
       "cmd": "M",
@@ -673,7 +687,7 @@
         2,
         5352
       ],
-      "comment": "Criosphinx"
+      "comment": "(the criosphinx)"
     },
     {
       "cmd": "M",
@@ -683,16 +697,17 @@
         2,
         5352
       ],
-      "comment": "Criosphinx"
+      "comment": "(the criosphinx)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5315,
-        2
+        2,
+        -1
       ],
-      "comment": "Book Of Riddles"
+      "comment": "(a book of riddles)"
     },
     {
       "cmd": "M",
@@ -702,16 +717,17 @@
         1,
         5347
       ],
-      "comment": "Androsphinx"
+      "comment": "(the androsphinx)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5316,
-        2
+        2,
+        -1
       ],
-      "comment": "Lion's Paw"
+      "comment": "(a lion's paw)"
     },
     {
       "cmd": "M",
@@ -721,7 +737,7 @@
         1,
         5358
       ],
-      "comment": "Great Sphinx"
+      "comment": "(the great sphinx)"
     },
     {
       "cmd": "E",
@@ -731,7 +747,7 @@
         1,
         17
       ],
-      "comment": "Answer"
+      "comment": "(the answer)"
     },
     {
       "cmd": "M",
@@ -741,43 +757,47 @@
         1,
         5332
       ],
-      "comment": "Lord Ramses"
+      "comment": "(Ramses the Damned)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5319,
-        1
+        1,
+        -1
       ],
-      "comment": "Pile Of Sand"
+      "comment": "(a pile of sand)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5320,
-        3
+        3,
+        -1
       ],
-      "comment": "Curse Of The Mummy"
+      "comment": "(the curse of the mummy)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5321,
-        2
+        2,
+        -1
       ],
-      "comment": "Small Elixir"
+      "comment": "(a small elixir)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         5321,
-        2
+        2,
+        -1
       ],
-      "comment": "Small Elixir"
+      "comment": "(a small elixir)"
     },
     {
       "cmd": "E",
@@ -787,7 +807,7 @@
         1,
         6
       ],
-      "comment": "Golden Mask"
+      "comment": "(a golden mask)"
     },
     {
       "cmd": "O",
@@ -797,7 +817,7 @@
         1,
         5359
       ],
-      "comment": "The Treasure Of The Sphinx"
+      "comment": "(the treasure of the sphinx)"
     },
     {
       "cmd": "O",
@@ -807,7 +827,7 @@
         1,
         5359
       ],
-      "comment": "A Sun Wand"
+      "comment": "(a blazing sun wand)"
     },
     {
       "cmd": "O",
@@ -817,7 +837,7 @@
         1,
         5359
       ],
-      "comment": "A Sandy Ring"
+      "comment": "(a sandy-coloured ring)"
     },
     {
       "cmd": "O",
@@ -827,7 +847,7 @@
         1,
         5359
       ],
-      "comment": "A Small Golden Sphinx"
+      "comment": "(a small golden sphinx)"
     },
     {
       "cmd": "O",
@@ -837,7 +857,7 @@
         1,
         5359
       ],
-      "comment": "Sphinxian Leggings"
+      "comment": "(a pair of sphinxian leggings)"
     },
     {
       "cmd": "O",
@@ -847,7 +867,7 @@
         1,
         5319
       ],
-      "comment": "Key"
+      "comment": "(the diamond)"
     },
     {
       "cmd": "O",
@@ -857,7 +877,7 @@
         1,
         5345
       ],
-      "comment": "The Stone Sarcophagus"
+      "comment": "(a mighty stone sarcophagus)"
     },
     {
       "cmd": "P",
@@ -867,7 +887,7 @@
         2,
         5310
       ],
-      "comment": "Dust"
+      "comment": "(some ancient dust)"
     },
     {
       "cmd": "P",
@@ -877,7 +897,7 @@
         1,
         5310
       ],
-      "comment": "The Scarab"
+      "comment": "(a small emerald scarab)"
     },
     {
       "cmd": "D",
@@ -887,7 +907,7 @@
         5,
         1
       ],
-      "comment": "Stone Atop The Pyramid"
+      "comment": "(The Apex Of The Great Pyramid)"
     },
     {
       "cmd": "D",
@@ -897,7 +917,7 @@
         4,
         1
       ],
-      "comment": ""
+      "comment": "(A Ladder)"
     },
     {
       "cmd": "D",
@@ -907,7 +927,7 @@
         3,
         1
       ],
-      "comment": "Fire Pool"
+      "comment": "(A Musty Chamber)"
     },
     {
       "cmd": "D",
@@ -917,7 +937,7 @@
         1,
         1
       ],
-      "comment": ""
+      "comment": "(The Fire Pool)"
     },
     {
       "cmd": "D",
@@ -927,7 +947,7 @@
         2,
         2
       ],
-      "comment": "Entrance To The Vault Of The Lamp"
+      "comment": "(At The Crevasse's End)"
     },
     {
       "cmd": "D",
@@ -937,7 +957,7 @@
         0,
         2
       ],
-      "comment": ""
+      "comment": "(The Vault Of The Lamp)"
     },
     {
       "cmd": "D",
@@ -947,7 +967,7 @@
         3,
         2
       ],
-      "comment": "Coffin Lid"
+      "comment": "(A Demolished Tomb)"
     },
     {
       "cmd": "D",
@@ -957,7 +977,7 @@
         1,
         2
       ],
-      "comment": "* Note That This Has No Key Number, Locking You In"
+      "comment": "(A Stairway)"
     },
     {
       "cmd": "D",
@@ -967,7 +987,7 @@
         2,
         1
       ],
-      "comment": "Stone Into The Ancient Hall"
+      "comment": "(A Stairway)"
     },
     {
       "cmd": "D",
@@ -977,7 +997,7 @@
         0,
         1
       ],
-      "comment": ""
+      "comment": "(The Ancient Hall)"
     },
     {
       "cmd": "D",
@@ -987,7 +1007,7 @@
         5,
         1
       ],
-      "comment": "The Stone Into The Tomb Of Ramses"
+      "comment": "(A Raised Dais)"
     },
     {
       "cmd": "D",
@@ -997,7 +1017,7 @@
         4,
         1
       ],
-      "comment": ""
+      "comment": "(The Tomb Of Ramses)"
     },
     {
       "cmd": "D",
@@ -1007,7 +1027,7 @@
         5,
         1
       ],
-      "comment": "Floor Into The Tomb"
+      "comment": "(A Dead End)"
     },
     {
       "cmd": "D",
@@ -1017,7 +1037,7 @@
         4,
         1
       ],
-      "comment": ""
+      "comment": "(The Tomb Entrance)"
     },
     {
       "cmd": "D",
@@ -1027,7 +1047,7 @@
         0,
         1
       ],
-      "comment": "Tomb Of The Pharoahs"
+      "comment": "(The Tomb Entrance)"
     },
     {
       "cmd": "D",
@@ -1037,7 +1057,7 @@
         2,
         1
       ],
-      "comment": ""
+      "comment": "(The Tomb Of The Pharoahs)"
     },
     {
       "cmd": "D",
@@ -1047,8 +1067,8 @@
         2,
         2
       ],
-      "comment": "Entrance To The Hole In The Sand"
+      "comment": "(A Massive Sand Dune)"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/53.zon"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/53.zon"
 }

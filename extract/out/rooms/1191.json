@@ -1,0 +1,21 @@
+{
+  "id": 1191,
+  "zone_id": 11,
+  "name": "&cCampos &RRed&YLight &cHouse",
+  "description": "You are in an unfinished room.",
+  "header_raw": "11 1051140 0",
+  "flags_text": "1051140",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1109
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

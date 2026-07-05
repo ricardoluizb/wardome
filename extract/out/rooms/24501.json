@@ -1,0 +1,37 @@
+{
+  "id": 24501,
+  "zone_id": 245,
+  "name": "On the lake of fire",
+  "description": "You are upon a vast lake of fire burning with brimstone. About\nyou the wrath of The Gods is visited upon the sinful.",
+  "header_raw": "245 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Lake of fire",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24515
+    },
+    {
+      "dir": 1,
+      "description": "Lake of fire",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24502
+    },
+    {
+      "dir": 3,
+      "description": "The corner of the world",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24500
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/245.wld"
+}

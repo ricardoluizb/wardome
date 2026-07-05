@@ -1,0 +1,29 @@
+{
+  "id": 5766,
+  "zone_id": 57,
+  "name": "A Black Corridor",
+  "description": "As you enter this foreboding place, your light source dwindles to a faint\nglimmer, threatening to go out entirely at any moment. In its bleak glare\nyou manage to make out hideous murals on the walls depicting people being\nmaimed and tortured, and you could swear that they are actually MOVING. You\nfeel a sudden urge to flee this horrid place.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a fountain room",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5768
+    },
+    {
+      "dir": 2,
+      "description": "outside three doors",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5762
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

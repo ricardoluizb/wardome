@@ -1,0 +1,21 @@
+{
+  "id": 14325,
+  "zone_id": 143,
+  "name": "Storage Room",
+  "description": "This is a small storage room. Guards are here protecting the palace water\nsupply from thirsty thieves.",
+  "header_raw": "143 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A foyer lies to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14324
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

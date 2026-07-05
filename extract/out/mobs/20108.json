@@ -1,0 +1,12 @@
+{
+  "id": 20108,
+  "alias": "wood wooden monk man machine",
+  "short_desc": "the wooden man",
+  "long_desc": "The wooden man fighting machine creaks and pummels you!",
+  "detailed_desc": "Made entirely of hard wood and controlled mechanically by chains and pulleys,\nthis is one tough bugger.",
+  "flags_raw": "42 1064 0 E",
+  "stats1_raw": "80 -34 -12 1d1+6720 5d17+102",
+  "stats2_raw": "1200 2127417 7",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/201.mob"
+}

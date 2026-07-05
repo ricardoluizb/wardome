@@ -1,0 +1,29 @@
+{
+  "id": 21539,
+  "zone_id": 215,
+  "name": "Qor-Teth's throne room",
+  "description": "All of the darkness is concentrated in this point, you can't see anything, only\nthe evil one, that is centered on the room, is a large throne covered by a\nblack metal and a pure evil inside, a colossal monster doted with many large\nspikes on his shoulder sighted you...  Its your end!",
+  "header_raw": "215 13 0",
+  "flags_text": "13",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 21538
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "grate",
+      "door_flag": 1,
+      "key": 21514,
+      "to": 21540
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/215.wld"
+}

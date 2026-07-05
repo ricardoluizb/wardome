@@ -1,0 +1,21 @@
+{
+  "id": 4771,
+  "zone_id": 47,
+  "name": "Siven's Stone",
+  "description": "A small and dark little room entombed within a large boulder, a very strange\nplace to want to live.  There is a small table in the center, but the room is\nvoid of any other objects.",
+  "header_raw": "47 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4756
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

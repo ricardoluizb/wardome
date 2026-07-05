@@ -1,0 +1,21 @@
+{
+  "id": 17337,
+  "zone_id": 173,
+  "name": "The Northeastern Tower of Blackmoor",
+  "description": "You stand inside the northeastern tower. You have a commanding view of\nthe keep and the surrounding moor. Stairs lead down.",
+  "header_raw": "173 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "Inside the Curtain Wall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17334
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

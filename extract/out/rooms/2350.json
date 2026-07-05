@@ -1,0 +1,21 @@
+{
+  "id": 2350,
+  "zone_id": 23,
+  "name": "The chieftain's room",
+  "description": "This appears to be the ogre chieftain's private quarters. A huge pile of furs\nis in the far corner. Large chests fill the room. All of them have heavy pad\nlocks. The room is filled with trophies of dead enemies. It is quite lavishly\ndecorated for such a crude inhabitant as an ogre. A beaded doorway is to the\nsouth.",
+  "header_raw": "23 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2349
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

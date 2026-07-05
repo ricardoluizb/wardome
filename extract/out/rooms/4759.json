@@ -1,0 +1,29 @@
+{
+  "id": 4759,
+  "zone_id": 47,
+  "name": "Walkway",
+  "description": "A stone walkway travels north and south through this section of this rocky\ncity.  To the west you can see a uncarved and hug mound of rock and boulder.",
+  "header_raw": "47 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4753
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4760
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

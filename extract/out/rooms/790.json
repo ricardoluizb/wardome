@@ -1,0 +1,21 @@
+{
+  "id": 790,
+  "zone_id": 7,
+  "name": "Dining Room",
+  "description": "This was once a grand dining hall.  Now the great oak table has\nbeen completely broken and leaned up against one wall to make room for\na small folding table and a few chairs taking its place.  Obviously\nthe current owners of this mansion don't care much about this place to\nlet it fall into ruin so.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 789
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

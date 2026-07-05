@@ -1,0 +1,37 @@
+{
+  "id": 8107,
+  "producing": [
+    3081,
+    3086,
+    3071,
+    3076,
+    8152,
+    8151,
+    8127
+  ],
+  "profit_buy": 1.2,
+  "profit_sell": 0.9,
+  "buy_types": [],
+  "messages": [
+    "%s Sorry...don't have that.",
+    "%s I don't buy anything.",
+    "%s I don't buy anything.",
+    "%s I don't buy anything.",
+    "%s This fine armor is too costly for you.",
+    "%s Wear it in good health! That will be %d coins.",
+    "%s A minor bug! Please report it."
+  ],
+  "tail": [
+    0,
+    3,
+    8107,
+    2,
+    8129,
+    -1,
+    6,
+    22,
+    0,
+    0
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/81.shp"
+}

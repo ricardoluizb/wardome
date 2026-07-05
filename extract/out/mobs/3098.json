@@ -1,0 +1,12 @@
+{
+  "id": 3098,
+  "alias": "black monster",
+  "short_desc": "the black monster",
+  "long_desc": "The terrible Black monster stands here.",
+  "detailed_desc": "This mob is the great leader of the undead army who invaded midgaard.\nit is said that he controls a great wyrm dragon, one of the most\npowerful and old creatures of the realm.",
+  "flags_raw": "507931 545259520 -1000 E",
+  "stats1_raw": "200 -80 -20 1d1+5592 5d21+80",
+  "stats2_raw": "3000 28826611 0",
+  "stats3_raw": "8 8 0 4 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
+}

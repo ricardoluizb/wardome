@@ -4,9 +4,9 @@
   "short_desc": "the executioner",
   "long_desc": "The executioner stands here, waiting to torture some sorry soul.",
   "detailed_desc": "You see a burly man who is wearing a black hood that obscures his face.  He\nhas a very sadistic attitude and clearly loves his work.",
-  "flags_raw": "bcfno d -1000 S",
-  "stats1_raw": "20 1 0 2d6+260 2d2+14",
-  "stats2_raw": "1000 40000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "24622 8 -1000 E",
+  "stats1_raw": "27 7 6 1d1+567 5d3+10",
+  "stats2_raw": "405 80438 0",
+  "stats3_raw": "8 8 1 10 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/120.mob"
 }

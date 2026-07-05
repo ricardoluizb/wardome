@@ -1,0 +1,50 @@
+{
+  "id": 8113,
+  "zone_id": 81,
+  "name": "Southwestern Market Square",
+  "description": "You see the carpenter's yard behind several houses to the west, but a \nboard fence prevents you from walking to it.  Someone has scrawled \non the fence with chalk.  To the south a road runs through Ofingia.",
+  "header_raw": "81 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The clamor of a market square echoes all around you.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8112
+    },
+    {
+      "dir": 1,
+      "description": "Still a market square here.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8122
+    },
+    {
+      "dir": 2,
+      "description": "This seems to be a better part of town.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8115
+    },
+    {
+      "dir": 3,
+      "description": "You hear the thunk of an axe.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8114
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "fence chalk",
+      "description": "It says, \"Keep an eye peeled! The goblins are crafty.\""
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

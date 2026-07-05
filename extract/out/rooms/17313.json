@@ -1,0 +1,46 @@
+{
+  "id": 17313,
+  "zone_id": 173,
+  "name": "The Forest Arden",
+  "description": "You have entered a bright and cheerful section of the Forest Arden.\nSquirrels chase one and another around the ancient oaks, and butterfiles \ndance in the dappled sunshine. The air smells sweet, the sun is on your\nback, and the horsetrodden trail leads north, south, and east.",
+  "header_raw": "173 20 3",
+  "flags_text": "20",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A dusty trail",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17314
+    },
+    {
+      "dir": 1,
+      "description": "A dusty trail",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17319
+    },
+    {
+      "dir": 2,
+      "description": "A dusty trail",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17309
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "squirrels",
+      "description": "Yes, they are mating."
+    },
+    {
+      "keywords": "trail horsesign sign",
+      "description": "You discover horsesign. Most of the traffic heads east and south."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

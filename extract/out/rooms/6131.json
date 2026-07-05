@@ -3,8 +3,8 @@
   "zone_id": 61,
   "name": "The Deadly Spider Web",
   "description": "You are walking along the narrow path, ducking under the sticky ropes\nas you advance...\n\n>\nA huge, poisonous spider drops from above!\nA huge, poisonous spider drops from above!\nA huge, poisonous spider drops from above!\n\n>\nThe huge, poisonous spider stings you!  You resist the poison!\nThe huge, poisonous spider stings you!  You are poisoned!\nThe huge, poisonous spider stings you!  You are poisoned!\n\nYou are dead.",
-  "header_raw": "61 bd 3",
-  "flags_text": "bd",
+  "header_raw": "61 10 3",
+  "flags_text": "10",
   "sector": 3,
   "exits": [
     {

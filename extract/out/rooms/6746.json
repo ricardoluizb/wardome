@@ -1,0 +1,21 @@
+{
+  "id": 6746,
+  "zone_id": 67,
+  "name": "The Dirk & Dagger",
+  "description": "A circular stone is whirring in a fast spin at the far wall,\nas the weaponsmaster of Sundhaven continually sharpens his wares,\nand re-hangs them to display on the stone and mortar walls.\nA single window admits virtually no light, so filled with the\nwebs and dust of neglect is it.. obviously the shopowner prefers\nto seclude himself to the obsessive labors of his work. You wonder\nif he ever makes anything new, so fanatical he is about sharpening\nand re-sharpening the old.",
+  "header_raw": "67 156 0",
+  "flags_text": "156",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6731
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

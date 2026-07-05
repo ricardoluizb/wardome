@@ -1,0 +1,29 @@
+{
+  "id": 17006,
+  "zone_id": 170,
+  "name": "Entrance of a Big Cave",
+  "description": "You are in the beginning of a big cave. In the wall of the cave you see ancient\npictures. All of them show battle and war images. The smell of this place is\nvery strange. You don't feel much comfortable stanfing here.",
+  "header_raw": "170 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "It's to dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17008
+    },
+    {
+      "dir": 3,
+      "description": "You look at a forest with a lot of trees to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17004
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/170.wld"
+}

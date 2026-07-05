@@ -1,0 +1,37 @@
+{
+  "id": 14306,
+  "zone_id": 143,
+  "name": "Inside the Gate",
+  "description": "The pyramid comes into almost complete view as you pass through the gate. It\nis the largest man-made structure that you have ever seen! To the north-west\nyou see a palace and to the south is a crowded marketplace.",
+  "header_raw": "143 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The gate to the city.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14305
+    },
+    {
+      "dir": 2,
+      "description": "A crowded market.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14308
+    },
+    {
+      "dir": 3,
+      "description": "A small house.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14307
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

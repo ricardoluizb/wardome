@@ -1,0 +1,37 @@
+{
+  "id": 13208,
+  "zone_id": 132,
+  "name": "The Court",
+  "description": "You are in the busy court of the city.  This is the central part of the \ntown where gatherings of military, political, and personal take place.  A road\nthat circles the city is to the east and the court continues west and north.\nThe tall wall that surrounds the city is south.  Off in the distance, the peak\nof Cloudy Mountain rises far above the clouds.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The Court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13211
+    },
+    {
+      "dir": 1,
+      "description": "along south wall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13268
+    },
+    {
+      "dir": 3,
+      "description": "the court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13207
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

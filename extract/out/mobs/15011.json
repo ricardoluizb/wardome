@@ -4,9 +4,9 @@
   "short_desc": "Jeanette",
   "long_desc": "Jeanette the Royal Guard is here on duty.",
   "detailed_desc": "As all members of the Guard, Jeanette wears the chain mail required of\nthem as uniform.  She seems very well trained, and carries her scars\nwith pride.  This girl could be nasty if she wanted to...",
-  "flags_raw": "ag 0 900 S",
-  "stats1_raw": "15 5 1 3d6+175 1d8+7",
-  "stats2_raw": "400 21000",
-  "stats3_raw": "8 8 2",
+  "flags_raw": "121 0 900 E",
+  "stats1_raw": "85 -22 -2 1d1+2376 5d9+34",
+  "stats2_raw": "1275 1836749 0",
+  "stats3_raw": "8 8 2 3 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/150.mob"
 }

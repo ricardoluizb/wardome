@@ -1,0 +1,12 @@
+{
+  "id": 20107,
+  "alias": "evil monk",
+  "short_desc": "an evil monk",
+  "long_desc": "An evil monk jumps from the ceiling and took you by surprise!",
+  "detailed_desc": "He looks about the same with the rest of the monks here.  In fact,he looks\nmore friendly than the rest.  Too bad he doesn't like your face.",
+  "flags_raw": "108 1192 -300 E",
+  "stats1_raw": "95 -41 -14 1d1+7980 5d19+108",
+  "stats2_raw": "1425 3464329 7",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/201.mob"
+}

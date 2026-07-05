@@ -4,9 +4,9 @@
   "short_desc": "the small chipmunk",
   "long_desc": "A small brown-red chipmunk dashes from tree to tree here.",
   "detailed_desc": "The absolute zenith of hyperactivity, this small rodent seems to never tire\nof running up, down, and around the trees in this area.  If you could ever\ncatch it, you imagine it would make an easy meal.",
-  "flags_raw": "g s 170 S",
-  "stats1_raw": "0 20 5 2d5+3 1d4+0",
-  "stats2_raw": "0 40",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "72 262144 170 E",
+  "stats1_raw": "2 19 9 1d1+36 5d1+0",
+  "stats2_raw": "30 376 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/60.mob"
 }

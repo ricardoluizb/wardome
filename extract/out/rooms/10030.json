@@ -1,0 +1,37 @@
+{
+  "id": 10030,
+  "zone_id": 100,
+  "name": "Vault",
+  "description": "The small passageway leads south from here, and there is indeed a light of\nsome sort flickering in that passage.  The burial vault you stand in is opened\nup in full view now, and it is an impressive sight to beheld.  The huge wall,\ndotted with niches the entire length up, must be at least three stories in\nheight, possibly more, and the number of coffins which dot the floor number way\nover twenty.  It really makes you wonder why you ever felt a need to enter this\nroom.",
+  "header_raw": "100 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10028
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10031
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10029
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/100.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 10489,
+  "zone_id": 104,
+  "name": "Ice-Creamery",
+  "description": "You stand amidst dozens of ice-cream machines. Workers rush about\nfor machine to machine, adjusting dials and checking gauges.\nThe factory continues to the north and west.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see lots of ice-cream machines.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10479
+    },
+    {
+      "dir": 3,
+      "description": "You see lots of ice-cream machines.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10488
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

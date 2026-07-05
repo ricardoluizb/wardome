@@ -1,0 +1,21 @@
+{
+  "id": 6712,
+  "zone_id": 67,
+  "name": "The House of Sorcery",
+  "description": "You stand in a small, well-lit shop of cobblestone and mortar, entirely\ncluttered with scrolls, glowing wands, odd regents and components.\nThe place has an unmistakable scent of sulfur that makes you wonder,\nbut the sorceress seems knowledgeable.",
+  "header_raw": "67 176 0",
+  "flags_text": "176",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6710
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

@@ -4,9 +4,9 @@
   "short_desc": "the wizard",
   "long_desc": "An old wizard is here making a speech here.",
   "detailed_desc": "This wizzened old man looks like he could easily pass for the oldest\nliving man.  Of course, having heard stories about some of the magic\navailable to the people living here, and what toll the magic draws...\nthis man might be as young as you.",
-  "flags_raw": "abcgh dk 400 S",
-  "stats1_raw": "18 4 -5 18d18+180 3d4+8",
-  "stats2_raw": "2468 31000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "207 1032 400 E",
+  "stats1_raw": "158 -59 -13 1d1+4416 5d16+62",
+  "stats2_raw": "2370 10896778 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

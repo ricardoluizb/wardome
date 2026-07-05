@@ -1,0 +1,12 @@
+{
+  "id": 1205,
+  "alias": "Cell",
+  "short_desc": "Cell",
+  "long_desc": "The great Cell stands here, as your total power",
+  "detailed_desc": "It looks unfinished.",
+  "flags_raw": "8 0 -1000 E",
+  "stats1_raw": "65 -12 0 1d1+1359 10d7+26",
+  "stats2_raw": "975 863475 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/12.mob"
+}

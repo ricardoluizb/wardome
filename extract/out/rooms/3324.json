@@ -3,8 +3,8 @@
   "zone_id": 33,
   "name": "A Cave Passageway",
   "description": "The passageway you are in leads south and west from \nhere.  Many large stones and rocks are on the floor of the\ncave, making walking difficult in the dim light from the \nsconces on the walls.  You hear the continued echo of \nvoices, seemingly fainter now.  Must be the strange \nacoustics of this place...",
-  "header_raw": "33 d 0",
-  "flags_text": "d",
+  "header_raw": "33 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

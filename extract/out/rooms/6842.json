@@ -1,0 +1,29 @@
+{
+  "id": 6842,
+  "zone_id": 67,
+  "name": "The Assassin Hideout",
+  "description": "The hideout of rogues is surprisingly comfortable. Although no refuge\nfrom the blood and risk of their everyday existence, it is nevertheless\na haven in which bounties can be split and repose taken by a warm \nfireplace hung with guild daggers, skillfully tapered and too hot \nfrom the flames to steal. A bar sunken into the far stone wall \nassists your dexterity.. so it is said..and bunks are layer the\narea to the east, hung with stolen tapestries and sheets.",
+  "header_raw": "67 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6852
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6841
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "On The Stairs",
   "description": "You are still circling around on the stairs.  You are starting to\nget dizzy from going around and around and around and around and\naround.  The stairs continue up and down.",
-  "header_raw": "65 d 0",
-  "flags_text": "d",
+  "header_raw": "65 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

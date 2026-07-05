@@ -1,0 +1,29 @@
+{
+  "id": 22009,
+  "zone_id": 220,
+  "name": "Nearing the statue",
+  "description": "You can beging to make out the features on it, it is made of solid\nopal which is gleaming in the light. It appears to be a statue of\nsome great god or creature.",
+  "header_raw": "220 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22008
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22010
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/220.wld"
+}

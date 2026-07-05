@@ -1,0 +1,26 @@
+{
+  "id": 8174,
+  "zone_id": 81,
+  "name": "The Barracks Room",
+  "description": "All of these barracks rooms are similar, with bunks carved out of the\nwalls, much like a catacombs' tombs are.  In the middle of all these \nbarracks rooms' floors are deep pits in the stone, and a foul stench\nstreaming upward from them suggests their purpose and use.",
+  "header_raw": "81 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A bronze door stands to the north.",
+      "keywords": "door bronze",
+      "door_flag": 1,
+      "key": 8100,
+      "to": 8161
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "pits pit hole holes",
+      "description": "They appear to be latrines."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

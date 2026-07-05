@@ -1,0 +1,29 @@
+{
+  "id": 6962,
+  "zone_id": 69,
+  "name": "In a Very Dark Room",
+  "description": "You stand in a very minute and dim-lit room.  Above you is a small ladder\nused to get you through the trapdoor and down to where you are right now.  \nThere is a small, strange vent in the corner of the room, where sounds and\nstrange shadows pop out of.  This is a very spooky place...",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "secret special junk clothes",
+      "door_flag": 2,
+      "key": 6905,
+      "to": 6938
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "vent",
+      "door_flag": 2,
+      "key": 6927,
+      "to": 6957
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

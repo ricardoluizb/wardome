@@ -1,0 +1,45 @@
+{
+  "id": 505,
+  "zone_id": 5,
+  "name": "&cTemple Street&n",
+  "description": "&n   You are on the middle of the west part of the &cTemple Street&n. To the north,\nyou get a glimpse of &BThe Temple of the Sea Elves&n, while to the south, you see\n&BThe Temple of the Dwarves&n. The road continues west and east.",
+  "header_raw": "5 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 512
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 506
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 518
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 504
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

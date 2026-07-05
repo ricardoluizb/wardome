@@ -1,0 +1,45 @@
+{
+  "id": 2766,
+  "zone_id": 27,
+  "name": "Prancing Pony Inn",
+  "description": "You have entered a hallway that heads back into Bree hill.  There is a parlour\nto the north and private sleeping rooms to the east.  Most patrons live\nupstairs because that is where the rooms are cheapest.  The rooms that you can\nrent to sleep in are upstairs as well.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2774
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2769
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2765
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2768
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

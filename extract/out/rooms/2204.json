@@ -1,0 +1,54 @@
+{
+  "id": 2204,
+  "zone_id": 22,
+  "name": "Hallway",
+  "description": "You trudge down the hallway.  You notice doors to the east and west.",
+  "header_raw": "22 72 0",
+  "flags_text": "72",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The hall continues.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2207
+    },
+    {
+      "dir": 1,
+      "description": "You see a door.  You notice a sign.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2205
+    },
+    {
+      "dir": 2,
+      "description": "The hall continues.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2203
+    },
+    {
+      "dir": 3,
+      "description": "You see an oak door.  There is an inscription on it.",
+      "keywords": "oak",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2206
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "inscription",
+      "description": "It says \"STORAGE\""
+    },
+    {
+      "keywords": "sign",
+      "description": "The sign says \"NURSERY\" in bold letters."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

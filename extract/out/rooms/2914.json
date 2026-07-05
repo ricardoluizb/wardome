@@ -1,0 +1,21 @@
+{
+  "id": 2914,
+  "zone_id": 29,
+  "name": "Store room",
+  "description": "You see nothing special in this room.  There are some boxes and fire newt\nworkers here.  There is also some trash piled up in the room.",
+  "header_raw": "29 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see the dark mountain shaft.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2913
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/29.wld"
+}

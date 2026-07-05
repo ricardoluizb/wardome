@@ -1,10 +1,10 @@
 {
   "id": 7343,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "The Pool",
   "description": "You are swimming in water.  It is getting deep here.  It is also dark in\nthis end.",
-  "header_raw": "73 ad 6",
-  "flags_text": "ad",
+  "header_raw": "72 9 6",
+  "flags_text": "9",
   "sector": 6,
   "exits": [
     {

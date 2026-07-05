@@ -1,0 +1,29 @@
+{
+  "id": 28502,
+  "zone_id": 285,
+  "name": "The gates of the City of Atlantis",
+  "description": "Directly south you see a huge pair of gates. These gates appear to be \ncarved almost completely out of coral. A huge city appears to be on the \nother side of these gates. There is also a possibility of going back north.",
+  "header_raw": "285 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "North leads you to a raggedy pathway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28422
+    },
+    {
+      "dir": 2,
+      "description": "To the south is a strong, sturdy gate.",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": 0,
+      "to": 28503
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/285.wld"
+}

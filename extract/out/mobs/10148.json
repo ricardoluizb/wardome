@@ -1,0 +1,12 @@
+{
+  "id": 10148,
+  "alias": "goblin",
+  "short_desc": "Goblin",
+  "long_desc": "The goblin walks around, looking for someone to kill.",
+  "detailed_desc": "",
+  "flags_raw": "262248 1192 -750 E",
+  "stats1_raw": "100 -42 -14 1d1+7596 5d21+100",
+  "stats2_raw": "1500 3888649 6",
+  "stats3_raw": "8 8 1 3 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/101.mob"
+}

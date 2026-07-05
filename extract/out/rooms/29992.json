@@ -1,0 +1,29 @@
+{
+  "id": 29992,
+  "zone_id": 298,
+  "name": "The Top",
+  "description": "Oof!  You reached the top of the cliff.  This is the begining of the mountains\nof Emyn Muil.  This place is very rocky, and just for steping closer to the\neast, you feel your heart darker, and an agony feeling fills you.",
+  "header_raw": "298 76 5",
+  "flags_text": "76",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29993
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29991
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

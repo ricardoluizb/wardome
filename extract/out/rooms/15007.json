@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "The Entrance Hall",
   "description": "You are standing in the impressive Entrance Hall of the Castle.\nTo the north is an exit into the Great Hall.  There is also an exit\neast, and a small door to the west.",
-  "header_raw": "150 d 0",
-  "flags_text": "d",
+  "header_raw": "150 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

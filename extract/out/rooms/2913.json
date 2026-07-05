@@ -1,0 +1,45 @@
+{
+  "id": 2913,
+  "zone_id": 29,
+  "name": "Inside the mountain",
+  "description": "You are standing inside the mountain.",
+  "header_raw": "29 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a large storage room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2914
+    },
+    {
+      "dir": 2,
+      "description": "You see workers' quarters.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2915
+    },
+    {
+      "dir": 4,
+      "description": "You see the dark mountain shaft.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2910
+    },
+    {
+      "dir": 5,
+      "description": "The shaft continues down.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2916
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/29.wld"
+}

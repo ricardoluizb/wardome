@@ -1,0 +1,45 @@
+{
+  "id": 15148,
+  "zone_id": 150,
+  "name": "The End of the Road",
+  "description": "Directly north of you looms Mordecai's home, a tall stone structure with a\nsloping peaked roof.  It appears that he fears none of his people, for the door\nto his home is wide open.  To the east you see another stone house, this one a\nbit smaller than Mordecai's, and west of you is yet another stone house.",
+  "header_raw": "150 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 15152
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 15150
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 15147
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 15151
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/151.wld"
+}

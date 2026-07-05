@@ -1,0 +1,54 @@
+{
+  "id": 8123,
+  "zone_id": 81,
+  "name": "The Great Hall",
+  "description": "Two rows of tall wooden pillars marching down this hall support\nits roof on their sturdy heads.  A central fireplace warms it, and\nthe smoke rises to a louvre in the highest part of the tall gable.\nThis ancient hall reminds you of those described in the old tales of \nMidgaard, but here is one still standing, and used for its old\npurpose, for you see a great throne glittering in gold to the north.\nOh yes; a spiral iron stair leads down. An inscription\nis carved into the wooden wall above it. There is a door, and a sign,\nto the south.",
+  "header_raw": "81 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see more of the hall.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8126
+    },
+    {
+      "dir": 2,
+      "description": "A red door has a sign posted on it.",
+      "keywords": "door red",
+      "door_flag": 2,
+      "key": 8109,
+      "to": 8117
+    },
+    {
+      "dir": 3,
+      "description": "You can leave the hall to the west.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 8115
+    },
+    {
+      "dir": 5,
+      "description": "A stairway leads down.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8124
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "inscription",
+      "description": "Down:Ofingian Public Library\n                             And Book Store.\n                             Open 8 to 11 A.M.\n                              And 5 to 9 P.M."
+    },
+    {
+      "keywords": "sign",
+      "description": "Guard Headquarters of Ofingia"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

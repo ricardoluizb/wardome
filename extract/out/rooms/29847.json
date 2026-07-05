@@ -1,0 +1,29 @@
+{
+  "id": 29847,
+  "zone_id": 298,
+  "name": "The crypt entrance",
+  "description": "The corridor ends up into a huge stone door to the south.  You can see a large\ninscription on the door.  The corridor continues to the east.",
+  "header_raw": "298 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29846
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 29808,
+      "to": 29848
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/298.wld"
+}

@@ -4,9 +4,9 @@
   "short_desc": "the wolverine",
   "long_desc": "A large wolf like creature leaps out from the darkness.",
   "detailed_desc": "You see a half wolf, half human beast wearing a glove with long thin\nblades on it.",
-  "flags_raw": "bf kps -351 S",
-  "stats1_raw": "15 0 0 10d2+230 2d10+10",
-  "stats2_raw": "0 5000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "42 295936 -351 E",
+  "stats1_raw": "15 13 7 1d1+315 5d2+6",
+  "stats2_raw": "225 18413 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

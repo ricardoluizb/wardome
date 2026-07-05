@@ -4,9 +4,9 @@
   "short_desc": "the slave",
   "long_desc": "A human slave of Arachnos works here relentlessly.",
   "detailed_desc": "The slave does not mind you, but will fight like a warrior if attacked.\nHe serves the spider Empress, Arachnos, though whether it is by choice\nor because he was beguiled, you are not fully certain.",
-  "flags_raw": "cgl 0 -50 S",
-  "stats1_raw": "11 8 4 1d12+130 2d7+1",
-  "stats2_raw": "1000 13500",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "2124 0 -50 E",
+  "stats1_raw": "111 -35 -6 1d1+3108 5d12+44",
+  "stats2_raw": "1665 3931731 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/63.mob"
 }

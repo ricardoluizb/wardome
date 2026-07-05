@@ -1,0 +1,12 @@
+{
+  "id": 2104,
+  "alias": "tomal woodsman",
+  "short_desc": "Tomal",
+  "long_desc": "A woodsman watches you, a stalk of grass hanging from his mouth",
+  "detailed_desc": "The woodsman chuckles and says, 'Howdy stranger- the name is Tomal..  Howya\ndoing?  '",
+  "flags_raw": "4168 1032 100 E",
+  "stats1_raw": "80 -20 -2 1d1+2232 5d9+32",
+  "stats2_raw": "1200 1701933 0",
+  "stats3_raw": "8 8 1 1 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/21.mob"
+}

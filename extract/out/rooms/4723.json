@@ -1,0 +1,21 @@
+{
+  "id": 4723,
+  "zone_id": 47,
+  "name": "Unfinished mine",
+  "description": "The southern wall of this mine has been left uncarved and unfinished as you\ncan see that the amount of metals in the walls have decreased slightly here.\nThe tunnel leads to the north out of this dead end.",
+  "header_raw": "47 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4722
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

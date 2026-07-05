@@ -1,0 +1,1224 @@
+{
+  "id": 27,
+  "name": "Wardome - The Lord of Rings I",
+  "header": {
+    "raw": "2799 30 2 25 -1",
+    "min_room": 2799,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": 25
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2725,
+        1,
+        2725
+      ],
+      "comment": "(Rosa)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2730,
+        10,
+        -1
+      ],
+      "comment": "(a tiny key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2725,
+        30,
+        3
+      ],
+      "comment": "(A small medallion)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2784,
+        2,
+        2784
+      ],
+      "comment": "(A town guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2743,
+        20,
+        11
+      ],
+      "comment": "(a Great Tower Shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2742,
+        20,
+        16
+      ],
+      "comment": "(a Guard's Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2784,
+        2,
+        2784
+      ],
+      "comment": "(A town guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2743,
+        20,
+        11
+      ],
+      "comment": "(a Great Tower Shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2742,
+        20,
+        16
+      ],
+      "comment": "(a Guard's Sword)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2784,
+        1,
+        2
+      ],
+      "comment": "(South Gate of Bree)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2788,
+        1,
+        2784
+      ],
+      "comment": "(a old town guard)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2744,
+        20,
+        -1
+      ],
+      "comment": "(a Key of Bree)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2752,
+        8,
+        2784
+      ],
+      "comment": "(the Citizen of bree)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2785,
+        2,
+        1
+      ],
+      "comment": "(Ferny's Yard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2752,
+        8,
+        2785
+      ],
+      "comment": "(the Citizen of bree)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2752,
+        8,
+        2780
+      ],
+      "comment": "(the Citizen of bree)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2752,
+        8,
+        2748
+      ],
+      "comment": "(the Citizen of bree)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2746,
+        10,
+        2746
+      ],
+      "comment": "(a rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2746,
+        15,
+        2746
+      ],
+      "comment": "(a rat)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2745,
+        3,
+        2
+      ],
+      "comment": "(Inside the West Gate of Bree)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2745,
+        5,
+        2745
+      ],
+      "comment": "(Chubby man)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2745,
+        99,
+        17
+      ],
+      "comment": "(a kindled cigar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2755,
+        5,
+        2755
+      ],
+      "comment": "(the falcon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2755,
+        2,
+        2755
+      ],
+      "comment": "(the falcon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2715,
+        9,
+        2732
+      ],
+      "comment": "(a hobbit)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        2732,
+        1,
+        2732
+      ],
+      "comment": "(a small hobbit well)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2714,
+        9,
+        2726
+      ],
+      "comment": "(a fat hobbit)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2714,
+        20,
+        -1
+      ],
+      "comment": "(a tobacco-leaf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2715,
+        9,
+        2724
+      ],
+      "comment": "(a hobbit)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2700,
+        1,
+        2713
+      ],
+      "comment": "(Elf)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2707,
+        100,
+        -1
+      ],
+      "comment": "(&gThe &yPathway &gto &WG&wrey &CH&cavens&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2700,
+        100,
+        -1
+      ],
+      "comment": "(&gThe &yPathway &gto &YShire&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2702,
+        100,
+        -1
+      ],
+      "comment": "(&gThe &yPathway &gto &cBree&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2703,
+        100,
+        -1
+      ],
+      "comment": "(&gThe &yPathway &gto &GR&givendell&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2704,
+        100,
+        -1
+      ],
+      "comment": "(&gThe &yPathway &gto &YM&yoria&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2705,
+        100,
+        -1
+      ],
+      "comment": "(&gThe &yPathway &gto &GLo&gth&Wlo&gri&Gen&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2708,
+        100,
+        -1
+      ],
+      "comment": "(&gThe &yPathway &gto &YDi&ymr&Will &yDa&Yle&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2709,
+        100,
+        -1
+      ],
+      "comment": "(&gThe &yPathway &gto &BA&bn&Wdu&bi&Bn&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2722,
+        1,
+        2722
+      ],
+      "comment": "(Bilbo)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2722,
+        20,
+        21
+      ],
+      "comment": "(A Small Monocle)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        2723,
+        1,
+        2722
+      ],
+      "comment": "(a small bookcase)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        10107,
+        1,
+        2723
+      ],
+      "comment": "(&ra &RR&red &RB&rook &wnamed &W\"There and Back Again\"&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2783,
+        1,
+        2749
+      ],
+      "comment": "(Aragorn)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2783,
+        20,
+        16
+      ],
+      "comment": "(&YA&yragorn's &RH&runting &WK&wnife&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2792,
+        1,
+        2792
+      ],
+      "comment": "(Nazgul)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2792,
+        10,
+        17
+      ],
+      "comment": "(&wA &WDar&wkn&Wess Sw&wo&Wrd&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2793,
+        1,
+        2795
+      ],
+      "comment": "(Nazgul)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2795,
+        10,
+        5
+      ],
+      "comment": "(&wA &WDar&wkn&Wess Pla&wtem&Wail&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2794,
+        1,
+        2796
+      ],
+      "comment": "(Nazgul)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2794,
+        10,
+        6
+      ],
+      "comment": "(&wA &WDar&wkn&Wess &WCr&wo&Wwn&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2795,
+        1,
+        2797
+      ],
+      "comment": "(Nazgul)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2793,
+        10,
+        9
+      ],
+      "comment": "(&wa &WDar&wkn&Wess &WGau&wntl&Wets&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2744,
+        1,
+        2
+      ],
+      "comment": "(West Gate of Bree)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2744,
+        1,
+        2744
+      ],
+      "comment": "(a old town guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2744,
+        20,
+        17
+      ],
+      "comment": "(a Key of Bree)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2743,
+        2,
+        2744
+      ],
+      "comment": "(a town guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2743,
+        20,
+        11
+      ],
+      "comment": "(a Great Tower Shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2742,
+        20,
+        16
+      ],
+      "comment": "(a Guard's Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2743,
+        2,
+        2744
+      ],
+      "comment": "(a town guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2743,
+        20,
+        11
+      ],
+      "comment": "(a Great Tower Shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2742,
+        20,
+        16
+      ],
+      "comment": "(a Guard's Sword)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2737,
+        0,
+        1
+      ],
+      "comment": "(Outside Hobbit Mayor's Office)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2788,
+        3,
+        2
+      ],
+      "comment": "(&wA Dark &gForest&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        2706,
+        1,
+        2706
+      ],
+      "comment": "(Huge Tree)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        2711,
+        1,
+        2711
+      ],
+      "comment": "(boat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2715,
+        5,
+        2728
+      ],
+      "comment": "(a hobbit)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2738,
+        1,
+        2738
+      ],
+      "comment": "(Karo)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2737,
+        1,
+        2738
+      ],
+      "comment": "(Mayor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2737,
+        99,
+        17
+      ],
+      "comment": "(a pink potion)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2738,
+        2,
+        1
+      ],
+      "comment": "(The Hobbit Mayor's Office)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2735,
+        1,
+        2735
+      ],
+      "comment": "(Bogo)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2714,
+        6,
+        2727
+      ],
+      "comment": "(a fat hobbit)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2714,
+        20,
+        -1
+      ],
+      "comment": "(a tobacco-leaf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2719,
+        1,
+        2719
+      ],
+      "comment": "(Sam)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2717,
+        1,
+        2717
+      ],
+      "comment": "(Merry)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2715,
+        30,
+        16
+      ],
+      "comment": "(a Tiny Axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2723,
+        1,
+        2723
+      ],
+      "comment": "(Frodo)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2715,
+        30,
+        16
+      ],
+      "comment": "(a Tiny Axe)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2729,
+        2,
+        2
+      ],
+      "comment": "(Stone Path)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2730,
+        0,
+        2
+      ],
+      "comment": "(Took's House)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2754,
+        5,
+        2754
+      ],
+      "comment": "(a little thief)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2754,
+        5,
+        2754
+      ],
+      "comment": "(a little thief)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2774,
+        8,
+        2768
+      ],
+      "comment": "(an old, battle-scarred warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2774,
+        20,
+        16
+      ],
+      "comment": "(a Battle Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2774,
+        8,
+        2771
+      ],
+      "comment": "(an old, battle-scarred warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2774,
+        20,
+        16
+      ],
+      "comment": "(a Battle Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2774,
+        8,
+        2771
+      ],
+      "comment": "(an old, battle-scarred warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2774,
+        20,
+        16
+      ],
+      "comment": "(a Battle Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2774,
+        8,
+        2769
+      ],
+      "comment": "(an old, battle-scarred warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2774,
+        20,
+        16
+      ],
+      "comment": "(a Battle Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2774,
+        8,
+        2769
+      ],
+      "comment": "(an old, battle-scarred warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2774,
+        20,
+        16
+      ],
+      "comment": "(a Battle Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2774,
+        8,
+        2774
+      ],
+      "comment": "(an old, battle-scarred warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2774,
+        20,
+        16
+      ],
+      "comment": "(a Battle Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2774,
+        8,
+        2774
+      ],
+      "comment": "(an old, battle-scarred warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2774,
+        20,
+        16
+      ],
+      "comment": "(a Battle Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2745,
+        2,
+        2747
+      ],
+      "comment": "(Chubby man)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2745,
+        99,
+        17
+      ],
+      "comment": "(a kindled cigar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2778,
+        2,
+        2778
+      ],
+      "comment": "(a strong horse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2778,
+        2,
+        2778
+      ],
+      "comment": "(a strong horse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2763,
+        4,
+        2764
+      ],
+      "comment": "(A cute little girl)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2763,
+        4,
+        2764
+      ],
+      "comment": "(A cute little girl)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2764,
+        5,
+        2764
+      ],
+      "comment": "(a energetic little boy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2764,
+        5,
+        2763
+      ],
+      "comment": "(a energetic little boy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2764,
+        5,
+        2763
+      ],
+      "comment": "(a energetic little boy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2763,
+        4,
+        2763
+      ],
+      "comment": "(A cute little girl)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2746,
+        10,
+        2770
+      ],
+      "comment": "(a rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2746,
+        10,
+        2770
+      ],
+      "comment": "(a rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2746,
+        10,
+        2762
+      ],
+      "comment": "(a rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2746,
+        10,
+        2762
+      ],
+      "comment": "(a rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2746,
+        10,
+        2756
+      ],
+      "comment": "(a rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2746,
+        10,
+        2756
+      ],
+      "comment": "(a rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2782,
+        1,
+        2782
+      ],
+      "comment": "(keep of justice)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2786,
+        1,
+        2786
+      ],
+      "comment": "(Bill Ferny)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2786,
+        0,
+        1
+      ],
+      "comment": "(Inside Ferny's Place)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2761,
+        1,
+        2761
+      ],
+      "comment": "(Jeffrey the Smoking Connoisseur)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2776,
+        1,
+        2776
+      ],
+      "comment": "(Benny, The Gamemaster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2767,
+        1,
+        2767
+      ],
+      "comment": "(Mrs. Butterbur)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2765,
+        1,
+        2765
+      ],
+      "comment": "(a drunken sailor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2781,
+        1,
+        2781
+      ],
+      "comment": "(Aravir the Master Ranger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2750,
+        1,
+        2750
+      ],
+      "comment": "(Laryn, The Auctioneer)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/27.zon"
+}

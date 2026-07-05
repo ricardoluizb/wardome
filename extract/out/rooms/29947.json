@@ -1,0 +1,21 @@
+{
+  "id": 29947,
+  "zone_id": 298,
+  "name": "A well lit sleep chamber",
+  "description": "You are in a small sleep chamber.  There is a large four-poster bed in the\nmiddle of the room, and the sheets are very mussed, whoever slept here must\nhave had some very anxious dreams.  There is light everywhere, and everything\nis surrounded in an almost holy glow.  There is nothing else in the room except\na thin curtain over the window.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29946
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

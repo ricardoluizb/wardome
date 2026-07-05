@@ -1,0 +1,26 @@
+{
+  "id": 28664,
+  "zone_id": 286,
+  "name": "A large dwelling",
+  "description": "You have stepped inside a dimly lit building with vaulted ceilings and high\nwindows.  The walls are heavy stone blocks that rise tens of feet above your\nhead, covered with panels of strangely knotted and twisted wood.  On the floor\nare charcoal stencils of pentagrams and various other ominous sigils.",
+  "header_raw": "286 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The wooden door leads back out onto the grey cobblestone road.",
+      "keywords": "door wooden",
+      "door_flag": 1,
+      "key": -1,
+      "to": 28656
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "door wooden",
+      "description": "The door is thick, made from a knotted and twisted greyish wood."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/286.wld"
+}

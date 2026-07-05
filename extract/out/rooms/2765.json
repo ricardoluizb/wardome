@@ -1,0 +1,37 @@
+{
+  "id": 2765,
+  "zone_id": 27,
+  "name": "Prancing Pony Common Room",
+  "description": "You have entered the bustling common room of the Prancing Pony, Bree's largest\nand best-known inn and tavern.  This is a meeting place for all manner of\ntravelers along the Great East Road and Greenway.  Barliman Butterbur, the\ninnkeeper, is serving ale to There are private rooms to the northeast of the\ncommon room.  A large clock ticks loudly on the mantel.  A menu is mounted on\nthe wall.  Go ahead and order anything you like from the menu.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2766
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2767
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2762
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

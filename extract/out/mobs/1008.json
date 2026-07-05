@@ -1,0 +1,12 @@
+{
+  "id": 1008,
+  "alias": "skeleton human",
+  "short_desc": "the human skeleton",
+  "long_desc": "A skeletal human is standing here, looking rather confused.",
+  "detailed_desc": "You look upon this being with a good deal of curiosity.  Then it\nbegins to twitch, and looks around.  You are rather shocked, until\nyou realize that it seems to be looking for someone in particular.",
+  "flags_raw": "74 136 600 E",
+  "stats1_raw": "30 -15 -9 1d1+3240 5d10+112",
+  "stats2_raw": "450 169441 10",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/10.mob"
+}

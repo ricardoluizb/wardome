@@ -1,0 +1,12 @@
+{
+  "id": 8136,
+  "alias": "goblin",
+  "short_desc": "the goblin",
+  "long_desc": "A green-skinned goblin warrior stands here, clutching a bloody scimitar.",
+  "detailed_desc": "He looks tougher than the average goblin.",
+  "flags_raw": "6248 1024 -400 E",
+  "stats1_raw": "155 -79 -29 1d1+17976 5d46+172",
+  "stats2_raw": "2325 18036962 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

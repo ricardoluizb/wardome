@@ -1,0 +1,29 @@
+{
+  "id": 13302,
+  "zone_id": 132,
+  "name": "The North Wall",
+  "description": "You continue along the north road.  The city wall blocks your way north and\nCloudy Mountain casts a shadow over the street.  Homes are to the south and the\nroad is east and west.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "north wall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13301
+    },
+    {
+      "dir": 3,
+      "description": "north wall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13303
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

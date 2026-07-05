@@ -1,0 +1,26 @@
+{
+  "id": 8120,
+  "zone_id": 81,
+  "name": "Maxtrum Holloknob's Dry Goods",
+  "description": "Max will buy anything low and sell it high, useful or not.  Most of it\nis useless to you, anyway.  Why would you want nails, or pots and pans,\nor tulip bulbs?  Horseshoes don't seem like a good thing to carry on a \nlong journey, either.  Max also carries a few staple items for you fool\nadventurers, too, which he would gladly list. A strange sign with darts\nstuck in it is hung on the wall.",
+  "header_raw": "81 152 0",
+  "flags_text": "152",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You can go find a cheaper store somewhere else in Market Square.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8112
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign wall symbol",
+      "description": "There are also some crossbow quarrels driven into this picture of a\nleprechaun, who is grinning and holding a bag of gold. It is not a\ngreat work of art; perhaps the shopkeeper has a grudge against\nleprechauns."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "The Bedroom",
   "description": "This room is dominated by the huge four-poster bed, that stands\nagainst the northern wall.  The room is large and cosy, and the bed\nvirtually begs you to lie down in it and sleep.",
-  "header_raw": "150 d 0",
-  "flags_text": "d",
+  "header_raw": "150 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

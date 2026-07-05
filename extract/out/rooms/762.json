@@ -1,0 +1,21 @@
+{
+  "id": 762,
+  "zone_id": 7,
+  "name": "Cells",
+  "description": "AT LAST!  A jail cell thats not damp, musty, smelly and\ncold... its only damp, musty and cold--they must air this place out\nevery once in a while.  There is a bit of grime here, but most of its\nassociated with the prisoner...",
+  "header_raw": "7 13 0",
+  "flags_text": "13",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 726,
+      "to": 761
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

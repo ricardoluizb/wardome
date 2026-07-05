@@ -1,0 +1,45 @@
+{
+  "id": 1606,
+  "zone_id": 16,
+  "name": "Cluster of Buildings",
+  "description": "You are in the middle of a cluster of small buildings. There is a building\nto the north, east, and west.  A sign over the eastern building says\n'House of Pancakes'.",
+  "header_raw": "16 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "There is an entrance to a building.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1609
+    },
+    {
+      "dir": 1,
+      "description": "A sign over the door reads 'House of Pancakes'.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1607
+    },
+    {
+      "dir": 2,
+      "description": "A path heads south toward the west side of the towers.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1605
+    },
+    {
+      "dir": 3,
+      "description": "There is an entrance to a building here.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1608
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

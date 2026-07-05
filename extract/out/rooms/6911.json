@@ -1,0 +1,45 @@
+{
+  "id": 6911,
+  "zone_id": 69,
+  "name": "Into the Dungeon",
+  "description": "This is getting very weird now.  You are inside of a small dungeon, located\nin the basement of an old spooky house.  Wait a minute...  That kind of goes\ntogether.  Anyway, there are cells to the north and south, with a torch on both\nsides of you, making the dungeon light up, like someone, or something, has been\naround recently...",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "cell bars",
+      "door_flag": 1,
+      "key": 6902,
+      "to": 6912
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6910
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "cell bars",
+      "door_flag": 1,
+      "key": 6902,
+      "to": 6913
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6914
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

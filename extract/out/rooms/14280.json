@@ -1,0 +1,21 @@
+{
+  "id": 14280,
+  "zone_id": 141,
+  "name": "In the Warp",
+  "description": "You see the last of the Triad of Evil.  With its destruction came\nthe breaking of the world.",
+  "header_raw": "141 64 0",
+  "flags_text": "64",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "The Time Warp continues on.",
+      "keywords": "warp",
+      "door_flag": 2,
+      "key": 14116,
+      "to": 14281
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

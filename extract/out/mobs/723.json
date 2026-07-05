@@ -1,0 +1,12 @@
+{
+  "id": 723,
+  "alias": "innguard guard",
+  "short_desc": "the Innguard",
+  "long_desc": "A innguard is here, ready to fight off some marauding hordes.",
+  "detailed_desc": "The innguard looks fearless and ready to defend the patrons of the\nFortress at a moments notice.",
+  "flags_raw": "10 128 600 E",
+  "stats1_raw": "100 -40 -12 1d1+6792 5d21+90",
+  "stats2_raw": "1500 3791433 5",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

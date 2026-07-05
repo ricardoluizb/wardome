@@ -1,0 +1,12 @@
+{
+  "id": 17347,
+  "alias": "commander outpost",
+  "short_desc": "the northern outpost commander",
+  "long_desc": "The northern outpost commander is here, safe in the respect of his men.",
+  "detailed_desc": "The outpost commander is a hardened, grizzled veteran with the cunning that \ncomes from a life of leading men in endless battle.",
+  "flags_raw": "10 8232 500 E",
+  "stats1_raw": "125 -42 -8 1d1+3492 5d13+50",
+  "stats2_raw": "1875 5532299 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/173.mob"
+}

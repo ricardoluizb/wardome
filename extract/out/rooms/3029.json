@@ -3,8 +3,8 @@
   "zone_id": 30,
   "name": "The Secret Yard",
   "description": "The secret practice yard of thieves and assassins.  To the north is the\nbar.  A well leads down into darkness.",
-  "header_raw": "30 cd 0",
-  "flags_text": "cd",
+  "header_raw": "30 12 0",
+  "flags_text": "12",
   "sector": 0,
   "exits": [
     {

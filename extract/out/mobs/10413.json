@@ -1,0 +1,12 @@
+{
+  "id": 10413,
+  "alias": "oldstyle skeletal warrior",
+  "short_desc": "Skeletal warrior",
+  "long_desc": "A skeletal warrior wanders the planes of Hell.",
+  "detailed_desc": "Rotting flesh and gore drop from the bones of this creature.\nIts decaying eyes stare at you intently as it sees only your\ndelicious and juicy brain.",
+  "flags_raw": "8 8389760 -743 E",
+  "stats1_raw": "90 -27 -5 1d1+3240 5d10+46",
+  "stats2_raw": "1350 2623130 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/104.mob"
+}

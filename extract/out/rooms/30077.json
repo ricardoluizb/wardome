@@ -1,0 +1,37 @@
+{
+  "id": 30077,
+  "zone_id": 300,
+  "name": "An elven home",
+  "description": "Many plants grow in this room, which is more like an indoor garden than a\nliving room.  The greenery is everywhere: growing in a trough along one wall,\nhanging from the ceiling or placed upon the floor in pots.  Amongst all the\nplant life can be found a few chairs and a wooden table.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30076
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30074
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30078
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

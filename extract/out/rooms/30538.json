@@ -1,0 +1,29 @@
+{
+  "id": 30538,
+  "zone_id": 305,
+  "name": "The Sewer",
+  "description": "You are in a dark dirty sewer, some rats are running from the east exit, and\nsome kind of a dark water with brown strange floating objects are moving west.\nThere is nothing very usefull, the only thing you can find here is some heroes\ntrying to find some adventure.    \n  The sewer continues east and west.",
+  "header_raw": "305 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30527
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30537
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/305.wld"
+}

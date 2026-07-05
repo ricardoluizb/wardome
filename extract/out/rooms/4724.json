@@ -1,0 +1,29 @@
+{
+  "id": 4724,
+  "zone_id": 47,
+  "name": "Dwarven mine",
+  "description": "This small shaft travels to the east and west while along the way several\nspots of precious metal and rock jut forth from the red rock.",
+  "header_raw": "47 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4725
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4709
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 13273,
+  "alias": "knight",
+  "short_desc": "a knight",
+  "long_desc": "A knight of evil glares at you.",
+  "detailed_desc": "A dragon knight that has fallen from the path of good.  This dragon will \nsurely be recruited by the Dragons of Anarchy.",
+  "flags_raw": "8200 40 -500 E",
+  "stats1_raw": "50 -21 -9 1d1+4596 5d11+100",
+  "stats2_raw": "750 596679 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

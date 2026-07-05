@@ -1,0 +1,21 @@
+{
+  "id": 3722,
+  "zone_id": 37,
+  "name": "In a dusty Tomb",
+  "description": "You are in a dark burial chamber beneath a large tomb stone.\nThe only exit appears to be up.",
+  "header_raw": "37 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "tomb stone",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3721
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/37.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 13120,
+  "zone_id": 131,
+  "name": "Weapons Room",
+  "description": "You have entered the weapons room.  You see warriors standing before\nprimitive, yet very effective, tools for putting a razor's edge on swords.  It\nlooks like they could really put a hurtin' on someone with their weapons.",
+  "header_raw": "131 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A landing is to your north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13119
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/131.wld"
+}

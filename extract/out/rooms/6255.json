@@ -3,8 +3,8 @@
   "zone_id": 62,
   "name": "A Tunnel",
   "description": "This forking off from the mail tunnel seems odd; the \nwalls are strangely smooth, as if they were carved out by \nforces unknown.  The end is abrupt and short, but there is\na steel door inset in the wall of the west side of the \ntunnel.  The smell from the lower tunnel doesn't seem \nnearly as bad here... this might be a good place to rest\nand catch your breath.",
-  "header_raw": "62 acd 4",
-  "flags_text": "acd",
+  "header_raw": "62 13 4",
+  "flags_text": "13",
   "sector": 4,
   "exits": [
     {

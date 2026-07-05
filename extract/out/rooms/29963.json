@@ -1,0 +1,21 @@
+{
+  "id": 29963,
+  "zone_id": 298,
+  "name": "The War Room",
+  "description": "You have walked into a war-room.  In the center of the room is a rather large\nwooden table, with chairs all around it.  On top of the table is a map of the\nforest.  Small twigs and pebbles litter the map, as if a child had been playing\non top of it.  The room is rather large, as if it was meant to have more in it\nthan just the table and chairs.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 29962
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

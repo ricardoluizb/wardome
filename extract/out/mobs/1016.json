@@ -1,0 +1,12 @@
+{
+  "id": 1016,
+  "alias": "spirit",
+  "short_desc": "a spirit",
+  "long_desc": "A spirit lurks in the shadows.",
+  "detailed_desc": "With no earthly form, this spirit hovers silently above you.",
+  "flags_raw": "258138 558136 200 E",
+  "stats1_raw": "50 -25 -12 1d1+5400 5d16+120",
+  "stats2_raw": "750 668281 10",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/10.mob"
+}

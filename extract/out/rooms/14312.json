@@ -1,0 +1,37 @@
+{
+  "id": 14312,
+  "zone_id": 143,
+  "name": "Guard Post",
+  "description": "Guards have been posted here outside the doors to the pyramid to insure that\nno trespassing occurs. The pyramid is sealed with two worn iron doors.",
+  "header_raw": "143 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "An open road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14311
+    },
+    {
+      "dir": 2,
+      "description": "The interior of the temple is dark.",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 14324,
+      "to": 14341
+    },
+    {
+      "dir": 3,
+      "description": "A large house.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14313
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

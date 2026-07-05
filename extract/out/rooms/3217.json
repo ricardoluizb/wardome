@@ -1,0 +1,38 @@
+{
+  "id": 3217,
+  "zone_id": 32,
+  "name": "The Corridor",
+  "description": "You are standing in a drafty corridor.  There is a window set in the east\nwall, and a balcony to the west protects you from falling into the gardens.",
+  "header_raw": "32 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3214
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3220
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "window",
+      "description": "The window looks down upon a grassy field."
+    },
+    {
+      "keywords": "balcony",
+      "description": "Its a simple piece of polished wood.  You can see the gardens below."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/32.wld"
+}

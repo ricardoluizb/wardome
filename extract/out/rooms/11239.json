@@ -1,0 +1,29 @@
+{
+  "id": 11239,
+  "zone_id": 112,
+  "name": "The Office of the Mayor",
+  "description": "The Mayor's office is a well-appointed study, the walls of which are\npanelled with expensive wood, which is mostly obscured by the many\nshelves of heavy books and trophies, including some fine hunting trophies;\nthe head of a massive stag hangs above the polished wooden desk that is\nthe Mayor's. A narrow staircase heads up to the second level, and whatever\nis contained there; most likely the private rooms of the Mayor.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11238
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11240
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

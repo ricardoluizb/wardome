@@ -1,0 +1,29 @@
+{
+  "id": 5757,
+  "zone_id": 57,
+  "name": "A Bend in the Corridor",
+  "description": "You have reached a bend in the corridor where you can head north to another\njunction or back west to a southern branch of the corridor. The sound of \nrunning water seems to be coming directly from the north now.\n\nYou get the feeling this may be a good place to rest and collect yourself.",
+  "header_raw": "57 29 0",
+  "flags_text": "29",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a junction",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5758
+    },
+    {
+      "dir": 3,
+      "description": "a junction",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5756
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2754,
+  "zone_id": 27,
+  "name": "A quiet memorial site",
+  "description": "This corner of the cemetery seems to be set aside for memorials to some of the\nmore famous explorers who were born and raised in and around Bree.  It is not a\nsite for graves - rather, a pleasant garden spotted with waist-high marble\ntablets.  Each tablet seems to bear the eulogy of one of the fallen.  The green\ngrass and occasional tree make the site one of peace and reflection.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2753
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 10451,
+  "zone_id": 104,
+  "name": "Crack in Wall",
+  "description": "This is a rather large crack in the wall. On closer inspection it appears to be\na passageway that was closed off long ago. It was probably reopened by\nan earthquake or something.\nAn ancient passageway continues to the north.\nHot gusts of air come from the west.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "It is too dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10441
+    },
+    {
+      "dir": 3,
+      "description": "It is too dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10450
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

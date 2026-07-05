@@ -1,0 +1,74 @@
+{
+  "id": 302,
+  "name": "Wardome - Purple Dragon Clan",
+  "header": {
+    "raw": "30299 30 0 1 7",
+    "min_room": 30299,
+    "top_room": 30,
+    "lifespan": 0,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30203,
+        1,
+        30205
+      ],
+      "comment": "(&MA&mvatar &Wof &BM&buir&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30207,
+        1,
+        16
+      ],
+      "comment": "(&MS&mcale &Wof &BJ&bustice&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        3097,
+        1,
+        30203
+      ],
+      "comment": "(Purple Dragon board.)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        30200,
+        1,
+        30203
+      ],
+      "comment": "(&nThe &MP&murple &BD&bragons&n Flag)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30201,
+        2,
+        30201
+      ],
+      "comment": "(Purple Dragon)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        30201,
+        1,
+        30202
+      ],
+      "comment": "(the fountain)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/302.zon"
+}

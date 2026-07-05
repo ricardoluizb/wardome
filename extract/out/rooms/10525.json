@@ -1,0 +1,37 @@
+{
+  "id": 10525,
+  "zone_id": 104,
+  "name": "Hallway of The Mall from Hell",
+  "description": "This is definitely the Mall from Hell...there are no stores!\nOnly in Hell would they have a mall with no stores.\nThe hallway continues to the north and south.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a hall of the Mall from Hell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10515
+    },
+    {
+      "dir": 1,
+      "description": "You see a hall of the Mall from Hell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10535
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10535
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

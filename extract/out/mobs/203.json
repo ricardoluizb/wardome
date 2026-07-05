@@ -1,0 +1,12 @@
+{
+  "id": 203,
+  "alias": "water elemental",
+  "short_desc": "The water elemental",
+  "long_desc": "A large water elemental is swimming about here.",
+  "detailed_desc": "It seems to be part of the conjuring spell the wizard is casting.",
+  "flags_raw": "108 0 0 E",
+  "stats1_raw": "95 -39 -13 1d1+7212 5d19+98",
+  "stats2_raw": "1425 3359349 6",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/2.mob"
+}

@@ -42,12 +42,12 @@
   ],
   "extra_descriptions": [
     {
-      "keywords": "stone structure aqueduct",
-      "description": "You see a massive stone structure, built several centuries ago, that is used\nto channel water into the city."
-    },
-    {
       "keywords": "mountain",
       "description": "Off to the southwest, you can see  a huge mountain that is partially obscured\nby the haze.  It is rumored that the gods reside there and protect the city."
+    },
+    {
+      "keywords": "stone structure aqueduct",
+      "description": "You see a massive stone structure, built several centuries ago, that is used\nto channel water into the city."
     }
   ],
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/120.wld"

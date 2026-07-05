@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The End Of The Tunnel",
   "description": "The tunnel comes to a sudden halt here.  How very bizarre.  The\nonly exit is back to the west, where the tunnel leads back through\nthe mountain.  There is absolutely nothing of any interest down at\nthe end of this passageway either.  How odd.",
-  "header_raw": "40 ad 3",
-  "flags_text": "ad",
+  "header_raw": "40 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

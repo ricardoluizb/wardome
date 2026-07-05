@@ -1,0 +1,12 @@
+{
+  "id": 17325,
+  "alias": "dagonet jester fool",
+  "short_desc": "Dagonet (Arthur's Court Jester)",
+  "long_desc": "A fool in motley cavorts here!",
+  "detailed_desc": "Dagonet, the court jester of Arthur, is a master of his craft. He dances \non his hands while juggling a set of knives. You get the impression that \nhe could handle himself well in a fight.",
+  "flags_raw": "138 0 1000 E",
+  "stats1_raw": "130 -45 -9 1d1+3636 5d14+52",
+  "stats2_raw": "1950 6194774 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/173.mob"
+}

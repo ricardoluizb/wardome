@@ -1,0 +1,29 @@
+{
+  "id": 11501,
+  "zone_id": 115,
+  "name": "The Port Of New Sparta",
+  "description": "You stare in astonishment at the modern metropolis of New Sparta...  After\nexamining the sky for a few minutes, you realize an old sailor has been staring\nat you the whole time.  As you gaze down at him, you notice a strange aura\naround him.  When you finally decide to speak, the strange sailor points to the\ncity and says \"With technology comes power and with;power comes DANGER!!  \"\n\n   You turn to look back at the sailor and notice he is no longer there!\nA feeling of hope and uneasiness pervades your body as you think about the\ncity of New Sparta!",
+  "header_raw": "115 144 7",
+  "flags_text": "144",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11502
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29500
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

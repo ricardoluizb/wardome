@@ -1,0 +1,21 @@
+{
+  "id": 757,
+  "zone_id": 7,
+  "name": "Mayor Kell's Office",
+  "description": "Mayor Kell's office is very homey.  There are some plush chairs, a\nnice desk with a well-worn groove where someone puts their feet up\nundoubtedly, pictures of friends and family on the walls, and other\ntouches of a well lived-in office.  There is also a well stocked bar\nhere, probably stocked by Kell's own tavern in the northern part of\ntown.",
+  "header_raw": "7 12 0",
+  "flags_text": "12",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 756
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

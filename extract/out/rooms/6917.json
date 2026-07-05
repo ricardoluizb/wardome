@@ -1,0 +1,50 @@
+{
+  "id": 6917,
+  "zone_id": 69,
+  "name": "The Entrance to the Death Chambers",
+  "description": "You are now in a room which leads you to three other rooms.  They don't look\nto be the most happenin' places either.  A skull lies in front of you with a\nrat crawling inside of it.  A small sign sticks up from the ground here.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6918
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6914
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6919
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6920
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "North - The Slow-Death Room\n\nSouth - Quick-Death\n\nWest - The Dungeon Ruler's Lair\n\nBE WARNED: UNPREPARED INTRUDERS WILL DIE"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

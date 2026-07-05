@@ -1,0 +1,21 @@
+{
+  "id": 11263,
+  "zone_id": 112,
+  "name": "Offices of the Clergy",
+  "description": "The desks and chairs in this area remain untouched by the ravages that\nbeset the rest of the temple; the reason for this is readily apparent\nin the form of a shimmering force field, which imprisons a magical being\nin the room where it was summoned, as a last ditch effort to defeat the\nevil forces that beset this place.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11262
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

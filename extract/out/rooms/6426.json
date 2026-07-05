@@ -3,8 +3,8 @@
   "zone_id": 64,
   "name": "A Hall",
   "description": "This area of the tower seems dank and oppressive.  The\nhall runs north-south, and there is an empty cell to your\nwest.  The stairwell is to your east.",
-  "header_raw": "64 ad 0",
-  "flags_text": "ad",
+  "header_raw": "64 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

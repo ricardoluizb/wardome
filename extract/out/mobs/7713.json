@@ -1,0 +1,12 @@
+{
+  "id": 7713,
+  "alias": "oldstyle githyanki lich queen",
+  "short_desc": "the lich-queen",
+  "long_desc": "The evil lich-queen of the Gith reaches out to destroy you.",
+  "detailed_desc": "The lich-queen of the githyanki was once human, but no longer.  Her skin has\ncompletely shrunken around her skull, held together solely by the force of\nunholy magic and the powers of this plane of existence.  The cold glare of her\nhollow eyes sends you into paroxysms of fright.",
+  "flags_raw": "42 1208 -750 E",
+  "stats1_raw": "105 -32 -5 1d1+2940 5d11+42",
+  "stats2_raw": "1575 3353024 0",
+  "stats3_raw": "8 8 2 -1 7",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/77.mob"
+}

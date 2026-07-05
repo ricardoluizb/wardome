@@ -1,0 +1,21 @@
+{
+  "id": 417,
+  "zone_id": 4,
+  "name": "Temple of youth",
+  "description": "When you enter this temple, your body start to shake, without you know why.  \nThe temple is full of pictures of great battles, e in the middle of the room\nyou see an golden altar, it erradiates a green light...  BE CAREFUL!  It don't\nseem such a good idea to touch It.",
+  "header_raw": "4 31248 0",
+  "flags_text": "31248",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 405
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/4.wld"
+}

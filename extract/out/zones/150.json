@@ -2,11 +2,11 @@
   "id": 150,
   "name": "King Welmar's Castle",
   "header": {
-    "raw": "15000 15099 120 2",
-    "min_room": 15000,
-    "top_room": 15099,
-    "lifespan": 120,
-    "reset_mode": 2
+    "raw": "15099 120 2 1 -1",
+    "min_room": 15099,
+    "top_room": 120,
+    "lifespan": 2,
+    "reset_mode": 1
   },
   "commands": [
     {
@@ -17,7 +17,7 @@
         1,
         15017
       ],
-      "comment": "King Welmar"
+      "comment": "(King Welmar)"
     },
     {
       "cmd": "E",
@@ -27,7 +27,7 @@
         1,
         17
       ],
-      "comment": "Golden Sceptre"
+      "comment": "(&ya golden sceptre&n)"
     },
     {
       "cmd": "E",
@@ -37,7 +37,7 @@
         1,
         6
       ],
-      "comment": "Golden Crown"
+      "comment": "(a golden crown)"
     },
     {
       "cmd": "E",
@@ -47,336 +47,17 @@
         1,
         0
       ],
-      "comment": "Golden Apple"
+      "comment": "(a golden apple)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         15014,
-        1
-      ],
-      "comment": "Key To King's Quarters"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15003,
         1,
-        15042
+        -1
       ],
-      "comment": "Jim The Royal Guard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        15015,
-        50,
-        5
-      ],
-      "comment": "Chain Mail Hauberk"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15004,
-        1,
-        15023
-      ],
-      "comment": "Brian The Royal Guard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        15006,
-        100,
-        16
-      ],
-      "comment": "Training Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        15015,
-        50,
-        5
-      ],
-      "comment": "Chain Mail Hauberk"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15005,
-        1,
-        15023
-      ],
-      "comment": "Mick The Royal Guard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        15006,
-        100,
-        16
-      ],
-      "comment": "Training Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        15015,
-        50,
-        5
-      ],
-      "comment": "Chain Mail Hauberk"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15006,
-        1,
-        15035
-      ],
-      "comment": "Matt The Royal Guard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        15015,
-        50,
-        5
-      ],
-      "comment": "Chain Mail Hauberk"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15007,
-        1,
-        15028
-      ],
-      "comment": "Jochem The Royal Guard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        15015,
-        50,
-        5
-      ],
-      "comment": "Chain Mail Hauberk"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15008,
-        1,
-        15023
-      ],
-      "comment": "Anne The Royal Guard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        15015,
-        50,
-        5
-      ],
-      "comment": "Chain Mail Hauberk"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15009,
-        1,
-        15008
-      ],
-      "comment": "Andrew The Royal Guard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        15015,
-        50,
-        5
-      ],
-      "comment": "Chain Mail Hauberk"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15010,
-        1,
-        15032
-      ],
-      "comment": "Bertram The Royal Guard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        15015,
-        50,
-        5
-      ],
-      "comment": "Chain Mail Hauberk"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15011,
-        1,
-        15019
-      ],
-      "comment": "Jeanette The Royal Guard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        15015,
-        50,
-        5
-      ],
-      "comment": "Chain Mail Hauberk"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15012,
-        1,
-        15023
-      ],
-      "comment": "Peter"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        15015,
-        50,
-        5
-      ],
-      "comment": "Chain Mail Hauberk"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        15016,
-        10,
-        16
-      ],
-      "comment": "Broadsword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15013,
-        1,
-        15023
-      ],
-      "comment": "Training Master"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
+      "comment": "(a key)"
     },
     {
       "cmd": "M",
@@ -386,113 +67,7 @@
         1,
         15017
       ],
-      "comment": "Herald"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15016,
-        1,
-        15027
-      ],
-      "comment": "Butler"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        15009,
-        1
-      ],
-      "comment": "Key To The Butler's Quarters"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15017,
-        5,
-        15010
-      ],
-      "comment": "Cleaning Woman"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15017,
-        5,
-        15010
-      ],
-      "comment": "Cleaning Woman"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15017,
-        5,
-        15041
-      ],
-      "comment": "Cleaning Woman"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15017,
-        5,
-        15041
-      ],
-      "comment": "Cleaning Woman"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15017,
-        5,
-        15038
-      ],
-      "comment": "Cleaning Woman"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15019,
-        1,
-        15052
-      ],
-      "comment": "Astrologer"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3052,
-        100
-      ],
-      "comment": "Scroll Of Recall"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3050,
-        100
-      ],
-      "comment": "Scroll Of Identify"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        15012,
-        10
-      ],
-      "comment": "Brown Potion"
+      "comment": "(the Royal Herald)"
     },
     {
       "cmd": "M",
@@ -502,17 +77,7 @@
         1,
         15017
       ],
-      "comment": "Tim The King's Lifeguard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
+      "comment": "(Tim, the King's Lifeguard)"
     },
     {
       "cmd": "E",
@@ -522,7 +87,17 @@
         50,
         5
       ],
-      "comment": "Chain Mail Hauberk"
+      "comment": "(a guard's chain mail hauberk)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15016,
+        50,
+        16
+      ],
+      "comment": "(a large broadsword)"
     },
     {
       "cmd": "M",
@@ -532,17 +107,7 @@
         1,
         15017
       ],
-      "comment": "Tom The King's Lifeguard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
+      "comment": "(Tom, the King's Lifeguard)"
     },
     {
       "cmd": "E",
@@ -552,340 +117,17 @@
         50,
         5
       ],
-      "comment": "Chain Mail Hauberk"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15022,
-        1,
-        15005
-      ],
-      "comment": "Chef"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        15019,
-        50
-      ],
-      "comment": "Lobster"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        15020,
-        50
-      ],
-      "comment": "Some Russian Caviar"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15023,
-        2,
-        15005
-      ],
-      "comment": "Cook"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        15010,
-        1
-      ],
-      "comment": "Key To The Chest"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15023,
-        2,
-        15005
-      ],
-      "comment": "Cook"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15024,
-        1,
-        15036
-      ],
-      "comment": "David The Royal Guard"
+      "comment": "(a guard's chain mail hauberk)"
     },
     {
       "cmd": "E",
       "args": [
         1,
-        3022,
-        100,
+        15016,
+        50,
         16
       ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        15015,
-        50,
-        5
-      ],
-      "comment": "Chain Mail Hauberk"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        15007,
-        1
-      ],
-      "comment": "Key To The Treasury"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        1,
-        15025,
-        1,
-        15036
-      ],
-      "comment": "Dick The Royal Guard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        15015,
-        50,
-        5
-      ],
-      "comment": "Chain Mail Hauberk"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15026,
-        1,
-        15008
-      ],
-      "comment": "Jerry The Royal Guard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        15015,
-        50,
-        5
-      ],
-      "comment": "Chain Mail Hauberk"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15027,
-        1,
-        15008
-      ],
-      "comment": "Michael The Royal Guard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        15015,
-        50,
-        5
-      ],
-      "comment": "Chain Mail Hauberk"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15028,
-        1,
-        15047
-      ],
-      "comment": "Hans The Royal Guard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        15015,
-        50,
-        5
-      ],
-      "comment": "Chain Mail Hauberk"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15029,
-        1,
-        15009
-      ],
-      "comment": "Boris The Royal Guard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        15015,
-        50,
-        5
-      ],
-      "comment": "Chain Mail Hauberk"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        15023,
-        3020
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        3020,
-        100,
-        15023
-      ],
-      "comment": "Dagger"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        15023,
-        3021
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        3021,
-        100,
-        15023
-      ],
-      "comment": "Small Sword"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        15023,
-        3022
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        3022,
-        100,
-        15023
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "O",
-      "args": [
-        1,
-        15001,
-        1,
-        15037
-      ],
-      "comment": "Treasure"
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        15005,
-        1,
-        15052
-      ],
-      "comment": "Telescope"
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        15011,
-        1,
-        15026
-      ],
-      "comment": "Chest"
+      "comment": "(a large broadsword)"
     },
     {
       "cmd": "D",
@@ -895,316 +137,17 @@
         0,
         1
       ],
-      "comment": "Front Gate"
+      "comment": "(On The Drawbridge)"
     },
     {
       "cmd": "D",
       "args": [
         0,
-        15007,
-        2,
+        15004,
+        5,
         1
       ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        15007,
-        3,
-        1
-      ],
-      "comment": "Small Passage"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        15006,
-        1,
-        1
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        15020,
-        1,
-        1
-      ],
-      "comment": "Servants' Corridor"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        15021,
-        3,
-        1
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        15021,
-        0,
-        1
-      ],
-      "comment": "Servants' Quarters"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        15026,
-        2,
-        1
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        15022,
-        0,
-        2
-      ],
-      "comment": "Butler's Quarters"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        15027,
-        2,
-        2
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        15023,
-        0,
-        1
-      ],
-      "comment": "Guard Barracks"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        15028,
-        2,
-        1
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        15036,
-        1,
-        2
-      ],
-      "comment": "Treasure Room"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        15037,
-        3,
-        2
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        15038,
-        0,
-        1
-      ],
-      "comment": "Guest Room"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        15043,
-        2,
-        1
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        15038,
-        1,
-        1
-      ],
-      "comment": "Guest Suite"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        15039,
-        3,
-        1
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        15049,
-        1,
-        2
-      ],
-      "comment": "King Welmar's Quarters"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        15050,
-        3,
-        2
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15000,
-        1,
-        15056
-      ],
-      "comment": "Gwydion The Royal Guard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        15015,
-        50,
-        5
-      ],
-      "comment": "Chain Mail Hauberk"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        15017,
-        1
-      ],
-      "comment": "Cell Key"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15002,
-        1,
-        15069
-      ],
-      "comment": "Horrible Ghost"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15015,
-        1,
-        15059
-      ],
-      "comment": "Ergan The Murderer"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15018,
-        2,
-        15058
-      ],
-      "comment": "Cockroach"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15018,
-        2,
-        15058
-      ],
-      "comment": "Cockroach"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15030,
-        2,
-        15067
-      ],
-      "comment": "Villager Zombie"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15030,
-        2,
-        15067
-      ],
-      "comment": "Villager Zombie"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15031,
-        2,
-        15067
-      ],
-      "comment": "Villager Skeleton"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        15031,
-        2,
-        15067
-      ],
-      "comment": "Villager Skeleton"
+      "comment": "(On The Drawbridge)"
     },
     {
       "cmd": "M",
@@ -1214,57 +157,47 @@
         1,
         15074
       ],
-      "comment": "Pit Fiend"
+      "comment": "(the pit fiend)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        15008,
+        100,
+        -1
+      ],
+      "comment": "(Verminator)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15000,
+        1,
+        15056
+      ],
+      "comment": "(Gwydion)"
     },
     {
       "cmd": "E",
       "args": [
         1,
-        15008,
-        3,
-        16
+        15015,
+        50,
+        5
       ],
-      "comment": "Verminator"
+      "comment": "(a guard's chain mail hauberk)"
     },
     {
-      "cmd": "O",
+      "cmd": "G",
       "args": [
-        0,
-        15013,
         1,
-        15054
-      ],
-      "comment": "Royal Banner"
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        15018,
+        15017,
         1,
-        15070
+        -1
       ],
-      "comment": "Corpse"
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        15021,
-        1,
-        15073
-      ],
-      "comment": "Glow"
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        15022,
-        1,
-        15065
-      ],
-      "comment": "Sound"
+      "comment": "(the cell key)"
     },
     {
       "cmd": "D",
@@ -1274,7 +207,917 @@
         2,
         2
       ],
-      "comment": "Prison Entrance"
+      "comment": "(The Guard Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15028,
+        1,
+        15047
+      ],
+      "comment": "(Hans)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15015,
+        50,
+        5
+      ],
+      "comment": "(a guard's chain mail hauberk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15003,
+        1,
+        15042
+      ],
+      "comment": "(Jim)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15015,
+        50,
+        5
+      ],
+      "comment": "(a guard's chain mail hauberk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15024,
+        1,
+        15036
+      ],
+      "comment": "(David)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15015,
+        50,
+        5
+      ],
+      "comment": "(a guard's chain mail hauberk)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        15007,
+        1,
+        -1
+      ],
+      "comment": "(a huge key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        15025,
+        1,
+        15036
+      ],
+      "comment": "(Dick)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15015,
+        50,
+        5
+      ],
+      "comment": "(a guard's chain mail hauberk)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15036,
+        1,
+        2
+      ],
+      "comment": "(By The Treasure Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15006,
+        1,
+        15035
+      ],
+      "comment": "(Matt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15015,
+        50,
+        5
+      ],
+      "comment": "(a guard's chain mail hauberk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15010,
+        1,
+        15032
+      ],
+      "comment": "(Bertram)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15015,
+        50,
+        5
+      ],
+      "comment": "(a guard's chain mail hauberk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15007,
+        1,
+        15028
+      ],
+      "comment": "(Jochem)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15015,
+        50,
+        5
+      ],
+      "comment": "(a guard's chain mail hauberk)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15028,
+        2,
+        1
+      ],
+      "comment": "(The Guards' Barracks)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15004,
+        1,
+        15023
+      ],
+      "comment": "(Brian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15015,
+        50,
+        5
+      ],
+      "comment": "(a guard's chain mail hauberk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15005,
+        1,
+        15023
+      ],
+      "comment": "(Mick)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15015,
+        50,
+        5
+      ],
+      "comment": "(a guard's chain mail hauberk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15008,
+        1,
+        15023
+      ],
+      "comment": "(Anne)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15015,
+        50,
+        5
+      ],
+      "comment": "(a guard's chain mail hauberk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15012,
+        1,
+        15023
+      ],
+      "comment": "(Peter, the Captain of the Royal Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15015,
+        50,
+        5
+      ],
+      "comment": "(a guard's chain mail hauberk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15013,
+        1,
+        15023
+      ],
+      "comment": "(the Training Master)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        15023,
+        3020,
+        -1
+      ],
+      "comment": "(a dagger)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        3020,
+        100,
+        15023
+      ],
+      "comment": "(a dagger)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        15023,
+        3021,
+        -1
+      ],
+      "comment": "(A small sword)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        3021,
+        100,
+        15023
+      ],
+      "comment": "(A small sword)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        15023,
+        3022,
+        -1
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        3022,
+        100,
+        15023
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15023,
+        0,
+        1
+      ],
+      "comment": "(The Training Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15011,
+        1,
+        15019
+      ],
+      "comment": "(Jeanette)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15015,
+        50,
+        5
+      ],
+      "comment": "(a guard's chain mail hauberk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15029,
+        1,
+        15009
+      ],
+      "comment": "(Boris)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15015,
+        50,
+        5
+      ],
+      "comment": "(a guard's chain mail hauberk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15009,
+        1,
+        15008
+      ],
+      "comment": "(Andrew)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15015,
+        50,
+        5
+      ],
+      "comment": "(a guard's chain mail hauberk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15026,
+        1,
+        15008
+      ],
+      "comment": "(Jerry)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15015,
+        50,
+        5
+      ],
+      "comment": "(a guard's chain mail hauberk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15027,
+        1,
+        15008
+      ],
+      "comment": "(Michael)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15015,
+        50,
+        5
+      ],
+      "comment": "(a guard's chain mail hauberk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15016,
+        1,
+        15027
+      ],
+      "comment": "(James the Butler)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        15009,
+        1,
+        -1
+      ],
+      "comment": "(the Butler's key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15017,
+        5,
+        15010
+      ],
+      "comment": "(the Cleaning Woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15017,
+        5,
+        15010
+      ],
+      "comment": "(the Cleaning Woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15017,
+        5,
+        15041
+      ],
+      "comment": "(the Cleaning Woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15017,
+        5,
+        15041
+      ],
+      "comment": "(the Cleaning Woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15017,
+        5,
+        15038
+      ],
+      "comment": "(the Cleaning Woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15019,
+        1,
+        15052
+      ],
+      "comment": "(the Astrologer)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3052,
+        100,
+        -1
+      ],
+      "comment": "(a scroll of recall)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3050,
+        100,
+        -1
+      ],
+      "comment": "(a scroll of identify)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        15012,
+        10,
+        -1
+      ],
+      "comment": "(a large vial)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15022,
+        1,
+        15005
+      ],
+      "comment": "(the Chef)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        15019,
+        50,
+        -1
+      ],
+      "comment": "(a delicious-looking lobster)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        15020,
+        50,
+        -1
+      ],
+      "comment": "(some Russian caviar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15023,
+        2,
+        15005
+      ],
+      "comment": "(the cook)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        15010,
+        1,
+        -1
+      ],
+      "comment": "(a small key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15023,
+        2,
+        15005
+      ],
+      "comment": "(the cook)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        15001,
+        1,
+        15037
+      ],
+      "comment": "(&YThe gold&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        15005,
+        1,
+        15052
+      ],
+      "comment": "(a large telescope)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        15011,
+        1,
+        15026
+      ],
+      "comment": "(a large wooden chest)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15007,
+        2,
+        1
+      ],
+      "comment": "(The Entrance Hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15007,
+        3,
+        1
+      ],
+      "comment": "(The Entrance Hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15006,
+        1,
+        1
+      ],
+      "comment": "(A Small Passage)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15020,
+        1,
+        1
+      ],
+      "comment": "(The Passage)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15021,
+        3,
+        1
+      ],
+      "comment": "(The Servants' Corridor)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15021,
+        0,
+        1
+      ],
+      "comment": "(The Servants' Corridor)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15026,
+        2,
+        1
+      ],
+      "comment": "(The Servants' Quarters)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15022,
+        0,
+        2
+      ],
+      "comment": "(The End Of The Servants' Corridor)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15027,
+        2,
+        2
+      ],
+      "comment": "(The Butler's Quarters)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15037,
+        3,
+        2
+      ],
+      "comment": "(The Great Treasury)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15038,
+        0,
+        1
+      ],
+      "comment": "(The Guest Wing)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15043,
+        2,
+        1
+      ],
+      "comment": "(A Guest Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15038,
+        1,
+        1
+      ],
+      "comment": "(The Guest Wing)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15039,
+        3,
+        1
+      ],
+      "comment": "(The Guest Suite)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15049,
+        1,
+        2
+      ],
+      "comment": "(The Grand Staircase)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15050,
+        3,
+        2
+      ],
+      "comment": "(The Cosy Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15002,
+        1,
+        15069
+      ],
+      "comment": "(the horrible ghost)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15015,
+        1,
+        15059
+      ],
+      "comment": "(Ergan the Murderer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15018,
+        2,
+        15058
+      ],
+      "comment": "(the cockroach)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15018,
+        2,
+        15058
+      ],
+      "comment": "(the cockroach)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15030,
+        2,
+        15067
+      ],
+      "comment": "(the zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15030,
+        2,
+        15067
+      ],
+      "comment": "(the zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15031,
+        2,
+        15067
+      ],
+      "comment": "(the skeleton)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15031,
+        2,
+        15067
+      ],
+      "comment": "(the skeleton)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        15013,
+        1,
+        15054
+      ],
+      "comment": "(a royal banner)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        15018,
+        1,
+        15070
+      ],
+      "comment": "(a corpse)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        15021,
+        1,
+        15073
+      ],
+      "comment": "(the glow from the west)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        15022,
+        1,
+        15065
+      ],
+      "comment": "(the wailing sound from the east)"
     },
     {
       "cmd": "D",
@@ -1284,7 +1127,7 @@
         0,
         2
       ],
-      "comment": ""
+      "comment": "(The Prison)"
     },
     {
       "cmd": "D",
@@ -1294,7 +1137,7 @@
         1,
         2
       ],
-      "comment": "Cell Door"
+      "comment": "(The Prison)"
     },
     {
       "cmd": "D",
@@ -1304,7 +1147,7 @@
         3,
         2
       ],
-      "comment": ""
+      "comment": "(A Cell)"
     },
     {
       "cmd": "D",
@@ -1314,7 +1157,7 @@
         2,
         2
       ],
-      "comment": "Ergan's Cell"
+      "comment": "(The Prison)"
     },
     {
       "cmd": "D",
@@ -1324,7 +1167,7 @@
         0,
         2
       ],
-      "comment": ""
+      "comment": "(Ergan's Cell)"
     },
     {
       "cmd": "D",
@@ -1334,7 +1177,7 @@
         3,
         2
       ],
-      "comment": "Cell Door"
+      "comment": "(The Prison)"
     },
     {
       "cmd": "D",
@@ -1344,8 +1187,8 @@
         1,
         2
       ],
-      "comment": ""
+      "comment": "(A Cell)"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/150.zon"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/150.zon"
 }

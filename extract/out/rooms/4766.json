@@ -1,0 +1,29 @@
+{
+  "id": 4766,
+  "zone_id": 47,
+  "name": "Guard Barrack",
+  "description": "Many small cots line the walls of this large building as it serves for the\nhomes of many brave Dwarven men who pledge their lives to the suppression of\ntheir Duergar enemies.  A small archway leads south to a lower level.",
+  "header_raw": "47 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4767
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4763
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

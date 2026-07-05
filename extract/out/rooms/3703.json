@@ -1,0 +1,29 @@
+{
+  "id": 3703,
+  "zone_id": 37,
+  "name": "A Gravel Road in the Graveyard",
+  "description": "You are on a well-kept gravel road that leads north-south through the\ngraveyard.  On both sides of the road grow dark evergreen trees.",
+  "header_raw": "37 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The gravel road continues northwards.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3702
+    },
+    {
+      "dir": 2,
+      "description": "The gravel road continues southwards to an open space before a small\nbuilding.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3704
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/37.wld"
+}

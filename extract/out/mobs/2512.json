@@ -4,9 +4,9 @@
   "short_desc": "the pair of disembodied hands",
   "long_desc": "A pair of disembodied hands floats in the air here.",
   "detailed_desc": "The hands twitch with anticipation of strangling someone.",
-  "flags_raw": "fgpqr dfk -400 S",
-  "stats1_raw": "9 7 -5 9d9+90 2d4+5",
-  "stats2_raw": "0 3100",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "229480 1064 -400 E",
+  "stats1_raw": "130 -45 -9 1d1+3636 5d14+52",
+  "stats2_raw": "1950 6194774 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

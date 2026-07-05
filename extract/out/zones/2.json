@@ -1,0 +1,624 @@
+{
+  "id": 2,
+  "name": "The Lizard Lair Safari",
+  "header": {
+    "raw": "299 25 1 1 -1",
+    "min_room": 299,
+    "top_room": 25,
+    "lifespan": 1,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        204,
+        6,
+        213
+      ],
+      "comment": "(the guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        201,
+        100,
+        16
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        202,
+        100,
+        12
+      ],
+      "comment": "(a set of lizardman robes)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        204,
+        6,
+        213
+      ],
+      "comment": "(the guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        201,
+        100,
+        16
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        202,
+        100,
+        12
+      ],
+      "comment": "(a set of lizardman robes)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        205,
+        1,
+        213
+      ],
+      "comment": "(the prince)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        205,
+        1,
+        -1
+      ],
+      "comment": "(a green key for the exit)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        200,
+        20,
+        6
+      ],
+      "comment": "(a crown of gold)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        201,
+        100,
+        16
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        216,
+        10,
+        15
+      ],
+      "comment": "(The &GLizard &gScale&n bracelet)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        218,
+        10,
+        21
+      ],
+      "comment": "(The &yTreasure&n FaceMask)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        204,
+        1,
+        213
+      ],
+      "comment": "(a large altar)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        213,
+        1,
+        2
+      ],
+      "comment": "(Temple Of Morgash)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        208,
+        10,
+        216
+      ],
+      "comment": "(a LUCKY)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        217,
+        5,
+        216
+      ],
+      "comment": "(The &GLizard &gEarring)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        216,
+        2,
+        1
+      ],
+      "comment": "(LUCKY)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        202,
+        1,
+        206
+      ],
+      "comment": "(the wizard)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        206,
+        10,
+        -1
+      ],
+      "comment": "(a magic scroll)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        202,
+        100,
+        12
+      ],
+      "comment": "(a set of lizardman robes)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        215,
+        10,
+        1
+      ],
+      "comment": "(&GLizard &gScale&n Ring)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        203,
+        1,
+        206
+      ],
+      "comment": "(the water elemental)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        206,
+        1,
+        2
+      ],
+      "comment": "(The Conjuring Chamber)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        204,
+        6,
+        212
+      ],
+      "comment": "(the guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        201,
+        100,
+        16
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        202,
+        100,
+        12
+      ],
+      "comment": "(a set of lizardman robes)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        204,
+        6,
+        212
+      ],
+      "comment": "(the guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        201,
+        100,
+        16
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        202,
+        100,
+        12
+      ],
+      "comment": "(a set of lizardman robes)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        204,
+        6,
+        211
+      ],
+      "comment": "(the guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        201,
+        100,
+        16
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        202,
+        100,
+        12
+      ],
+      "comment": "(a set of lizardman robes)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        204,
+        6,
+        211
+      ],
+      "comment": "(the guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        201,
+        100,
+        16
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        202,
+        100,
+        12
+      ],
+      "comment": "(a set of lizardman robes)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        200,
+        10,
+        202
+      ],
+      "comment": "(the sea serpent)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        200,
+        10,
+        202
+      ],
+      "comment": "(the sea serpent)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        200,
+        10,
+        202
+      ],
+      "comment": "(the sea serpent)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        200,
+        10,
+        202
+      ],
+      "comment": "(the sea serpent)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        200,
+        10,
+        202
+      ],
+      "comment": "(the sea serpent)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        200,
+        10,
+        202
+      ],
+      "comment": "(the sea serpent)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        200,
+        10,
+        202
+      ],
+      "comment": "(the sea serpent)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        200,
+        10,
+        202
+      ],
+      "comment": "(the sea serpent)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        202,
+        0,
+        1
+      ],
+      "comment": "(A Tunnel)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        200,
+        10,
+        202
+      ],
+      "comment": "(the sea serpent)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        200,
+        10,
+        202
+      ],
+      "comment": "(the sea serpent)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        206,
+        1,
+        218
+      ],
+      "comment": "(Mr. Hooper)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        209,
+        99,
+        -1
+      ],
+      "comment": "(a barrel of &Wmilk&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3000,
+        99,
+        -1
+      ],
+      "comment": "(&gDragon's Barrel&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        211,
+        99,
+        -1
+      ],
+      "comment": "(a glass)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        201,
+        2,
+        203
+      ],
+      "comment": "(the sentry)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        201,
+        100,
+        16
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        207,
+        100,
+        11
+      ],
+      "comment": "(a shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        202,
+        100,
+        12
+      ],
+      "comment": "(a set of lizardman robes)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        201,
+        2,
+        203
+      ],
+      "comment": "(the sentry)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        201,
+        100,
+        16
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        207,
+        100,
+        11
+      ],
+      "comment": "(a shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        202,
+        100,
+        12
+      ],
+      "comment": "(a set of lizardman robes)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        203,
+        1,
+        208
+      ],
+      "comment": "(a useless key)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        205,
+        3,
+        2
+      ],
+      "comment": "(Tunnel End)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        214,
+        3,
+        2
+      ],
+      "comment": "(Quest End)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/2.zon"
+}

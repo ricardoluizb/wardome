@@ -4,9 +4,9 @@
   "short_desc": "the receptionist",
   "long_desc": "A dark skinned, veiled woman greets you from behind the desk.",
   "detailed_desc": "This Arabian beauty is obviously the daughter of some high ranking\nofficial.  As you attempt to sneak a peek under her veil you notice\na small moon-shaped birthmark on her left cheek.",
-  "flags_raw": "ablno d 800 S",
-  "stats1_raw": "10 -10 -10 1d1+1871 10d20+10",
-  "stats2_raw": "1 5000",
-  "stats3_raw": "6 6 2",
+  "flags_raw": "26635 8 800 E",
+  "stats1_raw": "30 5 5 1d1+630 5d4+12",
+  "stats2_raw": "450 105901 0",
+  "stats3_raw": "6 6 2 -1 0",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

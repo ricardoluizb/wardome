@@ -1,0 +1,29 @@
+{
+  "id": 17666,
+  "zone_id": 176,
+  "name": "Raff Way",
+  "description": "You are on Raff Way.  To the west, you can see a big intersection.  To \nthe east, you see Raff Way continue toward the Golden Citadel.  There are \nbeautiful flowers growing along the road here, making this more of a garden\nthan a road.",
+  "header_raw": "176 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Raff Way continues east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17667
+    },
+    {
+      "dir": 3,
+      "description": "You see the big intersection.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17601
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/176.wld"
+}

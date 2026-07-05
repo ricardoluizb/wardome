@@ -4,9 +4,9 @@
   "short_desc": "the animated skeleton",
   "long_desc": "An animated skeleton screams silently and attacks.",
   "detailed_desc": "It feels no pain, and hacks at you ruthlessly.",
-  "flags_raw": "bfhnopr dk -500 S",
-  "stats1_raw": "15 5 -2 15d15+150 3d4+10",
-  "stats2_raw": "0 16500",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "188586 1032 -500 E",
+  "stats1_raw": "145 -52 -11 1d1+4056 5d15+58",
+  "stats2_raw": "2175 8494573 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

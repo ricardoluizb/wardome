@@ -1,0 +1,13 @@
+{
+  "id": 250,
+  "name": "Elemental Canyon",
+  "header": {
+    "raw": "25099 30 2",
+    "min_room": 25099,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": null
+  },
+  "commands": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/250.zon"
+}

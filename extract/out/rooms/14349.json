@@ -1,0 +1,29 @@
+{
+  "id": 14349,
+  "zone_id": 143,
+  "name": "A Ladder",
+  "description": "A large wooden ladder leads up through a hole of considerable size in the\nceiling.",
+  "header_raw": "143 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "It is too dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14348
+    },
+    {
+      "dir": 4,
+      "description": "The ladder leads up into the darkness.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14350
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

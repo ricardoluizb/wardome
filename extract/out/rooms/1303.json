@@ -1,0 +1,29 @@
+{
+  "id": 1303,
+  "zone_id": 13,
+  "name": "Wax Museum",
+  "description": "You are in a wax museum... You can see lot's of wax statues here...",
+  "header_raw": "13 4 0",
+  "flags_text": "4",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1304
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1302
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/13.wld"
+}

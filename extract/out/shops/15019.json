@@ -8,10 +8,10 @@
   "profit_buy": 1.2,
   "profit_sell": 0.3,
   "buy_types": [
-    "SCROLL",
-    "WAND",
-    "STAFF",
-    "POTION"
+    "2",
+    "3",
+    "4",
+    "10"
   ],
   "messages": [
     "%s But I have no such thing for sale.",
@@ -34,5 +34,5 @@
     20,
     28
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/shp/150.shp"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/150.shp"
 }

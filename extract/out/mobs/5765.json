@@ -1,0 +1,12 @@
+{
+  "id": 5765,
+  "alias": "minotaur",
+  "short_desc": "a mighty Minotaur",
+  "long_desc": "A mighty Minotaur threatens to tear you apart with his bare hands!",
+  "detailed_desc": "This Minotaur is quite insane and, lost in his delirium, he provokes all who\nenter into battling with him. Although unarmed and unarmored, he is still a\npotentially dangerous foe.",
+  "flags_raw": "106 1024 -400 E",
+  "stats1_raw": "30 -17 -11 1d1+3480 5d10+122",
+  "stats2_raw": "450 185326 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "An Empty Classroom",
   "description": "You are in an apparently empty classroom.  A strange feeling of being\nwatched comes over you, and you hear the faint rustle of robes.\n   The only apparent exit is back east to the hallway.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

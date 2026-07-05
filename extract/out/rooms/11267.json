@@ -1,0 +1,37 @@
+{
+  "id": 11267,
+  "zone_id": 112,
+  "name": "The Entrance Hall",
+  "description": "A long corridor flanked by statues and shelves full of dusty tomes\nruns north here, towards the many shelves of books that stretch up to\nthe domed ceiling, which is decorated with beautifully rendered murals.\nTo the south beckon the doors that lead out of the library, though with\nsuch knowledge before you to peruse you find yourself reluctant to leave\nquickly.\n\nA small door to the east is marked \"Staff Only\".",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11268
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11272
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11266
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

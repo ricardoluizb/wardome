@@ -1,0 +1,29 @@
+{
+  "id": 13114,
+  "zone_id": 131,
+  "name": "Shogun of Chu",
+  "description": "You find yourself standing in the chamber of the Shogun of Chu.  All around\nhim you notice warriors who are completely loyal to their master.  You better\nnot try to mess with this guy . . .",
+  "header_raw": "131 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Sounds of metalworking come from the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13113
+    },
+    {
+      "dir": 4,
+      "description": "Stairs lead upward yet again.",
+      "keywords": "forcefield",
+      "door_flag": 1,
+      "key": 13102,
+      "to": 13115
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/131.wld"
+}

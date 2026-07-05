@@ -1,0 +1,46 @@
+{
+  "id": 6874,
+  "zone_id": 67,
+  "name": "A dark corridor",
+  "description": "The hallway bends sharply, leading off to the south and west. No light\npenetrates either one, so as always the question of where you want to\ngo depends on where you've been.",
+  "header_raw": "67 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "stone",
+      "door_flag": 0,
+      "key": 6779,
+      "to": 6884
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6875
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6873
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "north",
+      "description": "You see nothing special."
+    },
+    {
+      "keywords": "n",
+      "description": "You see nothing special."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

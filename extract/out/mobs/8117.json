@@ -1,0 +1,12 @@
+{
+  "id": 8117,
+  "alias": "volunteer",
+  "short_desc": "an Ofintine volunteer",
+  "long_desc": "The volunteer stands here ready to do battle.",
+  "detailed_desc": "She has taken up arms to fight the goblins.",
+  "flags_raw": "4104 0 400 E",
+  "stats1_raw": "150 -77 -29 1d1+17400 5d46+170",
+  "stats2_raw": "2250 16400210 11",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

@@ -1,0 +1,50 @@
+{
+  "id": 17375,
+  "zone_id": 173,
+  "name": "Merlin's Tower",
+  "description": "You have found Merlin's tower. It is a jumbled mess of books, scrolls, \nwands, staves, etc. There are rickety worn out tables and chairs upon \nwhich a variety of curiosities rest. Merlin also has several animals \nand specimens of this and that in crocks on wooden shelves. You take a \nglimpse out the open window of Merlin's tower and see the rolling hills \nof Camelot as far as you gaze. But most of all you notice the large \npulsating pentagram in the center of the room which throbs and humms \nin time to your heartbeat. There is also a SIGN here with unearthly \nglowing red lettering which blinks over and over the message \"LOOK AT ME\"",
+  "header_raw": "173 4 0",
+  "flags_text": "4",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "Into the pulsating pentagram",
+      "keywords": "pentagram",
+      "door_flag": 2,
+      "key": 17321,
+      "to": 17381
+    },
+    {
+      "dir": 5,
+      "description": "A staircase winding down",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17374
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "books scrolls wands staves",
+      "description": "You sift through Merlin's books, scrolls, wands, and staves. All are \ninscribed in a strange runic language which you can't even begin to fathom."
+    },
+    {
+      "keywords": "animals",
+      "description": "Merlin has a crow, a cat, and a toad. All watch your every move."
+    },
+    {
+      "keywords": "sign the me at",
+      "description": "You look at the sign. At first you can't understand it, but then the \nlettering adjusts to a language you understand. It says:\nBEWARE OF DEMON! I have imprisoned a FOUL, NASTY, EXTREMELY POWERFUL \ndemon in this pentagram. To those inside, there are NO EXITS or WAYS \nTO MAGICALLY RECALL. Even Lancelot would certainly die in the pentagram. \nTHERE IS NOTHING OF WORTH IN THE PENTAGRAM, ONLY DEATH, and nothing short \nof DIRECT DIVINE INTERVENTION will get you out of it. - Merlin"
+    },
+    {
+      "keywords": "crocks shelves",
+      "description": "You fumble through Merlins crockery, and all you accomplish is getting a \nblack resiny substance which itches all over your fingers and clothing."
+    },
+    {
+      "keywords": "pentagram pulsating",
+      "description": "Your inner coice, which has always served you well so far, screams at you \nto LEAVE IT ALONE!"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

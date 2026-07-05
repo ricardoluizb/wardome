@@ -1,0 +1,29 @@
+{
+  "id": 7794,
+  "zone_id": 77,
+  "name": "The Role",
+  "description": "You can see a hole in the ground.  \nI release enough for a person to pass of every time.  \nA stranger brilliant light and a buzzing comes from the ground.\nA Enormous Statue of a Disarmed and crying fighter block your way.",
+  "header_raw": "77 148 0",
+  "flags_text": "148",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7750
+    },
+    {
+      "dir": 5,
+      "description": "statue",
+      "keywords": "statue",
+      "door_flag": 2,
+      "key": 169,
+      "to": 7795
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/77.wld"
+}

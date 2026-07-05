@@ -1,0 +1,29 @@
+{
+  "id": 9972,
+  "zone_id": 99,
+  "name": "The bottom of the stairs.",
+  "description": "A staircase is here, a crusty pair of panties stuck to the \nbannister.  Nasty!  To the East is the waiting room.",
+  "header_raw": "99 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The waiting room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9971
+    },
+    {
+      "dir": 4,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9973
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

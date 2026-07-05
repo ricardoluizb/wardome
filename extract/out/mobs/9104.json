@@ -1,0 +1,12 @@
+{
+  "id": 9104,
+  "alias": "oldstyle mysterious efreeti",
+  "short_desc": "the mysterious efreeti",
+  "long_desc": "The mysterious efreeti grins in delight at its new prey.",
+  "detailed_desc": "The efreeti towers menacingly over you.  It is dressed in the\nfinest ghostly silks and a headdress with an elaborate brooch.",
+  "flags_raw": "12 262280 -100 E",
+  "stats1_raw": "10 15 8 1d1+207 5d2+4",
+  "stats2_raw": "150 7126 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/91.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 702,
+  "alias": "Leonna",
+  "short_desc": "Leonna",
+  "long_desc": "Leonna, guildmaster of the Mages' Guild of Kerofk, greets you.",
+  "detailed_desc": "Leonna seems to be a nice, fun-loving woman.  Obviously she became\nguildmaster due more to her personality than her wizardly power.  Her\npowers are no small matter, however; she is still one of the best\nmages in the city.",
+  "flags_raw": "10 128 700 E",
+  "stats1_raw": "100 -40 -12 1d1+6792 5d21+90",
+  "stats2_raw": "1500 3791433 5",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

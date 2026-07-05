@@ -1,0 +1,29 @@
+{
+  "id": 11249,
+  "zone_id": 112,
+  "name": "Heroes' Walk",
+  "description": "Each side of this broad street is lined with small hedges that have\ngrown wild during these recent times of neglect. Occasionally one will\nrustle, and a frightened animal will come scampering out, its rest disturbed\nby your approach. Blood stains can be seen occasionally on the stones, as\nwell as the occasional broken weapon.",
+  "header_raw": "112 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11235
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11250
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

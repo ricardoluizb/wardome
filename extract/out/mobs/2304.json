@@ -1,0 +1,12 @@
+{
+  "id": 2304,
+  "alias": "oldstyle weeping willow tree",
+  "short_desc": "the Weeping Willow",
+  "long_desc": "A large willow tree stands here, weeping.",
+  "detailed_desc": "The weeping willow has long thins branches. These branches seem to droop in\nanguish and dismay. You hear a faint sound of crying.",
+  "flags_raw": "10 136 1000 E",
+  "stats1_raw": "185 -76 -20 1d1+8136 5d19+94",
+  "stats2_raw": "2775 21228458 2",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/23.mob"
+}

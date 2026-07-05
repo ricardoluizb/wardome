@@ -1,0 +1,37 @@
+{
+  "id": 9103,
+  "zone_id": 91,
+  "name": "A fluffy white cloud.",
+  "description": "You find yourself standing on a small cloud.  The cloud feels kind\nof spongy beneath your feet.  You find it hard to see anything in\nthe distance as wisps of cloud blow over your face.",
+  "header_raw": "91 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You can barely make out a cloud to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9128
+    },
+    {
+      "dir": 2,
+      "description": "You see a cloud somewhere south of you.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9104
+    },
+    {
+      "dir": 3,
+      "description": "You see a cloud somewhere west of you.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9102
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

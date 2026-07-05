@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "A Hall",
   "description": "You have come to a T-crossing on the hallways.  The wooden corridors\ncontinue east, west and south.  There is a large iron door to the north.",
-  "header_raw": "54 d 0",
-  "flags_text": "d",
+  "header_raw": "54 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

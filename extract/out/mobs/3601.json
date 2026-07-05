@@ -4,9 +4,9 @@
   "short_desc": "the Pawn of the White Court",
   "long_desc": "You see a pawn standing here waiting for orders.",
   "detailed_desc": "The White Pawn looks quite like a small knight without his powerful steed.\nHis armor is spotless and white.  He stands ready to give his life for the\nCrown.",
-  "flags_raw": "bcgh d 400 S",
-  "stats1_raw": "6 2 5 5d4+50 2d4+2",
-  "stats2_raw": "500 1000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "206 4096 400 E",
+  "stats1_raw": "140 -64 -21 1d1+11760 5d29+126",
+  "stats2_raw": "2100 10551799 7",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/36.mob"
 }

@@ -1,0 +1,29 @@
+{
+  "id": 8177,
+  "zone_id": 81,
+  "name": "A Rough Tunnel",
+  "description": "Here the walls are roughly hewn; this is surely goblin-work through\nand through.  Rubble litters the floor.  This cave is dark, so you must\nwalk by lantern-light if you have not the ability to see in darkness.",
+  "header_raw": "81 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The tunnel continues north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8178
+    },
+    {
+      "dir": 2,
+      "description": "A faint glow comes from the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8176
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

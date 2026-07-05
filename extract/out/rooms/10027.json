@@ -1,0 +1,45 @@
+{
+  "id": 10027,
+  "zone_id": 100,
+  "name": "Vault",
+  "description": "The coffins rest all around you, their very presence making it so that you\nfeel the need to hold your breath in this room.  The north wall, full of the\nburial niches all the way to top, seems to stare at you malevolently, as if\nwatching your every move, waiting for the right moment.  A small passage leads\nsouth off the southeast corner of the room. A long, wide stairway leads up to a\nlarge oak door.",
+  "header_raw": "100 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10025
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10028
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10029
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10023
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/100.wld"
+}

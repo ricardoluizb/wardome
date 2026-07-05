@@ -1,0 +1,12 @@
+{
+  "id": 5740,
+  "alias": "orc servant",
+  "short_desc": "an orcish servant",
+  "long_desc": "An Orcish servant moans piteously as his master beats him.",
+  "detailed_desc": "This pathetic whelp was been flogged by his demanding master as you entered,\nbut despite this he still leaps up to defend the chieftain against you. Best\nto slay the ungrateful little wretch.",
+  "flags_raw": "174 0 0 E",
+  "stats1_raw": "30 -17 -11 1d1+3480 5d10+122",
+  "stats2_raw": "450 185326 11",
+  "stats3_raw": "8 8 1 -1 5",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

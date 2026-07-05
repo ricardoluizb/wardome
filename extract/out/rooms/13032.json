@@ -1,0 +1,37 @@
+{
+  "id": 13032,
+  "zone_id": 130,
+  "name": "First Avenue",
+  "description": "You are in the western side of the first avenue, to the north you see the\nconstruction of the Thief's Headquarters.\nTo the south a strange house and to the west the house of the legendary thief,\nJerry.\nThe first avenue continue to the east.",
+  "header_raw": "130 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13031
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13035
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13036
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

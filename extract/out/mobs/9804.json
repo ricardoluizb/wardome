@@ -1,0 +1,12 @@
+{
+  "id": 9804,
+  "alias": "Priest",
+  "short_desc": "Priest",
+  "long_desc": "The Priest standing here.",
+  "detailed_desc": "This priest is just for the sacrifices done in this room.",
+  "flags_raw": "338152 26346624 0 E",
+  "stats1_raw": "150 -65 -20 1d1+10200 5d31+110",
+  "stats2_raw": "2250 13401314 5",
+  "stats3_raw": "8 8 1 1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/98.mob"
+}

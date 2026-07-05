@@ -1,0 +1,29 @@
+{
+  "id": 1812,
+  "zone_id": 18,
+  "name": "The Cold Passageway",
+  "description": "You are reminded of the biting winds outside,\nas the tunnel suddenly drops in temperature.\nYou feel chilling breezes from the north.",
+  "header_raw": "18 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1821
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1811
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/18.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 29942,
+  "zone_id": 298,
+  "name": "A narrow path",
+  "description": "You are on a narrow path leading to a grove of isolated mallorn trees.  On both\nsides of the path are smaller mallorns.  The leaves of the trees are golden and\nthe bark is silver.  At the end of the path you see a small fire through the\ntrees, and you hear soft music.  It must be a clearing inside the grove.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29941
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29976
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

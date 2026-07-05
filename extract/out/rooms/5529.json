@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "Abdul's Armour",
   "description": "The sound of hammering metal grows louder as you enter the armoury.\nYoung boys run to and fro carrying buckets of water and coal.  A few\ndwarves work on sections of armour in the back of the shop, their\nhammers working too fast to follow.  The walls are adorned in all of\nAbdul's prize creations.  Here you can purchase suits of armour meant\nto keep monsters from hacking you into little pieces.\nA note on the wall beckons your attention.",
-  "header_raw": "54 d 0",
-  "flags_text": "d",
+  "header_raw": "54 152 0",
+  "flags_text": "152",
   "sector": 0,
   "exits": [
     {

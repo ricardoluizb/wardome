@@ -3,8 +3,8 @@
   "zone_id": 120,
   "name": "The Bedchamber",
   "description": "This is the bedroom.  There is a hard and lumpy bed in the far corner.\nIt looks like the commoner's wife has been shirking her duties lately, as\nthere is a big pile of soiled laundry here.  The only way out is from where\nyou came.",
-  "header_raw": "120 cd 0",
-  "flags_text": "cd",
+  "header_raw": "120 12 0",
+  "flags_text": "12",
   "sector": 0,
   "exits": [
     {

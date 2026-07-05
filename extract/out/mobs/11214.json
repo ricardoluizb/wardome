@@ -1,0 +1,12 @@
+{
+  "id": 11214,
+  "alias": "giant spider",
+  "short_desc": "a giant spider",
+  "long_desc": "A spider of immense size scuttles across the dusty floor.",
+  "detailed_desc": "You cannot believe that such a hideous beast has managed to lurk here\nundetected for so long; perhaps it has been placed here as a guardian?",
+  "flags_raw": "104 98304 -400 E",
+  "stats1_raw": "35 -15 -8 1d1+3492 5d7+104",
+  "stats2_raw": "525 238782 9",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

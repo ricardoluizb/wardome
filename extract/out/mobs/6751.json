@@ -1,0 +1,12 @@
+{
+  "id": 6751,
+  "alias": "blackbird bird pet",
+  "short_desc": "a blackbird",
+  "long_desc": "A red-winged blackbird is preening nearby.",
+  "detailed_desc": "The blackbird sports glossy dark feathers with wings tipped in crimson,\nand a keen eye. The small metal clasp round one leg tells you it is \nsomeone's trained pet.",
+  "flags_raw": "10 128 0 E",
+  "stats1_raw": "130 -45 -9 1d1+3636 5d14+52",
+  "stats2_raw": "1950 6194774 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/67.mob"
+}

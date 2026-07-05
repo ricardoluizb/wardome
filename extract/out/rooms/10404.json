@@ -1,0 +1,34 @@
+{
+  "id": 10404,
+  "zone_id": 104,
+  "name": "Landing",
+  "description": "This landing has been scorched as if a large brushfire had swept through it.\nBits of ash and burnt vegetation cover everything.  The walls and floor are\nflawlessly smooth, and the ceiling is covered with carved faces and ancient\nsymbols and runes.\nLarge, black iron gates tower over you to the west.\nYou see a large gateway to the west.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "It's too dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10403
+    },
+    {
+      "dir": 3,
+      "description": "You see the Gates of Hell",
+      "keywords": "gates",
+      "door_flag": 1,
+      "key": -1,
+      "to": 10405
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "gates",
+      "description": "These black iron gates are covered with grotesque faces and other\ncreatures in various poses and acts of violence and lust. The gates\nmake your blood run cold..."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

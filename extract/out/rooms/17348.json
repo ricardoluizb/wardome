@@ -1,0 +1,30 @@
+{
+  "id": 17348,
+  "zone_id": 173,
+  "name": "Armory",
+  "description": "You stand in the Armory of Camelot. The master blacksmith and his 3 \napprentices are busy fabricating a suit of armor for a knight. Various \npieces of armor are here in varying states of repair. There is a large  \nweapons rack on the eastern wall. To the west is Knight's Way.",
+  "header_raw": "173 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "Knight's Way",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17344
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "armor",
+      "description": "The armor pieces are made from fine hammered steel."
+    },
+    {
+      "keywords": "weapons rack",
+      "description": "The weapons rack contains several daggers, a few lances, and some maces."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

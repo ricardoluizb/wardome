@@ -1,0 +1,29 @@
+{
+  "id": 26616,
+  "zone_id": 266,
+  "name": "Reading my information",
+  "description": "To read your information, type 'sc' or 'score'. You will see all\nthe numbers that makes your player. You will learn to analyse \nthose numbers with time and discipline.\nType 'u' to continue.",
+  "header_raw": "266 1310720 0",
+  "flags_text": "1310720",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26615
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26617
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/266.wld"
+}

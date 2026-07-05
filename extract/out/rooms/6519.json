@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "A Path By The Hospital",
   "description": "Here the path passes by the Hospital to the north.  It continues\nto the east to the barracks, and to the west.",
-  "header_raw": "65 d 0",
-  "flags_text": "d",
+  "header_raw": "65 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

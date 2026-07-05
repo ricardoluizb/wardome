@@ -1,0 +1,29 @@
+{
+  "id": 4728,
+  "zone_id": 47,
+  "name": "Dwarven mines",
+  "description": "This small east-west shaft, which travels slightly downward to the east, has\na distinct smell to it.  The smell is revolting, coming close to that of rotting\nflesh.",
+  "header_raw": "47 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4729
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4727
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

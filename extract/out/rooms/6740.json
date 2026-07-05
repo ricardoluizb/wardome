@@ -1,0 +1,37 @@
+{
+  "id": 6740,
+  "zone_id": 67,
+  "name": "A cluster of trees before the west gate",
+  "description": "You stand at a busy crossroads, darkened by the shade of an uneven\nring of oaks trellised with ivy. The wind brushes the leaves, but this\nsound is dulled by the din of the town going about its daily business.\nThe ornate west gate lies just to the west, a road paved with black sand\nruns east and north is a lane shaded by oak and ash trees.",
+  "header_raw": "67 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6739
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6741
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6745
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

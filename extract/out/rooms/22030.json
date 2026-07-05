@@ -1,0 +1,21 @@
+{
+  "id": 22030,
+  "zone_id": 220,
+  "name": "A secret chamber",
+  "description": "You are in a chamber filled with howling balrogs. There are many\ndifferent items of toture here, the rack, the vise and others.",
+  "header_raw": "220 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "wall",
+      "door_flag": 1,
+      "key": 0,
+      "to": 22008
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/220.wld"
+}

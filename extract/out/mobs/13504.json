@@ -1,0 +1,12 @@
+{
+  "id": 13504,
+  "alias": "beetle undead",
+  "short_desc": "the undead riding beetle",
+  "long_desc": "An undead riding beetle is parked here.",
+  "detailed_desc": "A fine example of Necromancy, this giant beast can travel for miles\nwith no need for food nor water.  A most economical mount -- and\nsporty too!",
+  "flags_raw": "10 0 -300 E",
+  "stats1_raw": "10 -3 -5 1d1+996 5d3+94",
+  "stats2_raw": "150 10689 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/135.mob"
+}

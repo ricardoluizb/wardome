@@ -1,10 +1,10 @@
 {
   "id": 7326,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "The Crossing",
   "description": "You are standing in a crossing of hallways.  You can leave this place\nin every direction, except up and down.  In the dust you notice strange\nfootprints.",
-  "header_raw": "73 ad 1",
-  "flags_text": "ad",
+  "header_raw": "72 9 1",
+  "flags_text": "9",
   "sector": 1,
   "exits": [
     {

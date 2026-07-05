@@ -1,0 +1,37 @@
+{
+  "id": 5759,
+  "zone_id": 57,
+  "name": "A Junction",
+  "description": "At this point, a long, dark passageway stretches off to the north, ending at\na wooden door. You fancy that you can hear heavy breathing coming from\nbehind it. You can still hear naught from behind the eastern door, which you\nare standing before now.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a door",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5765
+    },
+    {
+      "dir": 1,
+      "description": "a door",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5760
+    },
+    {
+      "dir": 3,
+      "description": "a junction",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5758
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

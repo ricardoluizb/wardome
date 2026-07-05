@@ -1,0 +1,29 @@
+{
+  "id": 13331,
+  "zone_id": 132,
+  "name": "The West Market Square",
+  "description": "You are in a corner of the market, many large, but dull houses are to the\nnorth and west.  The people traveling through here appear to be very \nwealthy.  They only care about getting richer and certainly don't want to help\nyou.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "west market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13327
+    },
+    {
+      "dir": 2,
+      "description": "west market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13332
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

@@ -1,10 +1,10 @@
 {
   "id": 3054,
   "zone_id": 30,
-  "name": "By The Temple Altar",
-  "description": "You are by the temple altar in the northern end of the Temple of\nMidgaard.  A huge altar made from white polished marble is standing\nin front of you and behind it is a ten foot tall sitting statue of\nOdin, the King of the Gods.\n   To the north, steps lead out the back of the temple towards the\ncountryside.",
-  "header_raw": "30 d 0",
-  "flags_text": "d",
+  "name": "By the Horror Altar",
+  "description": "You are by the fallen temple altar in the northern end of the Temple of\nMidgaard.  A huge altar made from white polished marble is standing\nin front of you and behind it is a ten foot tall sitting statue of\nOdin, the King of the Gods.\nTo the north, steps lead out the back of the fallen temple towards the\ncountryside.\nBeware of the fallen altars.",
+  "header_raw": "30 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

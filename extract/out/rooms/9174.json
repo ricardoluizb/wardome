@@ -1,0 +1,29 @@
+{
+  "id": 9174,
+  "zone_id": 91,
+  "name": "Dirty, dusty tunnel.",
+  "description": "This dirty dusty tunnel must lead somewhere.",
+  "header_raw": "91 9 5",
+  "flags_text": "9",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9175
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9169
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 3812,
+  "zone_id": 38,
+  "name": "A Dark Hallway",
+  "description": "You are in a dark hallway.  It appears that this part of the basement area is\nnot fully complete in construction, and that the inhabitants here have made\nsome make-shift arrangements.  The hallway leads north and south, with rooms\nto the west and east.  Unlit torches adorn the walls.",
+  "header_raw": "38 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3813
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3818
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3811
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3817
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 28514,
+  "zone_id": 285,
+  "name": "Atlantis Master of Clerics Inner Sanctum",
+  "description": "Idols to Dirk fill the room. White furniture and decorations give\nthe room a holy appearance. It is evident that some being of supreme \ngoodness lives here. A white door leads east.",
+  "header_raw": "285 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "white",
+      "door_flag": 2,
+      "key": 28504,
+      "to": 28532
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "white",
+      "description": "It looks like it leads out to the hall."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/285.wld"
+}

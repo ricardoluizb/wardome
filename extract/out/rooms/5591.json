@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Jailer's Room",
   "description": "Climbing down the old wooden ladder you enter a small cave like\nroom.  There is a small bench with some old magazines and a low\nburning candle sitting off to one side.  A door is set into the\nstone on the north wall, and the steel grating opens up above.",
-  "header_raw": "54 ad 0",
-  "flags_text": "ad",
+  "header_raw": "54 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

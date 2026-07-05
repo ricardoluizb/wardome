@@ -1,0 +1,34 @@
+{
+  "id": 28600,
+  "zone_id": 286,
+  "name": "The Bottom of the Rainbow Dragon",
+  "description": "You are standing before a shimmering Rainbow Dragon arching high up into the\nsky.  You feel somehow separated from the natural world, even though the\nCity spire is only a few meters below you.",
+  "header_raw": "286 148 3",
+  "flags_text": "148",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "The Rainbow Dragon extends above you, fading out of existence only meters away.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28601
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11002
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "Rainbow Dragon",
+      "description": "The Rainbow Dragon softly glows with beams of light, in colours that defy \ndescription."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/286.wld"
+}

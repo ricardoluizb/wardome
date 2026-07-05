@@ -1,0 +1,45 @@
+{
+  "id": 30031,
+  "zone_id": 300,
+  "name": "Street end",
+  "description": "Great walls have been constructed at this place to keep back the powerful\nforces of the sea.  Upon the city side, the wall is fairly low so that you can\nlook over it.  Upon the other side, far below, is the beach.  Handholds in the\nrock could allow you to scale the wall.  There is even a steep ramp upon the\nother side.  Otherwise you are at an intersection and can travel north or\nnortheast or you could enter the lighthouse to the south.",
+  "header_raw": "300 12 1",
+  "flags_text": "12",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30054
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30058
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 30055
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30027
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

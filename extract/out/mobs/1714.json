@@ -1,0 +1,12 @@
+{
+  "id": 1714,
+  "alias": "centaur elder",
+  "short_desc": "an elder centaur",
+  "long_desc": "One of the centaur elders is here, watching you.",
+  "detailed_desc": "The elders act as counselors and advisors to the chief.",
+  "flags_raw": "14 2 200 E",
+  "stats1_raw": "195 -97 -49 1d1+21060 5d58+178",
+  "stats2_raw": "2925 32181416 10",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/16.mob"
+}

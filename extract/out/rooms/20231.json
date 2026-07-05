@@ -1,0 +1,45 @@
+{
+  "id": 20231,
+  "zone_id": 202,
+  "name": "A filthy intersection",
+  "description": "You stand at a crossroads cluttered with debris.  Something is moving about to\nthe east, but you can not quite make out what it is.  The road to the north\nbends west after a bit.  The road leading west passes between two rows of\nbuildings.  The road to the south is just as trash-littered as this\nintersection.",
+  "header_raw": "202 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20224
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20232
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20236
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20233
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/202.wld"
+}

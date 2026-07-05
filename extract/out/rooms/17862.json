@@ -1,0 +1,45 @@
+{
+  "id": 17862,
+  "zone_id": 178,
+  "name": "Mine Shaft",
+  "description": "This mine shaft looks stable, at least in this area.  The wooden supports are\nthick and strong.  Torches line the walls.  Exits lead in all directions.",
+  "header_raw": "178 8 2",
+  "flags_text": "8",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a large room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17881
+    },
+    {
+      "dir": 1,
+      "description": "You see the shaft.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17863
+    },
+    {
+      "dir": 2,
+      "description": "You see a large room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17871
+    },
+    {
+      "dir": 3,
+      "description": "You see the shaft.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17861
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

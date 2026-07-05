@@ -1,0 +1,34 @@
+{
+  "id": 28669,
+  "zone_id": 286,
+  "name": "A guard station",
+  "description": "You are standing in a small, fairly empty building that serves as the prison\nfor the keep.  The building is small because the Dragons do not make a habit \nof taking prisoners, and those that they do capture do not last long.\n   The cellblock lies to the west and the grey stone road is to the east.",
+  "header_raw": "286 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see an iron door which leads back out onto the grey cobblestone road.",
+      "keywords": "door iron",
+      "door_flag": 1,
+      "key": -1,
+      "to": 28653
+    },
+    {
+      "dir": 3,
+      "description": "You see the cellblock.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28670
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "door iron",
+      "description": "The door is fashioned from many iron plates and set deep into the stone wall."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/286.wld"
+}

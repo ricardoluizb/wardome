@@ -1,0 +1,29 @@
+{
+  "id": 29959,
+  "zone_id": 298,
+  "name": "A Balcony",
+  "description": "As you climb onto this broad-based balcony, you are blown away as you see the\nforest spread out before you.  Many different trees populate the region around\nyou, but all are small compared to the one you are currently standing on.  Off\nto the west and south, the true beauty of these mighty woods can be seen in its\nfull splendor.  Although the sight is peaceful, there are still many signs of\nwar.  Periodically an elf walks by, looking carefully out over the canopy,\nchecking for anything out of place.  A glint of metal can occasionally be seen\namong the trees, but the forest as a whole seems remarkably quiet.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29958
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29953
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

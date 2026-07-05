@@ -1,0 +1,29 @@
+{
+  "id": 12210,
+  "zone_id": 122,
+  "name": "Bifrost",
+  "description": "The rainbow bridge shimmers beneath your feet, sending shivers through\nyour frame, and you pause more than once to stare in awe out over the\nstarry expanse it spans. To the west lies a small collection of lodges,\nhomes of the Aesir, gods of Midgaard. In the center of these houses arises\na mighty tree- Yggdrasil, the tree of life, the one tree, the tree that\njoins all.",
+  "header_raw": "122 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12209
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12211
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

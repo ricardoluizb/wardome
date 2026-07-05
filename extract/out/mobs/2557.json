@@ -4,9 +4,9 @@
   "short_desc": "the black robed apprentice",
   "long_desc": "A black robed apprentice jumps from the shadows and attacks.",
   "detailed_desc": "She bears a wicked looking scar down the side of her face, though once\nshe must have been beautiful, now the scar combined with what seems to\nbe a permanent scowl make her looks quite fearsome.",
-  "flags_raw": "abcfg dk -750 S",
-  "stats1_raw": "20 2 -6 20d20+200 3d6+6",
-  "stats2_raw": "13876 27800",
-  "stats3_raw": "8 8 2",
+  "flags_raw": "111 1032 -750 E",
+  "stats1_raw": "142 -51 -11 1d1+3972 5d15+56",
+  "stats2_raw": "2130 7995598 0",
+  "stats3_raw": "8 8 2 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

@@ -1,0 +1,37 @@
+{
+  "id": 9131,
+  "zone_id": 91,
+  "name": "Happy little cloud.",
+  "description": "You hear the cloud humming a little song to itself, but you can't\nfigure out the song.",
+  "header_raw": "91 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "There is a pure white cloud north of you.  It is snowing!",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9136
+    },
+    {
+      "dir": 2,
+      "description": "You see a cloud somewhere south of you.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9126
+    },
+    {
+      "dir": 3,
+      "description": "You see an angry little cloud muttering and grumbling to itself.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9130
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

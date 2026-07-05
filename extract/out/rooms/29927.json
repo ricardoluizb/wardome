@@ -1,0 +1,21 @@
+{
+  "id": 29927,
+  "zone_id": 298,
+  "name": "The healing house",
+  "description": "As you enter this flet, the light blinds you somewhat.  After a few seconds,\nyour eyes adjust to the glow.  The walls are lined with bottles and odd-looking\npackages.  Occasionally the old elf takes one of these down briefly.  As you\nlook around you see a wide variety of elves, almost as varied as their\nailments, who have come to seek the help of the healer.",
+  "header_raw": "298 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29926
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

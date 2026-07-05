@@ -1,0 +1,26 @@
+{
+  "id": 17379,
+  "zone_id": 173,
+  "name": "Noble's Chambers",
+  "description": "You are standing in vacated chambers. Perhaps you will stay a while and \nvisit the court? The chambers consist of several bed chambers, a sitting \nroom, and a small garden.",
+  "header_raw": "173 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "Noble's Quarters",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17366
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "garden",
+      "description": "Some fresh vegetables and flowers are growing here."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

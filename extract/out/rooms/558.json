@@ -1,0 +1,21 @@
+{
+  "id": 558,
+  "zone_id": 5,
+  "name": "&YBlacksmith&n",
+  "description": "You find yourself surrounded by lots of dirt, old armors and weapons,\nmaybe even yours weapons can be in their place in a not so distant future.\nYou can see the Armor shop down the stairs.\n   &wType &Yrepair &wto see the details of repairing.",
+  "header_raw": "5 156 0",
+  "flags_text": "156",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "You can see the armour shop right there.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 528
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

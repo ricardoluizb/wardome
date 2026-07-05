@@ -1,0 +1,45 @@
+{
+  "id": 11268,
+  "zone_id": 112,
+  "name": "The Central Storage Area",
+  "description": "Dozens of high shelves crammed with texts in every language conceivable\nfill this long hall, reaching up to the high domed ceiling on all sides,\nmaking you feel as if you were within a fortress of books. The air is thick\nand musty, and smells strongly of old leather and crumbling parchment. Dog\neared manuscripts lie scattered all across the floor, tossed aside by someone\nengaged in a frenetic search for a particular tome. The wealth of knowledge\nconcentrated here is beyond quanitifiable measure; you have no doubt that, if\nyou searched long and hard enough, you would find information on just about\nany subject under the sun.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11270
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11269
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11267
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11271
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

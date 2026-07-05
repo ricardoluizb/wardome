@@ -1,0 +1,29 @@
+{
+  "id": 756,
+  "zone_id": 7,
+  "name": "Outer Office",
+  "description": "This is a nice-looking office, with a big receiving desk in the\nmiddle.  The secretary's desk is a mess of unfinished work, and the\nwastecan looks full to the brimming.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 757
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 755
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

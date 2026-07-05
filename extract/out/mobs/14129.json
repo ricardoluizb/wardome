@@ -1,0 +1,12 @@
+{
+  "id": 14129,
+  "alias": "citizen yewsman",
+  "short_desc": "the citizen of yew",
+  "long_desc": "A citizen of Yew walks around.",
+  "detailed_desc": "Being the second largest city in Britannia, second only to\nBritain itself; this city employs and houses many people.  This\ncitizen of the city of Justice strolls the street, sure of his\nVirtue.",
+  "flags_raw": "2250 1024 1000 E",
+  "stats1_raw": "80 -22 -3 1d1+2880 5d9+42",
+  "stats2_raw": "1200 1878758 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

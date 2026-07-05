@@ -1,0 +1,38 @@
+{
+  "id": 3212,
+  "zone_id": 32,
+  "name": "The Upper Temple",
+  "description": "You find yourself in a small room atop the stairs.  Strangely enough, this\npart of the temple has decorations.  The walls are covered with murals and\nfurs.  A corridor leads off the the south, and the stairs offer a retreat\ndownwards.",
+  "header_raw": "32 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3215
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3209
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "mural",
+      "description": "The mural shows a great shaggy beast with two pointed horns."
+    },
+    {
+      "keywords": "fur",
+      "description": "The fur is brown, short, and coarse."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/32.wld"
+}

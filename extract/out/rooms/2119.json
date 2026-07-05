@@ -1,0 +1,29 @@
+{
+  "id": 2119,
+  "zone_id": 21,
+  "name": "The Overhang",
+  "description": "You progress upwards is stopped by what appears to be an overhang.  It would\nbe a nice place to stop an rest..  If you weren't underneath it.  You glance\naround for an alternate path..",
+  "header_raw": "21 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2120
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2118
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/21.wld"
+}

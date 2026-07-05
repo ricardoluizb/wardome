@@ -1,0 +1,37 @@
+{
+  "id": 9255,
+  "zone_id": 92,
+  "name": "Floating in Air",
+  "description": "Last you knew, you were walking on the mesa.  Abruptly the path dropped\nfrom beneath your feet much to quick for you to recover.  Instead of\nplunging to your death, you seemingly miss the ground and begin walking\non air.  The space to the north and east seems just thin air, but you can\nwalk there.  The pathway you came from is to the south.",
+  "header_raw": "92 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9257
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9256
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9254
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/92.wld"
+}

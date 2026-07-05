@@ -3,8 +3,8 @@
   "zone_id": 120,
   "name": "The Jousting Arena",
   "description": "This is a wide open grassy plane... LOOK OUT!!!!  You are almost\nskewered by a gladiator's lance as he makes his charge.  A practicing\narea is due north.",
-  "header_raw": "120 c 2",
-  "flags_text": "c",
+  "header_raw": "120 4 2",
+  "flags_text": "4",
   "sector": 2,
   "exits": [
     {
@@ -22,6 +22,14 @@
       "door_flag": 0,
       "key": -1,
       "to": 12003
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 12099
     }
   ],
   "extra_descriptions": [

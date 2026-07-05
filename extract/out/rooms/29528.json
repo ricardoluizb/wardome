@@ -1,0 +1,29 @@
+{
+  "id": 29528,
+  "zone_id": 295,
+  "name": "The Shallows",
+  "description": "You are currently bobbing up and down in the shallows. To the north lies\na huge plain, littered with tents and armored men, who are grouped around\nthe walls of a huge city. It looks as if some fierce fighting has taken\nplace here.",
+  "header_raw": "295 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29533
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29523
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/295.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 25111,
+  "zone_id": 251,
+  "name": "The Throne of King Uther Pendragon.",
+  "description": "Here is the King Uther. He seems to be very proud on seeing you goind to help him.",
+  "header_raw": "251 1048580 0",
+  "flags_text": "1048580",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 25105
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/251.wld"
+}

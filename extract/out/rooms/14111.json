@@ -1,0 +1,21 @@
+{
+  "id": 14111,
+  "zone_id": 141,
+  "name": "Attic",
+  "description": "The attic is dark, and you smell some vestiges of bat guano.",
+  "header_raw": "141 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "The rest of the house is down.",
+      "keywords": "trapdoor",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14112
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

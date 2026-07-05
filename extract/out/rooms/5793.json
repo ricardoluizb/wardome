@@ -1,0 +1,37 @@
+{
+  "id": 5793,
+  "zone_id": 57,
+  "name": "A Junction",
+  "description": "At this junction, you have the option of going north, where the sound of\nrunning water is once more clearly audible, or east, towards a bend in the\npassage to the south. Alternatively, you could step through a door to the\nwest, from which the sounds of scratching and high-pitched squeaking emanate.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a passageway",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5796
+    },
+    {
+      "dir": 1,
+      "description": "a bend",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5794
+    },
+    {
+      "dir": 3,
+      "description": "a door",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5791
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

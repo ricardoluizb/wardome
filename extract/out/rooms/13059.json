@@ -1,0 +1,45 @@
+{
+  "id": 13059,
+  "zone_id": 130,
+  "name": "Thieve's Headquarter's Entrance",
+  "description": "You are in a enormous atrium.  To the north you see a great hall,\nto the east a  stable and to the west you see the trainning room.  The\nHeadquarter's exit is to the south.",
+  "header_raw": "130 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13060
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13063
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "Gate",
+      "door_flag": 1,
+      "key": 0,
+      "to": 13032
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13064
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

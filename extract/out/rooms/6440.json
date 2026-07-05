@@ -3,8 +3,8 @@
   "zone_id": 64,
   "name": "An Alcove",
   "description": "This alcove leads into a huge room to your north, and\nto stairs leading down to the east, and stairs going \nup to your west.",
-  "header_raw": "64 ad 0",
-  "flags_text": "ad",
+  "header_raw": "64 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

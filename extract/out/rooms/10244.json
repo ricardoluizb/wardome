@@ -1,0 +1,29 @@
+{
+  "id": 10244,
+  "zone_id": 102,
+  "name": "Before Royal Red Curtains",
+  "description": "This rooms looks very much like the room before it, but it is a little\nless litten, because one of the torches in the wall is broken. Besides\nthe two guards which stands before the door. There is a big red royal\ncurtain blocking your view.",
+  "header_raw": "102 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10245
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10242
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 725,
+  "zone_id": 7,
+  "name": "Center Road, West",
+  "description": "Center Road is a madhouse of people bumping into other people,\nincluding you!  One of the main attractions here is the Town Hall to\nthe north, which holds the city's jail, courtroom, and council\nchambers, not to mention Mayor Kell's office.  To the east you see a\nhuge white temple with a line outside, and a smaller blue temple.\n   Center Road continues east and west.",
+  "header_raw": "7 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 755
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 702
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 724
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

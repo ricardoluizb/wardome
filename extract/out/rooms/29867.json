@@ -1,0 +1,29 @@
+{
+  "id": 29867,
+  "zone_id": 298,
+  "name": "The bridge to Caras Galadon",
+  "description": "You are now almost at the gates of Caras Galadon.  Many have sought to find\nthis mystical place, and many have failed.  As you look northward towards the\ngates, you see for the first time why so many have tried.  The walls of the\ncity seem almost to shimmer, and dazzle your eyes with their pure white color.\nThe water is the dirtiest you have ever seen, as it roars underneath this\nbeautiful structure.  That many branches and debris are being swept along with\nthe current.  Such a thing to this wonderful place.  You sigh, and watch the\nmuddy water lick at the base of the walls.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29868
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29866
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/298.wld"
+}

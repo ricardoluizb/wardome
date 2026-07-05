@@ -1,0 +1,12 @@
+{
+  "id": 9229,
+  "alias": "oldstyle rock monster",
+  "short_desc": "the Rock Monster",
+  "long_desc": "The Rock Monster considers you in stoney silence.",
+  "detailed_desc": "A humanoid figure trapped in stone seems alive.",
+  "flags_raw": "74 0 -310 E",
+  "stats1_raw": "150 -55 -12 1d1+4200 5d16+60",
+  "stats2_raw": "2250 9371548 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/92.mob"
+}

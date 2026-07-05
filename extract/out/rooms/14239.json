@@ -1,0 +1,21 @@
+{
+  "id": 14239,
+  "zone_id": 141,
+  "name": "A Small Tent",
+  "description": "The paladin's tent is very Spartan, as he has to live without\nmuch in order to develop his Honor.",
+  "header_raw": "141 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "tent",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14238
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

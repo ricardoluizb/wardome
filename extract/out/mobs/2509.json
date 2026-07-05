@@ -4,9 +4,9 @@
   "short_desc": "the prisoner",
   "long_desc": "A prisoner is chained to the wall here.",
   "detailed_desc": "Though his clothes are all in rags, you can see that at one time they\nmust have been fine garments.  A metal muzzle has been fitted over the\npoor wretch's mouth, whether to keep him from screaming, or to silence\nhis spell casting you cannot tell.\n\nHe looks quite mad, no doubt he has been mistreated horribly.",
-  "flags_raw": "bgh 0 100 S",
-  "stats1_raw": "16 6 2 3d30+30 2d4+9",
-  "stats2_raw": "0 1800",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "202 0 100 E",
+  "stats1_raw": "156 -58 -13 1d1+4368 5d16+62",
+  "stats2_raw": "2340 10501055 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

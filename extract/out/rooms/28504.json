@@ -1,0 +1,45 @@
+{
+  "id": 28504,
+  "zone_id": 285,
+  "name": "Inside the gates of Atlantis",
+  "description": "You stand just inside the gates to the city of Atlantis. The city itself\nspreads out in front of you. The buildings are beaut, as they appear to be\nmade from the very hard coral. Small city streets lead east and west, while \na main road appears to lead south.",
+  "header_raw": "285 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "gates gate huge",
+      "door_flag": 1,
+      "key": -1,
+      "to": 28502
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28505
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28507
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28503
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/285.wld"
+}

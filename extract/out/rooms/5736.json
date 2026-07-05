@@ -1,0 +1,37 @@
+{
+  "id": 5736,
+  "zone_id": 57,
+  "name": "Inside the Mountain",
+  "description": "You are heading north along a gloomy stone passageway. Your footsteps echo\nin the eerie silence, which is broken only by the distant sound of running\nwater. You soon reach a junction where you can head east or west.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "a door",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5737
+    },
+    {
+      "dir": 2,
+      "description": "the entrance",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5735
+    },
+    {
+      "dir": 3,
+      "description": "a guard post",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5739
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

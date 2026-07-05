@@ -1,0 +1,34 @@
+{
+  "id": 337,
+  "zone_id": 3,
+  "name": "The ancient path",
+  "description": "You find yourself located between the bridge and the rock formations.\nAs you approach the formations you begin to realize the true size of\nthem, about 15 feet tall and almost perfect rectangular shape.\nYou feel impressed with the awesome sight.",
+  "header_raw": "3 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "To the east you enter the ring of stones. You wonder if it's safe.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 339
+    },
+    {
+      "dir": 3,
+      "description": "To the west the ancient path leads across the wooden bridge.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 336
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "rock formation formations",
+      "description": "The rock formations are made of seven huge monolith placed in a circle.\nYou notice it's possible to enter the ring."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/3.wld"
+}

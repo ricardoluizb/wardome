@@ -1,0 +1,21 @@
+{
+  "id": 13064,
+  "zone_id": 130,
+  "name": "Trainning Room",
+  "description": "Here is the trainning room.  You can  see  some recruits learning\ntheir skills.  The exit is to the east.",
+  "header_raw": "130 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13059
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

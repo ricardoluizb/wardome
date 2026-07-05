@@ -1,0 +1,21 @@
+{
+  "id": 6751,
+  "zone_id": 67,
+  "name": "The rooftop at Mekala's",
+  "description": "The open, moist air gives some relief from the heat below. Wild\nbirds circle about above your head, curious about the food but too\nshy to descend. A few tables stand adorned with simple white\ntablecloths and red candles.",
+  "header_raw": "67 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6750
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

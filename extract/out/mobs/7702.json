@@ -1,0 +1,12 @@
+{
+  "id": 7702,
+  "alias": "night hag",
+  "short_desc": "an evil night hag",
+  "long_desc": "A night hag reaches out to steal your soul.",
+  "detailed_desc": "You see a shadowy creature with long talons and an evil grin, whose sole \npurpose is to hunt down and slay mortals in order to obtain souls for her foul\nmaster to torment.",
+  "flags_raw": "2172 1024 -500 E",
+  "stats1_raw": "90 -25 -3 1d1+2520 5d10+36",
+  "stats2_raw": "1350 2160224 0",
+  "stats3_raw": "8 8 0 -1 7",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/77.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 6602,
+  "alias": "zombie rotted",
+  "short_desc": "a zombie",
+  "long_desc": "A half-rotted man is crawling in the ground.",
+  "detailed_desc": "It seems to be dead. But walks.\nOops, it isn't dead! And'll attack!!",
+  "flags_raw": "172108 9260 -500 E",
+  "stats1_raw": "175 -67 -16 1d1+4896 5d18+70",
+  "stats2_raw": "2625 14668610 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/66.mob"
+}

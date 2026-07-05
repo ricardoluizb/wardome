@@ -1,0 +1,38 @@
+{
+  "id": 8124,
+  "zone_id": 81,
+  "name": "The Ofintine Public Library",
+  "description": "Here you may borrow, or buy, much of the great literature of Ofingia, \nwhich sadly does not fill very many of the shelves here. Once this\nlibrary had many more works, but the goblins have raided this town \nseveral times in the last few years and burned or stolen most of \nthose that were reported to be magical.  One of the walls has a huge\noil portrait hanging where there are no shelves.\nLooking about you, you are amazed at the number of books still left,\nbut most are poorly written works of popular fiction. Alas!\nThere are some exceptions; a map hangs on the wall, for instance.",
+  "header_raw": "81 152 0",
+  "flags_text": "152",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The wall is lined with bookshelves.",
+      "keywords": "bookshelves",
+      "door_flag": 2,
+      "key": 8108,
+      "to": 8125
+    },
+    {
+      "dir": 4,
+      "description": "A spiral iron staircase leads up.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8123
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "portrait painting",
+      "description": "It is a picture of Claeregina Mahzi, queen of Adacaract."
+    },
+    {
+      "keywords": "map",
+      "description": "St. John's\"|             Grocer\n @   M A P   @        Church |_+_|    Smithy   ____   ____ Cobbler\n  of  Ofingia   West          | |       _____ |    | |    |   \n       &        Gate__________|_|_______|___|_|____|_|____|____\n  surroundings     :       Well                            |   |Bakery\n                   :           o  King's Way               |   |\n       o           :___________________________  Market    |___|\n    by Sir          |      | |_|         |    |   Square.  |\n   Mischa of        |      | Sheriff     |    |            |___\n    Wazen.          |______|             |____|            |   |Apothecary\n                    The Cross Bow    Carpenter|       _____|___|      \n                   R. Morgan, Prop.           | D    | |   |\n                                              | r    | |   |\n                                              | o    | |___|\n                                              | v  S |__________\n     All Distances on this Map are            | e  t |          |\n     not drawn to Scale.  Houses              | r  r | Town Hall|\n     I have not chosen to Represent,          | s  e |__________|\n     They being Rather Few since the          |    e |   |\n     Goblin invasions.                        |    t |___|\n                      Sir Mischa              |......|\n                                              South Gate"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

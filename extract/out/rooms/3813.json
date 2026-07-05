@@ -1,0 +1,45 @@
+{
+  "id": 3813,
+  "zone_id": 38,
+  "name": "A Dark Hallway",
+  "description": "You are in a dark hallway that leads north to south.  West and east of you are\nsome roughly made rooms.  You can see that the wooden walls are incomplete, and\nparts of the walls are just dug from rock and packed soil.  Unlit torches\nare on the walls.",
+  "header_raw": "38 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3814
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3820
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3812
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3819
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

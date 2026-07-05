@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Chamber Of The High Priest",
   "description": "You have entered the chamber of the most holy man in New Thalos.  The\nHigh Priest advises the Sultan on all matters in the world of the sacred.\nFrom what you have heard however, this holy man has a bit of a temper,\nand he doesn't look very happy that you've disturbed his prayers.\n   The only obvious exit is south.",
-  "header_raw": "54 d 0",
-  "flags_text": "d",
+  "header_raw": "54 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

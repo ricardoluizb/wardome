@@ -1,0 +1,21 @@
+{
+  "id": 29593,
+  "zone_id": 295,
+  "name": "The End of the Road",
+  "description": "The road ends here at the sheer face of the northern wall of the city, which\nfaces onto the tall, impenetrable mountains that loom north of the plains\nof Ilium.",
+  "header_raw": "295 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29590
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/295.wld"
+}

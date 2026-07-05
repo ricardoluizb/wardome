@@ -1,0 +1,21 @@
+{
+  "id": 10134,
+  "zone_id": 101,
+  "name": "Sleeping Quarters",
+  "description": "This peaceful room is another of Elrond's guest rooms, used by favored\ntravellers or wayfarers for a night.  A low bed rests against the wall to the\neast, and the southern wall holds a large mirror.  There is a large window to\nthe west of the mirror, through which the singing and sounds of Valfenda can be\nheard.  The flat ceiling of the room is supported by dark beams, intricately\ncarved.  Although the room itself is not large, you have the feeling that\nsomeone great once stayed here.",
+  "header_raw": "101 1048576 1",
+  "flags_text": "1048576",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10132
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/101.wld"
+}

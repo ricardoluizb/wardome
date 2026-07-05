@@ -1,0 +1,21 @@
+{
+  "id": 10238,
+  "zone_id": 102,
+  "name": "The Trash Room",
+  "description": "This room is quite equal the room that you stepped before, it has\nsome straw throwed by the room, it was probably a deposit, but now\nall it has is trash. Nothing but trash...",
+  "header_raw": "102 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10237
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

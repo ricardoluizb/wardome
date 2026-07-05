@@ -1,0 +1,21 @@
+{
+  "id": 11213,
+  "zone_id": 112,
+  "name": "An Abandoned Smithy",
+  "description": "Where once there was a fine smithy, a place of the purchasing and\nrepairing of items of war, now there is only a cold forge, some rusted\ntools and a couple of suits of shoddy armor. Bloodstains carpet the\nstraw floor, and the walls bear deep gouges, as if a terrific battle\ntook place here.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11212
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

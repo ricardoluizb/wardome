@@ -1,0 +1,37 @@
+{
+  "id": 721,
+  "zone_id": 7,
+  "name": "Star Gate Road, West",
+  "description": "The nighttime stars shine down on the establishment to your south,\nmaking all the glitter and metal attached to it shine spectacularly.\nThe sign says, 'Kell's House'.  You hear many voices talking and\nlaughing inside; it's obviously a tavern or an inn, and popular to\nboot.\n   Star Gate Road continues east and west",
+  "header_raw": "7 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 720
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 763
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 722
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

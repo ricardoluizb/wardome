@@ -1,0 +1,45 @@
+{
+  "id": 14254,
+  "zone_id": 141,
+  "name": "The Place of Ultimate Evil",
+  "description": "When you enter this place all of your senses are immediately\nblasted.  You breath in that total evilness and feel dirty.  You\nwant to leave right now.",
+  "header_raw": "141 8257 1",
+  "flags_text": "8257",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14251
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14255
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14249
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14253
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

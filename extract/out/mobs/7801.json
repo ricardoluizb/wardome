@@ -1,0 +1,12 @@
+{
+  "id": 7801,
+  "alias": "oldstyle elf valley",
+  "short_desc": "a valley elf",
+  "long_desc": "A valley elf wanders here, cautious of your intrusion.",
+  "detailed_desc": "This elf is almost as tall as you are, but much slimmer and agile.  You see\nhatred in his eyes, and you try to avoid his stare.  His tense body looks ready\nto spring upon you, like a mountain lion stalking its prey.  He sees you\nnoticing him, and quietly disappears.",
+  "flags_raw": "236 263168 0 E",
+  "stats1_raw": "80 -26 -6 1d1+4152 5d9+62",
+  "stats2_raw": "1200 1934015 3",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/78.mob"
+}

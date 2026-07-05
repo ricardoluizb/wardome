@@ -1,0 +1,21 @@
+{
+  "id": 6808,
+  "zone_id": 67,
+  "name": "A dwelling perched precariously on the edge",
+  "description": "This home is so tenuously held to the brink of stone and mud that you\nhave to wonder how long before the rains carry it over the edge.\nHowever, if a god assures you it is safe, it must be.... right?\nYou trust us, don't you?",
+  "header_raw": "67 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6793
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

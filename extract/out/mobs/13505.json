@@ -1,0 +1,12 @@
+{
+  "id": 13505,
+  "alias": "wraith knight",
+  "short_desc": "the wraith knight",
+  "long_desc": "A wraith knight stands a silent watch here.",
+  "detailed_desc": "This was probably some poor adventurer, like you, before the\nNecromancers got their hold on him.  Now he just awaits, blade\ndrawn, like some ethereal beefeater.",
+  "flags_raw": "42 0 -800 E",
+  "stats1_raw": "10 -3 -5 1d1+996 5d3+94",
+  "stats2_raw": "150 10689 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/135.mob"
+}

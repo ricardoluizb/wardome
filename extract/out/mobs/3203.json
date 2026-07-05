@@ -1,0 +1,12 @@
+{
+  "id": 3203,
+  "alias": "templar",
+  "short_desc": "the templar of Mateon",
+  "long_desc": "Mateon's Templar is here, looking out the window.",
+  "detailed_desc": "This man has dedicated his life to Mateon, and the man behind the mask.  He\nturns from the window and stares at you blankly.",
+  "flags_raw": "2314 16777216 400 E",
+  "stats1_raw": "165 -62 -14 1d1+4620 5d17+66",
+  "stats2_raw": "2475 13595832 0",
+  "stats3_raw": "8 8 1 1 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/32.mob"
+}

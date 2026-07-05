@@ -1,0 +1,29 @@
+{
+  "id": 22031,
+  "zone_id": 220,
+  "name": "In the heathe",
+  "description": "The marshy swamp fills the cavern, mud is up to your knees. The top\nof the cavern is made of dirt and looks like it could fall at anytime.\nSmall chunks of weeds moss float through the mud ever so slowly.",
+  "header_raw": "220 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22010
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22032
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/220.wld"
+}

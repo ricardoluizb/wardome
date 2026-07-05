@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "Inside The West Gate Of New Thalos",
   "description": "Two large stone towers embedded in the wall loom over you.  The\nmassive iron gate, emblazoned with the crest of New Thalos, swings\neasily on four ornately crafted hinges.  It is obvious the makers\nof this city spared no expense in protecting their home.\n   Main street heads towards the market eastward and the wilderness\nbeckons from the west.  To the south lies the entrance the Warriors'\nGuild.",
-  "header_raw": "54 c 1",
-  "flags_text": "c",
+  "header_raw": "54 4 1",
+  "flags_text": "4",
   "sector": 1,
   "exits": [
     {

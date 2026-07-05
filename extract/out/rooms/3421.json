@@ -1,0 +1,50 @@
+{
+  "id": 3421,
+  "zone_id": 34,
+  "name": "Entrance Chamber to the Grand Hall of Kings",
+  "description": "Whoever built this place must have been very rich indeed!  Though you did\nenter through a rather small door this place has enough room to hold several\nscore of people.  The floor has a beautifully woven carpet, and the walls are\ncovered in finely crafted tapestries. You can tell that these things must have\nbeen worth much but they have not lasted well throughout the ages.  Massive\ndoors lead off to the south and a large stone staircase leads up.",
+  "header_raw": "34 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "Finely polished oak doors stand to the south.",
+      "keywords": "oak",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3422
+    },
+    {
+      "dir": 4,
+      "description": "You see a large set of stone stairs leading upwards to a small stone door at\nthe top.",
+      "keywords": "stone trapdoor door",
+      "door_flag": 2,
+      "key": 3410,
+      "to": 3405
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "stone door trapdoor",
+      "description": "It's rather small and looks quite heavy but maybe with some kind of leverage\nyou could move it.  It has a queerly shaped hole that looks big enough\nfor an equally queerly shaped pole to fit inside.  If only you had it!"
+    },
+    {
+      "keywords": "tapestry tapestries",
+      "description": "The tapestries were woven into beautiful and exciting scenes of battles\nlong ago.  One on the left your shows the historic battle between Jubal the\nBenevolent and Hroth Kragen's forces that eventually Jubal's army won (of\ncourse)."
+    },
+    {
+      "keywords": "staircase stairs",
+      "description": "Though quite cracked they do look very stable."
+    },
+    {
+      "keywords": "oak",
+      "description": "They're HUGE!  They are at least 12 feet tall and about 10 feet wide.\nIf not for one thing they would be perfectly preserved.  There appears\nto be some letters crudely scratched into the wood."
+    },
+    {
+      "keywords": "letters graffiti",
+      "description": "'Beware here all of man, because past here lies only death.'\n\n    Insho'rkthon brsskra-lehsn Roch'tar\n\nBeneath, there are two criss-crossing scratchmarks in an X formation that\nlook like someone (or something) raked their claws across the wood."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/34.wld"
+}

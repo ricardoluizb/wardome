@@ -1,0 +1,45 @@
+{
+  "id": 8122,
+  "zone_id": 81,
+  "name": "Southeastern Market Square",
+  "description": "The fragrance of fresh bread fills the air here.  Ofintine \nbread is considered the best in the world by those who know\nwhat REAL bread tastes like.",
+  "header_raw": "81 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "There is more of the square to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8121
+    },
+    {
+      "dir": 1,
+      "description": "A delicious smell of fresh bread comes from the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8131
+    },
+    {
+      "dir": 2,
+      "description": "You have no idea what kind of store this is; it has no windows.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8132
+    },
+    {
+      "dir": 3,
+      "description": "There is more of the square to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8113
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

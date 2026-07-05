@@ -1,0 +1,21 @@
+{
+  "id": 6624,
+  "zone_id": 66,
+  "name": "A simple room",
+  "description": "A strange glowing light comes from the window.\nA scene that you don't see at a good time, the sun.",
+  "header_raw": "66 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6623
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/66.wld"
+}

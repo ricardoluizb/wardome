@@ -1,0 +1,21 @@
+{
+  "id": 13030,
+  "zone_id": 130,
+  "name": "Red Light House",
+  "description": "Here is the prostibule of the city. There is\na lots of beautiful women here, they are almost\nundressed, certainly this is the best place in this city.\nThe first avenue is to the South.",
+  "header_raw": "130 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13029
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 832,
+  "zone_id": 7,
+  "name": "Temple of MouseRider",
+  "description": "Here you are again at the Temple of MouseRider, through a bizarre\ntwist of space.  The main entrance seems to be gone, however...\n   MouseRider is clutching one of the shards of the destroyed orb.  He\nlaughs evilly as he takes a vicious dagger and disembowls himself,\nspilling organs all over his feet and the floor.\n   'Fools!'  he cries, 'I am now an immortal, I am now a liche!!'  He\nlaughs, and directs his minions to attack!",
+  "header_raw": "7 12 0",
+  "flags_text": "12",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 833
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

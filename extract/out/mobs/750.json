@@ -1,0 +1,12 @@
+{
+  "id": 750,
+  "alias": "hellhounds hounds hell hell-hounds",
+  "short_desc": "a hellhound",
+  "long_desc": "A hellhound looks at you with hunger.",
+  "detailed_desc": "It's hide is a deep brownish-red hue, but its eyes are the most\nnoticeable about this magnificent beast.  Red within red eyes, with\ntiny pupils of black in the center.",
+  "flags_raw": "42 168 -500 E",
+  "stats1_raw": "85 -32 -10 1d1+5772 5d17+84",
+  "stats2_raw": "1275 2387774 5",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

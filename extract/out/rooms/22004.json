@@ -1,0 +1,29 @@
+{
+  "id": 22004,
+  "zone_id": 220,
+  "name": "Nearing the bottom",
+  "description": "The pit is nearing the bottom, you can see a large throne down below.\nIt is made with fine obsidian, and bejeweled with golden stones.",
+  "header_raw": "220 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22003
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22005
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/220.wld"
+}

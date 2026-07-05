@@ -1,0 +1,29 @@
+{
+  "id": 29913,
+  "zone_id": 298,
+  "name": "Before a large inn",
+  "description": "As you walk further you come to the end of the road.  Before you is a large\ninn.  Laughter and song flows from the flet and the sweet smell of cooked meat\ncaresses your nose.  It is on a large tree, whose branches start to leave the\ncentral trunk at about twenty-five feet.  This tree is very crowded, and the\nbranches almost seem to strain under the sprawling flet perched atop them.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29911
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29914
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

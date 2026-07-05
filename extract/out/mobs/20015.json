@@ -1,0 +1,12 @@
+{
+  "id": 20015,
+  "alias": "bartender",
+  "short_desc": "a bartender",
+  "long_desc": "A bartender pours a drink while advising his patrons.",
+  "detailed_desc": "He nods, smiles, and asks you what you would like to drink.  As you decide, he\nmixes a Franjie Deluxe for the guy down the ways a bit, his hands quickly and\nsurely spinning the lemon over the sides of the glass.",
+  "flags_raw": "1204296 1032 -500 E",
+  "stats1_raw": "160 -66 -18 1d1+8316 5d17+94",
+  "stats2_raw": "2400 14127888 3",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/200.mob"
+}

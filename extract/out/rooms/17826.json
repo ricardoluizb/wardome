@@ -1,0 +1,45 @@
+{
+  "id": 17826,
+  "zone_id": 178,
+  "name": "A Long Hallway",
+  "description": "You are now inside of the fortress; you must be lucky that the guards\nhaven't killed you.  As you glance around, you notice that the walls and\nfloors are spotlessly cleaned.  The barracks are to the north and a\nstorage room is to the south.",
+  "header_raw": "178 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the barracks.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17828
+    },
+    {
+      "dir": 1,
+      "description": "You see the gateway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17825
+    },
+    {
+      "dir": 2,
+      "description": "You see a storage room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17830
+    },
+    {
+      "dir": 3,
+      "description": "You see a long hallway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17827
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 11294,
+  "zone_id": 112,
+  "name": "A Secret Chamber",
+  "description": "The floor of this secret chamber is hard, packed earth, which is\nstained with blood and other substances. A trapdoor is set in the\nceiling; presumably it opens onto the storeroom of one of the shops\nof Hochenyana. A door lies in the wall to the east; from behind it\nemerge moans and cries for help.",
+  "header_raw": "112 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The shelf appears to bar a door in the north wall.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11295
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11293
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "trapdoor",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11288
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 1710,
+  "zone_id": 16,
+  "name": "The East side of the Centaur Clearing",
+  "description": "You are on the east side of a clearing.  Small primitive huts are scattered\nabout the edges of this clearing.  Beyond these on all sides are towering\nfir trees.  A path leads east out of the clearing. The clearing continues to\nthe west.",
+  "header_raw": "16 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "There is a hut here.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1712
+    },
+    {
+      "dir": 1,
+      "description": "A path leads away through the forest.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1709
+    },
+    {
+      "dir": 2,
+      "description": "There is a hut here.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1713
+    },
+    {
+      "dir": 3,
+      "description": "You see the west side of the clearing.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1711
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

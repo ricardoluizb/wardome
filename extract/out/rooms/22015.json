@@ -1,0 +1,21 @@
+{
+  "id": 22015,
+  "zone_id": 220,
+  "name": "A fathomless room",
+  "description": "A demonic presence states this territory, you have the urge to run and\nscream, but your better judgement prevents that from happening.",
+  "header_raw": "220 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22011
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/220.wld"
+}

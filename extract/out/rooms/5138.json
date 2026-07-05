@@ -3,8 +3,8 @@
   "zone_id": 51,
   "name": "The Grand Hallway",
   "description": "You are walking down a grand hallway, heavily decorated with adamantite\nand gold.  To the north the hall goes down a flight of stairs while a door is \nto the west.",
-  "header_raw": "51 ad 0",
-  "flags_text": "ad",
+  "header_raw": "51 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

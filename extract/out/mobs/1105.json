@@ -1,0 +1,12 @@
+{
+  "id": 1105,
+  "alias": "oldstyle cow",
+  "short_desc": "a cow",
+  "long_desc": "A cow is here, chewing her cud.",
+  "detailed_desc": "The cow looks like it hasn't been milked in quite some time.  Although she\nis past her prime, you see that she still has a lot of years left, and that\nif provoked, her rear kick can be quite deadly.",
+  "flags_raw": "72 0 0 E",
+  "stats1_raw": "120 -44 -11 1d1+5280 5d13+68",
+  "stats2_raw": "1800 6053860 2",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/11.mob"
+}

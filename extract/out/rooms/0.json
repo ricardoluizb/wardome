@@ -3,17 +3,17 @@
   "zone_id": 0,
   "name": "The Void",
   "description": "You don't think that you are not floating in nothing.  You can see\na strange portal located above you.",
-  "header_raw": "0 d 1",
-  "flags_text": "d",
+  "header_raw": "0 8 1",
+  "flags_text": "8",
   "sector": 1,
   "exits": [
     {
       "dir": 4,
-      "description": "The Temple of Midgaard floats above you.",
+      "description": "You see a large fountain above you.",
       "keywords": "",
       "door_flag": 0,
       "key": -1,
-      "to": 3001
+      "to": 503
     }
   ],
   "extra_descriptions": [],

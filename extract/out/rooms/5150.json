@@ -3,8 +3,8 @@
   "zone_id": 51,
   "name": "The Weaponsmaster's Chamber",
   "description": "This one-person bedchamber is very elegant.  The owner must be held in\nhigh regard to get this kind of treatment.",
-  "header_raw": "51 ad 0",
-  "flags_text": "ad",
+  "header_raw": "51 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

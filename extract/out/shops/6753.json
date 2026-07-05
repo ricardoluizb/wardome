@@ -1,0 +1,33 @@
+{
+  "id": 6753,
+  "producing": [
+    6730,
+    6731,
+    6732
+  ],
+  "profit_buy": 1.0,
+  "profit_sell": 1.0,
+  "buy_types": [],
+  "messages": [
+    "%s Yo! Um, we don't sell that.",
+    "%s We don't buy, and you have none. I see a problem there.",
+    "%s Not buying none, nope.",
+    "%s You haven't enough gold for it.",
+    "%s I don't want for anything. Be on your way, peddler.",
+    "%s That'll be %d coins.",
+    "%s I'm not interested."
+  ],
+  "tail": [
+    2,
+    2,
+    6728,
+    0,
+    6753,
+    -1,
+    0,
+    28,
+    0,
+    0
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/67.shp"
+}

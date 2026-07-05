@@ -1,0 +1,12 @@
+{
+  "id": 6732,
+  "alias": "armourer",
+  "short_desc": "the armourer",
+  "long_desc": "The armourer is here buffing a suit of scale mail.",
+  "detailed_desc": "The cousin of the warrior guildmaster is six foot five and perhaps\nthree hundred pounds.. needless to say, he has many friends. He\nstands rose-buffing a beautiful suit of scale mail.",
+  "flags_raw": "26635 0 0 E",
+  "stats1_raw": "160 -60 -14 1d1+4476 5d17+64",
+  "stats2_raw": "50000 11302310 0",
+  "stats3_raw": "8 8 1 3 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/67.mob"
+}

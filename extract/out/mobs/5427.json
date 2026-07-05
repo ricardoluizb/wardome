@@ -4,9 +4,9 @@
   "short_desc": "the statue of Brihaspati",
   "long_desc": "The statue of Brihaspati stands here.",
   "detailed_desc": "The statue of Brihaspati, the God of Scholars and Knowledge is made\nof a weathered marble.",
-  "flags_raw": "abelnopqr dhk 0 S",
-  "stats1_raw": "15 -10 -10 1d1+1200 6d10+10",
-  "stats2_raw": "1200 12000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "256027 1160 0 E",
+  "stats1_raw": "40 0 4 1d1+837 5d5+16",
+  "stats2_raw": "600 227663 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

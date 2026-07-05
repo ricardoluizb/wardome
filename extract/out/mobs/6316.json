@@ -4,9 +4,9 @@
   "short_desc": "the young wormkin",
   "long_desc": "A wormkin with no teeth plays here.",
   "detailed_desc": "It is a rather small dragon, and you almost feel sad about killing it.",
-  "flags_raw": "b dk 50 S",
-  "stats1_raw": "9 12 3 5d4+110 2d5+2",
-  "stats2_raw": "1000 6500",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "10 1032 50 E",
+  "stats1_raw": "109 -34 -6 1d1+3048 5d11+42",
+  "stats2_raw": "1635 3731999 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/63.mob"
 }

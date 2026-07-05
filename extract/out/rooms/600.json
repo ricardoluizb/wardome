@@ -1,0 +1,50 @@
+{
+  "id": 600,
+  "zone_id": 6,
+  "name": "Entrance of Wardome School",
+  "description": "Be Well coming you has just entered in Wardome Mud.\nYou will be here for two levels, us which  will learn\nsome commands for best to unmask that enourmous world.\nSo Let's Go!!\n              &YTYPE: &RREAD INFORMATION.&n",
+  "header_raw": "6 262188 0",
+  "flags_text": "262188",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 601
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": -1
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "information info sign",
+      "description": "If you want to learn how to play mud, only type EAST or E and follow the instructions. Good Luck on WarDome."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/6.wld"
+}

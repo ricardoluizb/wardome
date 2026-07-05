@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "The Small Passage",
   "description": "You are standing in a small passage leading north and south.  There\nis also an exit to the west, from which grunts, cheers and heavy blows\ncan be heard.",
-  "header_raw": "150 d 0",
-  "flags_text": "d",
+  "header_raw": "150 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

@@ -1,0 +1,45 @@
+{
+  "id": 1026,
+  "zone_id": 10,
+  "name": "A Cloistered Hall",
+  "description": "You stand in part of a long stone hallway lined on both the east\nand western sides with doorways.  In most of the doorways it appears\nthat the wooden doors that were once there in their entirety are\nsmashed and destroyed.  The doors on either side of the hallway here\nare no different.  You get a strange eerie feeling as you stand in\nthis part of the hallway.  Perhaps it is from the strange light source\nthat seems to be just to the north.",
+  "header_raw": "10 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The hallway continues northwards towards the strange light source down\nthere.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1027
+    },
+    {
+      "dir": 1,
+      "description": "Another smashed open door can be seen on the east side of the hall.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1029
+    },
+    {
+      "dir": 2,
+      "description": "The hallway continues southwards where it appears to be getting darker\nand darker.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1023
+    },
+    {
+      "dir": 3,
+      "description": "Is it just me, or are the smashed open doors on the west side of the\nhall becoming ever so slightly predictable?",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1028
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

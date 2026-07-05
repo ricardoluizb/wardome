@@ -4,9 +4,9 @@
   "short_desc": "Salle",
   "long_desc": "A woman ignores you completely, so intent is she upon her sword.",
   "detailed_desc": "She is a stunning woman, all hair and eyes, it seems.\nHer clothing is of the same tawny brown of her skin and\nhair.  Her blue eyes look at you appraisingly, seemingly\nto show great intelligence.  Her mouth twitches into a \nsneer...",
-  "flags_raw": "bm 0 -600 S",
-  "stats1_raw": "15 6 -30 3d5+200 2d6+6",
-  "stats2_raw": "6500 24000",
-  "stats3_raw": "8 8 2",
+  "flags_raw": "4106 0 -600 E",
+  "stats1_raw": "180 -76 -21 1d1+9360 5d19+102",
+  "stats2_raw": "2700 19904481 3",
+  "stats3_raw": "8 8 2 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/33.mob"
 }

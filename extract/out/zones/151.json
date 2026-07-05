@@ -1,0 +1,924 @@
+{
+  "id": 151,
+  "name": "Mordecai's Village",
+  "header": {
+    "raw": "15199 30 2 1 -1",
+    "min_room": 15199,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15100,
+        1,
+        2
+      ],
+      "comment": "(Entering the Village)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        15115,
+        1,
+        15100
+      ],
+      "comment": "(a hole)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        0,
+        15111,
+        1,
+        15115
+      ],
+      "comment": "(the Bamboo Key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15102,
+        1,
+        15150
+      ],
+      "comment": "(Lieutenant Caspan)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15104,
+        3,
+        5
+      ],
+      "comment": "(the lieutenant's armour)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        15114,
+        1,
+        -1
+      ],
+      "comment": "(the dull grey key)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        15114,
+        1,
+        15154
+      ],
+      "comment": "(the dull grey key)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15154,
+        3,
+        2
+      ],
+      "comment": "(Mordecai's Stash)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15154,
+        5,
+        2
+      ],
+      "comment": "(Mordecai's Stash)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15110,
+        1,
+        15152
+      ],
+      "comment": "(Mordecai)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15100,
+        5,
+        9
+      ],
+      "comment": "(Mordecai's &RHands&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15101,
+        5,
+        10
+      ],
+      "comment": "(Mordecai's &rBracer&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15102,
+        5,
+        1
+      ],
+      "comment": "(Mordecai's &RRi&rng&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15109,
+        5,
+        12
+      ],
+      "comment": "(Mordecai's Robe)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        15112,
+        2,
+        -1
+      ],
+      "comment": "(the skull-shaped key)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15152,
+        1,
+        2
+      ],
+      "comment": "(Mordecai's Home)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15129,
+        0,
+        2
+      ],
+      "comment": "(Weapon Cache)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15101,
+        10,
+        15102
+      ],
+      "comment": "(the skinny woman)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15102,
+        3,
+        2
+      ],
+      "comment": "(A Dirt Path)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15105,
+        1,
+        2
+      ],
+      "comment": "(A Holding Cell)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15100,
+        10,
+        15101
+      ],
+      "comment": "(the villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15108,
+        5,
+        15101
+      ],
+      "comment": "(the three legged dog)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15101,
+        3,
+        2
+      ],
+      "comment": "(A Dirt Path)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15106,
+        4,
+        15103
+      ],
+      "comment": "(the chanker ridden child)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15103,
+        3,
+        2
+      ],
+      "comment": "(A Dirt Path)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15104,
+        1,
+        2
+      ],
+      "comment": "(A Holding Cell)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15111,
+        6,
+        15118
+      ],
+      "comment": "(the chicken)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        15110,
+        2,
+        -1
+      ],
+      "comment": "(the chicken drumstick)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        15112,
+        2,
+        -1
+      ],
+      "comment": "(the skull-shaped key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15111,
+        6,
+        15118
+      ],
+      "comment": "(the chicken)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15111,
+        6,
+        15118
+      ],
+      "comment": "(the chicken)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15109,
+        3,
+        15151
+      ],
+      "comment": "(a toothless hag)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15100,
+        10,
+        15130
+      ],
+      "comment": "(the villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15108,
+        5,
+        15130
+      ],
+      "comment": "(the three legged dog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15108,
+        5,
+        15124
+      ],
+      "comment": "(the three legged dog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15100,
+        10,
+        15111
+      ],
+      "comment": "(the villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15101,
+        10,
+        15111
+      ],
+      "comment": "(the skinny woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15106,
+        4,
+        15111
+      ],
+      "comment": "(the chanker ridden child)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15108,
+        5,
+        15111
+      ],
+      "comment": "(the three legged dog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15107,
+        8,
+        15135
+      ],
+      "comment": "(the pregnant woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15107,
+        8,
+        15134
+      ],
+      "comment": "(the pregnant woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15107,
+        8,
+        15133
+      ],
+      "comment": "(the pregnant woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15107,
+        8,
+        15138
+      ],
+      "comment": "(the pregnant woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15107,
+        8,
+        15140
+      ],
+      "comment": "(the pregnant woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15107,
+        8,
+        15139
+      ],
+      "comment": "(the pregnant woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15107,
+        8,
+        15137
+      ],
+      "comment": "(the pregnant woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15106,
+        4,
+        15146
+      ],
+      "comment": "(the chanker ridden child)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15101,
+        10,
+        15131
+      ],
+      "comment": "(the skinny woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15106,
+        4,
+        15131
+      ],
+      "comment": "(the chanker ridden child)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15105,
+        4,
+        15141
+      ],
+      "comment": "(the little whore)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15105,
+        4,
+        15114
+      ],
+      "comment": "(the little whore)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15100,
+        10,
+        15108
+      ],
+      "comment": "(the villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15101,
+        10,
+        15108
+      ],
+      "comment": "(the skinny woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15101,
+        10,
+        15142
+      ],
+      "comment": "(the skinny woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15101,
+        10,
+        15144
+      ],
+      "comment": "(the skinny woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15100,
+        10,
+        15116
+      ],
+      "comment": "(the villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15100,
+        10,
+        15123
+      ],
+      "comment": "(the villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15104,
+        10,
+        15113
+      ],
+      "comment": "(the soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15106,
+        10,
+        16
+      ],
+      "comment": "(a fishtail dagger)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15107,
+        10,
+        7
+      ],
+      "comment": "(the leather scrap armor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15104,
+        10,
+        15113
+      ],
+      "comment": "(the soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15106,
+        10,
+        16
+      ],
+      "comment": "(a fishtail dagger)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15107,
+        10,
+        7
+      ],
+      "comment": "(the leather scrap armor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15100,
+        10,
+        15113
+      ],
+      "comment": "(the villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15101,
+        10,
+        15148
+      ],
+      "comment": "(the skinny woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15104,
+        10,
+        15148
+      ],
+      "comment": "(the soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15106,
+        10,
+        16
+      ],
+      "comment": "(a fishtail dagger)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15107,
+        10,
+        7
+      ],
+      "comment": "(the leather scrap armor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15104,
+        10,
+        15112
+      ],
+      "comment": "(the soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15106,
+        10,
+        16
+      ],
+      "comment": "(a fishtail dagger)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15107,
+        10,
+        7
+      ],
+      "comment": "(the leather scrap armor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15104,
+        10,
+        15112
+      ],
+      "comment": "(the soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15106,
+        10,
+        16
+      ],
+      "comment": "(a fishtail dagger)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15107,
+        10,
+        7
+      ],
+      "comment": "(the leather scrap armor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15100,
+        10,
+        15127
+      ],
+      "comment": "(the villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15104,
+        10,
+        15127
+      ],
+      "comment": "(the soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15106,
+        10,
+        16
+      ],
+      "comment": "(a fishtail dagger)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15107,
+        10,
+        7
+      ],
+      "comment": "(the leather scrap armor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15101,
+        5,
+        15128
+      ],
+      "comment": "(the skinny woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15104,
+        10,
+        15128
+      ],
+      "comment": "(the soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15107,
+        10,
+        7
+      ],
+      "comment": "(the leather scrap armor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15106,
+        10,
+        16
+      ],
+      "comment": "(a fishtail dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15105,
+        10,
+        15128
+      ],
+      "comment": "(the little whore)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        15128,
+        2,
+        1
+      ],
+      "comment": "(A Twisty Turning Trail)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15105,
+        10,
+        15106
+      ],
+      "comment": "(the little whore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15106,
+        10,
+        16
+      ],
+      "comment": "(a fishtail dagger)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        15107,
+        10,
+        7
+      ],
+      "comment": "(the leather scrap armor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15112,
+        2,
+        15106
+      ],
+      "comment": "(a squatting woman)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        15116,
+        1,
+        -1
+      ],
+      "comment": "(a corn cob)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        15103,
+        1,
+        15153
+      ],
+      "comment": "(Penelope)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        15105,
+        2,
+        -1
+      ],
+      "comment": "(Penelope's Golden Locket)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/151.zon"
+}

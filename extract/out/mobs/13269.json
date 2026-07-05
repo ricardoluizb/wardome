@@ -1,0 +1,12 @@
+{
+  "id": 13269,
+  "alias": "warrior",
+  "short_desc": "a warrior",
+  "long_desc": "A warrior snarls at you.",
+  "detailed_desc": "A half-giant, this dragon could easily snap you like a twig.",
+  "flags_raw": "12296 40 -200 E",
+  "stats1_raw": "45 -18 -8 1d1+4140 5d9+98",
+  "stats2_raw": "675 447429 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

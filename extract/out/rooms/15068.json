@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "A House",
   "description": "This house is a wreck, furniture has been strewn all about\nthe room, and it looks like a tornado landed right in the middle\nof the room.  The destruction that has taken place in this room\nis almost beyond belief.  The oddest part of it all though, is\nhow it all seems so recent, since there are no cobwebs, and there\nis no dust on anything.\n   The dirt road can be seen to the east through the doorway.",
-  "header_raw": "150 d 0",
-  "flags_text": "d",
+  "header_raw": "150 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

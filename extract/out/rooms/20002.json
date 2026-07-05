@@ -1,0 +1,29 @@
+{
+  "id": 20002,
+  "zone_id": 200,
+  "name": "Near a Large Building",
+  "description": "You are standing on the path that runs around the Wayhouse to the west.  A\nwindow spills light onto the trees that block out all available light overhead.\nYou hear general merryment and alcoholism from inside, and wonder if being\ninside would be more fun than walking around outside...",
+  "header_raw": "200 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20001
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20003
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/200.wld"
+}

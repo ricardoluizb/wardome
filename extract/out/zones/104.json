@@ -1,0 +1,1654 @@
+{
+  "id": 104,
+  "name": "Descent to Hell",
+  "header": {
+    "raw": "10541 50 2 25 -1",
+    "min_room": 10541,
+    "top_room": 50,
+    "lifespan": 2,
+    "reset_mode": 25
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10439,
+        1,
+        10479
+      ],
+      "comment": "(&CI&Wc&Ce &WScreamer&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10479,
+        1,
+        1
+      ],
+      "comment": "(Ice Creamery)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10419,
+        10,
+        16
+      ],
+      "comment": "(&Wan &Ci&Wc&Ce &Cs&wp&We&wa&Cr&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10460,
+        1,
+        10400
+      ],
+      "comment": "(Satan)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10461,
+        35,
+        16
+      ],
+      "comment": "(&rA &wflail &rwith three chained &Rheads &rswinging&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10460,
+        30,
+        5
+      ],
+      "comment": "(&rD&Rem&Won&Ria&rc &RSuit &rof F&Rir&re&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10400,
+        2,
+        2
+      ],
+      "comment": "(&RThrone &rof &RSatan&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10458,
+        1,
+        10400
+      ],
+      "comment": "(Abrazaath)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10458,
+        30,
+        16
+      ],
+      "comment": "(&rS&yom&re &yRu&rs&yty &rCh&yai&rns&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10458,
+        30,
+        14
+      ],
+      "comment": "(&rS&yom&re &yRu&rs&yty &rCh&yai&rns&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10457,
+        1,
+        10400
+      ],
+      "comment": "(Betharan)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10458,
+        30,
+        16
+      ],
+      "comment": "(&rS&yom&re &yRu&rs&yty &rCh&yai&rns&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10458,
+        30,
+        15
+      ],
+      "comment": "(&rS&yom&re &yRu&rs&yty &rCh&yai&rns&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10438,
+        2,
+        10478
+      ],
+      "comment": "(I-scream worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10438,
+        2,
+        10488
+      ],
+      "comment": "(I-scream worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10437,
+        4,
+        10487
+      ],
+      "comment": "(&rThe &Rkiller &wPe&Wngu&win&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10437,
+        4,
+        10486
+      ],
+      "comment": "(&rThe &Rkiller &wPe&Wngu&win&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10437,
+        4,
+        10477
+      ],
+      "comment": "(&rThe &Rkiller &wPe&Wngu&win&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10437,
+        4,
+        10476
+      ],
+      "comment": "(&rThe &Rkiller &wPe&Wngu&win&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10476,
+        3,
+        1
+      ],
+      "comment": "(Penguin Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10436,
+        1,
+        10475
+      ],
+      "comment": "(&yH&Yal&yf &cF&Cr&Woz&Ce&cn &cB&Cod&cy&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10475,
+        1,
+        1
+      ],
+      "comment": "(Meat Locker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10435,
+        2,
+        10474
+      ],
+      "comment": "(Side of &cF&Cr&Woz&Ce&cn&y beef&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10434,
+        1,
+        10473
+      ],
+      "comment": "(Soul trapped under the ice)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10433,
+        3,
+        10481
+      ],
+      "comment": "(&cF&Cr&Woz&Ce&cn &cB&Cod&cy&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10433,
+        3,
+        10482
+      ],
+      "comment": "(&cF&Cr&Woz&Ce&cn &cB&Cod&cy&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10433,
+        3,
+        10541
+      ],
+      "comment": "(&cF&Cr&Woz&Ce&cn &cB&Cod&cy&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10429,
+        1,
+        10466
+      ],
+      "comment": "(Female construction worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10427,
+        1,
+        10467
+      ],
+      "comment": "(Female construction worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10428,
+        1,
+        10467
+      ],
+      "comment": "(Male construction worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10410,
+        2,
+        10413
+      ],
+      "comment": "(a tortured soul)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10417,
+        1,
+        10413
+      ],
+      "comment": "(the half-eaten person)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10416,
+        1,
+        1
+      ],
+      "comment": "(Greed)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10416,
+        1,
+        10416
+      ],
+      "comment": "(&yThe &YGold &wbar&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10415,
+        1,
+        10416
+      ],
+      "comment": "(a pile of &Ygold &ycoins&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10408,
+        1,
+        10415
+      ],
+      "comment": "(a yummy beef pot pie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10407,
+        1,
+        10415
+      ],
+      "comment": "(a yummy vegetable pot pie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10414,
+        1,
+        10415
+      ],
+      "comment": "(a yummy chicken pot pie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10400,
+        1,
+        10420
+      ],
+      "comment": "(the blood from the fountain)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10402,
+        1,
+        10420
+      ],
+      "comment": "(Bloody severed nose)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10405,
+        1,
+        10420
+      ],
+      "comment": "(Bloody severed foot)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10406,
+        1,
+        10420
+      ],
+      "comment": "(Bloody severed arm)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10459,
+        1,
+        10536
+      ],
+      "comment": "(Fernis)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10536,
+        0,
+        2
+      ],
+      "comment": "(Stairs to the Abyss)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        10536,
+        10,
+        -1
+      ],
+      "comment": "(&ra &yLock &rof &RHell&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10412,
+        2,
+        10412
+      ],
+      "comment": "(Horned Demon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10405,
+        99,
+        6
+      ],
+      "comment": "(&wthe &WAngel's &wSkull&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10412,
+        2,
+        10429
+      ],
+      "comment": "(Horned Demon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10404,
+        99,
+        16
+      ],
+      "comment": "(a black-hilted sword called &w\"&RFarslayer&n\")"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10401,
+        2,
+        10405
+      ],
+      "comment": "(the Guardian of Hell)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10401,
+        80,
+        16
+      ],
+      "comment": "(a wicked-looking trident)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10401,
+        2,
+        10405
+      ],
+      "comment": "(the Guardian of Hell)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10401,
+        80,
+        16
+      ],
+      "comment": "(a wicked-looking trident)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10403,
+        1,
+        10417
+      ],
+      "comment": "(the Male Scavenger)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10402,
+        80,
+        16
+      ],
+      "comment": "(&wa black &yleather whip&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10404,
+        1,
+        10417
+      ],
+      "comment": "(the female Scavenger)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10403,
+        80,
+        16
+      ],
+      "comment": "(a hickey maker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10409,
+        6,
+        10406
+      ],
+      "comment": "(a damned soul)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10409,
+        6,
+        10408
+      ],
+      "comment": "(a damned soul)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10409,
+        6,
+        10410
+      ],
+      "comment": "(a damned soul)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10411,
+        1,
+        10414
+      ],
+      "comment": "(the Overlord)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10413,
+        2,
+        10426
+      ],
+      "comment": "(Skeletal warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10406,
+        80,
+        5
+      ],
+      "comment": "(some rotting flesh)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10407,
+        80,
+        16
+      ],
+      "comment": "(the Vorpal Blade)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10413,
+        2,
+        10428
+      ],
+      "comment": "(Skeletal warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10406,
+        80,
+        5
+      ],
+      "comment": "(some rotting flesh)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10407,
+        80,
+        16
+      ],
+      "comment": "(the Vorpal Blade)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10418,
+        4,
+        10423
+      ],
+      "comment": "(the lost soul)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10418,
+        4,
+        10424
+      ],
+      "comment": "(the lost soul)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10419,
+        1,
+        10425
+      ],
+      "comment": "(the crispy critter)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10408,
+        80,
+        16
+      ],
+      "comment": "(&ra &rf&Rl&Ya&ym&Yi&Rn&rg &Rc&rla&Rw&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10420,
+        2,
+        10430
+      ],
+      "comment": "(pile of bones)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10421,
+        2,
+        10445
+      ],
+      "comment": "(the manes)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10444,
+        80,
+        16
+      ],
+      "comment": "(a manes' claws)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10421,
+        2,
+        10440
+      ],
+      "comment": "(the manes)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10444,
+        80,
+        16
+      ],
+      "comment": "(a manes' claws)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10422,
+        1,
+        10433
+      ],
+      "comment": "(the prisoner Raiden)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10423,
+        1,
+        10437
+      ],
+      "comment": "(a prisoner in Hell)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10424,
+        1,
+        10449
+      ],
+      "comment": "(a prisoner in Hell)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10425,
+        3,
+        10442
+      ],
+      "comment": "(Demonguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10409,
+        80,
+        5
+      ],
+      "comment": "(a demonskin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10410,
+        80,
+        16
+      ],
+      "comment": "(&RD&remon &WTeeth&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10425,
+        3,
+        10436
+      ],
+      "comment": "(Demonguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10409,
+        80,
+        5
+      ],
+      "comment": "(a demonskin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10410,
+        80,
+        16
+      ],
+      "comment": "(&RD&remon &WTeeth&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10425,
+        3,
+        10438
+      ],
+      "comment": "(Demonguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10409,
+        80,
+        5
+      ],
+      "comment": "(a demonskin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10410,
+        80,
+        16
+      ],
+      "comment": "(&RD&remon &WTeeth&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10426,
+        2,
+        10470
+      ],
+      "comment": "(the burning fool)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10411,
+        80,
+        10
+      ],
+      "comment": "(some burning flesh)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10426,
+        2,
+        10460
+      ],
+      "comment": "(the burning fool)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10411,
+        80,
+        10
+      ],
+      "comment": "(some burning flesh)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10430,
+        1,
+        10470
+      ],
+      "comment": "(the fire devil)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10414,
+        80,
+        16
+      ],
+      "comment": "(a box of matches)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        10449,
+        99,
+        -1
+      ],
+      "comment": "(a precious fire opal)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10468,
+        1,
+        10460
+      ],
+      "comment": "(the Greater Fire Demon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10415,
+        80,
+        16
+      ],
+      "comment": "(a bloody black talon)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        10416,
+        8,
+        -1
+      ],
+      "comment": "(&yJar &wof &RBlood&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10431,
+        1,
+        10469
+      ],
+      "comment": "(the wall of fire)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10432,
+        1,
+        10454
+      ],
+      "comment": "(the hell hound)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10417,
+        80,
+        16
+      ],
+      "comment": "(Hell hound teeth)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        10418,
+        8,
+        -1
+      ],
+      "comment": "(&Wan &Cicy &ybottle&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        10421,
+        8,
+        -1
+      ],
+      "comment": "(some meat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10440,
+        1,
+        10462
+      ],
+      "comment": "(the Demonic Foreman)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        10422,
+        17,
+        -1
+      ],
+      "comment": "(the blueprint)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10441,
+        1,
+        10500
+      ],
+      "comment": "(the Magma Demon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10446,
+        80,
+        6
+      ],
+      "comment": "(a blond wig)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10442,
+        2,
+        10498
+      ],
+      "comment": "(the Cave Viper)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10423,
+        80,
+        16
+      ],
+      "comment": "(&wan &yE&Yle&Wct&Yri&yc &wEr&Was&wer&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10442,
+        2,
+        10506
+      ],
+      "comment": "(the Cave Viper)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10423,
+        80,
+        16
+      ],
+      "comment": "(&wan &yE&Yle&Wct&Yri&yc &wEr&Was&wer&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10443,
+        3,
+        10491
+      ],
+      "comment": "(Fiend Worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10443,
+        3,
+        10492
+      ],
+      "comment": "(Fiend Worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10443,
+        3,
+        10493
+      ],
+      "comment": "(Fiend Worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10445,
+        1,
+        10497
+      ],
+      "comment": "(High Priest of Hell)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10425,
+        80,
+        17
+      ],
+      "comment": "(an unholy symbol)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10426,
+        80,
+        12
+      ],
+      "comment": "(&ra &cU&Rn&Ch&Ro&cl&ry &CR&ro&cb&Re&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        10450,
+        99,
+        -1
+      ],
+      "comment": "(a hellstone)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10447,
+        6,
+        10511
+      ],
+      "comment": "(jury member)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10448,
+        1,
+        10521
+      ],
+      "comment": "(Judge Whopper)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10449,
+        1,
+        10512
+      ],
+      "comment": "(Lawyer from Hell)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10427,
+        80,
+        16
+      ],
+      "comment": "(the sharp teeth of a lawyer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10450,
+        1,
+        10513
+      ],
+      "comment": "(the Advocate)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10451,
+        1,
+        10514
+      ],
+      "comment": "(Baal)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        10428,
+        8,
+        -1
+      ],
+      "comment": "(&ya &Ygolden &yring&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        10429,
+        8,
+        -1
+      ],
+      "comment": "(&ran &Rengagement &rring&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        10430,
+        8,
+        -1
+      ],
+      "comment": "(a prenuptual agreement)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10454,
+        1,
+        10524
+      ],
+      "comment": "(Black Knight)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        10432,
+        8,
+        -1
+      ],
+      "comment": "(a figurine of a horse)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        10433,
+        8,
+        -1
+      ],
+      "comment": "(a figurine of a winged horse)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        10434,
+        8,
+        -1
+      ],
+      "comment": "(a figurine of a nightmare)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        10435,
+        8,
+        -1
+      ],
+      "comment": "(a figurine of a black dragon)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        10436,
+        8,
+        -1
+      ],
+      "comment": "(a figurine of a red dragon)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        10437,
+        8,
+        -1
+      ],
+      "comment": "(a figurine of a white dragon)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        10438,
+        8,
+        -1
+      ],
+      "comment": "(a figurine of a green dragon)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        10439,
+        8,
+        -1
+      ],
+      "comment": "(a figurine of a blue dragon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10455,
+        1,
+        10526
+      ],
+      "comment": "(horse carcass)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10456,
+        1,
+        10526
+      ],
+      "comment": "(stomach dragon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10462,
+        1,
+        10531
+      ],
+      "comment": "(Succubus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10448,
+        80,
+        16
+      ],
+      "comment": "(a cleaver)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10463,
+        2,
+        10535
+      ],
+      "comment": "(Slayer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10463,
+        2,
+        10515
+      ],
+      "comment": "(Slayer)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10404,
+        3,
+        1
+      ],
+      "comment": "(Landing)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10405,
+        1,
+        1
+      ],
+      "comment": "(Gateway to Hell)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10417,
+        3,
+        1
+      ],
+      "comment": "(Bedroom.)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10443,
+        0,
+        1
+      ],
+      "comment": "(Stone Hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10433,
+        2,
+        1
+      ],
+      "comment": "(Cell)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10435,
+        2,
+        1
+      ],
+      "comment": "(Stone Hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10445,
+        0,
+        1
+      ],
+      "comment": "(Cell)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10447,
+        0,
+        1
+      ],
+      "comment": "(Stone Hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10437,
+        2,
+        1
+      ],
+      "comment": "(Cell)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10439,
+        2,
+        1
+      ],
+      "comment": "(Stone Hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10449,
+        0,
+        1
+      ],
+      "comment": "(Cell)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10439,
+        1,
+        1
+      ],
+      "comment": "(Stone Hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10440,
+        3,
+        1
+      ],
+      "comment": "(Cell)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10452,
+        2,
+        1
+      ],
+      "comment": "(Stone Arch)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10462,
+        0,
+        1
+      ],
+      "comment": "(Foreman's Office)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10480,
+        3,
+        1
+      ],
+      "comment": "(White Marble Hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10483,
+        1,
+        1
+      ],
+      "comment": "(Ice Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10484,
+        3,
+        1
+      ],
+      "comment": "(Meat Locker)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10496,
+        1,
+        1
+      ],
+      "comment": "(Blackened Hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10497,
+        3,
+        1
+      ],
+      "comment": "(Office of the High Priest)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10499,
+        1,
+        1
+      ],
+      "comment": "(Blackened Hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        10500,
+        3,
+        1
+      ],
+      "comment": "(Administration of Hell)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/104.zon"
+}

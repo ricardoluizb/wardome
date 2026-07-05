@@ -1,0 +1,45 @@
+{
+  "id": 2006,
+  "zone_id": 20,
+  "name": "Passageway",
+  "description": "-This is a long, cobweb covered passage, many years of dust are settled on\nthe antiques, walls and floors...The passage leads from the stairwell, to\nthe entrance of the Secret Tunnel of the Ocean Tower...As you travel through\nthe passageway there are many doors to rooms on the right of you, which\nbehind these closed doors are the private quarters of the Kings and Queens of\nCastle of Desire...",
+  "header_raw": "20 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2026
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30301
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2004
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2028
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

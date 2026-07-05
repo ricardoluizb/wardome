@@ -1,0 +1,21 @@
+{
+  "id": 6869,
+  "zone_id": 67,
+  "name": "A whirlpool",
+  "description": "A slowly churning blue whirlpool pulls you gently underwater, without\nsound and without breath. The tree-darkened sky disappears in a\ncircular motion above your eyes as the world turns to water, and you\ncannot help but feel that what goes down, must continue down..\n\nThe waters engulf you and suck you downwards, where you awake with\nstars circling before your eyes.",
+  "header_raw": "67 1 8",
+  "flags_text": "1",
+  "sector": 8,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6868
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

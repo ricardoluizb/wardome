@@ -1,0 +1,29 @@
+{
+  "id": 2150,
+  "zone_id": 21,
+  "name": "The Rift",
+  "description": "A great yawning rift breaks the earth's surface here.  Tendrils of smoke\nwaft their way upwards, stinging your nose sharply.  You sense that a great\nevil is near.",
+  "header_raw": "21 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2149
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2151
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/21.wld"
+}

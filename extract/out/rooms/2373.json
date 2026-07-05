@@ -1,0 +1,42 @@
+{
+  "id": 2373,
+  "zone_id": 23,
+  "name": "Darkoth's Dark Study",
+  "description": "This room is dark. It reeks of death and evil. Arcane symbols and a small\naltar fill the room. Blood runs from the altar. It is evident that this room\nis used for unholy purposes. A &mpurple&n door leads west.",
+  "header_raw": "23 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    },
+    {
+      "dir": 3,
+      "description": "You see a &mpurple&n door there.",
+      "keywords": "door black",
+      "door_flag": 2,
+      "key": 2352,
+      "to": 2388
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "black",
+      "description": "It looks like it leads back to the hall."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

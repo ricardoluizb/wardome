@@ -1,0 +1,29 @@
+{
+  "id": 6873,
+  "zone_id": 67,
+  "name": "A dark corridor",
+  "description": "Shadows seem to creep within the shadows already existing, clashing\nand clambering over one another before the approach of your footfalls,\nyet everything seems to indicate to you that this is not the sort of\nfun fairy-tale niche your mother liked to tell tales about by the\nfireside of your ancient home. Do you continue, or turn back? Sometimes\nshadows may form a bluff of great danger in the recesses of your\nimagination.",
+  "header_raw": "67 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6874
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6871
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

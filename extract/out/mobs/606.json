@@ -1,0 +1,12 @@
+{
+  "id": 606,
+  "alias": "big creature",
+  "short_desc": "the big creature",
+  "long_desc": "There is a big creature hulking over your form.",
+  "detailed_desc": "He looks mean, and you just might have a small problem killing him, but he\nlooks like a great prize!!!",
+  "flags_raw": "42 512 0 E",
+  "stats1_raw": "0 1 20 10d1+1 18d10+1",
+  "stats2_raw": "0 15 196",
+  "stats3_raw": "0 8 0 0 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/6.mob"
+}

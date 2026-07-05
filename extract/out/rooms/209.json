@@ -1,0 +1,34 @@
+{
+  "id": 209,
+  "zone_id": 2,
+  "name": "A Hallway",
+  "description": "The hallway here is bent in a big way.  It goes up and east.",
+  "header_raw": "2 9 6",
+  "flags_text": "9",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "There is a large chamber to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 211
+    },
+    {
+      "dir": 4,
+      "description": "The hall continues up.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 208
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "hallway hall",
+      "description": "This hall is BENT!"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/2.wld"
+}

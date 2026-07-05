@@ -1,0 +1,29 @@
+{
+  "id": 2706,
+  "zone_id": 27,
+  "name": "Trail",
+  "description": "You have to go, RUN!",
+  "header_raw": "27 4 3",
+  "flags_text": "4",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2709
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2704
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

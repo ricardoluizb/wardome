@@ -1,0 +1,21 @@
+{
+  "id": 30071,
+  "zone_id": 300,
+  "name": "An elven bedroom",
+  "description": "The bedroom of the house contains a queen-sized bed.  It looks extremely soft\nand snug with many soft pillows and a slinky patchwork quilt.  Not much else is\nto be found in this room, not even a wardrobe or set of dressers.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30070
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

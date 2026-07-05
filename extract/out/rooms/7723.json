@@ -1,0 +1,61 @@
+{
+  "id": 7723,
+  "zone_id": 77,
+  "name": "Travelling the Astral Plane",
+  "description": "You find yourself floating in a field of blackness, filled with tiny tendrils\nof silvery light and insubstantial shining motes of dust.  The weightlessness\nof this environment is extremely disorienting.  Nearby you see a large silvery\nstrand of light.\n   Most exits lead off into the astral field.",
+  "header_raw": "77 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The astral field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7724
+    },
+    {
+      "dir": 1,
+      "description": "The astral field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7728
+    },
+    {
+      "dir": 2,
+      "description": "You see a tangible strand of silvery light.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7737
+    },
+    {
+      "dir": 3,
+      "description": "The astral field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7726
+    },
+    {
+      "dir": 4,
+      "description": "The astral field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7732
+    },
+    {
+      "dir": 5,
+      "description": "The astral field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7735
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/77.wld"
+}

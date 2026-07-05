@@ -1,0 +1,29 @@
+{
+  "id": 25004,
+  "zone_id": 250,
+  "name": "A Blind Curve on the Mountain Path",
+  "description": "This looks like a normal mountain path, but it is NOT!  This section of the\npath is habitated by a huge (and of course, man-eating) Cyclops.  The path\nmakes its final ascent to an overlook.",
+  "header_raw": "250 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 25005
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 25003
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/250.wld"
+}

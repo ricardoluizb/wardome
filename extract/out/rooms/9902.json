@@ -1,0 +1,37 @@
+{
+  "id": 9902,
+  "zone_id": 99,
+  "name": "A fountain of tears.",
+  "description": "A large fountain containing the tears of those slain within the \ncity limits has been erected here, abutting the east wall of the \ncity - it looks quite deep and wide.  The water is a crystaline blue \nwhich exudes holiness, something quite strange for such an evil city.\n  Exits lead West, North and South.",
+  "header_raw": "99 1 1",
+  "flags_text": "1",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9967
+    },
+    {
+      "dir": 2,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9901
+    },
+    {
+      "dir": 3,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9904
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

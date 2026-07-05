@@ -1,0 +1,12 @@
+{
+  "id": 8106,
+  "alias": "churt elf elven alchemist",
+  "short_desc": "Churt Agenris",
+  "long_desc": "An elven alchemist inhales the fumes deeply and sighs happily.",
+  "detailed_desc": "Churt notices you gagging as you enter his shop and peers at you \nwith some surprise.  He is a powerful wizard, having practiced \nsuch great spells as `Churt's Irresistable Retch' and `Word of \nCommand: Go away, I...' Well, never mind that one.",
+  "flags_raw": "190687 263352 700 E",
+  "stats1_raw": "157 -80 -29 1d1+18204 5d46+172",
+  "stats2_raw": "2355 18720972 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

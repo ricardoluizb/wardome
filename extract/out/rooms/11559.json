@@ -1,0 +1,29 @@
+{
+  "id": 11559,
+  "zone_id": 115,
+  "name": "The Raiders' End Zone",
+  "description": "You are in the Raiders' end zone, the sacred ground of their team.  It is\ndecoratively painted in the club's colors and their logo, the head of a player\nadorning a black shield, reminiscent of a pirate's flag.  The end zone\ncontinues to the west.  To the south is the Raiders' defensive zone.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11558
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11562
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

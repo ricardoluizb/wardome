@@ -1,0 +1,12 @@
+{
+  "id": 28504,
+  "alias": "atlantis guard",
+  "short_desc": "the High Atlantis Guard",
+  "long_desc": "The high Atlantis guard is here guarding the Keep.",
+  "detailed_desc": "The high guard is dressed in glittering armor. He looks quite dangerous \nand skilled.",
+  "flags_raw": "8388682 0 0 E",
+  "stats1_raw": "130 -45 -9 1d1+3636 5d14+52",
+  "stats2_raw": "1950 6194774 0",
+  "stats3_raw": "8 8 0 3 10",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/285.mob"
+}

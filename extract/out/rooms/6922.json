@@ -1,0 +1,29 @@
+{
+  "id": 6922,
+  "zone_id": 69,
+  "name": "The Southwestern Corner",
+  "description": "This room is nothing new compared to all of the rooms you've seen here\nbefore.  The furniture has white clothes hanging over them, making them look\nhidden.  You can barely see anything, but the flashes of lightning sure do help\nwith the total darkness in here.  Rain hits the windows and is constantly\nmaking a sound, which gets a little annoying after a while.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6923
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6904
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

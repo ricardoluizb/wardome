@@ -1,0 +1,29 @@
+{
+  "id": 2210,
+  "zone_id": 22,
+  "name": "The Second Floor",
+  "description": "You have made it up to the second floor.  You hear hissing and see several\ndragon men rushing you.  You wonder how long you will be staying here.",
+  "header_raw": "22 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see the court.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 1,
+      "to": 2211
+    },
+    {
+      "dir": 5,
+      "description": "You see the first floor.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2207
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

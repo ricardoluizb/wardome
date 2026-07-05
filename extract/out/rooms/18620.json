@@ -3,8 +3,8 @@
   "zone_id": 186,
   "name": "A Turn In The Passage",
   "description": "This corner is much like all the others... except you see a strange\nglow coming from the south.  Could be an exit... you hope.",
-  "header_raw": "186 ad 0",
-  "flags_text": "ad",
+  "header_raw": "186 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

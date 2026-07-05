@@ -2,13 +2,23 @@
   "id": 70,
   "name": "The Sewer, First Level",
   "header": {
-    "raw": "7000 7099 15 2",
-    "min_room": 7000,
-    "top_room": 7099,
-    "lifespan": 15,
-    "reset_mode": 2
+    "raw": "7099 15 2 1",
+    "min_room": 7099,
+    "top_room": 15,
+    "lifespan": 2,
+    "reset_mode": 1
   },
   "commands": [
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        1903,
+        999,
+        7014
+      ],
+      "comment": "(&nThe &RHe&rlls Ang&Rels&n Key.)"
+    },
     {
       "cmd": "M",
       "args": [
@@ -17,7 +27,7 @@
         9,
         7041
       ],
-      "comment": "The Mean Bat"
+      "comment": "(The small bat)"
     },
     {
       "cmd": "M",
@@ -27,7 +37,7 @@
         9,
         7025
       ],
-      "comment": "The Mean Bat"
+      "comment": "(The small bat)"
     },
     {
       "cmd": "M",
@@ -37,7 +47,7 @@
         9,
         7004
       ],
-      "comment": "The Mean Bat"
+      "comment": "(The small bat)"
     },
     {
       "cmd": "M",
@@ -47,7 +57,7 @@
         9,
         7004
       ],
-      "comment": "The Mean Bat"
+      "comment": "(The small bat)"
     },
     {
       "cmd": "M",
@@ -57,7 +67,7 @@
         3,
         7049
       ],
-      "comment": "The Sewer Rat"
+      "comment": "(the sewer rat)"
     },
     {
       "cmd": "M",
@@ -67,7 +77,7 @@
         3,
         7031
       ],
-      "comment": "The Sewer Rat"
+      "comment": "(the sewer rat)"
     },
     {
       "cmd": "M",
@@ -77,7 +87,7 @@
         8,
         7039
       ],
-      "comment": "The Small Hairy Spider"
+      "comment": "(the small Spider)"
     },
     {
       "cmd": "M",
@@ -87,7 +97,7 @@
         8,
         7039
       ],
-      "comment": "The Small Hairy Spider"
+      "comment": "(the small Spider)"
     },
     {
       "cmd": "M",
@@ -97,7 +107,7 @@
         8,
         7039
       ],
-      "comment": "The Small Hairy Spider"
+      "comment": "(the small Spider)"
     },
     {
       "cmd": "M",
@@ -107,7 +117,7 @@
         8,
         7037
       ],
-      "comment": "The Small Hairy Spider"
+      "comment": "(the small Spider)"
     },
     {
       "cmd": "M",
@@ -117,7 +127,7 @@
         8,
         7037
       ],
-      "comment": "The Small Hairy Spider"
+      "comment": "(the small Spider)"
     },
     {
       "cmd": "M",
@@ -127,7 +137,7 @@
         8,
         7050
       ],
-      "comment": "The Small Hairy Spider"
+      "comment": "(the small Spider)"
     },
     {
       "cmd": "D",
@@ -137,7 +147,7 @@
         1,
         1
       ],
-      "comment": "South End Of The Grand Sewer"
+      "comment": "(The Pool In The Sewer)"
     },
     {
       "cmd": "D",
@@ -147,8 +157,8 @@
         3,
         1
       ],
-      "comment": ""
+      "comment": "(The South End Of The Grand Pipe)"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/70.zon"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/70.zon"
 }

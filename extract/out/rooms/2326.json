@@ -1,0 +1,29 @@
+{
+  "id": 2326,
+  "zone_id": 23,
+  "name": "Floating in blue light",
+  "description": "You seem to be floating in blue weightlessness. You tumble head over heels and\nfinally right yourself. Gaining your bearings, you notice that there are two\n\"windows\" in the sea of blue here. One to the south shows an image of a snowy\nplain. Another window the the north shows an image of a rocky shore.",
+  "header_raw": "23 12 0",
+  "flags_text": "12",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2324
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2353
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

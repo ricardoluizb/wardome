@@ -4,9 +4,9 @@
   "short_desc": "the Demon of Decay",
   "long_desc": "A cloaked and clawed demon of decay comes at you viciously!",
   "detailed_desc": "This demon has pure malevolence for anything living.  \nOops!  You're living!  I guess that means you!",
-  "flags_raw": "beflmnopr dk -1000 E",
-  "stats1_raw": "12 9 2 3d5+145 2d7+1",
-  "stats2_raw": "0 10000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "194618 1160 -1000 E",
+  "stats1_raw": "102 -41 -12 1d1+6936 5d21+90",
+  "stats2_raw": "1530 4012124 5",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/64.mob"
 }

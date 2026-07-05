@@ -1,0 +1,12 @@
+{
+  "id": 14118,
+  "alias": "townsman man",
+  "short_desc": "the townsman",
+  "long_desc": "A townsman is here downing drinks.",
+  "detailed_desc": "This townsman is here partying and having many drinks.  Though he\nis also an ardent believer in Compassion, and a responsible\ncitizen, he knows the value of a good party.",
+  "flags_raw": "2056 1024 1000 E",
+  "stats1_raw": "50 -7 1 1d1+1800 5d6+30",
+  "stats2_raw": "750 507177 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

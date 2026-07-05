@@ -1,0 +1,29 @@
+{
+  "id": 30529,
+  "zone_id": 305,
+  "name": "The Sewer",
+  "description": "This dark and dirty sewer continues south and north.  Here you can find some\nfamous heroes to murder.",
+  "header_raw": "305 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30528
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30530
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/305.wld"
+}

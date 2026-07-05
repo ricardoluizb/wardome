@@ -1,0 +1,29 @@
+{
+  "id": 9973,
+  "zone_id": 99,
+  "name": "The top of the stairs.",
+  "description": "Apparently the hookers who work here are pretty slovenly.  There \nare all manner of clothing on the floor - most of it soiled quite \nbadly.  A hallway leads towards the West, lit by a single red \nlightbulb.",
+  "header_raw": "99 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "An upstairs hallway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9974
+    },
+    {
+      "dir": 5,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9972
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

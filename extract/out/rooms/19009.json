@@ -1,0 +1,45 @@
+{
+  "id": 19009,
+  "zone_id": 190,
+  "name": "A fine path through the elven forest.",
+  "description": "On both sides of this path is doors. Over the eastern door is a \nsign telling you this must be the weapon shop, and over the western \ndoor is a similar sign telling you it's the armoury.",
+  "header_raw": "190 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 19012
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 19010
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 19008
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 19011
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/190.wld"
+}

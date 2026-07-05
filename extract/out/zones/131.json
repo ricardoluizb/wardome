@@ -1,0 +1,1974 @@
+{
+  "id": 131,
+  "name": "Samurai Temple",
+  "header": {
+    "raw": "13135 70 2 1 -1",
+    "min_room": 13135,
+    "top_room": 70,
+    "lifespan": 2,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13100,
+        20,
+        13103
+      ],
+      "comment": "(a Samurai Trainee)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13118,
+        50,
+        16
+      ],
+      "comment": "(the Kodachi)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13112,
+        1,
+        13103
+      ],
+      "comment": "(the Guardian of Karma)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13123,
+        10,
+        16
+      ],
+      "comment": "(a samurai dagger)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13122,
+        10,
+        18
+      ],
+      "comment": "(a samurai sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13102,
+        20,
+        13120
+      ],
+      "comment": "(a Samurai Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13133,
+        50,
+        3
+      ],
+      "comment": "(a samurai cape)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13134,
+        50,
+        13
+      ],
+      "comment": "(a samurai belt)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13102,
+        20,
+        13121
+      ],
+      "comment": "(a Samurai Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13129,
+        50,
+        7
+      ],
+      "comment": "(a pair of samurai leggings)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13130,
+        50,
+        8
+      ],
+      "comment": "(a pair of samurai boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13131,
+        50,
+        9
+      ],
+      "comment": "(a pair of samurai gloves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13132,
+        50,
+        10
+      ],
+      "comment": "(a pair of samurai sleeves)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13102,
+        20,
+        13119
+      ],
+      "comment": "(a Samurai Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13126,
+        50,
+        11
+      ],
+      "comment": "(a samurai shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13127,
+        50,
+        12
+      ],
+      "comment": "(a samurai cloak)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13128,
+        50,
+        6
+      ],
+      "comment": "(a samurai helmet)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13111,
+        1,
+        13135
+      ],
+      "comment": "(Tokugawa Yoshikatsu)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13108,
+        20,
+        16
+      ],
+      "comment": "(a Fugu Blade)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13109,
+        20,
+        3
+      ],
+      "comment": "(a Jewel of the Rising Sun)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13110,
+        20,
+        4
+      ],
+      "comment": "(the Amulet of Suun Lu)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13100,
+        20,
+        13104
+      ],
+      "comment": "(a Samurai Trainee)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13118,
+        50,
+        16
+      ],
+      "comment": "(the Kodachi)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13100,
+        20,
+        13105
+      ],
+      "comment": "(a Samurai Trainee)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13118,
+        50,
+        16
+      ],
+      "comment": "(the Kodachi)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13100,
+        20,
+        13106
+      ],
+      "comment": "(a Samurai Trainee)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13118,
+        50,
+        16
+      ],
+      "comment": "(the Kodachi)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13100,
+        20,
+        13107
+      ],
+      "comment": "(a Samurai Trainee)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13118,
+        50,
+        16
+      ],
+      "comment": "(the Kodachi)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13100,
+        20,
+        13108
+      ],
+      "comment": "(a Samurai Trainee)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13118,
+        50,
+        16
+      ],
+      "comment": "(the Kodachi)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13100,
+        20,
+        13109
+      ],
+      "comment": "(a Samurai Trainee)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13118,
+        50,
+        16
+      ],
+      "comment": "(the Kodachi)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13100,
+        20,
+        13110
+      ],
+      "comment": "(a Samurai Trainee)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13118,
+        50,
+        16
+      ],
+      "comment": "(the Kodachi)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13100,
+        20,
+        13127
+      ],
+      "comment": "(a Samurai Trainee)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13118,
+        50,
+        16
+      ],
+      "comment": "(the Kodachi)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13100,
+        20,
+        13128
+      ],
+      "comment": "(a Samurai Trainee)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13118,
+        50,
+        16
+      ],
+      "comment": "(the Kodachi)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13100,
+        20,
+        13129
+      ],
+      "comment": "(a Samurai Trainee)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13118,
+        50,
+        16
+      ],
+      "comment": "(the Kodachi)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13100,
+        20,
+        13130
+      ],
+      "comment": "(a Samurai Trainee)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13118,
+        50,
+        16
+      ],
+      "comment": "(the Kodachi)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13101,
+        20,
+        13111
+      ],
+      "comment": "(a Samurai Apprentice)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13101,
+        20,
+        13112
+      ],
+      "comment": "(a Samurai Apprentice)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13101,
+        20,
+        13113
+      ],
+      "comment": "(a Samurai Apprentice)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13101,
+        20,
+        13114
+      ],
+      "comment": "(a Samurai Apprentice)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13101,
+        20,
+        13115
+      ],
+      "comment": "(a Samurai Apprentice)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13101,
+        20,
+        13116
+      ],
+      "comment": "(a Samurai Apprentice)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13101,
+        20,
+        13117
+      ],
+      "comment": "(a Samurai Apprentice)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13101,
+        20,
+        13118
+      ],
+      "comment": "(a Samurai Apprentice)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13101,
+        20,
+        13131
+      ],
+      "comment": "(a Samurai Apprentice)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13101,
+        20,
+        13132
+      ],
+      "comment": "(a Samurai Apprentice)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13101,
+        20,
+        13133
+      ],
+      "comment": "(a Samurai Apprentice)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13101,
+        20,
+        13134
+      ],
+      "comment": "(a Samurai Apprentice)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13102,
+        20,
+        13122
+      ],
+      "comment": "(a Samurai Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13102,
+        20,
+        13123
+      ],
+      "comment": "(a Samurai Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13102,
+        20,
+        13124
+      ],
+      "comment": "(a Samurai Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13102,
+        20,
+        13125
+      ],
+      "comment": "(a Samurai Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13102,
+        20,
+        13126
+      ],
+      "comment": "(a Samurai Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13102,
+        20,
+        13127
+      ],
+      "comment": "(a Samurai Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13102,
+        20,
+        13128
+      ],
+      "comment": "(a Samurai Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13102,
+        20,
+        13129
+      ],
+      "comment": "(a Samurai Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13102,
+        20,
+        13130
+      ],
+      "comment": "(a Samurai Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13102,
+        20,
+        13131
+      ],
+      "comment": "(a Samurai Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13102,
+        20,
+        13132
+      ],
+      "comment": "(a Samurai Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13102,
+        20,
+        13133
+      ],
+      "comment": "(a Samurai Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13102,
+        20,
+        13134
+      ],
+      "comment": "(a Samurai Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13125,
+        150,
+        5
+      ],
+      "comment": "(a samurai vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13135,
+        150,
+        14
+      ],
+      "comment": "(a samurai bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13111,
+        50,
+        16
+      ],
+      "comment": "(the Laroche)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13103,
+        1,
+        13106
+      ],
+      "comment": "(the Shogun of Understanding)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13100,
+        20,
+        -1
+      ],
+      "comment": "(the Amulet of Jin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13114,
+        20,
+        16
+      ],
+      "comment": "(the Azami)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13104,
+        1,
+        13110
+      ],
+      "comment": "(the Shogun of Ethics)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13101,
+        20,
+        -1
+      ],
+      "comment": "(the Amulet of Gi)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13115,
+        20,
+        16
+      ],
+      "comment": "(the Katana)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13105,
+        1,
+        13114
+      ],
+      "comment": "(the Shogun of Loyalty)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13102,
+        20,
+        -1
+      ],
+      "comment": "(the Amulet of Chu)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13113,
+        20,
+        16
+      ],
+      "comment": "(the Ninjato)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13106,
+        1,
+        13118
+      ],
+      "comment": "(the Shogun of Respect)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13103,
+        20,
+        -1
+      ],
+      "comment": "(the Amulet of Ko)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13117,
+        20,
+        16
+      ],
+      "comment": "(the Naginata)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13107,
+        1,
+        13122
+      ],
+      "comment": "(the Shogun of Authority)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13104,
+        20,
+        -1
+      ],
+      "comment": "(the Amulet of Rei)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13116,
+        20,
+        16
+      ],
+      "comment": "(the Wakisashi)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13108,
+        1,
+        13126
+      ],
+      "comment": "(the Shogun of Knowledge)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13105,
+        20,
+        -1
+      ],
+      "comment": "(the Amulet of Chi)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13119,
+        20,
+        16
+      ],
+      "comment": "(the Kora)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13109,
+        1,
+        13130
+      ],
+      "comment": "(the Shogun of Truth)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13106,
+        20,
+        -1
+      ],
+      "comment": "(the Amulet of Shin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13120,
+        20,
+        16
+      ],
+      "comment": "(the Iaito)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13110,
+        1,
+        13134
+      ],
+      "comment": "(the Shogun of Caring)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13107,
+        20,
+        -1
+      ],
+      "comment": "(the Amulet of Tei)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13121,
+        20,
+        16
+      ],
+      "comment": "(the Mandarain dau)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13106,
+        4,
+        2
+      ],
+      "comment": "(Shogun of Jin)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13110,
+        4,
+        2
+      ],
+      "comment": "(Shogun of Gi)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13114,
+        4,
+        2
+      ],
+      "comment": "(Shogun of Chu)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13118,
+        4,
+        2
+      ],
+      "comment": "(Shogun of Ko)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13122,
+        4,
+        2
+      ],
+      "comment": "(Shogun of Rei)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13126,
+        4,
+        2
+      ],
+      "comment": "(Shogun of Chi)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13130,
+        4,
+        2
+      ],
+      "comment": "(Shogun of Shin)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13132,
+        4,
+        2
+      ],
+      "comment": "(Shogun of Tei)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/131.zon"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2003,
+  "alias": "lag baby",
+  "short_desc": "the baby lag",
+  "long_desc": "Someone's little pet lag has gotten loose, and is sniffing about here.",
+  "detailed_desc": "Awwww... how cute!  A little baby lag.  He's about 3 feet long and you\njust want to cuddle him to death... no, you really want to kill him to tell\nthe truth.  But, remember, even a little lag can be a big problem.",
+  "flags_raw": "8 0 100 E",
+  "stats1_raw": "50 -5 2 1d1+1044 5d6+20",
+  "stats2_raw": "750 417675 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/20.mob"
+}

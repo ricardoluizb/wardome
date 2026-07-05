@@ -1,0 +1,12 @@
+{
+  "id": 9916,
+  "alias": "ghenna barkeep",
+  "short_desc": "the barkeep",
+  "long_desc": "There is a barkeep standing here, waiting to take your order.",
+  "detailed_desc": "The barkeep is a waifish little guy, with safety pins piercing the flesh\nall over his face... he even has safety pins through his eyelids.",
+  "flags_raw": "8266 1192 -100 E",
+  "stats1_raw": "20 8 5 1d1+720 5d3+18",
+  "stats2_raw": "300 45400 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/99.mob"
+}

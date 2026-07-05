@@ -1,0 +1,29 @@
+{
+  "id": 28426,
+  "zone_id": 284,
+  "name": "End of Aqua Hero Resistence",
+  "description": "Many legandary heroes are the Peacekeeper of this holy place.\n  No one in.No one out.To watch de Prison Mosters. To kill all intruders...",
+  "header_raw": "284 8 6",
+  "flags_text": "8",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The antechamber is to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28425
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "entrance",
+      "door_flag": 2,
+      "key": -1,
+      "to": 28431
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/284.wld"
+}

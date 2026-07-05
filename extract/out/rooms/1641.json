@@ -1,0 +1,21 @@
+{
+  "id": 1641,
+  "zone_id": 16,
+  "name": "On the Balcony",
+  "description": "You are on the balcony overlooking the Grand lobby.  You have a fabulous\nview of the entire room.  The only exit is the way you came in.",
+  "header_raw": "16 8 2",
+  "flags_text": "8",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1640
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

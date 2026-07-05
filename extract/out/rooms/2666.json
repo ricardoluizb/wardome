@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "A Bright Hallway",
   "description": "You are in a long well lit hallway leading east and west.  The walls\nhere are a milky white colour, and glow with a warm luminescence, as does\nthe floor.  A feeling of goodness permeates the area, and you feel unworthy\nto tread upon these sacred floors.\n   A huge set of double doors in finely worked ivory can be seen to the\nwest.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

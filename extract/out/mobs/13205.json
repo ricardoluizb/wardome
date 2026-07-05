@@ -1,0 +1,12 @@
+{
+  "id": 13205,
+  "alias": "guard dragon",
+  "short_desc": "a dragon guard",
+  "long_desc": "A guard of Cloudy Mountain stands watch.",
+  "detailed_desc": "Cloudy Mountain's first line of defense once the enemy has made it to the walls\nof the city.  This guard appears to have a lot of human qualities.",
+  "flags_raw": "8264 40 360 E",
+  "stats1_raw": "15 -3 -4 1d1+1380 5d3+86",
+  "stats2_raw": "225 26305 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

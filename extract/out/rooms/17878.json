@@ -1,0 +1,21 @@
+{
+  "id": 17878,
+  "zone_id": 178,
+  "name": "The Jail Cell",
+  "description": "You are in a musty, dark jail cell.  Wet and dirty straw covers the floor.\nThe walls glisten with slime.  You see something stir in the straw.",
+  "header_raw": "178 8 2",
+  "flags_text": "8",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see a dark and nasty room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17874
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

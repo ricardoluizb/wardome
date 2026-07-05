@@ -1,0 +1,42 @@
+{
+  "id": 2366,
+  "zone_id": 23,
+  "name": "The city streets of Mahn-Tor",
+  "description": "You trudge through the snow covered streets. The street itself is made of\ncobblestones and the footing is quite treacherous. To the south, you see what\nappears to be a small tavern. Bright lights shine through the windows. Small\nstreets also lead north and east.\nA small sign hangs outside the tavern.",
+  "header_raw": "23 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2363
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2367
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2369
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign small",
+      "description": "[]=============[]\n |   The Inn   |\n |    of the   |\n |    Broken   |\n |     Horn    |\n[]=============[]"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

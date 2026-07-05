@@ -1,0 +1,37 @@
+{
+  "id": 8179,
+  "zone_id": 81,
+  "name": "A Rough Tunnel",
+  "description": "Your lamp casts odd shadows on the rough-hewn walls of this passage.\nThe tapping of goblin miners at work can be heard here and there.",
+  "header_raw": "81 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You hear rushing water to the north and feel a faint draft.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8181
+    },
+    {
+      "dir": 1,
+      "description": "Flickering firelight glows beneath a wooden door.",
+      "keywords": "door wooden",
+      "door_flag": 1,
+      "key": -1,
+      "to": 8180
+    },
+    {
+      "dir": 2,
+      "description": "The mine tunnel continues south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8178
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

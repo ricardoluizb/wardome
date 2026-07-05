@@ -1,0 +1,29 @@
+{
+  "id": 20233,
+  "zone_id": 202,
+  "name": "A dark alley",
+  "description": "You find yourself in a more battle-stricken part of the town.  Dead bodies line\nthe alley, both human and others.  To the north is nothing but a tall towering\nwall of an inn, also decorated with corpses hanging out of windows.",
+  "header_raw": "202 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20231
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20234
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/202.wld"
+}

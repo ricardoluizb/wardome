@@ -1,0 +1,29 @@
+{
+  "id": 26623,
+  "zone_id": 266,
+  "name": "Using spells",
+  "description": "To use a spell, type : 'cast 'SPELL NAME' TARGET' . To see your spells,\ntype 'spells'. E.G. : cast 'meteor shower' astrain or c 'me sh' as.\nNote1 : You must have mana to use a spell.\nNote2 : Only the magic classes have spells on the first level.\nNote3: Type slist to see the skills and spells that you will learn.\nType 'n' to continue.",
+  "header_raw": "266 1310720 0",
+  "flags_text": "1310720",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26624
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26622
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/266.wld"
+}

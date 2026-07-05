@@ -2,42 +2,42 @@
   "id": 12,
   "name": "God Simplex",
   "header": {
-    "raw": "1200 1299 10 2",
-    "min_room": 1200,
-    "top_room": 1299,
-    "lifespan": 10,
+    "raw": "1299 10 2 2 0",
+    "min_room": 1299,
+    "top_room": 10,
+    "lifespan": 2,
     "reset_mode": 2
   },
   "commands": [
     {
-      "cmd": "M",
+      "cmd": "O",
       "args": [
         0,
-        1201,
+        513,
         1,
-        1205
+        1210
       ],
-      "comment": "Immortal Postman"
+      "comment": "(a holy book of punishment)"
     },
     {
-      "cmd": "M",
+      "cmd": "O",
       "args": [
         0,
-        1200,
-        1,
-        1201
-      ],
-      "comment": "Immortal Innkeeper"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        1202,
+        97,
         2,
-        1201
+        1209
       ],
-      "comment": "Wandering Spirit"
+      "comment": "(the Suggestions Board)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        98,
+        1,
+        1208
+      ],
+      "comment": "(the Builder's board)"
     },
     {
       "cmd": "M",
@@ -47,36 +47,7 @@
         2,
         1200
       ],
-      "comment": "Wandering Spirit"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        1206,
-        3096
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        3096,
-        5,
-        1206
-      ],
-      "comment": "Social Bulletin Board"
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        3097,
-        1,
-        1202
-      ],
-      "comment": "Frozen Bulletin Board"
+      "comment": "(the wandering spirit)"
     },
     {
       "cmd": "O",
@@ -86,27 +57,78 @@
         1,
         1204
       ],
-      "comment": "Immort Bulletin Board"
+      "comment": "(a holy bulletin board)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         1203,
-        3099
+        500,
+        -1
       ],
-      "comment": ""
+      "comment": "(a common board)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        500,
+        2,
+        1203
+      ],
+      "comment": "(a common board)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1201,
+        1,
+        1205
+      ],
+      "comment": "(the Immortal Postmaster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1200,
+        1,
+        1201
+      ],
+      "comment": "(the Immortal Innkeeper)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1202,
+        2,
+        1201
+      ],
+      "comment": "(the wandering spirit)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        1206,
+        3096,
+        -1
+      ],
+      "comment": "(a social bulletin board)"
     },
     {
       "cmd": "O",
       "args": [
         0,
-        3099,
-        2,
-        1203
+        3096,
+        5,
+        1206
       ],
-      "comment": "Mortal Bulletin Board"
+      "comment": "(a social bulletin board)"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/12.zon"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/12.zon"
 }

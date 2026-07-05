@@ -1,0 +1,37 @@
+{
+  "id": 3458,
+  "zone_id": 34,
+  "name": "The Catacombs",
+  "description": "Stone walls, musty air ... the earth seems to moan softly.",
+  "header_raw": "34 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3457
+    },
+    {
+      "dir": 2,
+      "description": "You see unfathomable blackness to the south ...",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3472
+    },
+    {
+      "dir": 3,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3459
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/34.wld"
+}

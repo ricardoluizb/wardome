@@ -1,0 +1,29 @@
+{
+  "id": 2216,
+  "zone_id": 22,
+  "name": "The Court Ends",
+  "description": "You have reached the end of the court.  A huge Draconian is sitting in a\nchair here.  As you enter, he motions with his hand and you are rushed by three\nof his bodyguards.",
+  "header_raw": "22 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the court.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2213
+    },
+    {
+      "dir": 1,
+      "description": "You see a private chamber.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2217
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

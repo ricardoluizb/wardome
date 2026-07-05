@@ -1,0 +1,45 @@
+{
+  "id": 17618,
+  "zone_id": 176,
+  "name": "Dirt Road",
+  "description": "You are on a dirt road.  To the east is a barn, and you see a big chicken\ncoop south of you.  The dirt road continues north and west.",
+  "header_raw": "176 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the dirt road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17668
+    },
+    {
+      "dir": 1,
+      "description": "You see the barn.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17620
+    },
+    {
+      "dir": 2,
+      "description": "You see the chicken coop.",
+      "keywords": "coop",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17619
+    },
+    {
+      "dir": 3,
+      "description": "You see the dirt road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17621
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/176.wld"
+}

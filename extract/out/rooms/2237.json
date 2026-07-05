@@ -1,0 +1,29 @@
+{
+  "id": 2237,
+  "zone_id": 22,
+  "name": "The Bridge",
+  "description": "You are walking along an old wooden bridge.  Its not that secure.  You \nmight want to hurry along.  To the south, on the other side of the bridge,\nlies a small opening.",
+  "header_raw": "22 73 2",
+  "flags_text": "73",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The tunnel end",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2236
+    },
+    {
+      "dir": 2,
+      "description": "A small opening",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2238
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

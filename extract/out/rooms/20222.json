@@ -1,0 +1,21 @@
+{
+  "id": 20222,
+  "zone_id": 202,
+  "name": "The north gate of Dimrill Dale",
+  "description": "You have reached the north gate of Dale.  The gate has been braced with every\nspare piece of metal and wood in the town.  The gate is about twenty feet tall\nand is all that stands in the way of the howling orcs, you can hear them very\nclearly right now.  Occasionally someone will come carrying some miscellaneous\nitem and wedge it into the mass already supporting the gate.",
+  "header_raw": "202 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20218
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/202.wld"
+}

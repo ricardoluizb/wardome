@@ -1,0 +1,21 @@
+{
+  "id": 25001,
+  "zone_id": 250,
+  "name": "A Mountain Path",
+  "description": "You are on a mountain path which ascends a steep mountainside.  The trail\ncurves around the mountain so that you cannot really see what lies ahead.  You\ndo sense great power though coming from the area behind the mountain.",
+  "header_raw": "250 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 25002
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/250.wld"
+}

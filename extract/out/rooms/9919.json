@@ -1,0 +1,29 @@
+{
+  "id": 9919,
+  "zone_id": 99,
+  "name": "An upstairs hallway.",
+  "description": "You are in a small upstairs hallway.  To the West is the top of \nthe stairs while to the North there lies a door, behind which you \ncan hear some faint singing... the dusky voice sounds almost feminine.",
+  "header_raw": "99 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Too dark to tell.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 9920
+    },
+    {
+      "dir": 3,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9918
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

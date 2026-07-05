@@ -1,0 +1,45 @@
+{
+  "id": 13213,
+  "zone_id": 132,
+  "name": "The Court",
+  "description": "You come upon what appears to be some sort of military assembly.  Knowing \nthat the city has one of the most powerful armies, you tremble with fear as\nthe soldiers peer at you.  You quickly notice exits in all four directions.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The Court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13216
+    },
+    {
+      "dir": 1,
+      "description": "The court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13214
+    },
+    {
+      "dir": 2,
+      "description": "the court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13210
+    },
+    {
+      "dir": 3,
+      "description": "the court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13212
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

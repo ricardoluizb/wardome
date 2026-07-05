@@ -2,13 +2,23 @@
   "id": 33,
   "name": "The Three Of Swords",
   "header": {
-    "raw": "3300 3399 30 2",
-    "min_room": 3300,
-    "top_room": 3399,
-    "lifespan": 30,
-    "reset_mode": 2
+    "raw": "3399 30 2 1",
+    "min_room": 3399,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": 1
   },
   "commands": [
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        3314,
+        1,
+        3304
+      ],
+      "comment": "(a dismembered and burnt corpse)"
+    },
     {
       "cmd": "M",
       "args": [
@@ -17,7 +27,7 @@
         2,
         3346
       ],
-      "comment": "Farmer"
+      "comment": "(the farmer)"
     },
     {
       "cmd": "M",
@@ -27,7 +37,7 @@
         2,
         3353
       ],
-      "comment": "Farmer"
+      "comment": "(the farmer)"
     },
     {
       "cmd": "M",
@@ -37,43 +47,47 @@
         1,
         3345
       ],
-      "comment": "Storekeeper"
+      "comment": "(the storekeeper)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3032,
-        1000
+        1000,
+        -1
       ],
-      "comment": "Bag"
+      "comment": "(a bag)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3037,
-        1000
+        1000,
+        -1
       ],
-      "comment": "Candle"
+      "comment": "(a candle)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3038,
-        1000
+        1000,
+        -1
       ],
-      "comment": "Nail"
+      "comment": "(a nail)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3039,
-        1000
+        1000,
+        -1
       ],
-      "comment": "Pot"
+      "comment": "(a pot)"
     },
     {
       "cmd": "M",
@@ -83,7 +97,7 @@
         1,
         3347
       ],
-      "comment": "Cowgirl"
+      "comment": "(the cowgirl)"
     },
     {
       "cmd": "M",
@@ -93,7 +107,7 @@
         4,
         3347
       ],
-      "comment": "Horse"
+      "comment": "(the horse)"
     },
     {
       "cmd": "M",
@@ -103,7 +117,7 @@
         4,
         3347
       ],
-      "comment": "Horse"
+      "comment": "(the horse)"
     },
     {
       "cmd": "M",
@@ -113,7 +127,7 @@
         4,
         3347
       ],
-      "comment": "Horse"
+      "comment": "(the horse)"
     },
     {
       "cmd": "M",
@@ -123,7 +137,7 @@
         4,
         3347
       ],
-      "comment": "Horse"
+      "comment": "(the horse)"
     },
     {
       "cmd": "M",
@@ -133,52 +147,57 @@
         1,
         3350
       ],
-      "comment": "Farmer's Wife"
+      "comment": "(the farmer's wife)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3300,
-        1000
+        1000,
+        -1
       ],
-      "comment": "Orange"
+      "comment": "(an orange)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3301,
-        1000
+        1000,
+        -1
       ],
-      "comment": "Bale Of Wheat"
+      "comment": "(a bale of wheat)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3308,
-        1000
+        1000,
+        -1
       ],
-      "comment": "Apple"
+      "comment": "(an apple)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3309,
-        1000
+        1000,
+        -1
       ],
-      "comment": "Loaf Of Bread"
+      "comment": "(a loaf of bread)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3310,
-        1000
+        1000,
+        -1
       ],
-      "comment": "Melon"
+      "comment": "(a melon)"
     },
     {
       "cmd": "M",
@@ -188,16 +207,17 @@
         1,
         3375
       ],
-      "comment": "Aglandiir"
+      "comment": "(Aglandiir)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3313,
-        5
+        5,
+        -1
       ],
-      "comment": "Short Sword"
+      "comment": "(a short sword)"
     },
     {
       "cmd": "O",
@@ -207,7 +227,7 @@
         5,
         3375
       ],
-      "comment": "Zither"
+      "comment": "(a big zither)"
     },
     {
       "cmd": "O",
@@ -217,7 +237,7 @@
         5,
         3375
       ],
-      "comment": "Barrel Of Perfume"
+      "comment": "(a barrel of perfume)"
     },
     {
       "cmd": "O",
@@ -227,7 +247,7 @@
         5,
         3375
       ],
-      "comment": "Statue"
+      "comment": "(a statue)"
     },
     {
       "cmd": "O",
@@ -237,7 +257,7 @@
         25,
         3375
       ],
-      "comment": "Halberd"
+      "comment": "(a halberd)"
     },
     {
       "cmd": "O",
@@ -247,7 +267,7 @@
         25,
         3375
       ],
-      "comment": "Potion Of Protection"
+      "comment": "(a potion of protection)"
     },
     {
       "cmd": "O",
@@ -257,7 +277,7 @@
         1,
         3375
       ],
-      "comment": "Dragon's Crown"
+      "comment": "(a dragon's crown)"
     },
     {
       "cmd": "M",
@@ -267,7 +287,7 @@
         3,
         3368
       ],
-      "comment": "Cyclops"
+      "comment": "(the Cyclops)"
     },
     {
       "cmd": "M",
@@ -277,7 +297,7 @@
         3,
         3368
       ],
-      "comment": "Cyclops"
+      "comment": "(the Cyclops)"
     },
     {
       "cmd": "M",
@@ -287,7 +307,7 @@
         3,
         3368
       ],
-      "comment": "Cyclops"
+      "comment": "(the Cyclops)"
     },
     {
       "cmd": "M",
@@ -297,7 +317,7 @@
         1,
         3357
       ],
-      "comment": "Salle"
+      "comment": "(Salle)"
     },
     {
       "cmd": "E",
@@ -307,7 +327,7 @@
         25,
         5
       ],
-      "comment": "Leather Vest"
+      "comment": "(a leather vest)"
     },
     {
       "cmd": "E",
@@ -317,7 +337,7 @@
         20,
         16
       ],
-      "comment": "Long Sword"
+      "comment": "(a long sword)"
     },
     {
       "cmd": "M",
@@ -327,7 +347,7 @@
         1,
         3330
       ],
-      "comment": "Duwick"
+      "comment": "(Duwick)"
     },
     {
       "cmd": "E",
@@ -337,7 +357,7 @@
         10,
         16
       ],
-      "comment": "Knife"
+      "comment": "(a knife)"
     },
     {
       "cmd": "M",
@@ -347,7 +367,7 @@
         1,
         3358
       ],
-      "comment": "Receptionist"
+      "comment": "(the Receptionist)"
     },
     {
       "cmd": "M",
@@ -357,7 +377,7 @@
         1,
         3356
       ],
-      "comment": "Innkeeper"
+      "comment": "(the innkeeper)"
     },
     {
       "cmd": "M",
@@ -367,7 +387,7 @@
         2,
         3349
       ],
-      "comment": "Hunter"
+      "comment": "(the hunter)"
     },
     {
       "cmd": "E",
@@ -377,7 +397,7 @@
         1000,
         16
       ],
-      "comment": "Hunting Bow"
+      "comment": "(a hunting bow)"
     },
     {
       "cmd": "M",
@@ -387,7 +407,7 @@
         2,
         3355
       ],
-      "comment": "Hunter"
+      "comment": "(the hunter)"
     },
     {
       "cmd": "E",
@@ -397,7 +417,7 @@
         1000,
         16
       ],
-      "comment": "Hunting Bow"
+      "comment": "(a hunting bow)"
     },
     {
       "cmd": "M",
@@ -407,7 +427,7 @@
         1,
         3357
       ],
-      "comment": "Waiter"
+      "comment": "(a waiter)"
     },
     {
       "cmd": "M",
@@ -417,7 +437,7 @@
         1,
         3357
       ],
-      "comment": "Waitress"
+      "comment": "(a waitress)"
     },
     {
       "cmd": "M",
@@ -427,34 +447,37 @@
         1,
         3357
       ],
-      "comment": "Bartender"
+      "comment": "(a bartender)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3319,
-        1000
+        1000,
+        -1
       ],
-      "comment": "Glass Of Beer"
+      "comment": "(a glass)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3320,
-        1000
+        1000,
+        -1
       ],
-      "comment": "Glass Of Mead"
+      "comment": "(a glass)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3321,
-        1000
+        1000,
+        -1
       ],
-      "comment": "Shot Of Whiskey"
+      "comment": "(a shot)"
     },
     {
       "cmd": "M",
@@ -464,7 +487,7 @@
         9,
         3319
       ],
-      "comment": "Bandit"
+      "comment": "(the bandit)"
     },
     {
       "cmd": "E",
@@ -474,7 +497,7 @@
         1000,
         16
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "M",
@@ -484,7 +507,7 @@
         9,
         3323
       ],
-      "comment": "Bandit"
+      "comment": "(the bandit)"
     },
     {
       "cmd": "E",
@@ -494,7 +517,7 @@
         1000,
         16
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "M",
@@ -504,7 +527,7 @@
         9,
         3325
       ],
-      "comment": "Bandit"
+      "comment": "(the bandit)"
     },
     {
       "cmd": "E",
@@ -514,7 +537,7 @@
         1000,
         16
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "M",
@@ -524,7 +547,7 @@
         9,
         3327
       ],
-      "comment": "Bandit"
+      "comment": "(the bandit)"
     },
     {
       "cmd": "E",
@@ -534,7 +557,7 @@
         1000,
         16
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "M",
@@ -544,7 +567,7 @@
         9,
         3332
       ],
-      "comment": "Bandit"
+      "comment": "(the bandit)"
     },
     {
       "cmd": "E",
@@ -554,7 +577,7 @@
         1000,
         16
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "M",
@@ -564,7 +587,7 @@
         9,
         3336
       ],
-      "comment": "Bandit"
+      "comment": "(the bandit)"
     },
     {
       "cmd": "E",
@@ -574,7 +597,7 @@
         1000,
         16
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "M",
@@ -584,7 +607,7 @@
         9,
         3339
       ],
-      "comment": "Bandit"
+      "comment": "(the bandit)"
     },
     {
       "cmd": "E",
@@ -594,7 +617,7 @@
         1000,
         16
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "M",
@@ -604,7 +627,7 @@
         9,
         3321
       ],
-      "comment": "Bandit"
+      "comment": "(the bandit)"
     },
     {
       "cmd": "E",
@@ -614,7 +637,7 @@
         1000,
         16
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "M",
@@ -624,7 +647,7 @@
         9,
         3327
       ],
-      "comment": "Bandit"
+      "comment": "(the bandit)"
     },
     {
       "cmd": "E",
@@ -634,7 +657,7 @@
         1000,
         16
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "M",
@@ -644,7 +667,7 @@
         5,
         3329
       ],
-      "comment": "Bandit Guard"
+      "comment": "(the bandit guard)"
     },
     {
       "cmd": "E",
@@ -654,7 +677,7 @@
         1000,
         16
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "M",
@@ -664,7 +687,7 @@
         5,
         3329
       ],
-      "comment": "Bandit Guard"
+      "comment": "(the bandit guard)"
     },
     {
       "cmd": "E",
@@ -674,7 +697,7 @@
         1000,
         16
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "M",
@@ -684,7 +707,7 @@
         5,
         3340
       ],
-      "comment": "Bandit Guard"
+      "comment": "(the bandit guard)"
     },
     {
       "cmd": "E",
@@ -694,7 +717,7 @@
         1000,
         16
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "M",
@@ -704,7 +727,7 @@
         5,
         3340
       ],
-      "comment": "Bandit Guard"
+      "comment": "(the bandit guard)"
     },
     {
       "cmd": "E",
@@ -714,7 +737,7 @@
         1000,
         16
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "M",
@@ -724,7 +747,7 @@
         5,
         3317
       ],
-      "comment": "Bandit Guard"
+      "comment": "(the bandit guard)"
     },
     {
       "cmd": "E",
@@ -734,7 +757,7 @@
         1000,
         16
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "M",
@@ -744,7 +767,7 @@
         2,
         3340
       ],
-      "comment": "Slave"
+      "comment": "(the slave)"
     },
     {
       "cmd": "M",
@@ -754,7 +777,7 @@
         2,
         3340
       ],
-      "comment": "Slave"
+      "comment": "(the slave)"
     },
     {
       "cmd": "M",
@@ -764,7 +787,7 @@
         2,
         3357
       ],
-      "comment": "Farmer"
+      "comment": "(the farmer)"
     },
     {
       "cmd": "M",
@@ -774,7 +797,7 @@
         2,
         3357
       ],
-      "comment": "Farmer"
+      "comment": "(the farmer)"
     },
     {
       "cmd": "M",
@@ -784,7 +807,7 @@
         1,
         3357
       ],
-      "comment": "Hunter"
+      "comment": "(the hunter)"
     },
     {
       "cmd": "E",
@@ -794,17 +817,7 @@
         1000,
         16
       ],
-      "comment": "Hunting Bow"
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        3314,
-        1,
-        3304
-      ],
-      "comment": "Corpse"
+      "comment": "(a hunting bow)"
     },
     {
       "cmd": "O",
@@ -814,7 +827,7 @@
         2,
         3323
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "O",
@@ -824,7 +837,7 @@
         2,
         3323
       ],
-      "comment": "Scimitar"
+      "comment": "(a scimitar)"
     },
     {
       "cmd": "O",
@@ -834,7 +847,7 @@
         3,
         3330
       ],
-      "comment": "Crate"
+      "comment": "(a crate)"
     },
     {
       "cmd": "O",
@@ -844,7 +857,7 @@
         3,
         3330
       ],
-      "comment": "Crate"
+      "comment": "(a crate)"
     },
     {
       "cmd": "O",
@@ -854,7 +867,7 @@
         3,
         3330
       ],
-      "comment": "Crate"
+      "comment": "(a crate)"
     },
     {
       "cmd": "D",
@@ -864,7 +877,7 @@
         0,
         1
       ],
-      "comment": ""
+      "comment": "(The End Of The Passageway)"
     },
     {
       "cmd": "D",
@@ -874,7 +887,7 @@
         2,
         1
       ],
-      "comment": ""
+      "comment": "(A Cavern)"
     },
     {
       "cmd": "D",
@@ -884,7 +897,7 @@
         1,
         1
       ],
-      "comment": ""
+      "comment": "(A Small Road)"
     },
     {
       "cmd": "D",
@@ -894,7 +907,7 @@
         3,
         1
       ],
-      "comment": ""
+      "comment": "(A Private Home)"
     },
     {
       "cmd": "D",
@@ -904,7 +917,7 @@
         2,
         1
       ],
-      "comment": ""
+      "comment": "(A Small Road)"
     },
     {
       "cmd": "D",
@@ -914,7 +927,7 @@
         0,
         1
       ],
-      "comment": ""
+      "comment": "(A Private Home)"
     },
     {
       "cmd": "D",
@@ -924,7 +937,7 @@
         0,
         1
       ],
-      "comment": ""
+      "comment": "(Main Road)"
     },
     {
       "cmd": "D",
@@ -934,8 +947,8 @@
         2,
         1
       ],
-      "comment": ""
+      "comment": "(Stanneg Inn)"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/33.zon"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/33.zon"
 }

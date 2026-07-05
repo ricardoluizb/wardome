@@ -1,0 +1,42 @@
+{
+  "id": 17323,
+  "zone_id": 173,
+  "name": "Inside the Inviting Hut",
+  "description": "You are inside an inviting hut. Around you is the comfortable interior,\ncomplete with feather bed and fireplace. A table of fresh meat and\nvegatables has been set, and on it is an ornate chalice filled with\nwine. A candle burns brightly and there is a single chair at the table",
+  "header_raw": "173 8388616 0",
+  "flags_text": "8388616",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Before an Inviting Hut",
+      "keywords": "",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17318
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "chalice",
+      "description": "On closer inspection the chalice is not the holy grail."
+    },
+    {
+      "keywords": "bed",
+      "description": "The bed looks comfortable. Inviting."
+    },
+    {
+      "keywords": "meat wine",
+      "description": "The meat is juicy, the wine has a nice dry aroma and a deep red color."
+    },
+    {
+      "keywords": "candle",
+      "description": "Its a black candle. What was that you remember about black candles? \nOh yeah, they are used by witches in black masses."
+    },
+    {
+      "keywords": "chair",
+      "description": "Why don't you sit down for a while and have a nice meal?"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

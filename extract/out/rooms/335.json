@@ -1,0 +1,34 @@
+{
+  "id": 335,
+  "zone_id": 3,
+  "name": "The ancient path",
+  "description": "The path runs north and east from here.  You notice some markers placed\nalong the side of the path.",
+  "header_raw": "3 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the ancient path winding its way north from here. Looks safe.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 334
+    },
+    {
+      "dir": 1,
+      "description": "Further ahead you see a bridge over a small creak.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 336
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "markers",
+      "description": "The markers seems like normal stones, but the way they are\narranged makes you think there is something special about them."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/3.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 5753,
+  "alias": "rat giant",
+  "short_desc": "a giant Rat",
+  "long_desc": "A Rat the size of an Alsatian leaps at you!",
+  "detailed_desc": "This huge rodent has long, pointed teeth that are discolored with dried \nblood. It lashes at you with its sharp claws and seeks to clamp its fangs\naround your neck!",
+  "flags_raw": "234 8 -400 E",
+  "stats1_raw": "20 -12 -9 1d1+2316 5d7+118",
+  "stats2_raw": "300 65430 11",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

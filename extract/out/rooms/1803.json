@@ -1,0 +1,21 @@
+{
+  "id": 1803,
+  "zone_id": 18,
+  "name": "The Big, Blue Ocean",
+  "description": "The currents are even stronger, as if your boat\nhas a mind of its own.  The fish bob there heads\nup at you, mouthing words half-intelligible.  It seems\nyou cannot go back but must follow the current.",
+  "header_raw": "18 0 8",
+  "flags_text": "0",
+  "sector": 8,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1804
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/18.wld"
+}

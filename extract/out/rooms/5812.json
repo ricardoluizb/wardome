@@ -1,0 +1,21 @@
+{
+  "id": 5812,
+  "zone_id": 57,
+  "name": "A Construction Site",
+  "description": "You have come across a construction site, where an effort is being made to\nconstruct a tunnel downwards from this passage. This in itself isn't unusual-\nwhat makes this so weird is the fact that the laborers are animated tools,\nindustrious picks, shovels and spades, working and singing merrily as they \ndo! Some of them even stop to make smalltalk with you. You may rest here as\nlong as you want, as the toosl will prevent you from any harm. However, you\ncannot attack them, as they are quite immune to your puny efforts.",
+  "header_raw": "57 13 0",
+  "flags_text": "13",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "a junction",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5810
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

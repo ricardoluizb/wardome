@@ -1,0 +1,12 @@
+{
+  "id": 725,
+  "alias": "black marketeer",
+  "short_desc": "the Black Marketeer",
+  "long_desc": "The black marketeer is here ready to sell you anything you want.",
+  "detailed_desc": "The black marketeer has set up shop in George's place to sell just what you need... Now what is it you need?",
+  "flags_raw": "10 128 -750 E",
+  "stats1_raw": "100 -40 -12 1d1+6792 5d21+90",
+  "stats2_raw": "1500 3791433 5",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

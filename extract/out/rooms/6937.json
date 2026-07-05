@@ -1,0 +1,45 @@
+{
+  "id": 6937,
+  "zone_id": 69,
+  "name": "Before the Porch",
+  "description": "You are now before a porch, which is north of you through the glass doors.\nThe glass looks to be scratched, and the porch is very tiny.  There is a closet\nto the east through another door, and a dark hallway heads south of here.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "glass door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6955
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6938
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6939
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6936
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

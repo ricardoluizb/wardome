@@ -1,0 +1,33 @@
+{
+  "id": 32605,
+  "producing": [
+    32600,
+    32601,
+    32602
+  ],
+  "profit_buy": 2.0,
+  "profit_sell": 1.0,
+  "buy_types": [],
+  "messages": [
+    "%s Can you really see that here? Show me where.",
+    "%s Are you sure you have that?",
+    "%s That's useless to me! Get lost!",
+    "%s I'm not a bank... This is too expansive.",
+    "%s Did you forget your money at home today?",
+    "%s That'll be %d coins, thanks.",
+    "%s I'll give you %d coins for that, sweetie"
+  ],
+  "tail": [
+    0,
+    0,
+    32600,
+    2,
+    32605,
+    -1,
+    0,
+    28,
+    0,
+    0
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/326.shp"
+}

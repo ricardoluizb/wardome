@@ -3,8 +3,8 @@
   "zone_id": 72,
   "name": "The Very Small Room",
   "description": "You are in a very small room, it is pretty uninteresting.",
-  "header_raw": "72 ad 3",
-  "flags_text": "ad",
+  "header_raw": "72 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

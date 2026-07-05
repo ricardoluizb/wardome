@@ -1,0 +1,37 @@
+{
+  "id": 12332,
+  "zone_id": 122,
+  "name": "The Fields of Valhalla",
+  "description": "The bloodsoaked snowfields echo with the clash of sword on shield and the\ncries of men in the midst of bloodlust rages, intent on slaughtering each\nother, preparing for Ragnarok, when they will be led in final battle against\nthe giants. Every day, at dawn, their spirits arise from the halls of\nValhalla, where they are brought by the Valkyries, and they do battle with\neach other till the sun sets, when they rest and engage in revelry.",
+  "header_raw": "122 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12331
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12333
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12329
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 8133,
+  "alias": "serpent",
+  "short_desc": "the serpent",
+  "long_desc": "A great serpent slithers through the caverns, ignoring you.",
+  "detailed_desc": "For a little while you fear poison, but this snake looks about\nas harmless as any forty-five-foot reptile can.\nPerhaps this serpent lives off the carcasses of those killed by\nthese goblins.",
+  "flags_raw": "12 1024 0 E",
+  "stats1_raw": "153 -78 -29 1d1+17748 5d46+170",
+  "stats2_raw": "2295 17369806 11",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

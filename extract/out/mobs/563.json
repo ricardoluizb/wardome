@@ -1,0 +1,12 @@
+{
+  "id": 563,
+  "alias": "mercenary",
+  "short_desc": "the mercenary",
+  "long_desc": "A mercenary is waiting for a job here.",
+  "detailed_desc": "He looks pretty mean, and you imagine he'd do anything for money.",
+  "flags_raw": "2058 0 0 E",
+  "stats1_raw": "0 0 0 0d0+-330 45d-2+3",
+  "stats2_raw": "1 1 945",
+  "stats3_raw": "5 5 19 -26 112",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/5.mob"
+}

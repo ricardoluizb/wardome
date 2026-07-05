@@ -1,0 +1,21 @@
+{
+  "id": 1111,
+  "zone_id": 11,
+  "name": "Thain's Office",
+  "description": "You stand inside the office of the Thain, the police protectorate of the\ngreat Shire.  The Thain has sworn to protect the Shire from all thieves and\nmurderers with his life, and so eyes you suspiciously.  A door to the west\nleads to the Shiriff Post.",
+  "header_raw": "11 88 0",
+  "flags_text": "88",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "A door offers passage to the Shiriff Post.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 1110
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

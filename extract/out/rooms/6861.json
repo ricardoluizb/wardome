@@ -1,0 +1,29 @@
+{
+  "id": 6861,
+  "zone_id": 67,
+  "name": "Along the town wall",
+  "description": "You follow the thick wall of grey cobblestone that marks the\nouter border of Sundhaven. Moss, nourished by frequent rainfall,\nhides portions of the wall under its green tendrils. A stony\npath can be made out to the north, and the wall makes its way\nsouthwards to a corner.",
+  "header_raw": "67 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6860
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6862
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

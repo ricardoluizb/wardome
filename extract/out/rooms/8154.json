@@ -1,0 +1,21 @@
+{
+  "id": 8154,
+  "zone_id": 81,
+  "name": "A Small Storeroom",
+  "description": "You are not sure what is stored in this room, but there are plenty of\ncrude chests to open. Many appear to be of dwarven make; plunder, no\ndoubt.",
+  "header_raw": "81 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "A black door leads back west.",
+      "keywords": "door black",
+      "door_flag": 2,
+      "key": 8105,
+      "to": 8153
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "The End Of The Maze",
   "description": "You have solved the maze.  You can tell by the last few moves\nthat there is no way that a dumb worker could have figured that\nout.  It seems pretty desolate here.  To the south is a bleak\nroom.  To the north, you see the maze.  There is a sign above\nthe south exit:\n\nTHOSE WHO ENTER, PLAN ON A TIMELY DEATH.\n(ESPECIALLY IF YOU'RE LOYAL TO THE QUEEN)",
-  "header_raw": "65 ad 0",
-  "flags_text": "ad",
+  "header_raw": "65 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

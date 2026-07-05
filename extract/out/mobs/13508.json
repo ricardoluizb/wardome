@@ -1,0 +1,12 @@
+{
+  "id": 13508,
+  "alias": "slime blob",
+  "short_desc": "the green slime",
+  "long_desc": "A blob of green slime drops upon you!",
+  "detailed_desc": "It looks like animated mucous, dissolving and eating all it touches.",
+  "flags_raw": "42 0 2 E",
+  "stats1_raw": "20 -8 -6 1d1+1992 5d5+98",
+  "stats2_raw": "300 56083 9",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/135.mob"
+}

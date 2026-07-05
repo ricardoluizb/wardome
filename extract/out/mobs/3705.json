@@ -1,0 +1,12 @@
+{
+  "id": 3705,
+  "alias": "oldstyle zombie",
+  "short_desc": "the rotting zombie",
+  "long_desc": "A rotting zombie is staggering towards you with outstretched hands.",
+  "detailed_desc": "Maggots crawl all over its decaying body.",
+  "flags_raw": "175624 1024 -750 E",
+  "stats1_raw": "110 -41 -11 1d1+5712 5d12+74",
+  "stats2_raw": "1650 4788749 3",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/37.mob"
+}

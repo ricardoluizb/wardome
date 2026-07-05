@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "A Small Clearing",
   "description": "You are in a small clearing in the shadow grove.  There is charred grass\nunderfoot, and the signs of fire here and there.  It is almost as if the\nplant life shuns this spot.  The shadowy mist hovers all around, obscuring\nyour view into the grove.\n   A small path leads north to some shadowy structure.  All other exits are\nshrouded in shadowy mist.",
-  "header_raw": "25 ag 3",
-  "flags_text": "ag",
+  "header_raw": "25 16777281 3",
+  "flags_text": "16777281",
   "sector": 3,
   "exits": [
     {

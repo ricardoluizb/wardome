@@ -1,0 +1,29 @@
+{
+  "id": 9119,
+  "zone_id": 91,
+  "name": "Treacherous Cliff.",
+  "description": "The cliff is rocky and difficult to negotiate.  One wrong slip and\nyou could fall and break a leg or impale yourself or something else\nnasty.",
+  "header_raw": "91 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9118
+    },
+    {
+      "dir": 4,
+      "description": "Above you is an almost vertical cliff.  It looks dangerous but\nclimbable.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9120
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 2142,
+  "zone_id": 21,
+  "name": "The Throne Room",
+  "description": "King Relnar's throne sits here, empty.  There are rooms to the east and\nwest.",
+  "header_raw": "21 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2143
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2139
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2141
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "secret",
+      "door_flag": 1,
+      "key": 2101,
+      "to": 2144
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/21.wld"
+}

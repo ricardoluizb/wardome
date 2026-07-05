@@ -1,0 +1,21 @@
+{
+  "id": 14379,
+  "zone_id": 143,
+  "name": "The Tomb of the Great Pharaoh Ramses",
+  "description": "The walls of this room are entirely coated with gold. A large emerald coffin\nhas been set into the floor, and the lid is laying on the ground next to it.\nSeveral everyday items have been left here, such as a washing basin and a bed,\nso that Ramses could take them with him into the afterlife.",
+  "header_raw": "143 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "It is too dark to see there.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14378
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

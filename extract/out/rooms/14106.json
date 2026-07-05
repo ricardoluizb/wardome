@@ -1,0 +1,21 @@
+{
+  "id": 14106,
+  "zone_id": 141,
+  "name": "Stables",
+  "description": "This is the stables for the shepherd.  There are many fine horses\nhere.  You can return to the barn in to the south.",
+  "header_raw": "141 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The front part of the barn is to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14107
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

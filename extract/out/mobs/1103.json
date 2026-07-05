@@ -1,0 +1,12 @@
+{
+  "id": 1103,
+  "alias": "toddler",
+  "short_desc": "a toddler",
+  "long_desc": "A toddler crawls about, looking for something to chew on.",
+  "detailed_desc": "The toddler is dressed in nothing but his birthday suit.  He crawls about\nfor he hasn't learned to walk yet.  He peers up at you and asks \"da da?\"",
+  "flags_raw": "138 0 100 E",
+  "stats1_raw": "90 -29 -6 1d1+3960 5d10+56",
+  "stats2_raw": "1350 2658738 2",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/11.mob"
+}

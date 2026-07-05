@@ -1,0 +1,21 @@
+{
+  "id": 20550,
+  "zone_id": 205,
+  "name": "Ovulate Room",
+  "description": "Many Eggs are spread here, throbbing ...",
+  "header_raw": "205 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20548
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/205.wld"
+}

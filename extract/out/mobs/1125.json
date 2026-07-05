@@ -1,0 +1,12 @@
+{
+  "id": 1125,
+  "alias": "oldstyle halfling beauty",
+  "short_desc": "a halfling beauty",
+  "long_desc": "A halfling beauty stares dreamily into your eyes.",
+  "detailed_desc": "She is the most beautiful creature you've seen in quite some time.  As you\nstare at her, thoughts of all else vanish.  You get the sudden urge to grovel\nat her feet, hoping she'll take you in like a lost puppy.  You wouldn't dare\nharm a hair on her precious little head.",
+  "flags_raw": "10 0 1000 E",
+  "stats1_raw": "100 -34 -8 1d1+4392 5d11+60",
+  "stats2_raw": "1500 3589522 2",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/11.mob"
+}

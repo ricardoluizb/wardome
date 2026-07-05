@@ -1,0 +1,29 @@
+{
+  "id": 2360,
+  "zone_id": 23,
+  "name": "The edge of the frigid wastes",
+  "description": "You stand at the base of a steep rocky cliff. To the north, a vast arctic\nwasteland stretches out. The snow falls lightly here and the wind is not\nvery fierce. You can climb up the rocky cliff or head north into the arctic\nwastes.",
+  "header_raw": "23 4 5",
+  "flags_text": "4",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2358
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2361
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

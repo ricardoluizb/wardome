@@ -1,0 +1,29 @@
+{
+  "id": 13104,
+  "zone_id": 131,
+  "name": "Ceremonial Gardens",
+  "description": "You find yourself in a brightly lit room.  All around you are flowers and\nwild herbs.  A message scribbled on the wall tells you that this is where the\nwarriors prepared gifts for their sick companions.",
+  "header_raw": "131 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "North of you is the entrance hall of the temple.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13103
+    },
+    {
+      "dir": 1,
+      "description": "East of you is another room in the temple.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13105
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/131.wld"
+}

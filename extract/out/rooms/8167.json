@@ -1,0 +1,29 @@
+{
+  "id": 8167,
+  "zone_id": 81,
+  "name": "A Glowing Hallway in Goblin-Town",
+  "description": "Hurry up! That hulking shadow nearby to the south might not have seen \nyou running through the halls, but you probably won't get through \nunnoticed.",
+  "header_raw": "81 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The walls seem to crackle in horror, casting a flashing light.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8165
+    },
+    {
+      "dir": 2,
+      "description": "This leads to a large stone-hewn hall, crammed with goblins and worse.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8168
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

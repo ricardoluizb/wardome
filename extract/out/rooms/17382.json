@@ -1,0 +1,37 @@
+{
+  "id": 17382,
+  "zone_id": 173,
+  "name": "The Rolling Hills",
+  "description": "You have spent the day travelling a road through the rolling hills north of\nCamelot. You have gone through several villages. The people you have met \nare generally a happy lot. You presently stand at a crossroads. To the \nnorth, the road continues through the rolling hills. To the east the road \ngoes into a grassy plain. To the south the road goes to Camelot.",
+  "header_raw": "173 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The rolling hills",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17383
+    },
+    {
+      "dir": 1,
+      "description": "The grassy plain",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17384
+    },
+    {
+      "dir": 2,
+      "description": "A winding road",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17356
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

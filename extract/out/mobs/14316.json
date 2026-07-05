@@ -1,0 +1,12 @@
+{
+  "id": 14316,
+  "alias": "mob skeleton slave",
+  "short_desc": "the skeleton of a slave",
+  "long_desc": "A skeleton of a slave is standing here, waiting to do the pharaoh's bidding.",
+  "detailed_desc": "No skin remains on this long-dead, animated corpse. He carries only a long\nsword, but supernatural forces which have raised him from the dead seem to have\ngiven him incredible strength.",
+  "flags_raw": "42 8 0 E",
+  "stats1_raw": "59 -27 -12 1d1+5892 5d11+112",
+  "stats2_raw": "885 989156 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/143.mob"
+}

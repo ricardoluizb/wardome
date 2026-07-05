@@ -1,0 +1,12 @@
+{
+  "id": 1615,
+  "alias": "lesser golem",
+  "short_desc": "a lesser golem",
+  "long_desc": "A lesser Golem stands guarding the entrance.",
+  "detailed_desc": "The golem appears to be made of some kind of clay, enchanted to come to life!",
+  "flags_raw": "1228906 1149240480 0 E",
+  "stats1_raw": "180 -92 -33 1d1+20880 5d55+182",
+  "stats2_raw": "2700 27866274 11",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/16.mob"
+}

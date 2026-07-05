@@ -1,0 +1,12 @@
+{
+  "id": 3804,
+  "alias": "rat",
+  "short_desc": "a rat",
+  "long_desc": "A rat scurries around.",
+  "detailed_desc": "This rat is about average size, with average size teeth and average size claws.",
+  "flags_raw": "232 32768 -200 E",
+  "stats1_raw": "10 15 8 1d1+207 5d2+4",
+  "stats2_raw": "150 7126 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/38.mob"
+}

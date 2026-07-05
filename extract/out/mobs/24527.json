@@ -1,0 +1,12 @@
+{
+  "id": 24527,
+  "alias": "murderer",
+  "short_desc": "the murderer",
+  "long_desc": "A murderer is here to slit your throat.",
+  "detailed_desc": "You have evaded the murder's notice. He\nis dressed in rags and carries a bloody\nknife.",
+  "flags_raw": "106 1024 -800 E",
+  "stats1_raw": "120 -44 -11 1d1+5280 5d13+68",
+  "stats2_raw": "1800 6053860 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/245.mob"
+}

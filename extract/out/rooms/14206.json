@@ -1,0 +1,21 @@
+{
+  "id": 14206,
+  "zone_id": 141,
+  "name": "The Boatseller",
+  "description": "This is the shop where you can purchase vehicles to cross the\nsea.",
+  "header_raw": "141 65 0",
+  "flags_text": "65",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14207
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Library",
   "description": "This building holds the vast collection of books and documents\nthat have been brought here by the commitee apointed to recover the\nlost knowledge of Thalos.  Rows of shelves filled with book in every\ncondition line the walls.  The air has the aroma of old parchment\nand glue.",
-  "header_raw": "54 df 0",
-  "flags_text": "df",
+  "header_raw": "54 40 0",
+  "flags_text": "40",
   "sector": 0,
   "exits": [
     {

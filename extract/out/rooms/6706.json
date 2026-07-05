@@ -1,0 +1,21 @@
+{
+  "id": 6706,
+  "zone_id": 67,
+  "name": "The temple garden",
+  "description": "An impressionistic splash of red, black and gold meets the eye,\naccompanied by the intoxicating fragrance of roses growing nearly wild\nin this garden.",
+  "header_raw": "67 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6700
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 8126,
+  "alias": "hobbit",
+  "short_desc": "a hobbit landowner",
+  "long_desc": "A fine, fat and gentle hobbit swaggers around, whistling merrily.",
+  "detailed_desc": "There aren't too many hobbits living in Lonoya, and he is most likely a\nvisitor from the Shire.",
+  "flags_raw": "200 0 400 E",
+  "stats1_raw": "150 -77 -29 1d1+17400 5d46+170",
+  "stats2_raw": "2250 16400210 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5751,
+  "zone_id": 57,
+  "name": "A Cell",
+  "description": "Eeyew! This foul place obviously serves as a combined garbage room/prison\ncell, for several skeletons manacled to the walls are half-buried in all\nmanner of disgusting refuse that has been hurled into here by the Orcs.\nJust looking at the evil mess makes you want to vomit, and by the looks of\nit you haven't been the first to so react...",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "a corridor",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5750
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

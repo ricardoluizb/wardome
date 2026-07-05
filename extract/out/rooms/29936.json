@@ -1,0 +1,29 @@
+{
+  "id": 29936,
+  "zone_id": 298,
+  "name": "The companion's pavilion",
+  "description": "A pavilion made of a soft green cloth surrounds you.  This is an obviously\ntemporary place, but whoever stays here must be very important!  There are\nseveral soft couches arrayed about the room.  One of them is curiously short.\nThe cloth tent parts at the northern side - you can see another room to the\npavilion just beyond it.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29937
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29935
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

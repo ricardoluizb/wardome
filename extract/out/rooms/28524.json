@@ -1,0 +1,29 @@
+{
+  "id": 28524,
+  "zone_id": 285,
+  "name": "The Hallway",
+  "description": "You are in a great hall. Huge torches light the room and their light \nshimmers off the marble floor below you. To the north, you see a huge \ngolden throne. Looking up, you grow dizzy at the height to which the \nvaulted ceiling rises. The hall itself leads north and west.",
+  "header_raw": "285 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28523
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28522
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/285.wld"
+}

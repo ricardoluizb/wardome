@@ -2,7 +2,7 @@
   "id": 6000,
   "zone_id": 60,
   "name": "The Edge Of The Forest",
-  "description": "You are standing at the end of a dusty road, near the eastern edge of the\nlarge forest of Haon-Dor.  To the east you see the road heading back to the\nwalled city, Midgaard, and to the west is a narrow trail leading through the\nforest.",
+  "description": "You are standing at the end of a dusty road, near the eastern edge of the\nlarge forest of Haon-Dor.  To the east you see the road heading back to the\nwalled city, WarDome City, and to the west is a narrow trail leading through the\nforest.",
   "header_raw": "60 0 2",
   "flags_text": "0",
   "sector": 2,
@@ -14,6 +14,14 @@
       "door_flag": 0,
       "key": -1,
       "to": 6090
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "rock",
+      "door_flag": 1,
+      "key": 0,
+      "to": 2900
     },
     {
       "dir": 3,

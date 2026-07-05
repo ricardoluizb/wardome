@@ -1,0 +1,29 @@
+{
+  "id": 6610,
+  "zone_id": 66,
+  "name": "On the left side of the Mansion",
+  "description": "You are in the top-left of the Mansion.\nHere is dark! But monotonous.\nJust get out of here.",
+  "header_raw": "66 64 2",
+  "flags_text": "64",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6609
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6611
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/66.wld"
+}

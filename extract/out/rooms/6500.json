@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "The Path To The Dwarven Village",
   "description": "You are walking down a path that leads to the dwarven village.  Above\nyou, you can see the Turning Point, and to the north the path continues \ntoward the mountains.",
-  "header_raw": "65 c 2",
-  "flags_text": "c",
+  "header_raw": "65 16777220 2",
+  "flags_text": "16777220",
   "sector": 2,
   "exits": [
     {

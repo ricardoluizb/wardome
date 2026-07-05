@@ -1,0 +1,53 @@
+{
+  "id": 2906,
+  "zone_id": 29,
+  "name": "Entrance to the mountain",
+  "description": "The smoke comes from inside the hole.  It also looks like there is a path\nthat leads down.",
+  "header_raw": "29 4 4",
+  "flags_text": "4",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the top of the mountain to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2905
+    },
+    {
+      "dir": 1,
+      "description": "You see the top of the mountain to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2907
+    },
+    {
+      "dir": 2,
+      "description": "You see the top of the mountain to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2909
+    },
+    {
+      "dir": 3,
+      "description": "You see the top of the mountain to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2908
+    },
+    {
+      "dir": 5,
+      "description": "You can see down inside the mountain.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2910
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/29.wld"
+}

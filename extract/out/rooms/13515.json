@@ -1,0 +1,37 @@
+{
+  "id": 13515,
+  "zone_id": 135,
+  "name": "A Wooden Bridge",
+  "description": "The wood here is old and acid eaten, similar to the rest of the\nbridge. The deadly stalagmites jut up from below and more of the green\nand yellow light can be seen to move in the mists below.  The bridge\nends at a small plateau to the east.",
+  "header_raw": "135 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see the bridge meet the end of the cavern.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13526
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13514
+    },
+    {
+      "dir": 5,
+      "description": "The stalagmites look up menacingly at you.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13516
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

@@ -4,9 +4,9 @@
   "short_desc": "the dockworker",
   "long_desc": "A strong dockworker walks by moving crates.",
   "detailed_desc": "Although seemingly dull witted, this hulking mass carries the huge\ncrates from the boats like it was a box of lilies.",
-  "flags_raw": "g 0 0 S",
-  "stats1_raw": "12 9 20 3d5+65 1d8+5",
-  "stats2_raw": "1 550",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "72 0 0 E",
+  "stats1_raw": "12 14 8 1d1+252 5d2+4",
+  "stats2_raw": "180 10839 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

@@ -1,0 +1,29 @@
+{
+  "id": 5739,
+  "zone_id": 57,
+  "name": "A Guard Post",
+  "description": "After a short distance, the westward passage that you are following bends to\nthe north. At the bend there is a small niche in the wall, just large enough\nfor a medium-sized humanoid to stand in. A stone stool is in this niche, as\nis a half-drunk flagon of some unknown alcohol, and you (correctly) assume \nthat this alcove is used as a sentry post. Its inebriated occupant may be\naround, so keep alert.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a corridor",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5740
+    },
+    {
+      "dir": 1,
+      "description": "inside the mountain",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5736
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 8218,
+  "zone_id": 82,
+  "name": "Eastern Aisle",
+  "description": "You are in the easthern aisle of Notre Dame, you stheal see many wood benches\nand in the stained-glass window you see represented the crucify of Chriest.\nIn the aisle you see a note that says \"Dont forget to give te tithe\"",
+  "header_raw": "82 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8217
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8223
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8219
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 13007,
+  "zone_id": 130,
+  "name": "The Cemitery",
+  "description": "You are inside the cemitery, you see a lots of graves here.\nTo the East you see graves, to the west you see graves,\ngraves, graves, graves.... oh! oh! You are lost!!!!",
+  "header_raw": "130 224 4",
+  "flags_text": "224",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13007
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13008
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13009
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13010
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

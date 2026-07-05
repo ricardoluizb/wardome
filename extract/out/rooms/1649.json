@@ -1,0 +1,29 @@
+{
+  "id": 1649,
+  "zone_id": 16,
+  "name": "On the Catwalk",
+  "description": "You are outdoors on a catwalk between the turrets of the eastern and\nwestern towers.  There is a 40 foot drop to the north and south.  You have\na fabulous view of the surrounding countryside, which consists of a bleak\nwilderness.  At the east end of the catwalk is a small opening leading\ninside the eastern turret.  At the western end, a strange mirror-like portal\nleads into the western turret.",
+  "header_raw": "16 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1648
+    },
+    {
+      "dir": 3,
+      "description": "A mirror-like portal glimmers, allowing entry into the western turret.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1650
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

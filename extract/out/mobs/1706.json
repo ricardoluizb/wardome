@@ -1,0 +1,12 @@
+{
+  "id": 1706,
+  "alias": "ranger",
+  "short_desc": "a ranger",
+  "long_desc": "A grim ranger reclines at a table.",
+  "detailed_desc": "The years of wanderings have left the ranger hardened and strong.",
+  "flags_raw": "76 8 200 E",
+  "stats1_raw": "193 -96 -48 1d1+20844 5d58+176",
+  "stats2_raw": "2895 31226804 10",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/16.mob"
+}

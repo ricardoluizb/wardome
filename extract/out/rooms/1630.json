@@ -1,0 +1,21 @@
+{
+  "id": 1630,
+  "zone_id": 16,
+  "name": "Art Gallery",
+  "description": "You are in the ruined remains of an art gallery. Everything appears to\nhave been stolen long ago, however.  The only exit is north.",
+  "header_raw": "16 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1626
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

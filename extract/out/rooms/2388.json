@@ -1,0 +1,54 @@
+{
+  "id": 2388,
+  "zone_id": 23,
+  "name": "The guarded hall",
+  "description": "You walk down a torch lit hallway. It has been carved out of pure stone. It is\nvery quiet in this hall. You notice rows of colored doors on each wall. To\nyour east, you see a &mpurple&n door. To your west, you see a &Rred&n door. The hall\nitself leads south and north.",
+  "header_raw": "23 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2387
+    },
+    {
+      "dir": 1,
+      "description": "You see a &mpurple&n door there.",
+      "keywords": "door purple",
+      "door_flag": 2,
+      "key": 2352,
+      "to": 2373
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2389
+    },
+    {
+      "dir": 3,
+      "description": "You see a &Rred&n door there.",
+      "keywords": "door red",
+      "door_flag": 2,
+      "key": 2351,
+      "to": 2372
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "red",
+      "description": "You see a red door. It has the name \"Gorak\" written on it."
+    },
+    {
+      "keywords": "yellow",
+      "description": "You see a yellow door. It has the name \"Sumaron\" written on it."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

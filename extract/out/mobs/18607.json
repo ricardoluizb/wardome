@@ -4,9 +4,9 @@
   "short_desc": "the zombiefied newbie",
   "long_desc": "A VERY gaunt looking newbie... it looks like a zombie!",
   "detailed_desc": "This guy has been lost in here too long... it is more zombie than man\nnow.  You would feel sorry for it, but it is moving in to attack!",
-  "flags_raw": "100 0 -500 S",
-  "stats1_raw": "4 17 5 1d8+46 2d4+0",
-  "stats2_raw": "300 600",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "108 0 -500 E",
+  "stats1_raw": "3 19 9 1d1+63 5d1+0",
+  "stats2_raw": "45 669 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/186.mob"
 }

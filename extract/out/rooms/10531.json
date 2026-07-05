@@ -1,0 +1,21 @@
+{
+  "id": 10531,
+  "zone_id": 104,
+  "name": "Hell's Kitchen",
+  "description": "Welcome to Hell's kitchen, where everything is delicious....you just can't\nhave any....This is where the many foods of the world of Farside are made.\nThe chefs are usually very busy, but they always have extra time to torture\na guest....\nTo the east is a courtyard.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see an abandon courtyard.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10532
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

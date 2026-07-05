@@ -1,0 +1,29 @@
+{
+  "id": 22018,
+  "zone_id": 220,
+  "name": "A tight cavern",
+  "description": "The cavern keeps going north, and keeps getting tighter and tighter.\nThis tunnel might have been caused by an underground earthquake.",
+  "header_raw": "220 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22019
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22017
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/220.wld"
+}

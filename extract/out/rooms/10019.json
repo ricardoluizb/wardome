@@ -1,0 +1,21 @@
+{
+  "id": 10019,
+  "zone_id": 100,
+  "name": "Balcony",
+  "description": "The balcony is roughly twenty feet wide, the floor extending roughly ten\nfeet out into the open air.  The forest below you, still dark and mysterious as\nwhen you were in the thick of it, seems to waver and fade in and out of focus\nwith the faint mist that clings to the treetops.  There are no chairs or any\nother types of furniture here, only a wide open stretch of stone flooring.  \nYou may exit back into the Feasting Chamber, just north of here.",
+  "header_raw": "100 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10018
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/100.wld"
+}

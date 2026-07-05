@@ -1,0 +1,37 @@
+{
+  "id": 14207,
+  "zone_id": 141,
+  "name": "Sacrifice Street",
+  "description": "This Street goes from east to west.  To the west is a shop and to\nthe south is a home.",
+  "header_raw": "141 65 0",
+  "flags_text": "65",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14208
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14211
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14206
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

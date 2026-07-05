@@ -1,0 +1,21 @@
+{
+  "id": 30039,
+  "zone_id": 300,
+  "name": "The guest quarters",
+  "description": "These are the guests quarters for visitors to the tower.  The beds are very\ncomfortable and look like they could provide you with a very good night's\n(perhaps day's) sleep.  These rooms have a warm feeling about them which puts\nyou right at ease.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30037
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

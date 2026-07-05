@@ -1,0 +1,34 @@
+{
+  "id": 14116,
+  "zone_id": 141,
+  "name": "Library",
+  "description": "This is an amazing HUGE library.  Its musty smell, and the\ncollapsed bookshelf to your north, tell you that it also must be\nancient.  In any case you can't get out of the Library (remember\nthe collapsed shelves?) so just pick a book and start reading. \nThe stacks continue to the east and west.",
+  "header_raw": "141 72 0",
+  "flags_text": "72",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14117
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14136
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "book books shelves",
+      "description": "These shelves deal with the fascinating letter A.  Among the more\ninteresting books are, \"Andersen's tips on Area Building.\"  \"The\nArt of Spamming\" and  \"Axes and You.\""
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

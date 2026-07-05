@@ -1,0 +1,45 @@
+{
+  "id": 9718,
+  "zone_id": 97,
+  "name": "Dungeon",
+  "description": "You are in Zeus's Dungeon.  There are cells to the north, west, and east. \nFrom the east and west, you hear guttural noises.  From the north, nothing ...",
+  "header_raw": "97 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 9727,
+      "to": 9719
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 9727,
+      "to": 9721
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9717
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 9727,
+      "to": 9720
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/97.wld"
+}

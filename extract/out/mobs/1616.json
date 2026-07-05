@@ -1,0 +1,12 @@
+{
+  "id": 1616,
+  "alias": "ancient wyvern",
+  "short_desc": "the ancient wyvern",
+  "long_desc": "An enormous, ancient wyvern stares down at your tiny form...",
+  "detailed_desc": "It thunders loudly 'I must protect my Master's wealth!'",
+  "flags_raw": "516204 1620051112 -1000 E",
+  "stats1_raw": "200 -102 -36 1d1+23196 5d61+190",
+  "stats2_raw": "3000 37901254 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/16.mob"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 14303,
+  "producing": [
+    14300,
+    14302,
+    14305
+  ],
+  "profit_buy": 40.0,
+  "profit_sell": 0.8,
+  "buy_types": [
+    "5",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "messages": [
+    "%s Sorry I haven't got that exact item right now come back later.",
+    "%s You don't have that on you that I can see.",
+    "%s I don't buy those. Stop wasting my time.",
+    "%s That's too expensive for me! Do I look like a noble to you?",
+    "%s You know you can't afford that. Quit wasting my time.",
+    "%s That will be %d coins, please.",
+    "%s I'll give you %d coins for that. Not a cent more!"
+  ],
+  "tail": [
+    0,
+    0,
+    14303,
+    0,
+    14314,
+    -1,
+    6,
+    23,
+    23,
+    24
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/143.shp"
+}

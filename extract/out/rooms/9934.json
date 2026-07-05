@@ -1,0 +1,37 @@
+{
+  "id": 9934,
+  "zone_id": 99,
+  "name": "Inside the cave entrance.",
+  "description": "You are standing inside the cave entrance, where a strong smell of \nsulfur makes you gag.  Large stone steps lead back downward to where \na labyrinth of bodies can be seen.  A steady stream of blood seems \nto be trickling from somewhere up north, where a sound similar to a \ngiant bellows can be heard.",
+  "header_raw": "99 5 0",
+  "flags_text": "5",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Eaten to death.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9935
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "grotto",
+      "door_flag": 1,
+      "key": -1,
+      "to": 9938
+    },
+    {
+      "dir": 5,
+      "description": "The mouth of a large cave.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9933
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

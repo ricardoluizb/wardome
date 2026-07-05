@@ -1,0 +1,12 @@
+{
+  "id": 5747,
+  "alias": "old man wererat",
+  "short_desc": "an old man who is a Wererat",
+  "long_desc": "An old man standing here gradually transforms into a wererat!",
+  "detailed_desc": "This seemingly harmless old coot is actually a powerful lycanthrope, who \nwill not hesitate to kill you if you threaten him.",
+  "flags_raw": "78 8360 0 E",
+  "stats1_raw": "40 -22 -12 1d1+4632 5d13+126",
+  "stats2_raw": "600 398410 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

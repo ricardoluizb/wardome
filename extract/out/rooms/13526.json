@@ -1,0 +1,37 @@
+{
+  "id": 13526,
+  "zone_id": 135,
+  "name": "The End Of The Stomach",
+  "description": "The wooden bridge ends here, on a large plateau above the cavern\nfloor. The plateau overlooks the entire forest of acid and stone\nbelow.  A tunnel set in the cavern wall to the east has been shored up\nwith a wall of plaster and bones.  Two very large skull-knobbed doors\nhave been set in it.",
+  "header_raw": "135 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see a huge set of doors fashioned from bones.",
+      "keywords": "door doors skull",
+      "door_flag": 1,
+      "key": 13518,
+      "to": 13556
+    },
+    {
+      "dir": 3,
+      "description": "You see the wooden bridge.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13515
+    },
+    {
+      "dir": 5,
+      "description": "You see a steep climb down to the cavern floor.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13522
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

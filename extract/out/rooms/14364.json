@@ -1,0 +1,21 @@
+{
+  "id": 14364,
+  "zone_id": 143,
+  "name": "Aelphia's Tomb",
+  "description": "This room hangs heavy with the stench of old perfumes. Several dried grain\nhusks adorn the walls, and a coffin of solid marble has been set into the\nfloor. This is the burial chamber of Aelphia, most favored wife of Tutankahmen\nDuring her life she was a symbol of livelihood and fertility to the Egyptian\npeople as she bore Tutankahmen many children.",
+  "header_raw": "143 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "It is too dark to see.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14362
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

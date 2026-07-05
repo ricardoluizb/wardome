@@ -1,0 +1,29 @@
+{
+  "id": 166,
+  "zone_id": 1,
+  "name": "Dark and Sinister Forest",
+  "description": "The forest around you seems dead, all the trees and their branches seem\nwithered and brittle.  Strangely enough, with all the lingering death around\nyou, there seems to be a great deal of movement around you, but always out of\nthe corner of your eye.  Always just out of sight.  The cliff face makes an\nabrupt turn here, curving itself north and east, running along your south and\nwest sides.  It looks as if this forest may be completely enclosed by this\nstrange rock formation.",
+  "header_raw": "1 1 3",
+  "flags_text": "1",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 165
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 153
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/1.wld"
+}

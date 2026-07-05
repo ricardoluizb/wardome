@@ -1,0 +1,37 @@
+{
+  "id": 704,
+  "zone_id": 7,
+  "name": "Center Road, East",
+  "description": "This road is very busy with traffic.  It seems that all the\ncitizens of Kerofk are here, bustling and jostling each other in an\nattempt to get all they have to do done as fast as possible.  Bump Oof\nExcuse Me!  There is a Mage's Guild to the north.",
+  "header_raw": "7 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 749
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 705
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 702
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

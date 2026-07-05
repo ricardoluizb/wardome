@@ -1,0 +1,37 @@
+{
+  "id": 24552,
+  "zone_id": 245,
+  "name": "The many waters",
+  "description": "You are on a vast sea of blood. Vultures soar in the red sky in search of\ncarrion. Wreckage of many ships litters the waters, an ill omen indeed.",
+  "header_raw": "245 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "More blood",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24566
+    },
+    {
+      "dir": 1,
+      "description": "More blood",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24553
+    },
+    {
+      "dir": 2,
+      "description": "More blood",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24538
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/245.wld"
+}

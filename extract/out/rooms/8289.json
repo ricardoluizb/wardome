@@ -1,0 +1,29 @@
+{
+  "id": 8289,
+  "zone_id": 82,
+  "name": "A Corridor To The Cells",
+  "description": "You are in a dark corridor in the Musketeer H.Q. this corridor goes to the\ncells where the most dangerous revolutioners are jailed. This place is very\ncold, and wet you should be careful, if you open a cell, because the people\nwho is jailed here is very dangerous.",
+  "header_raw": "82 161 0",
+  "flags_text": "161",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8290
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8280
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 17820,
+  "alias": "treasurer hobgoblin",
+  "short_desc": "the treasurer",
+  "long_desc": "A treasurer is here counting out money.",
+  "detailed_desc": "The hobgoblin treasurer is an old goblin with glasses.  It appears that he\ncan only see a couple feet in front of him.",
+  "flags_raw": "14 0 -200 E",
+  "stats1_raw": "55 -7 1 1d1+1152 5d6+22",
+  "stats2_raw": "825 542963 0",
+  "stats3_raw": "8 8 1 2 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/178.mob"
+}

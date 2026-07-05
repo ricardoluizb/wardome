@@ -1,0 +1,21 @@
+{
+  "id": 11615,
+  "zone_id": 115,
+  "name": "The Entrance To Hell's Kitchen",
+  "description": "As you walk in, you wonder why it is so dark here...  And then you realize\neither that the electric company is too afraid to come and repair the lights or\nbecause the people here are too poor to afford lights.  You sense the\ntremendous evil that lurks within and decide that your personal safety is more\nimportant than exploring...  Besides you can think of at least of a dozen\nbetter places you'd rather be than in Hell's Kitchen.  You decide that the only\nreal exit is to First Avenue which is to the east.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11614
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

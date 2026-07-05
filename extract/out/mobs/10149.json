@@ -1,0 +1,12 @@
+{
+  "id": 10149,
+  "alias": "Orc",
+  "short_desc": "Orc",
+  "long_desc": "a orc is seeking you, go away or be dead.",
+  "detailed_desc": "",
+  "flags_raw": "24616 1192 -750 E",
+  "stats1_raw": "100 -42 -14 1d1+7596 5d21+100",
+  "stats2_raw": "1500 3888649 6",
+  "stats3_raw": "8 8 0 3 5",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/101.mob"
+}

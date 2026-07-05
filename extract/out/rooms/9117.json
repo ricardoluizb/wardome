@@ -1,0 +1,29 @@
+{
+  "id": 9117,
+  "zone_id": 91,
+  "name": "Steep mountainside.",
+  "description": "From here, you can see forever.  Clouds, birds, the forest.\nMidgaard is far, far to the west.  What a postcard perfect view!",
+  "header_raw": "91 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9115
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9118
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

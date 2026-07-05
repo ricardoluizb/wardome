@@ -1,0 +1,42 @@
+{
+  "id": 28526,
+  "zone_id": 285,
+  "name": "Entry to the Atlantis Chambers",
+  "description": "You are at the entrance to the royal chambers of the keep.\nA plush shag rug covers the stone floor. Large candelabras hang from the\nceiling, lighting the room. A huge fireplace warms the room. Beaded doorways\nlead south and east. A huge stone door stands in the west wall.",
+  "header_raw": "285 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28535
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28533
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door huge stone",
+      "door_flag": 2,
+      "key": 28510,
+      "to": 28525
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "door huge stone",
+      "description": "A huge stone door......."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/285.wld"
+}

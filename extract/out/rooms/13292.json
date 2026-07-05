@@ -1,0 +1,21 @@
+{
+  "id": 13292,
+  "zone_id": 132,
+  "name": "The Altar",
+  "description": "You are at the altar of the cleric guild.  This is where the high priestess\nNara Saan spends most of her hours.",
+  "header_raw": "132 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "Cleric's Guild",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13290
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 5764,
+  "alias": "dwarf",
+  "short_desc": "a Dwarf",
+  "long_desc": "A Dwarven gambler offers you a seat in his game.",
+  "detailed_desc": "This amiable fellow is leaning back in his chair at a table with three other\nDwarfs playing Five Card Stud. He draws deeply on a long pipe, exhaling some\nnoxious smoke, and invites you to join in.",
+  "flags_raw": "78 1024 400 E",
+  "stats1_raw": "30 -17 -11 1d1+3480 5d10+122",
+  "stats2_raw": "450 185326 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

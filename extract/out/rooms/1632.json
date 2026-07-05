@@ -1,0 +1,29 @@
+{
+  "id": 1632,
+  "zone_id": 16,
+  "name": "The Common Room",
+  "description": "You are in what must once have been a common room for all residents of the\ntower. There is a huge fire pit with a chimney in the center, and the smashed\nremains of a great many table and chairs.  The exit is south.",
+  "header_raw": "16 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1631
+    },
+    {
+      "dir": 5,
+      "description": "You notice a grate in the bottom of the fire pit.  Maybe it's an opening ...",
+      "keywords": "",
+      "door_flag": 1,
+      "key": -1,
+      "to": 1634
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

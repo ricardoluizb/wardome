@@ -1,0 +1,29 @@
+{
+  "id": 2124,
+  "zone_id": 21,
+  "name": "Top of the Cliff",
+  "description": "You reach the top of the cliff and struggle to your feet.  You spend several\nmoments just turning around, taking in all that you see.  To the south and east\nyou see the forest sweeping outwards from the cliff wall, and to the north you\nsee a clearing surrounding a small town.",
+  "header_raw": "21 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2126
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2122
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/21.wld"
+}

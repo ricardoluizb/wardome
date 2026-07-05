@@ -1,0 +1,12 @@
+{
+  "id": 2241,
+  "alias": "oldstyle dragon phase",
+  "short_desc": "the phase dragon",
+  "long_desc": "A Phase Dragon is darting around the room.",
+  "detailed_desc": "This small dragon looks like he's up to no good.",
+  "flags_raw": "204 8389800 -300 E",
+  "stats1_raw": "160 -76 -26 1d1+14712 5d33+144",
+  "stats2_raw": "2400 16146158 8",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/22.mob"
+}

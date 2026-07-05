@@ -2,1386 +2,13 @@
   "id": 120,
   "name": "Rome",
   "header": {
-    "raw": "12000 12099 45 2",
-    "min_room": 12000,
-    "top_room": 12099,
-    "lifespan": 45,
-    "reset_mode": 2
+    "raw": "12099 20 1 1 -1",
+    "min_room": 12099,
+    "top_room": 20,
+    "lifespan": 1,
+    "reset_mode": 1
   },
   "commands": [
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12000,
-        3,
-        12001
-      ],
-      "comment": "Adjudicator"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3042,
-        100,
-        11
-      ],
-      "comment": "Shield"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12000,
-        3,
-        12001
-      ],
-      "comment": "Adjudicator"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3042,
-        100,
-        11
-      ],
-      "comment": "Shield"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12000,
-        3,
-        12001
-      ],
-      "comment": "Adjudicator"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3042,
-        100,
-        11
-      ],
-      "comment": "Shield"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12001,
-        1,
-        12001
-      ],
-      "comment": "Scorekeeper"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3021,
-        100,
-        16
-      ],
-      "comment": "Small Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3042,
-        100,
-        11
-      ],
-      "comment": "Shield"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12003,
-        10,
-        12003
-      ],
-      "comment": "Spectator"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12003,
-        10,
-        12004
-      ],
-      "comment": "Spectator"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12003,
-        10,
-        12008
-      ],
-      "comment": "Spectator"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12003,
-        10,
-        12022
-      ],
-      "comment": "Spectator"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12003,
-        10,
-        12023
-      ],
-      "comment": "Spectator"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12003,
-        10,
-        12003
-      ],
-      "comment": "Spectator"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12003,
-        10,
-        12004
-      ],
-      "comment": "Spectator"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12003,
-        10,
-        12008
-      ],
-      "comment": "Spectator"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12003,
-        10,
-        12022
-      ],
-      "comment": "Spectator"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12003,
-        10,
-        12023
-      ],
-      "comment": "Spectator"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12004,
-        3,
-        12002
-      ],
-      "comment": "Nobleman"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3042,
-        100,
-        11
-      ],
-      "comment": "Shield"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        12033,
-        1
-      ],
-      "comment": "Key To Judge's Booth"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12004,
-        3,
-        12028
-      ],
-      "comment": "Nobleman"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        12001,
-        3,
-        13
-      ],
-      "comment": "Bronze Belt"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12004,
-        3,
-        12043
-      ],
-      "comment": "Nobleman"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        12000,
-        5,
-        1
-      ],
-      "comment": "Pewter Ring"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12005,
-        5,
-        12021
-      ],
-      "comment": "Slave"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3023,
-        100,
-        16
-      ],
-      "comment": "Club"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12005,
-        5,
-        12021
-      ],
-      "comment": "Slave"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3023,
-        100,
-        16
-      ],
-      "comment": "Club"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12005,
-        5,
-        12021
-      ],
-      "comment": "Slave"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3023,
-        100,
-        16
-      ],
-      "comment": "Club"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12005,
-        5,
-        12006
-      ],
-      "comment": "Slave"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3023,
-        100,
-        16
-      ],
-      "comment": "Club"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12005,
-        5,
-        12049
-      ],
-      "comment": "Slave"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3023,
-        100,
-        16
-      ],
-      "comment": "Club"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12006,
-        5,
-        12010
-      ],
-      "comment": "Gladiator"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12006,
-        5,
-        12010
-      ],
-      "comment": "Gladiator"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12006,
-        5,
-        12010
-      ],
-      "comment": "Gladiator"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12006,
-        5,
-        12009
-      ],
-      "comment": "Gladiator"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12006,
-        5,
-        12009
-      ],
-      "comment": "Gladiator"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        12002,
-        2,
-        6
-      ],
-      "comment": "Roman Helmet"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12007,
-        4,
-        12016
-      ],
-      "comment": "Chariot Driver"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3021,
-        100,
-        16
-      ],
-      "comment": "Small Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        12008,
-        100,
-        8
-      ],
-      "comment": "Leather Sandals"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12007,
-        4,
-        12009
-      ],
-      "comment": "Chariot Driver"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3021,
-        100,
-        16
-      ],
-      "comment": "Small Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        12008,
-        100,
-        8
-      ],
-      "comment": "Leather Sandals"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12007,
-        4,
-        12016
-      ],
-      "comment": "Chariot Driver"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3021,
-        100,
-        16
-      ],
-      "comment": "Small Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        12008,
-        100,
-        8
-      ],
-      "comment": "Leather Sandals"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12007,
-        4,
-        12016
-      ],
-      "comment": "Chariot Driver"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3021,
-        100,
-        16
-      ],
-      "comment": "Small Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        12008,
-        100,
-        8
-      ],
-      "comment": "Leather Sandals"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12008,
-        1,
-        12009
-      ],
-      "comment": "Coach"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3021,
-        100,
-        16
-      ],
-      "comment": "Small Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3043,
-        100,
-        5
-      ],
-      "comment": "Leather Jacket"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        12003,
-        100
-      ],
-      "comment": "Coach's Whistle"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12009,
-        1,
-        12011
-      ],
-      "comment": "Roman Doctor"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3043,
-        100,
-        5
-      ],
-      "comment": "Leather Jacket"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3042,
-        100,
-        11
-      ],
-      "comment": "Shield"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        12004,
-        6,
-        3
-      ],
-      "comment": "Stethoscope"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        12028,
-        3
-      ],
-      "comment": "Staff Of Kodarta"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12010,
-        1,
-        12011
-      ],
-      "comment": "Nurse"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3021,
-        100,
-        16
-      ],
-      "comment": "Small Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3043,
-        100,
-        5
-      ],
-      "comment": "Leather Jacket"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        12005,
-        3,
-        6
-      ],
-      "comment": "Hairpin"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        12027,
-        5
-      ],
-      "comment": "Staff Of Latumfus"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12011,
-        1,
-        12006
-      ],
-      "comment": "Titus' Shopkeeper"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3020,
-        100
-      ],
-      "comment": "Dagger"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3021,
-        100
-      ],
-      "comment": "Small Sword"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3022,
-        100
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3023,
-        100
-      ],
-      "comment": "Wooden Club"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3024,
-        100
-      ],
-      "comment": "Warhammer"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3025,
-        100
-      ],
-      "comment": "Flail"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        12008,
-        100
-      ],
-      "comment": "Leather Sandals"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        12008,
-        100,
-        8
-      ],
-      "comment": "Leather Sandals"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        12034,
-        1
-      ],
-      "comment": "Key To The Back Room"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12012,
-        1,
-        12032
-      ],
-      "comment": "Peddler"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        12008,
-        100,
-        8
-      ],
-      "comment": "Leather Sandals"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        12006,
-        100
-      ],
-      "comment": "Apple"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        12007,
-        100
-      ],
-      "comment": "Orange"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12013,
-        2,
-        12043
-      ],
-      "comment": "Page"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3020,
-        100,
-        16
-      ],
-      "comment": "Dagger"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        12008,
-        100,
-        8
-      ],
-      "comment": "Leather Sandals"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12013,
-        2,
-        12037
-      ],
-      "comment": "Page"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3020,
-        100,
-        16
-      ],
-      "comment": "Dagger"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        12008,
-        100,
-        8
-      ],
-      "comment": "Leather Sandals"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12014,
-        1,
-        12050
-      ],
-      "comment": "Plaintiff"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        12011,
-        2,
-        15
-      ],
-      "comment": "Silver And Gold Bracelet"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12015,
-        3,
-        12025
-      ],
-      "comment": "Ticket Master"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12015,
-        3,
-        12025
-      ],
-      "comment": "Ticket Master"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12015,
-        3,
-        12025
-      ],
-      "comment": "Ticket Master"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        12015,
-        1,
-        16
-      ],
-      "comment": "Tempered Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12016,
-        3,
-        12004
-      ],
-      "comment": "Stadium Vendor"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        12010,
-        25
-      ],
-      "comment": "Hotdog"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12016,
-        3,
-        12008
-      ],
-      "comment": "Stadium Vendor"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        12010,
-        25
-      ],
-      "comment": "Hotdog"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12016,
-        3,
-        12023
-      ],
-      "comment": "Stadium Vendor"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        12010,
-        25
-      ],
-      "comment": "Hotdog"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12017,
-        15,
-        12012
-      ],
-      "comment": "Common Citizen"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12017,
-        15,
-        12032
-      ],
-      "comment": "Common Citizen"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12017,
-        15,
-        12021
-      ],
-      "comment": "Common Citizen"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12017,
-        15,
-        12031
-      ],
-      "comment": "Common Citizen"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12017,
-        15,
-        12018
-      ],
-      "comment": "Common Citizen"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12017,
-        15,
-        12032
-      ],
-      "comment": "Common Citizen"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12017,
-        15,
-        12045
-      ],
-      "comment": "Common Citizen"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12017,
-        15,
-        12034
-      ],
-      "comment": "Common Citizen"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12017,
-        15,
-        12039
-      ],
-      "comment": "Common Citizen"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12017,
-        15,
-        12040
-      ],
-      "comment": "Common Citizen"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12017,
-        15,
-        12046
-      ],
-      "comment": "Common Citizen"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12017,
-        15,
-        12033
-      ],
-      "comment": "Common Citizen"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12017,
-        15,
-        12019
-      ],
-      "comment": "Common Citizen"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12017,
-        15,
-        12024
-      ],
-      "comment": "Common Citizen"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12017,
-        15,
-        12013
-      ],
-      "comment": "Common Citizen"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12018,
-        5,
-        12051
-      ],
-      "comment": "Gate Guard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12018,
-        5,
-        12029
-      ],
-      "comment": "Gate Guard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12018,
-        5,
-        12035
-      ],
-      "comment": "Gate Guard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12018,
-        5,
-        12051
-      ],
-      "comment": "Gate Guard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
     {
       "cmd": "M",
       "args": [
@@ -1390,7 +17,7 @@
         5,
         12005
       ],
-      "comment": "Gate Guard"
+      "comment": "(the gateguard)"
     },
     {
       "cmd": "E",
@@ -1400,7 +27,137 @@
         100,
         16
       ],
-      "comment": "Long Sword"
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12005,
+        5,
+        12006
+      ],
+      "comment": "(the slave)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3023,
+        100,
+        16
+      ],
+      "comment": "(a wooden club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12011,
+        1,
+        12006
+      ],
+      "comment": "(Titus' shopkeeper)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3020,
+        100,
+        -1
+      ],
+      "comment": "(a dagger)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3021,
+        100,
+        -1
+      ],
+      "comment": "(a small sword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3022,
+        100,
+        -1
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3023,
+        100,
+        -1
+      ],
+      "comment": "(a wooden club)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3024,
+        100,
+        -1
+      ],
+      "comment": "(a warhammer)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3025,
+        100,
+        -1
+      ],
+      "comment": "(a flail)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        12008,
+        100,
+        -1
+      ],
+      "comment": "(A pair of leather sandals)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12008,
+        100,
+        8
+      ],
+      "comment": "(A pair of leather sandals)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        12034,
+        1,
+        -1
+      ],
+      "comment": "(a double sided key)"
     },
     {
       "cmd": "M",
@@ -1410,7 +167,7 @@
         3,
         12006
       ],
-      "comment": "Soldier"
+      "comment": "(the soldier)"
     },
     {
       "cmd": "E",
@@ -1420,7 +177,7 @@
         100,
         16
       ],
-      "comment": "Small Sword"
+      "comment": "(a small sword)"
     },
     {
       "cmd": "E",
@@ -1430,420 +187,17 @@
         100,
         8
       ],
-      "comment": "Leather Sandals"
+      "comment": "(A pair of leather sandals)"
     },
     {
-      "cmd": "M",
+      "cmd": "D",
       "args": [
         0,
-        12019,
-        3,
-        12042
-      ],
-      "comment": "Soldier"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3021,
-        100,
-        16
-      ],
-      "comment": "Small Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        12019,
+        12006,
         2,
-        8
-      ],
-      "comment": "Combat Boots"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12019,
-        3,
-        12045
-      ],
-      "comment": "Soldier"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3021,
-        100,
-        16
-      ],
-      "comment": "Small Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        12008,
-        100,
-        8
-      ],
-      "comment": "Leather Sandals"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        12018,
-        2,
-        5
-      ],
-      "comment": "Combat Plate"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12020,
-        1,
-        12036
-      ],
-      "comment": "Julius Caesar"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        12017,
-        1,
-        10
-      ],
-      "comment": "Moorish Bracers"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        12024,
-        7
-      ],
-      "comment": "Musty Scroll"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12021,
-        2,
-        12036
-      ],
-      "comment": "Royal Bodyguard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3042,
-        100,
-        11
-      ],
-      "comment": "Shield"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3046,
-        100,
-        5
-      ],
-      "comment": "Breast Plate"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12021,
-        2,
-        12036
-      ],
-      "comment": "Royal Bodyguard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3042,
-        100,
-        11
-      ],
-      "comment": "Shield"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3046,
-        100,
-        5
-      ],
-      "comment": "Breast Plate"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12022,
-        1,
-        12055
-      ],
-      "comment": "Judge"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        12012,
-        1,
-        2
-      ],
-      "comment": "Sapphire Ring"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12023,
-        1,
-        12043
-      ],
-      "comment": "Master Scheduler"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        12008,
-        100,
-        8
-      ],
-      "comment": "Leather Sandals"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        12013,
-        1,
-        4
-      ],
-      "comment": "Jade Necklace"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        12035,
         1
       ],
-      "comment": "Key To Caesar's Office"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        12036,
-        1
-      ],
-      "comment": "Key To The Senate Chambers"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12024,
-        6,
-        12041
-      ],
-      "comment": "Slimeball"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12024,
-        6,
-        12048
-      ],
-      "comment": "Slimeball"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12024,
-        6,
-        12054
-      ],
-      "comment": "Slimeball"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12024,
-        6,
-        12057
-      ],
-      "comment": "Slimeball"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12024,
-        6,
-        12054
-      ],
-      "comment": "Slimeball"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12024,
-        6,
-        12057
-      ],
-      "comment": "Slimeball"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        12030,
-        500
-      ],
-      "comment": "Blaze Orange Potion"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12025,
-        1,
-        12049
-      ],
-      "comment": "Froboz"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3042,
-        100,
-        11
-      ],
-      "comment": "Shield"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        12014,
-        10,
-        12
-      ],
-      "comment": "Froboz' Cloak"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        12025,
-        10
-      ],
-      "comment": "Ornate Scroll"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        12026,
-        10
-      ],
-      "comment": "Plain Scroll"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        12029,
-        10
-      ],
-      "comment": "Prototype Wand"
+      "comment": "(Swords 'R Us)"
     },
     {
       "cmd": "M",
@@ -1853,7 +207,7 @@
         1,
         12007
       ],
-      "comment": "Titus Andronicus"
+      "comment": "(Titus Andronicus)"
     },
     {
       "cmd": "E",
@@ -1863,7 +217,7 @@
         3,
         17
       ],
-      "comment": "Quenched Sword"
+      "comment": "(A quenched sword)"
     },
     {
       "cmd": "E",
@@ -1873,7 +227,7 @@
         100,
         16
       ],
-      "comment": "Long Sword"
+      "comment": "(a long sword)"
     },
     {
       "cmd": "E",
@@ -1883,7 +237,7 @@
         100,
         11
       ],
-      "comment": "Shield"
+      "comment": "(A shield)"
     },
     {
       "cmd": "E",
@@ -1893,7 +247,7 @@
         100,
         5
       ],
-      "comment": "Breast Plate"
+      "comment": "(&ya &ybronze &Ybreast &Yplate&n)"
     },
     {
       "cmd": "E",
@@ -1903,95 +257,27 @@
         100,
         8
       ],
-      "comment": "Leather Sandals"
+      "comment": "(A pair of leather sandals)"
     },
     {
-      "cmd": "M",
+      "cmd": "D",
       "args": [
         0,
-        12027,
-        2,
-        12037
-      ],
-      "comment": "Senator"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3021,
-        100,
-        16
-      ],
-      "comment": "Small Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3044,
-        100,
-        5
-      ],
-      "comment": "Studded Leather Jacket"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        12037,
+        12007,
+        0,
         1
       ],
-      "comment": "Key To The Common Room"
+      "comment": "(The Back Room)"
     },
     {
       "cmd": "M",
       "args": [
         0,
-        12027,
-        2,
-        12037
+        12018,
+        5,
+        12029
       ],
-      "comment": "Senator"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3021,
-        100,
-        16
-      ],
-      "comment": "Small Sword"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3044,
-        100,
-        5
-      ],
-      "comment": "Studded Leather Jacket"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3050,
-        500
-      ],
-      "comment": "Scroll Of Identify"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12028,
-        1,
-        12050
-      ],
-      "comment": "Bailiff"
+      "comment": "(the gateguard)"
     },
     {
       "cmd": "E",
@@ -2001,7 +287,77 @@
         100,
         16
       ],
-      "comment": "Long Sword"
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        12029,
+        0,
+        1
+      ],
+      "comment": "(The Great North Gate)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12020,
+        1,
+        12036
+      ],
+      "comment": "(Julius Caesar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12017,
+        1,
+        10
+      ],
+      "comment": "(&wA pair of &CM&co&Co&cr&Ci&cs&Ch &wbracers&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        12024,
+        7,
+        -1
+      ],
+      "comment": "(a dark grey scroll)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12021,
+        2,
+        12036
+      ],
+      "comment": "(the royal bodyguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
     },
     {
       "cmd": "E",
@@ -2011,136 +367,147 @@
         100,
         11
       ],
-      "comment": "Shield"
+      "comment": "(A shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3046,
+        100,
+        5
+      ],
+      "comment": "(&ya &ybronze &Ybreast &Yplate&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12021,
+        2,
+        12036
+      ],
+      "comment": "(the royal bodyguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3042,
+        100,
+        11
+      ],
+      "comment": "(A shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3046,
+        100,
+        5
+      ],
+      "comment": "(&ya &ybronze &Ybreast &Yplate&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        12036,
+        2,
+        2
+      ],
+      "comment": "(The Emperor's Private Office)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        12036,
+        1,
+        2
+      ],
+      "comment": "(The Emperor's Private Office)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12016,
+        3,
+        12008
+      ],
+      "comment": "(the stadium vendor)"
     },
     {
       "cmd": "G",
       "args": [
         1,
-        12039,
-        1
+        12010,
+        25,
+        -1
       ],
-      "comment": "Key To The Judge's Chambers"
+      "comment": "(a hotdog)"
     },
     {
       "cmd": "M",
       "args": [
         0,
-        12029,
-        1,
-        12050
+        12017,
+        15,
+        12034
       ],
-      "comment": "Defendant"
+      "comment": "(the citizen)"
     },
     {
-      "cmd": "E",
+      "cmd": "G",
       "args": [
         1,
-        3024,
-        100,
-        16
-      ],
-      "comment": "Warhammer"
-    },
-    {
-      "cmd": "E",
-      "args": [
+        12038,
         1,
-        3043,
-        100,
-        5
+        -1
       ],
-      "comment": "Leather Jacket"
+      "comment": "(an opal key)"
     },
     {
       "cmd": "M",
       "args": [
         0,
-        12030,
-        1,
-        12047
-      ],
-      "comment": "Jupiter"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        12020,
-        1,
-        16
-      ],
-      "comment": "Thunderbolt"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12031,
-        1,
-        12052
-      ],
-      "comment": "Venus"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        12022,
-        1,
-        3
-      ],
-      "comment": "Crystal Necklace"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12032,
-        1,
-        12056
-      ],
-      "comment": "Mars"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        12016,
+        12019,
         3,
-        17
+        12042
       ],
-      "comment": "Quenched Sword"
+      "comment": "(the soldier)"
     },
     {
       "cmd": "E",
       "args": [
         1,
-        12021,
-        1,
-        13
+        3021,
+        100,
+        16
       ],
-      "comment": "Loincloth"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12033,
-        1,
-        12059
-      ],
-      "comment": "Mercury"
+      "comment": "(a small sword)"
     },
     {
       "cmd": "E",
       "args": [
         1,
-        12023,
-        1,
+        12019,
+        2,
         8
       ],
-      "comment": "Winged Sandals"
+      "comment": "(A pair of Roman combat boots)"
     },
     {
       "cmd": "M",
@@ -2150,61 +517,57 @@
         1,
         12042
       ],
-      "comment": "Froboz' Shopkeeper"
+      "comment": "(Froboz' shopkeeper)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3050,
-        500
+        500,
+        -1
       ],
-      "comment": "Scroll Of Identify"
+      "comment": "(a scroll of identify)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3051,
-        500
+        500,
+        -1
       ],
-      "comment": "Yellow Potion"
+      "comment": "(a yellow potion of see invisible)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3052,
-        500
+        500,
+        -1
       ],
-      "comment": "Scroll Of Recall"
+      "comment": "(a scroll of recall)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3053,
-        500
+        500,
+        -1
       ],
-      "comment": "Grey Wand"
+      "comment": "(a grey wand of invisibility)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3054,
-        500
+        500,
+        -1
       ],
-      "comment": "Gnarled Staff"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        12030,
-        10
-      ],
-      "comment": "Blaze Orange Potion"
+      "comment": "(a gnarled staff)"
     },
     {
       "cmd": "E",
@@ -2214,7 +577,7 @@
         100,
         16
       ],
-      "comment": "Long Sword"
+      "comment": "(a long sword)"
     },
     {
       "cmd": "E",
@@ -2224,322 +587,7 @@
         100,
         8
       ],
-      "comment": "Leather Sandals"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        12038,
-        1
-      ],
-      "comment": "Key To Froboz' Workshop"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12035,
-        1,
-        12061
-      ],
-      "comment": "Executioner"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        12031,
-        10
-      ],
-      "comment": "Executioner's Mace"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12036,
-        1,
-        12062
-      ],
-      "comment": "Baker"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3000,
-        100
-      ],
-      "comment": "Beer Barrel"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3001,
-        100
-      ],
-      "comment": "Beer Bottle"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3009,
-        100
-      ],
-      "comment": "Waybread"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3010,
-        100
-      ],
-      "comment": "Bread Loaf"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3011,
-        100
-      ],
-      "comment": "Danish Pastry"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        12006,
-        100
-      ],
-      "comment": "Apple"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        12007,
-        100
-      ],
-      "comment": "Apple"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        12037,
-        1,
-        12063
-      ],
-      "comment": "Grocer"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3030,
-        100
-      ],
-      "comment": "Torch"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3031,
-        100
-      ],
-      "comment": "Lantern"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3032,
-        100
-      ],
-      "comment": "Bag"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3033,
-        100
-      ],
-      "comment": "Box"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3036,
-        100
-      ],
-      "comment": "Cashcard"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        12003,
-        100
-      ],
-      "comment": "Coach's Whistle"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3022,
-        100,
-        16
-      ],
-      "comment": "Long Sword"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        12005,
-        3,
-        2
-      ],
-      "comment": "West Gate Of City"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        12029,
-        0,
-        2
-      ],
-      "comment": "North Gate Of City"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        12035,
-        2,
-        2
-      ],
-      "comment": "South Gate Of City"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        12051,
-        1,
-        1
-      ],
-      "comment": "East Gate Of City"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        12064,
-        3,
-        1
-      ],
-      "comment": "Outside Of East Gate"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        12001,
-        5,
-        2
-      ],
-      "comment": "Caesar's Private Box"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        12002,
-        4,
-        2
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        12006,
-        2,
-        2
-      ],
-      "comment": "Back Room Of Titus Andronicus' Store"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        12007,
-        0,
-        2
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        12037,
-        0,
-        2
-      ],
-      "comment": "Emperor's Private Office"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        12036,
-        2,
-        2
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        12037,
-        2,
-        2
-      ],
-      "comment": "House Of Commons"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        12038,
-        0,
-        2
-      ],
-      "comment": ""
+      "comment": "(A pair of leather sandals)"
     },
     {
       "cmd": "D",
@@ -2549,7 +597,97 @@
         1,
         2
       ],
-      "comment": "Froboz' Workshop"
+      "comment": "(The Mage's Shop)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12005,
+        5,
+        12049
+      ],
+      "comment": "(the slave)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3023,
+        100,
+        16
+      ],
+      "comment": "(a wooden club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12025,
+        1,
+        12049
+      ],
+      "comment": "(Froboz)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3042,
+        100,
+        11
+      ],
+      "comment": "(A shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12014,
+        10,
+        12
+      ],
+      "comment": "(Froboz' robe)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        12025,
+        10,
+        -1
+      ],
+      "comment": "(an ornate scroll)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        12026,
+        10,
+        -1
+      ],
+      "comment": "(a plain scroll)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        12029,
+        1,
+        -1
+      ],
+      "comment": "(a prototype wand)"
     },
     {
       "cmd": "D",
@@ -2559,57 +697,257 @@
         3,
         2
       ],
-      "comment": ""
+      "comment": "(Froboz's Workshop)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12038,
+        1,
+        12069
+      ],
+      "comment": "(Spartacus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12040,
+        1,
+        3
+      ],
+      "comment": "(Gladiator's Amulet)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        12039,
+        10,
+        12069
+      ],
+      "comment": "(the gladiator)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12041,
+        1,
+        19
+      ],
+      "comment": "(a glinting earring)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        12039,
+        10,
+        12069
+      ],
+      "comment": "(the gladiator)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        12039,
+        10,
+        12069
+      ],
+      "comment": "(the gladiator)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        12039,
+        10,
+        12069
+      ],
+      "comment": "(the gladiator)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        12039,
+        10,
+        12069
+      ],
+      "comment": "(the gladiator)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        12039,
+        10,
+        12069
+      ],
+      "comment": "(the gladiator)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12000,
+        3,
+        12001
+      ],
+      "comment": "(the adjudicator)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3042,
+        100,
+        11
+      ],
+      "comment": "(A shield)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12000,
+        3,
+        12001
+      ],
+      "comment": "(the adjudicator)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3042,
+        100,
+        11
+      ],
+      "comment": "(A shield)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12000,
+        3,
+        12001
+      ],
+      "comment": "(the adjudicator)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3042,
+        100,
+        11
+      ],
+      "comment": "(A shield)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12001,
+        1,
+        12001
+      ],
+      "comment": "(the scorekeeper)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3021,
+        100,
+        16
+      ],
+      "comment": "(a small sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3042,
+        100,
+        11
+      ],
+      "comment": "(A shield)"
     },
     {
       "cmd": "D",
       "args": [
         0,
-        12043,
+        12001,
+        5,
+        2
+      ],
+      "comment": "(The Judging Booth)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12022,
+        1,
+        12055
+      ],
+      "comment": "(the judge)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12012,
         3,
         2
       ],
-      "comment": "Emperor's Private Office"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        12036,
-        1,
-        2
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        12044,
-        3,
-        2
-      ],
-      "comment": "Senate Chambers"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        12037,
-        1,
-        2
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        12050,
-        1,
-        2
-      ],
-      "comment": "Judge's Chambers"
+      "comment": "(&Wa &Cs&Wa&Cp&Wp&Ch&Wi&Cr&We &Cring&n)"
     },
     {
       "cmd": "D",
@@ -2619,8 +957,1768 @@
         3,
         2
       ],
-      "comment": ""
+      "comment": "(The Judge's Chambers)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12003,
+        10,
+        12003
+      ],
+      "comment": "(the spectator)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12003,
+        10,
+        12004
+      ],
+      "comment": "(the spectator)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12003,
+        10,
+        12022
+      ],
+      "comment": "(the spectator)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12003,
+        10,
+        12023
+      ],
+      "comment": "(the spectator)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12003,
+        10,
+        12003
+      ],
+      "comment": "(the spectator)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12003,
+        10,
+        12004
+      ],
+      "comment": "(the spectator)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12003,
+        10,
+        12022
+      ],
+      "comment": "(the spectator)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12003,
+        10,
+        12023
+      ],
+      "comment": "(the spectator)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12004,
+        3,
+        12002
+      ],
+      "comment": "(the nobleman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3042,
+        100,
+        11
+      ],
+      "comment": "(A shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        12033,
+        1,
+        -1
+      ],
+      "comment": "(a rusted key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12004,
+        3,
+        12028
+      ],
+      "comment": "(the nobleman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12001,
+        3,
+        13
+      ],
+      "comment": "(A bronze belt)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12004,
+        3,
+        12043
+      ],
+      "comment": "(the nobleman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12000,
+        5,
+        1
+      ],
+      "comment": "(a pewter ring)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12005,
+        5,
+        12021
+      ],
+      "comment": "(the slave)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3023,
+        100,
+        16
+      ],
+      "comment": "(a wooden club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12005,
+        5,
+        12021
+      ],
+      "comment": "(the slave)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3023,
+        100,
+        16
+      ],
+      "comment": "(a wooden club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12005,
+        5,
+        12021
+      ],
+      "comment": "(the slave)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3023,
+        100,
+        16
+      ],
+      "comment": "(a wooden club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12006,
+        5,
+        12010
+      ],
+      "comment": "(the gladiator)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12006,
+        5,
+        12010
+      ],
+      "comment": "(the gladiator)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12006,
+        5,
+        12010
+      ],
+      "comment": "(the gladiator)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12006,
+        5,
+        12009
+      ],
+      "comment": "(the gladiator)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12006,
+        5,
+        12009
+      ],
+      "comment": "(the gladiator)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12002,
+        2,
+        6
+      ],
+      "comment": "(a Roman combat helmet)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12007,
+        4,
+        12016
+      ],
+      "comment": "(the chariot driver)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3021,
+        100,
+        16
+      ],
+      "comment": "(a small sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12008,
+        100,
+        8
+      ],
+      "comment": "(A pair of leather sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12007,
+        4,
+        12009
+      ],
+      "comment": "(the chariot driver)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3021,
+        100,
+        16
+      ],
+      "comment": "(a small sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12008,
+        100,
+        8
+      ],
+      "comment": "(A pair of leather sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12007,
+        4,
+        12016
+      ],
+      "comment": "(the chariot driver)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3021,
+        100,
+        16
+      ],
+      "comment": "(a small sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12008,
+        100,
+        8
+      ],
+      "comment": "(A pair of leather sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12007,
+        4,
+        12016
+      ],
+      "comment": "(the chariot driver)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3021,
+        100,
+        16
+      ],
+      "comment": "(a small sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12008,
+        100,
+        8
+      ],
+      "comment": "(A pair of leather sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12008,
+        1,
+        12009
+      ],
+      "comment": "(the coach)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3021,
+        100,
+        16
+      ],
+      "comment": "(a small sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3043,
+        100,
+        5
+      ],
+      "comment": "(a leather jacket)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        12003,
+        100,
+        -1
+      ],
+      "comment": "(a coach's whistle)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12009,
+        1,
+        12011
+      ],
+      "comment": "(the healer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3043,
+        100,
+        5
+      ],
+      "comment": "(a leather jacket)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3042,
+        100,
+        11
+      ],
+      "comment": "(A shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12004,
+        6,
+        3
+      ],
+      "comment": "(A stethoscope)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        12028,
+        3,
+        -1
+      ],
+      "comment": "(a Kodarta staff)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12010,
+        1,
+        12011
+      ],
+      "comment": "(the herbalist)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3021,
+        100,
+        16
+      ],
+      "comment": "(a small sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3043,
+        100,
+        5
+      ],
+      "comment": "(a leather jacket)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12005,
+        3,
+        6
+      ],
+      "comment": "(a hairpin)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        12027,
+        5,
+        -1
+      ],
+      "comment": "(a bag of herbs)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12012,
+        1,
+        12032
+      ],
+      "comment": "(the peddler)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12008,
+        100,
+        8
+      ],
+      "comment": "(A pair of leather sandals)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        12006,
+        100,
+        -1
+      ],
+      "comment": "(an apple)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        12007,
+        100,
+        -1
+      ],
+      "comment": "(an orange)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12013,
+        2,
+        12043
+      ],
+      "comment": "(the page)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3020,
+        100,
+        16
+      ],
+      "comment": "(a dagger)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12008,
+        100,
+        8
+      ],
+      "comment": "(A pair of leather sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12013,
+        2,
+        12037
+      ],
+      "comment": "(the page)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3020,
+        100,
+        16
+      ],
+      "comment": "(a dagger)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12008,
+        100,
+        8
+      ],
+      "comment": "(A pair of leather sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12014,
+        1,
+        12050
+      ],
+      "comment": "(the plaintiff)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12011,
+        2,
+        15
+      ],
+      "comment": "(a silver and gold bracelet)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12015,
+        3,
+        12025
+      ],
+      "comment": "(the ticket master)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12015,
+        3,
+        12025
+      ],
+      "comment": "(the ticket master)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12015,
+        3,
+        12025
+      ],
+      "comment": "(the ticket master)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12015,
+        1,
+        16
+      ],
+      "comment": "(a tempered sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12016,
+        3,
+        12004
+      ],
+      "comment": "(the stadium vendor)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        12010,
+        25,
+        -1
+      ],
+      "comment": "(a hotdog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12016,
+        3,
+        12023
+      ],
+      "comment": "(the stadium vendor)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        12010,
+        25,
+        -1
+      ],
+      "comment": "(a hotdog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12017,
+        15,
+        12012
+      ],
+      "comment": "(the citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12017,
+        15,
+        12032
+      ],
+      "comment": "(the citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12017,
+        15,
+        12021
+      ],
+      "comment": "(the citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12017,
+        15,
+        12031
+      ],
+      "comment": "(the citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12017,
+        15,
+        12018
+      ],
+      "comment": "(the citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12017,
+        15,
+        12032
+      ],
+      "comment": "(the citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12017,
+        15,
+        12045
+      ],
+      "comment": "(the citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12017,
+        15,
+        12039
+      ],
+      "comment": "(the citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12017,
+        15,
+        12040
+      ],
+      "comment": "(the citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12017,
+        15,
+        12046
+      ],
+      "comment": "(the citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12017,
+        15,
+        12033
+      ],
+      "comment": "(the citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12017,
+        15,
+        12019
+      ],
+      "comment": "(the citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12017,
+        15,
+        12024
+      ],
+      "comment": "(the citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12017,
+        15,
+        12013
+      ],
+      "comment": "(the citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12018,
+        5,
+        12051
+      ],
+      "comment": "(the gateguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12018,
+        5,
+        12035
+      ],
+      "comment": "(the gateguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12018,
+        5,
+        12051
+      ],
+      "comment": "(the gateguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12019,
+        3,
+        12045
+      ],
+      "comment": "(the soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3021,
+        100,
+        16
+      ],
+      "comment": "(a small sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12008,
+        100,
+        8
+      ],
+      "comment": "(A pair of leather sandals)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12018,
+        2,
+        5
+      ],
+      "comment": "(a Roman combat breast plate)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12023,
+        1,
+        12043
+      ],
+      "comment": "(The master scheduler)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12008,
+        100,
+        8
+      ],
+      "comment": "(A pair of leather sandals)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12013,
+        1,
+        4
+      ],
+      "comment": "(&wA &Gjade &wpendant&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        12035,
+        1,
+        -1
+      ],
+      "comment": "(a diamond studded key)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        12036,
+        1,
+        -1
+      ],
+      "comment": "(a key with a pearl handle)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12024,
+        6,
+        12041
+      ],
+      "comment": "(the slimeball)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12024,
+        6,
+        12048
+      ],
+      "comment": "(the slimeball)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12024,
+        6,
+        12054
+      ],
+      "comment": "(the slimeball)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12024,
+        6,
+        12057
+      ],
+      "comment": "(the slimeball)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12024,
+        6,
+        12054
+      ],
+      "comment": "(the slimeball)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12024,
+        6,
+        12057
+      ],
+      "comment": "(the slimeball)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        12030,
+        500,
+        -1
+      ],
+      "comment": "(a flask)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12027,
+        2,
+        12037
+      ],
+      "comment": "(the senator)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3021,
+        100,
+        16
+      ],
+      "comment": "(a small sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3044,
+        100,
+        5
+      ],
+      "comment": "(a studded leather jacket)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        12037,
+        1,
+        -1
+      ],
+      "comment": "(an aquamarine key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12027,
+        2,
+        12037
+      ],
+      "comment": "(the senator)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3021,
+        100,
+        16
+      ],
+      "comment": "(a small sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3044,
+        100,
+        5
+      ],
+      "comment": "(a studded leather jacket)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3050,
+        500,
+        -1
+      ],
+      "comment": "(a scroll of identify)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12028,
+        1,
+        12050
+      ],
+      "comment": "(the bailiff)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3042,
+        100,
+        11
+      ],
+      "comment": "(A shield)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        12039,
+        1,
+        -1
+      ],
+      "comment": "(a steel key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12029,
+        1,
+        12050
+      ],
+      "comment": "(the defendant)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3024,
+        100,
+        16
+      ],
+      "comment": "(a warhammer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3043,
+        100,
+        5
+      ],
+      "comment": "(a leather jacket)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12030,
+        1,
+        12047
+      ],
+      "comment": "(Jupiter)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12020,
+        1,
+        16
+      ],
+      "comment": "(Jupiter's Thunderbolt)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12031,
+        1,
+        12052
+      ],
+      "comment": "(Venus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12022,
+        1,
+        3
+      ],
+      "comment": "(a crystal necklace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12032,
+        1,
+        12056
+      ],
+      "comment": "(Mars)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12016,
+        3,
+        17
+      ],
+      "comment": "(A quenched sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12021,
+        1,
+        13
+      ],
+      "comment": "(&rA &RRed &rloincloth&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12033,
+        1,
+        12059
+      ],
+      "comment": "(Mercury)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        12023,
+        1,
+        8
+      ],
+      "comment": "(a pair of winged sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12035,
+        1,
+        12061
+      ],
+      "comment": "(the executioner)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        12031,
+        10,
+        -1
+      ],
+      "comment": "(an executioner's mace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12036,
+        1,
+        12062
+      ],
+      "comment": "(the baker)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3000,
+        100,
+        -1
+      ],
+      "comment": "(a barrel)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3001,
+        100,
+        -1
+      ],
+      "comment": "(a bottle)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3009,
+        100,
+        -1
+      ],
+      "comment": "(a waybread)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3010,
+        100,
+        -1
+      ],
+      "comment": "(a bread)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3011,
+        100,
+        -1
+      ],
+      "comment": "(a danish pastry)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        12006,
+        100,
+        -1
+      ],
+      "comment": "(an apple)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        12007,
+        100,
+        -1
+      ],
+      "comment": "(an orange)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        12037,
+        1,
+        12063
+      ],
+      "comment": "(the grocer)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3030,
+        100,
+        -1
+      ],
+      "comment": "(a torch)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3031,
+        100,
+        -1
+      ],
+      "comment": "(A lantern)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3032,
+        100,
+        -1
+      ],
+      "comment": "(a bag)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3033,
+        100,
+        -1
+      ],
+      "comment": "(a box)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3036,
+        100,
+        -1
+      ],
+      "comment": "(a cashcard)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        12003,
+        100,
+        -1
+      ],
+      "comment": "(a coach's whistle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        12035,
+        2,
+        2
+      ],
+      "comment": "(The South Gate)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        12051,
+        1,
+        1
+      ],
+      "comment": "(The East Gate Of Rome)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        12064,
+        3,
+        1
+      ],
+      "comment": "(Before Rome)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        12002,
+        4,
+        2
+      ],
+      "comment": "(Caesar's Private Box)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        12037,
+        0,
+        2
+      ],
+      "comment": "(The Senate Chambers)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        12037,
+        2,
+        2
+      ],
+      "comment": "(The Senate Chambers)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        12038,
+        0,
+        2
+      ],
+      "comment": "(The House Of Commons)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        12043,
+        3,
+        2
+      ],
+      "comment": "(The Waiting Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        12044,
+        3,
+        2
+      ],
+      "comment": "(The Entrance Foyer)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        12037,
+        1,
+        2
+      ],
+      "comment": "(The Senate Chambers)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        12050,
+        1,
+        2
+      ],
+      "comment": "(The Courtroom)"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/120.zon"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/120.zon"
 }

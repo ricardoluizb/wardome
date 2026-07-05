@@ -1,0 +1,29 @@
+{
+  "id": 10178,
+  "zone_id": 101,
+  "name": "The tunnel",
+  "description": "You are in a tunnel, only exit is west - Only exit, well there is also a hole\nin the ceiling.",
+  "header_raw": "101 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10179
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10162
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/101.wld"
+}

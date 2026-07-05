@@ -1,0 +1,29 @@
+{
+  "id": 528,
+  "zone_id": 5,
+  "name": "&YArmory&n",
+  "description": "The armory, it is adorned with all kinds of armors upon the walls and\nwindows. You can see from helmets to powerfull Full Plates. Leading south\nyou will find yourself on the first street.\nThere is a small note placed upon the wall.",
+  "header_raw": "5 152 0",
+  "flags_text": "152",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 523
+    },
+    {
+      "dir": 4,
+      "description": "You can see a blacksmith doing his job.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 558
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

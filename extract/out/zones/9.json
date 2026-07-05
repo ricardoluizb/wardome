@@ -2,123 +2,13 @@
   "id": 9,
   "name": "River Island Of Minos",
   "header": {
-    "raw": "900 999 39 1",
-    "min_room": 900,
-    "top_room": 999,
-    "lifespan": 39,
+    "raw": "999 39 2 1 -1",
+    "min_room": 999,
+    "top_room": 39,
+    "lifespan": 2,
     "reset_mode": 1
   },
   "commands": [
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        900,
-        3,
-        915
-      ],
-      "comment": "Homba"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        900,
-        3,
-        915
-      ],
-      "comment": "Homba"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        900,
-        3,
-        915
-      ],
-      "comment": "Homba"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        901,
-        2,
-        916
-      ],
-      "comment": "Swordsman"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        901,
-        15,
-        17
-      ],
-      "comment": "Speckled Potion"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        901,
-        2,
-        916
-      ],
-      "comment": "Swordsman"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        902,
-        1,
-        917
-      ],
-      "comment": "Mummy"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        903,
-        1,
-        918
-      ],
-      "comment": "Giant Lizard"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        904,
-        1,
-        919
-      ],
-      "comment": "General Woundwart"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        903,
-        10,
-        9
-      ],
-      "comment": "Troll Gauntlets"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        902,
-        25,
-        17
-      ],
-      "comment": "Speckled Potion"
-    },
     {
       "cmd": "M",
       "args": [
@@ -127,7 +17,7 @@
         1,
         920
       ],
-      "comment": "Franz"
+      "comment": "(Franz the Henchman)"
     },
     {
       "cmd": "E",
@@ -137,7 +27,17 @@
         10,
         16
       ],
-      "comment": "Flail"
+      "comment": "(a flail)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        919,
+        4,
+        17
+      ],
+      "comment": "(The &CMinos &wBanner)"
     },
     {
       "cmd": "M",
@@ -147,7 +47,7 @@
         1,
         920
       ],
-      "comment": "Hanz"
+      "comment": "(Hanz the Henchman)"
     },
     {
       "cmd": "E",
@@ -157,7 +57,207 @@
         5,
         16
       ],
-      "comment": "Heavy Spear"
+      "comment": "(a heavy spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        918,
+        4,
+        21
+      ],
+      "comment": "(Franz &Bmud&n mask)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        904,
+        1,
+        919
+      ],
+      "comment": "(General Woundwort)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        903,
+        10,
+        9
+      ],
+      "comment": "(A pair of troll gauntlets)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        902,
+        25,
+        17
+      ],
+      "comment": "(a speckled potion)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        917,
+        4,
+        20
+      ],
+      "comment": "(the general earlobe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        903,
+        1,
+        918
+      ],
+      "comment": "(the giant lizard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        915,
+        4,
+        14
+      ],
+      "comment": "(the lizard bracer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        916,
+        4,
+        13
+      ],
+      "comment": "(the lizard waist)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        902,
+        1,
+        917
+      ],
+      "comment": "(the Mummy of Rabscuttle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        911,
+        4,
+        5
+      ],
+      "comment": "(a cursed armor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        912,
+        4,
+        7
+      ],
+      "comment": "(the cursed greaves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        913,
+        4,
+        6
+      ],
+      "comment": "(a cursed helmet)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        914,
+        4,
+        10
+      ],
+      "comment": "(a pair of cursed sleeves)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        900,
+        3,
+        915
+      ],
+      "comment": "(the homba)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        900,
+        3,
+        915
+      ],
+      "comment": "(the homba)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        900,
+        3,
+        915
+      ],
+      "comment": "(the homba)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        910,
+        5,
+        4
+      ],
+      "comment": "(the edge amulet)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        901,
+        2,
+        916
+      ],
+      "comment": "(the swordsman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        901,
+        15,
+        17
+      ],
+      "comment": "(a dark minotaur shield)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        901,
+        2,
+        916
+      ],
+      "comment": "(the swordsman)"
     },
     {
       "cmd": "M",
@@ -167,7 +267,7 @@
         1,
         921
       ],
-      "comment": "Minos"
+      "comment": "(King Minos the Minotaur)"
     },
     {
       "cmd": "E",
@@ -177,7 +277,7 @@
         8,
         11
       ],
-      "comment": "Minotaur Shield"
+      "comment": "(a dark minotaur shield)"
     },
     {
       "cmd": "E",
@@ -187,7 +287,7 @@
         1,
         17
       ],
-      "comment": "Golden Key"
+      "comment": "(a golden key)"
     },
     {
       "cmd": "O",
@@ -197,7 +297,7 @@
         10,
         922
       ],
-      "comment": "Platinum Ring"
+      "comment": "(A platinum ring)"
     },
     {
       "cmd": "O",
@@ -207,7 +307,7 @@
         1,
         922
       ],
-      "comment": "Gold"
+      "comment": "(a great pile of treasure)"
     },
     {
       "cmd": "M",
@@ -217,7 +317,7 @@
         2,
         908
       ],
-      "comment": "Sea Hag"
+      "comment": "(the sea hag)"
     },
     {
       "cmd": "M",
@@ -227,7 +327,7 @@
         2,
         908
       ],
-      "comment": "Sea Hag"
+      "comment": "(the sea hag)"
     },
     {
       "cmd": "M",
@@ -237,7 +337,7 @@
         2,
         909
       ],
-      "comment": "Merman"
+      "comment": "(the merman)"
     },
     {
       "cmd": "E",
@@ -247,7 +347,7 @@
         30,
         16
       ],
-      "comment": "Trident"
+      "comment": "(a trident)"
     },
     {
       "cmd": "M",
@@ -257,7 +357,7 @@
         2,
         909
       ],
-      "comment": "Merman"
+      "comment": "(the merman)"
     },
     {
       "cmd": "E",
@@ -267,7 +367,7 @@
         30,
         16
       ],
-      "comment": "Trident"
+      "comment": "(a trident)"
     },
     {
       "cmd": "M",
@@ -277,7 +377,7 @@
         3,
         910
       ],
-      "comment": "Crab"
+      "comment": "(the crusty crab)"
     },
     {
       "cmd": "M",
@@ -287,16 +387,17 @@
         3,
         910
       ],
-      "comment": "Crab"
+      "comment": "(the crusty crab)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         910,
-        909
+        909,
+        -1
       ],
-      "comment": ""
+      "comment": "(A pair of boots)"
     },
     {
       "cmd": "O",
@@ -306,7 +407,7 @@
         12,
         910
       ],
-      "comment": "Boots Of Water Walking"
+      "comment": "(A pair of boots)"
     },
     {
       "cmd": "D",
@@ -316,8 +417,8 @@
         1,
         2
       ],
-      "comment": "Treasure Room Door"
+      "comment": "(The Final Trial Of Minos)"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/9.zon"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/9.zon"
 }

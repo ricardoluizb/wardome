@@ -1,0 +1,21 @@
+{
+  "id": 2215,
+  "zone_id": 22,
+  "name": "The Sanctum",
+  "description": "This small room is modestly decorated with small dragon icons.  Its sole\noccupant is deep in thought.",
+  "header_raw": "22 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see the Court.",
+      "keywords": "door white",
+      "door_flag": 1,
+      "key": 2233,
+      "to": 2213
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

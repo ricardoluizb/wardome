@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "The Queen's Bedroom",
   "description": "This is the Queen's bedroom.  The bed is all ruffled, and there\nis a stack of dirty sheets piled in the corner.  There is a ladder\nthat leads down, out of the castle, and you can leave the room\nto the south.  There is also a small wooden door to the west.\nThere is a sign that says:\n\n      -------------------------\n      |  I'm busy right now,  |\n      |  and don't know when  |\n      |  Ill be back, but if  |\n      |  there is a key here  |\n      |  take it and PLEASE,  |\n      |  try to get my birth  |\n      |  control pills back!  |\n      |  I've heard they can  |\n      |  be found somewhere,  |\n      |  deep in the mines..  |\n      -------------------------",
-  "header_raw": "65 d 0",
-  "flags_text": "d",
+  "header_raw": "65 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

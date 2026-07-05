@@ -1,0 +1,29 @@
+{
+  "id": 11524,
+  "zone_id": 115,
+  "name": "The Bar Of Swordsmen",
+  "description": "The Bar of Swordsmen was once upon a time beautifully furnished, but now the\nfurniture is all around you in small pieces (kind of like ;a Frat House).  To\nthe south you see the Tournament and Practice Yard and to the north is the\nEntrance to the Guild of Swordsmen.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11523
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11525
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

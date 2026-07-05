@@ -1,0 +1,37 @@
+{
+  "id": 14238,
+  "zone_id": 141,
+  "name": "Desert Entrance",
+  "description": "You feel the hot desert wind blow sand into your face as you look\nat those dunes.",
+  "header_raw": "141 64 1",
+  "flags_text": "64",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14241
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "tent",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14239
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "tent",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14237
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

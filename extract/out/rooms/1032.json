@@ -1,0 +1,42 @@
+{
+  "id": 1032,
+  "zone_id": 10,
+  "name": "A Crypt",
+  "description": "Standing in this part of the crypt, you notice that there is a set\nof wooden stairs set into the corner of the room, leading up to the\nfloors above.  This small chamber has two other exits, one to the east\nand one to the south through a pair of archways.  Other things of note\nin here are the small metal plates in the walls with tiny brass plaques\nset into each one.",
+  "header_raw": "10 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The crypt continues through the archway to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1033
+    },
+    {
+      "dir": 2,
+      "description": "The crypt continues through the archway to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1035
+    },
+    {
+      "dir": 4,
+      "description": "A wooden staircase leads up to the floors above.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1012
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "metal plate brass plaque wall walls",
+      "description": "The small metal plates in the walls seem to be drawers of some sort.\nEach one is inset with a small brass plaque.  Each plaque lists the\nname of the occupant, none of whom you recognize at all."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

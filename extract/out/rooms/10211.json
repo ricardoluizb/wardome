@@ -1,0 +1,21 @@
+{
+  "id": 10211,
+  "zone_id": 102,
+  "name": "The Dinning Hall",
+  "description": "Indeed the room look quite like a tavern. Lots of soldiers are talking\n, eating and drinkin' here. There are some servants cleaning the tables\nand providing food to the starving army.",
+  "header_raw": "102 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10210
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

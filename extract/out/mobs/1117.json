@@ -1,0 +1,12 @@
+{
+  "id": 1117,
+  "alias": "oldstyle dwarven prince",
+  "short_desc": "the dwarven prince",
+  "long_desc": "The dwarven prince sits here patiently for the return of his king.",
+  "detailed_desc": "Grim and cold, the dwarven prince is quite strong and bulky, even for the\ndwarves of his land.  His glowing eyes peer out of his bushy face and stare\nbeyond your gaze.",
+  "flags_raw": "10 0 200 E",
+  "stats1_raw": "100 -34 -8 1d1+4392 5d11+60",
+  "stats2_raw": "1500 3589522 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/11.mob"
+}

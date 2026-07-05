@@ -1,0 +1,37 @@
+{
+  "id": 6804,
+  "zone_id": 67,
+  "name": "A small haunted grove",
+  "description": "With the exception of the inexplicable darkness permeating this grove,\nthere is little way to explain the odd feeling of foreboding about this\nplace. No birds sing, no rat scurries in the open, the leaves rustle\nbarely enough to break the silence. Yet an odd presence makes itself\nfelt.",
+  "header_raw": "67 1 3",
+  "flags_text": "1",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6806
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6805
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6803
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

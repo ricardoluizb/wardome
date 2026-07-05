@@ -1,0 +1,12 @@
+{
+  "id": 28615,
+  "alias": "Hydra",
+  "short_desc": "Hydra",
+  "long_desc": "Hydra head grins at you evily as you enter this room.",
+  "detailed_desc": "The ghost makes no sound.  It is a shadowy shell of its former self, cursed\nnow to roam forever without rest.  The mind of this creature has been twisted\nand destroyed in this torment, and it now envys and intends to destroy all the\ntrue living beings it encounters, including you.",
+  "flags_raw": "495722 26215560 0 E",
+  "stats1_raw": "200 -90 -27 1d1+13596 5d41+130",
+  "stats2_raw": "3000 28155218 5",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/286.mob"
+}

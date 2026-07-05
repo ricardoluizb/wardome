@@ -1,0 +1,53 @@
+{
+  "id": 507,
+  "zone_id": 5,
+  "name": "&CThe Center of Temple Street&n",
+  "description": "&n   You are at &CThe Center of The Temple Street&n, from here you can go to any\ntemple of the Wardome City. It is quite common to see people fighting here too.\n&n   You see &RThe New Market Square&n to the south, &CThe Fountain Square&n to north,\nand the continuation of the &cTemple Street&n to the east and west.",
+  "header_raw": "5 1048704 0",
+  "flags_text": "1048704",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 503
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 508
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 525
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 506
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 599
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

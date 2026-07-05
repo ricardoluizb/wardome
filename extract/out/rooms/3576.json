@@ -3,8 +3,8 @@
   "zone_id": 35,
   "name": "The Bar",
   "description": "This is where people use to come and enjoy the food, drink and\nhospitality of the Innkeeper, but as of late, he only serves the\nfew adventurers that manage to survive a trip through the forest.\nYou can leave south and return to the common room.",
-  "header_raw": "35 df 1",
-  "flags_text": "df",
+  "header_raw": "35 40 1",
+  "flags_text": "40",
   "sector": 1,
   "exits": [
     {

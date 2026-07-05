@@ -3,8 +3,8 @@
   "zone_id": 50,
   "name": "Beside The Camels",
   "description": "Here stand about ten camels, all hitched to some stakes plugged into \nthe ground.  To the east you see a small tent while to the north you see a \nlarger, fancier tent.",
-  "header_raw": "50 g 2",
-  "flags_text": "g",
+  "header_raw": "50 64 2",
+  "flags_text": "64",
   "sector": 2,
   "exits": [
     {

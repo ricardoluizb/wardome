@@ -1,0 +1,21 @@
+{
+  "id": 30537,
+  "zone_id": 305,
+  "name": "In a Strange Hole",
+  "description": "You have entered a very small place, you cant move here very good, and there\nis nothing important in this room, only a small light that you can see IN the\nground..  You can try to dig to see if something happens.",
+  "header_raw": "305 701 0",
+  "flags_text": "701",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30508
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/305.wld"
+}

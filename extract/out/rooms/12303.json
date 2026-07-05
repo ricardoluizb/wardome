@@ -1,0 +1,29 @@
+{
+  "id": 12303,
+  "zone_id": 122,
+  "name": "The Apple Orchard",
+  "description": "Apple trees of all shapes and sizes, each surrounded by white auras of\nmagical energies, surround you on all sides, each bearing a heavy load\nof the magical apples that sustain the immortality of the Aesir. Thus\nthis grove is of significant importance to the Aesir; should their many\nenemies somehow sabotage the growth of these apples their very existences\nwould be in dire jeopardy.",
+  "header_raw": "122 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12304
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12301
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

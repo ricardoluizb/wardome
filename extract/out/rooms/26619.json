@@ -1,0 +1,29 @@
+{
+  "id": 26619,
+  "zone_id": 266,
+  "name": "Taking objects",
+  "description": "In this room, there is an object in the floor. To see the objects\nin a room, just type 'l' or 'look'. To take the objects, type \n'get OBJECT NAME'. To get all the objects in the room. type 'get all'. \nThe object will go to your inventary. E.G.: get sunglass.\nType 'n' to continue.",
+  "header_raw": "266 1310720 0",
+  "flags_text": "1310720",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26620
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26618
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/266.wld"
+}

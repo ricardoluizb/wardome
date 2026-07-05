@@ -1,0 +1,45 @@
+{
+  "id": 7829,
+  "zone_id": 78,
+  "name": "A Smaller Valley",
+  "description": "You are in another valley within these hills. To the north, you can see a\nbuilding, and to the south you see the trail away from this valley.  The\nwest and east paths surround this building.",
+  "header_raw": "78 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the building.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7834
+    },
+    {
+      "dir": 1,
+      "description": "You see the trail around the building.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7831
+    },
+    {
+      "dir": 2,
+      "description": "You see the trail leading away from this valley.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7828
+    },
+    {
+      "dir": 3,
+      "description": "You see the trail around the building.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7830
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/78.wld"
+}

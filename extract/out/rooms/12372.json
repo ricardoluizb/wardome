@@ -1,0 +1,29 @@
+{
+  "id": 12372,
+  "zone_id": 122,
+  "name": "Ascending the Mountain",
+  "description": "This tunnel rises sharply, heading away from the hot interior back up\nto the chilly upper tunnels of the mountain you are within. You must\nbe approaching the lair of the frost giants, who prefer the cold and\nice more than any native of Asgard and its neighboring realms. It is\nwith some reluctance you continue; frost giants of Jotunheim are far\nmore powerful than those of Midgaard.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12373
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12361
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2228,
+  "zone_id": 22,
+  "name": "Underground Tunnel",
+  "description": "This tunnel has come to a dead end.  You feel nervous about being trapped here.",
+  "header_raw": "22 77 2",
+  "flags_text": "77",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2246
+    },
+    {
+      "dir": 2,
+      "description": "You see the tunnel.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2227
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

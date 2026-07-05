@@ -1,0 +1,45 @@
+{
+  "id": 9802,
+  "zone_id": 98,
+  "name": "Main Room",
+  "description": "In this room, all the feasts in homage to the God Shalynom take place.  \nShalynom is the god which is worshiped by the residents of the temple.",
+  "header_raw": "98 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9809
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9803
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 2,
+      "key": 9810,
+      "to": 9801
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9805
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/98.wld"
+}

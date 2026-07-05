@@ -4,9 +4,9 @@
   "short_desc": "the White Bishop",
   "long_desc": "A light priest stands here.",
   "detailed_desc": "The White Bishop seems willing to help you in any possible so that he can\nattain a higher spirituality.",
-  "flags_raw": "b d 500 S",
-  "stats1_raw": "24 11 1 2d5+350 3d6+13",
-  "stats2_raw": "4000 43500",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "10 50335848 500 E",
+  "stats1_raw": "165 -76 -25 1d1+13860 5d33+136",
+  "stats2_raw": "2475 16994791 7",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/36.mob"
 }

@@ -3,8 +3,8 @@
   "zone_id": 62,
   "name": "A Cave",
   "description": "A single corpse lies here, well away from a pile of \nsimilars to the east.  There are several sharpened stakes \nand rocks sitting about conveniently.  The way the corpse \nis lying, the stone next to its hand... this is a suicide \narea!  You look down upon the orc and comprehend its \nsuffering in its twisted form.  How sad.",
-  "header_raw": "62 d 4",
-  "flags_text": "d",
+  "header_raw": "62 8 4",
+  "flags_text": "8",
   "sector": 4,
   "exits": [
     {

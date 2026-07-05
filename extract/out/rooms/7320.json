@@ -1,10 +1,10 @@
 {
   "id": 7320,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "The Lair End",
   "description": "You can see a table in front of you.  It is very dusty.  Five skeletons are\nsitting around the table.  Exits are north and east.",
-  "header_raw": "73 ad 1",
-  "flags_text": "ad",
+  "header_raw": "72 9 1",
+  "flags_text": "9",
   "sector": 1,
   "exits": [
     {
@@ -26,16 +26,16 @@
   ],
   "extra_descriptions": [
     {
-      "keywords": "table",
-      "description": "On the table there is dust, in the center there is a small statue of a\nDragon sleeping."
+      "keywords": "dragon statue",
+      "description": "It looks like a silver dragon.  It is nailed onto the table.  The dragon sits\non a red dragon that looks dead.  But the eyes of the red dragon are glowing,\npulsating red.  You feel drained."
     },
     {
       "keywords": "skeleton skeletons",
       "description": "They've obviously been killed somehow, but it doesn't look like it was by \nsword or club."
     },
     {
-      "keywords": "dragon statue",
-      "description": "It looks like a silver dragon.  It is nailed onto the table.  The dragon sits\non a red dragon that looks dead.  But the eyes of the red dragon are glowing,\npulsating red.  You feel drained."
+      "keywords": "table",
+      "description": "On the table there is dust, in the center there is a small statue of a\nDragon sleeping."
     }
   ],
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/72.wld"

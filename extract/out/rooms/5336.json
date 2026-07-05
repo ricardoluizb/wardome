@@ -3,8 +3,8 @@
   "zone_id": 53,
   "name": "A Tunnel",
   "description": "The low-ceilinged tunnel makes a turn to the west and ends\nto the north as it spills out into a dusty hallway.",
-  "header_raw": "53 ad 0",
-  "flags_text": "ad",
+  "header_raw": "53 32777 0",
+  "flags_text": "32777",
   "sector": 0,
   "exits": [
     {

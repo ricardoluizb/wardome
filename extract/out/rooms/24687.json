@@ -1,0 +1,21 @@
+{
+  "id": 24687,
+  "zone_id": 245,
+  "name": "The bottomless pit",
+  "description": "You fall, forever downwards into the bottomless pit. About you\nblackness races, with no sign of a wall for support. You look up\nand see the same nothingness as you do downward. What awaits you\nat the bottom? Will you ever reach it?",
+  "header_raw": "245 8388617 0",
+  "flags_text": "8388617",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "Falling further into the black pit",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24688
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/245.wld"
+}

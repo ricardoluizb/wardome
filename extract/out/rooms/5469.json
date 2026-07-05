@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "Alley",
   "description": "This is a tiny corner in the alley.  The temple walls are north and\nwest.  You notice a fair amount of footprints to the east.",
-  "header_raw": "54 a 1",
-  "flags_text": "a",
+  "header_raw": "54 1 1",
+  "flags_text": "1",
   "sector": 1,
   "exits": [
     {

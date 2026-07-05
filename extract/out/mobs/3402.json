@@ -1,0 +1,12 @@
+{
+  "id": 3402,
+  "alias": "oldstyle undead ghoul",
+  "short_desc": "the ghoul",
+  "long_desc": "A ghoul is here staring at you hungrily.",
+  "detailed_desc": "The ghoul no longer resembles the adventurer he once was.  Nonetheless\nhe looks like he hasn't forgot his fighting skills.",
+  "flags_raw": "104 8 -500 E",
+  "stats1_raw": "150 -67 -21 1d1+11400 5d31+120",
+  "stats2_raw": "2250 12495398 6",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/34.mob"
+}

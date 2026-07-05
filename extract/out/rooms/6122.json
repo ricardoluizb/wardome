@@ -3,8 +3,8 @@
   "zone_id": 61,
   "name": "A Small Path In The Deep, Dark Forest",
   "description": "You are on a narrow path leading through the deep, dark forest.  Giant,\ngrey trees loom ominously all around.  The path continues east and south.",
-  "header_raw": "61 ad 3",
-  "flags_text": "ad",
+  "header_raw": "61 13 3",
+  "flags_text": "13",
   "sector": 3,
   "exits": [
     {
@@ -22,6 +22,14 @@
       "door_flag": 0,
       "key": -1,
       "to": 6123
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1706
     }
   ],
   "extra_descriptions": [

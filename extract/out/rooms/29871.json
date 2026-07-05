@@ -1,0 +1,29 @@
+{
+  "id": 29871,
+  "zone_id": 298,
+  "name": "The hole",
+  "description": "You are standing by a large hole in the floor, a ladder leads down into the\ndarkness you feel frightened.",
+  "header_raw": "298 13 2",
+  "flags_text": "13",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29870
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29800
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/298.wld"
+}

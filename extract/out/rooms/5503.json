@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "Clerics' Sanctum",
   "description": "You walk down the staircase into the silent inner sanctum.  Here sits\nyour guildmaster ready to assist you when the time is right.  The room\nis completely silent.  The only obvious exit is back up the staircase\ninto the the Nectar.",
-  "header_raw": "54 deh 0",
-  "flags_text": "deh",
+  "header_raw": "54 152 0",
+  "flags_text": "152",
   "sector": 0,
   "exits": [
     {

@@ -1,0 +1,29 @@
+{
+  "id": 29848,
+  "zone_id": 298,
+  "name": "The passage",
+  "description": "You are in a very narrow tunnel.  The floor is covered with dust.  The tunnel\ncontinues into a large crypt to the south and east to a corridor.",
+  "header_raw": "298 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 29808,
+      "to": 29847
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29849
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/298.wld"
+}

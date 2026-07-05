@@ -1,0 +1,12 @@
+{
+  "id": 11204,
+  "alias": "half-ogre warrior gaoler",
+  "short_desc": "the gaoler",
+  "long_desc": "A half-ogre of immense size lumbers about.",
+  "detailed_desc": "Truly a warrior of formidable strength and skill, the gaoler is not\na foe to be easily dismissed. However, his movements are jerky, and\nsluggish, as if he were doing this against his will, and this lack\nof co-ordination can only benefit people who would do battle with him.",
+  "flags_raw": "106 0 -500 E",
+  "stats1_raw": "35 -15 -8 1d1+3492 5d7+104",
+  "stats2_raw": "525 238782 9",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

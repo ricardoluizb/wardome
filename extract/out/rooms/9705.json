@@ -1,0 +1,45 @@
+{
+  "id": 9705,
+  "zone_id": 97,
+  "name": "Zeus Street",
+  "description": "You are walking down what appears to be the main street of this city.\nYou see large residences to the east and west, while the street continues\nto the north and south.",
+  "header_raw": "97 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9706
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9724
+    },
+    {
+      "dir": 2,
+      "description": "The street continues.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9704
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9725
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/97.wld"
+}

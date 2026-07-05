@@ -1,0 +1,38 @@
+{
+  "id": 8107,
+  "zone_id": 81,
+  "name": "The Old Plank Road",
+  "description": "Your feet resound on the planks of this road, built for safe travel   \nin times long past by Korbor the Fat, King of Lonoya.\nThe plank-paved road winds east and south.  A milestone stands near.\nA sign stands at the intersection of this fine road, and the path to\nthe mountain cave.  The dirt road to the south used to be blocked\nbut now the way has been cleared.",
+  "header_raw": "81 64 1",
+  "flags_text": "64",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A grass-grown path leads to a cave in the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8106
+    },
+    {
+      "dir": 1,
+      "description": "The road continues east to a city.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8108
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "milestone mile stone",
+      "description": "It says \"Sorvecgden-Lacgorr 6 stadia\""
+    },
+    {
+      "keywords": "sign",
+      "description": "It has boards with fingers pointing north, south, and west.\n\n                          EAST - Ofingia\n                          SOUTH - Sorvecgden-Lacgorr \n                          NORTH - Midgaard\n              Welcome, Stranger, to the Fiefdom of Lonoya.\n              You of good will may wander freely through\n              our kingdom.  Report all strange happenings\n              to Pippin, Emperor of the Lands of Eighty One."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

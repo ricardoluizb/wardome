@@ -1,0 +1,12 @@
+{
+  "id": 2225,
+  "alias": "oldstyle dragon green",
+  "short_desc": "the Ancient Green Dragon",
+  "long_desc": "A green dragon is here, looking distraught.",
+  "detailed_desc": "This huge beast appears to be the most directly related to the draconians. \nShe looks at you with sorrow in her eyes and says 'You have slaughtered my \nchildren.  Prepare to die.'",
+  "flags_raw": "329770 8389800 -1000 E",
+  "stats1_raw": "180 -86 -29 1d1+16560 5d37+152",
+  "stats2_raw": "2700 22747979 8",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/22.mob"
+}

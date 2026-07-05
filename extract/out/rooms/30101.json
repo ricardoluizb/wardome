@@ -1,0 +1,37 @@
+{
+  "id": 30101,
+  "zone_id": 301,
+  "name": "Where no Life Dwells",
+  "description": "Before the creation of time, When nothingness was all, And a fiery star's\nimplosion, Caused the universe to fall.  Worlds in utter chaos and plague, Were\ndoomed to die at last, Vanished in the blackest void, A recreation of the past.\nBefore the creation of time, When emptyness was all, Utter darkness enlights\nthe way, To the surrounding walls, Journey through what mustn't be seen, To\nwhere no life dwells.  From here no one shall live to tell.",
+  "header_raw": "301 6291652 0",
+  "flags_text": "6291652",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 0,
+      "key": 30102,
+      "to": 30102
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 5022
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/301.wld"
+}

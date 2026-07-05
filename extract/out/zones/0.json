@@ -2,11 +2,11 @@
   "id": 0,
   "name": "Limbo - Internal",
   "header": {
-    "raw": "0 99 10 2",
-    "min_room": 0,
-    "top_room": 99,
-    "lifespan": 10,
-    "reset_mode": 2
+    "raw": "99 10 2 0 -1",
+    "min_room": 99,
+    "top_room": 10,
+    "lifespan": 2,
+    "reset_mode": 0
   },
   "commands": [
     {
@@ -17,8 +17,28 @@
         1,
         1
       ],
-      "comment": "Puff"
+      "comment": "(Puff)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        99,
+        1,
+        99
+      ],
+      "comment": "(Death)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        99,
+        1,
+        16
+      ],
+      "comment": "(the Scythe of Death)"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/0.zon"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/0.zon"
 }

@@ -1,0 +1,45 @@
+{
+  "id": 2346,
+  "zone_id": 23,
+  "name": "The firepit before the lodge",
+  "description": "You stand at the edge of a huge firepit. The heat from the burning embers\nmakes you sweat as you stand here. Large spits above the pit are empty but\nthey appear to be quite large enough to hold hapless adventurers. A large\nlodge is towards the north, while paths lead east, west, and south into the\nvillage itself.",
+  "header_raw": "23 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2348
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2347
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2343
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2345
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

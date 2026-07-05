@@ -1,0 +1,34 @@
+{
+  "id": 208,
+  "zone_id": 2,
+  "name": "A Hallway",
+  "description": "The hallway naturally twists so that is seems to head east and down, but\nthe hallway doesn't seem to be curved or bent in any way.",
+  "header_raw": "2 9 6",
+  "flags_text": "9",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "There is a large room to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 206
+    },
+    {
+      "dir": 5,
+      "description": "The hallway continues to the south... er... below.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 209
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "hallway hall",
+      "description": "It is dead straight but it goes down and east... M.C.Escher has struck\nagain!"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/2.wld"
+}

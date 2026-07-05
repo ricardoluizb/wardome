@@ -1,0 +1,37 @@
+{
+  "id": 13123,
+  "zone_id": 131,
+  "name": "Sixth Floor Landing",
+  "description": "You are standing on the landing of the sixth floor.  The muscles in your\nbody ache, you're thirsty, you haven't eaten for some time, and now would be a\ngood time to rest some.",
+  "header_raw": "131 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A strange humming is north of you.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13124
+    },
+    {
+      "dir": 3,
+      "description": "Yet another antechamber is west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13125
+    },
+    {
+      "dir": 5,
+      "description": "Stairs lead down from here.",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 13122
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/131.wld"
+}

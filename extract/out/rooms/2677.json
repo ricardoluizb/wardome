@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Audience Chamber",
   "description": "You are in a large chamber.  Small bolts of energy leap from wall to\nwall, crackling with power.  The floor is a swirl of indeterminable colours\nand patterns ever changing.  Bright bursts of colour seem to explode into\nthe air and fade again at random times.  All this splendor plays about and\ndraws attention to a large throne in the center of the room, it seems to be\ncut from a single enormous emerald.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

@@ -1,0 +1,37 @@
+{
+  "id": 5828,
+  "zone_id": 57,
+  "name": "Another Door",
+  "description": "You are standing outside another door. From behind this one you can hear\nthe sounds of pots being smashed and what sounds like the snortings of a \nbull...",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a minotaur room",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5829
+    },
+    {
+      "dir": 2,
+      "description": "a junction",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5831
+    },
+    {
+      "dir": 3,
+      "description": "a junction",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5826
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

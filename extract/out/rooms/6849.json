@@ -1,0 +1,21 @@
+{
+  "id": 6849,
+  "zone_id": 67,
+  "name": "A dark corner of the tavern",
+  "description": "The loners of Sundhaven gather here (figure *that* one out) to\nmourn their losses over gallons of liquid spirits. Occasionally,\none can be seen passed out on the floor, robbed by some thief\nslipping in from the Nightbreak, but generally the livers here\nare stout from long and weary experiences.",
+  "header_raw": "67 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6749
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

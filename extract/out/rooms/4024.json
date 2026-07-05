@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Damp Tunnel",
   "description": "The tunnel you are in now is very humid, and the air seems to almost\nhang with moisture.  The walls drip with an almost constant water flow,\nand the ground is covered with small pools of stagnent water.\n   The tunnel leads away to the south, and to the west you can feel that\nthe air is even damper than here.",
-  "header_raw": "40 ad 3",
-  "flags_text": "ad",
+  "header_raw": "40 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

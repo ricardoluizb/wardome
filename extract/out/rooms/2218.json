@@ -1,0 +1,29 @@
+{
+  "id": 2218,
+  "zone_id": 22,
+  "name": "Entrance to the Crypt",
+  "description": "You have entered a large room which smells heavily of reptile.  You wonder\nwhat awaits you here.",
+  "header_raw": "22 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see the Treasure Vault.",
+      "keywords": "door ruby",
+      "door_flag": 2,
+      "key": 2232,
+      "to": 2209
+    },
+    {
+      "dir": 3,
+      "description": "You see the Crypt.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2219
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

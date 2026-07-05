@@ -1,0 +1,53 @@
+{
+  "id": 28610,
+  "zone_id": 286,
+  "name": "Exploring the Dragon Village .",
+  "description": "You find yourself floating in a field of blackness, filled with tiny\ntendrils of silvery light and insubstantial shining motes of dust.  The\nweightlessness of this environment is very disorienting, and it is difficult to\nmaintain your bearings and sense of direction.",
+  "header_raw": "286 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The Dragon Village field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28615
+    },
+    {
+      "dir": 1,
+      "description": "The Dragon Village field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28607
+    },
+    {
+      "dir": 3,
+      "description": "The Dragon Village field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28608
+    },
+    {
+      "dir": 4,
+      "description": "The Dragon Village field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28613
+    },
+    {
+      "dir": 5,
+      "description": "The Dragon Village field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28609
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/286.wld"
+}

@@ -4,9 +4,9 @@
   "short_desc": "Uthman",
   "long_desc": "The third of the rightly-guided Caliphs, Uthman, stands before you.",
   "detailed_desc": "He was chosen as leader by a clique of jealous rivals who could agree\nupon no other.  The memory of the Prophet fading quickly from the minds\nof the faithful, he could do little, and was in the end killed by his\nenemies.",
-  "flags_raw": "bf dk 1000 S",
-  "stats1_raw": "26 -4 -5 4d10+840 4d9+6",
-  "stats2_raw": "34000 180000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "42 1032 1000 E",
+  "stats1_raw": "170 -77 -24 1d1+12912 5d35+128",
+  "stats2_raw": "2550 17975097 6",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/15.mob"
 }

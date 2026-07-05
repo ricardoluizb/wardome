@@ -1,0 +1,29 @@
+{
+  "id": 10469,
+  "zone_id": 104,
+  "name": "Wall of Fire",
+  "description": "This large room is cut in into sections by small walls of fire. The walls\nto move slowly changing the layout of the room. As you examine the room\nfurther you notice various posts around the room to which people are\nchained. The firewalls seem to move in patterns that leave the poor\npeople directly in the path of the oncoming fire. The walls seem to creep\never so slowly towards them. The people blister and scream as the fire gets\ncloser. Their deaths seem like minutes of agony and pain, and even as they\nburst into flames they seem incapable of grasping the merciful attention of\ndeath...\nTo the north you see a hall of fire.\nTo the east you see a lake of fire.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a hall of fire.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10459
+    },
+    {
+      "dir": 1,
+      "description": "You see a Lake of fire.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10470
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

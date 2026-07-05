@@ -1,0 +1,21 @@
+{
+  "id": 11591,
+  "zone_id": 115,
+  "name": "Rebecca's Office",
+  "description": "As you enter the office, the first thing you notice is a very comfortable\ncouch and you realize that it has been used for more than midday naps.  You\nalso infer from the couch that the desk has been used for more than business\nwork (well, maybe it's been used for a different kind of business).  The bar is\nto east.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11588
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1008,
+  "zone_id": 10,
+  "name": "The High Pews",
+  "description": "Standing amongst these pews, you notice that they appear to be in\nbetter shape than the ones farther to the south.  Another noticable\nthing is that the pews themselves seem to be of a much higher quality\nthan the ones to the south.  Perhaps this is where the nobles used to\nworship.  Unfortunately, all has fallen into decay and neglect.\n   The altar is located just to the north, but there is something ever\nso slightly suspicious about it.  There is an open area to the south\njust before the jumble of pews that can be seen there.",
+  "header_raw": "10 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The altar stands right before you.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1009
+    },
+    {
+      "dir": 2,
+      "description": "There is an open area just to the south, between these pews and the\ncommon peoples' pews.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1005
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

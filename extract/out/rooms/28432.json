@@ -1,0 +1,29 @@
+{
+  "id": 28432,
+  "zone_id": 284,
+  "name": "Monsters Prison",
+  "description": "A Sign:\n  By the power of Poseidon,the god of gods,this cruel creatures now are here:\n          Seamon & Seagora who mutiled body of thousands.\n          Godzila who bring pain, agony e suffer to all lands in this world. \nSacifices are avaliable only when ground shakes and the terrible roars begins.",
+  "header_raw": "284 136 6",
+  "flags_text": "136",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A landing is north of you.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28431
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 2,
+      "key": 28418,
+      "to": 28435
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/284.wld"
+}

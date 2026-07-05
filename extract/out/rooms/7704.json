@@ -1,0 +1,42 @@
+{
+  "id": 7704,
+  "zone_id": 77,
+  "name": "On the Rainbow",
+  "description": "You are nearing the end of the rainbow.  The beams of multicoloured\nlight have begun to merge and solidify.  All around you you see glowing\nstarlike motes of dust.  Ahead of you is a bridge.",
+  "header_raw": "77 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "The rainbow extends above you, merging into a brilliant glowing\nbridge.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7705
+    },
+    {
+      "dir": 5,
+      "description": "The rainbow extends far below you, slowly fading into darkness.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7703
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "rainbow",
+      "description": "The rainbow brilliantly glows with beams of blinding light, in colours that \nsweep together and merge before your eyes."
+    },
+    {
+      "keywords": "motes star stars dust",
+      "description": "The star-like motes dance before your eyes.  They are incredibly beautiful yet\nintangible -- your hand passes right through them."
+    },
+    {
+      "keywords": "bridge",
+      "description": "The colors of the rainbow seem to converge into a glowing bridge that leads\nto a massive white gate."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/77.wld"
+}

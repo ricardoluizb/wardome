@@ -1,0 +1,12 @@
+{
+  "id": 612,
+  "alias": "snail",
+  "short_desc": "the snail",
+  "long_desc": "A snail is trying to get out of your way.",
+  "detailed_desc": "You don't see much but slime about it.",
+  "flags_raw": "1048648 0 0 E",
+  "stats1_raw": "0 0 20 10d1+1 0d10+1",
+  "stats2_raw": "0 0 0",
+  "stats3_raw": "0 8 0 0 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/6.mob"
+}

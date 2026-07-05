@@ -1,0 +1,21 @@
+{
+  "id": 2922,
+  "zone_id": 29,
+  "name": "Fire Newt House",
+  "description": "You are standing in a fire newt house.  There is a fire newt mother here\nplaying with her children.  The room has several torn baby newt diapers here\n... how disgusting!",
+  "header_raw": "29 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see the dark tunnel.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2921
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/29.wld"
+}

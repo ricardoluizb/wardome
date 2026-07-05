@@ -1,0 +1,12 @@
+{
+  "id": 9997,
+  "alias": "ghenna deepspawn",
+  "short_desc": "the Deepspawn",
+  "long_desc": "The Deepspawn is standing here, ready to kill you.",
+  "detailed_desc": "It looks like a large, rubbery shpere of mottled grey and brown.  Six\narms project from its body; three are tentacle-arms, and three are jaw-arms,\nending in mouths of many teeth.  It also has about 40 long, retractable,\nflexible eye stalks that wave at you menacingly.",
+  "flags_raw": "133290 1192 -1000 E",
+  "stats1_raw": "25 6 4 1d1+900 5d3+20",
+  "stats2_raw": "375 80053 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/99.mob"
+}

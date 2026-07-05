@@ -1,0 +1,29 @@
+{
+  "id": 192,
+  "zone_id": 1,
+  "name": "Dark Tunnel",
+  "description": "As your eyes adjust to the darkness, you see that you are in a\ntunnel hewn out of the cliff rockbed.  A feeling in your gut tells you\nthat this tunnel was not made by ordinary creatures.  Little tracks\nlead to and from a crude nest near the tunnel entrance.  A sudden\nmovement catches your eye and you see the fleeing form of some small\ncreature dashing outside through the rockfall.  You can explore the\ntunnel more to the north or head back outside.",
+  "header_raw": "1 325 0",
+  "flags_text": "325",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 193
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "rock",
+      "door_flag": 1,
+      "key": 0,
+      "to": 186
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/1.wld"
+}

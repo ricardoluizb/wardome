@@ -1,0 +1,12 @@
+{
+  "id": 29507,
+  "alias": "paris",
+  "short_desc": "Paris",
+  "long_desc": "Paris, a prince of Troy, glares arrogantly at you.",
+  "detailed_desc": "Here he is, the rogue who stole away Helen from Menelaus. Paris is not a mean\nor spiteful man, just a lustful one. Unfortunately his breach of the host-\nguest code of behaviour will cost his whole city its existence.",
+  "flags_raw": "202 8192 200 E",
+  "stats1_raw": "140 -58 -17 1d1+8400 5d15+96",
+  "stats2_raw": "2100 9766955 4",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/295.mob"
+}

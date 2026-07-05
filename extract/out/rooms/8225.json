@@ -1,0 +1,37 @@
+{
+  "id": 8225,
+  "zone_id": 82,
+  "name": "The Second Floor Of Notre Dame",
+  "description": "You are dazzle for a moment with the light of the sun. You open your eyes and\nyou are amazed. From here you can see all the city of Paris the beautiful\nhouses of the city. You wish you could stay and see it at night, but you must\ncontinue. From here you can open the trapdoor and go to the steeple.",
+  "header_raw": "82 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8227
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "trapdoor",
+      "door_flag": 1,
+      "key": 0,
+      "to": 8226
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8214
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

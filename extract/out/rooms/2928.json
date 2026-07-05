@@ -1,0 +1,29 @@
+{
+  "id": 2928,
+  "zone_id": 29,
+  "name": "Entrance to the temple",
+  "description": "You are standing at the entrance to the temple.  The temple is very neat. \nThe sates are set in straight rows and the alter is very large.",
+  "header_raw": "29 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see the door, that leads to the inside of the temple.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2929
+    },
+    {
+      "dir": 3,
+      "description": "You see the outside of the temple.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2927
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/29.wld"
+}

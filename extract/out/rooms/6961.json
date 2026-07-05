@@ -1,0 +1,21 @@
+{
+  "id": 6961,
+  "zone_id": 69,
+  "name": "The Storm Cellar",
+  "description": "You are inside of the small storm cellar below the ground.  It looks like it\nwould hold up to a huge storm.  In fact, it is.  Right now.  Boxes of small\nfoods and drinks are in the one corner, along with a bench in another.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6929
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

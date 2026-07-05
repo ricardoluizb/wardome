@@ -1,0 +1,37 @@
+{
+  "id": 13200,
+  "zone_id": 132,
+  "name": "A Mountain Road",
+  "description": "You are at the beginning of a steep mountain path.  The road appears to \nbe very wide and well-traveled.  You wonder what could possible be at the top\nof a mountain so steep.",
+  "header_raw": "132 16777216 5",
+  "flags_text": "16777216",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a road",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13201
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11002
+    },
+    {
+      "dir": 2,
+      "description": "back to Aesir",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

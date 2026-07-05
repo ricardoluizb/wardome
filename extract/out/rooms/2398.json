@@ -1,0 +1,26 @@
+{
+  "id": 2398,
+  "zone_id": 23,
+  "name": "Dorgar's Dismal Domicile",
+  "description": "This room is dirty and unkempt. Odds and ends of different items lie all over.\nIt is apparent that some type of pack-rat lives here. It appears as though\nnothing has ever entered this room and ever left again. A &Ccyan&n door leads west.",
+  "header_raw": "23 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "You see a &Ccyan&n door there.",
+      "keywords": "door cyan",
+      "door_flag": 2,
+      "key": 2358,
+      "to": 2397
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "grey",
+      "description": "It looks like it leads back to the hall."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

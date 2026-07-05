@@ -1,0 +1,12 @@
+{
+  "id": 9923,
+  "alias": "ghenna swordmaster",
+  "short_desc": "the Ghenna Swordmaster",
+  "long_desc": "A broad shouldered man lies prostrate here, apparently praying.",
+  "detailed_desc": "A huge man with a long black beard, the Ghenna Swordmaster is tatooed\nwith rune-like scars from head to toe.  Shrouded in vermillion, he wields a\nsword of stunning beauty, which sings through the air as he attacks you.",
+  "flags_raw": "194618 1192 -1000 E",
+  "stats1_raw": "40 -2 2 1d1+1440 5d5+26",
+  "stats2_raw": "600 276448 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/99.mob"
+}

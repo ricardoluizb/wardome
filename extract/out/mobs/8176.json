@@ -1,0 +1,12 @@
+{
+  "id": 8176,
+  "alias": "great goblin",
+  "short_desc": "the Great Goblin",
+  "long_desc": "The Great Goblin sees you and calls his guards!",
+  "detailed_desc": "His head is bigger than any goblin's you have seen, and he is quite proud\nof it.  This goblin is quite strong, and quite ugly, and has quite a few\nguards around him.  Kill him, and King Korbor will repay you handsomely.",
+  "flags_raw": "6254 1024 -990 E",
+  "stats1_raw": "176 -90 -32 1d1+20412 5d52+180",
+  "stats2_raw": "2640 26099728 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

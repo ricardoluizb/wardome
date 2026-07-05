@@ -1,0 +1,29 @@
+{
+  "id": 9032,
+  "zone_id": 90,
+  "name": "The Wasteland Hills",
+  "description": "You are on a path leading through the wasted hills.  To the \nnorth you barely make out the contours of a pointy mountain and \nits foothills.",
+  "header_raw": "90 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9033
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9039
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/90.wld"
+}

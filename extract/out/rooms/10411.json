@@ -1,0 +1,29 @@
+{
+  "id": 10411,
+  "zone_id": 104,
+  "name": "Mural of the Dead",
+  "description": "You stand before a large mural. The mural depicts mountains of dead\nbodies piled up to the sky. The mural covers the whole north wall from\nfloor to ceiling. You can smell the stench of decaying flesh.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "It's too smoky to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10412
+    },
+    {
+      "dir": 2,
+      "description": "It's too smoky to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10410
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 14338,
+  "zone_id": 143,
+  "name": "The Bedroom of Cleopatra",
+  "description": "This chamber is filled with huge couches and beds. The sheets are made with\nsilk and large curtains and veils hang down from the ceiling blocking out most\nof the light. A shapely woman is here, wearing a golden veil.",
+  "header_raw": "143 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A small room lit from sunlight.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14339
+    },
+    {
+      "dir": 1,
+      "description": "The room to the west is dark.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14337
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

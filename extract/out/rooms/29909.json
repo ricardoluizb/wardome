@@ -1,0 +1,37 @@
+{
+  "id": 29909,
+  "zone_id": 298,
+  "name": "Eastern main street, under bakery",
+  "description": "All around you trees rise up with flets in them that the elves live in.  One\nlarge flet is directly above you and a very sweet smell is coming from it.  \nWalking a little further you see it is a bakery.  The road moves further east\nand it gets very quiet here except for an occasional song floating out onto the\nbreeze.",
+  "header_raw": "298 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29911
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29902
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29910
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 6792,
+  "zone_id": 67,
+  "name": "A stony drop",
+  "description": "Rocks go streaming down and over the cliff as you slide and skip\ndown a sheer drop of a trail. You have little time to take in\nyour surroundings, as your attention is focused on keeping a \npurchase on the skiddy soil.... the cliff's brink is always\nclose at hand.",
+  "header_raw": "67 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6791
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6793
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2324,
+  "alias": "oldstyle keeper minotaur ring-keeper",
+  "short_desc": "the Minotaur Ring-Keeper",
+  "long_desc": "The minotaur ring-keeper stands guarding his post.",
+  "detailed_desc": "The ring-keeper is a huge minotaur. You notice a huge ring of multicolored\nkeys hanging from his belt. He wears huge, spiked brass knuckles.",
+  "flags_raw": "78 136 -300 E",
+  "stats1_raw": "190 -79 -21 1d1+8352 5d20+96",
+  "stats2_raw": "2850 22946581 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/23.mob"
+}

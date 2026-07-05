@@ -1,0 +1,12 @@
+{
+  "id": 7050,
+  "alias": "slave zombie",
+  "short_desc": "a Slave looking zombie",
+  "long_desc": "A slave looking zombie attacks you ordened by someone.",
+  "detailed_desc": "A common zombie",
+  "flags_raw": "520232 177180 0 E",
+  "stats1_raw": "200 -80 -20 1d1+5592 5d21+80",
+  "stats2_raw": "3000 21657860 0",
+  "stats3_raw": "8 8 1 10 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/70.mob"
+}

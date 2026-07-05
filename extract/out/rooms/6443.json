@@ -3,8 +3,8 @@
   "zone_id": 64,
   "name": "The Stairs",
   "description": "Stairs lead up here to the first level of the basement, or\nyou can go east to another big room.",
-  "header_raw": "64 ad 0",
-  "flags_text": "ad",
+  "header_raw": "64 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

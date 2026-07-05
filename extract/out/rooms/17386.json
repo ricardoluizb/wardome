@@ -1,0 +1,34 @@
+{
+  "id": 17386,
+  "zone_id": 173,
+  "name": "The Rocky Coast",
+  "description": "You have picked your way through the rocky coast. The weather has been \nfoul, which has influenced your mood. The road vanished 2 days ago. Now \nyou stand on a cliff overlooking the vast ocean. The mist obscures your \nview of the horizon, but you know its there- somewhere. Far below you is \na rocky beach.",
+  "header_raw": "173 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "More rocks and rain",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17384
+    },
+    {
+      "dir": 5,
+      "description": "The rocky beach",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17389
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "beach",
+      "description": "You look at the beach, and you are glad you did. You see smoke coming up \nfrom the beach and now as you look closer you see the dwellings of a \nbarbaric people. The beach is definitly inhabited."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

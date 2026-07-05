@@ -1,0 +1,12 @@
+{
+  "id": 17627,
+  "alias": "oldstyle page",
+  "short_desc": "a page",
+  "long_desc": "A page is here, sending a message to his knight.",
+  "detailed_desc": "The page smiles for you, asking if he can do you a favor too.",
+  "flags_raw": "72 8192 1000 E",
+  "stats1_raw": "30 5 5 1d1+630 5d4+12",
+  "stats2_raw": "450 105901 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/176.mob"
+}

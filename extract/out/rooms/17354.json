@@ -1,0 +1,34 @@
+{
+  "id": 17354,
+  "zone_id": 173,
+  "name": "Noble Road",
+  "description": "You stand on Noble Road. The street is paved in yellow stone, giving the \nimpression of gold in the wet sections. A statue of Uther Pendragon is \nhere. The road continues east and west.",
+  "header_raw": "173 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Noble Road",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17361
+    },
+    {
+      "dir": 3,
+      "description": "Corner of Knight's Way and Noble Road",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17349
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "statue uther pendragon",
+      "description": "You look at the statue. Uther Pendragon wears chain mail and bears a \ngiant axe. His beard flows along his lines, and his eyes bore into you \nwith an uneasy intensity."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

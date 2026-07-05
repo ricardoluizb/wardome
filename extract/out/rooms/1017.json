@@ -1,0 +1,29 @@
+{
+  "id": 1017,
+  "zone_id": 10,
+  "name": "The Bell Tower",
+  "description": "You stand in a small room at the top of the old wooden staircase.  An\nexit to the east leads into what must certainly be the main bell room.\nLoud chimes peal their solemn tones which, due to your certain proximity,\nleave your ears ringing.\n   The wooden stairs lead down back towards the main section of the church\nproper.",
+  "header_raw": "10 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Looking eastwards, you can see the dim light creating eerie shadows with\nthe objects in the room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1018
+    },
+    {
+      "dir": 5,
+      "description": "The stairs lead down towards ground level.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1016
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

@@ -4,9 +4,9 @@
   "short_desc": "the efreeti",
   "long_desc": "The efreeti stands here, sheathed in a column of fire.",
   "detailed_desc": "The efreeti is a mighty being formed from living fire.  He gazes down at\nyou with disdain and scorn, arms folded across his mighty chest.",
-  "flags_raw": "abeflnopqr dkp -600 S",
-  "stats1_raw": "20 0 -1 20d20+200 4d6+4",
-  "stats2_raw": "11000 40000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "256059 33800 -600 E",
+  "stats1_raw": "120 -40 -8 1d1+3360 5d13+48",
+  "stats2_raw": "1800 4918761 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/53.mob"
 }

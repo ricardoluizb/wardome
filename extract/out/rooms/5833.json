@@ -1,0 +1,29 @@
+{
+  "id": 5833,
+  "zone_id": 57,
+  "name": "A Locked Steel Door",
+  "description": "This hefty portal blocks any further progress in this direction, unless\nyou have a skeleton key...:)",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "dragon cave",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5832
+    },
+    {
+      "dir": 1,
+      "description": "the warlock's chambers",
+      "keywords": "chamber door",
+      "door_flag": 1,
+      "key": 5807,
+      "to": 5834
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

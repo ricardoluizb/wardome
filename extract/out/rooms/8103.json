@@ -1,0 +1,34 @@
+{
+  "id": 8103,
+  "zone_id": 81,
+  "name": "A Narrow Ledge",
+  "description": "The stream plunges downward, to join another, which foams and rages far\nbelow you in a deeply cleft canyon.  You hear nothing above the water's \nroar.  Like a cat you tread on a spray-wet ledge only six inches wide.\nNot a nice place.  You do not look down as you continue.  A traveler\nmust count courage among his baggage, no? Perhaps you will be repaid.  \nThrough the mists to the south you glimpse a golden gleam.  To go there\nyou must creep cautiously along a ledge too narrow for a surefooted\ncat, and slippery as fish skin.  It is not too late to turn back!\nA narrow crevasse leads down the cliff, but only an acrobat\ncould turn round and descend it. Your nose brushes an inscription.",
+  "header_raw": "81 393 5",
+  "flags_text": "393",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The wise (if poor) man may return north to a larger cave.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8102
+    },
+    {
+      "dir": 2,
+      "description": "Your grandmother told you once of a lost gold mine in these mountains.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8104
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "inscription",
+      "description": "It is in every known language, and some others:\n                       W A R N I N G ! ! ! \n                The Ledge to the South is Unsafe!!"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

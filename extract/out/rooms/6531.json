@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "The Queen's Waiting Room",
   "description": "This is the Queen's waiting room.  Here the men literally\n'wait' for the queen.  You've heard that the queen really\nlikes to get to 'know' her people, in the biblical sense.\n   The Queen's bedroom is to the north, and you can see stairs\nto the west.",
-  "header_raw": "65 d 0",
-  "flags_text": "d",
+  "header_raw": "65 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

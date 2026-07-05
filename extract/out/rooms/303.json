@@ -1,0 +1,45 @@
+{
+  "id": 303,
+  "zone_id": 3,
+  "name": "Path in the plains",
+  "description": "You are walking on a path situated in the rough plains.\nYou feel the strong winds blow through your hair as you study\nthe beautiful landscaping here. The path leads north and south.\nTo the east and the west you have the grassy plains.",
+  "header_raw": "3 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You notice nothing special, except that the path in the plains continues.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 304
+    },
+    {
+      "dir": 1,
+      "description": "To the east you notice the grassy plains.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 317
+    },
+    {
+      "dir": 2,
+      "description": "You notice nothing special, except that the path in the plains continues.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 302
+    },
+    {
+      "dir": 3,
+      "description": "To the west you can see more of the beautiful grassy plains.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 315
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/3.wld"
+}

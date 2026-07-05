@@ -1,0 +1,21 @@
+{
+  "id": 754,
+  "zone_id": 7,
+  "name": "The Herbalist's Shoppe",
+  "description": "A wonderful smell wafts from the inside of this shop as you enter.\nWhat a beautiful place!  Freshly cut flowers decorate every nook and\ncranny, while small pots of herbs bubble faintly over candles.\nExtremely bright lanterns keep the place perpetually lit and the\nplants healthy.  You feel perfectly at home here, and the atmosphere\nis such that you can hardly pull yourself away...",
+  "header_raw": "7 248 0",
+  "flags_text": "248",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 723
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

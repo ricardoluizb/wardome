@@ -1,0 +1,37 @@
+{
+  "id": 712,
+  "zone_id": 7,
+  "name": "Intersection",
+  "description": "Moon Gate Road and Citizen's Road intersect here.  Many citizens\nwalk about under the starlight here, in a hurry to get to shops, their\nhomes, to work, et cetera.  Citizen's Road is to the north, Moon Gate\nRoad continues east and west.",
+  "header_raw": "7 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 713
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 711
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 726
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

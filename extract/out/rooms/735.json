@@ -1,0 +1,37 @@
+{
+  "id": 735,
+  "zone_id": 7,
+  "name": "Wall Side Road, North",
+  "description": "This is Wall Side Road, named such for its proximity to...the\ncity's wall.  To your east is a recruiting office for the city militia\nof Kerofk.  Wall Side Road continues north and south.",
+  "header_raw": "7 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 736
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 771
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 734
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

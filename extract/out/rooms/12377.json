@@ -1,0 +1,29 @@
+{
+  "id": 12377,
+  "zone_id": 122,
+  "name": "The Icy Chute",
+  "description": "Onwards and upwards the chute ascends; progress is hampered by frostbite\nin your aching hands, and a constant chill breeze that assaults you,\nblowing ice and snow into your reddened face. When you emerge, snowblind\nand dazed, you hope you can muster enough energy to do battle with what\nawaits.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12375
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12376
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

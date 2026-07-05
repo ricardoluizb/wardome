@@ -4,9 +4,9 @@
   "short_desc": "the chimera",
   "long_desc": "A creature with three heads: lion, goat, and dragon stands here.",
   "detailed_desc": "The chimera is still a mystery, better left unexplored.  This creature\nhas the hindquarters of a goat, the forepaws of a lion and the body of\na red dragon.",
-  "flags_raw": "bflq dgkp -500 S",
-  "stats1_raw": "9 5 0 5d5+261 3d4+4",
-  "stats2_raw": "0 3500",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "67626 33864 -500 E",
+  "stats1_raw": "9 16 8 1d1+189 5d1+2",
+  "stats2_raw": "135 5626 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

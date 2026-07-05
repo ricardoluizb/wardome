@@ -1,0 +1,21 @@
+{
+  "id": 30516,
+  "zone_id": 305,
+  "name": "&BO Templo dos Goraks&n",
+  "description": "Essa e' uma escura e gosmenta sala...  Quase nao entra luz nesse lugar\ntenebroso.  Um forte fedor consome toda a sala...  Os reflexos das sombras, as\nquais completam a sala, refletem em uma forte e silenciosa armadura, posta no\ncentro do templo.  A saida a estrada dos templos e' ao sul.",
+  "header_raw": "305 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30507
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/305.wld"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 6719,
+  "zone_id": 67,
+  "name": "At the gallows",
+  "description": "In the shade of old gnarl-limbed elder trees stands the bane of all thieves\nand murderers, the platform of the gallows. The dark sand of the road shows\nnone of the blood that has been shed here, but the legends of the dead live\non in tales and nightmares. The executions still take place at irregular\nintervals, to the joy of hidden enemies and law-abiding citizens. You\nnote there is plenty of room for spectators.\nBesides the east-west road, a stone arch stands to the north, and a\nwell-travelled path leads southwards.",
+  "header_raw": "67 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6728
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6722
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6741
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6707
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

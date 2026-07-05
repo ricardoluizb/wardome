@@ -4,9 +4,9 @@
   "short_desc": "the wraith",
   "long_desc": "A wraith is awaiting your first move here.",
   "detailed_desc": "A black, almost transparent wraith.",
-  "flags_raw": "abfnopr dfk -900 S",
-  "stats1_raw": "25 4 -6 9d7+500 4d5+25",
-  "stats2_raw": "45708 125000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "188459 1064 -900 E",
+  "stats1_raw": "58 -9 1 1d1+1215 5d6+22",
+  "stats2_raw": "870 628905 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/65.mob"
 }

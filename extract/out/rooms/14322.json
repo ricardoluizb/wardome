@@ -1,0 +1,29 @@
+{
+  "id": 14322,
+  "zone_id": 143,
+  "name": "Approaching the Palace",
+  "description": "The street here is paved and the buildings are extravagant. To the west lies\nthe gate to the palace of Cleopatra, Queen of the Eqyptians.",
+  "header_raw": "143 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A city street.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14319
+    },
+    {
+      "dir": 3,
+      "description": "A great palace lies to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14323
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

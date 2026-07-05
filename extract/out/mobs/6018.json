@@ -4,9 +4,9 @@
   "short_desc": "the duckling",
   "long_desc": "A duckling is swimming around in the pond.",
   "detailed_desc": "The duckling is adorable, it looks most of all like a tiny furball.",
-  "flags_raw": "b 0 1000 S",
-  "stats1_raw": "0 20 10 1d1+0 1d1+0",
-  "stats2_raw": "0 1",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "10 0 1000 E",
+  "stats1_raw": "2 19 9 1d1+36 5d1+0",
+  "stats2_raw": "30 376 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/60.mob"
 }

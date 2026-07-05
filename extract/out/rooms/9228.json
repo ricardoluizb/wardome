@@ -1,0 +1,29 @@
+{
+  "id": 9228,
+  "zone_id": 92,
+  "name": "By the River",
+  "description": "The water in the river seems to bubble and froth with magic.  Though it\nsplashes playfully on you, it does not seem wet.  The path leads north closer\nto the water. To the west you see a T-intersection.",
+  "header_raw": "92 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9229
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9213
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/92.wld"
+}

@@ -4,9 +4,9 @@
   "short_desc": "the storekeeper",
   "long_desc": "A bored storekeeper waits for you to do something.",
   "detailed_desc": "The bored storekeeper keeps a lazy eye on you as he\nwaits for you to buy something.  Whee.",
-  "flags_raw": "b 0 750 S",
-  "stats1_raw": "20 1 -40 3d5+245 3d6+6",
-  "stats2_raw": "10000 40000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "24586 0 750 E",
+  "stats1_raw": "170 -71 -20 1d1+8832 5d18+98",
+  "stats2_raw": "2550 16851653 3",
+  "stats3_raw": "8 8 1 3 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/33.mob"
 }

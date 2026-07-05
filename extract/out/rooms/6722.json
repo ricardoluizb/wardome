@@ -1,0 +1,29 @@
+{
+  "id": 6722,
+  "zone_id": 67,
+  "name": "The southern path",
+  "description": "A well-trodden dirt path heads southwards, bordered by dense clumps\nof black-tipped grass. By night the moths gather by a fatal instinct\nround the glow of torches lining the way, beating their wings heavily.",
+  "header_raw": "67 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6719
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6720
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

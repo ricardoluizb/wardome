@@ -1,0 +1,50 @@
+{
+  "id": 10405,
+  "zone_id": 104,
+  "name": "Gateway to Hell",
+  "description": "You stand next to the very gateway of Hell. You are surrounded by \nthe sounds of torture and pain. Screams pierce the air and rattle your\nnerves. Displays of the treats of Hell are in all directions.\nA large black iron gates tower over you to the east.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "It's too smoky to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10416
+    },
+    {
+      "dir": 1,
+      "description": "The Gates of Hell",
+      "keywords": "gates",
+      "door_flag": 1,
+      "key": -1,
+      "to": 10404
+    },
+    {
+      "dir": 2,
+      "description": "It's too smoky to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10426
+    },
+    {
+      "dir": 3,
+      "description": "It's too smoky to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10406
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "gates",
+      "description": "These black iron gates are covered with grotesque faces and other\ncreatures in various poses and acts of violence and lust. The gates\nseem to make your blood run cold..."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 9704,
+  "alias": "oldstyle apollo",
+  "short_desc": "Apollo",
+  "long_desc": "Apollo is here, playing a tune.",
+  "detailed_desc": "This jovial God is strumming on a lyre.  He smiles at you and asks you to\njoin him.  You notice a dangerous looking bow by his side, however, and think\nthat he knows more than music.",
+  "flags_raw": "14 8362 1000 E",
+  "stats1_raw": "180 -70 -17 1d1+5040 5d19+72",
+  "stats2_raw": "2700 15923585 0",
+  "stats3_raw": "8 8 1 3 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/97.mob"
+}

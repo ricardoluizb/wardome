@@ -1,12 +1,12 @@
 {
   "id": 5428,
   "alias": "statue puchan",
-  "short_desc": "The statue of Puchan",
+  "short_desc": "the statue of Puchan",
   "long_desc": "The statue of Puchan stands here.",
   "detailed_desc": "The statue of Puchan, God of Travellers, is covered with dust and worn\nas if it had been dragged a long way down a dusty road.",
-  "flags_raw": "abelnopqr dhk 1000 S",
-  "stats1_raw": "15 -10 -10 1d1+1200 6d10+10",
-  "stats2_raw": "1200 12000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "256027 1160 1000 E",
+  "stats1_raw": "40 0 4 1d1+837 5d5+16",
+  "stats2_raw": "600 227663 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

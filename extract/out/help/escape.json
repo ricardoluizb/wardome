@@ -1,10 +1,8 @@
 {
   "keywords": [
-    "escape"
+    "ESCAPE"
   ],
-  "aliases": [
-    "FLEE ESCAPE"
-  ],
-  "body": "&cSe voce estiver em uma luta e as coisas comecarem a ficar \ndesconfortaveis (talvez voce esteja morrendo), digite 'flee' ou \n'escape' e voce estara fora de perigo - isto e, SE houver uma saida \ndisponivel por perto, e SE essa saida nao mudar a sua situacao para \npior... mas, de qualquer modo, quem quer viver para sempre?\n\n&CExemplo:\n    &Yflee&c\n    &Yescape&c\n\n\n    &CVeja tambem: &rWIMPY&n",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+  "aliases": [],
+  "body": "- Classes que aprendem: Ninja (148), Thief (51)\n- Descricao: Esta skill permite que se escape de uma luta, escolhendo a direcao para a qual se deseja fugir.\n- Exemplo de uso:\t> escape down\n\t\t\tYou skillfully escape from combat.",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/text/help/help"
 }

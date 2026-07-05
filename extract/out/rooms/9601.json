@@ -1,0 +1,29 @@
+{
+  "id": 9601,
+  "zone_id": 96,
+  "name": "Cave Entrace",
+  "description": "You come across an immense cave, when you look upward it observes that this\ncave is to the foot of a very big mountain.",
+  "header_raw": "96 4 5",
+  "flags_text": "4",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9602
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9827
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/96.wld"
+}

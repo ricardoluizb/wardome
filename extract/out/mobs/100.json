@@ -1,0 +1,12 @@
+{
+  "id": 100,
+  "alias": "barghest dog thing",
+  "short_desc": "the Barghest",
+  "long_desc": "A huge, black doglike thing blasts from behind trees, attacking you!",
+  "detailed_desc": "This demon dog is a Barghest, guardian of all things evil and cruel.",
+  "flags_raw": "108 0 0 E",
+  "stats1_raw": "30 -7 -3 1d1+2280 5d7+72",
+  "stats2_raw": "450 141201 6",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/1.mob"
+}

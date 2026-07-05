@@ -1,0 +1,12 @@
+{
+  "id": 10424,
+  "alias": "oldstyle prisoner hell",
+  "short_desc": "a prisoner in Hell",
+  "long_desc": "A sad looking individual sits here ,awaiting torture.",
+  "detailed_desc": "He is sad-looking, indeed:  cuts and scrapes all over him.  Many scars\nand burns cover his face and arms.  One of his arms is broken at the\nelbow and hangs limply by his side.",
+  "flags_raw": "10 1024 -800 E",
+  "stats1_raw": "100 -32 -6 1d1+3600 5d11+50",
+  "stats2_raw": "1500 3541448 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/104.mob"
+}

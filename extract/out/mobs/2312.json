@@ -1,0 +1,12 @@
+{
+  "id": 2312,
+  "alias": "oldstyle barbarian",
+  "short_desc": "the Plains Barbarian",
+  "long_desc": "A plains barbarian is here, clad in heavy furs.",
+  "detailed_desc": "The plains barbarian is clad in heavy furs. He seems used to the chilling cold\nand icy wastes.",
+  "flags_raw": "238 0 0 E",
+  "stats1_raw": "195 -81 -22 1d1+8580 5d20+98",
+  "stats2_raw": "2925 24754935 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/23.mob"
+}

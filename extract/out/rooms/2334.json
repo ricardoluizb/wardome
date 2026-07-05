@@ -1,0 +1,45 @@
+{
+  "id": 2334,
+  "zone_id": 23,
+  "name": "Lost in the Mist",
+  "description": "You try to peer through the mist......You see nothing. It swirls about you,\ncovering you in a damp sheen. There is no sound, all light is eagerly devoured\nby the mist. You feel totally and hopelessly lost.",
+  "header_raw": "23 8388617 4",
+  "flags_text": "8388617",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2338
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2332
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2336
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2332
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

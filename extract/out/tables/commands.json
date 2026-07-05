@@ -1857,14 +1857,6 @@
       "subcmd": "0"
     },
     {
-      "command": "savealias",
-      "alias": "sava",
-      "minimum_position": "POS_SLEEPING",
-      "function": "do_savealias",
-      "minimum_level": "0",
-      "subcmd": "0"
-    },
-    {
       "command": "score",
       "alias": "sc",
       "minimum_position": "POS_DEAD",
@@ -2809,5 +2801,5 @@
       "subcmd": "0"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/src/interpreter.c"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/src/interpreter.c"
 }

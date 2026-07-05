@@ -1,0 +1,21 @@
+{
+  "id": 13285,
+  "zone_id": 132,
+  "name": "Maaklan Quarters",
+  "description": "An inviting, warm room.  The walls are painted white and the furniture is\nmade from silver.",
+  "header_raw": "132 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "the rest of residence",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13284
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

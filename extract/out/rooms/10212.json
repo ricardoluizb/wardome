@@ -1,0 +1,29 @@
+{
+  "id": 10212,
+  "zone_id": 102,
+  "name": "The Main Kitchen",
+  "description": "Passing through the wooden door, you finally reaches the kitchen.\nThere is a big Furnace at the bottom of the room, and it is spreading\nsmoke through all the room. You can see a big fat cook here, doing\nthe soldier's request.",
+  "header_raw": "102 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10210
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10213
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

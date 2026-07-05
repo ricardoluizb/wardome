@@ -4,9 +4,9 @@
   "short_desc": "a waiter",
   "long_desc": "A waiter rushes by, intent on his business.",
   "detailed_desc": "He looks harried from the way he hastily takes orders and \nrushes in the back to get food, and to the bar for drinks.  \nHe doesn't even spare you a glance as he passes by.",
-  "flags_raw": "b 0 0 S",
-  "stats1_raw": "5 16 70 3d5+60 2d4+0",
-  "stats2_raw": "500 850",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "10 0 0 E",
+  "stats1_raw": "175 -73 -20 1d1+9096 5d18+100",
+  "stats2_raw": "2625 18335763 3",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/33.mob"
 }

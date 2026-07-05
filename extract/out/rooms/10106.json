@@ -1,0 +1,29 @@
+{
+  "id": 10106,
+  "zone_id": 101,
+  "name": "Elrond's kitchen",
+  "description": "You have entered Elrond's kitchen.  It's a large, wooden room, with a wood\nfloor.  A large fireplace dwarfs one end of the room.  Over the fire is hanging\na large pot of stew, which is bubbling merrily.  The room is filled with\nwonderful aromas, making your mouth water in anticipation.",
+  "header_raw": "101 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 10107
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 10105
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/101.wld"
+}

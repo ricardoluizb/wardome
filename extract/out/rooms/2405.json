@@ -1,0 +1,21 @@
+{
+  "id": 2405,
+  "zone_id": 24,
+  "name": "&cFrom &Rt&rhe &Be&bdge &Wof &cdeep &BB&blue &Rs&rea&n",
+  "description": "You can see Hilda, The Polaris, praying for Odin\n\n                               /^\\       /^\\\n                              //*)\\_/^\\_/(*\\\\\n                             //*/#/:|0|:\\#\\*\\\\\n                            //*/# |:|_|:| #\\*\\\\\n                           ((*(#  |:|0|:|  #)*))\n                            \\\\*\\# |:|_|:| #/*//\n                             \\\\*\\#\\:|0|:/#/*//\n                              \\\\*)/\\|_|/\\(*//\n                               \\v/  |0|  \\v/\n                                   <|_|)\n                                   <'_')\n                                    )_|\n                                    (_|\n                                    )_|\n                                    )_|\n                                   <AoI)\n                                    \\v/",
+  "header_raw": "24 68 7",
+  "flags_text": "68",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2404
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/24.wld"
+}

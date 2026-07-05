@@ -1,0 +1,37 @@
+{
+  "id": 2031,
+  "zone_id": 20,
+  "name": "Hell",
+  "description": "If this is the way you have choosen you can feel the fires of Hell around\nyou.  As you open your mouth to gasp for air you feel the heat searing your\nlungs.  You feel the burning but your flesh is in tact you feel the flames\nbut you see only darkness... there is no light..it is as though you are\nhanging in limbo you can not touch nor feel anything around you including the\nfloor if there is one... you can not go forward nor can you retrace your\nsteps in...and you hear the anguish of other souls as they linger here...you\nare alone...you are lost... all you feel is desperation.. there is no where\nelse you can go...you poor lost soul.......",
+  "header_raw": "20 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2032
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2030
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2028
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

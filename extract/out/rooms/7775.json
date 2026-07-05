@@ -1,0 +1,42 @@
+{
+  "id": 7775,
+  "zone_id": 77,
+  "name": "North End of the Hall",
+  "description": "This is a massive stone hall, lit by flaming blue stones set into the walls.\nMassive suits of armor line the walls, holding weapons fashioned from a strange\nsilvery metal.\n   The great hall continues to the south.  An archway leads into a dimly lit\nroom to the north.",
+  "header_raw": "77 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You think you can see some steps leading up to an altar...",
+      "keywords": "mist door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7776
+    },
+    {
+      "dir": 2,
+      "description": "The great hall continues to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7774
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "armor suits",
+      "description": "The suits of armor are very intricately and ornately fashioned splint mail."
+    },
+    {
+      "keywords": "weapons",
+      "description": "Massive pole arms, spears, mighty swords, all kinds of death-dealing devices."
+    },
+    {
+      "keywords": "arch archway door",
+      "description": "The archway is shrouded in a strange black mist that obscures your vision."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/77.wld"
+}

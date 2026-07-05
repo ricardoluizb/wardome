@@ -1,0 +1,29 @@
+{
+  "id": 13119,
+  "zone_id": 131,
+  "name": "Fifth Floor Landing",
+  "description": "You are on the landing of the fifth floor of this mammoth temple.  You have\na feeling that you still have quite a ways to go, however.  You notice drawings\non the wall telling of the respectful warriors of long ago.",
+  "header_raw": "131 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "Grinding sounds come from the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13120
+    },
+    {
+      "dir": 3,
+      "description": "The antechamber lies to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13121
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/131.wld"
+}

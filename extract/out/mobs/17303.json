@@ -1,0 +1,12 @@
+{
+  "id": 17303,
+  "alias": "knight quality",
+  "short_desc": "the knight of quality",
+  "long_desc": "A knight of quality looks down upon you from his mount.",
+  "detailed_desc": "The knight is in full plate mail on a barded horse and carries a lance.",
+  "flags_raw": "8 8192 750 E",
+  "stats1_raw": "125 -42 -8 1d1+3492 5d13+50",
+  "stats2_raw": "1875 5532299 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/173.mob"
+}

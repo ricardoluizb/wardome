@@ -1,0 +1,12 @@
+{
+  "id": 1009,
+  "alias": "zombie corpse",
+  "short_desc": "the zombie",
+  "long_desc": "A corpse is standing upright here, wandering these halls.",
+  "detailed_desc": "The thing before you is a rotting corpse, complete with flesh\nfalling off of it in small chunks.  It is dressed in the remains\nof a peasant's clothing and seems to have a single purpose in\nmind (not that its mind could probably handle any more than that).",
+  "flags_raw": "74 136 500 E",
+  "stats1_raw": "35 -17 -10 1d1+3780 5d10+114",
+  "stats2_raw": "525 254701 10",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/10.mob"
+}

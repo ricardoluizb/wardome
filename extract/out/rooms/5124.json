@@ -3,8 +3,8 @@
   "zone_id": 51,
   "name": "The 4th House",
   "description": "You stand inside the 4th house of the city.  Its inner courtyard is rather \ndull by drow standards and rather small as well.",
-  "header_raw": "51 ad 0",
-  "flags_text": "ad",
+  "header_raw": "51 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

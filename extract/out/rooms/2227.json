@@ -1,0 +1,37 @@
+{
+  "id": 2227,
+  "zone_id": 22,
+  "name": "Underground Tunnel",
+  "description": "You have entered an underground tunnel.  It is dark and dirty, and you find\nyourself wishing you were back in Midgaard.",
+  "header_raw": "22 73 2",
+  "flags_text": "73",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the tunnel.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2228
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2247
+    },
+    {
+      "dir": 4,
+      "description": "You see the red dragon's lair.",
+      "keywords": "door trap trapdoor",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2226
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

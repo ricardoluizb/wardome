@@ -3,8 +3,8 @@
   "zone_id": 33,
   "name": "A Cave Passageway",
   "description": "You are standing south of the main entrance to this \ncave.  The passage you are in continues south, very badly \nlit along its length by the sconces lining the walls \nevery fifteen feet or so.  From somewhere deep in the \nrecesses of the cave, you hear a faint, rhythmic thumping \nsound distorted by the passage's strange acoustics.",
-  "header_raw": "33 d 0",
-  "flags_text": "d",
+  "header_raw": "33 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

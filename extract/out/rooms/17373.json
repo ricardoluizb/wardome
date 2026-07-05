@@ -1,0 +1,26 @@
+{
+  "id": 17373,
+  "zone_id": 173,
+  "name": "The Maiden's Tower",
+  "description": "Oh yes, it is here that the virginal maidens of the court reside, pining \naway for their knights who travel far and wide on Arthurs missions. The \nmain activity here is tapestry making, and presently there are 3 tapestries \nunder construction.",
+  "header_raw": "173 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "A staircase winding downwards",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17372
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "tapestry tapestries",
+      "description": "Two of the tapestries are finished enough to recognize. One depicts a \nbattle between knights and the other is of a hunt in the Forest Arden."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 3711,
+  "zone_id": 37,
+  "name": "A Gravel Path on the Graveyard",
+  "description": "You are on a gravel path winding its way between dark evergreen trees on\nthe graveyard.  The path leads north and east.  A small shed is to the west.",
+  "header_raw": "37 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The gravel path continues northwards.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3709
+    },
+    {
+      "dir": 1,
+      "description": "The gravel path continues eastwards.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3713
+    },
+    {
+      "dir": 3,
+      "description": "It is a small black-painted shed with a wooden door.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3712
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/37.wld"
+}

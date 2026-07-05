@@ -3,10 +3,10 @@
   "alias": "crab crusty",
   "short_desc": "the crusty crab",
   "long_desc": "A crusty looking crab is crawling around here searching for food.",
-  "detailed_desc": "It looks like a crab... what more can be said?",
-  "flags_raw": "hfq dkp 0 S",
-  "stats1_raw": "2 18 4 5d2+25 1d5+0",
-  "stats2_raw": "0 150",
-  "stats3_raw": "8 8 0",
+  "detailed_desc": "It looks like a carb... what more can be said?",
+  "flags_raw": "65704 33800 0 E",
+  "stats1_raw": "23 -5 -3 1d1+1932 5d5+78",
+  "stats2_raw": "345 73210 7",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/9.mob"
 }

@@ -1,0 +1,29 @@
+{
+  "id": 10420,
+  "zone_id": 104,
+  "name": "Fountain of Blood",
+  "description": "This room is made of a rough black stone. The walls seem to ooze black\nsludge. In the middle of the room stands a stone fountain of a demon spitting\nblood.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "It is too dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10430
+    },
+    {
+      "dir": 3,
+      "description": "It is too dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10419
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

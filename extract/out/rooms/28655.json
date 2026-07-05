@@ -1,0 +1,42 @@
+{
+  "id": 28655,
+  "zone_id": 286,
+  "name": "A grey road",
+  "description": "The ground beneath your feet is a uniformly grey cobblestone.  A dull red\nsun hangs in an orange sky above your head; you hear none of the sounds you\nwould commonly associate with a normal city.\n  The cobblestone road continues to the east and west.  To the north you see a \nmassive building and a pair of large doors.",
+  "header_raw": "286 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Looming before you is a forbidding pair of metal doors.",
+      "keywords": "doors metal",
+      "door_flag": 1,
+      "key": -1,
+      "to": 28674
+    },
+    {
+      "dir": 1,
+      "description": "The grey cobblestones continue.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28656
+    },
+    {
+      "dir": 3,
+      "description": "The grey cobblestones continue.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28654
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "doors metal",
+      "description": "The doors are formed from a silvery substance that feels very hard yet almost\nslippery to the touch.  They are covered in images in bas-relief, depicting\nscenes of combat between humans and strange tentacle-mouthed humanoids."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/286.wld"
+}

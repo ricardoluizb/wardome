@@ -1,0 +1,29 @@
+{
+  "id": 9998,
+  "zone_id": 99,
+  "name": "A dead end.",
+  "description": "The street dead ends here in a twisted mass of brambles.  A high \ncity wall looms over you to the West.  It seems the only exit is \nNorth.",
+  "header_raw": "99 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9954
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "bramble",
+      "door_flag": 1,
+      "key": -1,
+      "to": 9905
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

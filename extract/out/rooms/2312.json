@@ -1,0 +1,29 @@
+{
+  "id": 2312,
+  "zone_id": 23,
+  "name": "Standing on level ground",
+  "description": "You are standing at the edge of a steep set of foothills. Looking down, you\nsee what appears to be a marshy, dark forest. It reeks of death and decay.\nEven here, you catch its scent on the winds. From here, you can travel south\ndeeper into the foothills or to the west where a small pass will allow you to\nclimb down.",
+  "header_raw": "23 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2315
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2310
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

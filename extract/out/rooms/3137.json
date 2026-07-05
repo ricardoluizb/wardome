@@ -1,10 +1,10 @@
 {
   "id": 3137,
-  "zone_id": 30,
+  "zone_id": 31,
   "name": "The Waiting Room",
   "description": "You are standing in the waiting room at the town hall.  Wooden chairs stand\nalong the walls and a long desk with a typewriter is placed in the middle of\nthe room.",
-  "header_raw": "30 d 0",
-  "flags_text": "d",
+  "header_raw": "31 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

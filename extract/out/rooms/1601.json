@@ -1,0 +1,29 @@
+{
+  "id": 1601,
+  "zone_id": 16,
+  "name": "Rough East-West Path",
+  "description": "You are on a very rough and overgrown path heading east-west over rugged\nterrain.  To the east the path passes between low hills.",
+  "header_raw": "16 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The road heads into low hills this way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1602
+    },
+    {
+      "dir": 3,
+      "description": "The cross-roads and a trading post lie in this direction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1702
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

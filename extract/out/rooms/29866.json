@@ -1,0 +1,29 @@
+{
+  "id": 29866,
+  "zone_id": 298,
+  "name": "A bridge leading to Caras Galadon",
+  "description": "You have just stepped onto the bridge which leads north to the famed city of\nCaras Galadon.  It is said that the people that well therein have never let\nevil pass inside the walls of their beautiful city.  It would not be wise to\ntry and be the first.  All around you the sounds of birds and the wind can be\nheard.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29867
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29865
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/298.wld"
+}

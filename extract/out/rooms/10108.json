@@ -1,0 +1,21 @@
+{
+  "id": 10108,
+  "zone_id": 101,
+  "name": "Bilbo's room",
+  "description": "Pens and papers litter this small room at the edge of Elrond's House.  It is\nthe room that Bilbo Baggins has come to call home, and it is just about the\nright size for such a well-travelled hobbit.  A window looks out upon the world\nto the south, and to the north a large fireplace has been set into the wall to\nprovide heat.  A small hobbit-sized bed lies against the east wall.",
+  "header_raw": "101 76 1",
+  "flags_text": "76",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10107
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/101.wld"
+}

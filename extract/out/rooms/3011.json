@@ -3,8 +3,8 @@
   "zone_id": 30,
   "name": "The Weapon Shop",
   "description": "You are inside the weapon shop.  There is a small note on the counter.",
-  "header_raw": "30 dh 0",
-  "flags_text": "dh",
+  "header_raw": "30 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

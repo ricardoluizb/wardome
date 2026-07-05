@@ -1,0 +1,12 @@
+{
+  "id": 11557,
+  "alias": "cashier clerk",
+  "short_desc": "the cashier",
+  "long_desc": "A cashier is busy filing her nails.",
+  "detailed_desc": "You see a student working at her part-time job.  She really would rather be\nsomewhere else, but needs the money for tuition.",
+  "flags_raw": "24587 8 0 E",
+  "stats1_raw": "45 -6 0 1d1+1980 5d5+38",
+  "stats2_raw": "675 385477 2",
+  "stats3_raw": "8 8 1 -1 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

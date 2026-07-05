@@ -1,0 +1,21 @@
+{
+  "id": 3827,
+  "zone_id": 38,
+  "name": "The Treasure Room",
+  "description": "You are in a small, unlit room.  There is nothing of interest here other than\nthe obvious treasure piled in the center of this room!  The steel door leads\nwest out of here.",
+  "header_raw": "38 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door steel",
+      "door_flag": 1,
+      "key": 3802,
+      "to": 3826
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

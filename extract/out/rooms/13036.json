@@ -1,0 +1,21 @@
+{
+  "id": 13036,
+  "zone_id": 130,
+  "name": "Jerry's House",
+  "description": "This place is not very well organized, looks like a\nlazy man lives here, all around you are very valuable things,\nmany gold coins and treasury.",
+  "header_raw": "130 869 0",
+  "flags_text": "869",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

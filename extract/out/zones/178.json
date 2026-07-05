@@ -1,0 +1,1194 @@
+{
+  "id": 178,
+  "name": "Gnome Village",
+  "header": {
+    "raw": "17888 15 1 1",
+    "min_room": 17888,
+    "top_room": 15,
+    "lifespan": 1,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17803,
+        3,
+        17812
+      ],
+      "comment": "(a gnome scientist)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17811,
+        12,
+        -1
+      ],
+      "comment": "(a wicker basket)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        17813,
+        12,
+        17811
+      ],
+      "comment": "(some grain)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        17827,
+        1,
+        17812
+      ],
+      "comment": "(a stone chest)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        17826,
+        1,
+        17827
+      ],
+      "comment": "(an enormous key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17823,
+        1,
+        17887
+      ],
+      "comment": "(a hermit)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17853,
+        2,
+        -1
+      ],
+      "comment": "(Poisonous Staff)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17816,
+        18,
+        17870
+      ],
+      "comment": "(The hobgoblin soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17821,
+        40,
+        16
+      ],
+      "comment": "(a large club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        17816,
+        18,
+        17870
+      ],
+      "comment": "(The hobgoblin soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17821,
+        40,
+        16
+      ],
+      "comment": "(a large club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        17816,
+        18,
+        17870
+      ],
+      "comment": "(The hobgoblin soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17821,
+        40,
+        16
+      ],
+      "comment": "(a large club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        17816,
+        18,
+        17870
+      ],
+      "comment": "(The hobgoblin soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17821,
+        40,
+        16
+      ],
+      "comment": "(a large club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17816,
+        18,
+        17869
+      ],
+      "comment": "(The hobgoblin soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17821,
+        40,
+        16
+      ],
+      "comment": "(a large club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        17816,
+        18,
+        17869
+      ],
+      "comment": "(The hobgoblin soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17821,
+        40,
+        16
+      ],
+      "comment": "(a large club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        17816,
+        18,
+        17869
+      ],
+      "comment": "(The hobgoblin soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17821,
+        40,
+        16
+      ],
+      "comment": "(a large club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        17816,
+        18,
+        17869
+      ],
+      "comment": "(The hobgoblin soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17821,
+        40,
+        16
+      ],
+      "comment": "(a large club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17821,
+        6,
+        17875
+      ],
+      "comment": "(A gnome prisoner)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17825,
+        1,
+        -1
+      ],
+      "comment": "(top secret plan)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17805,
+        1,
+        17856
+      ],
+      "comment": "(the chief gnome)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17808,
+        5,
+        1
+      ],
+      "comment": "(a bat ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17809,
+        12,
+        3
+      ],
+      "comment": "(A bead necklace)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17810,
+        5,
+        16
+      ],
+      "comment": "(an electrum sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17802,
+        3,
+        17802
+      ],
+      "comment": "(A gnome man)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17803,
+        20,
+        16
+      ],
+      "comment": "(a gnarled staff)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17802,
+        3,
+        17804
+      ],
+      "comment": "(A gnome man)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17803,
+        20,
+        16
+      ],
+      "comment": "(a gnarled staff)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17802,
+        3,
+        17805
+      ],
+      "comment": "(A gnome man)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17803,
+        20,
+        16
+      ],
+      "comment": "(a gnarled staff)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17800,
+        3,
+        17808
+      ],
+      "comment": "(A gnome child)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17802,
+        20,
+        -1
+      ],
+      "comment": "(a toy boomerang)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17801,
+        3,
+        17808
+      ],
+      "comment": "(A gnome woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17800,
+        3,
+        17809
+      ],
+      "comment": "(A gnome child)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17802,
+        20,
+        -1
+      ],
+      "comment": "(a toy boomerang)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17801,
+        3,
+        17809
+      ],
+      "comment": "(A gnome woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17800,
+        3,
+        17810
+      ],
+      "comment": "(A gnome child)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17802,
+        20,
+        -1
+      ],
+      "comment": "(a toy boomerang)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17801,
+        3,
+        17810
+      ],
+      "comment": "(A gnome woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17803,
+        3,
+        17813
+      ],
+      "comment": "(a gnome scientist)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17811,
+        12,
+        -1
+      ],
+      "comment": "(a wicker basket)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        17812,
+        12,
+        17811
+      ],
+      "comment": "(some peanuts)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17803,
+        3,
+        17814
+      ],
+      "comment": "(a gnome scientist)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17814,
+        12,
+        16
+      ],
+      "comment": "(a skiff)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17804,
+        3,
+        17818
+      ],
+      "comment": "(A gnome guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17807,
+        10,
+        3
+      ],
+      "comment": "(A bloody cloak)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17800,
+        3,
+        -1
+      ],
+      "comment": "(a bloody key)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17806,
+        10,
+        -1
+      ],
+      "comment": "(a bloody potion)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17807,
+        2,
+        17821
+      ],
+      "comment": "(a field mouse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17807,
+        2,
+        17821
+      ],
+      "comment": "(a field mouse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17806,
+        1,
+        17823
+      ],
+      "comment": "(a small troll)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17804,
+        6,
+        17825
+      ],
+      "comment": "(A gnome guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17804,
+        20,
+        16
+      ],
+      "comment": "(A gnome sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17804,
+        6,
+        17828
+      ],
+      "comment": "(A gnome guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17804,
+        20,
+        16
+      ],
+      "comment": "(A gnome sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17804,
+        6,
+        17828
+      ],
+      "comment": "(A gnome guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17804,
+        20,
+        16
+      ],
+      "comment": "(A gnome sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17804,
+        6,
+        17832
+      ],
+      "comment": "(A gnome guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17804,
+        12,
+        16
+      ],
+      "comment": "(A gnome sword)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17834,
+        1,
+        2
+      ],
+      "comment": "(A Small Unused Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17808,
+        3,
+        17839
+      ],
+      "comment": "(a rat)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17805,
+        10,
+        11
+      ],
+      "comment": "(a studded shield)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17809,
+        3,
+        17840
+      ],
+      "comment": "(A large rat)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17803,
+        12,
+        16
+      ],
+      "comment": "(a gnarled staff)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17810,
+        3,
+        17841
+      ],
+      "comment": "(a giant rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17811,
+        1,
+        17843
+      ],
+      "comment": "(the troll)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17801,
+        4,
+        -1
+      ],
+      "comment": "(a dirty key)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17843,
+        3,
+        2
+      ],
+      "comment": "(End of the Dark Hallway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17844,
+        1,
+        2
+      ],
+      "comment": "(A Ladder)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17812,
+        10,
+        17846
+      ],
+      "comment": "(a black bat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17813,
+        10,
+        17846
+      ],
+      "comment": "(the zombie gnome)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17812,
+        10,
+        17848
+      ],
+      "comment": "(a black bat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17813,
+        10,
+        17848
+      ],
+      "comment": "(the zombie gnome)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17812,
+        10,
+        17849
+      ],
+      "comment": "(a black bat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17813,
+        10,
+        17849
+      ],
+      "comment": "(the zombie gnome)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17812,
+        10,
+        17851
+      ],
+      "comment": "(a black bat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17813,
+        10,
+        17851
+      ],
+      "comment": "(the zombie gnome)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17812,
+        10,
+        17853
+      ],
+      "comment": "(a black bat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17813,
+        10,
+        17853
+      ],
+      "comment": "(the zombie gnome)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17814,
+        1,
+        17854
+      ],
+      "comment": "(the fire bat)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17805,
+        18,
+        -1
+      ],
+      "comment": "(a studded shield)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17812,
+        20,
+        -1
+      ],
+      "comment": "(some peanuts)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17816,
+        3,
+        -1
+      ],
+      "comment": "(a pile of coins)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        17817,
+        3,
+        17855
+      ],
+      "comment": "(a pile of coins)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        17818,
+        3,
+        17855
+      ],
+      "comment": "(a pile of coins)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17819,
+        6,
+        17861
+      ],
+      "comment": "(A hobgoblin miner)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17819,
+        6,
+        17863
+      ],
+      "comment": "(A hobgoblin miner)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17817,
+        5,
+        17867
+      ],
+      "comment": "(The hobgoblin bodyguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17821,
+        30,
+        16
+      ],
+      "comment": "(a large club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17817,
+        5,
+        17867
+      ],
+      "comment": "(The hobgoblin bodyguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17821,
+        30,
+        16
+      ],
+      "comment": "(a large club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17817,
+        5,
+        17867
+      ],
+      "comment": "(The hobgoblin bodyguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17821,
+        30,
+        16
+      ],
+      "comment": "(a large club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17817,
+        5,
+        17867
+      ],
+      "comment": "(The hobgoblin bodyguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17821,
+        30,
+        16
+      ],
+      "comment": "(a large club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17817,
+        5,
+        17867
+      ],
+      "comment": "(The hobgoblin bodyguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17821,
+        30,
+        16
+      ],
+      "comment": "(a large club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17818,
+        1,
+        17867
+      ],
+      "comment": "(the king of the hobgoblins)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17820,
+        5,
+        5
+      ],
+      "comment": "(Heavy banded mail)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17820,
+        1,
+        17868
+      ],
+      "comment": "(the treasurer)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        17816,
+        10,
+        17868
+      ],
+      "comment": "(a pile of coins)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        17817,
+        10,
+        17868
+      ],
+      "comment": "(a pile of coins)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        17821,
+        40,
+        17871
+      ],
+      "comment": "(a large club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17821,
+        6,
+        17876
+      ],
+      "comment": "(A gnome prisoner)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17821,
+        6,
+        17877
+      ],
+      "comment": "(A gnome prisoner)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17822,
+        6,
+        17878
+      ],
+      "comment": "(A human prisoner)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17822,
+        6,
+        17879
+      ],
+      "comment": "(A human prisoner)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17816,
+        20,
+        17881
+      ],
+      "comment": "(The hobgoblin soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17816,
+        20,
+        17881
+      ],
+      "comment": "(The hobgoblin soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17816,
+        20,
+        17882
+      ],
+      "comment": "(The hobgoblin soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17816,
+        20,
+        17882
+      ],
+      "comment": "(The hobgoblin soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17824,
+        1,
+        17885
+      ],
+      "comment": "(the cook)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17819,
+        6,
+        17888
+      ],
+      "comment": "(A hobgoblin miner)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/178.zon"
+}

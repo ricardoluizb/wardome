@@ -1,0 +1,64 @@
+{
+  "id": 19,
+  "name": "Wardome - Warlord's Clan",
+  "header": {
+    "raw": "1999 30 0 9 2",
+    "min_room": 1999,
+    "top_room": 30,
+    "lifespan": 0,
+    "reset_mode": 9
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1900,
+        1,
+        1900
+      ],
+      "comment": "(&rthe Ugly Lord&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        1900,
+        1,
+        1901
+      ],
+      "comment": "(&RW&wa&Rr&YL&word&Ys &gclan fountain&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        1901,
+        1,
+        1902
+      ],
+      "comment": "(&RW&wa&Rr&YL&word&Ys &gclan board.)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        1901,
+        1,
+        1904
+      ],
+      "comment": "(&RW&wa&Rr&YL&word&Ys &gclan board.)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        1902,
+        1,
+        1904
+      ],
+      "comment": "(&RHe&rll Ang&Rels &BF&bl&Ba&bg&n)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/19.zon"
+}

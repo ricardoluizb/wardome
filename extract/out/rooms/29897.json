@@ -1,0 +1,29 @@
+{
+  "id": 29897,
+  "zone_id": 298,
+  "name": "the passage",
+  "description": "You are in a passage, to the east you see a cave.  Light from the cave lights\nup the passage.  To the west the passage leads into the darkness.",
+  "header_raw": "298 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29898
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29896
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/298.wld"
+}

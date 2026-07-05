@@ -1,0 +1,21 @@
+{
+  "id": 2750,
+  "zone_id": 27,
+  "name": "Laryn's Auction House",
+  "description": "This is a comfortable room that is crowded with people.  There are relaxing\nbenches laid around the room which people may rest on as they view the items up\nfor bid.  At the head of the room is a platform on which the auctioneer stands.\nThere is a large table on which the item up for bidding is placed upon, and a\nlectern which the auctioneer stands behind.  Rules are posted on a huge sign\nhanging on the wall.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2749
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

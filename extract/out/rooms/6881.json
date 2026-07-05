@@ -1,0 +1,21 @@
+{
+  "id": 6881,
+  "zone_id": 67,
+  "name": "The cartographers",
+  "description": "You are in a closely walled-in room with little air and much light;\na glass-fronted bookcase displays a variety of map parchments, though\nas they are curled and bound with colored ribbon, it is difficult to\ndiscern their contents.",
+  "header_raw": "67 156 0",
+  "flags_text": "156",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6735
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

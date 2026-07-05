@@ -1,0 +1,12 @@
+{
+  "id": 9910,
+  "alias": "ghenna deep dragon",
+  "short_desc": "the Deep Dragon",
+  "long_desc": "A large snake sits here, munching on a human body.",
+  "detailed_desc": "The Deep dragon is an iridescent maroon colored beast about 25 feet long. \nKnown for assuming various shapes, this animal is highly dangerous and\nyou would do best to exit its lair immediately.",
+  "flags_raw": "133290 1192 0 E",
+  "stats1_raw": "10 13 7 1d1+360 5d2+14",
+  "stats2_raw": "150 8653 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/99.mob"
+}

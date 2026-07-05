@@ -1,0 +1,37 @@
+{
+  "id": 1152,
+  "zone_id": 11,
+  "name": "A dark tunnel",
+  "description": "You stand inside a small underground tunnel.  The ceiling is so low that \nyou must crouch to avoid hitting your head.  The tunnel continues north and\nsouth.  To the west lies a small home.  All you can see is darkness.",
+  "header_raw": "11 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a dark tunnel.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1156
+    },
+    {
+      "dir": 2,
+      "description": "You see a dark tunnel.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1151
+    },
+    {
+      "dir": 3,
+      "description": "You see a halfling hole.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1155
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 17810,
+  "alias": "rat giant",
+  "short_desc": "a giant rat",
+  "long_desc": "A giant rat growls at you and prepares to attack.",
+  "detailed_desc": "This rat has grown up to be the size of an average dog.",
+  "flags_raw": "12 0 -200 E",
+  "stats1_raw": "38 1 4 1d1+792 5d4+14",
+  "stats2_raw": "570 198330 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/178.mob"
+}

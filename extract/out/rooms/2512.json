@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Entrance To The High Tower",
   "description": "You have reached the entrance to the High Tower of Sorcery.  The\ntower looms above you at an incredible height.  It seems to disappear\ninto the storm clouds above.\n   A diamond gate is to the north, whilst the trail back south has\ndisappeared behind you.",
-  "header_raw": "25 g 0",
-  "flags_text": "g",
+  "header_raw": "25 64 0",
+  "flags_text": "64",
   "sector": 0,
   "exits": [
     {

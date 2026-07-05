@@ -1,0 +1,26 @@
+{
+  "id": 11001,
+  "zone_id": 110,
+  "name": "The sanctuary",
+  "description": "You are in a huge sanctuary. Big coluns of marble seems to be holding\nsomething...\n\nMay it be?     the sky?\n            Yes....",
+  "header_raw": "110 16777296 0",
+  "flags_text": "16777296",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9260
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "To go to the dragon mountains mount the winged dragons."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/110.wld"
+}

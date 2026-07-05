@@ -4,9 +4,9 @@
   "short_desc": "the puppy",
   "long_desc": "A small loyal puppy is here.",
   "detailed_desc": "The puppy looks like a cute, little, fierce fighter.",
-  "flags_raw": "bco 0 0 E",
-  "stats1_raw": "1 20 9 1d6+13 1d4+0",
-  "stats2_raw": "0 125",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "14 0 0 E",
+  "stats1_raw": "1 20 10 1d1+18 5d1+0",
+  "stats2_raw": "15 196 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

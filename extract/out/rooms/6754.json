@@ -1,0 +1,21 @@
+{
+  "id": 6754,
+  "zone_id": 67,
+  "name": "The blacksmiths",
+  "description": "The orange glow of the forge brightens an otherwise black, windowless\nroom. This is the blacksmith's home and workplace; a humble cot rests\nvery close to the fire.",
+  "header_raw": "67 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6734
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 35,
   "name": "A Tunnel In The Mountains",
   "description": "As you explore further into the mountainside, the tunnel gets smaller\nand smaller to the south.  You almost have to hunch over to make your way\nthrough this area.  A small archway to the south leads into a large chamber.",
-  "header_raw": "35 a 1",
-  "flags_text": "a",
+  "header_raw": "35 1 1",
+  "flags_text": "1",
   "sector": 1,
   "exits": [
     {

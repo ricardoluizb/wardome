@@ -1,0 +1,45 @@
+{
+  "id": 24554,
+  "zone_id": 245,
+  "name": "The sunken volcano",
+  "description": "You arrive to heal the peal of the second horn, blown\nby an angel flying above. You watch as the volcanic island\nand all of its inhabitants sink into the many waters.\nYou are enveloped in clouds of blood steam.",
+  "header_raw": "245 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "More blood",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24568
+    },
+    {
+      "dir": 1,
+      "description": "More blood",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24555
+    },
+    {
+      "dir": 2,
+      "description": "More blood",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24540
+    },
+    {
+      "dir": 3,
+      "description": "More blood",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24553
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/245.wld"
+}

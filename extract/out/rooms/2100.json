@@ -1,0 +1,29 @@
+{
+  "id": 2100,
+  "zone_id": 21,
+  "name": "The Great Field",
+  "description": "You are standing in a great field of tall grass.  The smell of fresh dirt and sunlight surrounds you.  The air is filled with the sound of chirping birds happily building their nests in the depths of the knotted grass.  A wagon trail runs in an east-sout",
+  "header_raw": "21 16777216 2",
+  "flags_text": "16777216",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": -1,
+      "to": 12029
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2101
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/21.wld"
+}

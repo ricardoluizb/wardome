@@ -1,0 +1,21 @@
+{
+  "id": 20037,
+  "zone_id": 200,
+  "name": "Private Room",
+  "description": "This is a smallish private room, with an adequate bed with clean sheets,.  A\nrather beat-up-but-serviceable clothes chest, and a table and chair.  Plain and\nsimple, yet nice in a strange sort of way.",
+  "header_raw": "200 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20032
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/200.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 3919,
+  "zone_id": 39,
+  "name": "The waiting room",
+  "description": "Contrasting to the rest of the place in this room the chairs and the tables\nare all in place and you can see no dust as if it was cleaned just some minutes\nago!  Here a thin fellow with green hair and weird cloths greet you.  There is\na lot of noise trough the door to the north.",
+  "header_raw": "39 40 9",
+  "flags_text": "40",
+  "sector": 9,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3920
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3905
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/39.wld"
+}

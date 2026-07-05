@@ -1,0 +1,34 @@
+{
+  "id": 14117,
+  "zone_id": 141,
+  "name": "Library",
+  "description": "The Library continues here, with exits to the east and west.",
+  "header_raw": "141 72 0",
+  "flags_text": "72",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14118
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14116
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "book books shelves",
+      "description": "These books are about the letters B and C.  Some titles are:\n'Boom Boxes: How large will they become?' and 'Cutlery: The fine\npoints of Killing' and of course the classic, 'Casret's Titles.'"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

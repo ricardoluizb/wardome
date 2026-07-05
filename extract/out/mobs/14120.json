@@ -1,0 +1,12 @@
+{
+  "id": 14120,
+  "alias": "orc ape",
+  "short_desc": "the orc",
+  "long_desc": "A mutated ape carries a spear.",
+  "detailed_desc": "This orc is a disgusting animal, this ape-like monster scratches\nits armpits.  It travels in herds and is a coward.",
+  "flags_raw": "2056 1152 -1000 E",
+  "stats1_raw": "60 -12 0 1d1+2160 5d7+34",
+  "stats2_raw": "900 838996 1",
+  "stats3_raw": "8 8 1 -1 5",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

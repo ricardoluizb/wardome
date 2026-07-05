@@ -1,0 +1,37 @@
+{
+  "id": 13272,
+  "zone_id": 132,
+  "name": "The East Market Square",
+  "description": "You are on the eastern market square.  The people of this section of town\nappear to be friendlier, yet are still suspicious of you.  The market continues\nnorth, east, and south.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "east market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13273
+    },
+    {
+      "dir": 1,
+      "description": "east market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13398
+    },
+    {
+      "dir": 2,
+      "description": "east market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13271
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

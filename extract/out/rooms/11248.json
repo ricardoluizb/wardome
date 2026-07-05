@@ -1,0 +1,21 @@
+{
+  "id": 11248,
+  "zone_id": 112,
+  "name": "The Mage's Study",
+  "description": "The stairs end in a small, cramped laboratory, the majority of which\nremains in relatively good condition, as the shaman who has taken over\nthis place wishes to learn more magical secrets from the mage's work.\nTwo long tables crammed with a variety of alchemical equipment line\nthe walls, while a small cot has been sandwiched in between tall shelves\noverburdened with books to the north. Some of these books have been scattered\non the floor in disgust by the shaman, who was not intelligent enough to\ndecipher their secrets.",
+  "header_raw": "112 8200 0",
+  "flags_text": "8200",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11247
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

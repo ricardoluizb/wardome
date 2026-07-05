@@ -4,9 +4,9 @@
   "short_desc": "the senior mindflayer",
   "long_desc": "The senior mindflayer walks around here, looking for something useful.",
   "detailed_desc": "This is a horrifying monster indeed, 6'6\" high.  Dressed in purple and black,\nand carrying a large mace in its hand.  In the center of its head are four\nlarge tentacles with very sharp points.",
-  "flags_raw": "acejklm dfk -600 S",
-  "stats1_raw": "8 13 2 1d10+100 2d4+3",
-  "stats2_raw": "400 4500",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "7741 1064 -600 E",
+  "stats1_raw": "18 11 7 1d1+378 5d2+6",
+  "stats2_raw": "270 28756 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/72.mob"
 }

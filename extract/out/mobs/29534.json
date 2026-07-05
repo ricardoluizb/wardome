@@ -1,0 +1,12 @@
+{
+  "id": 29534,
+  "alias": "deiphobus",
+  "short_desc": "Deiphobus",
+  "long_desc": "Deiphobus, another Prince of Troy, strolls past you.",
+  "detailed_desc": "Deiphobus is another son of Priam and Hecabe. When Paris is slain he weds\nHelen and is subsequently slain by Menelaus for his troubles.",
+  "flags_raw": "72 128 0 E",
+  "stats1_raw": "140 -58 -17 1d1+8400 5d15+96",
+  "stats2_raw": "2100 9766955 4",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/295.mob"
+}

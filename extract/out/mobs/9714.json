@@ -1,0 +1,12 @@
+{
+  "id": 9714,
+  "alias": "oldstyle grocer greengrocer julius",
+  "short_desc": "Julius the Green Grocer",
+  "long_desc": "Julius the Green Grocer stands here.",
+  "detailed_desc": "This jovial man has devoted his life to selling fruit and other foods to the\ninhabitants of this city.  Although he may seem like a wimp, it would be wise\nnot to underestimate him.  He smiles warmly at you and shows you his selection\nof delicious looking foods.",
+  "flags_raw": "24590 8362 1000 E",
+  "stats1_raw": "190 -75 -18 1d1+5316 5d20+76",
+  "stats2_raw": "2850 18644097 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/97.mob"
+}

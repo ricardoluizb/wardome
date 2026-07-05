@@ -1,0 +1,21 @@
+{
+  "id": 30104,
+  "zone_id": 301,
+  "name": "In Hollow Halls Beneath the Fells",
+  "description": "Wandering aimless, you start to ask your self when will this torment end?  \nOnly the most evil human, or not?!  Being, could live under such\ncircumnstances.  As soon as you reach this gargantuan marble room, you place\nyour eyes in a big table, in the center of it, around the table, beside the\nchairs, there is lots of barrels, weapons and what cannot be missing, dead\nbodies and blood...  There is also a single curiously human skull placed by one\nof the table's chair.",
+  "header_raw": "301 1048581 0",
+  "flags_text": "1048581",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30102
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/301.wld"
+}

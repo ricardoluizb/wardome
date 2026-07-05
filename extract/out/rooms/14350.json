@@ -1,0 +1,29 @@
+{
+  "id": 14350,
+  "zone_id": 143,
+  "name": "A Ladder",
+  "description": "This room contains a large ship that was supposed to carry the pharaoh's soul\ninto the next life. It is now rotting and smelly. I ladder leads down.",
+  "header_raw": "143 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "It is too dark to see there.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14365
+    },
+    {
+      "dir": 5,
+      "description": "The ladder leads down into the darkness.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14349
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

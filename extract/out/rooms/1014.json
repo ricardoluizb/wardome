@@ -1,0 +1,29 @@
+{
+  "id": 1014,
+  "zone_id": 10,
+  "name": "A Spiral Stairway",
+  "description": "You are climbing the wooden stairway and just happen to have arrived\nat a location where, coincidentally, there does not happen to be a floor\nat all.  However, the stairwell continues above you and below you, as it\nwanders merrily on its way.",
+  "header_raw": "10 11 9",
+  "flags_text": "11",
+  "sector": 9,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "The wooden stairs continue as normal above you.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1015
+    },
+    {
+      "dir": 5,
+      "description": "The staircase continues below you as it nears the ground level.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1013
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Guardians' chamber",
   "description": "You are in the chamber of the tower guardians.  It is rather sparsely\nfurnished, but then again the odd occupants don't look to need furniture.\nHere and there a disembodied pair of hands or eyes flits about.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

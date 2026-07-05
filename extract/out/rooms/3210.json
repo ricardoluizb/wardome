@@ -1,0 +1,26 @@
+{
+  "id": 3210,
+  "zone_id": 32,
+  "name": "The Temple",
+  "description": "The echo of your footsteps reverberates through the temple.  Everything is\nwhite, the tiled floor, the walls, the ceiling.....  There is a nice framed\nsign on the north wall.",
+  "header_raw": "32 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3207
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "*-*-* Temple of the Bull *-*-*\n          *                            *\n          *        Written by:         *\n          *    Aten of GenericMUD      *\n          *        March 1994          *\n          *                            *\n          *       Modified to          *\n          *        Wardome Mud         *\n          *        By Heimdall         *\n          *                            *\n          *-*-*-*-* o==[=====- *-*-*-*-*"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/32.wld"
+}

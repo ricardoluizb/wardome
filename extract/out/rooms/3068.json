@@ -1,0 +1,29 @@
+{
+  "id": 3068,
+  "zone_id": 30,
+  "name": "The Entrance To The Necromancer Guild",
+  "description": "You look at this place and stay in shock...  The is so much corpses here\nthat makes you throw everything it up....  You feel disgust by the\nNecromancers...",
+  "header_raw": "30 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3069
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3040
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/30.wld"
+}

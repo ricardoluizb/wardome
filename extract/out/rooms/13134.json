@@ -1,0 +1,21 @@
+{
+  "id": 13134,
+  "zone_id": 131,
+  "name": "Musty Room",
+  "description": "You are in a musty room.  You see some older, more experienced samurai here\nin a semicircular group around a mark on the floor.  They glance up at you and\nscream death cries.  You kinda stumbled in on a private party . . .",
+  "header_raw": "131 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "North of here is an empty room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13133
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/131.wld"
+}

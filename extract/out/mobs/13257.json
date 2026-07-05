@@ -1,0 +1,12 @@
+{
+  "id": 13257,
+  "alias": "King",
+  "short_desc": "the King",
+  "long_desc": "The King of Cloudy Mountain sits here.",
+  "detailed_desc": "You see the king on a very large throne.  He is an amethyst dragon.  He keeps\nto himself in the castle, but always allows guests.  His main function is \nkeeping Drakknar from leaving the city, but stays out of the internal affairs\nas much as possible.  He likes humans and used to be married to one until her\nmysterious death.",
+  "flags_raw": "10 168 0 E",
+  "stats1_raw": "40 -16 -8 1d1+3672 5d9+96",
+  "stats2_raw": "600 325233 8",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

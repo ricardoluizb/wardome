@@ -1,0 +1,12 @@
+{
+  "id": 11572,
+  "alias": "guildmaster master",
+  "short_desc": "the Guildmaster",
+  "long_desc": "The Clerics' Guildmaster is standing here.",
+  "detailed_desc": "You are in no doubt that this Guildmaster is truly close to your god he has\na peaceful, loving look.  You notice that he is surrounded by a white aura.",
+  "flags_raw": "2058 1024 0 E",
+  "stats1_raw": "55 -11 -1 1d1+2412 5d6+42",
+  "stats2_raw": "825 735088 2",
+  "stats3_raw": "8 8 1 1 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

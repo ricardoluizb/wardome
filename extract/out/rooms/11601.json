@@ -1,0 +1,37 @@
+{
+  "id": 11601,
+  "zone_id": 115,
+  "name": "Fire Station",
+  "description": "This is the place where the firemen spend most of their time, free or\notherwise.  Because they hardly ever see their wives, they particularly enjoy\nsliding down the pole to the fire engines.  Stairs lead up to the firemen's\nquarters, Second Avenue is to the north, and to the south is Fire Marshall\nBob's office.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11599
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11602
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11603
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

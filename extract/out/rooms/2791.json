@@ -1,0 +1,29 @@
+{
+  "id": 2791,
+  "zone_id": 27,
+  "name": "A Good Place To Rest.",
+  "description": "It seems that someone just a few hours ago seted up a camp in here, the\nfireplace it's still warm.  You may take a rest here if you want, it seems to\nbe safe enough.",
+  "header_raw": "27 1048581 4",
+  "flags_text": "1048581",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2792
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2790
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2344,
+  "zone_id": 23,
+  "name": "Among the crude huts",
+  "description": "You walk through the crude village. Small huts made of wood and thatch\nsurround you. Every so often, you can hear grunts and snarls inside the huts.\nThe smell here is unbearable. You wonder what type of creature could possibly\nlive in such squalor. Small paths lead west and north here.",
+  "header_raw": "23 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2347
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2343
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

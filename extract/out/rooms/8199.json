@@ -1,0 +1,26 @@
+{
+  "id": 8199,
+  "zone_id": 81,
+  "name": "The Throne Room",
+  "description": "Here stands the Great Goblin's ugly throne of bones grotesquely carved.\nHe sits here among his bodyguards, ready to pound your skull in for\nentering his miserable halls!",
+  "header_raw": "81 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Run away north while you still can!",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8197
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "throne bones bone",
+      "description": "It is made, seemingly, of the bones of the many enemies that\nthe Great Goblin killed. All over it evil signs are carved; it glows\nwith a pale, sickly light."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

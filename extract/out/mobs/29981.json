@@ -1,0 +1,12 @@
+{
+  "id": 29981,
+  "alias": "Isildur statue",
+  "short_desc": "the Isildur statue",
+  "long_desc": "There is a colossal statue with the left hand raised here.",
+  "detailed_desc": "This is one of the statues known as Argonaths, that keep the Dunedain domain.\nThis statue is a tribute to Isildur.",
+  "flags_raw": "3661834 553649320 0 E",
+  "stats1_raw": "200 -96 -32 1d1+18396 5d41+160",
+  "stats2_raw": "3000 30939800 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/299.mob"
+}

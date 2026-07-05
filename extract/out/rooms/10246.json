@@ -1,0 +1,21 @@
+{
+  "id": 10246,
+  "zone_id": 102,
+  "name": "The Entrance to Guardia's Cathedral",
+  "description": "You are in the entrance of Guardia's Cathedral, it sounds very gothic\nand melancholic. The arched windows and the vitrals intones the style\nof the cathedral. You are stepping on a green carpet with red details.\nYou can see some prayer benchs from here.",
+  "header_raw": "102 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10247
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 29856,
+  "zone_id": 298,
+  "name": "The Staircase",
+  "description": "You can see a long and a huge trial with a long stair, you cant feel your\nfeets, but you have to go.",
+  "header_raw": "298 261 4",
+  "flags_text": "261",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29845
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29857
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/298.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 323,
+  "zone_id": 3,
+  "name": "The steep foothills",
+  "description": "You walk in the steep foothills. It is rather hard to move here.\nTo the north you can see a grassy valley with wildflowers.",
+  "header_raw": "3 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a path toward the valley.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7800
+    },
+    {
+      "dir": 1,
+      "description": "The foothills extend far to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 324
+    },
+    {
+      "dir": 2,
+      "description": "On the horizon you can see the City of Midgaard.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 330
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/3.wld"
+}

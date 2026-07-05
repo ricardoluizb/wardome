@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "The Hide & Tooth Shop",
   "description": "You are in the Hide & Tooth shop.  Here you may buy the finest in Dwarven\nweapons and armors.  The path continues to the north and east.",
-  "header_raw": "65 df 0",
-  "flags_text": "df",
+  "header_raw": "65 152 0",
+  "flags_text": "152",
   "sector": 0,
   "exits": [
     {

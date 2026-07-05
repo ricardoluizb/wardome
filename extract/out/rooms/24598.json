@@ -1,0 +1,46 @@
+{
+  "id": 24598,
+  "zone_id": 245,
+  "name": "The source of the Euphrates",
+  "description": "You stand at the headwaters for the Euphrates. A dirty dry\nwind blows across what is left of the once mighty river. Now all\nyou see are occasional puddles of bloody water. There is a vial\nfloating in the largest puddle of blood.",
+  "header_raw": "245 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Wormwood",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24612
+    },
+    {
+      "dir": 1,
+      "description": "The Euphrates",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24599
+    },
+    {
+      "dir": 2,
+      "description": "Wormwood",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24584
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "lettering",
+      "description": "The 3rd vial of wrath: rivers and fountains to blood.\nThe 6th vial of wrath: Drying of Euphrates."
+    },
+    {
+      "keywords": "vial",
+      "description": "You scoop out the vial.\nActually there are two vials.\nThere is some lettering on them."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/245.wld"
+}

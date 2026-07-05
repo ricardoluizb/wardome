@@ -4,9 +4,9 @@
   "short_desc": "a eunich",
   "long_desc": "A eunich stands here watching over the girls.",
   "detailed_desc": "You see a large man whose only duty is to protect the harem.  He has been\ncastrated for the ladies' safety.",
-  "flags_raw": "bf dk 0 S",
-  "stats1_raw": "12 8 0 5d1+130 2d4+4",
-  "stats2_raw": "0 1300",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "42 1032 0 E",
+  "stats1_raw": "12 14 8 1d1+252 5d2+4",
+  "stats2_raw": "180 10839 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

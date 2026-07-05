@@ -1,0 +1,21 @@
+{
+  "id": 30526,
+  "zone_id": 305,
+  "name": "Sala de Doacoes",
+  "description": "Voce esta na tao famosa Sala de Doacoes, aonde os itens doados normalmente\nacabam.  E' muito comum achar muitos deles, mais hoje voce esta' com azar, a\nsala esta' totalmente vazia.  A unica coisa que voce pode encontrar e' um ou\noutro aventureiro entrando\n  A praca da fonte fica ao oeste.",
+  "header_raw": "305 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30525
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/305.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 120,
   "name": "The Lion Pit",
   "description": "As you land at the bottom of this dirt-walled pit, the realization that a\npit full of lions is NOT a good thing to be hanging around in.  Several of\nthe gladiators gather around the edge of the pit to watch your demise.  You\nlook around you, and all you see is tawny fur and gaping jaws... it is too\nlate to run, too late to hide.\n   Twelve lions rip you and your belongings into a gory mass of bloodied\nleather, bronze, and bone.\n\n   What's that old saying? \n   Cats killed the curious?  Something like that, I'm sure...",
-  "header_raw": "120 bd 0",
-  "flags_text": "bd",
+  "header_raw": "120 10 0",
+  "flags_text": "10",
   "sector": 0,
   "exits": [
     {

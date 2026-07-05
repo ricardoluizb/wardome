@@ -3,8 +3,8 @@
   "zone_id": 53,
   "name": "A Ladder",
   "description": "You are climbing an ancient ladder that leads down into the depths of\nthe pyramid.  The air around is thick with layers of dust and a strange\nmusty smell.  Above you you see tiny beams of light coming through the\nstones of the ceiling.",
-  "header_raw": "53 cd 0",
-  "flags_text": "cd",
+  "header_raw": "53 32780 0",
+  "flags_text": "32780",
   "sector": 0,
   "exits": [
     {

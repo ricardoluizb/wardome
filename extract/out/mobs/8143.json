@@ -1,0 +1,12 @@
+{
+  "id": 8143,
+  "alias": "mimic cabinet",
+  "short_desc": "the mimic",
+  "long_desc": "A cabinet marked `Magical Items Only' stands in the corner.",
+  "detailed_desc": "You nearly open the cabinet when you realize goblins don't write in\nthe Common Speech.  Perhaps it's a trap.",
+  "flags_raw": "196618 0 10 E",
+  "stats1_raw": "155 -79 -29 1d1+17976 5d46+172",
+  "stats2_raw": "2325 18036962 11",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

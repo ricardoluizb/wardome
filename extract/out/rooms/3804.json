@@ -1,0 +1,45 @@
+{
+  "id": 3804,
+  "zone_id": 38,
+  "name": "A Dim Hallway Above the Stairway",
+  "description": "You are at the end of the dim hallway.  Below you are some old wooden stairs.\nYou can see that what's available of the light from the north can not penetrate\nthe lower floor.  A room is to the west and to the east.  Hanging on the walls\nare some torches that look serviceable.",
+  "header_raw": "38 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3803
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3810
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3809
+    },
+    {
+      "dir": 5,
+      "description": "You see nothing in the gloom below.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3811
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

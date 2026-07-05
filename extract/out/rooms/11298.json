@@ -1,0 +1,37 @@
+{
+  "id": 11298,
+  "zone_id": 112,
+  "name": "The Final Battle",
+  "description": "As you continue through the twisting caverns, you grow more and more\nconfident that the end of your quest is near. Reaching a junction, you\npause to decide where to proceed. A low chanting can be heard to the east,\nwhile to the north you hear someone shouting orders, though you cannot for\nthe life of you understand what language they are using. However, this room\ncontains something that draws your attention back to your immediate\nsurrounds...",
+  "header_raw": "112 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11299
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11297
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11296
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

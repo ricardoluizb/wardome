@@ -1,0 +1,29 @@
+{
+  "id": 12386,
+  "zone_id": 122,
+  "name": "Niflheim",
+  "description": "The path ends abruptly here, before the bottomless pit, from which red\nflames lick at the edge. To proceed in this direction would mean you\nhave to plunge into the middle of this fiery pit; an unpalatable choice\nat best. Perhaps you'd prefer the safer course to suicide, which lies\nback to the east, where you may proceed down the bone bridge.",
+  "header_raw": "122 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12388
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12385
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

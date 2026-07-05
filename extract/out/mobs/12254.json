@@ -1,0 +1,12 @@
+{
+  "id": 12254,
+  "alias": "durin dwarf",
+  "short_desc": "a Durin",
+  "long_desc": "A doughty dwarf strides boldly through the tunnels.",
+  "detailed_desc": "The Durin are the most ancient and powerful of the dwarven races,\npossessed of strength and skill far surpassing dwarves of later and\nearlier ages. Rigid and inflexible in their ways, they are unlikely\nto extend a great deal of hospitality to strangers.",
+  "flags_raw": "72 1024 200 E",
+  "stats1_raw": "60 -18 -5 1d1+3600 5d7+64",
+  "stats2_raw": "900 879375 4",
+  "stats3_raw": "8 8 1 3 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/122.mob"
+}

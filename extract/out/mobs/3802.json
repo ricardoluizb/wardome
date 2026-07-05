@@ -1,0 +1,12 @@
+{
+  "id": 3802,
+  "alias": "Snigger snake",
+  "short_desc": "Snigger the Cute Man-Eating Snake",
+  "long_desc": "Snigger, Icaza's cute man-eating snake, slithers around the room.",
+  "detailed_desc": "Snigger is a pretty big snake, at 7 feet and growing.  Although Icaza swears\nthat Snigger has no fangs, any casual observer would quickly argue that point.\nPoisonous?  Why don't you find out?",
+  "flags_raw": "10 8320 1000 E",
+  "stats1_raw": "15 13 7 1d1+315 5d2+6",
+  "stats2_raw": "225 18413 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/38.mob"
+}

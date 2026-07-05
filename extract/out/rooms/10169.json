@@ -1,0 +1,21 @@
+{
+  "id": 10169,
+  "zone_id": 101,
+  "name": "The plains",
+  "description": "The plains.  The only exit is south.",
+  "header_raw": "101 8 2",
+  "flags_text": "8",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10168
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/101.wld"
+}

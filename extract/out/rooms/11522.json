@@ -1,0 +1,29 @@
+{
+  "id": 11522,
+  "zone_id": 115,
+  "name": "Tin Can Alley",
+  "description": "The longer you stay in the alley, the more you realize that you don't want\nto be here.  Then you remember all the better things you have seen in New\nSparta (like the public beach) and how much you'd rather be there!  To the\nsouth is Baltimore Ave.  And Tin Can Alley continues east towards Broadway.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11515
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11526
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

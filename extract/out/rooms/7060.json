@@ -3,8 +3,8 @@
   "zone_id": 70,
   "name": "The Dark Passageway",
   "description": "You can't see anything but the ground where you put your feet.\nThe passageway seems to continue west and north.  To the east there\nis water covering the floor and that leads through an arched entry\nto a watery sewer.",
-  "header_raw": "70 ad 1",
-  "flags_text": "ad",
+  "header_raw": "70 9 1",
+  "flags_text": "9",
   "sector": 1,
   "exits": [
     {

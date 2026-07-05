@@ -1,0 +1,21 @@
+{
+  "id": 3831,
+  "zone_id": 38,
+  "name": "A Large Cage",
+  "description": "You are in a large, unlit cage.  It smells bad here, and you here squishing\nsounds as you tread around in this room.  The exit is to the east.",
+  "header_raw": "38 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "cage",
+      "door_flag": 1,
+      "key": 3803,
+      "to": 3830
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

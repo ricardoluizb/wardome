@@ -1,0 +1,12 @@
+{
+  "id": 6764,
+  "alias": "courier postmaster",
+  "short_desc": "a disgruntled courier",
+  "long_desc": "A disgruntled courier awaits your bidding.",
+  "detailed_desc": "The grey and strained eyes of the courier look at you with ill-concealed\nlack of interest. The scars on his face are an indication that he has\nseen foul weather of all sorts on the roads, and nothing you could\nrequest would surprise him.",
+  "flags_raw": "11 0 0 E",
+  "stats1_raw": "135 -47 -10 1d1+3780 5d14+54",
+  "stats2_raw": "2025 6908061 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/67.mob"
+}

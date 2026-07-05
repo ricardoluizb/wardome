@@ -1,0 +1,29 @@
+{
+  "id": 11573,
+  "zone_id": 115,
+  "name": "The Lobby Of The Waldorf Astoria",
+  "description": "This is one of the most luxurious hotels you have ever seen.  It makes the\ninn at Midgaard look like the Bates' Motel.  Pillars of gold tower above you to\nboth your left and right.  You try to chip a piece off the towers, but you\nthink twice when you see the large guards who would readily bite your head off\nif you even thought about trying.  To the east is Broadway.  Follow the stairs\nup to check in at the Reception.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11571
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11594
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

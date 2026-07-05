@@ -1,0 +1,29 @@
+{
+  "id": 311,
+  "zone_id": 3,
+  "name": "Path in the foothills",
+  "description": "You are walking on the long, narrow path through the foothills.\nTo your east you see a T-intersection and to the west the path\ncontinues far.",
+  "header_raw": "3 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You can go to the T-intersection this way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 312
+    },
+    {
+      "dir": 3,
+      "description": "You can see the long path through the plains.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 310
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/3.wld"
+}

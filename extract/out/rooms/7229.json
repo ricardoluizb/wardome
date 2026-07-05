@@ -3,8 +3,8 @@
   "zone_id": 72,
   "name": "The Strange Sewer",
   "description": "You are in a very strange sewer indeed, there are some odd scratches on\nthe pipe wall, as from a gigantic rat.  And you can see a lot of organic\ndecay like bones from animals AND humans.  West the drain runs slightly\nupwards.",
-  "header_raw": "72 ad 3",
-  "flags_text": "ad",
+  "header_raw": "72 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

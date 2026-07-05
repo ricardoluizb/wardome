@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "A Hall",
   "description": "You have come to the eastern end of the northern hallway.  The only\nexit is west except for the simple wooden door to the north.\nThere is a golden plaque above the door.",
-  "header_raw": "54 d 0",
-  "flags_text": "d",
+  "header_raw": "54 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

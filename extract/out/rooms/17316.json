@@ -1,0 +1,38 @@
+{
+  "id": 17316,
+  "zone_id": 173,
+  "name": "Before Blackmoor",
+  "description": "You stand before Blackmoor the keep of the evil Mordred. The curtain wall\nis some 25 feet high and towers flank the gate and corners. The breeze \nbrings a high pitched girlish laughter to you sending chills up your spine. \nTo the north lies the black iron gates of Blackmoor, and to the south\nstretches a winding road.",
+  "header_raw": "173 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Black Iron Gate",
+      "keywords": "gate black iron",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17327
+    },
+    {
+      "dir": 2,
+      "description": "A winding road",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17315
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "gates iron black",
+      "description": "The great iron gates have been forged from pig iron, and they are strangly  \nwithout rust. The iron spirals with great craftsmanship, forming into faces \nof distorted humans."
+    },
+    {
+      "keywords": "humans",
+      "description": "Actually they look like damned souls to you."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

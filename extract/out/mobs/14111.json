@@ -1,0 +1,12 @@
+{
+  "id": 14111,
+  "alias": "slime puddle mass",
+  "short_desc": "the slime",
+  "long_desc": "An ugly green mass sits on the ground in a puddle.",
+  "detailed_desc": "The slime is an amorphous goo.  It seems pretty wimpy, but it has\nalot of friends.  As you look at it you wonder how these things\nreproduce.",
+  "flags_raw": "2248 1024 -1000 E",
+  "stats1_raw": "40 -2 2 1d1+1440 5d5+26",
+  "stats2_raw": "600 276448 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

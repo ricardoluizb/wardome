@@ -1,0 +1,12 @@
+{
+  "id": 13222,
+  "alias": "citizen dragon",
+  "short_desc": "a citizen",
+  "long_desc": "A citizen of Cloudy Mountain grins evilly.",
+  "detailed_desc": "Although some high ranking officials in the city believe mating with humans will\nsave dragons since humans appear to be taking over as the dominate intelligent\nlife-form, many are suspicious of half-humans for this very reason.  Others \nsimply believe that it is ruining the dragon race.",
+  "flags_raw": "8392 40 -100 E",
+  "stats1_raw": "25 -8 -5 1d1+2292 5d5+90",
+  "stats2_raw": "375 94180 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

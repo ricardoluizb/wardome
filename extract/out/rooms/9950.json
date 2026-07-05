@@ -1,0 +1,21 @@
+{
+  "id": 9950,
+  "zone_id": 99,
+  "name": "A makeshift bedroom.",
+  "description": "A cot lies against the far wall of this little alcove, directly \nbeneath an inverted pentagram scribed in blood.  A bound footlocker \nstands opposite.  The only exit is back towards the West.",
+  "header_raw": "99 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9949
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

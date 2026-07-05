@@ -3,8 +3,8 @@
   "zone_id": 50,
   "name": "A Fungus Patch",
   "description": "As you walk through the fungus patch, you are shot at by many millions of\nspores.  You can hardly breathe.",
-  "header_raw": "50 ad 5",
-  "flags_text": "ad",
+  "header_raw": "50 9 5",
+  "flags_text": "9",
   "sector": 5,
   "exits": [
     {

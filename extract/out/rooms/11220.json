@@ -1,0 +1,21 @@
+{
+  "id": 11220,
+  "zone_id": 112,
+  "name": "Edmund's Armory",
+  "description": "Someone or something large has recently given this shop the once-over,\ntaking anything of value and smashing the rest to flinders. Fist marks\nthe size of your torso scar the stone walls, while the floor is stained\nwith blood, some of it fresh. A pile of smoldering rags in one corner\nmarks the point where an oil lamp fell and shattered during the fracas,\nigniting a pile of cleaning cloths.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11219
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

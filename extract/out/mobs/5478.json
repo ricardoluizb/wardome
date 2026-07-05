@@ -4,9 +4,9 @@
   "short_desc": "the pegasus",
   "long_desc": "The pegasus stands here, flexing its wings.",
   "detailed_desc": "A magnificant winged steed, this horse looks much like the Arabian\nthoroughbreds you have seen in stables.",
-  "flags_raw": "bglmpq dgk 1000 S",
-  "stats1_raw": "10 4 0 1d5+700 2d10+5",
-  "stats2_raw": "0 6500",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "104522 1096 1000 E",
+  "stats1_raw": "10 15 8 1d1+207 5d2+4",
+  "stats2_raw": "150 7126 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

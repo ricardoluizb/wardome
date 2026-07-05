@@ -1,0 +1,12 @@
+{
+  "id": 9201,
+  "alias": "mountain climber mountainclimber",
+  "short_desc": "the mountain climber",
+  "long_desc": "A mountain climber is making the same trek that you are.",
+  "detailed_desc": "He wants to see what's on the other side of the mountain too.",
+  "flags_raw": "78 0 500 E",
+  "stats1_raw": "120 -40 -8 1d1+3360 5d13+48",
+  "stats2_raw": "1800 4918761 0",
+  "stats3_raw": "8 8 1 -1 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/92.mob"
+}

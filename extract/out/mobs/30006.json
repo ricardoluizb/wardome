@@ -1,0 +1,12 @@
+{
+  "id": 30006,
+  "alias": "majestic statue of gil galad",
+  "short_desc": "Majestic Statue of Gil-Galad",
+  "long_desc": "A majestic statue of Gil-Galad stands in the middle of the room.",
+  "detailed_desc": "Standing tall and fair at your front, you see a large golden statue, at the\nmomment you see it, you recognize as Gil-Galad the might elf of the House of\nFingolfin.  Wielding his legendary spear, he looks ready for battle.",
+  "flags_raw": "1050698 16782504 1000 E",
+  "stats1_raw": "75 -25 -7 1d1+4500 5d8+70",
+  "stats2_raw": "1125 1641484 4",
+  "stats3_raw": "8 8 0 10 3",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/300.mob"
+}

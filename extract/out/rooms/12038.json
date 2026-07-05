@@ -3,8 +3,8 @@
   "zone_id": 120,
   "name": "The House Of Commons",
   "description": "This is the lower house of the advising body to the Emperor.  Common men\nfrom all parts of Rome work here to further assist the senators in advising\nthe Emperor on critical matters of state.  The seal of the Emperor is painted\non the far wall.  The only exit is to the north.",
-  "header_raw": "120 d 0",
-  "flags_text": "d",
+  "header_raw": "120 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

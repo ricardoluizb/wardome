@@ -1,0 +1,34 @@
+{
+  "id": 343,
+  "zone_id": 3,
+  "name": "Dark smelly tunnels",
+  "description": "You are standing in a small smelly tunnel under the plains.\nThe smell is growing stronger to the west, so is the density of the\nslime and other undeterminable substances ...",
+  "header_raw": "3 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The unbearable stench is less intensive in this direction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 342
+    },
+    {
+      "dir": 3,
+      "description": "The tunnel seems to extend into some kind of cave.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 344
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "slime substance",
+      "description": "BWADR! ..."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/3.wld"
+}

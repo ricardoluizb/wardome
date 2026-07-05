@@ -1,0 +1,37 @@
+{
+  "id": 9136,
+  "zone_id": 91,
+  "name": "Snowy, white cloud.",
+  "description": "You shiver as you stand here.  This beautiful, fluffy, pure white\ncloud is snowing.  The snow is pure and sweet as it melts in your\nmouth.  What a nifty cloud to be on.",
+  "header_raw": "91 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a very scientific cloud.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9135
+    },
+    {
+      "dir": 2,
+      "description": "A happy, peaceful little cloud humming to itself.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9131
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9137
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

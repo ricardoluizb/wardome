@@ -9,10 +9,10 @@
     5420,
     5421
   ],
-  "profit_buy": 1.3,
-  "profit_sell": 0.5,
+  "profit_buy": 1.0,
+  "profit_sell": 0.2,
   "buy_types": [
-    "ARMOR"
+    "9"
   ],
   "messages": [
     "%s Haven't got that on storage - try list!",
@@ -35,5 +35,5 @@
     0,
     0
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/shp/54.shp"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/54.shp"
 }

@@ -1,0 +1,12 @@
+{
+  "id": 14317,
+  "alias": "mob undead mummy general",
+  "short_desc": "the mummy of a general",
+  "long_desc": "A mummy of a general is standing here, longing to have the right to kill again.",
+  "detailed_desc": "A white skull can barely be seen through a tightly wrapped cloth that covers\nthis being's entire body. He silently attacks you.",
+  "flags_raw": "65578 1032 0 E",
+  "stats1_raw": "66 -31 -13 1d1+6600 5d13+116",
+  "stats2_raw": "990 1351642 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/143.mob"
+}

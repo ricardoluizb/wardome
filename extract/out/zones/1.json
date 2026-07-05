@@ -1,0 +1,674 @@
+{
+  "id": 1,
+  "name": "Ashtaroth - Zone 2",
+  "header": {
+    "raw": "199 20 2 1 0",
+    "min_room": 199,
+    "top_room": 20,
+    "lifespan": 2,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        100,
+        10,
+        123
+      ],
+      "comment": "(the Barghest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        100,
+        10,
+        3
+      ],
+      "comment": "(Spiked collar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        103,
+        1,
+        159
+      ],
+      "comment": "(Lord Ankou)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        101,
+        1,
+        12
+      ],
+      "comment": "(the Night Cape)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        102,
+        1,
+        9
+      ],
+      "comment": "(the Gloves of Soul Stealing)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        104,
+        3,
+        159
+      ],
+      "comment": "(a ghostly spectre)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        105,
+        3,
+        5
+      ],
+      "comment": "(Spectral breast plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        104,
+        3,
+        17
+      ],
+      "comment": "(Some glowing red eyelets)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        103,
+        3,
+        6
+      ],
+      "comment": "(Shimmering helm)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        109,
+        3,
+        1
+      ],
+      "comment": "(a &wShimmering&n ring)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        104,
+        3,
+        159
+      ],
+      "comment": "(a ghostly spectre)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        105,
+        3,
+        5
+      ],
+      "comment": "(Spectral breast plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        104,
+        3,
+        17
+      ],
+      "comment": "(Some glowing red eyelets)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        103,
+        3,
+        6
+      ],
+      "comment": "(Shimmering helm)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        109,
+        3,
+        2
+      ],
+      "comment": "(a &wShimmering&n ring)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        104,
+        3,
+        159
+      ],
+      "comment": "(a ghostly spectre)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        105,
+        3,
+        5
+      ],
+      "comment": "(Spectral breast plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        104,
+        3,
+        17
+      ],
+      "comment": "(Some glowing red eyelets)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        103,
+        3,
+        6
+      ],
+      "comment": "(Shimmering helm)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        109,
+        3,
+        2
+      ],
+      "comment": "(a &wShimmering&n ring)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        105,
+        4,
+        157
+      ],
+      "comment": "(the vampyre hunter)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        106,
+        4,
+        17
+      ],
+      "comment": "(a backpack)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        107,
+        4,
+        16
+      ],
+      "comment": "(a wooden stake)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        108,
+        4,
+        3
+      ],
+      "comment": "(a string of garlic)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        105,
+        4,
+        147
+      ],
+      "comment": "(the vampyre hunter)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        106,
+        4,
+        17
+      ],
+      "comment": "(a backpack)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        107,
+        4,
+        16
+      ],
+      "comment": "(a wooden stake)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        108,
+        4,
+        3
+      ],
+      "comment": "(a string of garlic)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        105,
+        4,
+        167
+      ],
+      "comment": "(the vampyre hunter)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        106,
+        4,
+        17
+      ],
+      "comment": "(a backpack)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        107,
+        4,
+        16
+      ],
+      "comment": "(a wooden stake)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        108,
+        4,
+        3
+      ],
+      "comment": "(a string of garlic)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        105,
+        4,
+        131
+      ],
+      "comment": "(the vampyre hunter)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        106,
+        4,
+        17
+      ],
+      "comment": "(a backpack)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        107,
+        4,
+        16
+      ],
+      "comment": "(a wooden stake)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        108,
+        4,
+        3
+      ],
+      "comment": "(a string of garlic)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        106,
+        2,
+        105
+      ],
+      "comment": "(the buzzard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        106,
+        2,
+        105
+      ],
+      "comment": "(the buzzard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        100,
+        10,
+        139
+      ],
+      "comment": "(the Barghest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        100,
+        10,
+        3
+      ],
+      "comment": "(Spiked collar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        100,
+        10,
+        121
+      ],
+      "comment": "(the Barghest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        100,
+        10,
+        3
+      ],
+      "comment": "(Spiked collar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        100,
+        10,
+        150
+      ],
+      "comment": "(the Barghest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        100,
+        10,
+        3
+      ],
+      "comment": "(Spiked collar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        100,
+        10,
+        163
+      ],
+      "comment": "(the Barghest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        100,
+        10,
+        3
+      ],
+      "comment": "(Spiked collar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        100,
+        10,
+        173
+      ],
+      "comment": "(the Barghest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        100,
+        10,
+        3
+      ],
+      "comment": "(Spiked collar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        100,
+        10,
+        111
+      ],
+      "comment": "(the Barghest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        100,
+        10,
+        3
+      ],
+      "comment": "(Spiked collar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        100,
+        10,
+        138
+      ],
+      "comment": "(the Barghest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        100,
+        10,
+        3
+      ],
+      "comment": "(Spiked collar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        100,
+        10,
+        186
+      ],
+      "comment": "(the Barghest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        100,
+        10,
+        3
+      ],
+      "comment": "(Spiked collar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        100,
+        10,
+        182
+      ],
+      "comment": "(the Barghest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        100,
+        10,
+        3
+      ],
+      "comment": "(Spiked collar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        102,
+        5,
+        175
+      ],
+      "comment": "(the cucubeth)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        102,
+        5,
+        180
+      ],
+      "comment": "(the cucubeth)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        102,
+        5,
+        115
+      ],
+      "comment": "(the cucubeth)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        102,
+        5,
+        166
+      ],
+      "comment": "(the cucubeth)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        102,
+        5,
+        185
+      ],
+      "comment": "(the cucubeth)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        101,
+        5,
+        126
+      ],
+      "comment": "(a corpse candle)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        101,
+        5,
+        137
+      ],
+      "comment": "(a corpse candle)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        101,
+        5,
+        143
+      ],
+      "comment": "(a corpse candle)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        101,
+        5,
+        108
+      ],
+      "comment": "(a corpse candle)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        101,
+        5,
+        168
+      ],
+      "comment": "(a corpse candle)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/1.zon"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 218,
+  "zone_id": 2,
+  "name": "Mr. Hooper's store",
+  "description": "This is your friendly neighbourhood convenience store and restaurant.\nThere are many interesting things that you can buy here.",
+  "header_raw": "2 156 1",
+  "flags_text": "156",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The conjuring chamber is still to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 206
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "counter",
+      "description": "The counter is nice and clean.  Mr. Hooper looks at you expectantly."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/2.wld"
+}

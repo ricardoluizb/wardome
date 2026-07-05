@@ -1,0 +1,29 @@
+{
+  "id": 2205,
+  "zone_id": 22,
+  "name": "Nursery",
+  "description": "It looks like a tornado has been through here.  Toys are scattered everywhere,\nand a small group of dragon hatchlings are fighting over a bone.",
+  "header_raw": "22 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see a large stone door.",
+      "keywords": "door stone",
+      "door_flag": 2,
+      "key": 2297,
+      "to": 2223
+    },
+    {
+      "dir": 3,
+      "description": "You see the hallway.",
+      "keywords": "",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2204
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

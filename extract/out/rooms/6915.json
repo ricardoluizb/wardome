@@ -1,0 +1,21 @@
+{
+  "id": 6915,
+  "zone_id": 69,
+  "name": "Another Cell",
+  "description": "You are inside of another cell, nothing different from anything you've seen\nso far.  Blood drenches the cell, and the bones stand out so much you could\nhave seen them from the tunnel.  Oh well, better get out of here anyway.  No\nsense in staying here your whole life.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "cell bars",
+      "door_flag": 1,
+      "key": 6902,
+      "to": 6914
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

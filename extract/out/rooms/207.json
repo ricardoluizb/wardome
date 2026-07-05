@@ -1,0 +1,21 @@
+{
+  "id": 207,
+  "zone_id": 2,
+  "name": "The Whirlpool",
+  "description": "It was not a good idea to come here.\n \n                You have died from water inhalation.\n \n                          You are dead.\n \n \n \n                           R . I . P .",
+  "header_raw": "2 10 0",
+  "flags_text": "10",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 206
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/2.wld"
+}

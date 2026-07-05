@@ -1,0 +1,12 @@
+{
+  "id": 14135,
+  "alias": "fighter",
+  "short_desc": "the fighter",
+  "long_desc": "A muscular fighter searches here.",
+  "detailed_desc": "This fighter is cleaning out the dungeons.  In the peaceful time\nfollowing the Avatar's success, there are few ways to show Valor.\n\nOne of the more dangerous is to descend into the pits of hell and\nclean them out.",
+  "flags_raw": "2120 1024 1000 E",
+  "stats1_raw": "140 -52 -12 1d1+5040 5d15+66",
+  "stats2_raw": "2100 9318472 1",
+  "stats3_raw": "8 8 0 3 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

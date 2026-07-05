@@ -4,9 +4,9 @@
   "short_desc": "the hobgoblin",
   "long_desc": "A small hobgoblin stands here.",
   "detailed_desc": "The hobgoblin looks quite lost.",
-  "flags_raw": "cg k -300 S",
-  "stats1_raw": "6 12 6 3d8+70 2d4+0",
-  "stats2_raw": "100 1500",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "76 1024 -300 E",
+  "stats1_raw": "6 17 9 1d1+126 5d1+2",
+  "stats2_raw": "90 2371 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/40.mob"
 }

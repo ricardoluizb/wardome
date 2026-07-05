@@ -1,0 +1,29 @@
+{
+  "id": 2400,
+  "zone_id": 24,
+  "name": "Standing by the &WK&wi&Rn&rg&Rd&wo&Wm &cG&Ca&Wt&Ce&cs&n",
+  "description": "Wandering Lost by the infinite corridor of mountains you suddenly stumbles\nin a little rock, which leads your vision to a pathway of huge sandstone\nstatues.  Among the two highest mountains the most incredible StrongHold that\nyou ever saw.  The Walls are made of Pure Steel and so is the gate, which gleam\nalmost blinds you.  Standing proud, protecting the great kingdom, a figure of a\nman, wich muscles seems to be about to explode, with his sword, held high, he\nstands ready to fight.  You wonder if it is a good idead to contest the\nguardian's will by crossing the imponent gates of the Kingdom of Steel.",
+  "header_raw": "24 1048772 0",
+  "flags_text": "1048772",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 0,
+      "key": 2403,
+      "to": 2401
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3362
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/24.wld"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 2335,
+  "zone_id": 23,
+  "name": "Lost in the Mist",
+  "description": "You stumble through the marsh here. The swamp seems to have swallowed you up\nand denied you exit. This mist is your jailor. You cannot tell where you are.\nYou hear quiet laughter all about you.",
+  "header_raw": "23 8388617 4",
+  "flags_text": "8388617",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2332
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2333
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2337
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2331
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

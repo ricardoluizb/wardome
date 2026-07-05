@@ -1,0 +1,50 @@
+{
+  "id": 28529,
+  "zone_id": 285,
+  "name": "The guarded hall",
+  "description": "You walk down a small, quiet, torch lit hallway. Doors of different colors \nare in each wall. To your east, you see a arena door. To your west, you \nsee a black door. The hall itself leads north and south.",
+  "header_raw": "285 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28528
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "DeathTrap",
+      "door_flag": 2,
+      "key": 28507,
+      "to": 28531
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28532
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "manafield",
+      "door_flag": 2,
+      "key": 28503,
+      "to": 28513
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "manafield",
+      "description": "You see a blur door. It has the name \"Mistery\" inscribed on it."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/285.wld"
+}

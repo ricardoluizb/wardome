@@ -1,0 +1,38 @@
+{
+  "id": 761,
+  "zone_id": 7,
+  "name": "Jailer's Room",
+  "description": "A small clean room.  There is a comfortable easy chair and a key\nhook on the wall.  In one corner near the chair, there is a pile of\ndiscarded newspapers.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 726,
+      "to": 762
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 755
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "newspaper",
+      "description": "Seems all it is is war news.  How boring!"
+    },
+    {
+      "keywords": "chair",
+      "description": "There's a tag on it: 'Laz-E-Goblin'"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

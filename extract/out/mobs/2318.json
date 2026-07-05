@@ -1,0 +1,12 @@
+{
+  "id": 2318,
+  "alias": "minotaur gatekeeper guard",
+  "short_desc": "the Minotaur Gatekeeper",
+  "long_desc": "A minotaur is here guarding the Keep of Mahn-Tor.",
+  "detailed_desc": "The minotaur stands rigidly before the gates of the keep. It looks quite\nmiserable standing in the driven snow and ice.",
+  "flags_raw": "78 8 -330 E",
+  "stats1_raw": "200 -84 -23 1d1+8796 5d21+100",
+  "stats2_raw": "3000 26655827 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/23.mob"
+}

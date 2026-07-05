@@ -1,0 +1,29 @@
+{
+  "id": 14374,
+  "zone_id": 143,
+  "name": "Lit Corridor",
+  "description": "This passage is lit by torches on the walls.  You think it is strange that\na place \"deserted\" for so long would contain lit torches.  The corridor\ncontinues east and a ladder leads down.",
+  "header_raw": "143 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The lit corridor continues east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14380
+    },
+    {
+      "dir": 5,
+      "description": "A rickety ladder leads down.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14373
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

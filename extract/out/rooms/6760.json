@@ -1,0 +1,21 @@
+{
+  "id": 6760,
+  "zone_id": 67,
+  "name": "A balcony of the tower",
+  "description": "This high point on the northern edge of Sundhaven boasts quite a\nview. When fog is not seen rolling about the balcony's railing, one\ncan see the graveyard near the foot of the cliff to the north, and\nbeyond it, the pearl blue sea, clothing the far horizon. The mages\nhave made this a favored place for recreational studies.",
+  "header_raw": "67 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6718
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 12361,
+  "zone_id": 122,
+  "name": "A Massive Cavern Complex",
+  "description": "You pass into a huge cavern, from which numerous passages branch off,\ninto the subterranean lairs of the many races that battle over the\nbloody fields of Jotunheim. An uncharacteristically warm breeze wafts\nin from the passages on this level, while the upper and lower exits\nlead to icy dark passages. Skulls and broken weapons litter the floor\nhere, the site of many battles between giant and dwarf.",
+  "header_raw": "122 12 0",
+  "flags_text": "12",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12362
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12363
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12372
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12316
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

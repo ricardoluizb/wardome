@@ -1,0 +1,45 @@
+{
+  "id": 24535,
+  "zone_id": 245,
+  "name": "MaGog",
+  "description": "You are at the gates to Satan's city, MaGog. About you writhe and cavort sinners in\na final frolic before destruction.Refuse and offal are the perfume of the city.\nDeterioration and decay claim every building you view. Nobody seems\nto mind the open gate.",
+  "header_raw": "245 4 1",
+  "flags_text": "4",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Armageddon",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24549
+    },
+    {
+      "dir": 1,
+      "description": "MaGog",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24536
+    },
+    {
+      "dir": 2,
+      "description": "MaGog",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24521
+    },
+    {
+      "dir": 3,
+      "description": "MaGog",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24534
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/245.wld"
+}

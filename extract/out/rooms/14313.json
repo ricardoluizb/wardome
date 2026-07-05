@@ -1,0 +1,21 @@
+{
+  "id": 14313,
+  "zone_id": 143,
+  "name": "Guard house of the Pyramid",
+  "description": "This is a well furnished house with several beds in it. The guards seem to\nwork in shifts in order to keep the gate guarded around the clock.",
+  "header_raw": "143 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The gate to the pyramid.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14312
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

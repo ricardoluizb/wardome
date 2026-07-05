@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "Outside The Southern Gate Of New Thalos",
   "description": "You see before you the expanse of the Great Eastern Desert.\nYou have heard many tales of the Great Pyramid, the lost city\nof Old Thalos and the friendly brass dragon that lies under the\ndesert.\n   To the south lies the desert and the city of New Thalos is\nto the north.",
-  "header_raw": "54 c 1",
-  "flags_text": "c",
+  "header_raw": "54 4 1",
+  "flags_text": "4",
   "sector": 1,
   "exits": [
     {

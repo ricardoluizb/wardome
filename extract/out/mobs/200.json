@@ -1,0 +1,12 @@
+{
+  "id": 200,
+  "alias": "sea serpent",
+  "short_desc": "The sea serpent",
+  "long_desc": "A sea serpent swims around here.",
+  "detailed_desc": "Looking closely at this creature reveals its large teeth... heading your\nway.",
+  "flags_raw": "8388684 0 0 E",
+  "stats1_raw": "75 -29 -10 1d1+5700 5d15+90",
+  "stats2_raw": "1125 1719650 6",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/2.mob"
+}

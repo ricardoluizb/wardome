@@ -1,0 +1,29 @@
+{
+  "id": 10536,
+  "zone_id": 104,
+  "name": "Stairs to the Abyss",
+  "description": "These dark stairs are made out of the bones of the damned. They rattle\nsoftly as you tread apon them as if to cry out in protest. The air is filled\nwith the wailing of lost souls and the blood curdling screams of the\npunished. You can't seem to find the Abyss...you seem to recall a seeing a\nsign....now what did it say again?......",
+  "header_raw": "104 13 0",
+  "flags_text": "13",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "throne",
+      "door_flag": 2,
+      "key": 10536,
+      "to": 10400
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10527
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

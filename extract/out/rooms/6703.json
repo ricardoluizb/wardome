@@ -1,0 +1,34 @@
+{
+  "id": 6703,
+  "zone_id": 67,
+  "name": "At the altar",
+  "description": "You stand in a quiet room garbed on all sides by black drapery,\nsave for the south wall, on which is painted a stellar calendar\nwith symbols difficult to interpret. Reverance to the elusive\nhuman deity is paid here.",
+  "header_raw": "67 24 0",
+  "flags_text": "24",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6701
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6761
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "calendar",
+      "description": "The circular diagram shows symbols for what appear to be the\ndays of the week and the month, and how they correspond to the\nslow treks of the stars, and perhaps, some inner meanings known\nonly to the local priesthood."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

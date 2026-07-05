@@ -1,0 +1,29 @@
+{
+  "id": 2016,
+  "zone_id": 20,
+  "name": "Game Room",
+  "description": "As you enter you see many different types of equipment...used in the games\nof the Knights...You see Jousting equipment... and Riding gear.. Helmets\nand shields and lances... YOu see great sized discs and long steel\nposts..tossed for sport and skill. Many other items of game lay about the\nroom..choose..what is it you enjoy most in the games of bravery and skill?",
+  "header_raw": "20 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2018
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2012
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

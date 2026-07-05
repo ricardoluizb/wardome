@@ -1,0 +1,12 @@
+{
+  "id": 11555,
+  "alias": "maid",
+  "short_desc": "the maid",
+  "long_desc": "A maid is here cleaning up after the guests.",
+  "detailed_desc": "The maid is a lady weary from constant upkeep of the hotel who views most of\nmankind as slobs.",
+  "flags_raw": "14 32 0 E",
+  "stats1_raw": "40 -4 1 1d1+1752 5d5+36",
+  "stats2_raw": "600 280201 2",
+  "stats3_raw": "8 8 2 -1 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

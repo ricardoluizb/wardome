@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "A Hall",
   "description": "You have reached the western end of the southern hallway.  The only\nexit is east except for the doors in the southern and western walls.",
-  "header_raw": "54 d 0",
-  "flags_text": "d",
+  "header_raw": "54 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

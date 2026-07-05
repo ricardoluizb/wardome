@@ -1,0 +1,12 @@
+{
+  "id": 13210,
+  "alias": "dragon winged",
+  "short_desc": "the winged dragon",
+  "long_desc": "A winged dragon guards a half to the Crown of Kings.",
+  "detailed_desc": "These dragons have inhabited Cloudy Mountain for centuries.  They have kept the\nCrown of Kings in their possession all this time and do not intend to give them\nup to you.",
+  "flags_raw": "8298 8360 -600 E",
+  "stats1_raw": "15 -3 -4 1d1+1380 5d3+86",
+  "stats2_raw": "225 26305 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

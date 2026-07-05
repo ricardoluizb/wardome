@@ -1,0 +1,34 @@
+{
+  "id": 6840,
+  "zone_id": 67,
+  "name": "A doorway hung with daggers",
+  "description": "The dark hall of the underground ends here before a tall, narrow\ndoor of sturdy oak, scarred with daggerpoints. The soil is wet\nwith some dark fluid.. slime from the boots of passersby? Of \ncourse.\nA circular emblem is etched into the door.",
+  "header_raw": "67 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 6841
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6839
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "emblem",
+      "description": "An emblem of a black naga chasing its tail is engraved in a crimson\nborder on the thick oaken door.\nBeneath, something has been scrawled by daggerpoint.\n...\nRound the gallows, one-armed and bland\nWe dance and dance, the devil's own band\nOf wary highwaymen.\nLet no rogue fail to keep his head.\nThis is no monastery here, I say, you dead.\n..."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

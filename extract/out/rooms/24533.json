@@ -1,0 +1,29 @@
+{
+  "id": 24533,
+  "zone_id": 245,
+  "name": "MaGog",
+  "description": "You are in Satan's city of MaGog. About you writhe and cavort sinners in\na final frolic before destruction.Refuse and offal are the perfume of the city.\nDeterioration and decay claim every building you view. A lukewarm worshipper\nis here to be spewed out of the mouth of the one to come.",
+  "header_raw": "245 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "MaGog",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24534
+    },
+    {
+      "dir": 2,
+      "description": "MaGog",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24519
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/245.wld"
+}

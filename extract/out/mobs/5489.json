@@ -4,9 +4,9 @@
   "short_desc": "the mayor",
   "long_desc": "The Mayor of New Thalos stands here.",
   "detailed_desc": "You see a chubby rabbit dressed in his best suit.",
-  "flags_raw": "g 0 1000 S",
-  "stats1_raw": "10 0 0 2d8+600 3d6+6",
-  "stats2_raw": "1200 15675",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "72 0 1000 E",
+  "stats1_raw": "10 15 8 1d1+207 5d2+4",
+  "stats2_raw": "150 7126 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

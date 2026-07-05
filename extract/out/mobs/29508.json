@@ -1,0 +1,12 @@
+{
+  "id": 29508,
+  "alias": "hector",
+  "short_desc": "Hector",
+  "long_desc": "Hector, brother of Paris, stands before you.",
+  "detailed_desc": "Hector is one of the mightiest heroes of Troy, save maybe for Aeneas if you\nbelieve Virgil. He is the favorite son of his parents, and of Troy. He is\nin charge of the Trojan forces.",
+  "flags_raw": "72 128 400 E",
+  "stats1_raw": "125 -50 -14 1d1+7500 5d13+90",
+  "stats2_raw": "1875 7041107 4",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/295.mob"
+}

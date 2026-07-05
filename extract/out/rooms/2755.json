@@ -1,0 +1,21 @@
+{
+  "id": 2755,
+  "zone_id": 27,
+  "name": "Arguindel's Trading Post",
+  "description": "At first, this place appears to be nothing more than an old, run-down shack.  \nOnce you take a moment to look around it becomes evident that it is much\ncleaner and newer than it seems.  Rusted pots on the wall and aged dark wood\nfloors are used to give the place a rustic feel.  Looking around, everything\nseems spotless and well-taken care of.  There is a large wooden counter in\nfront of the north wall with a small sign hanging in front of it.  Behind the\ncounter are rows of shelves holding items for trade and sell.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2746
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

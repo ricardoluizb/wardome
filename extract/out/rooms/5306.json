@@ -3,8 +3,8 @@
   "zone_id": 53,
   "name": "The Apex Of The Great Pyramid",
   "description": "Bathed in sweat, you have managed to reach the summit of the great\npyramid.  The four sides of the pyramid slope sharply down into the\nhot sands in all four cardinal directions.\nA plaque has been set into the sandy stones beneath your feet.",
-  "header_raw": "53 0 1",
-  "flags_text": "0",
+  "header_raw": "53 32768 1",
+  "flags_text": "32768",
   "sector": 1,
   "exits": [
     {
@@ -50,12 +50,12 @@
   ],
   "extra_descriptions": [
     {
-      "keywords": "stones",
-      "description": "As you look closer you can make out a crack in the center of the stones\nbeneath your feet.  With some effort you might be able to lift that \nsection up and get inside!"
-    },
-    {
       "keywords": "plaque",
       "description": "The plaque reads:\n\n                        The Great Pyramid\n\n                Created by the Andersen work crew."
+    },
+    {
+      "keywords": "stones",
+      "description": "As you look closer you can make out a crack in the center of the stones\nbeneath your feet.  With some effort you might be able to lift that \nsection up and get inside!"
     }
   ],
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/53.wld"

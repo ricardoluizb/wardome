@@ -1,0 +1,29 @@
+{
+  "id": 835,
+  "zone_id": 7,
+  "name": "Near the City",
+  "description": "You are very near the city now.  There is a great gate to your\neast, with guards slowly letting people in and out.  The walls\nsurrounding the city seem impassable, but several scorch marks along\nits length tells a different stories about war and raids.  To your\nwest is a rise where you may get a better vantage point of the city.",
+  "header_raw": "7 8 2",
+  "flags_text": "8",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 777
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 834
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

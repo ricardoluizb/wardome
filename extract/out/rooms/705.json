@@ -1,0 +1,45 @@
+{
+  "id": 705,
+  "zone_id": 7,
+  "name": "Intersection",
+  "description": "This is the intersection of Citizen Road and Center Road.  The\npedestrians file past each other with practiced ease.  You have no\nclue how to get across...  Wait, there's an opening!  Sprint, Turn,\nJab!  Run, Run, Run...  you're across! You look up at the never-ending\ntwilight and wonder how so many people could bear to live here.",
+  "header_raw": "7 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 718
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 706
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 713
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 704
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

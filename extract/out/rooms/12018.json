@@ -3,8 +3,8 @@
   "zone_id": 120,
   "name": "The South Entrance To The Coliseum",
   "description": "You are standing at the south entrance to the Coliseum.  There are\ncitizens of Rome everywhere, apparently in a mad rush to get in.  A\nstatue of Caligula the Mad Emperor overlooks the area.  There are long\nlines standing to the east, and an acrid smell is coming from the west.\nA busy road lies to the south.",
-  "header_raw": "120 c 1",
-  "flags_text": "c",
+  "header_raw": "120 4 1",
+  "flags_text": "4",
   "sector": 1,
   "exits": [
     {

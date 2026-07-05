@@ -1,0 +1,37 @@
+{
+  "id": 13062,
+  "zone_id": 130,
+  "name": "Headquarter's Hall",
+  "description": "You are in the end of the headquarter's hall, you can see a Large\nGolden Door to the  north and a big silver door to the east.  The hall\ncontinues to the south.",
+  "header_raw": "130 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "Golden Door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 13069
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "Silver Door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 13070
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13061
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

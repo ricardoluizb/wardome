@@ -1,0 +1,37 @@
+{
+  "id": 29960,
+  "zone_id": 298,
+  "name": "A Guarded Flet",
+  "description": "You stand in the midst of what appears to be the barracks and guardhouse of the\ntree.  The most honored and esteemed warriors stand here protecting the queen,\nand in the case of battle, acting as a final defense.  The tree's limbs extend\nout towards the northwest holding the barracks and planning room at the edges.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29961
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29964
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29953
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

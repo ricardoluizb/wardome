@@ -1,0 +1,29 @@
+{
+  "id": 5787,
+  "zone_id": 57,
+  "name": "A Long Passageway",
+  "description": "This passageway is the longest straight-running passageway you have so far\nencountered, running without interruption for at least 250 metres. It \ncontinues in both directions.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a bend",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5794
+    },
+    {
+      "dir": 2,
+      "description": "a bend",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5786
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

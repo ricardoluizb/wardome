@@ -1,0 +1,45 @@
+{
+  "id": 1023,
+  "zone_id": 10,
+  "name": "A Cloistered Hall",
+  "description": "You stand in part of a long stone hallway lined on both the east\nand western sides with doorways.  In most of the doorways it appears\nthat the wooden doors that were once there in their entirety are\nsmashed and destroyed.  The doors on either side of the hallway here\nare no different.",
+  "header_raw": "10 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The hallway continues northwards.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1026
+    },
+    {
+      "dir": 1,
+      "description": "Yet another door in the long series has been smashed open on the\neastern side of the hallway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1025
+    },
+    {
+      "dir": 2,
+      "description": "To the south, you can see that the hallway continues, but you also\nnotice that there aren't many lights down that way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1019
+    },
+    {
+      "dir": 3,
+      "description": "Just like the doors on the eastern side of the hall, there is no\nlonger a doorway here on the western side.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1024
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

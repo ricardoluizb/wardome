@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Tunnel",
   "description": "You find yourself at an elbow turn in the tunnel as it turns to the\nwest and north.  You spot a small alcove hidden in the shadows just to\nthe south of you, and you can feel a breeze coming from somewhere to the\nnorth you believe.",
-  "header_raw": "40 ad 3",
-  "flags_text": "ad",
+  "header_raw": "40 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

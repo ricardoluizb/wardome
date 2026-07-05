@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "A Broom Closet",
   "description": "You are in a dark broom closet.  Many straw brooms and other cleaning\ninstruments have been left here, apparently unused (perhaps the maid\nquit?).\n   The only exit leads back north to the hallway.",
-  "header_raw": "25 adg 0",
-  "flags_text": "adg",
+  "header_raw": "25 73 0",
+  "flags_text": "73",
   "sector": 0,
   "exits": [
     {

@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Foothills",
   "description": "After a long trek, you find yourself in the foothills again.  You spot\na narrow trail leading away to the northwest not too far distant to the\nwest.",
-  "header_raw": "40 c 5",
-  "flags_text": "c",
+  "header_raw": "40 4 5",
+  "flags_text": "4",
   "sector": 5,
   "exits": [
     {

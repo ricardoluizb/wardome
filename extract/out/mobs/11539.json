@@ -1,0 +1,12 @@
+{
+  "id": 11539,
+  "alias": "vendor salesman",
+  "short_desc": "the vendor",
+  "long_desc": "A vendor is here peddling his goods.",
+  "detailed_desc": "A merchant with a variety of goods, with nothing you particularly need.",
+  "flags_raw": "10 1064 100 E",
+  "stats1_raw": "50 -9 0 1d1+2196 5d6+40",
+  "stats2_raw": "750 565468 2",
+  "stats3_raw": "8 8 1 0 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

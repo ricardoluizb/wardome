@@ -4,9 +4,9 @@
   "short_desc": "the grey cat",
   "long_desc": "A grey cat is lounging lazily here.",
   "detailed_desc": "The grey cat cocks an ear towards you, sensing your scrutiny, then purrs\ncontentedly.  It looks rather harmless, until you notice its very large\nclaws.",
-  "flags_raw": "bg dks 0 S",
-  "stats1_raw": "15 5 -5 15d15+150 5d5+5",
-  "stats2_raw": "0 18750",
-  "stats3_raw": "8 8 2",
+  "flags_raw": "74 263176 0 E",
+  "stats1_raw": "145 -52 -11 1d1+4056 5d15+58",
+  "stats2_raw": "2175 8494573 0",
+  "stats3_raw": "8 8 2 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

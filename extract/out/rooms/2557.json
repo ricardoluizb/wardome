@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Amphitheater",
   "description": "You are in a small amphitheater.  Rows of comfortable looking chairs\ncircle a large podium.  The echos of your footsteps seem very loud here.\n   The only apparent exit leads north to the hallway.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

@@ -1,0 +1,12 @@
+{
+  "id": 11506,
+  "alias": "tourist",
+  "short_desc": "the tourist",
+  "long_desc": "A tourist is here, taking in the sights.",
+  "detailed_desc": "Every metropolis has them, well so does New Sparta.  Be careful not to get\ncaught in their line of sight.",
+  "flags_raw": "136 0 200 E",
+  "stats1_raw": "25 4 3 1d1+1092 5d3+30",
+  "stats2_raw": "375 81139 2",
+  "stats3_raw": "8 8 2 7 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 9904,
+  "alias": "ghenna bugbear",
+  "short_desc": "the Bugbear",
+  "long_desc": "A tall Bugbear stands here, poised for action.",
+  "detailed_desc": "Large and very muscular, this guy is covered in brick red fur.  Though\nvaguely humanoid in appearance, he seems to contain the blood of some large\ncarnivore.",
+  "flags_raw": "104 8 -1000 E",
+  "stats1_raw": "15 11 6 1d1+540 5d2+16",
+  "stats2_raw": "225 22359 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/99.mob"
+}

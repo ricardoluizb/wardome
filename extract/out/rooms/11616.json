@@ -1,0 +1,21 @@
+{
+  "id": 11616,
+  "zone_id": 115,
+  "name": "Petland Discount Store",
+  "description": "This is more then just your average neighborhood pet store...  Here, they\nspecialize in exotic pets for today's adventurers.  There is a sign on the\nwall.  Broadway is to the west.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11569
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

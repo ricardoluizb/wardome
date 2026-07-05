@@ -1,0 +1,2294 @@
+{
+  "id": 7,
+  "name": "Kerofk",
+  "header": {
+    "raw": "852 20 2 17 -1",
+    "min_room": 852,
+    "top_room": 20,
+    "lifespan": 2,
+    "reset_mode": 17
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        704,
+        1,
+        748
+      ],
+      "comment": "(Seobagn)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        748,
+        1,
+        1
+      ],
+      "comment": "(Thieves Guild)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        700,
+        1,
+        700
+      ],
+      "comment": "(MouseRider)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        700,
+        10,
+        9
+      ],
+      "comment": "(a white glove)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        746,
+        1,
+        700
+      ],
+      "comment": "(a chest)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        715,
+        5,
+        833
+      ],
+      "comment": "(an amulet of Hope)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        716,
+        5,
+        833
+      ],
+      "comment": "(an eagle pendant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        751,
+        10,
+        819
+      ],
+      "comment": "(a goblin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        751,
+        10,
+        819
+      ],
+      "comment": "(a goblin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        751,
+        10,
+        819
+      ],
+      "comment": "(a goblin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        751,
+        10,
+        819
+      ],
+      "comment": "(a goblin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        751,
+        10,
+        819
+      ],
+      "comment": "(a goblin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        751,
+        10,
+        819
+      ],
+      "comment": "(a goblin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        751,
+        10,
+        819
+      ],
+      "comment": "(a goblin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        751,
+        10,
+        819
+      ],
+      "comment": "(a goblin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        751,
+        10,
+        819
+      ],
+      "comment": "(a goblin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        751,
+        10,
+        819
+      ],
+      "comment": "(a goblin)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        819,
+        0,
+        1
+      ],
+      "comment": "(Trial of Defense!)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        714,
+        1,
+        764
+      ],
+      "comment": "(the Receptionist)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        713,
+        5,
+        764
+      ],
+      "comment": "(the Citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        713,
+        5,
+        764
+      ],
+      "comment": "(the Citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        754,
+        1,
+        765
+      ],
+      "comment": "(the Bartender)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        748,
+        1000,
+        -1
+      ],
+      "comment": "(a bottle)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        749,
+        1000,
+        -1
+      ],
+      "comment": "(a carafe)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        750,
+        1000,
+        -1
+      ],
+      "comment": "(a shotglass)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        706,
+        5,
+        765
+      ],
+      "comment": "(the Barmaid)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        706,
+        5,
+        765
+      ],
+      "comment": "(the Barmaid)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        706,
+        5,
+        765
+      ],
+      "comment": "(the Barmaid)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        707,
+        5,
+        765
+      ],
+      "comment": "(the Drunk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        707,
+        5,
+        765
+      ],
+      "comment": "(the Drunk)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        800,
+        1,
+        1
+      ],
+      "comment": "(Entrance to the Blue Trials)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        811,
+        5,
+        1
+      ],
+      "comment": "(Passageway)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        747,
+        2,
+        734
+      ],
+      "comment": "(a well)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        747,
+        2,
+        734
+      ],
+      "comment": "(a well)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        701,
+        1,
+        703
+      ],
+      "comment": "(the Sentinel Beast)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        702,
+        1,
+        751
+      ],
+      "comment": "(Leonna)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        729,
+        10,
+        752
+      ],
+      "comment": "(a chimaera cloak)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        728,
+        3,
+        752
+      ],
+      "comment": "(the dreamblade)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        730,
+        20,
+        5
+      ],
+      "comment": "(a magic jerkin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        727,
+        20,
+        16
+      ],
+      "comment": "(a flaming sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        723,
+        1,
+        17
+      ],
+      "comment": "(a guild key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        703,
+        1,
+        747
+      ],
+      "comment": "(the Bookstore Owner)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        702,
+        1000,
+        -1
+      ],
+      "comment": "(the book of dragons)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        708,
+        1000,
+        -1
+      ],
+      "comment": "(a manual of protection)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        709,
+        1000,
+        -1
+      ],
+      "comment": "(a travel brochure)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3052,
+        1000,
+        -1
+      ],
+      "comment": "(a scroll of recall)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3050,
+        1000,
+        -1
+      ],
+      "comment": "(a scroll of identify)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        705,
+        1,
+        746
+      ],
+      "comment": "(the Bartender)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        748,
+        1000,
+        -1
+      ],
+      "comment": "(a bottle)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        749,
+        1000,
+        -1
+      ],
+      "comment": "(a carafe)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        750,
+        1000,
+        -1
+      ],
+      "comment": "(a shotglass)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        706,
+        5,
+        746
+      ],
+      "comment": "(the Barmaid)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        706,
+        5,
+        746
+      ],
+      "comment": "(the Barmaid)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        707,
+        5,
+        746
+      ],
+      "comment": "(the Drunk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        707,
+        5,
+        746
+      ],
+      "comment": "(the Drunk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        707,
+        5,
+        746
+      ],
+      "comment": "(the Drunk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        708,
+        3,
+        707
+      ],
+      "comment": "(the Gambler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        708,
+        3,
+        741
+      ],
+      "comment": "(the Gambler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        708,
+        3,
+        741
+      ],
+      "comment": "(the Gambler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        709,
+        4,
+        707
+      ],
+      "comment": "(The Dealer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        709,
+        4,
+        707
+      ],
+      "comment": "(The Dealer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        709,
+        4,
+        741
+      ],
+      "comment": "(The Dealer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        709,
+        4,
+        741
+      ],
+      "comment": "(The Dealer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        710,
+        1,
+        742
+      ],
+      "comment": "(Ben)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        737,
+        20,
+        16
+      ],
+      "comment": "(an axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        711,
+        1,
+        743
+      ],
+      "comment": "(the Shopkeeper)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        714,
+        100,
+        -1
+      ],
+      "comment": "(a tin of nightcrawlers)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        717,
+        100,
+        -1
+      ],
+      "comment": "(a fly lure)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        743,
+        1000,
+        -1
+      ],
+      "comment": "(a breast plate)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        744,
+        1000,
+        -1
+      ],
+      "comment": "(a round, steel cap)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        745,
+        1000,
+        -1
+      ],
+      "comment": "(a pair of chain leggings)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        712,
+        5,
+        707
+      ],
+      "comment": "(The Gambler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        712,
+        5,
+        707
+      ],
+      "comment": "(The Gambler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        712,
+        5,
+        741
+      ],
+      "comment": "(The Gambler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        712,
+        5,
+        741
+      ],
+      "comment": "(The Gambler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        712,
+        5,
+        741
+      ],
+      "comment": "(The Gambler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        715,
+        1,
+        754
+      ],
+      "comment": "(the Herbalist)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        718,
+        1000,
+        -1
+      ],
+      "comment": "(a dusk of basil)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        719,
+        1000,
+        -1
+      ],
+      "comment": "(a fern seed)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        720,
+        1000,
+        -1
+      ],
+      "comment": "(a clump of hemlock)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        721,
+        1000,
+        -1
+      ],
+      "comment": "(a betony leaf)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        722,
+        1000,
+        -1
+      ],
+      "comment": "(a crown of elder berries)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        716,
+        2,
+        758
+      ],
+      "comment": "(the Lawyer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        716,
+        2,
+        758
+      ],
+      "comment": "(the Lawyer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        717,
+        1,
+        756
+      ],
+      "comment": "(the Secretary)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        718,
+        1,
+        757
+      ],
+      "comment": "(Kell)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        719,
+        2,
+        759
+      ],
+      "comment": "(the Council Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        1000,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        719,
+        2,
+        759
+      ],
+      "comment": "(the Council Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        1000,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        720,
+        7,
+        760
+      ],
+      "comment": "(The Council Member)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        720,
+        7,
+        760
+      ],
+      "comment": "(The Council Member)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        720,
+        7,
+        760
+      ],
+      "comment": "(The Council Member)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        720,
+        7,
+        760
+      ],
+      "comment": "(The Council Member)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        720,
+        7,
+        760
+      ],
+      "comment": "(The Council Member)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        720,
+        7,
+        760
+      ],
+      "comment": "(The Council Member)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        720,
+        7,
+        760
+      ],
+      "comment": "(The Council Member)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        721,
+        1,
+        761
+      ],
+      "comment": "(the Jailer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        1000,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        726,
+        1,
+        -1
+      ],
+      "comment": "(a jailer's key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        722,
+        1,
+        762
+      ],
+      "comment": "(the Prisoner)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        723,
+        2,
+        744
+      ],
+      "comment": "(the Innguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        1000,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        723,
+        2,
+        744
+      ],
+      "comment": "(the Innguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        1000,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        724,
+        1,
+        739
+      ],
+      "comment": "(George)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        711,
+        100,
+        -1
+      ],
+      "comment": "(an arbalest)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        712,
+        100,
+        -1
+      ],
+      "comment": "(a suit of target armor)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        713,
+        100,
+        -1
+      ],
+      "comment": "(a quick sheathe)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        710,
+        3,
+        -1
+      ],
+      "comment": "(a plate bird perch)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        725,
+        1,
+        740
+      ],
+      "comment": "(the Black Marketeer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        731,
+        10,
+        17
+      ],
+      "comment": "(the space-warp wand)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        726,
+        2,
+        769
+      ],
+      "comment": "(the Priest)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        726,
+        2,
+        769
+      ],
+      "comment": "(the Priest)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        727,
+        1,
+        770
+      ],
+      "comment": "(the High Priest)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        728,
+        1,
+        771
+      ],
+      "comment": "(the Sergeant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        729,
+        1,
+        772
+      ],
+      "comment": "(the Captain)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        704,
+        20,
+        16
+      ],
+      "comment": "(an epee)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        730,
+        1,
+        768
+      ],
+      "comment": "(the Beggar)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        724,
+        1,
+        -1
+      ],
+      "comment": "(a blank key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        731,
+        4,
+        702
+      ],
+      "comment": "(the Citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        731,
+        4,
+        702
+      ],
+      "comment": "(the Citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        731,
+        4,
+        702
+      ],
+      "comment": "(the Citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        731,
+        4,
+        702
+      ],
+      "comment": "(the Citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        732,
+        4,
+        750
+      ],
+      "comment": "(the Citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        732,
+        4,
+        750
+      ],
+      "comment": "(the Citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        732,
+        4,
+        750
+      ],
+      "comment": "(the Citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        732,
+        4,
+        750
+      ],
+      "comment": "(the Citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        733,
+        6,
+        768
+      ],
+      "comment": "(the Militia Man)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        1000,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        733,
+        6,
+        768
+      ],
+      "comment": "(the Militia Man)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        1000,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        733,
+        6,
+        768
+      ],
+      "comment": "(the Militia Man)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        1000,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        733,
+        6,
+        768
+      ],
+      "comment": "(the Militia Man)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        1000,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        733,
+        6,
+        768
+      ],
+      "comment": "(the Militia Man)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        1000,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        733,
+        6,
+        768
+      ],
+      "comment": "(the Militia Man)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        1000,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        734,
+        1,
+        768
+      ],
+      "comment": "(Kervin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        706,
+        20,
+        16
+      ],
+      "comment": "(a war ribbon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        739,
+        10,
+        5
+      ],
+      "comment": "(A blob of living armor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        735,
+        4,
+        776
+      ],
+      "comment": "(The Gateguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        1000,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        735,
+        4,
+        776
+      ],
+      "comment": "(The Gateguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        1000,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        735,
+        4,
+        777
+      ],
+      "comment": "(The Gateguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        1000,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        735,
+        4,
+        777
+      ],
+      "comment": "(The Gateguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        1000,
+        16
+      ],
+      "comment": "(a long sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        736,
+        1,
+        804
+      ],
+      "comment": "(the Bright Light)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        737,
+        2,
+        807
+      ],
+      "comment": "(the Guardian Wisp)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        737,
+        2,
+        807
+      ],
+      "comment": "(the Guardian Wisp)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        738,
+        1,
+        831
+      ],
+      "comment": "(the Orb)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        701,
+        5,
+        17
+      ],
+      "comment": "(A crystal shard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        739,
+        1,
+        832
+      ],
+      "comment": "(the Liche)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        703,
+        5,
+        12
+      ],
+      "comment": "(the robe of the Liche)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        725,
+        2,
+        746
+      ],
+      "comment": "(an odd scroll)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        740,
+        2,
+        832
+      ],
+      "comment": "(the Storm Demon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        740,
+        2,
+        832
+      ],
+      "comment": "(the Storm Demon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        741,
+        1,
+        799
+      ],
+      "comment": "(Tiersten)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        735,
+        20,
+        16
+      ],
+      "comment": "(a flail)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        736,
+        20,
+        799
+      ],
+      "comment": "(a painting)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        742,
+        1,
+        799
+      ],
+      "comment": "(the Edimmu)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        743,
+        1,
+        784
+      ],
+      "comment": "(Sosivia)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        738,
+        20,
+        3
+      ],
+      "comment": "(a talisman of hope)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        744,
+        1,
+        791
+      ],
+      "comment": "(Gretta)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        733,
+        15,
+        3
+      ],
+      "comment": "(an amulet of protection)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        734,
+        15,
+        17
+      ],
+      "comment": "(the memory staff)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        745,
+        1,
+        788
+      ],
+      "comment": "(Talbot)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        732,
+        100,
+        16
+      ],
+      "comment": "(an elite sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        746,
+        1,
+        788
+      ],
+      "comment": "(Korino)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        732,
+        100,
+        16
+      ],
+      "comment": "(an elite sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        747,
+        1,
+        847
+      ],
+      "comment": "(Bungle Fleecem)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        748,
+        1,
+        850
+      ],
+      "comment": "(the gravedigger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        749,
+        4,
+        750
+      ],
+      "comment": "(the Citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        749,
+        4,
+        750
+      ],
+      "comment": "(the Citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        749,
+        4,
+        750
+      ],
+      "comment": "(the Citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        749,
+        4,
+        750
+      ],
+      "comment": "(the Citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        750,
+        2,
+        816
+      ],
+      "comment": "(a hellhound)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        750,
+        2,
+        816
+      ],
+      "comment": "(a hellhound)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        752,
+        1,
+        852
+      ],
+      "comment": "(the Farmer)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        705,
+        1000,
+        -1
+      ],
+      "comment": "(a powwee)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        707,
+        1000,
+        -1
+      ],
+      "comment": "(a zucchini)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        740,
+        1000,
+        -1
+      ],
+      "comment": "(a pale apple)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        741,
+        1000,
+        -1
+      ],
+      "comment": "(a potato)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        742,
+        1000,
+        -1
+      ],
+      "comment": "(an onion)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        753,
+        1,
+        745
+      ],
+      "comment": "(the Receptionist)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        702,
+        2,
+        2
+      ],
+      "comment": "(Plaza of Kerofk)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        703,
+        0,
+        2
+      ],
+      "comment": "(The Blue Temple)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        739,
+        1,
+        1
+      ],
+      "comment": "(George's Place)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        740,
+        3,
+        1
+      ],
+      "comment": "(The Back Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        747,
+        3,
+        1
+      ],
+      "comment": "(The Bookstore)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        749,
+        0,
+        1
+      ],
+      "comment": "(Mages' Guild, Entrance)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        749,
+        1,
+        1
+      ],
+      "comment": "(Mages' Guild, Entrance)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        749,
+        3,
+        2
+      ],
+      "comment": "(Mages' Guild, Entrance)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        751,
+        2,
+        1
+      ],
+      "comment": "(Leonna's Office)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        752,
+        1,
+        2
+      ],
+      "comment": "(Mages' Guild Storeroom)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        753,
+        3,
+        1
+      ],
+      "comment": "(The Mages' Library)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        759,
+        3,
+        1
+      ],
+      "comment": "(Outer Chamber)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        760,
+        1,
+        1
+      ],
+      "comment": "(Inner Chamber)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        761,
+        1,
+        2
+      ],
+      "comment": "(Jailer's Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        762,
+        3,
+        2
+      ],
+      "comment": "(Cells)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        796,
+        4,
+        1
+      ],
+      "comment": "(Guest Bedroom)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        798,
+        5,
+        1
+      ],
+      "comment": "(Attic)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        798,
+        2,
+        1
+      ],
+      "comment": "(Attic)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        799,
+        0,
+        1
+      ],
+      "comment": "(Bedroom)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        803,
+        2,
+        1
+      ],
+      "comment": "(Passageway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        804,
+        1,
+        1
+      ],
+      "comment": "(Octagonal Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        806,
+        0,
+        1
+      ],
+      "comment": "(Passageway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        807,
+        0,
+        1
+      ],
+      "comment": "(Trial)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        807,
+        1,
+        1
+      ],
+      "comment": "(Trial)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        807,
+        3,
+        1
+      ],
+      "comment": "(Trial)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        808,
+        2,
+        1
+      ],
+      "comment": "(Passageway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        810,
+        5,
+        1
+      ],
+      "comment": "(Passageway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        814,
+        0,
+        1
+      ],
+      "comment": "(End of the Passageway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        815,
+        0,
+        1
+      ],
+      "comment": "(Second Trial)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        815,
+        1,
+        1
+      ],
+      "comment": "(Second Trial)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        816,
+        2,
+        1
+      ],
+      "comment": "(Passageway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        818,
+        0,
+        1
+      ],
+      "comment": "(Passageway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        825,
+        0,
+        1
+      ],
+      "comment": "(Trial of Persistence)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        825,
+        1,
+        1
+      ],
+      "comment": "(Trial of Persistence)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        825,
+        2,
+        1
+      ],
+      "comment": "(Trial of Persistence)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        825,
+        3,
+        1
+      ],
+      "comment": "(Trial of Persistence)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        828,
+        0,
+        1
+      ],
+      "comment": "(Passageway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        831,
+        0,
+        1
+      ],
+      "comment": "(Pedestal of the Orb!)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        832,
+        0,
+        1
+      ],
+      "comment": "(Temple of MouseRider)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/7.zon"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 11593,
+  "zone_id": 115,
+  "name": "Mayor Abe's Office",
+  "description": "This is the residence of one of the most uninspired and uninterested mayors\nsince Maryon Barry (sorry, he's in the jail at the moment!  ).  The office\nmakes you feel like your being watched and then you recall all the rumors you\nheard about the mayor's link to Satan himself (which would explain him damning\neveryone).  City Hall is to the west.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11592
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

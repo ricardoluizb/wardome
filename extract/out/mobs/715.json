@@ -1,0 +1,12 @@
+{
+  "id": 715,
+  "alias": "herbalist shopkeeper",
+  "short_desc": "the Herbalist",
+  "long_desc": "The herbalist is here, reading to her plants.",
+  "detailed_desc": "The herbalist is an ancient woman, but she still seems spry and\nsharp-minded when it comes to plants.  You've no doubt this woman is\nan expert in her field.",
+  "flags_raw": "24586 128 500 E",
+  "stats1_raw": "85 -32 -10 1d1+5772 5d17+84",
+  "stats2_raw": "1275 2387774 5",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

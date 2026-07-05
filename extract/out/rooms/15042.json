@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "By The Stage",
   "description": "Before you you see the stage.  It is large enough for some 40 \nmusicians to play on at the same time.  The Ball Room continues\nto the west and north.",
-  "header_raw": "150 d 0",
-  "flags_text": "d",
+  "header_raw": "150 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

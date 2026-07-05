@@ -1,0 +1,29 @@
+{
+  "id": 10512,
+  "zone_id": 104,
+  "name": "Lawyers Office",
+  "description": "As you look around you, you realize you've entered a lawyers office. Now\nyou know you are in Hell....Everything in this office seems to be made of\nsnakeskin. This is the only lawyers office in Hell, so if you don't  like them\nyou're out of luck. But then again...if you are in Hell...you must've run\nout of luck a while ago.\nTo the east is the Office of Complaints.\nTo the south you see a courtyard.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see the Office of Complaints.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10513
+    },
+    {
+      "dir": 2,
+      "description": "You see a courtyard.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10522
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 7838,
+  "zone_id": 78,
+  "name": "The Living Room",
+  "description": "You are in the living room of the elven home.  Mats cover the floor, and a\non a table is a bowl full of fruits.  Through the window you can see the\nvalley, with its wild flowers and tall, green grasses.",
+  "header_raw": "78 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The building continues to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7839
+    },
+    {
+      "dir": 2,
+      "description": "The entrance is to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7834
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/78.wld"
+}

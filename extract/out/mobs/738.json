@@ -1,0 +1,12 @@
+{
+  "id": 738,
+  "alias": "orb",
+  "short_desc": "the Orb",
+  "long_desc": "The orb glows with a pure white light.",
+  "detailed_desc": "The orb is pure crystal and shines with a bright aura.  This is surely\nthe object of your quest!",
+  "flags_raw": "10 136 1000 E",
+  "stats1_raw": "100 -40 -12 1d1+6792 5d21+90",
+  "stats2_raw": "1500 3791433 5",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

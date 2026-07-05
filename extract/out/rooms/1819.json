@@ -1,0 +1,21 @@
+{
+  "id": 1819,
+  "zone_id": 18,
+  "name": "The Snow Queen's Chamber",
+  "description": "Tall, white, with columns that blend with the walls\nlike water in water.  There is a quiet, almost solemn,\nalmost saddening calm that envelops you, as if\nsome great loss had taken place here.\nThere is no physical escape from here.",
+  "header_raw": "18 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1828
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/18.wld"
+}

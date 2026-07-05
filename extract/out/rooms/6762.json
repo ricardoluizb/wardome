@@ -1,0 +1,37 @@
+{
+  "id": 6762,
+  "zone_id": 67,
+  "name": "The room of doctrine",
+  "description": "Artifacts and relics from a time before the known world are encased\nand illumined in airless, black glass cabinets, their twinkling golden\nand silver chasings catching your eye with mocking immortality. Urns\nof demon ash line polished amberwood shelves, and a small, simple altar\nedged in ivory stands against the north wall.\nThis is the sanctum of the ministry. Those of a pious bent would do\nwell to begin studies here.",
+  "header_raw": "67 28 0",
+  "flags_text": "28",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6761
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6853
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6763
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

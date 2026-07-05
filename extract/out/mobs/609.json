@@ -1,0 +1,12 @@
+{
+  "id": 609,
+  "alias": "lizard",
+  "short_desc": "the lizard",
+  "long_desc": "A lizard slithers up to you.",
+  "detailed_desc": "It smiles at you, and tries to eat your leg.",
+  "flags_raw": "72 0 0 E",
+  "stats1_raw": "-100 2 20 9d1+1 36d10+1",
+  "stats2_raw": "0 30 376",
+  "stats3_raw": "0 8 0 0 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/6.mob"
+}

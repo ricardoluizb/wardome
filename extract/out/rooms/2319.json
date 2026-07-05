@@ -1,0 +1,37 @@
+{
+  "id": 2319,
+  "zone_id": 23,
+  "name": "The hills above the shoreline",
+  "description": "You stand on a rocky summit overlooking a rough shoreline below. The sea wind\nblows hard across the rocks here and they have been worn smooth with time.\nLooking around, you notice that you can safely climb down towards the shore.\nThe hills themselves stretch towards the north. The rough summit you stand\nupon leads west along the shoreline.",
+  "header_raw": "23 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2315
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2318
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2322
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

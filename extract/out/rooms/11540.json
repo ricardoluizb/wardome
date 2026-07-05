@@ -1,0 +1,34 @@
+{
+  "id": 11540,
+  "zone_id": 115,
+  "name": "The End of the Concourse",
+  "description": "As you come to the end of the concourse, you find the entrance to the East\nStands of WarDome -- the SuperBoxes.  Unfortunately, you are not permitted to\ngo in as these are reserved for the very elite.  There is a sign on the door to\nthe SuperBoxes.  After getting over your disappointment (you always wanted\nto;see the inside of a SuperBox), you notice that someone has rather carelessly\nleft open the door to the Visitor's Locker room, just inviting someone to walk\nin.  The concourse runs west, to the north you may enter the locker- room.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11541
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11539
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "******************************************\n*                                        *      \n*            WarDome SuperBoxes          *\n*            ------------------          *\n*    SuperBoxes reserved for only the    *\n*    very rich and privileged.  If you   *\n*    do not fall into these categories,  *\n*    then GET LOST!!!!!                  *\n*                       Thank you,       *\n*                       The Management   *\n*                                        *\n******************************************"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

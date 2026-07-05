@@ -1,0 +1,12 @@
+{
+  "id": 19013,
+  "alias": "druid old man human",
+  "short_desc": "the old Druid",
+  "long_desc": "An old Druid is standing on the hill chanting an arcane spell.",
+  "detailed_desc": "This is a human in his old days. He is dresed in a heavy cloak and \nholds a Staff made of oak in his hands.",
+  "flags_raw": "332 524424 1 E",
+  "stats1_raw": "75 -17 -1 1d1+2100 5d8+30",
+  "stats2_raw": "1125 1289737 0",
+  "stats3_raw": "8 8 1 7 3",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/190.mob"
+}

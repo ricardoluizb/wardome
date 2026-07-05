@@ -1,0 +1,12 @@
+{
+  "id": 30007,
+  "alias": "amorphorn shopkeeper",
+  "short_desc": "Amorphorn",
+  "long_desc": "Your friendly shopkeeper, Amorphorn stands here.",
+  "detailed_desc": "",
+  "flags_raw": "1075274 5288 750 E",
+  "stats1_raw": "90 -33 -9 1d1+5400 5d10+76",
+  "stats2_raw": "1350 2749377 4",
+  "stats3_raw": "8 8 1 -1 3",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/300.mob"
+}

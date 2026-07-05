@@ -1,0 +1,37 @@
+{
+  "id": 9949,
+  "zone_id": 99,
+  "name": "Surrounded by flames.",
+  "description": "Wow!  Looks like you just stepped into hell... or at least, a little \ncorner of it.  Flames dance on the walls, causing the light to play \ntricks on your eyes.  You can just barely make out a dark figure to \nthe north.  There is absolutely no way you can return the way you \ncame.  You can, however, exit towards the East, West, and North.",
+  "header_raw": "99 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9952
+    },
+    {
+      "dir": 1,
+      "description": "A makeshift bedroom.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9950
+    },
+    {
+      "dir": 3,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9947
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

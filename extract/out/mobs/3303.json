@@ -4,9 +4,9 @@
   "short_desc": "the horse",
   "long_desc": "A horse does horsely things here.",
   "detailed_desc": "This horse looks like a nice horse.  It looks at you\nwith soft brown eyes and you want to give it a carrot.",
-  "flags_raw": "b 0 250 E",
-  "stats1_raw": "5 16 5 1d10+60 2d4+0",
-  "stats2_raw": "0 1000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "10 0 250 E",
+  "stats1_raw": "175 -73 -20 1d1+9096 5d18+100",
+  "stats2_raw": "2625 18335763 3",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/33.mob"
 }

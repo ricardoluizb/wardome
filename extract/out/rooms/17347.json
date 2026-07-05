@@ -1,0 +1,29 @@
+{
+  "id": 17347,
+  "zone_id": 173,
+  "name": "Victory Road",
+  "description": "Here Victory Road ends at the great Tourney Yard of Camelot. A podium \nfor tourney winners is erected here- today it bears the coat of arms \nof Lancelot. Flanking the road are the standards of the other knights \nof the round table. A strange peace fills the air here. Victory road \ncontinues to the west, and the Tourney Yard of Camelot is to the east.",
+  "header_raw": "173 16 1",
+  "flags_text": "16",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Tourney Yard of Camelot",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17352
+    },
+    {
+      "dir": 3,
+      "description": "Victory Road",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17343
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

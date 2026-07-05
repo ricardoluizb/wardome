@@ -1,0 +1,21 @@
+{
+  "id": 831,
+  "zone_id": 7,
+  "name": "Pedestal of the Orb!",
+  "description": "This is a large square room.  All around on the walls there are\nfriezes of dwarves and elves, pictured worshiping the very orb that\nhovers above the pedestal in the middle of this very room.  The\npedestal is pure gold, and the orb hovers above it, humming and\nglowing with such radiance you can barely see its form.  This, then,\nis the object of your quest.",
+  "header_raw": "7 12 0",
+  "flags_text": "12",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 832
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

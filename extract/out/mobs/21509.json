@@ -1,0 +1,12 @@
+{
+  "id": 21509,
+  "alias": "brine fiend",
+  "short_desc": "Brine Fiend",
+  "long_desc": "a bog imp scared on the middle of the room.",
+  "detailed_desc": "It looks unfinished.",
+  "flags_raw": "1091592 1192 0 E",
+  "stats1_raw": "70 -21 -5 1d1+3636 5d8+58",
+  "stats2_raw": "1050 1328062 3",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/215.mob"
+}

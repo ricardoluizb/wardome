@@ -1,0 +1,29 @@
+{
+  "id": 2731,
+  "zone_id": 27,
+  "name": "Tobacco Garden",
+  "description": "The northern part of the tobacco garden.  It smells just as good as all the\nrest.  Hobbit Road is to the west.  The tobacco garden lies to the south.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2727
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2732
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

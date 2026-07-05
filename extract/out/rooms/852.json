@@ -1,0 +1,21 @@
+{
+  "id": 852,
+  "zone_id": 7,
+  "name": "Farmer's Stand",
+  "description": "A few wooden stands here are filled with fruits and vegetables\ngrown under this endless night sky.  This place seems to get good\nbusiness, but not enthusiastic customers.  You can understand why from\nthe quality of the wares.",
+  "header_raw": "7 152 0",
+  "flags_text": "152",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 720
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

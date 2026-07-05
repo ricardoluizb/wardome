@@ -1,0 +1,29 @@
+{
+  "id": 8108,
+  "zone_id": 81,
+  "name": "The Old Plank Road",
+  "description": "A stone bridge crosses Snofur Creek here, which flows in a ravine about\neighty feet deep, if only twenty-five yards wide, as it flows from a \nsmall cave in the mountains.  You would need wings to go down there.\nThis gorge certainly serves Ofingia well as a moat; the bridge has a\nwooden section that may easily be removed during a siege.",
+  "header_raw": "81 64 1",
+  "flags_text": "64",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Ofingia's gate is right across the river.",
+      "keywords": "gate wooden",
+      "door_flag": 1,
+      "key": 8107,
+      "to": 8109
+    },
+    {
+      "dir": 3,
+      "description": "You can still go back west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8107
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

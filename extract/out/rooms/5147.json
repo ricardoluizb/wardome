@@ -3,8 +3,8 @@
   "zone_id": 51,
   "name": "The Slave Pen",
   "description": "Rotten meat and breads lie about the floor while shackles hang from the \nwalls.  The room reeks of death.  You almost become nauseous and decide to\nleave the room since you were obviously too late to save the slave.",
-  "header_raw": "51 ad 0",
-  "flags_text": "ad",
+  "header_raw": "51 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

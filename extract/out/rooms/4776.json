@@ -1,0 +1,29 @@
+{
+  "id": 4776,
+  "zone_id": 47,
+  "name": "A valley",
+  "description": "You see a fresh green valley.  Flowers blossom everywhere around you, and you\nhave a big urge to giggle.  The valley continues to the east, or you can take\na steep trail up.",
+  "header_raw": "47 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see the valley.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 4775
+    },
+    {
+      "dir": 4,
+      "description": "You see the trail up to the uncomfortable hills.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 4777
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

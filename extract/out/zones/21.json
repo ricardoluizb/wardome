@@ -1,0 +1,794 @@
+{
+  "id": 21,
+  "name": "The Graye Area",
+  "header": {
+    "raw": "2199 30 2 1 -1",
+    "min_room": 2199,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2114,
+        1,
+        2143
+      ],
+      "comment": "(Rymat)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2141,
+        5,
+        2
+      ],
+      "comment": "(Relnar's Study)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        2105,
+        1,
+        2141
+      ],
+      "comment": "(the chronicles of Graye)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        2121,
+        1,
+        2141
+      ],
+      "comment": "(a personal journal)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        2102,
+        1,
+        2141
+      ],
+      "comment": "(a trapdoor key)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        2106,
+        1,
+        2141
+      ],
+      "comment": "(It is a fine oak desk with a drawer.)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        2101,
+        1,
+        2106
+      ],
+      "comment": "(a secret key)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        2119,
+        2,
+        2159
+      ],
+      "comment": "(Graye's Visor)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        2120,
+        2,
+        2159
+      ],
+      "comment": "(Graye's Breastplate)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2155,
+        3,
+        2
+      ],
+      "comment": "(Relnar's Cell)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        2122,
+        1,
+        2155
+      ],
+      "comment": "(a hastily scrawled note)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        2123,
+        1,
+        2155
+      ],
+      "comment": "(an inconspicuous rock)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2154,
+        2,
+        2
+      ],
+      "comment": "(Scrytin's Chamber of Doom)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2154,
+        1,
+        2
+      ],
+      "comment": "(Scrytin's Chamber of Doom)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2116,
+        1,
+        2154
+      ],
+      "comment": "(Scrytin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2118,
+        5,
+        11
+      ],
+      "comment": "(Scrytin's Shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2104,
+        1,
+        17
+      ],
+      "comment": "(an ivory key)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2153,
+        0,
+        2
+      ],
+      "comment": "(Irgon's Guard Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2113,
+        2,
+        2153
+      ],
+      "comment": "(the jail guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2116,
+        4,
+        16
+      ],
+      "comment": "(a bloodied whip)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2115,
+        1,
+        2153
+      ],
+      "comment": "(the Arch-Demon Irgon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2117,
+        5,
+        0
+      ],
+      "comment": "(the black candle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2103,
+        1,
+        17
+      ],
+      "comment": "(an ebony key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2113,
+        2,
+        2152
+      ],
+      "comment": "(the jail guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2116,
+        4,
+        16
+      ],
+      "comment": "(a bloodied whip)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2112,
+        1,
+        2150
+      ],
+      "comment": "(the rift guardian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2115,
+        5,
+        10
+      ],
+      "comment": "(Armbands of mist)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2107,
+        3,
+        2148
+      ],
+      "comment": "(the demon imp)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2108,
+        3,
+        2148
+      ],
+      "comment": "(the minor demon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2111,
+        1,
+        2148
+      ],
+      "comment": "(a major demon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2114,
+        5,
+        16
+      ],
+      "comment": "(a bloodied claw)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2106,
+        5,
+        2137
+      ],
+      "comment": "(The Graye guardsman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2109,
+        4,
+        2137
+      ],
+      "comment": "(the Graye Citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2110,
+        4,
+        2137
+      ],
+      "comment": "(the Graye Citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2106,
+        5,
+        2136
+      ],
+      "comment": "(The Graye guardsman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2109,
+        4,
+        2136
+      ],
+      "comment": "(the Graye Citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2110,
+        4,
+        2136
+      ],
+      "comment": "(the Graye Citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2107,
+        3,
+        2149
+      ],
+      "comment": "(the demon imp)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2108,
+        3,
+        2149
+      ],
+      "comment": "(the minor demon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2106,
+        5,
+        2135
+      ],
+      "comment": "(The Graye guardsman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2111,
+        5,
+        6
+      ],
+      "comment": "(a helmet emblazoned with the mark of Graye)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2112,
+        5,
+        3
+      ],
+      "comment": "(A cape emblazoned with the mark of Graye)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2113,
+        5,
+        16
+      ],
+      "comment": "(a longsword of Graye)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2106,
+        5,
+        2135
+      ],
+      "comment": "(The Graye guardsman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2111,
+        5,
+        6
+      ],
+      "comment": "(a helmet emblazoned with the mark of Graye)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2112,
+        5,
+        3
+      ],
+      "comment": "(A cape emblazoned with the mark of Graye)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2113,
+        5,
+        16
+      ],
+      "comment": "(a longsword of Graye)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2105,
+        4,
+        2134
+      ],
+      "comment": "(the guardian demon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2105,
+        4,
+        2133
+      ],
+      "comment": "(the guardian demon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2105,
+        4,
+        2132
+      ],
+      "comment": "(the guardian demon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2105,
+        4,
+        2131
+      ],
+      "comment": "(the guardian demon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2104,
+        1,
+        2113
+      ],
+      "comment": "(Tomal)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2108,
+        5,
+        12
+      ],
+      "comment": "(a woodsman's cloak)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2109,
+        5,
+        13
+      ],
+      "comment": "(A woodsman's belt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2110,
+        5,
+        8
+      ],
+      "comment": "(Walking boots)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2103,
+        5,
+        2111
+      ],
+      "comment": "(the brown rabbit)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2101,
+        5,
+        2114
+      ],
+      "comment": "(the forest brownie)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2107,
+        10,
+        -1
+      ],
+      "comment": "(a sapling)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2103,
+        5,
+        2114
+      ],
+      "comment": "(the brown rabbit)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2103,
+        5,
+        2117
+      ],
+      "comment": "(the brown rabbit)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2101,
+        5,
+        2115
+      ],
+      "comment": "(the forest brownie)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2107,
+        10,
+        -1
+      ],
+      "comment": "(a sapling)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2102,
+        5,
+        2115
+      ],
+      "comment": "(the wolf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2101,
+        5,
+        2112
+      ],
+      "comment": "(the forest brownie)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2107,
+        10,
+        -1
+      ],
+      "comment": "(a sapling)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2102,
+        5,
+        2112
+      ],
+      "comment": "(the wolf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2102,
+        5,
+        2109
+      ],
+      "comment": "(the wolf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2102,
+        5,
+        2108
+      ],
+      "comment": "(the wolf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2102,
+        5,
+        2107
+      ],
+      "comment": "(the wolf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2101,
+        5,
+        2106
+      ],
+      "comment": "(the forest brownie)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2107,
+        10,
+        -1
+      ],
+      "comment": "(a sapling)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2101,
+        5,
+        2103
+      ],
+      "comment": "(the forest brownie)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2107,
+        10,
+        -1
+      ],
+      "comment": "(a sapling)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2146,
+        4,
+        2
+      ],
+      "comment": "(Tunnel's End)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2147,
+        5,
+        2
+      ],
+      "comment": "(The Valley of Demons)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2144,
+        4,
+        2
+      ],
+      "comment": "(The Tunnel)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2142,
+        5,
+        2
+      ],
+      "comment": "(The Throne Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2157,
+        4,
+        2
+      ],
+      "comment": "(The secret passage)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/21.zon"
+}

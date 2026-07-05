@@ -1,0 +1,21 @@
+{
+  "id": 8129,
+  "zone_id": 81,
+  "name": "D. Shattershock's Fine Armor.",
+  "description": "Dek, the retired Elven ranger, now sells armor suitable for his fellow\nwoodsmen.  Nothing he has is very heavy, but you don't want heavy armor\nif you are sneaking around the woods, hunting goblins.",
+  "header_raw": "81 152 0",
+  "flags_text": "152",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "South of here is the market square.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8121
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

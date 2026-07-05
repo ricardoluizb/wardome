@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Kitchen",
   "description": "You are in a small kitchen.  All the usual kitchen type utensils and\nequipment is here, including some not so usual ones.  Among the later,\na huge black oven against one wall, it must be at least 12 feet high.\n   Opposite the oven is an equally enormous meat locker, large enough\nto comfortably store several hapless adventurers no doubt.  In the middle\nof the room, hanging in mid-air is a spice rack.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

@@ -1,0 +1,29 @@
+{
+  "id": 10248,
+  "zone_id": 102,
+  "name": "The Left Bench Stand",
+  "description": "You are standing among wooden bench stands. You believe\nthat this is the place where prayers are done. The cathedral\nis actually abandoned and no one is sitting on the benchs.\nFor the north you can see a big pipe organ.",
+  "header_raw": "102 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10249
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10247
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

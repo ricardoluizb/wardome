@@ -1,0 +1,21 @@
+{
+  "id": 29600,
+  "zone_id": 295,
+  "name": "Chambers",
+  "description": "In these luxurious rooms reside the many members of Priam's family. Soft\ncushions and fabrics are draped over ornate furniture while naked slaves\nwalk about pouring wine for the residents who are currently relaxing here.\nEven in times of war, the rich citizens of Ilium live well.",
+  "header_raw": "295 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 2,
+      "key": -1,
+      "to": 29597
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/295.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 31006,
+  "zone_id": 310,
+  "name": "Hyperion Deposit",
+  "description": "Here Hyperion droped his things to release weight to reach the sky and\ndepose Jupiter. Now this place is used to communion of things. Peoples come\nhere to drop things useless and get other things. Here you can drop things\nto help other clan members and get things who'll help you in your journey.\nThere only one exit here, it leaves Down. The passage to Up was sealed by\nJupiter when he recovered the trone.",
+  "header_raw": "310 6788 1",
+  "flags_text": "6788",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "Gate",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": 0,
+      "to": 31005
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/310.wld"
+}

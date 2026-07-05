@@ -1,0 +1,12 @@
+{
+  "id": 308,
+  "alias": "oldstyle keeper innkeeper",
+  "short_desc": "the Innkeeper",
+  "long_desc": "An Innkeeper is here waiting for your order.",
+  "detailed_desc": "The Innkeeper looks skilled in brewing different beers and mixing the\nwierdest drinks known. He also looks very big.",
+  "flags_raw": "24586 0 -100 E",
+  "stats1_raw": "23 9 6 1d1+477 5d3+8",
+  "stats2_raw": "345 53243 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/3.mob"
+}

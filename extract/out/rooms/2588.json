@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Mad Alchemist's Workroom",
   "description": "You are in the workroom of The Mad Alchemist.  Bubbling braziers,\nlong glass tubes and scores of oddly shaped vials and bottles are\neverywhere.  It is incredibly messy here, crushed glass and other\ntrash litter the floor.\n   The only apparent exit is the one you entered by.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

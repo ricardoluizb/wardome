@@ -1,0 +1,12 @@
+{
+  "id": 11205,
+  "alias": "elven noble",
+  "short_desc": "an elven noble",
+  "long_desc": "An elven male attempts to remain dignified amidst the squalor.",
+  "detailed_desc": "undefined",
+  "flags_raw": "10 32768 750 E",
+  "stats1_raw": "35 -15 -8 1d1+3492 5d7+104",
+  "stats2_raw": "525 238782 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

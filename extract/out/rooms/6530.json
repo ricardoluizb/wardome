@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "At The Top Of The Stairs",
   "description": "You are at the top of the stairs in the castle.  There is an exit\nto the east, and the stairs lead down.",
-  "header_raw": "65 d 0",
-  "flags_text": "d",
+  "header_raw": "65 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

@@ -1,0 +1,26 @@
+{
+  "id": 344,
+  "zone_id": 3,
+  "name": "The Hall of G'harne",
+  "description": "You stand in the hall of G'harne. The walls are dressed with strange\ncarving, symbolizing human sacrifice and people worshipping giant worms.\nDisgusting slime and gore are also very dominant in your view of this room.",
+  "header_raw": "3 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "It looks like a good idea just to run in this direction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 343
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "slime gore",
+      "description": "You puke."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/3.wld"
+}

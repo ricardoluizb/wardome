@@ -1,0 +1,12 @@
+{
+  "id": 402,
+  "alias": "Balthazar",
+  "short_desc": "Balthazar",
+  "long_desc": "Balthazar, the Guru of Knowledge, looks at a giant book.",
+  "detailed_desc": "This is Balthazar, the Guru of Knowledge. He looks like a scientist. He has\na big glass and is wearing a white clothe. He looks at you and says:\n\"You must know to live a happy life, my friend. A man who has wisdom, need\nnot to wield weapons. If all the men were wise, no weapons would be created.\nWeapons are for non- wise men.",
+  "flags_raw": "516106 128 500 E",
+  "stats1_raw": "200 -80 -20 1d1+10392 10d21+80",
+  "stats2_raw": "3000 29779556 3",
+  "stats3_raw": "8 8 1 0 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/4.mob"
+}

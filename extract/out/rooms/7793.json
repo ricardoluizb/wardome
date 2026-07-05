@@ -1,0 +1,29 @@
+{
+  "id": 7793,
+  "zone_id": 77,
+  "name": "Behind the Altar",
+  "description": "A small passage to the east takes for a hole that exists in the ground of that place, where different from the rest, there are not fighters...",
+  "header_raw": "77 900 0",
+  "flags_text": "900",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7792
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7794
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/77.wld"
+}

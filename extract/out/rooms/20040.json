@@ -1,0 +1,21 @@
+{
+  "id": 20040,
+  "zone_id": 200,
+  "name": "Outhouse",
+  "description": "Um.  Whew!  It's definitely an outhouse...  Doesn't smell too good at all.  \nThere's a wooden plank with a few 'convenient' holes cut in it for service, and\nseveral curtains hung up for privacy.  A bowl with a large cake of soap next to\nit serve as sanitary measures.  Otherwise, there's not too much here that you\ntake an interest in...",
+  "header_raw": "200 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20005
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/200.wld"
+}

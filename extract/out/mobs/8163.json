@@ -1,0 +1,12 @@
+{
+  "id": 8163,
+  "alias": "elf elven",
+  "short_desc": "an Elf",
+  "long_desc": "An Elven hunter stalks goblins here.",
+  "detailed_desc": "He, like you, has crept into Goblin-Town to hunt goblins. Seems as\nthough he is doing a good job of it, so why not let him continue?",
+  "flags_raw": "2392 525368 1000 E",
+  "stats1_raw": "167 -85 -31 1d1+19368 5d49+176",
+  "stats2_raw": "2505 22401156 11",
+  "stats3_raw": "4 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

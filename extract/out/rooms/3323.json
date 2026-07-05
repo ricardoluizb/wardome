@@ -3,8 +3,8 @@
   "zone_id": 33,
   "name": "A Cave",
   "description": "Many sconces line the walls here, casting light on \nsome weapon racks and chests of armor.  Everything\nis neat, orderly, and actually well-dusted.  Someone\ncares for these items...frequently it seems.",
-  "header_raw": "33 d 0",
-  "flags_text": "d",
+  "header_raw": "33 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

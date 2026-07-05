@@ -1,0 +1,21 @@
+{
+  "id": 14317,
+  "zone_id": 143,
+  "name": "Mystery of the Sands",
+  "description": "Several messy shelves are filled with scrolls and books. A shopkeeper raises\nhis eyebrow as you enter.",
+  "header_raw": "143 136 1",
+  "flags_text": "136",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A crowded market.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14310
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

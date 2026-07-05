@@ -1,0 +1,12 @@
+{
+  "id": 7701,
+  "alias": "nightmare",
+  "short_desc": "a pitch-black nightmare",
+  "long_desc": "A nightmare is here, kicking at you with its flaming hooves.",
+  "detailed_desc": "The nightmare is a wholly evil being, sent out by the rulers of the lower \nplanes to torment mortals.  It vaguely resembles a horse, with a hide blacker\nthan the darkest night, and hooves that burn with unholy fires.",
+  "flags_raw": "2156 1024 -500 E",
+  "stats1_raw": "95 -27 -4 1d1+2652 5d10+38",
+  "stats2_raw": "1425 2519512 0",
+  "stats3_raw": "8 8 0 -1 7",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/77.mob"
+}

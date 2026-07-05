@@ -1,0 +1,37 @@
+{
+  "id": 7856,
+  "zone_id": 78,
+  "name": "Along a Windy Trail on the Rim of the Valley",
+  "description": "You are on a narrow trail on the rim of the Valley of the Elves.  Below you,\nyou can see the valley, filled with wild flowers and tall, green grasses.",
+  "header_raw": "78 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7855
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7857
+    },
+    {
+      "dir": 5,
+      "description": "The trail down doesn't look safe to travel on at all.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7883
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/78.wld"
+}

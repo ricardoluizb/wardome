@@ -1,0 +1,21 @@
+{
+  "id": 9008,
+  "zone_id": 90,
+  "name": "The Icy Mountain",
+  "description": "You are at a dead-end in the mountain.",
+  "header_raw": "90 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9014
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/90.wld"
+}

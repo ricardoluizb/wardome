@@ -1,0 +1,37 @@
+{
+  "id": 1708,
+  "zone_id": 16,
+  "name": "Junction in Dark Forest",
+  "description": "You are in the midst of a deep dark forest of huge oak trees.  There is a\njunction of trails here, with paths leading south, west and east.",
+  "header_raw": "16 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A path disappears into thick forest.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1720
+    },
+    {
+      "dir": 2,
+      "description": "A path disappears into thick forest.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1707
+    },
+    {
+      "dir": 3,
+      "description": "You see the path to the Centaur village.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1709
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

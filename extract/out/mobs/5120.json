@@ -1,0 +1,12 @@
+{
+  "id": 5120,
+  "alias": "matron mother drow",
+  "short_desc": "the Matron Mother",
+  "long_desc": "The Matron Mother of the 4th house is standing here.",
+  "detailed_desc": "She looks really and truly annoyed that you have found your way here.",
+  "flags_raw": "2058 33928 -1000 E",
+  "stats1_raw": "40 0 4 1d1+837 5d5+16",
+  "stats2_raw": "600 250429 0",
+  "stats3_raw": "8 8 2 0 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/51.mob"
+}

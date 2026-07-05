@@ -1,0 +1,42 @@
+{
+  "id": 2402,
+  "zone_id": 24,
+  "name": "The &wS&bilent &WM&wa&Wr&wb&Wl&we Room&n",
+  "description": "This room is particullary exuberant, from the entrance to the end you\nrealise that it is the most important room of the kingdom.  In the roof, a\ncollection of paintings, disposed in circles to the top, displays the last\ndead/lost kings of the kingdom.  There is a solid marble table at the center of\nthe room, among the table there is solid marble thrones, following the table,\nin the table head there is a majestic throne, made of various kinds of metal\nand jewelry.  Also, in the back of every throne, there is an pure steel forged\nbastard sword, encarved with the name of that who belongs the throne.    \n\n&rThe second banner is here, type read banner to see it.&n",
+  "header_raw": "24 139460 0",
+  "flags_text": "139460",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2404
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2401
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2403
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "banner",
+      "description": "Battle Hymns\n\nBy moonlight we ride\nTen thousand side by side\nWith swords, drawn held high\nOur whips and armour shine\nHail to thee our infantry\nStill brave beyond the grave\nAll sworn the eternal vow\nThe time to strike is now\n\nGone are the days when freedom shone\nNow blood and steel meet bone\nIn the light of the battle's wake\nThe sands of time will shake\nHow proud our soldiers stand\nWith mace and chain in hand\nSound the charge, into glory ride\nOver the top of their vanguished pride\n\nTo the battle we ride\nWe crossed a starlit sky\nNo space no time\nWe'll catch the wind\nStrange losses, men died\nWe crossed a starlit sky\nAnd still no space or time\nWe'll catch the wind\nSound the charge, into glory ride\nOver the top of their vanguished pride\nBy moonlight we ride\nTen thousand side by side\nThe gods of metal"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/24.wld"
+}

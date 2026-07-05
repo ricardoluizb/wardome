@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "A Store Room",
   "description": "You are in a large store room.  Bins of ores, minerals and\nother rare materials are here along with many neatly stacked\npiles of precious metals.  The ring of metal on metal can be\nheard to the south.  A large cabinet with sigils of warding\nis bolted to one wall.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

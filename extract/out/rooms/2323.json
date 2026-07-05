@@ -1,0 +1,29 @@
+{
+  "id": 2323,
+  "zone_id": 23,
+  "name": "The edge of the sea",
+  "description": "You walk along the water's edge. The vastness of the ocean is staggering as\nyou look out across it. You notice a small altar that glows with blue light\nto the east. The shore itself extends north away from the water's edge.",
+  "header_raw": "23 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2320
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2324
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 17604,
+  "alias": "oldstyle jim blacksmith",
+  "short_desc": "Jim the Blacksmith",
+  "long_desc": "Jim the Blacksmith is here, selling his latest works of metal.",
+  "detailed_desc": "Jim is big and brawny, just like what you'd expect of a blacksmith.  He is\nsmiling a very big smile, as he looks at your coins.  You wonder if he likes\nthe metals or the value of the coins.",
+  "flags_raw": "24586 8192 1000 E",
+  "stats1_raw": "20 10 7 1d1+414 5d3+8",
+  "stats2_raw": "300 37388 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/176.mob"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 11713,
+  "zone_id": 117,
+  "name": "House of robot, the gravekeeper.",
+  "description": "Who doesn't remeber him, a strange creature made of metal like a living golem\nthat followed Chronos in the great battle for human-kind, now living in this\nroom is the only way to be close to Chronos.  You can see only an empty place\nhere, he doesn't need anything more to live his live in peace.",
+  "header_raw": "117 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11711
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/117.wld"
+}

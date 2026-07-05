@@ -1,0 +1,42 @@
+{
+  "id": 17824,
+  "zone_id": 178,
+  "name": "A Dusty Path",
+  "description": "You are on a well traveled path that leads in many directions.  To the north\nis a large house, and to the west is a fortress.",
+  "header_raw": "178 4 1",
+  "flags_text": "4",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a large white house.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17856
+    },
+    {
+      "dir": 2,
+      "description": "You see a road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17805
+    },
+    {
+      "dir": 3,
+      "description": "You see the gateway to a large fortress.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17825
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "fortress",
+      "description": "The fortress is a large gnome stronghold to defend the city."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

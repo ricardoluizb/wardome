@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "A Damp Intersection",
   "description": "You are in a damp intersection of what seems to be the basement of\nthe tower.  The sound of running water can be heard coming from the\nsouth, other than that, an almost tangible stillness fills the air.\n   Passages lead off in all directions, and a ladder leads up.",
-  "header_raw": "25 adg 0",
-  "flags_text": "adg",
+  "header_raw": "25 73 0",
+  "flags_text": "73",
   "sector": 0,
   "exits": [
     {

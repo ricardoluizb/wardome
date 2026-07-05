@@ -1,0 +1,21 @@
+{
+  "id": 12308,
+  "zone_id": 122,
+  "name": "A Clearing in the Grove",
+  "description": "At this point there is a small clearing in the grove, a circular grassy\narea surrounded by a ring of the same magical apple trees found everywhere\nelse in this unusual place. A magical aura so strong that even nonspellcasters\ncan sense it pervades this entire area.",
+  "header_raw": "122 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12307
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

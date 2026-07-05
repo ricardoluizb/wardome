@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Secret Chamber",
   "description": "You stand in a small chamber that you never would have thought\ncould exist.  This small, almost perfectly round cave does not\nappear to be a natural formation at all, since the walls are far\ntoo smooth and the doorways to the north and east are both almost\nexactly five feet wide and eleven feet tall.",
-  "header_raw": "40 ad 3",
-  "flags_text": "ad",
+  "header_raw": "40 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

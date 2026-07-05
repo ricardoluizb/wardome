@@ -3,8 +3,8 @@
   "zone_id": 53,
   "name": "A Massive Sand Dune",
   "description": "You stand now on a massive sand dune on the southern side of\nthe pyramid.  At the foot of the sand dune to the north you see a\nsmall hole where the stones of the pyramid have collapsed.  Not\nfar to the south is a massive roiling sandstorm; the wind from the\nstorm howls and bites at your face even here.",
-  "header_raw": "53 c 2",
-  "flags_text": "c",
+  "header_raw": "53 32772 2",
+  "flags_text": "32772",
   "sector": 2,
   "exits": [
     {

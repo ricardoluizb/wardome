@@ -1,0 +1,21 @@
+{
+  "id": 12400,
+  "zone_id": 122,
+  "name": "The Base of Yggdrasil",
+  "description": "You have finally reached the roots of the Tree of Life, the base from\nwhich all knowledge and wisdom sprouts. Here the Norns- Urd, Verdandi\nand Skuld- tend the tree, and prophesise the future. It was here that\nOdin gained his ability of prophesy, and paid the terrible price for the\ngift. The Norns remain absolutely impartial in all affairs of mortal and\ngod, and favor neither side in any conflict. Their abode is encased in\na shimmering sphere of grey energy, which obscures the rest of the tree.\nA large scrying device- a pool of glistening water that looks strangely\nattuned to magical energies- covers the floor, through which the Norn\nmay observe the goings-on of Midgaard.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12397
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 12250,
+  "alias": "giant crab",
+  "short_desc": "a giant crab",
+  "long_desc": "A crab the size of a horse scuttles past.",
+  "detailed_desc": "The thick shell of this sturdy crustacean makes it very difficult to\ndamage, especially with stabbing weapons. The crab could crush a large\nhuman with little effort in those pincers.",
+  "flags_raw": "108 1024 0 E",
+  "stats1_raw": "50 -13 -3 1d1+3000 5d6+60",
+  "stats2_raw": "750 584745 4",
+  "stats3_raw": "8 8 0 8 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/122.mob"
+}

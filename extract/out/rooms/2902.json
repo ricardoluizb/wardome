@@ -1,0 +1,34 @@
+{
+  "id": 2902,
+  "zone_id": 29,
+  "name": "Obsidian hills",
+  "description": "You see before you some shiny black hills. There is very little vegetation\nhere. The hills appear to lead to a high mountain to the south east",
+  "header_raw": "29 4 3",
+  "flags_text": "4",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see some hills to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2901
+    },
+    {
+      "dir": 1,
+      "description": "You see the side of the mountain to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2903
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "hills",
+      "description": "They are a very shiny black color."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/29.wld"
+}

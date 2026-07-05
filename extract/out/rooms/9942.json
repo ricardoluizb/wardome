@@ -1,0 +1,29 @@
+{
+  "id": 9942,
+  "zone_id": 99,
+  "name": "Certain Death.",
+  "description": "You have made a foolish mistake, my friend.  This is the Genie's \nequivalent of the forbidden fruit.  A giant hand emerges through a \nrift in time and squashes you flat, like a bug.\n \n                    ------------------\n \n                          SPLAT!!\n                              .\n                                  .\n                                      .  &RYOU ARE DEAD!!&n",
+  "header_raw": "99 6 0",
+  "flags_text": "6",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9941
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9941
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

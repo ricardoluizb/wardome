@@ -1,0 +1,54 @@
+{
+  "id": 17361,
+  "zone_id": 173,
+  "name": "Noble Road at the South Gate",
+  "description": "You stand at on Noble road at the Great Southern Gate of Camelot. To the \nnorth lies the Noble quarters, where visiting nobility reside. The \ntournament yard is to the east and Noble Road continues west. There is a \nstatue here of a knight.",
+  "header_raw": "173 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Noble's Quarters",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17366
+    },
+    {
+      "dir": 1,
+      "description": "Tourney Yard of Camelot",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17364
+    },
+    {
+      "dir": 2,
+      "description": "The Great Southern Gate",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17367
+    },
+    {
+      "dir": 3,
+      "description": "Noble Road",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17354
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "statue knight",
+      "description": "The statue is of a mounted knight, riding forth to the southern gate. He \nbears a pennon in one hand, a lance in the other, and wears full armor. \nThe horse which he rides rears in the air, signifying death in combat. \nThere is a small inscription here."
+    },
+    {
+      "keywords": "inscription",
+      "description": "Here stands our rememberance of Miles O' the Lands, knight of quality, of \nthe Round Table. He fought valiantly defending the queen in the Battleplain \nof Arden."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

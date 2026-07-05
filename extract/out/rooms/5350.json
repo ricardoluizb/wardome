@@ -3,8 +3,8 @@
   "zone_id": 53,
   "name": "A Golden Crypt",
   "description": "You stand inside a small crypt with walls and ceiling made of\ngolden bricks that obscure the large sandy stones of the pyramid.\nSmall rugs and tapestries are scattered about the floor here, and\nthey appear to have been used recently.",
-  "header_raw": "53 d 0",
-  "flags_text": "d",
+  "header_raw": "53 32776 0",
+  "flags_text": "32776",
   "sector": 0,
   "exits": [
     {
@@ -18,12 +18,12 @@
   ],
   "extra_descriptions": [
     {
-      "keywords": "rug rugs tapestry tapestries",
-      "description": "The rugs and tapestries are very fine and worn with age, their colors\nnow faded.  They depict scenes of life in an ancient desert city."
-    },
-    {
       "keywords": "bricks",
       "description": "The small golden bricks are very smooth and also quite soft."
+    },
+    {
+      "keywords": "rug rugs tapestry tapestries",
+      "description": "The rugs and tapestries are very fine and worn with age, their colors\nnow faded.  They depict scenes of life in an ancient desert city."
     }
   ],
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/53.wld"

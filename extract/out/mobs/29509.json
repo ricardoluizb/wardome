@@ -1,0 +1,12 @@
+{
+  "id": 29509,
+  "alias": "priam",
+  "short_desc": "King Priam",
+  "long_desc": "Priam, king of Ilium, hobbles weakly forward.",
+  "detailed_desc": "Priam is the elderly king of Troy, and father of Paris and Hector. He is\ntoo infirm to command his army in battle so that task falls to his favorite\nson, Hector.",
+  "flags_raw": "74 128 500 E",
+  "stats1_raw": "135 -55 -16 1d1+8100 5d14+94",
+  "stats2_raw": "2025 8792078 4",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/295.mob"
+}

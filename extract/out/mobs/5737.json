@@ -1,0 +1,12 @@
+{
+  "id": 5737,
+  "alias": "snake",
+  "short_desc": "a small snake",
+  "long_desc": "A small snake hisses and strikes!",
+  "detailed_desc": "This serpent has been placed here by the occupant of this room to guard the\nbox it is coiled about, and although it is quite small, its bite can be \nlethal!",
+  "flags_raw": "106 1024 0 E",
+  "stats1_raw": "31 -17 -11 1d1+3588 5d10+122",
+  "stats2_raw": "465 202008 11",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

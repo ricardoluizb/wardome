@@ -3,8 +3,8 @@
   "zone_id": 33,
   "name": "The Reception",
   "description": "A hall leads away to the west lined with small brown\ndoors.  A small table has a ledger on it, seemingly\nalmost unused.  The hall is plain and without any \ndecoration, except for a nice painting of (what else)\na mountain hanging above the stairs that lead back\ndown to the inn proper.",
-  "header_raw": "33 d 0",
-  "flags_text": "d",
+  "header_raw": "33 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

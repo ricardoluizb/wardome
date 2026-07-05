@@ -1,0 +1,29 @@
+{
+  "id": 8277,
+  "zone_id": 82,
+  "name": "The Eastern End Of The Corridor",
+  "description": "You are at the end of this corridor, to the north you see a big room, where\nthe Musketeers, rest after a long day of work. This room has to the east a\nbih arch window in which you can see the city. The walls, arent painted any\nmore there as grey as the stone as well as the ceiling.",
+  "header_raw": "82 12 0",
+  "flags_text": "12",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8278
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8276
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

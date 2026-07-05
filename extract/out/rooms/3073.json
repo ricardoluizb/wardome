@@ -1,0 +1,21 @@
+{
+  "id": 3073,
+  "zone_id": 30,
+  "name": "The Paladins Training Room",
+  "description": "Here the most powerfull paladins can train your skills and spells. They have a strange power with inteligence... take careful...",
+  "header_raw": "30 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3072
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/30.wld"
+}

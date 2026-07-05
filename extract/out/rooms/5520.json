@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "Temple Square",
   "description": "You are standing on the meeting grounds of those with holy\nintentions.  Monks, bards, paladins and clerics mill around\neither preaching or listening to their fellows preach.  Huge\nmarble steps lead up to the gates of the temple and Main Street\nlies to the south.",
-  "header_raw": "54 cg 1",
-  "flags_text": "cg",
+  "header_raw": "54 68 1",
+  "flags_text": "68",
   "sector": 1,
   "exits": [
     {

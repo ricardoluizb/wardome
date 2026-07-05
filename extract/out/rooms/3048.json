@@ -2,9 +2,9 @@
   "id": 3048,
   "zone_id": 30,
   "name": "Grubby Inn",
-  "description": "You are inside the old Grubby Inn.  This place has not been cleaned for\nseveral decades; vile smells make you dizzy.",
-  "header_raw": "30 dh 0",
-  "flags_text": "dh",
+  "description": "You are inside the old Grubby Inn.  This place has not been cleaned for\nseveral decades, vile smells make you dizzy.",
+  "header_raw": "30 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

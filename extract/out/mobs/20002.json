@@ -1,0 +1,12 @@
+{
+  "id": 20002,
+  "alias": "Alerka",
+  "short_desc": "Alerka",
+  "long_desc": "Alerka Bardbane is resting here.",
+  "detailed_desc": "Alerka sneers at you rudely, and ignores you.  He looks rather non-descript and\nplain, just an ordinary man taking a break.  His knives do not look ordinary at\nall, however.",
+  "flags_raw": "1204234 1160 -700 E",
+  "stats1_raw": "150 -61 -17 1d1+7800 5d16+90",
+  "stats2_raw": "2250 11714435 3",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/200.mob"
+}

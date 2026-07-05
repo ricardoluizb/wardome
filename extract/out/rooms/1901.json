@@ -1,0 +1,37 @@
+{
+  "id": 1901,
+  "zone_id": 19,
+  "name": "O pequeno bar",
+  "description": "Sente-se e acomode-se, sirva-se de uma bebida, aqui vc encontrara umas\nbebidas, comidas estragadas, e eh claro agua!  Seja amigavel e cuidado com sua\nbolsa de moedas.",
+  "header_raw": "19 8260 0",
+  "flags_text": "8260",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1902
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1903
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 0,
+      "key": 1903,
+      "to": 1900
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/19.wld"
+}

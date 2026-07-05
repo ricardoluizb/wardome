@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "A Dark Passage",
   "description": "The small passage continues east and west from here.  Again you\nnotice something peculiar about the wall, this time to the north,\nbut you fail to find any secret doors.  Voices can be faintly heard\nfrom the north.",
-  "header_raw": "54 ad 1",
-  "flags_text": "ad",
+  "header_raw": "54 9 1",
+  "flags_text": "9",
   "sector": 1,
   "exits": [
     {

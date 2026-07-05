@@ -1,0 +1,34 @@
+{
+  "id": 8176,
+  "zone_id": 81,
+  "name": "A Rough Tunnel",
+  "description": "Here the walls are roughly hewn; this is surely goblin-work through\nand through.  Rubble litters the floor.  This cave is dark, so you must\nlight your lantern again.",
+  "header_raw": "81 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The tunnel continues north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8177
+    },
+    {
+      "dir": 4,
+      "description": "You can climb up a hole to a pale glowing tunnel.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8172
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "rubble floor",
+      "description": "The rubble strewn on the floor has sharply broken edges.  This passage,\nthen, is probably newly made, and still being enlarged."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 10004,
+  "zone_id": 100,
+  "name": "A Winding Mountain Trail",
+  "description": "The trail leads east toward the castle or down into the forest.  You are now\na good ways above the forest, high up on the trail.  You see that the entire\nforest is enclosed by the mountains, forming a sort of prison in the form of a\nforest full of horrors.  What an awful place you have come to!",
+  "header_raw": "100 1 3",
+  "flags_text": "1",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10005
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10003
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/100.wld"
+}

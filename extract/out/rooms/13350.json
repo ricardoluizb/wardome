@@ -1,0 +1,37 @@
+{
+  "id": 13350,
+  "zone_id": 132,
+  "name": "The West Market Square",
+  "description": "You are on the western market.  The people here are ill-tempered and are\nunwilling to help or answer questions.  A mansion blocks the way south and the\nmarket continues north, east and west.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "west market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13327
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13351
+    },
+    {
+      "dir": 3,
+      "description": "west market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13332
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 6743,
+  "zone_id": 67,
+  "name": "The stables",
+  "description": "No whinnies issue from the darkened stalls of this place; the horses are\nas yet untamed and the stables lie empty. It is not unusual for a vagrant\nto make his home here, however, before being moved on by the guards or\nattacked by the barn owls.",
+  "header_raw": "67 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6741
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

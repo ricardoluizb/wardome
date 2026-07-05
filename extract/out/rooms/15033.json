@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "The Corridor",
   "description": "You are standing in a long corridor, decorated with tapestries\ndepicting old times and old heroes.  The corridor continues west,\nand to the north you see the luxurious guest wing.",
-  "header_raw": "150 d 0",
-  "flags_text": "d",
+  "header_raw": "150 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

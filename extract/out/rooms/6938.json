@@ -1,0 +1,29 @@
+{
+  "id": 6938,
+  "zone_id": 69,
+  "name": "The Closet",
+  "description": "You are in a closet which is very dark, but as you light your light, you can\nsee that it is bare except for a huge pile of clothes and other things laying\nin the corner.  Oh well, what did you expect?",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6937
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "secret special clothes junk",
+      "door_flag": 2,
+      "key": 6905,
+      "to": 6957
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

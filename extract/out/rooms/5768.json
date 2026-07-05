@@ -1,0 +1,29 @@
+{
+  "id": 5768,
+  "zone_id": 57,
+  "name": "A Fountain",
+  "description": "You have entered a small room, no more than a slight broadening of the \npassage, with a fountain in the middle of it. The passage continues to the\nnorth and terminates at a pitch-black portal to the south.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a corridor",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5770
+    },
+    {
+      "dir": 2,
+      "description": "a pitch-black portal",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5766
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

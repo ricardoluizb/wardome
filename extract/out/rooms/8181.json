@@ -1,0 +1,42 @@
+{
+  "id": 8181,
+  "zone_id": 81,
+  "name": "A Corner In the Mines",
+  "description": "It is very slow going here as you inch your way around a hole in the\nfloor.  If you wanted to, you could more easily dive in; your lantern\nglints off the surface of a lake not far below.",
+  "header_raw": "81 9 3",
+  "flags_text": "9",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The tunnel continues east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8182
+    },
+    {
+      "dir": 2,
+      "description": "The tunnel runs south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8179
+    },
+    {
+      "dir": 5,
+      "description": "A ragged hole leads down to an underground lake.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8185
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "hole",
+      "description": "This water is flowing towards some exit; perhaps it leads out of this\nmountain? But once you dive down, you won't get back up here without\nwings."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

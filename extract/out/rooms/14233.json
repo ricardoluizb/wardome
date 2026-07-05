@@ -1,0 +1,21 @@
+{
+  "id": 14233,
+  "zone_id": 141,
+  "name": "The Treasure Tent",
+  "description": "There is a HUGE stack of treasure here.  It is truly immense.  It\nwould make you easily a millionaire.  If you could even take a\ntenth of it, you could buy your levels.  But the treasure is\nsurrounded by a shield.  A shield that only the truly Honorable\ncould get through.  And if you were truly honorable you wouldn't\ntake the treasure.",
+  "header_raw": "141 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14234
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

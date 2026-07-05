@@ -1,0 +1,21 @@
+{
+  "id": 30050,
+  "zone_id": 300,
+  "name": "A lofty balcony",
+  "description": "This is really high up, making you feel a little giddy.  Fortunately you have\nan all-powerful view of your surroundings, north, south and west.  Looking out\nyou see foremost the great ocean which separates Middle Earth from the blessed\nrealm: the land of Valinor where the Valar reside.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30049
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

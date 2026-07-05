@@ -3,8 +3,8 @@
   "zone_id": 70,
   "name": "The Round Room",
   "description": "As you enter the room it starts rotating - at first slowly, then faster\nand faster - You get totally confused as to where up and down is, but\nyou are certain that the doorway is in the opposite direction of what\nit was when you entered.  It now leads east.  There is only this one\nexit.",
-  "header_raw": "70 ad 1",
-  "flags_text": "ad",
+  "header_raw": "70 9 1",
+  "flags_text": "9",
   "sector": 1,
   "exits": [
     {

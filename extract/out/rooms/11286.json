@@ -1,0 +1,29 @@
+{
+  "id": 11286,
+  "zone_id": 112,
+  "name": "Deep Waters",
+  "description": "The sludge grows suddenly deeper here, wuickly rising to your chest, and\nyou find yourself incapable of continuing without a boat or magical means.\nSomething large, and slimy, is moving around in the fetid waters beneath\nyour feet, and you panic, not knowing what to expect.",
+  "header_raw": "112 9 7",
+  "flags_text": "9",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11285
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11287
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

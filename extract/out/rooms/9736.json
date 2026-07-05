@@ -1,0 +1,29 @@
+{
+  "id": 9736,
+  "zone_id": 97,
+  "name": "Smithy",
+  "description": "This large room is so noisy, you can barely hear yourself think.  All the\noccupants are hard at work, crafting high quality weapons and armor.  Something\nis strange about the west wall, although you can't quite tell what it is.",
+  "header_raw": "97 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9733
+    },
+    {
+      "dir": 3,
+      "description": "You see a concealed door!",
+      "keywords": "door concealed",
+      "door_flag": 1,
+      "key": -1,
+      "to": 9737
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/97.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2915,
+  "zone_id": 29,
+  "name": "Workers' quarters",
+  "description": "You are standing in the workers' quarters.  There are several workers here.  \nThe room is messy and has nothing of value in it.  The party the night before\nmust have destroyed everything.",
+  "header_raw": "29 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the dark mountain shaft.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2913
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/29.wld"
+}

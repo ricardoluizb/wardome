@@ -1,0 +1,21 @@
+{
+  "id": 25110,
+  "zone_id": 251,
+  "name": "The weapon shop",
+  "description": "You surely will not found swords here. It's a specific shop, only for\nsneaky people. And sneaky people don't use swords, huh?",
+  "header_raw": "251 24 0",
+  "flags_text": "24",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 25108
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/251.wld"
+}

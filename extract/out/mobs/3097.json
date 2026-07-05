@@ -1,0 +1,12 @@
+{
+  "id": 3097,
+  "alias": "black dragon ancient creature thalasyxant",
+  "short_desc": "Thalasyxant, the black dragon",
+  "long_desc": "One of the most ancient creatures of the realms stands here.",
+  "detailed_desc": "It is a giant black dragon with power black scales, sharp tooth and\na very powerful breath. This dragon is a great wyrm and one \nof the oldest and most powerful creature of the realms.",
+  "flags_raw": "518155 1132466344 -1000 E",
+  "stats1_raw": "200 -130 -20 1d1+100000 25d35+150",
+  "stats2_raw": "50000 150000000 10",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
+}

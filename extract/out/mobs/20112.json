@@ -1,0 +1,12 @@
+{
+  "id": 20112,
+  "alias": "master librarian monk",
+  "short_desc": "the Master of Books",
+  "long_desc": "A master sits here reading his books, oblivious to your intrusion.",
+  "detailed_desc": "He looks old and his eyes are failing him.  In one hand, he holds a lighted\ncandle to help him read better.",
+  "flags_raw": "10 25174016 500 E",
+  "stats1_raw": "105 -46 -16 1d1+8820 5d21+112",
+  "stats2_raw": "1575 4610408 7",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/201.mob"
+}

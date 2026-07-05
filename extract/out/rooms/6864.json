@@ -1,0 +1,29 @@
+{
+  "id": 6864,
+  "zone_id": 67,
+  "name": "A path hung with moss",
+  "description": "A narrow path bordered with ancient, broad-trunked trees leads\nnorth to the town wall of Sundhaven and southwards to a short drop.\nMoss completely covers and overflows from the oaks, brushing the\nhair and helms of all but the shortest races of beings.",
+  "header_raw": "67 1 3",
+  "flags_text": "1",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6863
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6865
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

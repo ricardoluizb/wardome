@@ -1,0 +1,29 @@
+{
+  "id": 9112,
+  "zone_id": 91,
+  "name": "Narrow rocky trail.",
+  "description": "A narrow trail leads down towards the mountain and north toward the\ncliff.  It seems to fade in and out as it winds up the hill.\nObviously, it has not been maintained in years.",
+  "header_raw": "91 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9111
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9113
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

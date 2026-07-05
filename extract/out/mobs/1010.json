@@ -1,0 +1,12 @@
+{
+  "id": 1010,
+  "alias": "shadow",
+  "short_desc": "the shadow",
+  "long_desc": "A shadow made of inky blackness moves along the wall towards you.",
+  "detailed_desc": "The moving shape of blackness looks like it is a shadow that\nlost its owner at some point.  It looks rather malignant.  To\nput it mildly.",
+  "flags_raw": "74 136 -800 E",
+  "stats1_raw": "40 -20 -11 1d1+4320 5d13+116",
+  "stats2_raw": "600 364261 10",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/10.mob"
+}

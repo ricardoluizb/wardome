@@ -3,8 +3,8 @@
   "zone_id": 50,
   "name": "The Rickety Rope Bridge",
   "description": "You carefully begin to walk across the bridge, but suddenly the rope\nbreaks and you fall...\n                     ... and fall\n                            and fall\n                               and fall\n                                    ... to your death on the rocks below.",
-  "header_raw": "50 bd 5",
-  "flags_text": "bd",
+  "header_raw": "50 10 5",
+  "flags_text": "10",
   "sector": 5,
   "exits": [
     {

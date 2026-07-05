@@ -1,0 +1,12 @@
+{
+  "id": 1901,
+  "alias": "Nephalin cmob",
+  "short_desc": "&RNephalin&n",
+  "long_desc": "&CYou see a &RNephalin &Cflying around, guarding her disciples.&n",
+  "detailed_desc": "&RYou see a Fallen Creature, she looks like a woman, but there someting in her eyes...&n",
+  "flags_raw": "3668490 588354734 1000 E",
+  "stats1_raw": "200 -100 -30 1d1+21600 10d41+100",
+  "stats2_raw": "3000 34652576 10",
+  "stats3_raw": "8 8 2 3 21",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/19.mob"
+}

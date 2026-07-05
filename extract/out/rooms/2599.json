@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "Atop The Stairway",
   "description": "You are atop the stairway to the upper levels of the high tower.  The\nwalls emit a faint magical glow which provides enough light to see by.\n   A hallway leads west from here, and the stairs lead down.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

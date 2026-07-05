@@ -1,0 +1,29 @@
+{
+  "id": 9983,
+  "zone_id": 99,
+  "name": "A small clearing.",
+  "description": "There is virtually none of that ectoplasmic crap here.  This \nclearing consists of red clay dirt, with a few boulders lying around \nyou.  Apparently it is a primitive pathway of some sort, for to the \nSouth you can see what appears to be the mouth of a cave.",
+  "header_raw": "99 1 1",
+  "flags_text": "1",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9982
+    },
+    {
+      "dir": 2,
+      "description": "The mouth of a small cave.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9984
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

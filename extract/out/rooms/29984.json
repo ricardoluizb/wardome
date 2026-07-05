@@ -1,0 +1,21 @@
+{
+  "id": 29984,
+  "zone_id": 298,
+  "name": "Waterfall of Rauros",
+  "description": "&y                _____&g,,,/&G|&g\\,,/&G|&g\\,&G|&g,\n&B               /&b-- --- --- -----\n&B              //o/&b---  -- -- &wYou stupidly jumps\n&B              &b!&B///&g,-,,/&G|&g\\,/&G|&g\\,,&G|&g,/&G|&g\\,, &wdown the waterfall.\n&B            o&b!&B*&b!&Bo'&y\\          /\\\n&B            &b!&B o \", &y\\/\\  /\\  /  \\/\\\n&B            &b!&Bo&b!&B &b!&B&b!&B    &y\\/  \\/     /\n&B            (  o&b!&B'              &y/\n&B            o &b!&B*&b!&B'             &y/\n&w      \\ /    &B(o''|  &y'         /\n&w      _|_    &b!&B *|'            &y\\\n&w       @    &B' &b!&Bo&b!&B'             &y\\ &wYour body beautifuly...\n&B             ( ('|             &y/\n&B             o &b!&B *            &y/\n&B               &b!&Bo&b!&B           &y/\n&B             ( &b!&B'(          &y/ &wlands on the bottom, but\n&B             o &b!&B*&b!&B'         &y\\\n&b -- - -&WoO*OoOo&B (o''          &y\\\n&b---- --* &WoO*OoO&B *&b!&B'          &y/\n&b  --  - *--&WoO*OoOo&B!&y_________/ &RD E A D ! !&n",
+  "header_raw": "298 70 7",
+  "flags_text": "70",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29983
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

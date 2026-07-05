@@ -1,0 +1,34 @@
+{
+  "id": 17314,
+  "zone_id": 173,
+  "name": "A Creek in the Forest Arden",
+  "description": "You have stopped for water at a little creek which cuts across the trail. \nTo the south the forest brightens. To the west the forest darkens. The\nsky is blue and the sunlight flashes off the silvery waters.",
+  "header_raw": "173 0 6",
+  "flags_text": "0",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "A dirty trail",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17313
+    },
+    {
+      "dir": 3,
+      "description": "A dirty trail",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17315
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "silvery",
+      "description": "You stoop down to peer at the shiny flashy creek and see submerged a knight.\nThe knight bears the crest of Camelot and appears to have been coldly \nspeared through the back."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

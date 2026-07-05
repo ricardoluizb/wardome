@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Guard House",
   "description": "You stand inside the northern of the two main guard houses.  Strong\nguards are seated here, playing cards.  The stone interior is clean but\nbare walled save the weapons and armor mounted in the walls.\n   The only exit is south.",
-  "header_raw": "54 d 0",
-  "flags_text": "d",
+  "header_raw": "54 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

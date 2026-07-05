@@ -1,0 +1,45 @@
+{
+  "id": 7795,
+  "zone_id": 77,
+  "name": "The Challenge",
+  "description": "You arrived in the Quest of the Human World.\nThat is the Enigma of second Samsara.\nDoesn't metter how many you are.  \nEach one should choose only a way!",
+  "header_raw": "77 128 0",
+  "flags_text": "128",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7796
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7797
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7798
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7799
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/77.wld"
+}

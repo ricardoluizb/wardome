@@ -1,0 +1,29 @@
+{
+  "id": 9946,
+  "zone_id": 99,
+  "name": "On the stairs",
+  "description": "You are standing on a narrow granite staircase which spirals gently \ndownward.  You may ascend, or descend at will.",
+  "header_raw": "99 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9943
+    },
+    {
+      "dir": 5,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9945
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

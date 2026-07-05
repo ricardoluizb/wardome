@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The End Of The Path",
   "description": "The path stops here, to the north is a single mountain and around\nyou are some threatening hills.  A small trail leads up the hillside\nthrough the rocks to a dark cave located to the north.  Off to the\nnortheast, you can see the southern end of what appears to be a large\nmountain range.",
-  "header_raw": "40 c 4",
-  "flags_text": "c",
+  "header_raw": "40 4 4",
+  "flags_text": "4",
   "sector": 4,
   "exits": [
     {

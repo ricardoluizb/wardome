@@ -1,0 +1,12 @@
+{
+  "id": 10004,
+  "alias": "vampyre greater",
+  "short_desc": "a Greater Vampyre",
+  "long_desc": "A Greater Vampyre flings himself on you in a frenzy of Bloodlust!",
+  "detailed_desc": "You really don't have the time to stop and check this guy out, he is attacking\nyou!",
+  "flags_raw": "230008 1064 -700 E",
+  "stats1_raw": "170 -65 -15 1d1+4752 5d18+68",
+  "stats2_raw": "2550 13481323 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/100.mob"
+}

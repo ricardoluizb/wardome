@@ -1,0 +1,37 @@
+{
+  "id": 791,
+  "zone_id": 7,
+  "name": "Second Floor Hallway",
+  "description": "This is the hallway at the top of the stairs, that leads north-south. \nDoors line the hallway in both directions, and you can go down to the main\nroom. A big, ten foot tall window on the west wall of the stairwell seemed to\nhave been a stained-glass window once, but has been worn and cracked by time to\njust be shards of colored glass that doesn't even keep the wind out.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 795
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 793
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 780
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "Inside The High Tower Of Sorcery",
   "description": "You are inside the High Tower of Sorcery.  The sight is truly amazing.\nFrom here, it is obvious that somehow, the tower is much larger on the\ninside than it is on the outside.  Young mages walk about, completely\noblivious to your presence.\n   Exits lead north to the common room, west to the dinning room, east\nto a plain hallway and back south through the gate.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

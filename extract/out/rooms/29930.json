@@ -1,0 +1,21 @@
+{
+  "id": 29930,
+  "zone_id": 298,
+  "name": "Loft above the stables",
+  "description": "This is where they store the hay which they use to feed the horses.  There\ndoesn't seem to be all that much hay left up here.  It has probably all been\nused for feeding the horses.  A pile of hay which has become separated from its\nvarious bales is over in one corner.",
+  "header_raw": "298 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29929
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

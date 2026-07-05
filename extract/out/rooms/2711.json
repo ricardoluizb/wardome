@@ -1,0 +1,21 @@
+{
+  "id": 2711,
+  "zone_id": 27,
+  "name": "Little Improvised Port",
+  "description": "When you walk in here, you see a river, and a little shadow running to a boat,\nand you obviously follow him.",
+  "header_raw": "27 4 3",
+  "flags_text": "4",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2709
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

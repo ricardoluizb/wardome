@@ -1,0 +1,29 @@
+{
+  "id": 4703,
+  "zone_id": 47,
+  "name": "Mines",
+  "description": "This small tunnel is only five to six feet high and possibly the same\ndimensions wide.  It travels on a slight downslope to the west and to the south\nsome light can be seen.",
+  "header_raw": "47 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4702
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4704
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

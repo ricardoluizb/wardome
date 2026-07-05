@@ -1,0 +1,33 @@
+{
+  "id": 3,
+  "producing": [
+    8734,
+    8736,
+    8700
+  ],
+  "profit_buy": 1.0,
+  "profit_sell": 0.0,
+  "buy_types": [],
+  "messages": [
+    "%s Text 1",
+    "%s Text 2",
+    "%s Text 3",
+    "%s Text 4",
+    "%s Text 5",
+    "%s Text 6",
+    "%s Text 7"
+  ],
+  "tail": [
+    0,
+    0,
+    8748,
+    0,
+    8748,
+    -1,
+    4,
+    20,
+    0,
+    0
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/87.shp"
+}

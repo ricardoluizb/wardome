@@ -1,0 +1,37 @@
+{
+  "id": 11561,
+  "zone_id": 115,
+  "name": "The Raiders' Zone",
+  "description": "You are in the Raiders' defensive zone.  To the south is the 50-Meter Line,\nto the north is the end zone.  The field also continues east.",
+  "header_raw": "115 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11560
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11554
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11548
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

@@ -1,10 +1,8 @@
 {
   "keywords": [
-    "rescue"
-  ],
-  "aliases": [
     "RESCUE"
   ],
-  "body": "Syntax: rescue <target>\n\nRescue allows a warrior to intercept attacks aimed at an ally, drawing\nenemy aggression to themselves. This is essential for protecting weaker\nparty members during group combat.\n\nClasses: Warrior, Paladin\nSkill Type: Combat\nPosition: Fighting\n\nWhen you rescue someone, all enemies attacking that person will switch\ntheir attention to you instead. This skill is crucial for tanks who need\nto protect spellcasters and other vulnerable allies.\n\nSee Also: BASH, DISARM",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+  "aliases": [],
+  "body": "- Classes que aprendem: Warrior (31), Paladin (66)\n- Descricao: Esta skill permite defender um amigo em uma luta. O player que a utiliza passa a proteger heroicamente o amigo, recebendo o dano que este receberia.\n- Numero de rounds necessarios para recuperacao do controle: 2\n- Exemplo de uso:\t> rescue kefren\n\t\t\tBanzai!  To the rescue...\n\n- Observacoes: Esta skill so funciona em players dentro do PK Range e desde que a flag de PK seja a mesma para os dois, ou seja, ambos sejam PKs ou ambos sejam NOPKs.",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/text/help/help"
 }

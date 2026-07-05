@@ -1,0 +1,12 @@
+{
+  "id": 5760,
+  "alias": "dog",
+  "short_desc": "a Guard Dog",
+  "long_desc": "A savage Guard Dog barks to alert its master of your intrusion!",
+  "detailed_desc": "Despite appearances, this Dog will not attack unless provoked. If it does, \nyou may find that it is not like msot other Dogs, in that it is very tough \nand has certain abilities that may catch you by surprise...",
+  "flags_raw": "74 8232 0 E",
+  "stats1_raw": "30 -17 -11 1d1+3480 5d10+122",
+  "stats2_raw": "450 185326 11",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

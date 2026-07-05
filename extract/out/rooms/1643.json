@@ -1,0 +1,29 @@
+{
+  "id": 1643,
+  "zone_id": 16,
+  "name": "Third Level of Western Tower",
+  "description": "You stand in the center of the western tower's third floor.  This large room\nglows mysteriously with a strange light all its own.  From a door to the east\ncomes a strange inky blackness.  A spiral staircase leads down.",
+  "header_raw": "16 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 1,
+      "key": -1,
+      "to": 1644
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1642
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

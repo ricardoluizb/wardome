@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Hills",
   "description": "You are on a small path leading north, dark threatening hills\nsurround you on almost all sides.  A fair distance off to the\nnorth, you can see the enormous shadow of a strangely solitaire\nmountain.",
-  "header_raw": "40 c 4",
-  "flags_text": "c",
+  "header_raw": "40 4 4",
+  "flags_text": "4",
   "sector": 4,
   "exits": [
     {

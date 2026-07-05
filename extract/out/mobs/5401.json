@@ -4,9 +4,9 @@
   "short_desc": "the guildmaster",
   "long_desc": "Your guildmaster stands here.",
   "detailed_desc": "An older man wrapped in purple, long-flowing robes meditates here.",
-  "flags_raw": "blno dhk 1000 S",
-  "stats1_raw": "16 -10 -10 1d1+10000 5d5+5",
-  "stats2_raw": "1 0",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "26634 1160 1000 E",
+  "stats1_raw": "200 -80 -20 1d1+5592 5d21+80",
+  "stats2_raw": "3000 26206010 0",
+  "stats3_raw": "8 8 1 1 0",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

@@ -1,0 +1,29 @@
+{
+  "id": 13118,
+  "zone_id": 131,
+  "name": "Shogun of Ko",
+  "description": "You are standing in the chamber of the Shogun of Ko.  This shogun looks\nexactly like your father.  In fact, he looks exactly like anyone's father.  You\nexpect to see him pull his belt and whip you at any moment... then you notice\nhis weapon.",
+  "header_raw": "131 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The antechamber lies to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13117
+    },
+    {
+      "dir": 4,
+      "description": "A ladder leads upward.",
+      "keywords": "forcefield",
+      "door_flag": 1,
+      "key": 13103,
+      "to": 13119
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/131.wld"
+}

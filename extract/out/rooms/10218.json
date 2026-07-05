@@ -1,0 +1,37 @@
+{
+  "id": 10218,
+  "zone_id": 102,
+  "name": "The Smell of Iron",
+  "description": "In this dark room you can smell the iron, the forges, there are\nsome soldiers getting out of the adjacent rooms with swords drawn.\nYou can hear the tinglin of iron from north and west, there are 2 doors\nand both wide open.",
+  "header_raw": "102 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10221
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10217
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10220
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

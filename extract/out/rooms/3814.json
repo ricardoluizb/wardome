@@ -1,0 +1,45 @@
+{
+  "id": 3814,
+  "zone_id": 38,
+  "name": "A Dark Hallway",
+  "description": "You are in a dark hallway.  You see more exposed rock than wood now, as this\nunfinished place reveals it's state of incompleteness.  Someone must have\nabandoned this place for a reason.  To the west and east are some makeshift\nbedrooms, and this hallway leads north and south.",
+  "header_raw": "38 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3823
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3822
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3813
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3821
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

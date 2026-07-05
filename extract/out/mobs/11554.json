@@ -1,0 +1,12 @@
+{
+  "id": 11554,
+  "alias": "warden",
+  "short_desc": "the Warden",
+  "long_desc": "The Warden is here guarding the jail.",
+  "detailed_desc": "A staunch proponent of the death penalty, and the keeper of the jail key.",
+  "flags_raw": "32778 32 0 E",
+  "stats1_raw": "40 -4 1 1d1+1752 5d5+36",
+  "stats2_raw": "600 280201 2",
+  "stats3_raw": "8 8 0 -1 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2307,
+  "alias": "oldstyle ogre villager",
+  "short_desc": "the Ogre Villager",
+  "long_desc": "The ogre villager is here, going about its chores.",
+  "detailed_desc": "You see a pitifully overworked ogre. It is dressed in rags and shuffles along\nwith its head hung low. It sees you and cringes in mortal terror.",
+  "flags_raw": "200 0 -200 E",
+  "stats1_raw": "190 -79 -21 1d1+8352 5d20+96",
+  "stats2_raw": "2850 22946581 2",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/23.mob"
+}

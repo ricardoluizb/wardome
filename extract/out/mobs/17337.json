@@ -1,0 +1,12 @@
+{
+  "id": 17337,
+  "alias": "demon",
+  "short_desc": "a towering, black scaled demon",
+  "long_desc": "A towering, black scaled demon has come to eat your soul!",
+  "detailed_desc": "The demon stands 20' tall, has two heads, black scales, a mouthfull of \nsharp teeth, 4 arms with long razorlike claws, and two muscular legs \nwith cloven hooves. The heads are batlike, and the black eyes seem to \nvacantly stare at you. As it breathes the ground you stand on rumbles, \nand you are seared by its hot breath. It is this demon which has been \nlaughing at you in all your visions. Merlin has bound this demon here \nto use its power in the fabrication of magic items, however his hold \nhas slipped a few times, enabling the demon to give out a few artifacts \nto encourage the downfall of Camelot (Morgana, Pict leader).",
+  "flags_raw": "42 1724 -1000 E",
+  "stats1_raw": "142 -51 -11 1d1+3972 5d15+56",
+  "stats2_raw": "2130 7995598 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/173.mob"
+}

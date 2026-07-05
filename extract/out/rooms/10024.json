@@ -1,0 +1,29 @@
+{
+  "id": 10024,
+  "zone_id": 100,
+  "name": "Dark Stairwell",
+  "description": "A dark, wet, narrow flight of stairs runs down into darkness.  There is a\nsense of desperation about this section of the castle, a sense of lingering but\ndesperate hope.  Shining your light down the steps only confirms that they go\ndownward farther than you can see and it is dark down there.",
+  "header_raw": "100 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 10012
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10034
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/100.wld"
+}

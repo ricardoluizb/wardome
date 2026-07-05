@@ -1,0 +1,12 @@
+{
+  "id": 9012,
+  "alias": "stormbringer",
+  "short_desc": "the stormbringer",
+  "long_desc": "The stormbringer sweeps around here.",
+  "detailed_desc": "The stormbringer is HUGE but still swift.",
+  "flags_raw": "24639 1066 -1000 E",
+  "stats1_raw": "130 -63 -23 1d1+12996 5d27+142",
+  "stats2_raw": "1950 9292160 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/90.mob"
+}

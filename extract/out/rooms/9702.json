@@ -1,0 +1,29 @@
+{
+  "id": 9702,
+  "zone_id": 97,
+  "name": "Mountain",
+  "description": "You have finally reached the top of the mountain.  The air here is so thin\nthat you must gasp for breath.  To the north, you see what seems to be the\nentrance to a city.",
+  "header_raw": "97 0 9",
+  "flags_text": "0",
+  "sector": 9,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9703
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9701
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/97.wld"
+}

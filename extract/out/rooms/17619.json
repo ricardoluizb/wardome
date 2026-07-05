@@ -1,0 +1,21 @@
+{
+  "id": 17619,
+  "zone_id": 176,
+  "name": "Chicken Coop",
+  "description": "You are in the chicken coop.  The smell of chickens and chicken droppings\nmakes you gasp.  The exit is north.",
+  "header_raw": "176 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You can sense the fresh air.",
+      "keywords": "",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17618
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/176.wld"
+}

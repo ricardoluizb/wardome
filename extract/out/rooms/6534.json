@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "The Hospital",
   "description": "You are inside the Dwarven Hospital.  It smells like rubbing\nalcohol, and there is blood all over the walls.",
-  "header_raw": "65 d 0",
-  "flags_text": "d",
+  "header_raw": "65 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

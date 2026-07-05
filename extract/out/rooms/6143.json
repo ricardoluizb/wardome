@@ -3,8 +3,8 @@
   "zone_id": 61,
   "name": "The Cave Of The Green Dragon",
   "description": "You are in a big natural cave.  The floor is littered with bones of\nall sorts and the stench is so massive that you could cut it with a\nknife.  The only exit is to the south.",
-  "header_raw": "61 ad 3",
-  "flags_text": "ad",
+  "header_raw": "61 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

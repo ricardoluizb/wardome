@@ -4,9 +4,9 @@
   "short_desc": "the bird",
   "long_desc": "A large bird with a broken wing has been cornered here.",
   "detailed_desc": "The bird isn't going to live much longer, by the looks of it.",
-  "flags_raw": "b 0 0 S",
-  "stats1_raw": "0 17 10 2d3+1 1d2+1",
-  "stats2_raw": "0 25",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "10 0 0 E",
+  "stats1_raw": "2 19 9 1d1+36 5d1+0",
+  "stats2_raw": "30 376 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/60.mob"
 }

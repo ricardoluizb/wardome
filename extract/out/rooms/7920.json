@@ -3,8 +3,8 @@
   "zone_id": 79,
   "name": "The Free Fall From The Chain",
   "description": "This is probably the third worst place to be in this entire MUD right\nnow.  You fall\n.  \n.\n.\nand fall\n.\n.\n.\nand fall\n.\n.\n.\nand HIT THE GROUND WITH SUCH A *SPLUTCH* that you die horribly, but instantly.\nGood-bye cruel world.",
-  "header_raw": "79 bd 0",
-  "flags_text": "bd",
+  "header_raw": "79 10 0",
+  "flags_text": "10",
   "sector": 0,
   "exits": [
     {
@@ -53,7 +53,7 @@
       "keywords": "",
       "door_flag": 0,
       "key": -1,
-      "to": 3120
+      "to": -1
     }
   ],
   "extra_descriptions": [],

@@ -4,9 +4,9 @@
   "short_desc": "the dwarven doctor",
   "long_desc": "The dwarven doctor is here, aiding the sick of his people.",
   "detailed_desc": "He is a very skilled healer, and extremely faithful to his god.",
-  "flags_raw": "abl dhk 999 S",
-  "stats1_raw": "22 0 -1 9d4+375 3d8+4",
-  "stats2_raw": "20000 60000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "2059 1160 999 E",
+  "stats1_raw": "52 -6 2 1d1+1089 5d6+20",
+  "stats2_raw": "780 511706 0",
+  "stats3_raw": "8 8 1 1 2",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/65.mob"
 }

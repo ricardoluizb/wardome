@@ -1,0 +1,29 @@
+{
+  "id": 9737,
+  "zone_id": 97,
+  "name": "The Planning Room",
+  "description": "You have entered a large room dominated by a huge table with a large map\non it.  Several men are gathered around the table, studying the map carefully.\nYou hear the barking of dogs to the north.",
+  "header_raw": "97 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9749
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 9736
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/97.wld"
+}

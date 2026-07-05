@@ -3,8 +3,8 @@
   "zone_id": 52,
   "name": "The North-East Watchtower",
   "description": "You stand atop one of the city watchtowers.  The view is magnificent\nfrom here and you the desert sand stretches to the horizon.  No wonder\nthis place stood for so long.  The ladder leading down seems rotted in\nsome places!",
-  "header_raw": "52 c 1",
-  "flags_text": "c",
+  "header_raw": "52 4 1",
+  "flags_text": "4",
   "sector": 1,
   "exits": [
     {

@@ -1,0 +1,37 @@
+{
+  "id": 12211,
+  "zone_id": 122,
+  "name": "Asgard",
+  "description": "The bridge ends at a cobbled road that runs west towards a series of\nwooden lodges, arranged about the boughs of Yggdrasil. A narrow path\nruns up from here to the edge of a cliff; you think you can smell the\nsea. The streets of the realm of the Aesir are quiet; few footprints\nmark the light coating of snow that covers most of the region.",
+  "header_raw": "122 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12210
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12213
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12212
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

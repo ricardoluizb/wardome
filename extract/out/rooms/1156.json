@@ -1,0 +1,29 @@
+{
+  "id": 1156,
+  "zone_id": 11,
+  "name": "End of a dark tunnel",
+  "description": "You are at one end of a dark tunnel.  The tunnel continues to the south\nwhile on the ceiling you can make out a trapdoor.",
+  "header_raw": "11 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see a dark tunnel.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1152
+    },
+    {
+      "dir": 4,
+      "description": "A trapdoor on the ceiling reveals a passageway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1137
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

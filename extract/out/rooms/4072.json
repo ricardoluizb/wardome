@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Tunnel",
   "description": "You stand in a narrow tunnel.  It makes a turn from east to south\nhere as it heads through the rock of the mountain.  The western wall\nof the tunnel looks to have broken through a small, natural crack in\nthe rock to lead into what appears to be a fairly large cave.",
-  "header_raw": "40 ad 3",
-  "flags_text": "ad",
+  "header_raw": "40 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

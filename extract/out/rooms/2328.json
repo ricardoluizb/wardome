@@ -1,0 +1,29 @@
+{
+  "id": 2328,
+  "zone_id": 23,
+  "name": "The swampy path",
+  "description": "You tread lightly in a wet, swampy path. All around you, you see pools of\nquicksand and rotting vegetation. Unlike the forest to the west, the swamp is\nteeming with life. Some of it is harmless, some is not. The path leads east\nand west into more swamp.",
+  "header_raw": "23 9 3",
+  "flags_text": "9",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2329
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2327
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

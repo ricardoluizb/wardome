@@ -3,8 +3,8 @@
   "zone_id": 72,
   "name": "The Treasury",
   "description": "You are in a small but well equipped treasury.  You can see some writing\non the wall.  The ceiling has a funny glow, which enables you to see.  You\ncan get back into the inner lair through the stone door which is east.",
-  "header_raw": "72 cd 0",
-  "flags_text": "cd",
+  "header_raw": "72 12 0",
+  "flags_text": "12",
   "sector": 0,
   "exits": [
     {
@@ -18,12 +18,12 @@
   ],
   "extra_descriptions": [
     {
-      "keywords": "door stone",
-      "description": "This is a heavy black stone door it looks very solid."
-    },
-    {
       "keywords": "writing",
       "description": "You read the number '666'."
+    },
+    {
+      "keywords": "door stone",
+      "description": "This is a heavy black stone door it looks very solid."
     }
   ],
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/72.wld"

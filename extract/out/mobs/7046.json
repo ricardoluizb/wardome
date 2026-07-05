@@ -4,9 +4,9 @@
   "short_desc": "Herald 'the mouse-killer' ettin",
   "long_desc": "Herald is standing here looking confused at you.",
   "detailed_desc": "When you look at Herald, you feel pity.  His clothes are really poor, and\none of his heads hangs down.  At the rope around his stomach hangs dead\nmice and rats.  He does not smell good.",
-  "flags_raw": "c k +200 S",
-  "stats1_raw": "6 14 4 3d5+70 1d8+0",
-  "stats2_raw": "40 1500",
-  "stats3_raw": "5 5 1",
+  "flags_raw": "12 1024 200 E",
+  "stats1_raw": "20 10 7 1d1+414 5d3+8",
+  "stats2_raw": "300 37388 0",
+  "stats3_raw": "5 5 1 3 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/70.mob"
 }

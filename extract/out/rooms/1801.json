@@ -1,0 +1,37 @@
+{
+  "id": 1801,
+  "zone_id": 18,
+  "name": "The Big, Blue Ocean",
+  "description": "WHOOSH!  A whirlpool sucks you down and spits you out!\nYou see the city to the east, with Redferne's castle above,\nteeming with all sorts of life.  The ocean is alive!\nYou wonder about the creatures below.",
+  "header_raw": "18 16777216 7",
+  "flags_text": "16777216",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 909
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29500
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1802
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/18.wld"
+}

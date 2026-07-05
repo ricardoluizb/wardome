@@ -1,0 +1,12 @@
+{
+  "id": 17817,
+  "alias": "bodyguard hobgoblin",
+  "short_desc": "the hobgoblin bodyguard",
+  "long_desc": "A hobgoblin bodyguard guards the king with his life.",
+  "detailed_desc": "This is one of the elite hobgoblin guards.  He stands tall for his short\nstature.  He grins a toothy grin as he prepares to attack.",
+  "flags_raw": "10 0 -500 E",
+  "stats1_raw": "49 -4 2 1d1+1026 5d5+18",
+  "stats2_raw": "735 395175 0",
+  "stats3_raw": "8 8 2 3 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/178.mob"
+}

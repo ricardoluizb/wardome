@@ -1,10 +1,10 @@
 {
   "id": 7325,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "A Dusty Tunnel",
   "description": "You are standing in dust.  This place has not been touched for a long time. \nOtherwise it is quite boring here, looks like a place to rest!  To the west\nyou see the outline of a door.  A tunnel leads to the east.",
-  "header_raw": "73 cd 1",
-  "flags_text": "cd",
+  "header_raw": "72 12 1",
+  "flags_text": "12",
   "sector": 1,
   "exits": [
     {

@@ -1,0 +1,37 @@
+{
+  "id": 9918,
+  "zone_id": 99,
+  "name": "The top of the stairs.",
+  "description": "You are standing at the top of the stairs in Blood Tavern.  Darkness \nprevails in the small hallway which runs east to west.  Below you is \nthe bar of human skin.",
+  "header_raw": "99 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9919
+    },
+    {
+      "dir": 3,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9921
+    },
+    {
+      "dir": 5,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9916
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

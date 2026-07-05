@@ -1,0 +1,21 @@
+{
+  "id": 570,
+  "zone_id": 5,
+  "name": "&MSuggestion Board&n",
+  "description": "&n   Here is the &MSuggestion Board&n room. Got any ideas for the Wardome Mud? Please\nfeel free to post it here! It can become true, you know...\n&n   You see the &mCommon Board&n to the east.",
+  "header_raw": "5 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see nothing special.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 501
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2320,
+  "alias": "oldstyle minotaur royal guard",
+  "short_desc": "the Royal Minotaur Guard",
+  "long_desc": "The royal minotaur guard considers you an intruder and attacks!",
+  "detailed_desc": "The royal guard is quite huge. He is dressed in heavy red armor and wields a\nhuge glaive. He looks quite capable of protecting the keep.",
+  "flags_raw": "110 8 -330 E",
+  "stats1_raw": "200 -84 -23 1d1+8796 5d21+100",
+  "stats2_raw": "3000 26655827 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/23.mob"
+}

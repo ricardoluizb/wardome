@@ -1,0 +1,37 @@
+{
+  "id": 17689,
+  "zone_id": 176,
+  "name": "An Upper Chamber of the Golden Citadel",
+  "description": "You are in one of the upper chambers of the Golden Citadel.  The decora-\ntions of this place surpass even those of the first floor.  Gold tiles etched\nwith platinum cover the floor, walls and the ceiling.  The lights from numerous\ntorches reflect from these shimmering planes, giving the illusion that you are\nstanding in a gem.  Stairways lead up and down, and the hall leads west.",
+  "header_raw": "176 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17688
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17694
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17672
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/176.wld"
+}

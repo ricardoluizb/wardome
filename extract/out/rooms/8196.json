@@ -1,0 +1,21 @@
+{
+  "id": 8196,
+  "zone_id": 81,
+  "name": "The Guard Chamber",
+  "description": "Behind that brazen door, the goblin's deadliest warriors wait until\nthe Great Goblin sends them to ravage Lonoya.  Can you slay these\nfoul creatures, or will you flee?",
+  "header_raw": "81 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "A crossing of passages lies west of here.",
+      "keywords": "brass door",
+      "door_flag": 2,
+      "key": 8102,
+      "to": 8194
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

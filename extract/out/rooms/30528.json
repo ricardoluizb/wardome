@@ -1,0 +1,29 @@
+{
+  "id": 30528,
+  "zone_id": 305,
+  "name": "The Sewer",
+  "description": "You are walking through this sewer, now you are sure this isnt the normal\nWardome Sewer, it is different.  Where are those rats and bats that you could\nkill easily?    \n  The Sewer continues south and east.",
+  "header_raw": "305 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30527
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30529
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/305.wld"
+}

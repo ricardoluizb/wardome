@@ -1,0 +1,34 @@
+{
+  "id": 17303,
+  "zone_id": 173,
+  "name": "The Forest Arden",
+  "description": "You are on a path in the great forest Arden. Boy you wish there wern't\nso many of those pesky knats. The trail leads south and east.",
+  "header_raw": "173 64 3",
+  "flags_text": "64",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A dirty trail",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17302
+    },
+    {
+      "dir": 2,
+      "description": "A dirty trail",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17304
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "knats",
+      "description": "They sure are pesky!"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

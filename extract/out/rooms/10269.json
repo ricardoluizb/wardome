@@ -1,0 +1,29 @@
+{
+  "id": 10269,
+  "zone_id": 102,
+  "name": "Towards Dead End",
+  "description": "You are in a strange room, a strange gloom seems to emanate from\nthe north, the strings on the walls seems to be forming a kind of\nhypnotic patern, going from black to white, red to blue.",
+  "header_raw": "102 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10270
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10264
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

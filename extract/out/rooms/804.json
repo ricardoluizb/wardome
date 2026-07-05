@@ -1,0 +1,21 @@
+{
+  "id": 804,
+  "zone_id": 7,
+  "name": "Octagonal Room",
+  "description": "As you enter, you see a bright light spinning in the center of this\noctagonal room.  Also, there are many bones of prior adventurers\nstrewn about.  Unfortunately, the door DID disappear behind you\nagain...  the only way out is east.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 805
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

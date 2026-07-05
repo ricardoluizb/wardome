@@ -1,0 +1,12 @@
+{
+  "id": 8125,
+  "alias": "dwarf",
+  "short_desc": "a dwarf",
+  "long_desc": "A drunken Dwarf rests here, singing loud enough to wake the dead.",
+  "detailed_desc": "It takes more than a beer or two to intoxicate the sturdy mountain folk;\nhe must have had enough to stun a giant.",
+  "flags_raw": "200 1024 400 E",
+  "stats1_raw": "150 -77 -29 1d1+17400 5d46+170",
+  "stats2_raw": "2250 16400210 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

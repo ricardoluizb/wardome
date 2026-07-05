@@ -1,0 +1,38 @@
+{
+  "id": 8175,
+  "zone_id": 81,
+  "name": "The Chieftain's Quarters",
+  "description": "This is obviously the chamber of a goblin chief, but you still wouldn't\nwant to live here.  A pallet of vermin-ridden furs is piled on a stone\nslab that serves as a bed.  Not even a dwarf would like such a life! \nThe walls are scrawn all over with orc-runes and signs, and decorated \nwith scalps and skulls.  You would not live long if the chief found\nyou here.",
+  "header_raw": "81 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A bronze door leads north. It has some symbols on it.",
+      "keywords": "door bronze",
+      "door_flag": 2,
+      "key": 8102,
+      "to": 8160
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "wall walls orc runes",
+      "description": "What you can read says:\n               Dy kng Korbor! Todstol lede sune!"
+    },
+    {
+      "keywords": "signs",
+      "description": "All have a shield with a cross and stag on it, splotched with black, \nand hacked with some instrument."
+    },
+    {
+      "keywords": "door symbols",
+      "description": "It is damaged, but still shows the star and anvil of the Dwarven king\nBog Grundelgrin.  So these were once his halls."
+    },
+    {
+      "keywords": "scalps skulls",
+      "description": "Many are human, but a few are elven."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

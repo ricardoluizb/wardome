@@ -1,0 +1,12 @@
+{
+  "id": 8139,
+  "alias": "toadstool goblin chieftain",
+  "short_desc": "Toadstool the Goblin",
+  "long_desc": "Toadstool, chief of the forest goblins, shouts and throws things at you.",
+  "detailed_desc": "What does he throw? Rocks, mostly. Toadstool is taller than a dwarf, and\nugly as a toad. He is larger than any goblin you have seen, in fact; \nmaybe Toadstool is orcish or half-orcish.",
+  "flags_raw": "6248 1024 -500 E",
+  "stats1_raw": "159 -81 -30 1d1+18444 5d46+172",
+  "stats2_raw": "2385 19422044 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

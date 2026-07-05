@@ -1,0 +1,12 @@
+{
+  "id": 5767,
+  "alias": "warlock",
+  "short_desc": "the Warlock of Firetop Mountain",
+  "long_desc": "The Warlock of Firetop Mountain stands proudly before you.",
+  "detailed_desc": "The Warlock has taken the form of a well-built young man, clad in robes of\nVelvet and Gold. Sparks fly from his gloved hands as he stares grimly at you,\nwaiting for you to move. Already, you know you are in for a heck of a fight...",
+  "flags_raw": "78 9404 -1000 E",
+  "stats1_raw": "40 -22 -12 1d1+4632 5d13+126",
+  "stats2_raw": "600 398410 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

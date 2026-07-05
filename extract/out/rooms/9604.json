@@ -1,0 +1,29 @@
+{
+  "id": 9604,
+  "zone_id": 96,
+  "name": "Dark passage and it narrows",
+  "description": "You notice that the passage is very dark, even with illumination it is\ndifficult to see, the passage continues in decline to the east.",
+  "header_raw": "96 321 0",
+  "flags_text": "321",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9605
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9603
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/96.wld"
+}

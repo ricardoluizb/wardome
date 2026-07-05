@@ -1,0 +1,12 @@
+{
+  "id": 711,
+  "alias": "Ginger shopkeeper",
+  "short_desc": "the Shopkeeper",
+  "long_desc": "The shopkeeper smiles at you as you enter her store.",
+  "detailed_desc": "The shopkeeper here is the legendary Bob's wife Ginger.  She welcomes\nyou to her establishment and invites you to browse as long as you\nwish.",
+  "flags_raw": "24586 128 900 E",
+  "stats1_raw": "100 -40 -12 1d1+6792 5d21+90",
+  "stats2_raw": "1500 3791433 5",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

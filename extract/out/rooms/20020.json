@@ -1,0 +1,37 @@
+{
+  "id": 20020,
+  "zone_id": 200,
+  "name": "Main Room",
+  "description": "The wooden bar runs along the length of the western wall, just in front of the\nmany shelves of different colored alcohol in different shaped bottles.  You\nespy drunkards and waitresses, adventurers and farmers althroughout the\nbuilding from this vantage point, and guess that this establishment is turning\na pretty penny in profits.  Nice.",
+  "header_raw": "200 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20013
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20019
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20021
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/200.wld"
+}

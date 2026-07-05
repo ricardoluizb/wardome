@@ -1,0 +1,37 @@
+{
+  "id": 11281,
+  "zone_id": 112,
+  "name": "A Stinking Sewer",
+  "description": "The grate opens onto a stinking sewer, the place where residents of the\ntown deposit their waste. Why in the seven hells would you want to venture\nforth into here? You shake your head in amazement at your avarice, which\ndrives you to such insane places.",
+  "header_raw": "112 13 0",
+  "flags_text": "13",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11283
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11285
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "grate",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11222
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

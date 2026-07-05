@@ -1,0 +1,21 @@
+{
+  "id": 14262,
+  "zone_id": 141,
+  "name": "Lord British's Castle Entrance",
+  "description": "This building is awe-inspiring.  Just smaller then Yaz's own. \nAnyway Lord British's personal Jester is here to entertain you.",
+  "header_raw": "141 64 0",
+  "flags_text": "64",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a fountain.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14263
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

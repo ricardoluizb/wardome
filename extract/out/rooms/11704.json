@@ -1,0 +1,21 @@
+{
+  "id": 11704,
+  "zone_id": 117,
+  "name": "&GG&glenn&c's house.",
+  "description": "&GG&glenn&n lives here since the great battle against Lavos ended and the party\nwas disband.  &GG&glenn&n remains like a frog, but it doesn't bore him anymore,\nhe could live like this forever with the memories of the great jorney he made\nwith Chronos.  The house looks clean and well arranged with some small pieces\nof wodden used like small sofa.",
+  "header_raw": "117 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 11703
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/117.wld"
+}

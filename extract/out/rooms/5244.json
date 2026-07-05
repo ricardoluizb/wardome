@@ -3,8 +3,8 @@
   "zone_id": 52,
   "name": "An Upright House",
   "description": "This home is practically the only one around that is still standing.\nExcept for the massive hole in the east wall, everything else looks\nintact, including the windows.  Great amounts of steam issue forth from\nthe hole in the east wall.",
-  "header_raw": "52 d 1",
-  "flags_text": "d",
+  "header_raw": "52 8 1",
+  "flags_text": "8",
   "sector": 1,
   "exits": [
     {

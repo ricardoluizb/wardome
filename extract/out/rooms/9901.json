@@ -1,0 +1,53 @@
+{
+  "id": 9901,
+  "zone_id": 99,
+  "name": "City limits of Ghenna.",
+  "description": "You are standing inside the city limits of Ghenna.  Once a booming \nbarter town, it is now a haven for the evil which it bred over long \nyears under the rule of the hubristic Lord Suzerain.  In virtually \nevery corner you see ruins of some sort or another intermingled with \nold, age-whitened bones from all manner of beasts. \n  Exits lead in all cardinal directions.",
+  "header_raw": "99 1 1",
+  "flags_text": "1",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9902
+    },
+    {
+      "dir": 1,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9959
+    },
+    {
+      "dir": 2,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9903
+    },
+    {
+      "dir": 3,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9957
+    },
+    {
+      "dir": 4,
+      "description": "Too dark to tell.",
+      "keywords": "platform",
+      "door_flag": 1,
+      "key": 0,
+      "to": 9900
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

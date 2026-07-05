@@ -1,0 +1,29 @@
+{
+  "id": 17615,
+  "zone_id": 176,
+  "name": "Fields",
+  "description": "You are among the wheat fields.  The gentle caress of the wheat and the\ncool shadow from the tall stalks and scarecrow lulls you to sleep and dream\nof a little girl and little dog from a faraway place.  To the east are the corn\nstalks, and south of you are the vegetable patches.",
+  "header_raw": "176 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see the corn fields.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17612
+    },
+    {
+      "dir": 2,
+      "description": "You see the vegetable patches.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17614
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/176.wld"
+}

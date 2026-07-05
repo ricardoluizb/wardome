@@ -1,0 +1,26 @@
+{
+  "id": 2391,
+  "zone_id": 23,
+  "name": "Amyrok's Arcane Study",
+  "description": "This room is full of shelves which hold various spell components. The center\nof the room is occupied by a huge pentagram. The entire room smells of smoke\nand incense. The room is obviously used extensively by a practicing mage. A\n&Mpink&n door leads west.",
+  "header_raw": "23 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "You see a &Mpink&n door there.",
+      "keywords": "door pink",
+      "door_flag": 2,
+      "key": 2354,
+      "to": 2389
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "maroon",
+      "description": "It looks like it leads back to the hall."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 6746,
+  "producing": [
+    6739,
+    6740,
+    6741,
+    6742
+  ],
+  "profit_buy": 1.2,
+  "profit_sell": 0.2,
+  "buy_types": [
+    "5"
+  ],
+  "messages": [
+    "%s I do not forge that weapon, try list.",
+    "%s You seem fresh out of those.",
+    "%s Ah! I haven't seen the like of that in years! I cannot afford it.",
+    "%s You haven't the means to pay for this.",
+    "%s My art is purely offensive. Try somewhere else.",
+    "%s A fine selection for %d coins.",
+    "%s Here you are, %d coins. Now be off."
+  ],
+  "tail": [
+    2,
+    2,
+    6733,
+    0,
+    6746,
+    -1,
+    0,
+    28,
+    0,
+    0
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/67.shp"
+}

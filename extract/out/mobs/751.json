@@ -1,0 +1,12 @@
+{
+  "id": 751,
+  "alias": "goblin",
+  "short_desc": "a goblin",
+  "long_desc": "A goblin launches into a frenzied attack!",
+  "detailed_desc": "You see the bloodlust in its eyes, and know there's no reasoning with\nthis creature...",
+  "flags_raw": "4138 168 -600 E",
+  "stats1_raw": "80 -30 -9 1d1+5436 5d17+82",
+  "stats2_raw": "1200 2011376 5",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

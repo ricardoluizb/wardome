@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Chamber Of Darkness",
   "description": "You are in a vast chamber.  The walls fade into darkness, leaving you\nwith a very vague idea of the actual size of the room.  Swirling here and\nthere in the dark, are patches of pure black which seem to suck in your\nlight and leave it that much darker here.",
-  "header_raw": "25 adg 0",
-  "flags_text": "adg",
+  "header_raw": "25 73 0",
+  "flags_text": "73",
   "sector": 0,
   "exits": [
     {

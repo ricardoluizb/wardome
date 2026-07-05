@@ -1,0 +1,12 @@
+{
+  "id": 20018,
+  "alias": "adventurer",
+  "short_desc": "an adventurer",
+  "long_desc": "An adventurer babbles about some monster he killed.",
+  "detailed_desc": "His tales are pretty much full of it, and his equipment sucks.  Cannon fodder.",
+  "flags_raw": "1208392 1032 -500 E",
+  "stats1_raw": "165 -68 -19 1d1+8580 5d17+96",
+  "stats2_raw": "2475 15449810 3",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/200.mob"
+}

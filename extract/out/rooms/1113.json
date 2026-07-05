@@ -1,0 +1,45 @@
+{
+  "id": 1113,
+  "zone_id": 11,
+  "name": "Bywater Road",
+  "description": "You stand on Bywater Road, the busiest street in all of Shiredom.  The road\ncontinues to the north.  The private residences of Shire inhabitants are to\nthe east and west while to the south lies the Ivy Bush, second only to the\nGreen Dragon for its hospitality and service.",
+  "header_raw": "11 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "To the north runs Bywater Road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1112
+    },
+    {
+      "dir": 1,
+      "description": "You spy the private dwelling of a Shire folk to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1195
+    },
+    {
+      "dir": 2,
+      "description": "To the south you see the Ivy Bush, a favorite haunt of Shire urbanites and\nseasoned travelers.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1116
+    },
+    {
+      "dir": 3,
+      "description": "You spy the private dwelling of a Shire folk to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1196
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 5758,
+  "zone_id": 57,
+  "name": "A Junction",
+  "description": "You have reached yet another junction, where you can head east, west, or south to \na strange-looking bench. There is a door to the far east, but you can hear\nnothing coming from that direction.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "a junction",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5759
+    },
+    {
+      "dir": 2,
+      "description": "a bench",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5757
+    },
+    {
+      "dir": 3,
+      "description": "a bend",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5761
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

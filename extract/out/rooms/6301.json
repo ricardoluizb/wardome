@@ -3,8 +3,8 @@
   "zone_id": 63,
   "name": "The Webbed Entrance",
   "description": "Sticky, sticky, sticky!  The ground is cluttered with leaves,\ndecayed remains of webbed crickets, beetle, rats, dogs, and even\nhumans.  You begin to wonder about what lies ahead.  The air is\ndamp here, and even the little light that shines through the\ncanopy seems to be absorbed into the webbing.",
-  "header_raw": "63 c 1",
-  "flags_text": "c",
+  "header_raw": "63 4 1",
+  "flags_text": "4",
   "sector": 1,
   "exits": [
     {

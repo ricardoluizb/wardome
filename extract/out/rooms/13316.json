@@ -1,0 +1,29 @@
+{
+  "id": 13316,
+  "zone_id": 132,
+  "name": "The South Wall",
+  "description": "You are traveling along the south wall.  You see nothing but the stone wall\nand blue sky to the south.  Homes are north and the road continues east and\nwest.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "south wall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13317
+    },
+    {
+      "dir": 3,
+      "description": "south wall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13315
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

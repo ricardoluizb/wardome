@@ -1,0 +1,29 @@
+{
+  "id": 28535,
+  "zone_id": 285,
+  "name": "The main living room",
+  "description": "This room is decorated with sturdy stone furniture that is carved and \ngilded. Large candles light the room. A thick rug covers the floor. Thick \nfurs and tapestries decorate the walls. Beaded doorways lead south and west.",
+  "header_raw": "285 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28536
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28526
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/285.wld"
+}

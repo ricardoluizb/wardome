@@ -1,0 +1,21 @@
+{
+  "id": 28518,
+  "zone_id": 285,
+  "name": "A small guard house",
+  "description": "You enter a small, but warm, guard house. Deep rugs and thick curtains\ninsulate the room. A huge fireplace lights and warms the room. Outside, \nyou hear the roar of the wind. A small door leads north out into the street.",
+  "header_raw": "285 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28517
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/285.wld"
+}

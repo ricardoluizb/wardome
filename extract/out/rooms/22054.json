@@ -1,0 +1,45 @@
+{
+  "id": 22054,
+  "zone_id": 220,
+  "name": "In the maze",
+  "description": "Of all the corridors, rooms and turns in the maze, this room has to be the\nstrangest. It seems that the walls have been pasted over with some sort of\neligant plaster that has peeled off in places. The ground is cold, and your\nfeet freeze, it seems to made of a thick titanium substance.",
+  "header_raw": "220 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22054
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22055
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22051
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22051
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/220.wld"
+}

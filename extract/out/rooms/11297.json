@@ -1,0 +1,21 @@
+{
+  "id": 11297,
+  "zone_id": 112,
+  "name": "Research Center",
+  "description": "The tunnel ends in a large cave, which is filled end to end with long\nwooden benches that strain under the weight of magical apparatus of all\nsorts, ranging from bubbling beakers and hissing alembics of fluid to heavy\nbronze bound tomes resting on iron bookstands. A vile smell fills the air, one\nthat is not unfamiliar to a seasoned adventurer who has trespassed into many\nan alchemical laboratory.",
+  "header_raw": "112 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11298
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

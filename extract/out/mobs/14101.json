@@ -1,0 +1,12 @@
+{
+  "id": 14101,
+  "alias": "bat",
+  "short_desc": "the bat",
+  "long_desc": "A black furry bat flies into your face.",
+  "detailed_desc": "You hear a high pitch screech.  It is a black furry bat.  This\nannoying creature usually travel in flocks, so WATCH OUT.",
+  "flags_raw": "264266 67634304 -500 E",
+  "stats1_raw": "10 13 7 1d1+360 5d2+14",
+  "stats2_raw": "150 8653 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

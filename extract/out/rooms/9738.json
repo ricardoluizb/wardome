@@ -1,0 +1,61 @@
+{
+  "id": 9738,
+  "zone_id": 97,
+  "name": "Second Floor",
+  "description": "You are on the second floor of this castle.  You are numb from your\ndiscoveries on the first floor, and wonder what secrets the upper floor of this\ncastle holds.  Hallways extend in all directions, and you see a small, closed \nhatch above you.",
+  "header_raw": "97 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9739
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9742
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9740
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9741
+    },
+    {
+      "dir": 4,
+      "description": "You see a sign on the hatch.  It reads 'Private Property. No trespassing!'",
+      "keywords": "hatch",
+      "door_flag": 1,
+      "key": -1,
+      "to": 9747
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9722
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/97.wld"
+}

@@ -4,9 +4,9 @@
   "short_desc": "the Cleaver",
   "long_desc": "The Cleaver is here eyeing you hungrily in anticipation of its next meal.",
   "detailed_desc": "The Cleaver is a huge spidery chittinous creature with four large\nspindly arms ending in cleaverlike talons that will surely cut you\nto ribbons.",
-  "flags_raw": "efglnopqr dhkp 0 S",
-  "stats1_raw": "20 3 -1 5d8+340 8d4+4",
-  "stats2_raw": "2000 65000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "256120 33928 0 E",
+  "stats1_raw": "120 -40 -8 1d1+3360 5d13+48",
+  "stats2_raw": "1800 4918761 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/79.mob"
 }

@@ -3,8 +3,8 @@
   "zone_id": 33,
   "name": "A Cave Entrance",
   "description": "A cave leads into the heart of the mountainside, well-\nlit by sconces upon the walls.  A large rock sits by \nthe side here, near a small firepit.  Debris litters the \narea; rabbit bones, half of a broken whetstone, and random\nlitter.  The ground is devoid of grass, and well trodden \nby many pairs of boots.  Strange that someone should live \nso deep in the mountains...",
-  "header_raw": "33 c 0",
-  "flags_text": "c",
+  "header_raw": "33 4 0",
+  "flags_text": "4",
   "sector": 0,
   "exits": [
     {

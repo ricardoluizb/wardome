@@ -3,8 +3,8 @@
   "zone_id": 30,
   "name": "The Mages' Laboratory",
   "description": "This is the Magical Experiments Laboratory.  Dark smoke-stained stones\narch over numerous huge oaken tables, most of these cluttered with strange-\nlooking pipes and flasks.  The floor is covered with half-erased pentagrams\nand even weirder symbols, and a blackboard in a dark corner has only been\npartially cleaned, some painful-looking letters faintly visible.  A well in\nthe middle of the floor leads down into darkness.  Vile smells waft from the\ndepths.",
-  "header_raw": "30 cd 0",
-  "flags_text": "cd",
+  "header_raw": "30 12 0",
+  "flags_text": "12",
   "sector": 0,
   "exits": [
     {

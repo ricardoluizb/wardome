@@ -1,0 +1,12 @@
+{
+  "id": 11578,
+  "alias": "waiter",
+  "short_desc": "the waiter",
+  "long_desc": "A waiter is going around from one place to another.",
+  "detailed_desc": "A tired looking waiter.",
+  "flags_raw": "24587 1024 0 E",
+  "stats1_raw": "40 -4 1 1d1+1752 5d5+36",
+  "stats2_raw": "600 280201 2",
+  "stats3_raw": "8 8 1 -1 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

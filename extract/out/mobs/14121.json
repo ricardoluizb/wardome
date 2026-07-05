@@ -1,0 +1,12 @@
+{
+  "id": 14121,
+  "alias": "troll",
+  "short_desc": "the troll",
+  "long_desc": "A stony troll swings his club.",
+  "detailed_desc": "This huge monster is immense and powerful.  Over a chest and a\nhead taller then you, his meaty arms swing a club at you!",
+  "flags_raw": "2056 1152 -1000 E",
+  "stats1_raw": "70 -17 -2 1d1+2520 5d8+38",
+  "stats2_raw": "1050 1290118 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

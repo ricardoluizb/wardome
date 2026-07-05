@@ -1,0 +1,29 @@
+{
+  "id": 17395,
+  "zone_id": 173,
+  "name": "Angle Raid!",
+  "description": "You are in the whirling chaos of an Angle raid on this farming village.\nFarmers are defending themselves from the raiders with their farm tools.\nWomen are gathering the children and running north. Some unlucky women \nare being raped by the brutish Angles, who are so named for the long \nangled polearm they use. The village is on fire, and you can make out \nthe raider ship on the shore to the west.",
+  "header_raw": "173 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "To where everybody else is fleeing",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17392
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

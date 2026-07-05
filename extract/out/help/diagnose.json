@@ -6,5 +6,5 @@
     "DIAGNOSE"
   ],
   "body": "Uso: diagnose [personagem]\n\n    O comando DIAGNOSE lhe diz o quanto um personagem parece ferido. Se voce estiver em uma \nluta, vc pode usar diagnose sem argumentos para diagnosticar seu adversario.\n\nExemplos:\n\n    > diagnose\n    > diagnose rasmussen\n\n    Veja tambem: CONSIDER",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/text/help/help"
 }

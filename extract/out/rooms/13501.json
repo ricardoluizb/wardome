@@ -1,0 +1,29 @@
+{
+  "id": 13501,
+  "zone_id": 135,
+  "name": "Before The Dragon",
+  "description": "You stand before the Dragon Ancalador.  You can still make out\nits petrified form despite the earth that has filled in the crevices\nbetween its limbs and the huge oaks, dwarfed by the dragon itself,\nwhich have grown there.  A vague evil emanates from the once-alive\nstone that terrorized nations long ago.",
+  "header_raw": "135 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The huge maw lies frozen in midsnarl.  You could find enough purchase\nto scale the tongue and enter inside, should you want to.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13502
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13500
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

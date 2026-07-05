@@ -1,0 +1,12 @@
+{
+  "id": 3810,
+  "alias": "rat were wererat leader",
+  "short_desc": "the wererat leader",
+  "long_desc": "A bulky rat-beast is here, enraged that you have intruded upon its room!",
+  "detailed_desc": "This beast looks like a combination rat and human, as it has properties of\nboth, namely standing erect, wielding a weapon, but with fur, ears, and tail\nof a rat.  This one is different from the others, since it is better attired\nand also much bigger.",
+  "flags_raw": "42 0 -700 E",
+  "stats1_raw": "17 12 7 1d1+351 5d2+6",
+  "stats2_raw": "255 24976 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/38.mob"
+}

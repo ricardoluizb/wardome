@@ -4,9 +4,9 @@
   "short_desc": "the horse",
   "long_desc": "A horse stands here.",
   "detailed_desc": "You see one of the fine Arabian beasts known about the land.",
-  "flags_raw": "bgh 0 0 S",
-  "stats1_raw": "4 20 50 10d1+1 2d4+2",
-  "stats2_raw": "0 10",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "202 0 0 E",
+  "stats1_raw": "4 18 9 1d1+81 5d1+0",
+  "stats2_raw": "60 1089 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

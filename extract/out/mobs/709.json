@@ -1,0 +1,12 @@
+{
+  "id": 709,
+  "alias": "dealer",
+  "short_desc": "the Dealer",
+  "long_desc": "The dealer sets out a new hand for all to play.",
+  "detailed_desc": "The dealer looks at you flatly and says, 'Are you in or out?'  He\nreally doesn't seem to care one way or another.",
+  "flags_raw": "10 128 200 E",
+  "stats1_raw": "80 -30 -9 1d1+5436 5d17+82",
+  "stats2_raw": "1200 2011376 5",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

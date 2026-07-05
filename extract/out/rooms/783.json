@@ -1,0 +1,29 @@
+{
+  "id": 783,
+  "zone_id": 7,
+  "name": "Fountain Area",
+  "description": "Unpruned trees block out what little light there was outside the\ngarden in this close area.  A small fountain/pool of tarnished marble\nsits in the center, with scum and algae covering its surface.  Small\ncreatures flit deep in its depths, and you are not sure you want to\nknow exactly what they are.\n   You can head south, to the garden's entrance, or west, to a more\nopen area in the garden.",
+  "header_raw": "7 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 782
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 784
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

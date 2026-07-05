@@ -1,0 +1,29 @@
+{
+  "id": 10490,
+  "zone_id": 104,
+  "name": "Marble Hall",
+  "description": "You are walking down a white marble hallway. Large portraits of demons\nand devils adorn the walls on either side of you. As you look again you\nrealize that they aren't demons and devils after all, but lawyers....well ok...\ndepends on your point of view...\nThe hallway continues to the north.\nThere is an office to the south.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a white marble hallway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10480
+    },
+    {
+      "dir": 2,
+      "description": "You see an office.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10500
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

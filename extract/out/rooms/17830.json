@@ -1,0 +1,29 @@
+{
+  "id": 17830,
+  "zone_id": 178,
+  "name": "A Small Storage Room",
+  "description": "This is where the gnomes store all their spare weapons.  A door leads off\nto the east.",
+  "header_raw": "178 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a long hallway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17826
+    },
+    {
+      "dir": 1,
+      "description": "You see a small room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17831
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

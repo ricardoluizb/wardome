@@ -1,0 +1,29 @@
+{
+  "id": 11504,
+  "zone_id": 115,
+  "name": "Harbourplace East",
+  "description": "You are now in the eastern section of the harbour.  There are less of those\nannoying salespeople here, but there are more and more foreign tourists\nflashing their cameras.  The harbour continues to the south and west.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11509
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11502
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

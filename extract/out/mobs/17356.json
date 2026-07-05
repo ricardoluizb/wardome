@@ -1,0 +1,12 @@
+{
+  "id": 17356,
+  "alias": "leader pict",
+  "short_desc": "the Pict leader",
+  "long_desc": "The Pict leader is here, retreating from battle.",
+  "detailed_desc": "The Pict leader is covered in blue dye, giving him a fearsome demonic \nappearance which is further augmented by his reindeer horned helmet.",
+  "flags_raw": "10 0 -400 E",
+  "stats1_raw": "140 -50 -11 1d1+3912 5d15+56",
+  "stats2_raw": "2100 7674036 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/173.mob"
+}

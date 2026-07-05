@@ -1,0 +1,45 @@
+{
+  "id": 2012,
+  "zone_id": 20,
+  "name": "Trophy Room",
+  "description": "As you enter the trophy room you are blinded by light reflected from\ngoblets and bowls of precious metal, inlaid with rare stones. Oil paintings on\nthe wall tell of past victories, parchments speak of victories to come.\nMagical objects wrestled from evil creatures are on display behind strong walls\nforged by strong spells.",
+  "header_raw": "20 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2016
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2013
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2011
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2014
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

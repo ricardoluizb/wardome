@@ -1,0 +1,12 @@
+{
+  "id": 8156,
+  "alias": "slave",
+  "short_desc": "the human slave",
+  "long_desc": "An Ofintine works as a goblin slave, with no hope of escape.",
+  "detailed_desc": "The goblins captured her in a raid and now work her to death in their \nhuge mines.",
+  "flags_raw": "8 0 400 E",
+  "stats1_raw": "150 -77 -29 1d1+17400 5d46+170",
+  "stats2_raw": "2250 16400210 11",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

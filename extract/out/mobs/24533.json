@@ -1,0 +1,12 @@
+{
+  "id": 24533,
+  "alias": "bondsman",
+  "short_desc": "the bondsman",
+  "long_desc": "A bondsman is here, fleeing divine wrath.",
+  "detailed_desc": "The bondsman has somehow escaped his master.\nHe blames all his sins on his master.",
+  "flags_raw": "74 0 -400 E",
+  "stats1_raw": "125 -46 -11 1d1+5496 5d13+70",
+  "stats2_raw": "1875 6808983 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/245.mob"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 10216,
+  "zone_id": 102,
+  "name": "The Corridor",
+  "description": "You are in a stone silent corridor, from here you can hear some echoes\nof iron tingling. Some weapons seems to be drawned far to the west, there\nis also a bifurcattion giving you the option to follow the echoes or\nleading north to the unknown.",
+  "header_raw": "102 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10222
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10215
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10217
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

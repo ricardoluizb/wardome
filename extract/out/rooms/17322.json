@@ -1,0 +1,29 @@
+{
+  "id": 17322,
+  "zone_id": 173,
+  "name": "The Chasm",
+  "description": "You stand at the brink of a deep chasm. The rope bridge across it has\nbeen cut by some vile villian and lies hanging down into the chasm.\nYou can either climb down the bridge into the chasm or head to the\ngreen field to the east.",
+  "header_raw": "173 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A green field",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17325
+    },
+    {
+      "dir": 5,
+      "description": "Hanging on the Rope Bridge",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17321
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 500,
+  "zone_id": 5,
+  "name": "&GThe Wardome Preparation Room&n",
+  "description": "Here you can prepare yourself for the battle... Only begginers stay here. You will pass the first level here and after this, will be transfered for the Battle WarDome.\nThere's a SIGN here.\n&GTO START TYPE: INFO&n",
+  "header_raw": "5 212 0",
+  "flags_text": "212",
+  "sector": 0,
+  "exits": [],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "This zone only have 20 rooms. You will only pass the first level here, and after the level, you will finally enter the Wardome."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

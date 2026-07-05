@@ -1,0 +1,45 @@
+{
+  "id": 8296,
+  "zone_id": 82,
+  "name": "A Strange Passage",
+  "description": "You are in a strang passage, it looks like a cave, but is very iluminated and\nit hasnt any light like candles or torchs. At north and south of you, you can\nsee some strange portals that takes you to diferent and strange worlds. Just \nopen them and enter if you dear.",
+  "header_raw": "82 96 0",
+  "flags_text": "96",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "portal",
+      "door_flag": 1,
+      "key": 0,
+      "to": -1
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8297
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "portal",
+      "door_flag": 1,
+      "key": 0,
+      "to": -1
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8296
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

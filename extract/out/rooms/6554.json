@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "The Treasury",
   "description": "This room appears to be the Queen's Treasury.  There is one\nexit, back to the east.",
-  "header_raw": "65 dj 1",
-  "flags_text": "dj",
+  "header_raw": "65 520 1",
+  "flags_text": "520",
   "sector": 1,
   "exits": [
     {

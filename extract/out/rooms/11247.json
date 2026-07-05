@@ -1,0 +1,29 @@
+{
+  "id": 11247,
+  "zone_id": 112,
+  "name": "A Summoning Circle",
+  "description": "The stairs pass through a large circular chamber here, originally some\nsort of summoning area, which has been converted to sleeping quarters for\nmore goblins, bodyguards no doubt for whatever has taken over the mage's\nprivate chambers at the top of the tower, which lies at the end of the stair.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11248
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11246
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

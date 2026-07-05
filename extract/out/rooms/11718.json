@@ -1,0 +1,45 @@
+{
+  "id": 11718,
+  "zone_id": 117,
+  "name": "The central cemetery.",
+  "description": "You are standing in the middle of the graveyard, some tumbs and graves are\nfixed in the ground with names inscribed on it.  For a second you lost your\nmind thinking in how great this one was to be buried here.  To the south you\ncan see a great chamber, left and east are the rest of the cemetery tumbs.",
+  "header_raw": "117 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11717
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11719
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11721
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11720
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/117.wld"
+}

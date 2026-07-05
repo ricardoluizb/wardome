@@ -1,0 +1,12 @@
+{
+  "id": 20104,
+  "alias": "monk",
+  "short_desc": "a monk",
+  "long_desc": "A monk is here practicing his skills. Watch it!",
+  "detailed_desc": "You take a step back to ensure you're out of the range of his deadly moves.",
+  "flags_raw": "14 16777216 201 E",
+  "stats1_raw": "80 -34 -12 1d1+6720 5d17+102",
+  "stats2_raw": "1200 2127417 7",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/201.mob"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 26600,
+  "zone_id": 266,
+  "name": "Mud School",
+  "description": "You are in the Wardome Mud School.\nYou will now learn how to play this nice mud. We,\nfrom the wardome staff, hopes that you enjoy this mud.\n&CIf you want to learn how to play in english type 'E or East'.&n\n&GSe vc quiser aprender a jogar em portugues tecle 'W ou West'.&n\n&w &n\n&RNota&W: O MUD eh inteiramente em ingles, feita a excessao dessa zone.\nSomente essa zona de aprendizado eh escrita em 2 linguas.",
+  "header_raw": "266 1310740 0",
+  "flags_text": "1310740",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26613
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26601
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/266.wld"
+}

@@ -4,9 +4,9 @@
   "short_desc": "the dracolich",
   "long_desc": "A pile of bones rises up to form a skeletal dracolich.",
   "detailed_desc": "The dracolich is now only bone with pieces of flesh hanging from it.\nObviously it no longer fears death.",
-  "flags_raw": "abeflnopq bdfhkp -1000 S",
-  "stats1_raw": "24 0 -6 1d12+520 3d5+35",
-  "stats2_raw": "75000 125000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "124987 33962 -1000 E",
+  "stats1_raw": "30 5 5 1d1+630 5d4+12",
+  "stats2_raw": "450 116491 0",
+  "stats3_raw": "8 8 0 4 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/50.mob"
 }

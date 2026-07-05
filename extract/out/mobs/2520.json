@@ -4,9 +4,9 @@
   "short_desc": "the student",
   "long_desc": "A student of spells is here looking quite bored.",
   "detailed_desc": "The student yawns.",
-  "flags_raw": "abcgh dk 350 S",
-  "stats1_raw": "8 9 1 8d8+80 2d4+6",
-  "stats2_raw": "263 3000",
-  "stats3_raw": "6 6 1",
+  "flags_raw": "207 1032 350 E",
+  "stats1_raw": "140 -50 -11 1d1+3912 5d15+56",
+  "stats2_raw": "2100 7674036 0",
+  "stats3_raw": "6 6 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

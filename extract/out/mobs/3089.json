@@ -1,12 +1,12 @@
 {
   "id": 3089,
-  "alias": "pet shop boy",
-  "short_desc": "the Pet Shop Boy",
+  "alias": "zombie pet shop boy",
+  "short_desc": "the zombie pet shop boy",
   "long_desc": "There is a Pet Shop Boy standing here cuddleing something furry in his hands.",
-  "detailed_desc": "As you look at him, he opens his hands to reveal a rat!",
-  "flags_raw": "blno 0 1000 S",
-  "stats1_raw": "10 10 1 1d1+30000 20d4+10",
-  "stats2_raw": "500 9000",
-  "stats3_raw": "8 8 1",
+  "detailed_desc": "As you look at him, he opens his hands to reveal a dead rat!",
+  "flags_raw": "26634 0 -500 E",
+  "stats1_raw": "180 -70 -17 1d1+5040 5d19+72",
+  "stats2_raw": "2700 21194290 0",
+  "stats3_raw": "8 8 1 9 19",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

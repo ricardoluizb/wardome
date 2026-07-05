@@ -1,0 +1,29 @@
+{
+  "id": 10183,
+  "zone_id": 101,
+  "name": "The tunnel",
+  "description": "You are in a tunnel, which turns here.  The tunnel continues to the east and\nthe south.",
+  "header_raw": "101 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10184
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10182
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/101.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 70,
   "name": "The Sewer Store Room",
   "description": "You stand in a small room lit by a single torch set in the wall.  The only \nway out of here is to the north.",
-  "header_raw": "70 d 1",
-  "flags_text": "d",
+  "header_raw": "70 8 1",
+  "flags_text": "8",
   "sector": 1,
   "exits": [
     {

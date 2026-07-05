@@ -1,0 +1,12 @@
+{
+  "id": 10438,
+  "alias": "scream worker",
+  "short_desc": "I-scream worker",
+  "long_desc": "An I-scream worker runs from machine to machine.",
+  "detailed_desc": "It moves about so frantically you can't really get a chance to look at it.\nIt runs about screaming, 'I SCREAM, YOU SCREAM!\n&n\nWE ALL SCREAM FOR I SCREAM!!!'",
+  "flags_raw": "2058 8389768 0 E",
+  "stats1_raw": "110 -37 -8 1d1+3960 5d12+54",
+  "stats2_raw": "1650 5117119 1",
+  "stats3_raw": "8 8 0 0 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/104.mob"
+}

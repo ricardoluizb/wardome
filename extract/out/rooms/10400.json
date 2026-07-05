@@ -1,0 +1,21 @@
+{
+  "id": 10400,
+  "zone_id": 104,
+  "name": "&RThrone &rof &RSatan&n",
+  "description": "&rYou have entered the &RThrone &rof &RSatan&r, The room is light enough to\nsee, but rather dim.  A huge pentacle is layed out upon the floor, the dwemor\nof some evil magic is in the air.  The room, you see a brilliant &wTh&Wro&wne\n&wof &wCr&Wyst&wal&r, strange runes of gold are set into the throne.  &n",
+  "header_raw": "104 65 2",
+  "flags_text": "65",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "throne",
+      "door_flag": 2,
+      "key": 10536,
+      "to": 10536
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

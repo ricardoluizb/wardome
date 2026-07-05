@@ -1,0 +1,29 @@
+{
+  "id": 30012,
+  "zone_id": 300,
+  "name": "An elven home",
+  "description": "You stand within a small elven home.  It is not the most richly decorated house\nin all the Havens but the elves who live here do quite well for themselves.  \nUpon the painted walls are paintings of ships, coasts and crashing waves.  You\nsuspect that the owner has a deep affection for the sea and for sailing.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30013
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30011
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

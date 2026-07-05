@@ -1,0 +1,12 @@
+{
+  "id": 11527,
+  "alias": "orc lineman raider",
+  "short_desc": "the Orc lineman",
+  "long_desc": "A Raiders' lineman is here hunting for the ball.",
+  "detailed_desc": "This is one of Orcland's lineman.  He is a balanced player, but has no\noutstanding abilities.",
+  "flags_raw": "72 0 -100 E",
+  "stats1_raw": "50 -9 0 1d1+2196 5d6+40",
+  "stats2_raw": "750 514062 2",
+  "stats3_raw": "8 8 1 -1 5",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

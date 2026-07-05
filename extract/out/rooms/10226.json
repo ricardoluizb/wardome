@@ -1,0 +1,21 @@
+{
+  "id": 10226,
+  "zone_id": 102,
+  "name": "An Army's Quarter",
+  "description": "You are standing on a specie of reunion room of the army. There is a\nbig oak rounded table by the center of the room, with a large amount of\npapers spread. There is twenty chairs among the table's corner, and\nalmost no one is using those chairs.",
+  "header_raw": "102 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10225
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

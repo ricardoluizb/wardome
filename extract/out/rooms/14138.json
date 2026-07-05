@@ -1,0 +1,29 @@
+{
+  "id": 14138,
+  "zone_id": 141,
+  "name": "The Northwest Corner of the Tavern",
+  "description": "This is where the tavern entrance would be if it wasn't packed\nwith humans trying to get in or get out.  There is no chance of\nyou leaving the tavern tonight.you can return to the part to the\neast and the south.",
+  "header_raw": "141 72 0",
+  "flags_text": "72",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14139
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14141
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

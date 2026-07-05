@@ -3,8 +3,8 @@
   "zone_id": 79,
   "name": "The Artifact Room Of Naris",
   "description": "This is gloomy and dark room with only a faint light radiating from the\nwalls.  A bunch of funny-looking items fill the center of the room.  There\nis no furniture here what-so-ever.  The only way out seems to be west,\nthrough the low steel door.",
-  "header_raw": "79 cdj 0",
-  "flags_text": "cdj",
+  "header_raw": "79 524 0",
+  "flags_text": "524",
   "sector": 0,
   "exits": [
     {

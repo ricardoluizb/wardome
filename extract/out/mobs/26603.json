@@ -1,0 +1,12 @@
+{
+  "id": 26603,
+  "alias": "orc",
+  "short_desc": "a dumb orc",
+  "long_desc": "A dumb orc stands here.",
+  "detailed_desc": "It is a normal orc : Ugly, weak and dumb.",
+  "flags_raw": "8 0 0 E",
+  "stats1_raw": "1 20 10 1d1+18 5d1+0",
+  "stats2_raw": "15 215 0",
+  "stats3_raw": "8 8 1 0 5",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/266.mob"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 13386,
+  "zone_id": 132,
+  "name": "The Cavern",
+  "description": "The cave is very wide here and there are many raw gems glowing in the rock.\nYou see a skeleton in the corner that appears to have been impaled, but the \nobject that did so is nowhere to be found.  An unusual number of stalactites\nhang from the ceiling.  A dragon's snoring is rumbling from the east.",
+  "header_raw": "132 9 5",
+  "flags_text": "9",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "the treasure room",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13387
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13385
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

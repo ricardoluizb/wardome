@@ -1,0 +1,21 @@
+{
+  "id": 29554,
+  "zone_id": 295,
+  "name": "Aias the Greater's Tent",
+  "description": "This is the tent of Aias the Greater, the best archer of all the Achaeans,\nand a superb athlete. He is most probably currently competing in some\ncompetition even as we speak.",
+  "header_raw": "295 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29552
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/295.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 11585,
+  "alias": "drunk",
+  "short_desc": "the drunk",
+  "long_desc": "A singing, happy drunk.",
+  "detailed_desc": "A drunk who seems to be too happy, and to carry too much money.",
+  "flags_raw": "138 512 0 E",
+  "stats1_raw": "40 -4 1 1d1+1752 5d5+36",
+  "stats2_raw": "600 280201 2",
+  "stats3_raw": "8 8 1 -1 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

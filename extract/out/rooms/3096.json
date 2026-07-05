@@ -1,0 +1,29 @@
+{
+  "id": 3096,
+  "zone_id": 30,
+  "name": "The Chalange of Earth II",
+  "description": "You are in an unfinished room.",
+  "header_raw": "30 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "Door",
+      "door_flag": 1,
+      "key": 3062,
+      "to": 3097
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "Door",
+      "door_flag": 1,
+      "key": 32613,
+      "to": 3095
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/30.wld"
+}

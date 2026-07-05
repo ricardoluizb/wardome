@@ -1,0 +1,45 @@
+{
+  "id": 13289,
+  "zone_id": 132,
+  "name": "The East Market Square",
+  "description": "You are on the eastern market square.  The people of this section appear to\nbe friendlier, yet more suspicious of strangers.  The cleric's guild is south\nand the market continues north, east, and west.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "east market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13295
+    },
+    {
+      "dir": 1,
+      "description": "east market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13288
+    },
+    {
+      "dir": 2,
+      "description": "cleric guild",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13290
+    },
+    {
+      "dir": 3,
+      "description": "east market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13293
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

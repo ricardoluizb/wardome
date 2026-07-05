@@ -1,0 +1,29 @@
+{
+  "id": 29857,
+  "zone_id": 298,
+  "name": "The corridor of hope",
+  "description": "You are in the middle of a long corridor, you are tired, but you can see the\nlight, you RUN!",
+  "header_raw": "298 6291532 4",
+  "flags_text": "6291532",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29858
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29856
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/298.wld"
+}

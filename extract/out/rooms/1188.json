@@ -1,0 +1,21 @@
+{
+  "id": 1188,
+  "zone_id": 11,
+  "name": "&WS&wenhor&WA C&was&WA&n",
+  "description": "Casa?  Isso FOI uma casa um dia.  Hoje nao ve mais nada mais que: cuecas,\nmeias, roupas intimas de mulher, bebidas, garrafas, sofas rasgados tudo\nespalhado.  Mobilias muito empoeradas.  Parece ser muito pouco usada, bastante\narmas e armaduras velhas, enferrujadas.  Mais encontra armaduras e armas de\ngrandes mestres guerreiros.  Armas de magos muito consegtuados tabem.",
+  "header_raw": "11 9439808 0",
+  "flags_text": "9439808",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1104
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 102,
+  "zone_id": 1,
+  "name": "Climbing down the Cliff",
+  "description": "This climb is going to take forever!  You are still not even halfway down\nthe cliff and it seems like the closer to the forest you get, the darker and\nmore forboding it gets.  Not to mention every time you look down, a wave of\nnausea racks your body, making you almost lose your grip on the rungs.",
+  "header_raw": "1 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 101
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 103
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/1.wld"
+}

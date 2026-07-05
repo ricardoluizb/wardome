@@ -1,0 +1,45 @@
+{
+  "id": 8112,
+  "zone_id": 81,
+  "name": "The Market Square",
+  "description": "The clink of mail and the tramp of marching feet fill the air of\nthis once-peaceful square, as the citizens patrol their town, \nwatching out for enemies. A general store stands to the north.",
+  "header_raw": "81 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You hear someone cursing shoplifters.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8120
+    },
+    {
+      "dir": 1,
+      "description": "This market square is at least four times as large as Midgaard's.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8121
+    },
+    {
+      "dir": 2,
+      "description": "This market square is at least four times as large as Midgaard's.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8113
+    },
+    {
+      "dir": 3,
+      "description": "You really do hate Ofingia, don't you?",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8111
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

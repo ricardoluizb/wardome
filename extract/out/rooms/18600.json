@@ -2,9 +2,9 @@
   "id": 18600,
   "zone_id": 186,
   "name": "The Entrance To The Newbie Zone",
-  "description": "Ahhh... the entrance to the newbie zone!  Just the place you have\nbeen looking for.  Well, when you've readied yourself you can enter\nto the north.",
-  "header_raw": "186 c 1",
-  "flags_text": "c",
+  "description": "Ahhh... the entrance to the newbie zone!  Just the place you have\nbeen looking for.  Well, when you've readied yourself you can enter\nto the east.",
+  "header_raw": "186 1048580 1",
+  "flags_text": "1048580",
   "sector": 1,
   "exits": [
     {
@@ -13,6 +13,14 @@
       "keywords": "",
       "door_flag": 0,
       "key": -1,
+      "to": 3502
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
       "to": 18601
     },
     {
@@ -21,7 +29,15 @@
       "keywords": "",
       "door_flag": 0,
       "key": -1,
-      "to": 3061
+      "to": -1
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
     }
   ],
   "extra_descriptions": [],

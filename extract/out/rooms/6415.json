@@ -3,8 +3,8 @@
   "zone_id": 64,
   "name": "A Stairwell",
   "description": "This stairwell continues up and down, and there is a door\nto the west opening up onto this level.",
-  "header_raw": "64 ad 0",
-  "flags_text": "ad",
+  "header_raw": "64 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

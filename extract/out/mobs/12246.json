@@ -1,0 +1,12 @@
+{
+  "id": 12246,
+  "alias": "einheriar",
+  "short_desc": "an Einheriar",
+  "long_desc": "A strong norse warrior roars in bloodlust!",
+  "detailed_desc": "The souls of those slain in battle and gathered by valkyries, the\nEinheriar do battle daily upon the bloodsoaked battlefield of Valhalla,\nbeing reborn daily to do battle again, all in preperation for Ragnarok,\nwhen they will march under the command of the Aesir against the giants\nof Jotunheim.",
+  "flags_raw": "104 1024 0 E",
+  "stats1_raw": "50 -13 -3 1d1+3000 5d6+60",
+  "stats2_raw": "750 584745 4",
+  "stats3_raw": "8 8 1 9 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/122.mob"
+}

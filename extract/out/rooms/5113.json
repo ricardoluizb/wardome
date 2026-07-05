@@ -3,8 +3,8 @@
   "zone_id": 51,
   "name": "The Main Chamber",
   "description": "This is the council chamber for the Matron Mother herself.  A huge table\nand chairs surrounding it sits in the center of the room.",
-  "header_raw": "51 ad 0",
-  "flags_text": "ad",
+  "header_raw": "51 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

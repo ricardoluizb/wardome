@@ -1,0 +1,45 @@
+{
+  "id": 7768,
+  "zone_id": 77,
+  "name": "Inside the furnace",
+  "description": "You gasp for breath and choke on toxic sulphur and brimstone.  The sweat\non your forehead is instantly vaporized by the flames that surround you.  You\nbegin to feel faint and dizzy from the heat...\n\n... you'd better leave before you pass out and burn to a cinder!",
+  "header_raw": "77 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The flames blind you and obscure your vision.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7768
+    },
+    {
+      "dir": 1,
+      "description": "The flames blind you and obscure your vision.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": -1
+    },
+    {
+      "dir": 2,
+      "description": "The flames blind you and obscure your vision.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7768
+    },
+    {
+      "dir": 3,
+      "description": "The flames blind you and obscure your vision.",
+      "keywords": "door furnace",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7766
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/77.wld"
+}

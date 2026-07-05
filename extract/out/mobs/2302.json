@@ -1,0 +1,12 @@
+{
+  "id": 2302,
+  "alias": "oldstyle dweller cave creature",
+  "short_desc": "the Cave Dweller",
+  "long_desc": "A slimy, gross creature is here munching on a corpse.",
+  "detailed_desc": "The cave dweller looks like a mixture of several disgusting monsters. It has\na bird's beak, huge white eyes, a furry body, and long clawed hands and feet.\nIt sees you and snarls.",
+  "flags_raw": "42 262164 0 E",
+  "stats1_raw": "185 -76 -20 1d1+8136 5d19+94",
+  "stats2_raw": "2775 21228458 2",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/23.mob"
+}

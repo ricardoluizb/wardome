@@ -1,0 +1,21 @@
+{
+  "id": 30004,
+  "zone_id": 300,
+  "name": "The stables",
+  "description": "Wooden stables.  All around are stalls where the horses are kept.  Troughs of\nwater and sacks of feed provide nourishment for the horses.  You can tell that\nthe elves are very kind to their beasts.  A wooden sign is near the entrance.",
+  "header_raw": "300 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30003
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

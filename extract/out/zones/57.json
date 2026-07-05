@@ -1,0 +1,1704 @@
+{
+  "id": 57,
+  "name": "The Firetop Mountain",
+  "header": {
+    "raw": "5899 240 1 2",
+    "min_room": 5899,
+    "top_room": 240,
+    "lifespan": 1,
+    "reset_mode": 2
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5765,
+        1,
+        5829
+      ],
+      "comment": "(a mighty Minotaur)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5808,
+        1,
+        -1
+      ],
+      "comment": "(a red key)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5789,
+        1,
+        5829
+      ],
+      "comment": "(a vase full of liquid)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5790,
+        1,
+        5829
+      ],
+      "comment": "(a red clay bowl)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        5791,
+        1,
+        5790
+      ],
+      "comment": "(some coins)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        30203,
+        1,
+        5829
+      ],
+      "comment": "(Strange armor)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5754,
+        0,
+        1
+      ],
+      "comment": "(A Corridor)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5738,
+        5,
+        1
+      ],
+      "comment": "(A Pit)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5737,
+        1,
+        1
+      ],
+      "comment": "(A Door)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5735,
+        1,
+        5739
+      ],
+      "comment": "(an Orc sentry)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5735,
+        2,
+        8
+      ],
+      "comment": "(a suit of leather armor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5736,
+        1,
+        16
+      ],
+      "comment": "(a polearm)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5737,
+        2,
+        5739
+      ],
+      "comment": "(a bottle of Orc grog)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5740,
+        3,
+        1
+      ],
+      "comment": "(A Corridor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5736,
+        1,
+        5741
+      ],
+      "comment": "(a sleeping Orc)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5738,
+        1,
+        5741
+      ],
+      "comment": "(an Orc's box)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        5740,
+        1,
+        5738
+      ],
+      "comment": "(a dead mouse)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5748,
+        5,
+        5741
+      ],
+      "comment": "(a staw mattress)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5742,
+        3,
+        1
+      ],
+      "comment": "(A Corridor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5737,
+        1,
+        5743
+      ],
+      "comment": "(a small snake)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5741,
+        1,
+        -1
+      ],
+      "comment": "(a bronze-coloured key)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5748,
+        5,
+        5743
+      ],
+      "comment": "(a staw mattress)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5744,
+        3,
+        1
+      ],
+      "comment": "(A Corridor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5738,
+        3,
+        5745
+      ],
+      "comment": "(a drunken Orc)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5735,
+        2,
+        8
+      ],
+      "comment": "(a suit of leather armor)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5737,
+        2,
+        -1
+      ],
+      "comment": "(a bottle of Orc grog)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5742,
+        1,
+        5745
+      ],
+      "comment": "(a small wooden box with crude hinges)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        5743,
+        1,
+        5742
+      ],
+      "comment": "(a small leather-bound book)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5748,
+        5,
+        5745
+      ],
+      "comment": "(a staw mattress)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5747,
+        3,
+        1
+      ],
+      "comment": "(A Westward Corridor)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5749,
+        1,
+        1
+      ],
+      "comment": "(Outside the Kitchen)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5750,
+        1,
+        1
+      ],
+      "comment": "(A Corridor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5742,
+        1,
+        5751
+      ],
+      "comment": "(a deranged prisoner)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5751,
+        1,
+        16
+      ],
+      "comment": "(a chair leg)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5752,
+        1,
+        1
+      ],
+      "comment": "(A Corridor)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5755,
+        1,
+        5753
+      ],
+      "comment": "(a shield)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5754,
+        1,
+        1
+      ],
+      "comment": "(A Corridor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5743,
+        2,
+        5755
+      ],
+      "comment": "(a Goblin torturer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5753,
+        1,
+        16
+      ],
+      "comment": "(a wicked-looking knife)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5754,
+        1,
+        -1
+      ],
+      "comment": "(a piece of sweet-smelling cheese)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5752,
+        1,
+        5755
+      ],
+      "comment": "(a torture rack)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5803,
+        1,
+        5757
+      ],
+      "comment": "(a wooden bench)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5759,
+        0,
+        1
+      ],
+      "comment": "(A Junction)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5759,
+        1,
+        1
+      ],
+      "comment": "(A Junction)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5744,
+        1,
+        5760
+      ],
+      "comment": "(an iron Cyclops)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5756,
+        1,
+        -1
+      ],
+      "comment": "(an expensive-looking jewel)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5757,
+        1,
+        -1
+      ],
+      "comment": "(a small key)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5762,
+        0,
+        1
+      ],
+      "comment": "(Outside Three Doors)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5762,
+        1,
+        1
+      ],
+      "comment": "(Outside Three Doors)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5762,
+        3,
+        1
+      ],
+      "comment": "(Outside Three Doors)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5750,
+        1,
+        5763
+      ],
+      "comment": "(a giant Spider)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5767,
+        1,
+        5763
+      ],
+      "comment": "(a pair of boots)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5746,
+        1,
+        5764
+      ],
+      "comment": "(an old man)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5762,
+        1,
+        -1
+      ],
+      "comment": "(a blue candle)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5745,
+        1,
+        5765
+      ],
+      "comment": "(an insane Barbarian)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5758,
+        1,
+        5765
+      ],
+      "comment": "(an old box)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        5759,
+        1,
+        5758
+      ],
+      "comment": "(a wooden mallet)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        5760,
+        2,
+        5758
+      ],
+      "comment": "(a stump of wood)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5766,
+        0,
+        1
+      ],
+      "comment": "(A Black Corridor)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5766,
+        2,
+        1
+      ],
+      "comment": "(A Black Corridor)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5761,
+        1,
+        5767
+      ],
+      "comment": "(a painting of the Warlock)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5768,
+        2,
+        1
+      ],
+      "comment": "(A Fountain)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5792,
+        1,
+        5768
+      ],
+      "comment": "(a fountain)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5769,
+        0,
+        1
+      ],
+      "comment": "(A Pear-Shaped Room)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5764,
+        1,
+        5769
+      ],
+      "comment": "(a piece of y-shaped wood)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5765,
+        1,
+        5769
+      ],
+      "comment": "(a piece of rope)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5770,
+        0,
+        1
+      ],
+      "comment": "(A Corridor)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5770,
+        1,
+        1
+      ],
+      "comment": "(A Corridor)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5771,
+        2,
+        5771
+      ],
+      "comment": "(a sturdy oak table)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5769,
+        1,
+        5771
+      ],
+      "comment": "(a bronze helmet)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5770,
+        1,
+        5771
+      ],
+      "comment": "(an iron helmet)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5747,
+        1,
+        5773
+      ],
+      "comment": "(an old man who is a Wererat)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5804,
+        1,
+        5773
+      ],
+      "comment": "(a punt)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5772,
+        2,
+        1
+      ],
+      "comment": "(A Junction)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5749,
+        2,
+        5774
+      ],
+      "comment": "(a giant Bat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5748,
+        2,
+        5775
+      ],
+      "comment": "(a lumbering Neanderthal)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5763,
+        1,
+        16
+      ],
+      "comment": "(a crude stone club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5769,
+        1,
+        5776
+      ],
+      "comment": "(a crocodile)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5766,
+        1,
+        5777
+      ],
+      "comment": "(a magnificent-looking sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5755,
+        3,
+        5778
+      ],
+      "comment": "(a vicious Piranha)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5751,
+        1,
+        5781
+      ],
+      "comment": "(an Ogre)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5752,
+        1,
+        5789
+      ],
+      "comment": "(a Troll)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5790,
+        0,
+        1
+      ],
+      "comment": "(A Rough Cavern)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5753,
+        3,
+        5791
+      ],
+      "comment": "(a giant Rat)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5791,
+        0,
+        1
+      ],
+      "comment": "(Rat Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5754,
+        1,
+        5792
+      ],
+      "comment": "(a burly Giant)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5805,
+        1,
+        -1
+      ],
+      "comment": "(a jack of ale)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5793,
+        3,
+        1
+      ],
+      "comment": "(A Junction)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5794,
+        0,
+        1
+      ],
+      "comment": "(A Bend)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5770,
+        1,
+        5795
+      ],
+      "comment": "(a gas beast)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5806,
+        1,
+        5795
+      ],
+      "comment": "(a gold key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5756,
+        1,
+        5797
+      ],
+      "comment": "(a giant Sandworm)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5798,
+        0,
+        1
+      ],
+      "comment": "(The Other Side)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5739,
+        1,
+        5799
+      ],
+      "comment": "(an Orcish chieftain)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5800,
+        1,
+        16
+      ],
+      "comment": "(a bullwhip)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5801,
+        1,
+        3
+      ],
+      "comment": "(an Orcish cloak)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5802,
+        1,
+        13
+      ],
+      "comment": "(a pouch belt)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5740,
+        1,
+        5799
+      ],
+      "comment": "(an orcish servant)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5744,
+        1,
+        5799
+      ],
+      "comment": "(a sturdy chest)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        5745,
+        1,
+        5744
+      ],
+      "comment": "(a fair number of gold pieces)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        5746,
+        1,
+        5744
+      ],
+      "comment": "(a small black bottle with a tight glass stopper)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        5747,
+        1,
+        5744
+      ],
+      "comment": "(a black velvet glove)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5748,
+        5,
+        5799
+      ],
+      "comment": "(a staw mattress)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5741,
+        4,
+        5800
+      ],
+      "comment": "(an eating Orc)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5749,
+        1,
+        5800
+      ],
+      "comment": "(a tattered leather case)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        5750,
+        1,
+        5749
+      ],
+      "comment": "(a bow and a single silver arrow)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5801,
+        0,
+        1
+      ],
+      "comment": "(A Short Corridor)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5802,
+        2,
+        1
+      ],
+      "comment": "(A Short Corridor)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5803,
+        0,
+        1
+      ],
+      "comment": "(Room of Hands and Stars)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5803,
+        2,
+        1
+      ],
+      "comment": "(Room of Hands and Stars)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5768,
+        5,
+        5803
+      ],
+      "comment": "(a hand)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5804,
+        0,
+        1
+      ],
+      "comment": "(Outside a Door)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5760,
+        1,
+        5805
+      ],
+      "comment": "(a Guard Dog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5761,
+        1,
+        5805
+      ],
+      "comment": "(a Werewolf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5760,
+        1,
+        8
+      ],
+      "comment": "(a stump of wood)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5779,
+        1,
+        -1
+      ],
+      "comment": "(a bunch of keys)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5805,
+        3,
+        1
+      ],
+      "comment": "(Inside the Shipbuilder's Quarters)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5782,
+        1,
+        5806
+      ],
+      "comment": "(a jar)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        5781,
+        1,
+        5782
+      ],
+      "comment": "(some pickled eggs)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5807,
+        0,
+        1
+      ],
+      "comment": "(A Short Dark Corridor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5759,
+        4,
+        5808
+      ],
+      "comment": "(a Zombie)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5772,
+        1,
+        5
+      ],
+      "comment": "(a suit of leather armor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5773,
+        1,
+        11
+      ],
+      "comment": "(a wooden shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5774,
+        1,
+        16
+      ],
+      "comment": "(a steel sword)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5775,
+        1,
+        5808
+      ],
+      "comment": "(a silver crucifix)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5776,
+        1,
+        5808
+      ],
+      "comment": "(a decaying corpse)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5777,
+        1,
+        5808
+      ],
+      "comment": "(&YGold!&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5778,
+        1,
+        5808
+      ],
+      "comment": "(a barrel of rum)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5808,
+        0,
+        1
+      ],
+      "comment": "(A Zombie Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5809,
+        3,
+        1
+      ],
+      "comment": "(A Crypt)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5810,
+        1,
+        1
+      ],
+      "comment": "(A Junction)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5815,
+        1,
+        2
+      ],
+      "comment": "(A Door)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5763,
+        1,
+        5809
+      ],
+      "comment": "(an evil Vampire)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5786,
+        1,
+        -1
+      ],
+      "comment": "(the Warlock's spellbook)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5757,
+        5,
+        5816
+      ],
+      "comment": "(a Skeleton worker)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5768,
+        1,
+        5816
+      ],
+      "comment": "(a chisel with a silver blade)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5759,
+        1,
+        5816
+      ],
+      "comment": "(a wooden mallet)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5807,
+        1,
+        5816
+      ],
+      "comment": "(a copper key)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5816,
+        0,
+        1
+      ],
+      "comment": "(A Shipbuilding Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5817,
+        0,
+        1
+      ],
+      "comment": "(A Corridor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5758,
+        1,
+        5818
+      ],
+      "comment": "(a Wight)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5748,
+        5,
+        5818
+      ],
+      "comment": "(a staw mattress)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5818,
+        0,
+        1
+      ],
+      "comment": "(A Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5821,
+        2,
+        2
+      ],
+      "comment": "(A Door)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5796,
+        1,
+        5822
+      ],
+      "comment": "(a solid iron-bound oak chest)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        5797,
+        1,
+        5796
+      ],
+      "comment": "(loot!)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        5798,
+        1,
+        5796
+      ],
+      "comment": "(&YGold!&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5762,
+        1,
+        5823
+      ],
+      "comment": "(a Ghoul)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5783,
+        1,
+        6
+      ],
+      "comment": "(a pair of cheap earrings)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5784,
+        1,
+        -1
+      ],
+      "comment": "(a vial of liquid)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5785,
+        1,
+        -1
+      ],
+      "comment": "(a badly-damaged sheet of parchment)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5826,
+        0,
+        1
+      ],
+      "comment": "(A Junction)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5825,
+        3,
+        2
+      ],
+      "comment": "(A Widening in the Passage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5764,
+        4,
+        5827
+      ],
+      "comment": "(a Dwarf)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5788,
+        1,
+        -1
+      ],
+      "comment": "(a Dwarven pipe)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5771,
+        2,
+        5827
+      ],
+      "comment": "(a sturdy oak table)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5793,
+        1,
+        5827
+      ],
+      "comment": "(a deck of magical cards)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5828,
+        0,
+        1
+      ],
+      "comment": "(Another Door)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5766,
+        1,
+        5832
+      ],
+      "comment": "(an enormous Red Dragon)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        5833,
+        1,
+        2
+      ],
+      "comment": "(A Locked Steel Door)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5767,
+        1,
+        5834
+      ],
+      "comment": "(the Warlock of Firetop Mountain)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5794,
+        1,
+        12
+      ],
+      "comment": "(the Warlock's robes)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5795,
+        1,
+        16
+      ],
+      "comment": "(the Warlock's sword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5799,
+        1,
+        -1
+      ],
+      "comment": "(a red key)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5809,
+        1,
+        5834
+      ],
+      "comment": "(a glass cabinet)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        5810,
+        1,
+        5809
+      ],
+      "comment": "(one of the Warlock's curios)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5811,
+        1,
+        5834
+      ],
+      "comment": "(a book)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5812,
+        1,
+        5834
+      ],
+      "comment": "(a massive desk)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5813,
+        1,
+        5834
+      ],
+      "comment": "(a comfortable-looking chair)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/57.zon"
+}

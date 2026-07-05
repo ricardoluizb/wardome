@@ -1,0 +1,29 @@
+{
+  "id": 14381,
+  "zone_id": 143,
+  "name": "Alcove",
+  "description": "This is a small, unused chamber.  You see a steep tunnel leading down.  You\nfeel that if you go down, you won't be able to get back up.",
+  "header_raw": "143 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The lit corridor is north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14380
+    },
+    {
+      "dir": 5,
+      "description": "A steep tunnel leads down.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14343
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

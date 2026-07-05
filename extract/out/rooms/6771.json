@@ -1,0 +1,29 @@
+{
+  "id": 6771,
+  "zone_id": 67,
+  "name": "A windy cliffside lane",
+  "description": "A damp and chilly wind wafts over the homes of the clifftop moors.\nAbout you bluffs rise, pale grey and dark sandstone, smooth from\nthe sculpturing of winds, and dotted with purple heather and green\nmosses. A path strays through the clifftop hills.",
+  "header_raw": "67 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6778
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6770
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

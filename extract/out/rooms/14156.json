@@ -1,0 +1,45 @@
+{
+  "id": 14156,
+  "zone_id": 141,
+  "name": "In Front of the Courthouse",
+  "description": "The immense Courthouse faces this street.  All of Brittainia's\ncrime goes here to be tried.  There is little crime anymore\nthough, after the great enlightenment.  There is also a pub to\nthe west.",
+  "header_raw": "141 64 1",
+  "flags_text": "64",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14155
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14157
+    },
+    {
+      "dir": 2,
+      "description": "The courthouse doors lie this way.",
+      "keywords": "doors",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14163
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14162
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

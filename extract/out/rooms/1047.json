@@ -1,0 +1,50 @@
+{
+  "id": 1047,
+  "zone_id": 10,
+  "name": "The Inner Crypt",
+  "description": "You continue to wander through this inner crypt.  From past\nexperience, you know that this is often where the nobility of\nthe realm would be laid to rest after the elaborate ceremonies\ntook place upstairs in the cathedral proper.\n   The crypt continues east and south here but a strange wind\nseems to be coming from the south.  There is also a large stone\ndoor on the western side of the crypt.",
+  "header_raw": "10 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The crypt continues off to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1046
+    },
+    {
+      "dir": 2,
+      "description": "Looking in this direction, you can tell that the crypt floor has caved in.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1050
+    },
+    {
+      "dir": 3,
+      "description": "A huge stone door sits to the west, blocking the doorway rather nicely.\nThe door is covered with strange carvings.",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 1010,
+      "to": 1048
+    },
+    {
+      "dir": 5,
+      "description": "trapdoor",
+      "keywords": "trapdoor",
+      "door_flag": 2,
+      "key": 1017,
+      "to": 1380
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "door runes carvings",
+      "description": "The door on the western side of the crypt is covered with strange,\nyet elegant carvings.  Looking somewhat closer at the carvings, you\nnotice that they appear to be runes of protection.  Mostly against\nrot and ruin, but there is one near the centre of the design which\nlooks to be for protection against the undead."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

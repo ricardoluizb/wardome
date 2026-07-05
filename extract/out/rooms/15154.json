@@ -1,0 +1,29 @@
+{
+  "id": 15154,
+  "zone_id": 150,
+  "name": "Mordecai's Stash",
+  "description": "You have finally figured out why Mordecai didn't have any good stuff in his\nhome.  It was all here.  A plush, velvet upholstered chair sits in the center\nof his wealth, obviously the place where Mordecai enjoys a great deal of his\ntime.",
+  "header_raw": "150 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "wardrobe",
+      "door_flag": 1,
+      "key": 15112,
+      "to": 15152
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "trapdoor",
+      "door_flag": 2,
+      "key": 15114,
+      "to": 15155
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/151.wld"
+}

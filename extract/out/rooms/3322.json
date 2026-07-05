@@ -3,8 +3,8 @@
   "zone_id": 33,
   "name": "A Cave Passageway",
   "description": "This is a T-intersection in the cave passageway, the \nnorth leading back towards the cave's entrance (you \nthink!), the west leading towards a well-lighted area.  \nEastwards the passageway continues into the shadowy \nrecesses of the mountain uninvitingly.  The echoes of \nvoices are confusing you a bit, and you are not sure \nwhether you should try to remain quiet or not.",
-  "header_raw": "33 d 0",
-  "flags_text": "d",
+  "header_raw": "33 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

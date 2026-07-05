@@ -1,0 +1,12 @@
+{
+  "id": 101,
+  "alias": "candle corpse",
+  "short_desc": "a corpse candle",
+  "long_desc": "A corpse candle shimmers before you, trying to find it's way to Peace.",
+  "detailed_desc": "This unlucky soul lost it's way to Heaven or Hell, wherever it was headed, and\nwound up roaming this forest in search of the Way.",
+  "flags_raw": "237768 0 -300 E",
+  "stats1_raw": "30 -7 -3 1d1+2280 5d7+72",
+  "stats2_raw": "450 141201 6",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/1.mob"
+}

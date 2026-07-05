@@ -11,11 +11,11 @@
   "profit_buy": 1.5,
   "profit_sell": 0.4,
   "buy_types": [
-    "LIGHT",
-    "CONTAINER",
-    "FOOD",
-    "TRASH",
-    "TREASURE"
+    "1",
+    "15",
+    "19",
+    "13",
+    "8"
   ],
   "messages": [
     "%s Haven't got that on storage - try list!",
@@ -38,5 +38,5 @@
     0,
     0
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/shp/54.shp"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/54.shp"
 }

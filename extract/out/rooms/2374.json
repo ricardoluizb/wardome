@@ -1,0 +1,26 @@
+{
+  "id": 2374,
+  "zone_id": 23,
+  "name": "Yergoth's Inner Sanctum",
+  "description": "Idols to the gods of good fill the room. White furniture and decorations give\nthe room a holy appearance. It is evident that some being of supreme goodness\nlives here. A &Wwhite&n door leads east.",
+  "header_raw": "23 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see a &Wwhite&n door there.",
+      "keywords": "door white",
+      "door_flag": 2,
+      "key": 2353,
+      "to": 2389
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "white",
+      "description": "It looks like it leads out to the hall."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

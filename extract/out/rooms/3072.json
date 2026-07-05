@@ -1,0 +1,29 @@
+{
+  "id": 3072,
+  "zone_id": 30,
+  "name": "The Bar of the Paladins",
+  "description": "A large table made of trees is in the center of the room. You only can see a man drinking a beer. The small man has told to you if you want a drink...",
+  "header_raw": "30 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3073
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3071
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/30.wld"
+}

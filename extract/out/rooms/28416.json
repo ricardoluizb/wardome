@@ -1,0 +1,29 @@
+{
+  "id": 28416,
+  "zone_id": 284,
+  "name": "Strange Entryway",
+  "description": "Arcane symbols cover the coral wall.\nIt looks like some magical place to another plane.",
+  "header_raw": "284 8 6",
+  "flags_text": "8",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A swiming is to your north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28415
+    },
+    {
+      "dir": 1,
+      "description": "The entryway is to your east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28417
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/284.wld"
+}

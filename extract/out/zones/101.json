@@ -1,0 +1,1194 @@
+{
+  "id": 101,
+  "name": "Wardome - The Lord of Rings I",
+  "header": {
+    "raw": "10199 60 2 25",
+    "min_room": 10199,
+    "top_room": 60,
+    "lifespan": 2,
+    "reset_mode": 25
+  },
+  "commands": [
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        10149,
+        0,
+        1
+      ],
+      "comment": "(The tunnel)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        10161,
+        3,
+        1
+      ],
+      "comment": "(The tunnel)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10124,
+        1,
+        10124
+      ],
+      "comment": "(Arwen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10124,
+        5,
+        22
+      ],
+      "comment": "(&wa &WA&wsfaloth&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10125,
+        5,
+        16
+      ],
+      "comment": "(Bow of the Galadhrim)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10123,
+        1,
+        10124
+      ],
+      "comment": "(Celeborn)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10118,
+        20,
+        12
+      ],
+      "comment": "(&ga &GE&glven &GC&gloak&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10125,
+        1,
+        10125
+      ],
+      "comment": "(Elrond)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10118,
+        20,
+        12
+      ],
+      "comment": "(&ga &GE&glven &GC&gloak&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10126,
+        5,
+        5
+      ],
+      "comment": "(&gEarendil's &GMithril &yArmor&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10119,
+        20,
+        17
+      ],
+      "comment": "(&ga &GE&glven &GB&gow&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        10101,
+        1,
+        1
+      ],
+      "comment": "(The Door into the Last Homely House)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10101,
+        4,
+        10101
+      ],
+      "comment": "(Elven Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10118,
+        20,
+        12
+      ],
+      "comment": "(&ga &GE&glven &GC&gloak&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10119,
+        20,
+        16
+      ],
+      "comment": "(&ga &GE&glven &GB&gow&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10101,
+        4,
+        10101
+      ],
+      "comment": "(Elven Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10118,
+        20,
+        12
+      ],
+      "comment": "(&ga &GE&glven &GC&gloak&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10119,
+        20,
+        16
+      ],
+      "comment": "(&ga &GE&glven &GB&gow&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        10118,
+        3,
+        1
+      ],
+      "comment": "(The Door into the Last Homely House)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10102,
+        4,
+        10118
+      ],
+      "comment": "(Elven Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10118,
+        20,
+        12
+      ],
+      "comment": "(&ga &GE&glven &GC&gloak&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10119,
+        20,
+        16
+      ],
+      "comment": "(&ga &GE&glven &GB&gow&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10102,
+        4,
+        10118
+      ],
+      "comment": "(Elven Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10119,
+        20,
+        16
+      ],
+      "comment": "(&ga &GE&glven &GB&gow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10118,
+        20,
+        12
+      ],
+      "comment": "(&ga &GE&glven &GC&gloak&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10120,
+        1,
+        10120
+      ],
+      "comment": "(Anslem)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        10109,
+        1,
+        10120
+      ],
+      "comment": "(a fireplace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10111,
+        1,
+        10111
+      ],
+      "comment": "(Carilan)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11218,
+        100,
+        -1
+      ],
+      "comment": "(a wine barrel)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        29506,
+        100,
+        -1
+      ],
+      "comment": "(a goblet of watered wine)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3000,
+        100,
+        -1
+      ],
+      "comment": "(a barrel)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3104,
+        100,
+        -1
+      ],
+      "comment": "(a canteen)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3010,
+        100,
+        -1
+      ],
+      "comment": "(a bread)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3009,
+        100,
+        -1
+      ],
+      "comment": "(a waybread)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        10112,
+        250,
+        -1
+      ],
+      "comment": "(a lembas)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10110,
+        5,
+        10110
+      ],
+      "comment": "(Old Wizard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10110,
+        20,
+        6
+      ],
+      "comment": "(&ra &RR&red &RW&rizard's &RH&rat&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10110,
+        5,
+        10110
+      ],
+      "comment": "(Old Wizard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10111,
+        20,
+        6
+      ],
+      "comment": "(&ba &BB&blue &BW&bizard's &BH&bat&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10149,
+        8,
+        10197
+      ],
+      "comment": "(Orc)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10149,
+        10,
+        16
+      ],
+      "comment": "(a short sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10150,
+        8,
+        10197
+      ],
+      "comment": "(Orc Archer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10148,
+        10,
+        16
+      ],
+      "comment": "(a short bow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10147,
+        8,
+        10186
+      ],
+      "comment": "(Fat Goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10149,
+        10,
+        16
+      ],
+      "comment": "(a short sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10148,
+        8,
+        10186
+      ],
+      "comment": "(Goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10149,
+        10,
+        16
+      ],
+      "comment": "(a short sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10147,
+        8,
+        10190
+      ],
+      "comment": "(Fat Goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10149,
+        10,
+        16
+      ],
+      "comment": "(a short sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10148,
+        8,
+        10190
+      ],
+      "comment": "(Goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10149,
+        10,
+        16
+      ],
+      "comment": "(a short sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10147,
+        8,
+        10194
+      ],
+      "comment": "(Fat Goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10149,
+        10,
+        16
+      ],
+      "comment": "(a short sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10148,
+        8,
+        10194
+      ],
+      "comment": "(Goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10149,
+        10,
+        16
+      ],
+      "comment": "(a short sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10147,
+        8,
+        10154
+      ],
+      "comment": "(Fat Goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10149,
+        10,
+        16
+      ],
+      "comment": "(a short sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10148,
+        8,
+        10154
+      ],
+      "comment": "(Goblin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10149,
+        10,
+        16
+      ],
+      "comment": "(a short sword)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        10145,
+        4,
+        10144
+      ],
+      "comment": "(dwarf corpse)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        10145,
+        4,
+        10143
+      ],
+      "comment": "(dwarf corpse)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        10145,
+        4,
+        10142
+      ],
+      "comment": "(dwarf corpse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10147,
+        8,
+        10176
+      ],
+      "comment": "(Fat Goblin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10148,
+        8,
+        10176
+      ],
+      "comment": "(Goblin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10149,
+        8,
+        10176
+      ],
+      "comment": "(Orc)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10150,
+        8,
+        10176
+      ],
+      "comment": "(Orc Archer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10149,
+        8,
+        10172
+      ],
+      "comment": "(Orc)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10150,
+        8,
+        10172
+      ],
+      "comment": "(Orc Archer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10149,
+        8,
+        10169
+      ],
+      "comment": "(Orc)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10150,
+        8,
+        10169
+      ],
+      "comment": "(Orc Archer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10149,
+        8,
+        10160
+      ],
+      "comment": "(Orc)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10150,
+        8,
+        10160
+      ],
+      "comment": "(Orc Archer)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        10148,
+        0,
+        1
+      ],
+      "comment": "(The many tunnels)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        10148,
+        1,
+        1
+      ],
+      "comment": "(The many tunnels)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        10148,
+        2,
+        1
+      ],
+      "comment": "(The many tunnels)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10139,
+        1,
+        10139
+      ],
+      "comment": "(Octopussy)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        10117,
+        1,
+        1
+      ],
+      "comment": "(Elrond's eastern porch)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        10102,
+        3,
+        1
+      ],
+      "comment": "(Elrond's western porch)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10135,
+        3,
+        10135
+      ],
+      "comment": "(Elven Artist)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10129,
+        3,
+        10129
+      ],
+      "comment": "(Adric)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10127,
+        3,
+        10130
+      ],
+      "comment": "(Annoyed Elf)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        10127,
+        3,
+        1
+      ],
+      "comment": "(Sleeping Quarters)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10127,
+        3,
+        10127
+      ],
+      "comment": "(Annoyed Elf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10128,
+        5,
+        10133
+      ],
+      "comment": "(Elven Traveler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10128,
+        5,
+        10131
+      ],
+      "comment": "(Elven Traveler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10128,
+        5,
+        10134
+      ],
+      "comment": "(Elven Traveler)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        10128,
+        1,
+        1
+      ],
+      "comment": "(Sleeping Quarters)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10128,
+        5,
+        10128
+      ],
+      "comment": "(Elven Traveler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10122,
+        1,
+        10122
+      ],
+      "comment": "(Eshna)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10104,
+        6,
+        10119
+      ],
+      "comment": "(Fair Elf)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        10115,
+        3,
+        1
+      ],
+      "comment": "(The Healing Chambers)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        10115,
+        2,
+        1
+      ],
+      "comment": "(The Healing Chambers)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10115,
+        1,
+        10115
+      ],
+      "comment": "(the Healer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10114,
+        1,
+        10114
+      ],
+      "comment": "(Aelros)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10112,
+        6,
+        10112
+      ],
+      "comment": "(Elven Girl)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10112,
+        6,
+        10112
+      ],
+      "comment": "(Elven Girl)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        10107,
+        3,
+        1
+      ],
+      "comment": "(A hallway in the Last Homely House)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10109,
+        5,
+        10107
+      ],
+      "comment": "(Fair Elf)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        10106,
+        3,
+        1
+      ],
+      "comment": "(Elrond's kitchen)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        10106,
+        1,
+        1
+      ],
+      "comment": "(Elrond's kitchen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10106,
+        1,
+        10106
+      ],
+      "comment": "(Chef)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10107,
+        2,
+        10106
+      ],
+      "comment": "(the Cook)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        10104,
+        2,
+        1
+      ],
+      "comment": "(The &RF&rir&Re&c Hall&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10104,
+        10,
+        10104
+      ],
+      "comment": "(Fair Elf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10103,
+        1,
+        10104
+      ],
+      "comment": "(Erestor)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        10108,
+        1,
+        10108
+      ],
+      "comment": "(a fireplace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10108,
+        1,
+        10108
+      ],
+      "comment": "(Bilbo Baggins)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        10105,
+        0,
+        1
+      ],
+      "comment": "(The Feast Hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        10105,
+        1,
+        1
+      ],
+      "comment": "(The Feast Hall)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10105,
+        1,
+        10105
+      ],
+      "comment": "(Legolas Greenleaf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10104,
+        5,
+        16
+      ],
+      "comment": "(&gThe &YSpeed &cBow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10105,
+        10,
+        8
+      ],
+      "comment": "(&Ya Light&gfootedness&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        10126,
+        1,
+        1
+      ],
+      "comment": "(A hallway in the Last Homely House)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        10126,
+        3,
+        1
+      ],
+      "comment": "(A hallway in the Last Homely House)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        10116,
+        0,
+        1
+      ],
+      "comment": "(A hallway in the Last Homely House)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        10113,
+        1,
+        1
+      ],
+      "comment": "(A hallway in the Last Homely House)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        10103,
+        0,
+        1
+      ],
+      "comment": "(A hallway in the Last Homely House)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        10103,
+        2,
+        1
+      ],
+      "comment": "(A hallway in the Last Homely House)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/101.zon"
+}

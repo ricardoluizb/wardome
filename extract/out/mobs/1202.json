@@ -4,9 +4,9 @@
   "short_desc": "the wandering spirit",
   "long_desc": "A strange amorphous being wanders these halls eternally cleaning.",
   "detailed_desc": "This spirit, having lived out its days in the mortal world, now\nworks off its final sins by doing menial labour in this realm's\npurgatory.  In this case, those chores seem to be cleaning up\nafter the immortals of the land.",
-  "flags_raw": "acgq dkps 0 S",
-  "stats1_raw": "30 0 -10 1d49+901 4d8+5",
-  "stats2_raw": "0 0",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "65609 295944 0 E",
+  "stats1_raw": "30 6 5 1d1+630 10d4+12",
+  "stats2_raw": "450 105901 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/12.mob"
 }

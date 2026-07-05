@@ -1,10 +1,10 @@
 {
   "id": 7301,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "Cave Tunnel",
   "description": "You are walking in a tunnel.  It is very cold.  You can feel the presence\nof a living thing... SOMEWHERE.",
-  "header_raw": "73 ad 1",
-  "flags_text": "ad",
+  "header_raw": "72 9 1",
+  "flags_text": "9",
   "sector": 1,
   "exits": [
     {

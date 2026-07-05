@@ -1,0 +1,84 @@
+{
+  "id": 6,
+  "name": "Wardome - The Learn Zone",
+  "header": {
+    "raw": "699 1 2 9 -1",
+    "min_room": 699,
+    "top_room": 1,
+    "lifespan": 2,
+    "reset_mode": 9
+  },
+  "commands": [
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3050,
+        2147483647,
+        -1
+      ],
+      "comment": "(a scroll of identify)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        621,
+        1,
+        612
+      ],
+      "comment": "(the Great Master)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        601,
+        3,
+        610
+      ],
+      "comment": "(the blob)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        606,
+        2,
+        610
+      ],
+      "comment": "(the big creature)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        602,
+        1,
+        609
+      ],
+      "comment": "(the monster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        603,
+        2,
+        609
+      ],
+      "comment": "(the wimpy monster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        602,
+        4,
+        608
+      ],
+      "comment": "(the monster)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/6.zon"
+}

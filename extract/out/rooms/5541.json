@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Warehouse",
   "description": "Men walk to and fro counting crates and writing down their findings.\nThis area of the warehouse is used for storing the raw materials brought\nin from areas outside the city.  These goods are then delivered to the\nvarious guilds.  The export area of the warehouses is to the south.",
-  "header_raw": "54 d 0",
-  "flags_text": "d",
+  "header_raw": "54 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

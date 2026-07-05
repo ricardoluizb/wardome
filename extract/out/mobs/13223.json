@@ -1,0 +1,12 @@
+{
+  "id": 13223,
+  "alias": "citizen dragon",
+  "short_desc": "a citizen",
+  "long_desc": "A citizen of Cloudy Mountain glares at you.",
+  "detailed_desc": "This mean-spirited dragon is half-orc.",
+  "flags_raw": "8392 40 -200 E",
+  "stats1_raw": "25 -8 -5 1d1+2292 5d5+90",
+  "stats2_raw": "375 94180 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

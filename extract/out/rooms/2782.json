@@ -1,0 +1,21 @@
+{
+  "id": 2782,
+  "zone_id": 27,
+  "name": "The Courthouse",
+  "description": "You are in the local courthouse for Bree.  A wizened old man sits behind a huge\nworn bench.  You get the feeling that many a criminal has regretted coming here\nfor you have no doubt that this Judge will give the maximum penalty available\nfor any crime.  There is a plaque on the wall explaining the procedure of the\ncourthouse, please read it.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2780
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

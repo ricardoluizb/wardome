@@ -4,9 +4,9 @@
   "short_desc": "Froboz",
   "long_desc": "Froboz the wizard is standing here, working on a new spell.",
   "detailed_desc": "You see a middle-aged man whose knowledge of magic, both offensive and \ndefensive, is legendary.  He literally glows with a pink aura.",
-  "flags_raw": "abelno dh 300 S",
-  "stats1_raw": "23 0 -3 5d10+425 1d8+14",
-  "stats2_raw": "32000 95000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "3172379 136 300 E",
+  "stats1_raw": "32 4 5 1d1+666 5d4+12",
+  "stats2_raw": "480 151870 0",
+  "stats3_raw": "8 8 1 9 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/120.mob"
 }

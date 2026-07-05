@@ -1,0 +1,34 @@
+{
+  "id": 17309,
+  "zone_id": 173,
+  "name": "Mists of Arden",
+  "description": "You have steadily travelled downhill into a misty forested area. The tall\nblack silhoettes of the towering oaks crowd your limited vision. You squint \nat the dirty trail which leads north and south and notice horsesign.",
+  "header_raw": "173 1 3",
+  "flags_text": "1",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A dirty trail",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17313
+    },
+    {
+      "dir": 2,
+      "description": "A dirty trail",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17306
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "horsesign",
+      "description": "You look at the horsesign and see that many horses have travelled this path."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

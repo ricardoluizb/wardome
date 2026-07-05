@@ -1,10 +1,8 @@
 {
   "keywords": [
-    "backstab"
-  ],
-  "aliases": [
     "BACKSTAB"
   ],
-  "body": "Syntax: backstab <target>\n\nBackstab allows a rogue to strike at an unaware opponent's vital points\nwith a piercing weapon, potentially dealing massive damage. This skill\nrequires stealth and precision timing.\n\nClasses: Thief, Assassin\nSkill Type: Combat\nWeapon Required: Piercing (dagger, stiletto, etc.)\n\nTo successfully backstab, you must be wielding a piercing weapon and your\ntarget must not be fighting you. The damage multiplier increases as your\nskill improves. Failed attempts will initiate combat normally.\n\nSee Also: SNEAK, HIDE",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+  "aliases": [],
+  "body": "- Classes que aprendem: Thief (26)\n- Descricao: Esta skill permite apunhalar um inimigo pelas costas, causando um alto dano.\n- Numero de rounds necessarios para recuperacao do controle: 3\n- Exemplo de uso:\t> backstab zombie\n\t\t\tA zombie makes a strange sound as you place a dagger in its back!\n\n- Observacoes: E necessario estar empunhando uma arma perfurante (tipo pierce) para utilizar esta skill; so e possivel que ela seja executada antes da luta comecar.",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/text/help/help"
 }

@@ -1,0 +1,12 @@
+{
+  "id": 7717,
+  "alias": "oldstyle mindflayer prisoner",
+  "short_desc": "a tortured mindflayer prisoner",
+  "long_desc": "A mindflayer lies here, scarred from the torture inflicted by the Gith.",
+  "detailed_desc": "You see a formerly tall humanoid creature, with four tentacles hanging from the\nmiddle of its head.  It is hunched over, bent and scarred from torture inflicted\nby the githyanki.  It cringes as you approach.",
+  "flags_raw": "4106 0 0 E",
+  "stats1_raw": "90 -25 -3 1d1+2520 5d10+36",
+  "stats2_raw": "1350 2160224 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/77.mob"
+}

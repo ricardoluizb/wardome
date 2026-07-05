@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "A Dark Passage",
   "description": "The small passage ends here for no apparent reason.  Looking around\nyou find a small ladder half buried in the dirt.  setting it up you find\na trap door in the ceiling.  The passage continues west from here.",
-  "header_raw": "54 ad 1",
-  "flags_text": "ad",
+  "header_raw": "54 9 1",
+  "flags_text": "9",
   "sector": 1,
   "exits": [
     {

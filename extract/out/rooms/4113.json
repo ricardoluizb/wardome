@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Passage",
   "description": "This north-south passageway looks to be a natural creation, except\nthat the walls looks to have been roughly hewn in order to smooth them\na somewhat to make passage easier.  The walls still meander as the\npassage makes its way deeper into the bowels of the earth.  A bizarre\nshadow in the eastern wall leads you to suspect that a small passage\nmeets the tunnel there.",
-  "header_raw": "40 ad 3",
-  "flags_text": "ad",
+  "header_raw": "40 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

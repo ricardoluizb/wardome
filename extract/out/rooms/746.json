@@ -1,0 +1,21 @@
+{
+  "id": 746,
+  "zone_id": 7,
+  "name": "The CliffHanger",
+  "description": "This drinking establishment is placed a little too close to the\nedge of the cliff for your own comfort--about five feet close!  You\nbriefly pray to Hope, asking for no earthquakes in the immediate\nfuture.  As you look around, you see lots of people passed out on the\nfloor--this is obviously a lower class dive.  The room is dark, the\npeople sweaty, the barmaids tired, and you want a drink.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 714
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

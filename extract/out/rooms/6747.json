@@ -1,0 +1,21 @@
+{
+  "id": 6747,
+  "zone_id": 67,
+  "name": "The Silver Scale",
+  "description": "You pass into a shop whose walls are gleaming dully, hung with\nvarious armor reflecting the firelight spawning from the forge.\nGoods of defensive metal may be bought and sold here, at\nnearly reasonable prices. Use 'list' to peruse the options.",
+  "header_raw": "67 156 0",
+  "flags_text": "156",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6732
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

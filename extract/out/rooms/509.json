@@ -1,0 +1,45 @@
+{
+  "id": 509,
+  "zone_id": 5,
+  "name": "&cTemple Street&n",
+  "description": "&n   Walking on to the east way of the &cTemple Street&n, you notice two more temples\nhere, &BThe Temple of the Trolls&n, to the north, and &BThe Temple of the Giths&n, to\nthe south. You feel somewhat strange, like if something very uncommon was\nhappening nearby...",
+  "header_raw": "5 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 515
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 510
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 521
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 508
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

@@ -4,9 +4,9 @@
   "short_desc": "the mimic",
   "long_desc": "A strong chest lies in one corner of the room.",
   "detailed_desc": "A strong, wooden chest bound with iron straps and a heavy padlock on the\nfront.",
-  "flags_raw": "bqr 0 10 S",
-  "stats1_raw": "11 10 1 1d20+130 2d7+0",
-  "stats2_raw": "0 13000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "131082 0 10 E",
+  "stats1_raw": "145 -56 -14 1d1+6372 5d15+78",
+  "stats2_raw": "2175 10454859 2",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/52.mob"
 }

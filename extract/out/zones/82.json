@@ -1,0 +1,1274 @@
+{
+  "id": 82,
+  "name": "Notre Dame",
+  "header": {
+    "raw": "8299 35 2 17 -1",
+    "min_room": 8299,
+    "top_room": 35,
+    "lifespan": 2,
+    "reset_mode": 17
+  },
+  "commands": [
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8278,
+        1,
+        2
+      ],
+      "comment": "(The Musketeer's Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8277,
+        1,
+        8278
+      ],
+      "comment": "(Atos the Musketeer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8278,
+        5,
+        16
+      ],
+      "comment": "(a foil)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8278,
+        1,
+        8278
+      ],
+      "comment": "(Aramis the Musketeer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8277,
+        5,
+        16
+      ],
+      "comment": "(a golden rapier)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8292,
+        1,
+        -1
+      ],
+      "comment": "(a platinum key)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8299,
+        3,
+        2
+      ],
+      "comment": "(Royal Hall)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        8299,
+        1,
+        8299
+      ],
+      "comment": "(King of France)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8293,
+        5,
+        6
+      ],
+      "comment": "(A royal crown)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8257,
+        1,
+        8257
+      ],
+      "comment": "(Emerald the gypsy)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8257,
+        5,
+        13
+      ],
+      "comment": "(&wa &Cmagic &Wbelt&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        8257,
+        5,
+        2
+      ],
+      "comment": "(A Campament Of Gypsys)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8255,
+        1,
+        -1
+      ],
+      "comment": "(&wa &Cmagical &Ykey&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8243,
+        1,
+        8243
+      ],
+      "comment": "(Pierre the magician)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        15012,
+        1,
+        -1
+      ],
+      "comment": "(a large vial)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3051,
+        5,
+        -1
+      ],
+      "comment": "(a yellow potion of see invisible)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6110,
+        50,
+        -1
+      ],
+      "comment": "(a musky yellow potion)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5473,
+        50,
+        -1
+      ],
+      "comment": "(an off-white potion)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8243,
+        50,
+        -1
+      ],
+      "comment": "(&wa &CMagic &WPotion&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8288,
+        5,
+        -1
+      ],
+      "comment": "(&wa &Cmagic &Wstaff&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8294,
+        0,
+        1
+      ],
+      "comment": "(A Cell In The Dungeon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        8290,
+        1,
+        8294
+      ],
+      "comment": "(a man in an iron mask)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8294,
+        10,
+        6
+      ],
+      "comment": "(an iron mask)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8291,
+        1,
+        1
+      ],
+      "comment": "(At The End Of The Corridor Of the Dungeon)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        8291,
+        2,
+        2
+      ],
+      "comment": "(At The End Of The Corridor Of the Dungeon)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        8291,
+        3,
+        2
+      ],
+      "comment": "(At The End Of The Corridor Of the Dungeon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8292,
+        6,
+        8292
+      ],
+      "comment": "(A flea)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8287,
+        2,
+        8287
+      ],
+      "comment": "(A Musketeer horse)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8287,
+        2,
+        8
+      ],
+      "comment": "(Two pair of horseshoes)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8287,
+        1,
+        1
+      ],
+      "comment": "(A French Stable)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8288,
+        1,
+        8288
+      ],
+      "comment": "(A French receptionist)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8266,
+        5,
+        5
+      ],
+      "comment": "(&WWhite Dress&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        8207,
+        2,
+        8206
+      ],
+      "comment": "(&wa &WS&wilver &WP&wlate&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        8207,
+        2,
+        8207
+      ],
+      "comment": "(&wa &WS&wilver &WP&wlate&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8226,
+        5,
+        1
+      ],
+      "comment": "(The Cathedral Steeple)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8226,
+        1,
+        8226
+      ],
+      "comment": "(The hunchback)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8225,
+        10,
+        7
+      ],
+      "comment": "(&wa &ypair &wof &yDirty &YP&yants&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8226,
+        5,
+        5
+      ],
+      "comment": "(&ga &GG&green &GS&ghirt&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8200,
+        2,
+        8226
+      ],
+      "comment": "(A grey bat)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8268,
+        0,
+        2
+      ],
+      "comment": "(The Entrance To Musketeer H.Q.)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        8268,
+        1,
+        8268
+      ],
+      "comment": "(A Musketeer in service)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8268,
+        2,
+        17
+      ],
+      "comment": "(&ya bronze &Ykey&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8202,
+        10,
+        8
+      ],
+      "comment": "(&wa &yStone &WB&woots&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8247,
+        1,
+        8247
+      ],
+      "comment": "(A French woman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8247,
+        1,
+        17
+      ],
+      "comment": "(&wa &ybunch &wof &Mf&Rlo&Ww&Rer&Ms&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8295,
+        1,
+        8295
+      ],
+      "comment": "(A sentinel)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8295,
+        10,
+        12
+      ],
+      "comment": "(&BA Musketeer &Rcape&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8290,
+        1,
+        -1
+      ],
+      "comment": "(a oxided key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8245,
+        1,
+        8245
+      ],
+      "comment": "(A French merchant)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8245,
+        10,
+        17
+      ],
+      "comment": "(&wa &yc&Yo&yp&Yp&ye&Yr lamp&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8241,
+        1,
+        8241
+      ],
+      "comment": "(a white puddle )"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8241,
+        10,
+        4
+      ],
+      "comment": "(&wa &WBright &yDog &WC&Co&Wll&Ca&Wr&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8204,
+        1,
+        8204
+      ],
+      "comment": "(A poor citizen)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8296,
+        0,
+        1
+      ],
+      "comment": "(A Strange Passage)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        8296,
+        2,
+        1
+      ],
+      "comment": "(A Strange Passage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        8296,
+        1,
+        8296
+      ],
+      "comment": "(Guardian of time and space)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8297,
+        10,
+        9
+      ],
+      "comment": "(&wa &ypair &wof &WSpiritual Gloves&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8299,
+        5,
+        6
+      ],
+      "comment": "(&wa dark mask&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8267,
+        1,
+        8267
+      ],
+      "comment": "(Robespierre)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8267,
+        10,
+        12
+      ],
+      "comment": "(&wa black hood&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8251,
+        2,
+        1
+      ],
+      "comment": "(Champs Elysees)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        8251,
+        1,
+        8251
+      ],
+      "comment": "(Degas the hermit)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8251,
+        10,
+        16
+      ],
+      "comment": "(&ya &Yh&yermit &Ym&yace&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8221,
+        1,
+        8221
+      ],
+      "comment": "(a choirboy)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8221,
+        10,
+        17
+      ],
+      "comment": "(a tithe basket)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8298,
+        1,
+        8298
+      ],
+      "comment": "(Toulouse the shoper)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8298,
+        10,
+        -1
+      ],
+      "comment": "(An iron chain)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8296,
+        10,
+        -1
+      ],
+      "comment": "(a pearl necklace)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8205,
+        5,
+        -1
+      ],
+      "comment": "(a wood vase)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8208,
+        5,
+        -1
+      ],
+      "comment": "(a cool sweather)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8215,
+        10,
+        -1
+      ],
+      "comment": "(a wood slab)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8271,
+        1,
+        8271
+      ],
+      "comment": "(Monet the cook)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3101,
+        20,
+        -1
+      ],
+      "comment": "(a cup)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3010,
+        30,
+        -1
+      ],
+      "comment": "(a bread)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3308,
+        25,
+        -1
+      ],
+      "comment": "(an apple)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8271,
+        30,
+        -1
+      ],
+      "comment": "(a French cake)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8285,
+        25,
+        -1
+      ],
+      "comment": "(a baggete)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8225,
+        3,
+        8263
+      ],
+      "comment": "(A pigeon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        8263,
+        1,
+        8263
+      ],
+      "comment": "(A citizen of Paris)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8297,
+        0,
+        1
+      ],
+      "comment": "(A Strange Passage)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        8297,
+        2,
+        1
+      ],
+      "comment": "(A Strange Passage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8234,
+        2,
+        8234
+      ],
+      "comment": "(the gargoyle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8234,
+        5,
+        10
+      ],
+      "comment": "(&wa &yStone &WS&wleeves&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8233,
+        5,
+        11
+      ],
+      "comment": "(&wa &yStone &WS&whield&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8234,
+        2,
+        8236
+      ],
+      "comment": "(the gargoyle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8236,
+        5,
+        7
+      ],
+      "comment": "(&wa &yStone &WL&weggings&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8233,
+        5,
+        11
+      ],
+      "comment": "(&wa &yStone &WS&whield&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8240,
+        2,
+        8240
+      ],
+      "comment": "(citizen of Lyon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8272,
+        1,
+        8272
+      ],
+      "comment": "(Portos the Musketeer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8272,
+        5,
+        6
+      ],
+      "comment": "(&Ba Musketeer &Rhat&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8279,
+        5,
+        9
+      ],
+      "comment": "(&wa &yStone &WG&wloves&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8248,
+        2,
+        8289
+      ],
+      "comment": "(a black rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8293,
+        1,
+        8293
+      ],
+      "comment": "(Paulo the prisoner)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        8269,
+        1,
+        8269
+      ],
+      "comment": "(a guillotine)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8286,
+        3,
+        1
+      ],
+      "comment": "(The Western Passage)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8280,
+        2,
+        1
+      ],
+      "comment": "(A Room To The Dungeon)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8279,
+        0,
+        1
+      ],
+      "comment": "(Another Hall In The H.Q.)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8270,
+        2,
+        2
+      ],
+      "comment": "(The Entrance Of Musketeer H.Q.)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        8265,
+        1,
+        8265
+      ],
+      "comment": "(a statue of Louis XIV)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8237,
+        1,
+        8237
+      ],
+      "comment": "(Dartagnan)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8237,
+        3,
+        16
+      ],
+      "comment": "(&wa &WS&wilver &WS&wword&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8238,
+        6,
+        3
+      ],
+      "comment": "(&ma &MR&mosary&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8255,
+        3,
+        8255
+      ],
+      "comment": "(A brown squirrel)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8250,
+        0,
+        1
+      ],
+      "comment": "(The Entrance To Champs Elyses)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8230,
+        1,
+        8230
+      ],
+      "comment": "(Jean the monk)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8230,
+        5,
+        8
+      ],
+      "comment": "(&wa &ypair &wof &ySacred &YS&yandals&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8249,
+        1,
+        8249
+      ],
+      "comment": "(Renoir the thief)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8249,
+        3,
+        17
+      ],
+      "comment": "(&ra &RB&rloody &RD&ragger&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8224,
+        1,
+        8224
+      ],
+      "comment": "(the cardenal Richelieu)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8224,
+        20,
+        1
+      ],
+      "comment": "(&yCardenal's &Rruby ring&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        8200,
+        5,
+        12
+      ],
+      "comment": "(&ya Cardenal &Rred cloak&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8211,
+        3,
+        1
+      ],
+      "comment": "(A Little Chapel)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8211,
+        1,
+        8211
+      ],
+      "comment": "(Tintoreto the priest)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        8211,
+        5,
+        -1
+      ],
+      "comment": "(a Bible)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8248,
+        2,
+        8248
+      ],
+      "comment": "(a black rat)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8225,
+        4,
+        1
+      ],
+      "comment": "(The Second Floor Of Notre Dame)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8225,
+        2,
+        8225
+      ],
+      "comment": "(A pigeon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8224,
+        1,
+        8223
+      ],
+      "comment": "(the cardenal Richelieu)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        8242,
+        1,
+        8242
+      ],
+      "comment": "(Fountain)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8222,
+        1,
+        8222
+      ],
+      "comment": "(A believer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        8216,
+        2,
+        8216
+      ],
+      "comment": "(the believer)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8205,
+        0,
+        1
+      ],
+      "comment": "(The Atrium Of The Cathedral)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8203,
+        2,
+        1
+      ],
+      "comment": "(The Entrance To The Cathedral)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8212,
+        3,
+        1
+      ],
+      "comment": "(The Western Corridor)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8213,
+        1,
+        1
+      ],
+      "comment": "(A Small Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        8210,
+        1,
+        1
+      ],
+      "comment": "(The Waiting Room Of The Cathedral)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/82.zon"
+}

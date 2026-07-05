@@ -1,0 +1,29 @@
+{
+  "id": 13022,
+  "zone_id": 130,
+  "name": "Conference Room",
+  "description": "A great heraldic shield with a picture of Ali Babah is in the \nmiddle of the wall at your right. A big table with many chairs\nare in the middle of the enormous room. Four chairs has a larger \nsupport. Here Ali Babah and his captains decides their matters.",
+  "header_raw": "130 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "Black Door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 13021
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

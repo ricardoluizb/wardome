@@ -1,0 +1,12 @@
+{
+  "id": 9228,
+  "alias": "oldstyle ice bandit",
+  "short_desc": "the Ice Bandit",
+  "long_desc": "The Ice Bandit strikes cold fear in your heart.",
+  "detailed_desc": "A humanoid figure encased in ice but still apparently alive.",
+  "flags_raw": "8388810 262144 -250 E",
+  "stats1_raw": "150 -55 -12 1d1+4200 5d16+60",
+  "stats2_raw": "2250 9371548 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/92.mob"
+}

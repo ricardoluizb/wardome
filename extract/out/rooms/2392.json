@@ -1,0 +1,54 @@
+{
+  "id": 2392,
+  "zone_id": 23,
+  "name": "The guarded hall",
+  "description": "You walk down a quiet hall. The stone walls here are wet with moisture.\nColored doors can be seen in the walls here. To your east, you see a &Bblue&n\ndoor. To your west, you see a &Yyellow&n door. The hall itself leads north and\nsouth.",
+  "header_raw": "23 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2389
+    },
+    {
+      "dir": 1,
+      "description": "You see a &Bblue&n door there.",
+      "keywords": "door blue",
+      "door_flag": 2,
+      "key": 2356,
+      "to": 2394
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2397
+    },
+    {
+      "dir": 3,
+      "description": "You see a &Yyellow&n door there.",
+      "keywords": "door yellow",
+      "door_flag": 2,
+      "key": 2355,
+      "to": 2390
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "white",
+      "description": "You see a white door here. It has the name \"Tyrgoth\" inscribed on it."
+    },
+    {
+      "keywords": "green",
+      "description": "You see a green door here. It has the name \"Nasturn\" written on it."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

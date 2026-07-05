@@ -1,10 +1,10 @@
 {
   "id": 7316,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "The Treasure Room",
   "description": "This room is richly ornamented.  The walls have been carved to show\npeople dancing around a moon which is drawn on the floor.  It looks very\nold, and it is very dusty.  To the south you see the back side of a secret\ndoor.",
-  "header_raw": "73 adj 1",
-  "flags_text": "adj",
+  "header_raw": "72 521 1",
+  "flags_text": "521",
   "sector": 1,
   "exits": [
     {

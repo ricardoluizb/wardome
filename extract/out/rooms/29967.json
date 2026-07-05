@@ -1,0 +1,21 @@
+{
+  "id": 29967,
+  "zone_id": 298,
+  "name": "The Manager's room",
+  "description": "Although very busy, this room is nothing compared to the rest of the flet.  \nThe room has little furniture, only the manager's desk, his chair, and another\nchair facing him.  As your eyes scan the room, you see the typical wooden walls\nand floor.  The roof is a natural canopy of leaves from one of the higher\nbranches.  Occasionally an elf enters the room, drops off papers and picks up\nsomething, and leaves.  Outside, you can hear random tidbits of conversation\nand shouting of orders.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29966
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

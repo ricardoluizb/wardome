@@ -1,0 +1,29 @@
+{
+  "id": 14135,
+  "zone_id": 141,
+  "name": "Web",
+  "description": "There is a Huge Web sitting here, stretching from shelf to shelf.\nAnd stupid you wandered into it.",
+  "header_raw": "141 72 0",
+  "flags_text": "72",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14136
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14134
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

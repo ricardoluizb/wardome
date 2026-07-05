@@ -1,0 +1,12 @@
+{
+  "id": 8127,
+  "alias": "woman barmaid maid",
+  "short_desc": "the bar maid",
+  "long_desc": "A lovely Lonoyan woman serves mead to Reilly's customers.",
+  "detailed_desc": "No one bothers her as she serves drinks, because they know that she\nhas a dagger ready for anyone who gets `fresh'.",
+  "flags_raw": "200 0 400 E",
+  "stats1_raw": "149 -76 -28 1d1+17280 5d43+168",
+  "stats2_raw": "2235 16085210 11",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

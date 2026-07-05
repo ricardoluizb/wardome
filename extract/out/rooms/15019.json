@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "The Small Passage",
   "description": "You are standing in a small passage, that leads north and south.\nTo the west, there is an exit into the Great Hall.",
-  "header_raw": "150 d 0",
-  "flags_text": "d",
+  "header_raw": "150 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

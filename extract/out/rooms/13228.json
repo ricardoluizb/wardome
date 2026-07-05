@@ -1,0 +1,45 @@
+{
+  "id": 13228,
+  "zone_id": 132,
+  "name": "The Court",
+  "description": "You are behind a house on the court.  A grate is on the ground, you wonder\nwhere it goes?  The court continues north, east, and west.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "the court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13231
+    },
+    {
+      "dir": 1,
+      "description": "the court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13229
+    },
+    {
+      "dir": 3,
+      "description": "the court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13227
+    },
+    {
+      "dir": 5,
+      "description": "a grate",
+      "keywords": "grate do",
+      "door_flag": 1,
+      "key": -1,
+      "to": 13243
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

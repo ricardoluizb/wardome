@@ -4,9 +4,9 @@
   "short_desc": "the guildguard",
   "long_desc": "The Guard for the Guild of Clerics stands here.",
   "detailed_desc": "This man looks like a cleric/warrior, I wouldn't mess with him.",
-  "flags_raw": "blno dhk 0 S",
-  "stats1_raw": "8 -1 -10 2d5+500 3d8+10",
-  "stats2_raw": "0 500",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "26634 1160 0 E",
+  "stats1_raw": "8 16 8 1d1+162 5d1+2",
+  "stats2_raw": "120 4344 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

@@ -1,0 +1,2564 @@
+{
+  "id": 141,
+  "name": "Ultima",
+  "header": {
+    "raw": "14284 15 2 17 -1",
+    "min_room": 14284,
+    "top_room": 15,
+    "lifespan": 2,
+    "reset_mode": 17
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14155,
+        1,
+        14249
+      ],
+      "comment": "(The Timelord)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14148,
+        10,
+        0
+      ],
+      "comment": "(&wan &WAura &wof &WPower&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14116,
+        1,
+        -1
+      ],
+      "comment": "(the Hourglass)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14249,
+        4,
+        2
+      ],
+      "comment": "(The Shrine of Spirituality)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14267,
+        2,
+        0
+      ],
+      "comment": "(The Throne Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14163,
+        1,
+        14267
+      ],
+      "comment": "(the Avatar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14169,
+        10,
+        0
+      ],
+      "comment": "(a glowing sceptre)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14163,
+        10,
+        16
+      ],
+      "comment": "(The Glass Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14164,
+        1,
+        14267
+      ],
+      "comment": "(Lord British)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14164,
+        10,
+        6
+      ],
+      "comment": "(British's crown)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14165,
+        10,
+        17
+      ],
+      "comment": "(British's sceptre)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14166,
+        10,
+        3
+      ],
+      "comment": "(British's amulet)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14265,
+        0,
+        0
+      ],
+      "comment": "(Hallways)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14161,
+        1,
+        14265
+      ],
+      "comment": "(Sentri)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14154,
+        15,
+        6
+      ],
+      "comment": "(Sentri's helmet)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14155,
+        15,
+        10
+      ],
+      "comment": "(Sentri's sleeves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14156,
+        15,
+        13
+      ],
+      "comment": "(Sentri's girth)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14157,
+        15,
+        16
+      ],
+      "comment": "(Sentri's two-handed sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14158,
+        15,
+        9
+      ],
+      "comment": "(Sentri's gloves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14159,
+        15,
+        8
+      ],
+      "comment": "(Sentri's boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14160,
+        15,
+        7
+      ],
+      "comment": "(Sentri's leggings)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14161,
+        15,
+        5
+      ],
+      "comment": "(Sentri's armour)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14180,
+        15,
+        20
+      ],
+      "comment": "(Sentri's Pendant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14109,
+        1,
+        14121
+      ],
+      "comment": "(Nystul the Librarian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14121,
+        10,
+        16
+      ],
+      "comment": "(a magic dagger)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9825,
+        1,
+        -1
+      ],
+      "comment": "(&WTales From Wardome&n (Tome III))"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14282,
+        4,
+        2
+      ],
+      "comment": "(In the Warp)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14157,
+        1,
+        14282
+      ],
+      "comment": "(Blackthorn)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14150,
+        10,
+        16
+      ],
+      "comment": "(a spiked mace)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14281,
+        4,
+        2
+      ],
+      "comment": "(The Enlightenment)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14280,
+        4,
+        2
+      ],
+      "comment": "(In the Warp)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14158,
+        1,
+        14280
+      ],
+      "comment": "(Exodus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14151,
+        10,
+        5
+      ],
+      "comment": "(a completely black armour)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14279,
+        4,
+        2
+      ],
+      "comment": "(In the Warp)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14159,
+        1,
+        14279
+      ],
+      "comment": "(Minax)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14152,
+        10,
+        3
+      ],
+      "comment": "(an evil charm)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14278,
+        4,
+        2
+      ],
+      "comment": "(In the Warp)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14160,
+        1,
+        14278
+      ],
+      "comment": "(the Avatar of Mondain)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14153,
+        10,
+        17
+      ],
+      "comment": "(an evil gem)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14277,
+        4,
+        2
+      ],
+      "comment": "(The Enlightenment)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14276,
+        0,
+        2
+      ],
+      "comment": "(The Altar of Humility)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14275,
+        0,
+        2
+      ],
+      "comment": "(The Altar of Spirituality)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14274,
+        0,
+        2
+      ],
+      "comment": "(The Altar of Honour)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14273,
+        0,
+        2
+      ],
+      "comment": "(The Altar of Sacrifice)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14272,
+        0,
+        2
+      ],
+      "comment": "(The Altar of Justice)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14271,
+        0,
+        2
+      ],
+      "comment": "(The Altar of Valor)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14270,
+        0,
+        2
+      ],
+      "comment": "(The Altar of Compassion)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14269,
+        0,
+        2
+      ],
+      "comment": "(The Altar of Honesty)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14156,
+        1,
+        14283
+      ],
+      "comment": "(the Avatar of Darklord is here and announce: \"The Master is comming!\")"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14149,
+        10,
+        6
+      ],
+      "comment": "(a big red face)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14239,
+        3,
+        1
+      ],
+      "comment": "(A Small Tent)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14145,
+        6,
+        14239
+      ],
+      "comment": "(the paladin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14142,
+        10,
+        5
+      ],
+      "comment": "(shiny armour)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14141,
+        10,
+        16
+      ],
+      "comment": "(a shiny sword)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14237,
+        1,
+        1
+      ],
+      "comment": "(A Small Tent)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14145,
+        6,
+        14237
+      ],
+      "comment": "(the paladin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14142,
+        10,
+        5
+      ],
+      "comment": "(shiny armour)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14141,
+        10,
+        16
+      ],
+      "comment": "(a shiny sword)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14238,
+        1,
+        1
+      ],
+      "comment": "(Desert Entrance)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14238,
+        3,
+        1
+      ],
+      "comment": "(Desert Entrance)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14145,
+        6,
+        14238
+      ],
+      "comment": "(the paladin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14142,
+        10,
+        5
+      ],
+      "comment": "(shiny armour)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14141,
+        10,
+        16
+      ],
+      "comment": "(a shiny sword)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14231,
+        3,
+        1
+      ],
+      "comment": "(A Small Tent)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14145,
+        6,
+        14231
+      ],
+      "comment": "(the paladin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14141,
+        10,
+        16
+      ],
+      "comment": "(a shiny sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14142,
+        10,
+        5
+      ],
+      "comment": "(shiny armour)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14232,
+        0,
+        1
+      ],
+      "comment": "(A Small Tent)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14145,
+        6,
+        14232
+      ],
+      "comment": "(the paladin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14141,
+        10,
+        16
+      ],
+      "comment": "(a shiny sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14142,
+        10,
+        5
+      ],
+      "comment": "(shiny armour)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14210,
+        3,
+        1
+      ],
+      "comment": "(Forge)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14141,
+        1,
+        14210
+      ],
+      "comment": "(Julia the Tinker)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14105,
+        2,
+        17
+      ],
+      "comment": "(Cah)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14139,
+        10,
+        16
+      ],
+      "comment": "(a sword)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14212,
+        0,
+        1
+      ],
+      "comment": "(Residence)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14140,
+        5,
+        14212
+      ],
+      "comment": "(a tinker)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14138,
+        10,
+        16
+      ],
+      "comment": "(a hammer)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14211,
+        0,
+        1
+      ],
+      "comment": "(Residence)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14140,
+        5,
+        14211
+      ],
+      "comment": "(a tinker)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14138,
+        10,
+        16
+      ],
+      "comment": "(a hammer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14140,
+        5,
+        14208
+      ],
+      "comment": "(a tinker)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14138,
+        10,
+        16
+      ],
+      "comment": "(a hammer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14142,
+        1,
+        14208
+      ],
+      "comment": "(the Lady of Empath Abbey)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14140,
+        10,
+        3
+      ],
+      "comment": "(the Amulet of Love)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14132,
+        10,
+        14188
+      ],
+      "comment": "(the ettin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14137,
+        1,
+        14188
+      ],
+      "comment": "(Lord Simon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14137,
+        10,
+        16
+      ],
+      "comment": "(a bastard sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14135,
+        10,
+        14186
+      ],
+      "comment": "(the fighter)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14136,
+        10,
+        16
+      ],
+      "comment": "(a sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14136,
+        1,
+        14187
+      ],
+      "comment": "(Geoffrey the Fighter)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14106,
+        2,
+        17
+      ],
+      "comment": "(Ra)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14135,
+        10,
+        16
+      ],
+      "comment": "(a sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14126,
+        1,
+        14170
+      ],
+      "comment": "(Jaana the Druid)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14102,
+        2,
+        17
+      ],
+      "comment": "(Beh)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14134,
+        10,
+        16
+      ],
+      "comment": "(a staff)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14164,
+        1,
+        1
+      ],
+      "comment": "(The Bench)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14164,
+        3,
+        1
+      ],
+      "comment": "(The Bench)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14125,
+        1,
+        14164
+      ],
+      "comment": "(the Judge)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14133,
+        10,
+        16
+      ],
+      "comment": "(a gavel)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14116,
+        1,
+        14148
+      ],
+      "comment": "(Iolo the Bard)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14127,
+        10,
+        -1
+      ],
+      "comment": "(the bottle)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14128,
+        10,
+        -1
+      ],
+      "comment": "(Iolo's bow)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14100,
+        2,
+        17
+      ],
+      "comment": "(Mu)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14119,
+        1,
+        14145
+      ],
+      "comment": "(Gwenno the Bard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14130,
+        10,
+        16
+      ],
+      "comment": "(the Infinity Bow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14107,
+        1,
+        14135
+      ],
+      "comment": "(the giant spider)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14109,
+        1,
+        -1
+      ],
+      "comment": "(Moonstone)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14122,
+        10,
+        -1
+      ],
+      "comment": "(a robe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14105,
+        1,
+        14115
+      ],
+      "comment": "(Katrina the Shepherd)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14119,
+        10,
+        16
+      ],
+      "comment": "(Katrina's sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14101,
+        2,
+        17
+      ],
+      "comment": "(Lum)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14102,
+        10,
+        14101
+      ],
+      "comment": "(the shepherd)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14117,
+        10,
+        16
+      ],
+      "comment": "(the shepherd's crook)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14104,
+        10,
+        14101
+      ],
+      "comment": "(the sheep)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14107,
+        2,
+        1
+      ],
+      "comment": "(Barn)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14102,
+        10,
+        14107
+      ],
+      "comment": "(the shepherd)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14117,
+        10,
+        16
+      ],
+      "comment": "(the shepherd's crook)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14113,
+        0,
+        1
+      ],
+      "comment": "(Humility Lane)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14102,
+        10,
+        14113
+      ],
+      "comment": "(the shepherd)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14117,
+        10,
+        16
+      ],
+      "comment": "(the shepherd's crook)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14104,
+        10,
+        14113
+      ],
+      "comment": "(the sheep)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14113,
+        1,
+        14106
+      ],
+      "comment": "(Mr. Smithy)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14123,
+        10,
+        8
+      ],
+      "comment": "(Horseshoes)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14268,
+        2,
+        1
+      ],
+      "comment": "(Batlin's Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14162,
+        1,
+        14268
+      ],
+      "comment": "(Batlin)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14100,
+        2,
+        -1
+      ],
+      "comment": "(Mu)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14101,
+        2,
+        -1
+      ],
+      "comment": "(Lum)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14102,
+        2,
+        -1
+      ],
+      "comment": "(Beh)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14103,
+        2,
+        -1
+      ],
+      "comment": "(Ohm)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14104,
+        2,
+        -1
+      ],
+      "comment": "(Ahm)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14105,
+        2,
+        -1
+      ],
+      "comment": "(Cah)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14106,
+        2,
+        -1
+      ],
+      "comment": "(Ra)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14107,
+        2,
+        -1
+      ],
+      "comment": "(Summ)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14162,
+        10,
+        3
+      ],
+      "comment": "(a Fellowship medallion)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14103,
+        5,
+        14102
+      ],
+      "comment": "(the girl)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14118,
+        6,
+        17
+      ],
+      "comment": "(the doll)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14103,
+        4,
+        2
+      ],
+      "comment": "(The New Magincia Moongate)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14104,
+        1,
+        1
+      ],
+      "comment": "(New Magincia Road)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14104,
+        10,
+        14104
+      ],
+      "comment": "(the sheep)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14105,
+        3,
+        1
+      ],
+      "comment": "(New Magincia Road)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14108,
+        0,
+        1
+      ],
+      "comment": "(Humility Lane)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14100,
+        5,
+        14108
+      ],
+      "comment": "(the insects)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14103,
+        5,
+        14108
+      ],
+      "comment": "(the girl)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14118,
+        6,
+        17
+      ],
+      "comment": "(the doll)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14104,
+        10,
+        14108
+      ],
+      "comment": "(the sheep)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14110,
+        1,
+        1
+      ],
+      "comment": "(Condemned House)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14111,
+        5,
+        1
+      ],
+      "comment": "(Attic)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14101,
+        1,
+        14111
+      ],
+      "comment": "(the bat)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14108,
+        1,
+        -1
+      ],
+      "comment": "(Moonstone)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14112,
+        2,
+        1
+      ],
+      "comment": "(House)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14112,
+        4,
+        1
+      ],
+      "comment": "(House)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14103,
+        5,
+        14112
+      ],
+      "comment": "(the girl)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14118,
+        6,
+        17
+      ],
+      "comment": "(the doll)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14114,
+        3,
+        1
+      ],
+      "comment": "(Entrance to the Office)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14110,
+        1,
+        14118
+      ],
+      "comment": "(Mariah the Mage)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14104,
+        2,
+        17
+      ],
+      "comment": "(Ahm)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14106,
+        10,
+        14124
+      ],
+      "comment": "(the giant rat)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14128,
+        0,
+        1
+      ],
+      "comment": "(The Library Moongate)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14128,
+        4,
+        2
+      ],
+      "comment": "(The Library Moongate)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14108,
+        10,
+        14130
+      ],
+      "comment": "(the mage)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14122,
+        3,
+        5
+      ],
+      "comment": "(a robe)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14132,
+        2,
+        1
+      ],
+      "comment": "(Library)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14115,
+        3,
+        14137
+      ],
+      "comment": "(the beggar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14125,
+        3,
+        17
+      ],
+      "comment": "(a cup)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14118,
+        10,
+        14139
+      ],
+      "comment": "(the townsman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14130,
+        1,
+        14139
+      ],
+      "comment": "(the bartender)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14143,
+        5,
+        1
+      ],
+      "comment": "(The Southwest Corner of the Tavern)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14114,
+        5,
+        14144
+      ],
+      "comment": "(the bard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14124,
+        3,
+        16
+      ],
+      "comment": "(a mandolin)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14146,
+        4,
+        1
+      ],
+      "comment": "(Cellar)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14150,
+        4,
+        2
+      ],
+      "comment": "(The Britain Moongate)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14111,
+        20,
+        14152
+      ],
+      "comment": "(the slime)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14112,
+        1,
+        14154
+      ],
+      "comment": "(the snake)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14110,
+        1,
+        -1
+      ],
+      "comment": "(Moonstone)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        14126,
+        1,
+        14110
+      ],
+      "comment": "(some gold pieces)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14156,
+        2,
+        0
+      ],
+      "comment": "(In Front of the Courthouse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14129,
+        5,
+        14156
+      ],
+      "comment": "(the citizen of yew)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14124,
+        10,
+        14159
+      ],
+      "comment": "(the city druid)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14131,
+        1,
+        14160
+      ],
+      "comment": "(the pub owner)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14163,
+        0,
+        0
+      ],
+      "comment": "(The Audience Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14165,
+        3,
+        1
+      ],
+      "comment": "(Prison)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14166,
+        1,
+        1
+      ],
+      "comment": "(Prison)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14127,
+        1,
+        14167
+      ],
+      "comment": "(the dirty prisoner)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14111,
+        1,
+        -1
+      ],
+      "comment": "(Moonstone)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14128,
+        1,
+        14168
+      ],
+      "comment": "(the prisoner)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14121,
+        20,
+        14173
+      ],
+      "comment": "(the troll)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14132,
+        3,
+        16
+      ],
+      "comment": "(a stone club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14123,
+        10,
+        14178
+      ],
+      "comment": "(the forest druid)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14120,
+        5,
+        14180
+      ],
+      "comment": "(the orc)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14131,
+        3,
+        16
+      ],
+      "comment": "(a wooden spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14122,
+        10,
+        14181
+      ],
+      "comment": "(the wisp)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14184,
+        4,
+        2
+      ],
+      "comment": "(The Yew Moongate)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14133,
+        10,
+        14190
+      ],
+      "comment": "(the gremlin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14134,
+        1,
+        14192
+      ],
+      "comment": "(the headless)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14112,
+        1,
+        -1
+      ],
+      "comment": "(Moonstone)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14201,
+        4,
+        2
+      ],
+      "comment": "(The Dungeon Moongate)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14203,
+        1,
+        0
+      ],
+      "comment": "(The Armourer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14168,
+        1,
+        14203
+      ],
+      "comment": "(the armourer)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14204,
+        1,
+        0
+      ],
+      "comment": "(Minoc's Fountain)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14204,
+        3,
+        0
+      ],
+      "comment": "(Minoc's Fountain)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        14167,
+        1,
+        14204
+      ],
+      "comment": "(a fountain)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14205,
+        3,
+        0
+      ],
+      "comment": "(The Weaponsmith)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14169,
+        1,
+        14205
+      ],
+      "comment": "(the weaponseller)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14206,
+        1,
+        1
+      ],
+      "comment": "(The Boatseller)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14170,
+        1,
+        14206
+      ],
+      "comment": "(the boatseller)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14168,
+        3,
+        -1
+      ],
+      "comment": "(a boat)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14207,
+        2,
+        1
+      ],
+      "comment": "(Sacrifice Street)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14207,
+        3,
+        1
+      ],
+      "comment": "(Sacrifice Street)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14209,
+        1,
+        1
+      ],
+      "comment": "(Sacrifice Street)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14209,
+        2,
+        1
+      ],
+      "comment": "(Sacrifice Street)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14139,
+        2,
+        14214
+      ],
+      "comment": "(the gazer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14139,
+        2,
+        14215
+      ],
+      "comment": "(the gazer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14138,
+        2,
+        14216
+      ],
+      "comment": "(the mimic)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14138,
+        2,
+        14217
+      ],
+      "comment": "(the mimic)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14166,
+        5,
+        14221
+      ],
+      "comment": "(a seahorse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14165,
+        5,
+        14222
+      ],
+      "comment": "(the shark)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14167,
+        1,
+        14223
+      ],
+      "comment": "(the squid)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14113,
+        1,
+        -1
+      ],
+      "comment": "(Moonstone)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14228,
+        2,
+        1
+      ],
+      "comment": "(A Campfire)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14145,
+        6,
+        14229
+      ],
+      "comment": "(the paladin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14141,
+        3,
+        17
+      ],
+      "comment": "(a shiny sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14142,
+        3,
+        5
+      ],
+      "comment": "(shiny armour)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14230,
+        1,
+        1
+      ],
+      "comment": "(In front of the Grand Tent)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14230,
+        2,
+        1
+      ],
+      "comment": "(In front of the Grand Tent)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14234,
+        0,
+        1
+      ],
+      "comment": "(The Grand Tent)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14148,
+        1,
+        14234
+      ],
+      "comment": "(Draxthanum the Gargoyle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14144,
+        3,
+        16
+      ],
+      "comment": "(a boomerang)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14146,
+        1,
+        14236
+      ],
+      "comment": "(Dupre the Paladin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14107,
+        2,
+        17
+      ],
+      "comment": "(Summ)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14143,
+        3,
+        16
+      ],
+      "comment": "(a rapier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14143,
+        10,
+        14241
+      ],
+      "comment": "(the sandtrap)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14243,
+        4,
+        2
+      ],
+      "comment": "(The Desert Moongate)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14244,
+        4,
+        2
+      ],
+      "comment": "(The Desert Moongate)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14247,
+        4,
+        2
+      ],
+      "comment": "(The Desert Moongate)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14144,
+        1,
+        14248
+      ],
+      "comment": "(the dragon)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14114,
+        1,
+        -1
+      ],
+      "comment": "(Moonstone)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14147,
+        3,
+        14250
+      ],
+      "comment": "(the reaper)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14152,
+        1,
+        14251
+      ],
+      "comment": "(the daemon)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14115,
+        1,
+        -1
+      ],
+      "comment": "(Moonstone)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14147,
+        3,
+        14252
+      ],
+      "comment": "(the reaper)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14150,
+        5,
+        14253
+      ],
+      "comment": "(the ghost)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14147,
+        3,
+        14255
+      ],
+      "comment": "(the reaper)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14151,
+        3,
+        14255
+      ],
+      "comment": "(the skeleton)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14145,
+        3,
+        16
+      ],
+      "comment": "(a rusty sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14146,
+        3,
+        11
+      ],
+      "comment": "(a rusty shield)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14149,
+        5,
+        14260
+      ],
+      "comment": "(the spirit)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14153,
+        4,
+        14260
+      ],
+      "comment": "(the mourner)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14154,
+        1,
+        14261
+      ],
+      "comment": "(Shamino the Ranger)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14147,
+        3,
+        12
+      ],
+      "comment": "(a magic cloak)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14103,
+        2,
+        17
+      ],
+      "comment": "(Ohm)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14117,
+        1,
+        14262
+      ],
+      "comment": "(Chuckles the Jester)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14129,
+        3,
+        16
+      ],
+      "comment": "(a chicken)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        14167,
+        1,
+        14263
+      ],
+      "comment": "(a fountain)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        14266,
+        0,
+        1
+      ],
+      "comment": "(Hallway)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/141.zon"
+}

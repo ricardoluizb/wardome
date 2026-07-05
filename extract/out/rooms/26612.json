@@ -1,0 +1,21 @@
+{
+  "id": 26612,
+  "zone_id": 266,
+  "name": "Final",
+  "description": "Voce ja sabe os principais comandos basicos do mud, caso queira aprender um\npouco mais digite: '&Rsay quero ajuda&n' que o Ajudente de Newbie ira tirar\nsuas duvidas.  Depois que voce tirar todas as suas duvidas vc ja pode jogar mud\ntranquilamente.  Caso vc possua alguma outra duvida, digite : &Rnewbie\n(texto)&n para tirar duvidas com alguem que esteja online.  Se vc for do tipo\ncaladao, digite help para ver o help disponivel.  Continue a matar os monstros\naqui, qdo vc estiver no level 2, Digite '&Rsay estou pronto&n' para ser\ntransportado para uma zona mais avancada.  Os deuses e implementadores do\nWardome Mud esperam que vc tenha uma boa diversao aqui com conosco.    \n&n                                                    Atenciosamente, Someone.&n",
+  "header_raw": "266 1310740 0",
+  "flags_text": "1310740",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26611
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/266.wld"
+}

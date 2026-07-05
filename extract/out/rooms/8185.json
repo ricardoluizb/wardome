@@ -1,0 +1,21 @@
+{
+  "id": 8185,
+  "zone_id": 81,
+  "name": "On the Underground Lake",
+  "description": "This small cave is lit very faintly by a glow from above, which is\ngood because diving into the lake put out your light.  It is not very \nlarge; roughly a round inverted bowl, fifty feet across, and about 15\nfeet high.  To the north a small stream flows out through a tunnel. Of\nall the numerous influences that feed this lake, none are large enough, \nor low enough, for you to leave through.",
+  "header_raw": "81 204 6",
+  "flags_text": "204",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The stream flows fast, but not too much to swim in.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8186
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

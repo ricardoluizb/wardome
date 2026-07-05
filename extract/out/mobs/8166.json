@@ -1,0 +1,12 @@
+{
+  "id": 8166,
+  "alias": "orc",
+  "short_desc": "the orc",
+  "long_desc": "A large Orc stands here, looking for dinner.",
+  "detailed_desc": "Offering him a waybread was a BAD idea, you now think.  Orcs don't \nlike elves very much.  Well, they do like elves dead.  In fact, they\nlike almost any meat. You probably look like a tasty meal.",
+  "flags_raw": "108 1024 -800 E",
+  "stats1_raw": "160 -82 -30 1d1+18552 5d49+174",
+  "stats2_raw": "2400 19779044 11",
+  "stats3_raw": "8 8 1 -1 5",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 22056,
+  "zone_id": 220,
+  "name": "A dead end in the maze",
+  "description": "This dead end is blocked off by an enormous statue of a warrior balrog\ngripping a scythe covered in blood.",
+  "header_raw": "220 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22055
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/220.wld"
+}

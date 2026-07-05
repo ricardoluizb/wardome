@@ -1,0 +1,12 @@
+{
+  "id": 17824,
+  "alias": "cook hobgoblin",
+  "short_desc": "the cook",
+  "long_desc": "A hobgoblin cook stands here cooking something.",
+  "detailed_desc": "The cook is a dirty and fat hobgoblin.  He burps as he stirs up something\nin a pot.",
+  "flags_raw": "14 0 -300 E",
+  "stats1_raw": "45 -2 3 1d1+945 5d5+18",
+  "stats2_raw": "675 313200 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/178.mob"
+}

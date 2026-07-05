@@ -4,9 +4,9 @@
   "short_desc": "the bandit",
   "long_desc": "A bandit springs into action upon seeing you.",
   "detailed_desc": "Whew!  Has this guy ever seen a bath?  His face, hands, arms...\nnearly every bit of him is covered with grime, dust, dirt and\ndecay.  His sword is polished and cleaned though...",
-  "flags_raw": "chjk 0 -500 S",
-  "stats1_raw": "16 5 -20 3d5+195 2d8+3",
-  "stats2_raw": "1000 25000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "1708 0 -500 E",
+  "stats1_raw": "185 -78 -22 1d1+9612 5d19+104",
+  "stats2_raw": "2775 21560153 3",
+  "stats3_raw": "8 8 1 2 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/33.mob"
 }

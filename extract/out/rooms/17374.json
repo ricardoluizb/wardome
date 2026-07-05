@@ -1,0 +1,29 @@
+{
+  "id": 17374,
+  "zone_id": 173,
+  "name": "Knight's Barracks",
+  "description": "You have entered the knights barracks. Cots and armor stands fill the room.\nSome knights are here sleeping and healing from their war wounds. A simple \nwash stand is at the end of the quarters, and the windows are shaded to \ndarken the room. The only conversation is in hushed tones. There is a door \nleading south to the court of Camelot, and a staircase winds its way upwards \nto a tower.",
+  "header_raw": "173 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see the Court of Camelot",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17370
+    },
+    {
+      "dir": 4,
+      "description": "A staircase winding upwards",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17375
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

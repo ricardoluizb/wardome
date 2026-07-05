@@ -1,0 +1,21 @@
+{
+  "id": 30524,
+  "zone_id": 305,
+  "name": "&BThe Temple of the Advanced Races&n",
+  "description": "Here is the temple for the people who have achieved a greater race level,\nalso known as reborn.  If you are one of these people, congrats!  And please,\nmake yourself at home.",
+  "header_raw": "305 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30511
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/305.wld"
+}

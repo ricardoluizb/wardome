@@ -1,0 +1,21 @@
+{
+  "id": 11230,
+  "zone_id": 112,
+  "name": "A Foul Nest",
+  "description": "Some wild animal has constructed a nest in the ruined remains of this\nburnt out pub, furnishing its accomodations with the bones of its many\nvictims and various other objects. Blood and scraps of flesh litter the\nfloor, interspersed with the tattered remnants of the unfortunate victims'\npossessions.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11228
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

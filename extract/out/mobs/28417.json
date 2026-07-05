@@ -1,0 +1,12 @@
+{
+  "id": 28417,
+  "alias": "Man o War Man-o-War",
+  "short_desc": "Man-o-War",
+  "long_desc": "+The tentacles of a Man-o-War lunge at you.",
+  "detailed_desc": "The Man-o-War is so ghastly looking that you feel the deepest fear: Big yellow \neyes and sharp teeth.  Its ears are very big, and it has small sharp horns.  \nThis type of monster is one of the greatest haters of beauty (next after     \nMedusa).",
+  "flags_raw": "8388616 0 0 E",
+  "stats1_raw": "100 -30 -5 1d1+2796 5d11+40",
+  "stats2_raw": "1500 2916487 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/284.mob"
+}

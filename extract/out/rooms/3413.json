@@ -1,0 +1,29 @@
+{
+  "id": 3413,
+  "zone_id": 34,
+  "name": "The Shrine of Shohan",
+  "description": "BLOOD EVERYWHERE!\nThe walls are coated with blood, bits of bloody flesh lie at your feet,\nand torn clothing is scattered about.  It wouldn't disturb you in the least\nexcept that it is all FRESH!  What ever used to pass as an altar here,\nlies overturned and smashed.  Doors lead to the south and to the north.",
+  "header_raw": "34 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "north door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 3412
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "south door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 3414
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/34.wld"
+}

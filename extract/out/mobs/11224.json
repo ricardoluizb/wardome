@@ -1,0 +1,12 @@
+{
+  "id": 11224,
+  "alias": "insane merchant",
+  "short_desc": "an insane merchant",
+  "long_desc": "A ragged, dishevelled old man sits weeping on the dirty floor.",
+  "detailed_desc": "This poor fellow appears to have suffered mightily at the hands of\nwhatever has taken over this town; his mind has been broken by what\nhe has been subjected to.",
+  "flags_raw": "10 0 0 E",
+  "stats1_raw": "35 -15 -8 1d1+3492 5d7+104",
+  "stats2_raw": "525 238782 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

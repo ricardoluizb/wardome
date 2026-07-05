@@ -1,0 +1,29 @@
+{
+  "id": 13109,
+  "zone_id": 131,
+  "name": "Yet Another Room",
+  "description": "You find yourself standing in yet another room.  Your mind reels as you\ndiscover this room is the same as the one you just came from!",
+  "header_raw": "131 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "North is where you came from.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13107
+    },
+    {
+      "dir": 1,
+      "description": "East leads to a room that LOOKS different.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13110
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/131.wld"
+}

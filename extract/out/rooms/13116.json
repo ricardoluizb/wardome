@@ -1,0 +1,29 @@
+{
+  "id": 13116,
+  "zone_id": 131,
+  "name": "The bath",
+  "description": "You are standing in a public bath.  Samurai's walk around in towels and\nglare at you for intruding.  You have a strange feeling that no one should\never interupt a samurai while he's bathing.",
+  "header_raw": "131 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A landing is to your north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13115
+    },
+    {
+      "dir": 1,
+      "description": "The antechamber is to your east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13117
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/131.wld"
+}

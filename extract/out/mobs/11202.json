@@ -1,0 +1,12 @@
+{
+  "id": 11202,
+  "alias": "illithid mage",
+  "short_desc": "an illithid mage",
+  "long_desc": "A purple skinned illithid clad in the robes of a mage stands here.",
+  "detailed_desc": "Three illithid mages assist the beholder mage xyrtog in his insidious\nschemes. One of them is usually away, recruiting new slaves or similar,\nwhile the other two work here on ways to increase the sphere of the\nensorcellment's influence. And they are in a state of excitement, as\nthey have finally succeeded.",
+  "flags_raw": "106 8232 -600 E",
+  "stats1_raw": "35 -15 -8 1d1+3492 5d7+104",
+  "stats2_raw": "525 238782 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

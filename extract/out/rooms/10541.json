@@ -1,0 +1,37 @@
+{
+  "id": 10541,
+  "zone_id": 104,
+  "name": "Ice Room",
+  "description": "You are standing in a room of ice. Icicles of every size hang from the\nceiling. Some shake with every sound. Your reflection off the ice walls\nseems to dance and wiggle as you move about.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see a room of ice.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10473
+    },
+    {
+      "dir": 2,
+      "description": "You see a room of ice.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10482
+    },
+    {
+      "dir": 3,
+      "description": "You see a room of ice.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10472
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

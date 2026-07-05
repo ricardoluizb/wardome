@@ -1,0 +1,21 @@
+{
+  "id": 32605,
+  "zone_id": 326,
+  "name": "The Kiss Store",
+  "description": "Finally an almost normal place around here. This is a cave lightned with many candles. Maybe too many.",
+  "header_raw": "326 144 0",
+  "flags_text": "144",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 32604
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/326.wld"
+}

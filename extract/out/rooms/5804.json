@@ -1,0 +1,29 @@
+{
+  "id": 5804,
+  "zone_id": 57,
+  "name": "Outside a Door",
+  "description": "You are standing at the end of a short east west corrdior, outside a door\nset in the north wall. You can open this door, or head back to the east,\nwhere you can see a bridge crossing a wide river.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a door",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5805
+    },
+    {
+      "dir": 1,
+      "description": "a junction on the north bank near a bridge",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5798
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

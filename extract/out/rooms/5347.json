@@ -3,8 +3,8 @@
   "zone_id": 53,
   "name": "A Sandstone Crypt",
   "description": "This small crypt is lit by a hole in the wall to the south, through\nwhich sand pours from the desert outside.  A hot wind blows in from the\ndesert, drying your skin instantly.  To the east and north the arched\nhallway continues.",
-  "header_raw": "53 d 0",
-  "flags_text": "d",
+  "header_raw": "53 32776 0",
+  "flags_text": "32776",
   "sector": 0,
   "exits": [
     {

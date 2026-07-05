@@ -1,0 +1,37 @@
+{
+  "id": 2030,
+  "zone_id": 20,
+  "name": "Heaven",
+  "description": "If you have choosen here you feel a pleasent light feeling come over you..\nyou feel content and happy as you feel you are floating on air..There is a\nlite blue mist about you and shimmering lites of color everywhere....almost\na twinkling of stars of lights all around you...  This is a good place..\nand from here you can return to reality...",
+  "header_raw": "20 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2028
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2031
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2032
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

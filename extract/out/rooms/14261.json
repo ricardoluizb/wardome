@@ -1,0 +1,29 @@
+{
+  "id": 14261,
+  "zone_id": 141,
+  "name": "The Graveyard",
+  "description": "The light here is bright and lovely.",
+  "header_raw": "141 64 2",
+  "flags_text": "64",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14258
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14260
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

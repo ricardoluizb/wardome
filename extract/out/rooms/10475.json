@@ -1,0 +1,29 @@
+{
+  "id": 10475,
+  "zone_id": 104,
+  "name": "Meat Locker",
+  "description": "Rows of beef and other meats hang from large steel hooks. You notice that \nmany of the things hanging from the hooks are corpses of people. They \nreach out to you as you pass them as if to plead for help from their frozen \nmouths. \nThe meat locker continues to the south and west.\nThere is a freezer door to the east.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see a freezer door.",
+      "keywords": "freezer",
+      "door_flag": 1,
+      "key": -1,
+      "to": 10476
+    },
+    {
+      "dir": 2,
+      "description": "You see more of the Meat locker",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10485
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

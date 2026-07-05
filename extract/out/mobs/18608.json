@@ -4,9 +4,9 @@
   "short_desc": "the quasit",
   "long_desc": "A funny little imp-like thing (a quasit perhaps?) is sneaking about here.",
   "detailed_desc": "Little green, vaguely humoniod shaped creature, with a long pointed tail.\nIt is hard to say because before you ever get a good look at it, it darts\nback into the shadows.",
-  "flags_raw": "228 0 -800 S",
-  "stats1_raw": "3 19 7 1d10+30 1d4+1",
-  "stats2_raw": "0 300",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "236 0 -800 E",
+  "stats1_raw": "2 19 9 1d1+36 5d1+0",
+  "stats2_raw": "30 376 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/186.mob"
 }

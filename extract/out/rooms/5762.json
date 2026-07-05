@@ -1,0 +1,50 @@
+{
+  "id": 5762,
+  "zone_id": 57,
+  "name": "Outside Three Doors",
+  "description": "You are standing in a north-south running corridor between two doors. The\none to the east has a small sign upon it, while the one to the west is\nblank. You can here a gentle humming noise, as if of someone singing to\nthemself, behind the east door.\n\nThere is another, pitch-black portal to the north. It looks ominous...",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a pitch-black portal",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5766
+    },
+    {
+      "dir": 1,
+      "description": "a shop",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5764
+    },
+    {
+      "dir": 2,
+      "description": "a bend",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5761
+    },
+    {
+      "dir": 3,
+      "description": "a door",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5763
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "The sign says, in large, neatly-scribed letters-\n\n     \"T H E     H O U S E     O F      C A N D L E S\"\n     \n     Visitors welcome. Please leave your children and pets outside.\n     No Hawkers or Canvassers. Shoplifters WILL be prosecuted."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

@@ -1,0 +1,42 @@
+{
+  "id": 3707,
+  "zone_id": 37,
+  "name": "A Gravel Path on the Graveyard",
+  "description": "You are on a gravel path winding its way between dark evergreen trees on\nthe graveyard.  The path leads north and west.  An old tomb is here.",
+  "header_raw": "37 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The gravel path continues northwards.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3705
+    },
+    {
+      "dir": 3,
+      "description": "The gravel path continues westwards.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3709
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "tomb stone",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3708
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "tomb stone",
+      "description": "It is a large rectangular slab of dark grey stone that has been placed face\nup in the ground.  The name has been erased by the ravages of time."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/37.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 30066,
+  "zone_id": 300,
+  "name": "An elven home",
+  "description": "There are two beds to be found in this large bedroom.  You guess that the\nlarger bed is for the parents whilst the other is for a \"youngish\" elf.  The\nonly other furniture in here are the two antique dressers.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30065
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

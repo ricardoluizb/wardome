@@ -1,0 +1,34 @@
+{
+  "id": 14123,
+  "zone_id": 141,
+  "name": "Library",
+  "description": "The Library continues here, with exits to the east and south .",
+  "header_raw": "141 72 0",
+  "flags_text": "72",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14122
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14124
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "book books shelves",
+      "description": "The books here comprise 'H' and 'I'.  'Hiya: The Women who Use\nit, and the Man who Use the Women'  and 'Icaza Loves Ya' are here\nin a gaudy and annoying covers."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

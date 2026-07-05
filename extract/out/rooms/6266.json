@@ -3,8 +3,8 @@
   "zone_id": 62,
   "name": "The Laboratory",
   "description": "This is a fairly roomy laboratory that extends to the \nnorth, with cages set on the east side of the room.  A \nmetal table here is empty, although you can see some \noutlines in the dust that suggest books had laid here \nonce.",
-  "header_raw": "62 d 0",
-  "flags_text": "d",
+  "header_raw": "62 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

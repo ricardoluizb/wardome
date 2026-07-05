@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Golem Chamber",
   "description": "You are in the golem chamber.  Golems made of every imaginable material\nare here, ranging in size from a hand-span to nearly the ceiling.  They all\nseem to be sleeping.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

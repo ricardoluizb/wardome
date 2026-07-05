@@ -1,0 +1,29 @@
+{
+  "id": 14113,
+  "zone_id": 141,
+  "name": "Humility Lane",
+  "description": "This is a very small path.  It ends here with a fence to the\neast.  To the west is the Moongate, and to the north there is a\nsmall house.",
+  "header_raw": "141 64 1",
+  "flags_text": "64",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14112
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14103
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

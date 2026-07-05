@@ -1,0 +1,29 @@
+{
+  "id": 13117,
+  "zone_id": 131,
+  "name": "The Antechamber of Ko",
+  "description": "You stand in the antechamber of the Shogun of Ko.  The room is brightly\ncolored and the walls are filled with inscriptions honoring fathers and mothers\nof the samurai who abide here.",
+  "header_raw": "131 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "To the north is the chamber of the Shogun.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13118
+    },
+    {
+      "dir": 3,
+      "description": "Water can be heard to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13116
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/131.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2927,
+  "zone_id": 29,
+  "name": "Outside the temple",
+  "description": "You are standing outside the fire newt temple.  The temple has some very\nlarge arches and towers.",
+  "header_raw": "29 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see the entrance to the fire newt temple.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2928
+    },
+    {
+      "dir": 3,
+      "description": "You see the dark tunnel.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2923
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/29.wld"
+}

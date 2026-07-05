@@ -1,0 +1,12 @@
+{
+  "id": 6761,
+  "alias": "mage blind man",
+  "short_desc": "an old blind mage",
+  "long_desc": "A blind mage is sitting here, communing with nature.",
+  "detailed_desc": "His blank eyes, the color long lost, leave the broad sky and seem\nto stare right through you. His sanity, also long lost, might have\nmade him a fine fellow once, but he would best be left alone now.",
+  "flags_raw": "15 1 -800 E",
+  "stats1_raw": "150 -55 -12 1d1+4200 5d16+60",
+  "stats2_raw": "2250 11339572 0",
+  "stats3_raw": "8 8 1 8 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/67.mob"
+}

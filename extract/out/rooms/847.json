@@ -1,0 +1,21 @@
+{
+  "id": 847,
+  "zone_id": 7,
+  "name": "Fleecem and Son",
+  "description": "This is a small, hole in the wall office, lined with boxes\nand crates of paper and files.  An old, beaten-up desk stands\nnear the door, very much on its last legs.  The air is thick\nand humid, the decorations too garish, the space is too crowded.\nA name plaque on the desk says 'Bungle Fleecem, Esq.'",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 730
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

@@ -4,9 +4,9 @@
   "short_desc": "the brown bear",
   "long_desc": "A big, brown, angry-looking bear is here.",
   "detailed_desc": "The bear is a big, brown, furry animal with very large claws and very sharp\nteeth.  It doesn't resemble those cute little dolls from toy shops at all.",
-  "flags_raw": "fg 0 -50 S",
-  "stats1_raw": "8 13 3 1d12+98 2d6+2",
-  "stats2_raw": "0 4000",
-  "stats3_raw": "4 8 0",
+  "flags_raw": "1128 0 -50 E",
+  "stats1_raw": "8 16 8 1d1+162 5d1+2",
+  "stats2_raw": "120 4344 0",
+  "stats3_raw": "4 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/60.mob"
 }

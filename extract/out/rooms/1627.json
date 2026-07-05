@@ -1,0 +1,21 @@
+{
+  "id": 1627,
+  "zone_id": 16,
+  "name": "Kitchen",
+  "description": "You have entered what must once have been a kitchen. The rusting remains of\nvarious utensils lie on countertops. There is also an old wash basin and a\npot-belly stove.  There is a door south, and a serving hatch east.",
+  "header_raw": "16 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1625
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

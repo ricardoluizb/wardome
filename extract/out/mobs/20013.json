@@ -1,0 +1,12 @@
+{
+  "id": 20013,
+  "alias": "farmer",
+  "short_desc": "a farmer",
+  "long_desc": "A tired farmer relaxes here, for awhile.",
+  "detailed_desc": "The dust and dirt of the land cover this man head to toe.  His eyes look weary,\nhis hands calloused, and those big workboots he's wearing just can't be\ncomfortable.  This man is one of the citizenry elite he feeds the people\nthrough his own hard work.  Maybe you should buy him a beer.",
+  "flags_raw": "1204296 1032 -500 E",
+  "stats1_raw": "140 -56 -15 1d1+7272 5d15+86",
+  "stats2_raw": "2100 9592545 3",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/200.mob"
+}

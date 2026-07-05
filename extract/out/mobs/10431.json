@@ -1,0 +1,12 @@
+{
+  "id": 10431,
+  "alias": "oldstyle wall fire",
+  "short_desc": "the wall of fire",
+  "long_desc": "A wall of fire is here, creeping slowly across the room.",
+  "detailed_desc": "It is simply a large, door-sized wall of fire.  It slowly inches across the\nroom, burning everything in its path, including the poor souls that are chained\nto the various posts around the room.",
+  "flags_raw": "4194314 8389760 -600 E",
+  "stats1_raw": "110 -37 -8 1d1+3960 5d12+54",
+  "stats2_raw": "1650 4651927 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/104.mob"
+}

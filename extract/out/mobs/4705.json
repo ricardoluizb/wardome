@@ -1,0 +1,12 @@
+{
+  "id": 4705,
+  "alias": "duergar dwarf",
+  "short_desc": "the duergar dwarf",
+  "long_desc": "A repulsive Duergar is here, biting at its own arm.",
+  "detailed_desc": "The Duergar are the outcast dark dwarves.  They have grown insane through\ntheir isolation from the rest of the dwarven population and have become bitter\nenemies with them.",
+  "flags_raw": "44 8 -1000 E",
+  "stats1_raw": "65 -20 -5 1d1+3900 5d7+66",
+  "stats2_raw": "975 1098968 4",
+  "stats3_raw": "8 0 1 3 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/47.mob"
+}

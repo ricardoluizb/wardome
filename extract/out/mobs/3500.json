@@ -4,9 +4,9 @@
   "short_desc": "the wyvern",
   "long_desc": "A monstrous wyvern slowly circles just above your head.",
   "detailed_desc": "This huge winged creature looks really menacing as it circles only inches\nabove your head, flapping its wings and squawking very loudly.",
-  "flags_raw": "bgjq 0 -700 S",
-  "stats1_raw": "8 13 3 2d10+90 2d6+1",
-  "stats2_raw": "0 3575",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "66154 0 -700 E",
+  "stats1_raw": "5 18 9 1d1+99 5d1+2",
+  "stats2_raw": "75 1651 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/35.mob"
 }

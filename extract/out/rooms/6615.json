@@ -1,0 +1,21 @@
+{
+  "id": 6615,
+  "zone_id": 66,
+  "name": "The office room",
+  "description": "you are in the Office room..\nJust get out of here.\n&ROR YOUR DIE.&n",
+  "header_raw": "66 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6613
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/66.wld"
+}

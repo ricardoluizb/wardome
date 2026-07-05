@@ -1,0 +1,45 @@
+{
+  "id": 7817,
+  "zone_id": 78,
+  "name": "The Edge of the Valley",
+  "description": "You are at the edge of the Valley of the Elves.  A steep trail leads up toward\nthe deer trail circling the valley.  The valley continues north, south, and\nwest.",
+  "header_raw": "78 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The valley continues north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7822
+    },
+    {
+      "dir": 2,
+      "description": "The valley continues south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7812
+    },
+    {
+      "dir": 3,
+      "description": "The valley continues west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7816
+    },
+    {
+      "dir": 4,
+      "description": "The steep trail leads up.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7853
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/78.wld"
+}

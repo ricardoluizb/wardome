@@ -1,0 +1,12 @@
+{
+  "id": 305,
+  "alias": "oldstyle worm Shudde-M'ell",
+  "short_desc": "Shudde-M'ell",
+  "long_desc": "Shudde-M'ell the Giant worm of G'harne is guarding his treasure.",
+  "detailed_desc": "Shudde-M'ell is about 15 ft long and is surrounded by an evil stench,\nThe worm is the protector of the treasure of G'harne and has been so\nfor as long anyone can remember.",
+  "flags_raw": "42 8 -1000 E",
+  "stats1_raw": "15 13 7 1d1+315 5d2+6",
+  "stats2_raw": "225 18413 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/3.mob"
+}

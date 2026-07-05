@@ -1,0 +1,35 @@
+{
+  "id": 6711,
+  "producing": [
+    6723,
+    6722,
+    6708
+  ],
+  "profit_buy": 1.0,
+  "profit_sell": 1.0,
+  "buy_types": [
+    "10"
+  ],
+  "messages": [
+    "%s Do I carry that? Try list.",
+    "%s You don't seem to have that.",
+    "%s I cannot afford to purchase such a treasure.",
+    "%s This potion is too expensive for you.",
+    "%s My specialty is elixirs. Try another shop.",
+    "%s That'll be %d coins.",
+    "%s I'll give you %d coins for that!"
+  ],
+  "tail": [
+    2,
+    2,
+    6729,
+    0,
+    6711,
+    -1,
+    0,
+    28,
+    0,
+    0
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/67.shp"
+}

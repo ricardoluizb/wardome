@@ -1,0 +1,34 @@
+{
+  "id": 2300,
+  "zone_id": 23,
+  "name": "The dark woods",
+  "description": "You are travelling through woods that are as dark as night. The trees above\nblock all light and wind. The air is stagnant and smells of death and decay.\nThe lack of sounds and other signs of life make your skin crawl and you feel\nvery much like turning back and heading for safer areas. The path leads north\ninto more open lands while it also leads south into the darkness of the forest.\nA small sign is posted here.",
+  "header_raw": "23 4 3",
+  "flags_text": "4",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 15001
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2301
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "[]================================[]\n     |      BEWARE!      | Hope you   |\n     |   Travellers are  | enjoy it!  |\n     |  advised to stay  | <------->  |\n     |   in groups for   |  Skurge    |\n     |      safety.      | Ragnarok   |\n    []================================[]"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

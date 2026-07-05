@@ -1,0 +1,12 @@
+{
+  "id": 5754,
+  "alias": "giant",
+  "short_desc": "a burly Giant",
+  "long_desc": "A burly Giant hurls a leg of lamb at you before attacking!",
+  "detailed_desc": "You have disturbed this big fellow's evening repast, and he is not happy \nabout it.",
+  "flags_raw": "106 8192 0 E",
+  "stats1_raw": "30 -17 -11 1d1+3480 5d10+122",
+  "stats2_raw": "450 185326 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

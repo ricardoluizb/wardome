@@ -1,0 +1,21 @@
+{
+  "id": 2376,
+  "zone_id": 23,
+  "name": "A small guard house",
+  "description": "You enter a small guard house. A huge fireplace lights and warms the room.\nLooking around, you see that the room is fairly well furnished. Thick rugs\nand curtains help insulate the room and the beds themselves look quite warm.\nA table in the center of the room has the remnants of a card game strewn\nacross it. A small door leads south.",
+  "header_raw": "23 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2377
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

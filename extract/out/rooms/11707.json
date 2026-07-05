@@ -1,0 +1,21 @@
+{
+  "id": 11707,
+  "zone_id": 117,
+  "name": "Melchior's private bedroom.",
+  "description": "Melchior, the priest of life lives here in this small cabin with only one bed\nand a small desk.  He is one of the great gurus that control the flow of\neverthing in universe.  Melchior must be treated with respect and be polite\nwhile talking with him.",
+  "header_raw": "117 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "altar",
+      "door_flag": 2,
+      "key": 0,
+      "to": 11705
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/117.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 1128,
+  "zone_id": 11,
+  "name": "A grassy field",
+  "description": "You stand in the center of a grassy field.  A great birthday party appears\nto be taking place.  Great tables of food are spread out and a young halfling\nbeauty offers you welcome.  You are enticed by her generosity and suggestive\nwinks.",
+  "header_raw": "11 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A small hill to the east blocks your view.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1126
+    },
+    {
+      "dir": 2,
+      "description": "You see a grassy field.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1192
+    },
+    {
+      "dir": 3,
+      "description": "You see a grassy field.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1130
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

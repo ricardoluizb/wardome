@@ -1,10 +1,10 @@
 {
   "id": 7345,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "The Pool",
   "description": "You are swimming in DARKNESS.  You feel something touching your right leg.",
-  "header_raw": "73 ad 6",
-  "flags_text": "ad",
+  "header_raw": "72 4194573 6",
+  "flags_text": "4194573",
   "sector": 6,
   "exits": [
     {

@@ -1,0 +1,12 @@
+{
+  "id": 11590,
+  "alias": "wolf pets",
+  "short_desc": "the wolf",
+  "long_desc": "A large, trained wolf is here.",
+  "detailed_desc": "The wolf looks like a strong, fearless fighter.",
+  "flags_raw": "8 0 0 E",
+  "stats1_raw": "50 -9 0 1d1+2196 5d6+40",
+  "stats2_raw": "750 514062 2",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

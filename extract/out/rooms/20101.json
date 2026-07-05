@@ -1,0 +1,37 @@
+{
+  "id": 20101,
+  "zone_id": 201,
+  "name": "Mountain Stairs",
+  "description": "A flight of stairs carved onto the mountain leads up.\nYou can barely see a temple of some sort on top of the mountain.\nYou see the path back to the beach to the south.",
+  "header_raw": "201 16777220 5",
+  "flags_text": "16777220",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see the foot of the mountain ahead.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    },
+    {
+      "dir": 4,
+      "description": "The stairs leads up.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20102
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 910
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/201.wld"
+}

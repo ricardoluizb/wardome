@@ -1,0 +1,24 @@
+{
+  "id": 210,
+  "name": "New Zone",
+  "header": {
+    "raw": "21099 30 2 0 -1",
+    "min_room": 21099,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": 0
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        32603,
+        1,
+        21000
+      ],
+      "comment": "(Warrior)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/210.zon"
+}

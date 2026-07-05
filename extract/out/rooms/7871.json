@@ -1,0 +1,29 @@
+{
+  "id": 7871,
+  "zone_id": 78,
+  "name": "The Small Valley",
+  "description": "You are in the small valley.  Strangely, tall trees grow here, almost as if some\nmagic was used to help them grow.  To the south-west is a small shack.",
+  "header_raw": "78 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The valley continues to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7870
+    },
+    {
+      "dir": 3,
+      "description": "The valley continues to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7873
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/78.wld"
+}

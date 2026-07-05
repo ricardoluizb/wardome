@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Guard House",
   "description": "You stand inside the southern of the two main guard houses.  The\nstone interior has a spartan look to it, only the bare neccesities.\nA few weapons are mounted on the walls in case they might be needed.",
-  "header_raw": "54 d 0",
-  "flags_text": "d",
+  "header_raw": "54 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

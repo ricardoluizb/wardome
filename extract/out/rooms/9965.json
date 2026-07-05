@@ -1,0 +1,29 @@
+{
+  "id": 9965,
+  "zone_id": 99,
+  "name": "A vandalized closet.",
+  "description": "You are standing in a small, walk-in closet.  Children's clothes, \nand shoe boxes lie about, stinking of mildew.  There appears to be \nonly one exit - East.",
+  "header_raw": "99 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9964
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "shoebox",
+      "door_flag": 2,
+      "key": 9965,
+      "to": 9911
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

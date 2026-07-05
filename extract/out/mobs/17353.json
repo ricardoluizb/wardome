@@ -1,0 +1,12 @@
+{
+  "id": 17353,
+  "alias": "calvary unit",
+  "short_desc": "the calvary unit",
+  "long_desc": "A calvary unit is here, flanking the enemy lines.",
+  "detailed_desc": "The calvary unit consists of about 30 mounted knights on medium warhorses.",
+  "flags_raw": "10 0 200 E",
+  "stats1_raw": "145 -52 -11 1d1+4056 5d15+58",
+  "stats2_raw": "2175 8494573 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/173.mob"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 11273,
+  "zone_id": 112,
+  "name": "Before the Altar",
+  "description": "A shimmering field of black energy suffuses this section of the temple,\nits source the new towering black monolith that serves an altar to the\nvile demon No'ol and also suffices in a role as a sacrifical table. You\nfeel ill at ease here, and realize that the magical forces here will make\nescape difficult from whatever may lie ahead, behind the massive bloodsoaked\naltar. You dodge around mangled corpses dangling from barbed hooks attached\nto long rusted metal chains depending from the arched ceiling, which has been\nblackened by fire.",
+  "header_raw": "112 1056776 0",
+  "flags_text": "1056776",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11261
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11274
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

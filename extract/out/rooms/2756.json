@@ -1,0 +1,45 @@
+{
+  "id": 2756,
+  "zone_id": 27,
+  "name": "East of main street",
+  "description": "You are on the small cobblestoned main street of Bree.  To the north is the\nHall of Guilds, an unimposing administrative building.  To the northwest is the\nnorthern gate of Bree.  The Great East Road turns south to go around Bree Hill\nand continues east into the Greenway.  You can see the entrance to the\ncourthouse to the southwest, and the Prancing Pony to the east.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2757
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2762
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2761
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2746
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

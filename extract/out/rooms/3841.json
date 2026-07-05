@@ -1,0 +1,21 @@
+{
+  "id": 3841,
+  "zone_id": 38,
+  "name": "Hatchet's Study",
+  "description": "You are in a small, cluttered room.  You are amazed by the amount of trash in\nthis room, especially compared to the large, opulent room this is connected to.\nA picture of the fair lady Icaza is on a wall, next to a Cindy Crawford\ncalendar.  You can hear the song 'Somewhere Out There' in the background.  The\nexit is to the south.",
+  "header_raw": "38 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 3840
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

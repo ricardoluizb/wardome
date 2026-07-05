@@ -1,0 +1,29 @@
+{
+  "id": 14361,
+  "zone_id": 143,
+  "name": "In the Crypt",
+  "description": "This room has been plated with giant gold slabs, much too heavy for you to\ncarry. Several bas-reliefs have been etched into them, depicting religious\nceremonies and godly interventions. The smell of rotting meat hangs in the\nair.",
+  "header_raw": "143 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The room ahead is dark.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14362
+    },
+    {
+      "dir": 4,
+      "description": "The staircase leads up into the darkness.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14360
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

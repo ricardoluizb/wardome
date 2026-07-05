@@ -1,0 +1,37 @@
+{
+  "id": 12395,
+  "zone_id": 122,
+  "name": "Yggdrasil",
+  "description": "At this point, cries of pain and anger combined with the sounds of\ncombat echo across the boughs of the trees, coming from a snowfield to\nthe east. You can barely make out many warriors, battling fiercely\nwith each other, and wonder if it would be safe to enter this place,\nseeing as the comforting surrounds of Yggdrasil feel so safe and secure.",
+  "header_raw": "122 4 3",
+  "flags_text": "4",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12324
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12213
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12396
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

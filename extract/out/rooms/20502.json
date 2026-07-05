@@ -1,0 +1,29 @@
+{
+  "id": 20502,
+  "zone_id": 205,
+  "name": "Ascension",
+  "description": "The sun burns your skin and you feel the soil shiver by the activities\nof the creatures inside. The long path continues upside.",
+  "header_raw": "205 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20503
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20501
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/205.wld"
+}

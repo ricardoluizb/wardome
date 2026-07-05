@@ -1,0 +1,12 @@
+{
+  "id": 10430,
+  "alias": "oldstyle fire devil",
+  "short_desc": "the fire devil",
+  "long_desc": "A fire devil stands here with a box of matches, lighting up poor souls.",
+  "detailed_desc": "It is an indescribably grotesque creature.  Its pale, green-yellow skin\nerupts with blisters and puss.  As you look at it, it smiles at you with\nsharp, blood-covered teeth.  This is definitely a face only a mother could\nlove.",
+  "flags_raw": "4194314 8389760 -1000 E",
+  "stats1_raw": "110 -37 -8 1d1+3960 5d12+54",
+  "stats2_raw": "1650 4651927 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/104.mob"
+}

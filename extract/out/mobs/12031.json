@@ -4,9 +4,9 @@
   "short_desc": "Venus",
   "long_desc": "Venus, the Goddess of Beauty and Knowledge, is resting here.",
   "detailed_desc": "Venus is probably one of the most beautiful women you have ever seen\nif not THE most beautiful.  She is very powerful and tough under that\nouter image of beauty.",
-  "flags_raw": "abelnopqr dhkp 1000 E",
-  "stats1_raw": "28 0 -6 5d10+650 6d6+12",
-  "stats2_raw": "80000 310000",
-  "stats3_raw": "5 5 2",
+  "flags_raw": "256027 50369704 1000 E",
+  "stats1_raw": "67 -13 0 1d1+1404 5d7+26",
+  "stats2_raw": "1005 939787 0",
+  "stats3_raw": "5 5 2 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/120.mob"
 }

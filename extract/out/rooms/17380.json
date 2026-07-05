@@ -1,0 +1,21 @@
+{
+  "id": 17380,
+  "zone_id": 173,
+  "name": "Noble's Chambers",
+  "description": "You are tresspassing in a Noble's chamber. This noble locked his door, \nanticipating intrusion from scum like you. The chambers consist of a common \nroom, several bed chambers, and a servant area.",
+  "header_raw": "173 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Noble's Quarters",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": -1,
+      "to": 17366
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

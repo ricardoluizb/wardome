@@ -3,8 +3,8 @@
   "zone_id": 51,
   "name": "The 1st House",
   "description": "You stand in the inner courtyard of the 1st and largest house in the city.\nThe room is extremely large and decorative.  Mural and paintings hang on the \nwalls depicting some battles and a spider queen.",
-  "header_raw": "51 ad 0",
-  "flags_text": "ad",
+  "header_raw": "51 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

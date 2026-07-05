@@ -3,8 +3,8 @@
   "zone_id": 70,
   "name": "The Sewer Room",
   "description": "This is a Room with walls that glitters like gold though not quite like\nit. This is strange as it looks as if the glitter lights the whole room.\nIt looks very bright.  To the south the floor is covered with yucky water.\nThe north leads to a sort of a guard room.",
-  "header_raw": "70 d 1",
-  "flags_text": "d",
+  "header_raw": "70 8 1",
+  "flags_text": "8",
   "sector": 1,
   "exits": [
     {

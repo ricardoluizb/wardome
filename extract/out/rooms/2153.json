@@ -1,0 +1,29 @@
+{
+  "id": 2153,
+  "zone_id": 21,
+  "name": "Irgon's Guard Room",
+  "description": "You find yourself in a small guard room.  Chambers to the east and west\nhouse prisoners, and an ebony door blocks the way north.  Instruments of\ntorture line the walls, and blood is splattered everywhere.",
+  "header_raw": "21 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "eboyn door",
+      "door_flag": 1,
+      "key": 2103,
+      "to": 2154
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2152
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/21.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 29553,
+  "zone_id": 295,
+  "name": "Tlepolemus' Tent",
+  "description": "This is the tent of the Argive prince Tlepolemus, son of the legendary\nHeracles. He is a mighty warrior and a great ally of the Achaean forces.\nNotice how all these Achaeans have names ending with 's'?",
+  "header_raw": "295 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29552
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/295.wld"
+}

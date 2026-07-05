@@ -1,0 +1,29 @@
+{
+  "id": 6907,
+  "zone_id": 69,
+  "name": "The Top of the Basement Stairs",
+  "description": "You are now at the top of the basement stairs, which can now be made out\nperfectly even though you stand in darkness.  Every little detail can be seen\nstrangely.  You're not sure that if you go down you would be entering a\nnightmare.  Be brave, and go find out!",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6906
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6908
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 13028,
+  "zone_id": 130,
+  "name": "&rThieve's Academy&n",
+  "description": "Here is the Academy of the City, you see ten chairs\nand a big blackboard. Here the apprendices practices\ntheir skills. The first avenue is to the North.",
+  "header_raw": "130 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13027
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13040
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

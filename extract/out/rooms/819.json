@@ -1,0 +1,21 @@
+{
+  "id": 819,
+  "zone_id": 7,
+  "name": "Trial of Defense!",
+  "description": "This is a small close room, with a door exact opposite from where\nyou entered.  The door behind you is conveniently gone.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 820
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

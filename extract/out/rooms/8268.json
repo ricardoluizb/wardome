@@ -1,0 +1,45 @@
+{
+  "id": 8268,
+  "zone_id": 82,
+  "name": "The Entrance To Musketeer H.Q.",
+  "description": "You continue walking in the plaza, and you dont see anything intresting, but\nyou have notice that this place is not very secure. At north you see a door\nto the Musketeer school and Headquarters, if you want to enter just open the\ndoor that is at north.",
+  "header_raw": "82 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 8268,
+      "to": 8270
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8267
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8265
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8269
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

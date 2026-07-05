@@ -1,0 +1,29 @@
+{
+  "id": 9500,
+  "zone_id": 95,
+  "name": "Entrance to Maze of Dts",
+  "description": "This is the entrance of the Wardome Maze of Dts. If you\nare a player that don't like to explore and you are afraid\nof DTs don't enter this zone. But if you are player that \nthinks that adventuring is most nice that zone will be\nperfect to you. Don't forget that you must use your brain\na lot in this zone.\n  Maze of Dts, made in Brazil, by the Wardome Mud by the\nGod Luigi.",
+  "header_raw": "95 16777217 0",
+  "flags_text": "16777217",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "GATE",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9501
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 12058
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/95.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 9910,
+  "zone_id": 99,
+  "name": "The realm of the hopeless.",
+  "description": "The incessant wailing of souls in torment causes visible shivers \nup and down your spine.  The walls, floor and ceiling are a viscous, \nblood-red mass that eludes description.  A rift in the ceiling above \nyou causes a slight breeze to ruffle your hair.  A magic portal stands \nsouth, leading into the unknown.",
+  "header_raw": "99 1 1",
+  "flags_text": "1",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9911
+    },
+    {
+      "dir": 2,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9900
+    },
+    {
+      "dir": 4,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9901
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 10420,
+  "alias": "oldstyle pile bones skeleton",
+  "short_desc": "pile of bones",
+  "long_desc": "A decaying pile of bones lies on the ground.",
+  "detailed_desc": "Stringy bits of flesh blow gently in the breeze. The bones rattle as you walk\nby them.",
+  "flags_raw": "10 1024 -700 E",
+  "stats1_raw": "80 -22 -3 1d1+2880 5d9+42",
+  "stats2_raw": "1200 1878758 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/104.mob"
+}

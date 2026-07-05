@@ -1,0 +1,21 @@
+{
+  "id": 17829,
+  "zone_id": 178,
+  "name": "A Small Storage Room",
+  "description": "This is where the gnomes store all their spare clothing and armor.\nThere is not much here, but you might come up with something.",
+  "header_raw": "178 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "You see the barracks.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17828
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

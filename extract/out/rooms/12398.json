@@ -1,0 +1,29 @@
+{
+  "id": 12398,
+  "zone_id": 122,
+  "name": "The River of Blood",
+  "description": "A river of the blood of the damned flows through Niflheim, and many\nof the foul inhabitants of this realm draw strength from its waters.\nBeyond this river lies the twisted metal throne of Hel herself, ruler\nof Niflheim and impartial observer over the dead. She will be angered\nby your intrusion into her realm; you can expect a rather violent\nreception.",
+  "header_raw": "122 13 7",
+  "flags_text": "13",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12399
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12394
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

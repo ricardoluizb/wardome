@@ -1,0 +1,21 @@
+{
+  "id": 13314,
+  "zone_id": 132,
+  "name": "The Southwest Tower",
+  "description": "From this tower the guards can spot attacks from the mountain range to the\nwest, can oversee the valley to the southwest, and has the perfect view of\nthe road leading to the city.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "the village",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13313
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

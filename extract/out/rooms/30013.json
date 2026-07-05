@@ -1,0 +1,21 @@
+{
+  "id": 30013,
+  "zone_id": 300,
+  "name": "An elven bedroom",
+  "description": "A spacious but plain bedroom.  A great bed lies right in the middle of the room\nbut there is not much else to be seen in here.  Perhaps the owners have yet to\nstart decorating this room.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30012
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

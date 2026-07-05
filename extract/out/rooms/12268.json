@@ -1,0 +1,21 @@
+{
+  "id": 12268,
+  "zone_id": 122,
+  "name": "A Bedroom",
+  "description": "Thor and his wife Sif were recently blessed with a son, who lives in\nthis sparsely furnished chamber. At first you think it rather cold of\nthe child's parents not to provide him with toys or furniture, but you\nquickly realize that the child's strength is so great that he\ninadvertently breaks almost anything they give him.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12266
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

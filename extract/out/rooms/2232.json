@@ -1,0 +1,29 @@
+{
+  "id": 2232,
+  "zone_id": 22,
+  "name": "Stairwell",
+  "description": "This is an old decrepit stairwell that leads to the wine cellar.  It looks\nlike it hasn't been used for decades.  Well, at least not by anything living.",
+  "header_raw": "22 72 2",
+  "flags_text": "72",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The crypt",
+      "keywords": "crypt door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2222
+    },
+    {
+      "dir": 5,
+      "description": "A wine cellar",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2233
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 7858,
+  "zone_id": 78,
+  "name": "On the Rope Bridge",
+  "description": "You are on the rope bridge.  From here, you can see the whole Valley of the\nElves.  To the south, you see the main valley.  To the north-east, you see a\nsmaller valley with a building in the center of it.  To the north-west, you\ncan see a very small valley with a shack in it's center.  A rope ladder\nleads down into a trail.",
+  "header_raw": "78 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7857
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7859
+    },
+    {
+      "dir": 5,
+      "description": "You see the trail.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7826
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/78.wld"
+}

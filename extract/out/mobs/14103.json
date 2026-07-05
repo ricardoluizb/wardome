@@ -1,0 +1,12 @@
+{
+  "id": 14103,
+  "alias": "girl child",
+  "short_desc": "the girl",
+  "long_desc": "A smiling young girl is here.",
+  "detailed_desc": "The girl looks shyly at you.  Even at this young age, she has\nlearned enough of her culture to be humble.   She jumps rope and\nlooks up at you expectantly.",
+  "flags_raw": "200 1024 1000 E",
+  "stats1_raw": "10 13 7 1d1+360 5d2+14",
+  "stats2_raw": "150 8653 1",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

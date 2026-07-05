@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Mages' Tavern",
   "description": "You are in the mages' tavern.  The air is smokey and filled with the\nsmells of foreign food and drink.  The other patrons pay you little heed,\nas they obviously have more interesting things to contemplate.\n   The only exit leads back west.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 216 0",
+  "flags_text": "216",
   "sector": 0,
   "exits": [
     {

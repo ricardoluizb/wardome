@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "A Dark Hallway",
   "description": "You are in a long dark hallway leading east and west.  Not much can\nbe seen in the unnatural darkness here, but you get a deep sense of dread\nthe further you go.",
-  "header_raw": "25 adg 0",
-  "flags_text": "adg",
+  "header_raw": "25 73 0",
+  "flags_text": "73",
   "sector": 0,
   "exits": [
     {

@@ -1,0 +1,12 @@
+{
+  "id": 20012,
+  "alias": "waitress",
+  "short_desc": "a waitress",
+  "long_desc": "A waitress rushes by, intent on her business.",
+  "detailed_desc": "She looks harried from the way she hastily takes orders and rushes in the back\nto get food, and to the bar for drinks.  She doesn't even spare you a glance as\nshe passes by.",
+  "flags_raw": "1204296 1032 -500 E",
+  "stats1_raw": "140 -56 -15 1d1+7272 5d15+86",
+  "stats2_raw": "2100 9592545 3",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/200.mob"
+}

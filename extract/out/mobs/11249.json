@@ -1,0 +1,12 @@
+{
+  "id": 11249,
+  "alias": "mud man",
+  "short_desc": "a mud man",
+  "long_desc": "A humanoid form arises from the muck.",
+  "detailed_desc": "This magical creature is only semi-intelligent, but it is imbued with\na strong desire to destroy anything not like itself.",
+  "flags_raw": "42 0 -200 E",
+  "stats1_raw": "47 -21 -10 1d1+4692 5d9+108",
+  "stats2_raw": "705 528919 9",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

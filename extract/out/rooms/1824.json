@@ -1,0 +1,29 @@
+{
+  "id": 1824,
+  "zone_id": 18,
+  "name": "The White Dragon's Lair",
+  "description": "Dark and cold, and very dreary, with stalactites\nhanging from the ceiling like teeth.  The Snow Queen\nhas furnished her pet with corpses of lost\nadventurers.  Perhaps yours is next!\nYou see a door to the south.",
+  "header_raw": "18 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The nothern wall seems to give way.",
+      "keywords": "secret-door north",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1825
+    },
+    {
+      "dir": 2,
+      "description": "They must keep it locked for a reason.",
+      "keywords": "door south",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1826
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/18.wld"
+}

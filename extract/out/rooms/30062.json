@@ -1,0 +1,29 @@
+{
+  "id": 30062,
+  "zone_id": 300,
+  "name": "Aboard a ship at the bow",
+  "description": "An ocean breeze whips up all around causing the sails to flap and the ship to\nbounce disturbingly.  You are at the bow out front of the ship.  Just ahead you\ncan see the prow, jutting out like a stiletto.  On the deck of the ship is a\ntrapdoor.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30061
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 30063
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

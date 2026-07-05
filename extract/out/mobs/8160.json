@@ -1,0 +1,12 @@
+{
+  "id": 8160,
+  "alias": "giant overseer",
+  "short_desc": "the hill giant",
+  "long_desc": "A hill giant `encourages' the slaves with a huge flint-studded whip.",
+  "detailed_desc": "He is not very bright, as few giants are, and might think you work here\nif you stay much longer.  Like any evil giant, he loves causing pain.",
+  "flags_raw": "6378 1024 -900 E",
+  "stats1_raw": "169 -86 -31 1d1+19596 5d49+176",
+  "stats2_raw": "2535 23190690 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

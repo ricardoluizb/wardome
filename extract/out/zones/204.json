@@ -1,0 +1,684 @@
+{
+  "id": 204,
+  "name": "Wardome - AntHill",
+  "header": {
+    "raw": "20499 2 2 1 -1",
+    "min_room": 20499,
+    "top_room": 2,
+    "lifespan": 2,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20405,
+        8,
+        20400
+      ],
+      "comment": "(Bodyguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20407,
+        8,
+        16
+      ],
+      "comment": "(Ant Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20402,
+        20,
+        20401
+      ],
+      "comment": "(Child Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20402,
+        20,
+        20401
+      ],
+      "comment": "(Child Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20402,
+        20,
+        20401
+      ],
+      "comment": "(Child Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20402,
+        20,
+        20401
+      ],
+      "comment": "(Child Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20401,
+        10,
+        20403
+      ],
+      "comment": "(Large Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20405,
+        8,
+        20403
+      ],
+      "comment": "(Bodyguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20407,
+        8,
+        16
+      ],
+      "comment": "(Ant Sword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        20401,
+        3,
+        -1
+      ],
+      "comment": "(Deposit Key)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20403,
+        0,
+        2
+      ],
+      "comment": "(The Corridor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20403,
+        10,
+        20419
+      ],
+      "comment": "(Baby Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20403,
+        10,
+        20419
+      ],
+      "comment": "(Baby Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20403,
+        10,
+        20419
+      ],
+      "comment": "(Baby Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20404,
+        1,
+        20419
+      ],
+      "comment": "(Queen Ant)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20402,
+        10,
+        6
+      ],
+      "comment": "(&WQueen Crown&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20404,
+        10,
+        0
+      ],
+      "comment": "(&gShining &YLeaf&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        20406,
+        3,
+        -1
+      ],
+      "comment": "(Treasure Key)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20419,
+        2,
+        1
+      ],
+      "comment": "(Queen's Bedroom)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20419,
+        5,
+        2
+      ],
+      "comment": "(Queen's Bedroom)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20407,
+        1,
+        20411
+      ],
+      "comment": "(a Cook)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        20409,
+        2,
+        -1
+      ],
+      "comment": "(an old Oak Spoom)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20411,
+        0,
+        1
+      ],
+      "comment": "(The Dinning Hall)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20406,
+        2,
+        20417
+      ],
+      "comment": "(An Ant Nurse)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20408,
+        2,
+        17
+      ],
+      "comment": "(the Ant Dummy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20402,
+        20,
+        20408
+      ],
+      "comment": "(Child Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20402,
+        20,
+        20408
+      ],
+      "comment": "(Child Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20402,
+        20,
+        20408
+      ],
+      "comment": "(Child Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20402,
+        20,
+        20408
+      ],
+      "comment": "(Child Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20401,
+        3,
+        20406
+      ],
+      "comment": "(Large Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20405,
+        8,
+        20406
+      ],
+      "comment": "(Bodyguard)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        20401,
+        3,
+        -1
+      ],
+      "comment": "(Deposit Key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20407,
+        8,
+        16
+      ],
+      "comment": "(Ant Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20405,
+        8,
+        20406
+      ],
+      "comment": "(Bodyguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20407,
+        8,
+        16
+      ],
+      "comment": "(Ant Sword)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20406,
+        0,
+        2
+      ],
+      "comment": "(The Corridor)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20406,
+        2,
+        2
+      ],
+      "comment": "(The Corridor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20401,
+        20,
+        20418
+      ],
+      "comment": "(Large Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20405,
+        8,
+        20418
+      ],
+      "comment": "(Bodyguard)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        20403,
+        3,
+        -1
+      ],
+      "comment": "(Queen Key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20407,
+        8,
+        16
+      ],
+      "comment": "(Ant Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20405,
+        8,
+        20418
+      ],
+      "comment": "(Bodyguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20407,
+        8,
+        16
+      ],
+      "comment": "(Ant Sword)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20418,
+        0,
+        2
+      ],
+      "comment": "(Queen's AnteChamber)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        20405,
+        100,
+        20420
+      ],
+      "comment": "(a Leaf)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20420,
+        4,
+        2
+      ],
+      "comment": "(The Treasure Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20400,
+        10,
+        20407
+      ],
+      "comment": "(Small Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20400,
+        10,
+        20407
+      ],
+      "comment": "(Small Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20400,
+        10,
+        20407
+      ],
+      "comment": "(Small Ant)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20410,
+        2,
+        2
+      ],
+      "comment": "(Another Corridor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20401,
+        10,
+        20414
+      ],
+      "comment": "(Large Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20401,
+        10,
+        20414
+      ],
+      "comment": "(Large Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20401,
+        10,
+        20414
+      ],
+      "comment": "(Large Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20401,
+        20,
+        20412
+      ],
+      "comment": "(Large Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20401,
+        20,
+        20412
+      ],
+      "comment": "(Large Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20401,
+        20,
+        20412
+      ],
+      "comment": "(Large Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20401,
+        20,
+        20412
+      ],
+      "comment": "(Large Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20402,
+        20,
+        20405
+      ],
+      "comment": "(Child Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20402,
+        20,
+        20405
+      ],
+      "comment": "(Child Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20402,
+        20,
+        20405
+      ],
+      "comment": "(Child Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20402,
+        20,
+        20405
+      ],
+      "comment": "(Child Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20400,
+        10,
+        20421
+      ],
+      "comment": "(Small Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20400,
+        10,
+        20421
+      ],
+      "comment": "(Small Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20400,
+        10,
+        20421
+      ],
+      "comment": "(Small Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20400,
+        10,
+        20404
+      ],
+      "comment": "(Small Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20400,
+        10,
+        20404
+      ],
+      "comment": "(Small Ant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20400,
+        10,
+        20404
+      ],
+      "comment": "(Small Ant)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/204.zon"
+}

@@ -3,8 +3,8 @@
   "zone_id": 53,
   "name": "Climbing The Great Pyramid",
   "description": "Here on the eastern side of the pyramid there is a little more shelter\nfrom the heat and wind.  The stone side is not nearly so slippery smooth\nfrom the ravages of time, and you think you may be able to even reach the\ntop from here.",
-  "header_raw": "53 0 5",
-  "flags_text": "0",
+  "header_raw": "53 32768 5",
+  "flags_text": "32768",
   "sector": 5,
   "exits": [
     {

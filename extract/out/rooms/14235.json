@@ -1,0 +1,30 @@
+{
+  "id": 14235,
+  "zone_id": 141,
+  "name": "The Map Tent",
+  "description": "This room has many maps and scrolls all over the table.  There is\none in particular that interest you.",
+  "header_raw": "141 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14234
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "map",
+      "description": "The map has a rough drawing of the camp and to the north a small\nsegment of the desert, and a drawing of a winged lizard near the\nvery north."
+    },
+    {
+      "keywords": "scroll",
+      "description": "The scroll reads as follows:\nDear Lord British,\n     This is Dupre reporting about the paladin expedition.  We\nare in the process of clearing the desert of those annoying\nsandtraps.  Unfortunately one of my men had wandered into the\ndragon cave and was slayed by that evil creature.  We need\nanother knight, and also he had a moonstone.  Thank you, my\nliege.\n\t\t\t Your Servant,\n\t\t\t Dupre"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

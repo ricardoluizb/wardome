@@ -1,0 +1,37 @@
+{
+  "id": 10223,
+  "zone_id": 102,
+  "name": "Walking by the long circular Stairway",
+  "description": "You began climbing the stairs, the stone, straight stairway makes you\nfeel unpleasant, it seems to be draining all the air from you. It gives\nyou a cloisterphobia sensation. You reach a small intersection in the stairs\nbut you can still keep climbing up.",
+  "header_raw": "102 264 0",
+  "flags_text": "264",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10224
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10225
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10222
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 29952,
+  "zone_id": 298,
+  "name": "A small balcony looking over the forest",
+  "description": "You finally come to the end of the limb.  You peer out and see mile upon mile\nof forest stretching out.  The sky sits above you, crystal clear without a\ncloud in it.  The air seems to have a strange look to it, though, not as clear\nas it first seemed to be.  You can also see some mountains in the distance.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29950
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

@@ -1,0 +1,46 @@
+{
+  "id": 8171,
+  "zone_id": 81,
+  "name": "The Mess",
+  "description": "And what a mess it is! Here the hall is less full of goblins\nand more littered with rubbish.  A guarded door leads east; it is made\nof stone, and elaborately carved.  Some orcish runes are cut into the\nstone.",
+  "header_raw": "81 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A fireplace with a bubbling cauldron emits a foul smell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8169
+    },
+    {
+      "dir": 1,
+      "description": "A carved stone door leads east.",
+      "keywords": "door carved stone",
+      "door_flag": 2,
+      "key": 8100,
+      "to": 8172
+    },
+    {
+      "dir": 3,
+      "description": "A smell like sour wine and musty wood wafts from there.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8170
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "carved carvings stone door",
+      "description": "Goblins never make anything beautiful, but this door is very well made.\nYou suspect this cave once had better occupants.\nThe door is in excellent condition (though scrawled on) ...glowing"
+    },
+    {
+      "keywords": "orcish runes",
+      "description": "They say:\n               Krsd be da hammer wieldn dwarfs"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

@@ -1,0 +1,694 @@
+{
+  "id": 200,
+  "name": "Werith's Wayhouse",
+  "header": {
+    "raw": "20099 30 2 17 -1",
+    "min_room": 20099,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": 17
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20018,
+        10,
+        20021
+      ],
+      "comment": "(an adventurer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20020,
+        10,
+        20021
+      ],
+      "comment": "(a bartender)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20013,
+        7,
+        20021
+      ],
+      "comment": "(a farmer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20011,
+        7,
+        20021
+      ],
+      "comment": "(a waiter)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20006,
+        1,
+        20021
+      ],
+      "comment": "(Airden the Wanderer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20002,
+        30,
+        16
+      ],
+      "comment": "(&gan &CI&cmmense &YB&yastard &WS&wword&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20003,
+        30,
+        19
+      ],
+      "comment": "(&YW&yerith's &cOdd &YE&yarring&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20016,
+        5,
+        20026
+      ],
+      "comment": "(a chef)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20026,
+        2,
+        1
+      ],
+      "comment": "(Kitchen)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20004,
+        0,
+        1
+      ],
+      "comment": "(Outside the Wayhouse)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20000,
+        2,
+        1
+      ],
+      "comment": "(Outside the Wayhouse)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20000,
+        5,
+        1
+      ],
+      "comment": "(Outside the Wayhouse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20019,
+        3,
+        20027
+      ],
+      "comment": "(the woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20002,
+        1,
+        20027
+      ],
+      "comment": "(Alerka)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20000,
+        30,
+        16
+      ],
+      "comment": "(&YCro&yss&Ybow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20008,
+        10,
+        17
+      ],
+      "comment": "(&MQuarter &WWand&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20011,
+        7,
+        20018
+      ],
+      "comment": "(a waiter)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20010,
+        40,
+        4
+      ],
+      "comment": "(&wa &WSilk &YScarf&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20009,
+        1,
+        20018
+      ],
+      "comment": "(Jordo)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20015,
+        10,
+        20028
+      ],
+      "comment": "(a bartender)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20008,
+        1,
+        20028
+      ],
+      "comment": "(Eshiay)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20005,
+        40,
+        16
+      ],
+      "comment": "(&YDart&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20018,
+        10,
+        20013
+      ],
+      "comment": "(an adventurer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20020,
+        10,
+        20013
+      ],
+      "comment": "(a bartender)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20005,
+        5,
+        20013
+      ],
+      "comment": "(a dog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20004,
+        1,
+        20013
+      ],
+      "comment": "(Desslok)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20009,
+        40,
+        16
+      ],
+      "comment": "(&CB&cevgul&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20013,
+        7,
+        20016
+      ],
+      "comment": "(a farmer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20003,
+        1,
+        20016
+      ],
+      "comment": "(Drogo)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20001,
+        40,
+        16
+      ],
+      "comment": "(&cSturdy &wAxe&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20013,
+        7,
+        20017
+      ],
+      "comment": "(a farmer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20001,
+        1,
+        20017
+      ],
+      "comment": "(Koofy)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20005,
+        50,
+        16
+      ],
+      "comment": "(&YDart&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20000,
+        1,
+        20017
+      ],
+      "comment": "(Farlenian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20007,
+        40,
+        16
+      ],
+      "comment": "(&WW&wicked &YK&ynife&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20038,
+        0,
+        1
+      ],
+      "comment": "(Private Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20039,
+        2,
+        1
+      ],
+      "comment": "(Private Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20036,
+        0,
+        1
+      ],
+      "comment": "(Private Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20037,
+        2,
+        1
+      ],
+      "comment": "(Private Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20034,
+        0,
+        1
+      ],
+      "comment": "(Private Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20035,
+        2,
+        1
+      ],
+      "comment": "(Private Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20033,
+        0,
+        1
+      ],
+      "comment": "(Hallway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20033,
+        2,
+        1
+      ],
+      "comment": "(Hallway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20032,
+        0,
+        1
+      ],
+      "comment": "(Hallway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20032,
+        2,
+        1
+      ],
+      "comment": "(Hallway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20031,
+        2,
+        1
+      ],
+      "comment": "(Hallway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20031,
+        0,
+        1
+      ],
+      "comment": "(Hallway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20015,
+        0,
+        1
+      ],
+      "comment": "(Main Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20017,
+        10,
+        20015
+      ],
+      "comment": "(an adventurer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20012,
+        7,
+        20025
+      ],
+      "comment": "(a waitress)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20016,
+        5,
+        20025
+      ],
+      "comment": "(a chef)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20016,
+        5,
+        20025
+      ],
+      "comment": "(a chef)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20016,
+        5,
+        20025
+      ],
+      "comment": "(a chef)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20016,
+        5,
+        20024
+      ],
+      "comment": "(a chef)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20011,
+        7,
+        20023
+      ],
+      "comment": "(a waiter)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20017,
+        17,
+        20022
+      ],
+      "comment": "(an adventurer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20012,
+        7,
+        20022
+      ],
+      "comment": "(a waitress)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20014,
+        1,
+        20020
+      ],
+      "comment": "(Werith)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20013,
+        7,
+        20019
+      ],
+      "comment": "(a farmer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20013,
+        7,
+        20019
+      ],
+      "comment": "(a farmer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20007,
+        1,
+        20019
+      ],
+      "comment": "(Seemie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20012,
+        5,
+        20014
+      ],
+      "comment": "(a waitress)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20010,
+        10,
+        20012
+      ],
+      "comment": "(a horse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20010,
+        10,
+        20012
+      ],
+      "comment": "(a horse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20010,
+        10,
+        20011
+      ],
+      "comment": "(a horse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20010,
+        10,
+        20011
+      ],
+      "comment": "(a horse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20010,
+        10,
+        20010
+      ],
+      "comment": "(a horse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20010,
+        10,
+        20009
+      ],
+      "comment": "(a horse)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/200.zon"
+}

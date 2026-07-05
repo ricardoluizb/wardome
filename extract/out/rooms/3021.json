@@ -2,9 +2,9 @@
   "id": 3021,
   "zone_id": 30,
   "name": "The Entrance Hall To The Guild Of Swordsmen",
-  "description": "The entrance hall to the Guild of Swordsmen.  A place where one has to be\ncareful not to say something wrong (or right).  To the east is the bar and to\nthe north is the main street.",
-  "header_raw": "30 d 0",
-  "flags_text": "d",
+  "description": "The entrance hall to the Guild of Swordsmen.  A place where one has to be\ncareful not to say something wrong (or right). But can undead hear anything?",
+  "header_raw": "30 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {
@@ -14,14 +14,6 @@
       "door_flag": 0,
       "key": -1,
       "to": 3016
-    },
-    {
-      "dir": 1,
-      "description": "You see the swordsmen's bar, many noises comes from there.",
-      "keywords": "",
-      "door_flag": 0,
-      "key": -1,
-      "to": 3022
     }
   ],
   "extra_descriptions": [],

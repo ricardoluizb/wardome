@@ -1,0 +1,12 @@
+{
+  "id": 24531,
+  "alias": "man mighty",
+  "short_desc": "the mighty man",
+  "long_desc": "A mighty man is here, fleeing divine wrath.",
+  "detailed_desc": "The man you vaguely recall as being involved\nin politics somehow. He is in rags now, and\nhas a harried look. He blames his sins on\nhis rivals.",
+  "flags_raw": "74 1024 -400 E",
+  "stats1_raw": "125 -46 -11 1d1+5496 5d13+70",
+  "stats2_raw": "1875 6808983 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/245.mob"
+}

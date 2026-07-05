@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "The Servants' Corridor",
   "description": "You are standing in a corridor, that stretches further to the east.\nThere are doors to the north and west.  The corridor itself is mainly\nused by servants, and lacks some of the beauty of the rest of the\ncastle.",
-  "header_raw": "150 d 0",
-  "flags_text": "d",
+  "header_raw": "150 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

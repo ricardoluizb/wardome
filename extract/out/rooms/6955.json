@@ -1,0 +1,21 @@
+{
+  "id": 6955,
+  "zone_id": 69,
+  "name": "The Second Floor Balcony",
+  "description": "This is the second floor porch.  The rain beats down hard against the house\nand the ground, as the lightning flashes and the thunder booms.  The porch is\nmade of wood just like everything else in this dumb old house.  There is a\nsmall railing lining the outside of the balcony, so people don't fall off.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "glass door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6937
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

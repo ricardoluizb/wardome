@@ -1,0 +1,37 @@
+{
+  "id": 10465,
+  "zone_id": 104,
+  "name": "Construction Area",
+  "description": "This part of Hell seems to be under repair. Workers are fixing and replacing\nwhat look like various gas mains and other pipework. You can see many\ngas lines and electrical conduits within the dismantled walls. Partially\nhidden fire sprinklers are being installed in the ceilings.\nYou see more contruction to the north and east.\nA hall of fire is to the west.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a construction area.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10455
+    },
+    {
+      "dir": 1,
+      "description": "You see a construction area.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10466
+    },
+    {
+      "dir": 3,
+      "description": "You see a Hall of fire.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10464
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

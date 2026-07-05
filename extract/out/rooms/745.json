@@ -1,0 +1,21 @@
+{
+  "id": 745,
+  "zone_id": 7,
+  "name": "The Reception Area",
+  "description": "Here's where the private rooms of the Fortress are.  Steel doors\nleading to bedrooms line the halls, each with a lock bigger than your\nclenched fist.  A sign here proclaims the safeties of the fortress,\nincluding 'Barred Windows, and Guards You Can Really Count On!'  A\nsmall desk is here, a bored receptionist behind it.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 744
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

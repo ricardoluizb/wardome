@@ -1,0 +1,12 @@
+{
+  "id": 2221,
+  "alias": "oldstyle dragon red",
+  "short_desc": "the Great Red Dragon",
+  "long_desc": "A red dragon is here, contemplating your existence.",
+  "detailed_desc": "This huge red dragon dominates the chamber.  As you turn to flee, he grins at\nyou and invites you to stay ... forever!",
+  "flags_raw": "329770 8389800 -1000 E",
+  "stats1_raw": "180 -86 -29 1d1+16560 5d37+152",
+  "stats2_raw": "2700 22747979 8",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/22.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 28503,
+  "alias": "Atlantis gatekeeper",
+  "short_desc": "the Atlantis Gatekeeper",
+  "long_desc": "A Atlantis is here guarding the Keep of Atlantiss.",
+  "detailed_desc": "The Atlantis stands rigidly before the gates of the keep. It looks \nquite miserable, but then again with the recent layoffs and the lousy \nhealth benefents, so would you.",
+  "flags_raw": "8388616 0 0 E",
+  "stats1_raw": "125 -42 -8 1d1+3492 5d13+50",
+  "stats2_raw": "1875 5532299 0",
+  "stats3_raw": "8 8 0 -1 10",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/285.mob"
+}

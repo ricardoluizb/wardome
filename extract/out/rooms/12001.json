@@ -3,8 +3,8 @@
   "zone_id": 120,
   "name": "The Judging Booth",
   "description": "You stand in the midst of a small room with windows on the east and south\nwalls.  These windows provide a complete view of the competition fields.\nThere are several scorecards, pencils and other items that are used by the\njudges sitting on a table.  The only exit is a trapdoor leading down.",
-  "header_raw": "120 d 0",
-  "flags_text": "d",
+  "header_raw": "120 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {
@@ -18,12 +18,12 @@
   ],
   "extra_descriptions": [
     {
-      "keywords": "scorecards",
-      "description": "The cards all have been filled in with the judges evaluations of today's \ncombatants.  It seems that Sparticus is having a good day."
-    },
-    {
       "keywords": "pencils pencil",
       "description": "An ordinary #2 lead pencil.  Judging by the teeth marks on the shaft, the\nuser should see a dentist very soon!"
+    },
+    {
+      "keywords": "scorecards",
+      "description": "The cards all have been filled in with the judges evaluations of today's \ncombatants.  It seems that Sparticus is having a good day."
     }
   ],
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/120.wld"

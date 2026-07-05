@@ -1,0 +1,21 @@
+{
+  "id": 12300,
+  "zone_id": 122,
+  "name": "The Durin Forge",
+  "description": "This chamber is bathed in a reddish glow, its source the roaring blaze\nthat provides the great heat necessary to forge the many weapons these\nancient and proud dwarves produce. It was in these fires that Mjolnir\nitself was forged, for Thor, and other wondrous relics of the Aesir and\nVanir alike. The heat is oppressive and unbearable for long periods of\ntime.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12311
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

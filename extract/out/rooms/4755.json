@@ -1,0 +1,29 @@
+{
+  "id": 4755,
+  "zone_id": 47,
+  "name": "Path in the Rock",
+  "description": "This small uncarved path travels south and east as the edge of the cavern\nblocks any travel further west.  The wall of the cavern has a deep red color to\nit and with the many stalactites parts resemble dripping blood.",
+  "header_raw": "47 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4754
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4756
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

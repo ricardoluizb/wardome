@@ -1,0 +1,29 @@
+{
+  "id": 6618,
+  "zone_id": 66,
+  "name": "The library",
+  "description": "A library full of books and scrolls.\nChairs and tables decorates the room, but was messy. Trash\naround all the ground. No one cleans it for years.\nThe wall to the west seems be diferent.",
+  "header_raw": "66 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6616
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "wall",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6625
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/66.wld"
+}

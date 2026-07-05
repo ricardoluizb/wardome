@@ -1,0 +1,37 @@
+{
+  "id": 24697,
+  "zone_id": 245,
+  "name": "At the throne",
+  "description": "You grovel before the throne. He who sits at the throne\ntells you 'Now is your time'. With a gesture a black\nhole appears at your feet. He motions for you to go into\nthe hole, and resumes his Judgement.",
+  "header_raw": "245 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The throne room",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24698
+    },
+    {
+      "dir": 2,
+      "description": "The throne room",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24694
+    },
+    {
+      "dir": 3,
+      "description": "The throne room",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24696
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/245.wld"
+}

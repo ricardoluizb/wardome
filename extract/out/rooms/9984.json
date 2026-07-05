@@ -1,0 +1,29 @@
+{
+  "id": 9984,
+  "zone_id": 99,
+  "name": "The mouth of a small cave.",
+  "description": "You have arrived at the mouth of a small cave, which is cut into a \ntall promontory.  A rough hewn staircase leads Downwards, while to \nthe North is a small clearing.",
+  "header_raw": "99 1 1",
+  "flags_text": "1",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A small clearing.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9983
+    },
+    {
+      "dir": 5,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9985
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

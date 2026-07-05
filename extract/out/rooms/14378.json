@@ -1,0 +1,29 @@
+{
+  "id": 14378,
+  "zone_id": 143,
+  "name": "Entrance to the Great Tomb",
+  "description": "The doors to the south appear to be made of solid gold! Several long dead\npotted plants are lined around the door, and a long decayed feast lies on a \npolished wood table.",
+  "header_raw": "143 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "A set of solid gold doors blocks you view.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14379
+    },
+    {
+      "dir": 5,
+      "description": "The stairs lead down into the darkness.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14375
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

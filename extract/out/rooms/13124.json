@@ -1,0 +1,21 @@
+{
+  "id": 13124,
+  "zone_id": 131,
+  "name": "Machine Room",
+  "description": "You are standing in a large room filled with computers.  This room is where\nthe samurai must learn word processing skills that they are known to have.\nKewl huh?",
+  "header_raw": "131 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "A landing is south of you.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13123
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/131.wld"
+}

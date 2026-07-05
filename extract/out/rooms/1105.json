@@ -1,0 +1,21 @@
+{
+  "id": 1105,
+  "zone_id": 11,
+  "name": "The General Store",
+  "description": "You are inside the general store.  All sorts of goodies are stacked on the\nmany shelves.  Your local friendly shopkeeper is smiling patiently, waiting to \nserve you to the best of his abilities.  The only exit is to the south.",
+  "header_raw": "11 152 0",
+  "flags_text": "152",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The only exit lies to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1104
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 13234,
+  "alias": "cloaker",
+  "short_desc": "a cloaker",
+  "long_desc": "A large, black cloak lies here.",
+  "detailed_desc": "What you thought was a cloak rises to reveal a pale body and head with \npiercing red eyes and a VERY large mouth.  It's tail uncurls and anticipates\nit's next meal.",
+  "flags_raw": "8298 40 -500 E",
+  "stats1_raw": "30 -11 -6 1d1+2760 5d7+92",
+  "stats2_raw": "450 151287 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

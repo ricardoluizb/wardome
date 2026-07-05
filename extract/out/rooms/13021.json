@@ -1,0 +1,45 @@
+{
+  "id": 13021,
+  "zone_id": 130,
+  "name": "Inside the Cave",
+  "description": "You are inside the cave, it's a rustic place iluminated by\ntwo big torchs. To the north you see a big golden door,\na pink door to the west and a black door to the East.",
+  "header_raw": "130 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "Golden Door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 13024
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "Black Door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 13022
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "Rock",
+      "door_flag": 2,
+      "key": 13019,
+      "to": 13020
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "Pink Door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 13023
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

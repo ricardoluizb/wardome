@@ -1,0 +1,174 @@
+{
+  "id": 251,
+  "name": "Wardome - Old Camelot",
+  "header": {
+    "raw": "25199 35 2 1 -1",
+    "min_room": 25199,
+    "top_room": 35,
+    "lifespan": 2,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        25105,
+        0,
+        1
+      ],
+      "comment": "(The road to Camelot)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        25199,
+        1,
+        25111
+      ],
+      "comment": "(King Arthur)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        25120,
+        1,
+        16
+      ],
+      "comment": "(the sword Excalibur)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        25111,
+        2,
+        1
+      ],
+      "comment": "(The Throne of King Arthur.)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        25101,
+        1,
+        25104
+      ],
+      "comment": "(the golden chest)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        25101,
+        1,
+        25104
+      ],
+      "comment": "(the thief)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        25102,
+        100,
+        -1
+      ],
+      "comment": "(a golden key)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        17307,
+        10,
+        25101
+      ],
+      "comment": "(the holy grail)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        25102,
+        3,
+        1
+      ],
+      "comment": "(The road to Camelot)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        25102,
+        25,
+        25102
+      ],
+      "comment": "(the Guardian of Camelot)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        25102,
+        25,
+        25102
+      ],
+      "comment": "(the Guardian of Camelot)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        25102,
+        25,
+        25102
+      ],
+      "comment": "(the Guardian of Camelot)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        25102,
+        25,
+        25102
+      ],
+      "comment": "(the Guardian of Camelot)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        25110,
+        1,
+        25110
+      ],
+      "comment": "(the weaponsmith of the village)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        25110,
+        100,
+        -1
+      ],
+      "comment": "(a metal dagger)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        25103,
+        1,
+        1
+      ],
+      "comment": "(Before the tree)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/251.zon"
+}

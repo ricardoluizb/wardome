@@ -1,0 +1,21 @@
+{
+  "id": 30047,
+  "zone_id": 300,
+  "name": "An observatory",
+  "description": "One of the loftiest rooms of the tower, this is an observatory of the heavens.\nTaking up the centre of the observatory is a powerful looking glass.  It can be\nrotated 360 degrees as well as shifted up and down.  Upon the walls are charts\nof the night skies and stellar constellations.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30046
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

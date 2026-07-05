@@ -1,0 +1,45 @@
+{
+  "id": 1133,
+  "zone_id": 11,
+  "name": "Delving Lane",
+  "description": "Delving Lane runs north and south in this small borough of the Shire.  A \nlarge, imposing building lies to the east.  You hear the bray of horses from\nthe west.",
+  "header_raw": "11 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see Delving Lane.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1134
+    },
+    {
+      "dir": 1,
+      "description": "A large, imposing building lies to the east.  A sign reads 'Shiriff Post'.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1145
+    },
+    {
+      "dir": 2,
+      "description": "You see Delving Lane.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1132
+    },
+    {
+      "dir": 3,
+      "description": "You see a grassy field.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1138
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

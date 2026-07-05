@@ -1,0 +1,21 @@
+{
+  "id": 17624,
+  "zone_id": 176,
+  "name": "Pig Sty",
+  "description": "For some reason, you are in a pig sty.  You wonder why you are standing in\nmuck.  To realize your senses and notice the dirt road is to the east.",
+  "header_raw": "176 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see the dry dirt road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17621
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/176.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2301,
+  "alias": "oldstyle treant tree",
+  "short_desc": "the Old Treant",
+  "long_desc": "A huge, gnarled tree stands here, battered by age and nature.",
+  "detailed_desc": "The old tree looks as though the wind has battered and torn at it for years.\nVery few leaves remain. Its limbs are crooked and gnarled. It moans as the \nwind pushes it back and forth.",
+  "flags_raw": "10 0 250 E",
+  "stats1_raw": "180 -74 -20 1d1+7920 5d19+92",
+  "stats2_raw": "2700 19598258 2",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/23.mob"
+}

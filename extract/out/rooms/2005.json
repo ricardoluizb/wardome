@@ -1,0 +1,21 @@
+{
+  "id": 2005,
+  "zone_id": 20,
+  "name": "Master",
+  "description": "You smell faint traces of sandal wood and leather, and the fragrence of\noils and a touch of honey as you enter the Masters chamber.  The room is\ndominated by a huge, heavy, mahogony bed...covered in black satin covers. In\nfront of a large stone fireplace are two overstuffed leather chairs, inviting\nyou for a brief period of contemplation..perhaps you sip a brandy from the\nwell stocked bar, or gaze on the shelves on the wall containing all the\ngadgets and toys that  a true Master and gentlman might need to entertain\nhimself with a willing companion or Sub...whom you may see the shadow of her\nfigure lurking in the shadows...waiting on her Master",
+  "header_raw": "20 668 0",
+  "flags_text": "668",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 2022,
+      "to": 2002
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

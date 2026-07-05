@@ -4,9 +4,9 @@
   "short_desc": "the ugly witch",
   "long_desc": "An ugly witch is here scrying out secrets.",
   "detailed_desc": "She has no face at all, just blank skin, rather disturbing.  From about\nwhere her mouth should be, comes a disgusting giggling sound that makes\nyour skin crawl with revulsion.",
-  "flags_raw": "acfg dk -450 S",
-  "stats1_raw": "20 5 -2 20d20+200 3d6+5",
-  "stats2_raw": "2150 26850",
-  "stats3_raw": "8 8 2",
+  "flags_raw": "109 1032 -450 E",
+  "stats1_raw": "140 -50 -11 1d1+3912 5d15+56",
+  "stats2_raw": "2100 7674036 0",
+  "stats3_raw": "8 8 2 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

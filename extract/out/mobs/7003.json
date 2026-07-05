@@ -4,9 +4,9 @@
   "short_desc": "the small Spider",
   "long_desc": "The small hairy Spider is here, busy with its web.",
   "detailed_desc": "This small spider seems to pay you no attention at all as it builds\nits intricately designed web.",
-  "flags_raw": "f sk -700 S",
-  "stats1_raw": "1 20 3 1d12+8 1d4+0",
-  "stats2_raw": "1 100",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "40 263168 -700 E",
+  "stats1_raw": "5 18 9 1d1+99 5d1+2",
+  "stats2_raw": "75 1651 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/70.mob"
 }

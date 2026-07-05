@@ -1,0 +1,12 @@
+{
+  "id": 10400,
+  "alias": "blood fountain",
+  "short_desc": "the blood from the fountain",
+  "long_desc": "The &Rblood &yin the &wfountain &ygurgles merrily.&n",
+  "detailed_desc": "You see gallons and gallons of thick red blood gurgling in the fountian.",
+  "flags_raw": "65546 1160 0 E",
+  "stats1_raw": "80 -22 -3 1d1+2880 5d9+42",
+  "stats2_raw": "1200 2066633 1",
+  "stats3_raw": "8 8 0 0 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/104.mob"
+}

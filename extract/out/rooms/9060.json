@@ -1,0 +1,21 @@
+{
+  "id": 9060,
+  "zone_id": 90,
+  "name": "Animal Sanctuary",
+  "description": "You are on the Sanctuary... but thats is wrong!\nYou can feel an evil stange sensation here...\nThats could be the reason of the animal madness...",
+  "header_raw": "90 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "to the sanctuary",
+      "keywords": "gate",
+      "door_flag": 2,
+      "key": 9099,
+      "to": 9057
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/90.wld"
+}

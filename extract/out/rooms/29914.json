@@ -1,0 +1,29 @@
+{
+  "id": 29914,
+  "zone_id": 298,
+  "name": "The common room at the Silver Arrow",
+  "description": "As you finally reach the top of the ladder you find that the inn is almost\nentirely empty!  A shaky and scared elf sings, and the several patrons that\nhave decided to come are all sitting as far apart from each other as possible,\navoiding any attempts at communication.  It seems the siege has taken its toll\non the city.  Even the barmaid seems scared of what might happen soon.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29915
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29913
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

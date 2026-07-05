@@ -1,0 +1,29 @@
+{
+  "id": 4739,
+  "zone_id": 47,
+  "name": "Stone Gates",
+  "description": "Two monstrous pillars of stone support a great stone gate that leads south\ninto a gigantic cavern with a small city inside.  The redden rock of the of\nmountain gives this small gate and cavern within a slight reddish glow.",
+  "header_raw": "47 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4738
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4740
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

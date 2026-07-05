@@ -8,20 +8,20 @@
   "sector": 1,
   "exits": [
     {
-      "dir": 3,
-      "description": "The seating gets much fancier and elegant in that direction.",
-      "keywords": "",
-      "door_flag": 0,
-      "key": -1,
-      "to": 12015
-    },
-    {
       "dir": 2,
       "description": "The common seating area continues.",
       "keywords": "",
       "door_flag": 0,
       "key": -1,
       "to": 12023
+    },
+    {
+      "dir": 3,
+      "description": "The seating gets much fancier and elegant in that direction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12015
     }
   ],
   "extra_descriptions": [],

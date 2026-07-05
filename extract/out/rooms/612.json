@@ -1,0 +1,21 @@
+{
+  "id": 612,
+  "zone_id": 6,
+  "name": "Specials Commands",
+  "description": "Good. Here it is where you will learn Wardome Mud special commands.\nSome commands were developed by the coders of Mud. The commands are:\nChallenge (not implemented), Put Points, Whois, Gemote and Arena. A Master\nreads it will help with the lessons.",
+  "header_raw": "6 262196 0",
+  "flags_text": "262196",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 607
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/6.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1136,
+  "zone_id": 11,
+  "name": "Bedroom",
+  "description": "You stand in the private bedroom of Bag End.  There are two beds to the\nside, neither of which are made.  Portraits of halflings hang on the wall,\nand as you gaze upon them you come to the conclusion that the owner of\nBag End comes from a long line of distinguished halflings.  A cozy fire\nin the fireplace keeps the room warm and comfortable.",
+  "header_raw": "11 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Through the doorway you see the main room of Bag End.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1135
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

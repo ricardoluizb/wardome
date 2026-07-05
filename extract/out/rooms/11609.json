@@ -1,0 +1,21 @@
+{
+  "id": 11609,
+  "zone_id": 115,
+  "name": "The Chief's Office",
+  "description": "Here you are in the office of New Sparta's new Chief of Police, Chief\nO'Hara, who just transferred from the Gotham Police Force.  His office is\nneatly decorated with bat paraphranalia on one wall, and a fully stocked bar on\nthe other.  A door to the north leads to the rest of the station.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11607
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

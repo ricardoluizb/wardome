@@ -1,0 +1,29 @@
+{
+  "id": 2743,
+  "zone_id": 27,
+  "name": "Plantation of Maize",
+  "description": "You are in the middle of a huge corn plantation.  You can hear the crows and\nthe crickets sing in the middle of the crop.  There is a scarecrow in the\nmiddle of the corn crop!",
+  "header_raw": "27 8256 5",
+  "flags_text": "8256",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2704
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2737
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

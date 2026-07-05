@@ -1,0 +1,37 @@
+{
+  "id": 8270,
+  "zone_id": 82,
+  "name": "The Entrance Of Musketeer H.Q.",
+  "description": "You are in the Musketeer H.Q., this is just the atrium of the building, but\nyou notice that this place is not very elegant, the walls are painted in\nblue the same as the ceiling, wish are made of stone. The floor is the only\nthing that makes feel this place important, because is made out of white\nmarmol, which is very expensive. To the east yo see the cafeteria.",
+  "header_raw": "82 8196 0",
+  "flags_text": "8196",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8272
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8271
+    },
+    {
+      "dir": 2,
+      "description": "<NOTHING>",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 8268,
+      "to": 8268
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

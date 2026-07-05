@@ -1,0 +1,45 @@
+{
+  "id": 2013,
+  "zone_id": 20,
+  "name": "Dining Hall",
+  "description": "Entering this chamber a long solid wood table greets your gaze...The table\nhas twenty large, oversized, velvet covered chairs, which line both sides\nof the table...Candelabras line the table and the walls of the dinning hall,\ngiving off a gentle and soothing glow...Although this room is enormous, it\nis also easily converted into a quiet spot for a romantic candle lit\ndinner with that special someone...",
+  "header_raw": "20 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2017
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2021
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2002
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2012
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

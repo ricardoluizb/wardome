@@ -1,0 +1,29 @@
+{
+  "id": 17880,
+  "zone_id": 178,
+  "name": "Small Mine Shaft",
+  "description": "You are in a small extension of the mine shaft.  The dust on the floor is\nundisturbed by footprints.",
+  "header_raw": "178 8 2",
+  "flags_text": "8",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a small mine shaft.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17886
+    },
+    {
+      "dir": 2,
+      "description": "You see the shaft.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17861
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

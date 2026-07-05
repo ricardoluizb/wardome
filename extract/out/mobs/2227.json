@@ -1,0 +1,12 @@
+{
+  "id": 2227,
+  "alias": "oldstyle slave human",
+  "short_desc": "a human slave",
+  "long_desc": "A Human slave is here, hard at work.",
+  "detailed_desc": "He looks like he's under a lot of stress.  He would probably like it if you\nleft him alone.",
+  "flags_raw": "10 1192 0 E",
+  "stats1_raw": "165 -78 -26 1d1+15180 5d33+146",
+  "stats2_raw": "2475 17656925 8",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/22.mob"
+}

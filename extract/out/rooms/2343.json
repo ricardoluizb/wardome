@@ -1,0 +1,45 @@
+{
+  "id": 2343,
+  "zone_id": 23,
+  "name": "Inside the gates",
+  "description": "You stand just north of the gates to the village. Looking around, you see many\ncrude huts and cooking fires. To the north, you see a huge fire pit. Behind \nit, there appears to be a hut of sorts. Small paths lead east and west among \nthe crude huts. The gates to the south provide an exit from the village.",
+  "header_raw": "23 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2346
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2344
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2341
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2342
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

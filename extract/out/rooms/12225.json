@@ -1,0 +1,21 @@
+{
+  "id": 12225,
+  "zone_id": 122,
+  "name": "The Lodge of Frey and Freya",
+  "description": "This spacious room contains beds and furniture aplenty, more than you\nwould think was normally required by two people, and also contains a\nmassive mirror through which the Vanir may observe goings-on in other\nparts of the world. Freya spends much of her time here, attended by her\nValkyries, watching over the world or weaving magical garments.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12224
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

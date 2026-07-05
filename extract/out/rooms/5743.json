@@ -1,0 +1,21 @@
+{
+  "id": 5743,
+  "zone_id": 57,
+  "name": "Guards' Quarters",
+  "description": "This room seems to function as quarters for the Orcish soldiers that guard\nthe entrance here. From what you've seen so far of the Warlock's \"Guards\",\nyou think that maybe he should reconsider his choices for protection...\nThere is a small snake curled up around a box in the far corner of this room.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "a corridor",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5742
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

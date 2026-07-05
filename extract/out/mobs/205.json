@@ -1,0 +1,12 @@
+{
+  "id": 205,
+  "alias": "lizardman prince",
+  "short_desc": "The prince",
+  "long_desc": "The lizardman prince glares at you.",
+  "detailed_desc": "His glare is very unnerving.  Maybe you should attack him...",
+  "flags_raw": "108 0 0 E",
+  "stats1_raw": "75 -29 -10 1d1+5700 5d15+90",
+  "stats2_raw": "1125 1719650 6",
+  "stats3_raw": "8 8 1 3 9",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/2.mob"
+}

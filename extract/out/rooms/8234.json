@@ -1,0 +1,21 @@
+{
+  "id": 8234,
+  "zone_id": 82,
+  "name": "The Eastern Room Of The Second Floor",
+  "description": "You are in what it looks to be another room, but insted of walls there is\ndoric columns. Here you can see many stone demons to. It scares you to death\njust think if one of this gargoyles would come to live. Down you can see what\nit looks like a city but it isnt Paris, their way to dress is to diferent.",
+  "header_raw": "82 64 0",
+  "flags_text": "64",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8233
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

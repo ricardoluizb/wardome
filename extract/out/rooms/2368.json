@@ -1,0 +1,45 @@
+{
+  "id": 2368,
+  "zone_id": 23,
+  "name": "The streets of Mahn-Tor",
+  "description": "You walk among the small stores and homes of Mahn-Tor. The cobblestone streets\nare covered with ice and snow. Small snow drifts have formed at the edges of\nthe streets. The wind blows fiercely. Small streets lead in all directions.\nThere appears to be a large building to the east, but the snow obscures your\nview.",
+  "header_raw": "23 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2365
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2375
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2371
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2367
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

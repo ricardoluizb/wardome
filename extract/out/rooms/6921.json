@@ -1,0 +1,45 @@
+{
+  "id": 6921,
+  "zone_id": 69,
+  "name": "Near the Deck",
+  "description": "You are now near the back deck, which looks to be battered and banged up\nfrom time.  Lightning still flashes outside of the house, as you can barely see\nanything except for when the light flashes in.  To the east looks to be a\nbookshelf with a door near it, and north is the deck.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door back",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6925
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6932
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6904
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6923
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

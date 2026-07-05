@@ -1,0 +1,29 @@
+{
+  "id": 14163,
+  "zone_id": 141,
+  "name": "The Audience Room",
+  "description": "This is where people would sit to see the cases and wait for the\nJudge.  To the North you see the actual Bench.  All around are\nthe pew-like seats.",
+  "header_raw": "141 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "doors",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14156
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14164
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

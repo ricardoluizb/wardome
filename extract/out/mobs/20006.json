@@ -1,0 +1,12 @@
+{
+  "id": 20006,
+  "alias": "Airden",
+  "short_desc": "Airden the Wanderer",
+  "long_desc": "Airden the Wanderer is taking a break from wandering here.",
+  "detailed_desc": "Airden is a tall, skinny human, dressed in simple clothes.  He smiles at you\nand nods hello.  The dust on his clothes tells tales of many strange lands and\nstranger adventures, and for a moment you consider asking him to tell you a\nstory.",
+  "flags_raw": "1204296 1160 -500 E",
+  "stats1_raw": "150 -61 -17 1d1+7800 5d16+90",
+  "stats2_raw": "2250 11714435 3",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/200.mob"
+}

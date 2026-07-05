@@ -1,0 +1,12 @@
+{
+  "id": 14302,
+  "alias": "mob peddler",
+  "short_desc": "the Peddler",
+  "long_desc": "A peddler is here, selling goods from large baskets.",
+  "detailed_desc": "This is a simple man with a short black beard and large white turban wrapped\narouns his head. His goods seem of low quality, and are of little interest to\nyou.",
+  "flags_raw": "1032 0 0 E",
+  "stats1_raw": "60 -28 -12 1d1+6000 5d13+114",
+  "stats2_raw": "900 1036406 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/143.mob"
+}

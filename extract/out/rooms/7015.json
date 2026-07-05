@@ -3,8 +3,8 @@
   "zone_id": 70,
   "name": "The Old Well",
   "description": "You are standing by an old and worn well from before this century.  The\nsewer leads to the east from here and the well leads down into darkness.\nMetal bars implanted in the side of the well lead down as a ladder.",
-  "header_raw": "70 ad 3",
-  "flags_text": "ad",
+  "header_raw": "70 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

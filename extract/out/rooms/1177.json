@@ -1,0 +1,21 @@
+{
+  "id": 1177,
+  "zone_id": 11,
+  "name": "&cThe &YK&ying's&c Resting Room.&n",
+  "description": "You are in a very confortable rest room. Here Azoun cames when \nhe is too much tired, to take a long rest or only to meditate. \nThere is a bed in the center of the room, with many soft &MPurple \npillows&n.The walls is nice decorated with pictures of nature,\nfriends, and his wife, &CThe Grand Mistress of Magic&n. You feel \nan agradable sensation of peace and calm in the room. Amazing \nplace to sleep you think...but only if you're a guest of Azoun, \nif not... sorry, but intruders are not welcome.",
+  "header_raw": "11 2560 0",
+  "flags_text": "2560",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1122
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

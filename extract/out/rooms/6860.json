@@ -1,0 +1,29 @@
+{
+  "id": 6860,
+  "zone_id": 67,
+  "name": "A stone path",
+  "description": "You stand just outside the eastern gate of the town of Sundhaven.\nFresh bread and cool drink await those within who are willing to\npay for the service, and about the city, other willing merchants\nmay also be found in abundance.\nEastwards the land stretches in unmarred wilderness to the far\nhorizon, and to the southeast you think you can catch glimpses of\nthe thatched roofs of yet another village, this one smaller and more\nhumble.\nA trail south along the cobblestone wall seems to head in that\ndirection.",
+  "header_raw": "67 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6861
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": 6779,
+      "to": 6744
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

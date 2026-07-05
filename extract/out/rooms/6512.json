@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "The Door To The Castle",
   "description": "Here there is a door to the castle to the east.  The castle is \nelegantly designed, and looks much like a roll of toilet paper\nstanding  on its end.  There is a sign which says:\n\n              ******************************************\n              *  WELCOME TO THE CASTLE OF STRANGELOVE  *\n              *      Here, celibacy is uninvited       *\n              ******************************************",
-  "header_raw": "65 d 0",
-  "flags_text": "d",
+  "header_raw": "65 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

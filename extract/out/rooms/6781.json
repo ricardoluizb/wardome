@@ -1,0 +1,37 @@
+{
+  "id": 6781,
+  "zone_id": 67,
+  "name": "Climbing a high bluff",
+  "description": "Winds buffet this side of the cliff face, carving strange forms into\nthe rocks, and impatiently eroding the soil. There is some sort of\ncave home to the west.",
+  "header_raw": "67 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6783
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6782
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6780
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

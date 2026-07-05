@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "In The Tower",
   "description": "You are standing in the north-eastern of the three great watch-\ntowers of the Castle.  To the west, you can enter the Ball Room and\nthere are stairs leading up into the Tower.",
-  "header_raw": "150 d 0",
-  "flags_text": "d",
+  "header_raw": "150 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

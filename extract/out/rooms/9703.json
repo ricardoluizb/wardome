@@ -1,0 +1,29 @@
+{
+  "id": 9703,
+  "zone_id": 97,
+  "name": "Entrance",
+  "description": "You are at the entrance to a huge city.  As you look around, you realize\nthat the inhabitants of this city must be very wealthy indeed - you have never\nseen a city with such beautiful buildings.",
+  "header_raw": "97 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9704
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9702
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/97.wld"
+}

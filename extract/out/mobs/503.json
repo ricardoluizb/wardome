@@ -1,0 +1,12 @@
+{
+  "id": 503,
+  "alias": "mayor",
+  "short_desc": "the mayor",
+  "long_desc": "The Mayor is sitting in his huge chair, snoring loudly.",
+  "detailed_desc": "He is a stocky, middle-aged man with thin, grey hair.",
+  "flags_raw": "26634 0 0 E",
+  "stats1_raw": "0 0 0 0d0+1000 200d-80+-20",
+  "stats2_raw": "1 1 6151",
+  "stats3_raw": "5 23 88 -28 4",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/5.mob"
+}

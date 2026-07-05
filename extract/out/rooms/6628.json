@@ -1,0 +1,21 @@
+{
+  "id": 6628,
+  "zone_id": 66,
+  "name": "Dark room",
+  "description": "Its a small and dark room, with a fireplace on the corner.  Probably you can\ntry to enter there.  You can see the torture chamber to south.",
+  "header_raw": "66 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6627
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/66.wld"
+}

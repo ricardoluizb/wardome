@@ -1,0 +1,21 @@
+{
+  "id": 8224,
+  "zone_id": 82,
+  "name": "The Cathedral Altar",
+  "description": "You are in the altar of Notre Dame, you see a big table of green stone, \ndecorated with blue marble. Here is the place where the cardenal of Paris\ngive the mass. You see Chriest crucified, and at the sides statues of Mary\nand Joseph, this statues are made in a natural size.",
+  "header_raw": "82 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8222
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

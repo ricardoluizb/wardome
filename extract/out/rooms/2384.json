@@ -1,0 +1,29 @@
+{
+  "id": 2384,
+  "zone_id": 23,
+  "name": "The Great Hall",
+  "description": "You are in a great hall. Huge torches light the room and their light shimmers\noff the marble floor below you. To the north, you see a huge golden throne.\nLooking up, you grow dizzy at the height to which the vaulted ceiling rises.\nThe hall itself leads north and west.",
+  "header_raw": "23 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2383
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2382
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

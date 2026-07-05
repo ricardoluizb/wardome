@@ -1,0 +1,12 @@
+{
+  "id": 14326,
+  "alias": "mob palace guard",
+  "short_desc": "the palace guard",
+  "long_desc": "A palace guard is here keeping watch over the gate.",
+  "detailed_desc": "This guard look strong and well-trained. Although he is young, he must have\nbeen some form of military rank to hold this important position.",
+  "flags_raw": "65546 0 0 E",
+  "stats1_raw": "59 -27 -12 1d1+5892 5d11+112",
+  "stats2_raw": "885 989156 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/143.mob"
+}

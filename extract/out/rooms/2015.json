@@ -1,0 +1,29 @@
+{
+  "id": 2015,
+  "zone_id": 20,
+  "name": "East Balcony",
+  "description": "As you enter this balcony you see the glow of the rising sun orange and\nreds against the clouds. You look over the railing out across the country and\nyou see the gardens in bloom, with moisture drops of dew on them glistening\nin the early morning lite..as you look across the field you see doe and\nthier young drinking at the stream. This is a pleasant place with comfy\nwooden chairs to sit and watch the day break.",
+  "header_raw": "20 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2014
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2026
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

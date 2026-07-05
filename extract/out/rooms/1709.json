@@ -1,0 +1,29 @@
+{
+  "id": 1709,
+  "zone_id": 16,
+  "name": "Path to Centaur Village",
+  "description": "You are on an east-west path in the forest.  Here the forest is mostly\ntowering firs, not quite as dense as the oak groves that can be seen eastward.\nWestward, the trail heads toward a small clearing.",
+  "header_raw": "16 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A path disappears into thick forest.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1708
+    },
+    {
+      "dir": 3,
+      "description": "There is a small clearing in this direction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1710
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "The Circle Of Stones",
   "description": "You are at the edge of a circle of seven large monolith-like stones.\nEach stone towers over your head and appears to be at least double your\nheight.  The stones are made of a dark black material, almost black in\ncolour.\n   In the center of the ring of stones, you can see a black circular\nmirror-like disk on the ground.  The surface is highly reflective and\nalmost appears to be rippling.  The trees surrounding the circle tower\nfar above your heads blocking out the sky.\n   A strange glow seems to be emanating from each stone, almost green\nin colour.  This glow provides enough light for you to see with even\nthough the sky above has been blotted out.",
-  "header_raw": "150 d 1",
-  "flags_text": "d",
+  "header_raw": "150 8 1",
+  "flags_text": "8",
   "sector": 1,
   "exits": [
     {

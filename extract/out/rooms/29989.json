@@ -1,0 +1,29 @@
+{
+  "id": 29989,
+  "zone_id": 298,
+  "name": "Traveling...",
+  "description": "A long travel going north, requires a rest.  Now in the distance, as you go\nnorth, the Entwash river appears, because you noticed your way had a little bit\ncurve to the east re-taking north again.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29990
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29988
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

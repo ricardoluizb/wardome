@@ -1,0 +1,12 @@
+{
+  "id": 17622,
+  "alias": "oldstyle Nyles",
+  "short_desc": "Nyles the Bartender",
+  "long_desc": "Nyles the Bartender is here, ready to serve you up a good brew.",
+  "detailed_desc": "Nyles is a hefty guy, who looks like he's waiting for the next bar fight to\njoin in.  He keeps an eye on you and his glasses, making sure you don't steal\nany.",
+  "flags_raw": "24586 0 1000 E",
+  "stats1_raw": "30 5 5 1d1+630 5d4+12",
+  "stats2_raw": "450 105901 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/176.mob"
+}

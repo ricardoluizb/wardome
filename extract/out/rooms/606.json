@@ -1,0 +1,29 @@
+{
+  "id": 606,
+  "zone_id": 6,
+  "name": "How can I eat and Drink?",
+  "description": "Eat and Drink is essential to survive in a Mud.\nNobody likes when  appears that message \" You are hungry \"\nor \" You are thirsty, but doesn't have as escaping of that.",
+  "header_raw": "6 262192 0",
+  "flags_text": "262192",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 607
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 605
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/6.wld"
+}

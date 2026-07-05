@@ -1,0 +1,29 @@
+{
+  "id": 29978,
+  "zone_id": 298,
+  "name": "Near the river intersection",
+  "description": "You see that you are reaching the intersection of Celebrant and the big river\nAnduin, and the water is getting a strong impulse at you.",
+  "header_raw": "298 4 7",
+  "flags_text": "4",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29979
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29977
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

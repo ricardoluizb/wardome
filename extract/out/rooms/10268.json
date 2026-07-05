@@ -1,0 +1,21 @@
+{
+  "id": 10268,
+  "zone_id": 102,
+  "name": "An Execution Room",
+  "description": "Your last vision is a room fullfilled of killing articles, from\nblind axes to whips and other kind of stuff. But you wander why it is\nyour last vision. Well, it is because you didn't have the privilege\nto see the sharpen axe coming from the roof and ripping your head off.",
+  "header_raw": "102 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10267
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

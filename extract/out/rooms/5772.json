@@ -1,0 +1,37 @@
+{
+  "id": 5772,
+  "zone_id": 57,
+  "name": "A Junction",
+  "description": "You have reached a junction in the passageway, where you may go east, west\nor south. The sound of running water is unmistakable now, and seems to be\ncoming from the western passage, which bends to the north. Bestial grunts \necho from the passage to the east.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "a cave",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5775
+    },
+    {
+      "dir": 2,
+      "description": "a door",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5803
+    },
+    {
+      "dir": 3,
+      "description": "a bend",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5774
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

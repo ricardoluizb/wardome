@@ -1,0 +1,29 @@
+{
+  "id": 12316,
+  "zone_id": 122,
+  "name": "A Guard Cave",
+  "description": "A small cave, of unworked stone, contains but a single visible exit-\na tunnel that descends sharply into the darkness below and whatever\nit contains. There is a small campfire here, doubtless used by the\nalert sentry posted here by the doughty Durin, to stand guard here.\nRaids by the giants are undoubtedly frequent, and thus the need for\ntight security.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12361
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12315
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

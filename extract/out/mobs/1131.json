@@ -1,0 +1,12 @@
+{
+  "id": 1131,
+  "alias": "oldstyle receptionist",
+  "short_desc": "the receptionist",
+  "long_desc": "The receptionist sits here, signing forms.",
+  "detailed_desc": "He is a very professional looking type.",
+  "flags_raw": "10 0 200 E",
+  "stats1_raw": "100 -34 -8 1d1+4392 5d11+60",
+  "stats2_raw": "1500 3589522 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/11.mob"
+}

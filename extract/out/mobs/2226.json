@@ -1,0 +1,12 @@
+{
+  "id": 2226,
+  "alias": "oldstyle hydra",
+  "short_desc": "a large hydra",
+  "long_desc": "A hydra is here, blocking the doorway.",
+  "detailed_desc": "A hydra is here, guarding the entrance to a sealed vault.  You have the feeling\nit isn't happy to see you.",
+  "flags_raw": "14 1192 -800 E",
+  "stats1_raw": "170 -81 -27 1d1+15636 5d35+148",
+  "stats2_raw": "2550 19259032 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/22.mob"
+}

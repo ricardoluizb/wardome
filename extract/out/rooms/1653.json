@@ -1,0 +1,53 @@
+{
+  "id": 1653,
+  "zone_id": 16,
+  "name": "The Jail Hall",
+  "description": "You are in a musty, dark jail cell.  Wet and dirty straw covers the floor.\nThe walls glisten with slime.  You see something stir in the straw.",
+  "header_raw": "16 129 0",
+  "flags_text": "129",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The Jail Cell",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 1690,
+      "to": 1654
+    },
+    {
+      "dir": 1,
+      "description": "The Jail Cell",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 1690,
+      "to": 1655
+    },
+    {
+      "dir": 2,
+      "description": "The Jail Cell",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 1690,
+      "to": 1656
+    },
+    {
+      "dir": 3,
+      "description": "Treasure room",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 1690,
+      "to": 1657
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "cage",
+      "door_flag": 2,
+      "key": 1690,
+      "to": 1652
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

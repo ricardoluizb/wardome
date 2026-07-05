@@ -1,0 +1,21 @@
+{
+  "id": 29924,
+  "zone_id": 298,
+  "name": "Calad's house",
+  "description": "As you climb to the top you see why there was no door, orcs inhabit this flet!\nThe corpse of an elf lies half into a stew pot and anything of beauty in this\nroom has been destroyed.  A large mound of feces sits in one corner and several\ndead animals in another.  In the corner you can see an old diary lying\nforgotten.  This is not what catches your eye at first, however.  It's the huge\ngaping hole in the middle of the floor.  It looks like a boil or some terrible\naffliction in this magnificent tree's very center.  As you stare at it\nfascinated, you notice a rope and wooden ladder leading down it, through the\nliving blood of the tree.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29923
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

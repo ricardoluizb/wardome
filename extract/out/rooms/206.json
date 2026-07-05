@@ -1,0 +1,54 @@
+{
+  "id": 206,
+  "zone_id": 2,
+  "name": "The Conjuring Chamber",
+  "description": "This large room is dominated by a whirlpool.  There are two exits.  To\nthe east you can see a door and to the west you can see a waterfilled\nhallway stretching off.  The whirlpool is threatening to pull you down,\nbut you are certain that you would drown in it.",
+  "header_raw": "2 9 6",
+  "flags_text": "9",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "There is a strange store that seems suspiciously out of place just to\nthe north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 218
+    },
+    {
+      "dir": 1,
+      "description": "A door blocks your way, unless it is open in which case it doesn't block\nyour way.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 208,
+      "to": 205
+    },
+    {
+      "dir": 3,
+      "description": "A hallway begins to move to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 208
+    },
+    {
+      "dir": 5,
+      "description": "The whirlpool is threatening to pull you down to your death.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 207
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "whirlpool",
+      "description": "This just looks scary and EXTREMELY dangerous."
+    },
+    {
+      "keywords": "door",
+      "description": "This is a big door, but not as big as it looked from the other side."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/2.wld"
+}

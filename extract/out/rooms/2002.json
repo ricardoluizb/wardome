@@ -1,0 +1,45 @@
+{
+  "id": 2002,
+  "zone_id": 20,
+  "name": "Great Hall",
+  "description": "This large Public Scening Hall is a cavernous room with a vaulted ceiling\nupon which a fresco depicts angels, cherubs and robed figures in postures of\necstacy as they  dispense or receive pleasure.  A blazing fireplace at one\nend of the room is flanked by chairs in which slaves writhe in pleasure,\nimpaled on their masters' laps.  In the centre of the room is a pole to\nwhich slaves may be tethered as they submit to exquisite punishment.  A basket\nholding riding crops, whips, switches and paddles is near at hand.  At the\nfar end of the room is a bed-sized platform between two tall columns.  On\nthe platform, a slave is lying on her back, her arms chained to rings set in\nthe columns.  Her legs are bent back and suspended in  midair by a chain\nfastened to a hook in the ceiling, awaiting her Master.",
+  "header_raw": "20 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2013
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 2022,
+      "to": 2007
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2001
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 2022,
+      "to": 2005
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

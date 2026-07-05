@@ -1,0 +1,37 @@
+{
+  "id": 4758,
+  "zone_id": 47,
+  "name": "Path in the Rock",
+  "description": "A small and unused path travels over boulders and by many large hole as it\nmakes its way to the west.  To the east the small path ends in the larger walk-\nway of the city.  To the south a path leads to a small hut perched on top of a\nlarge boulder.",
+  "header_raw": "47 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4760
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4761
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4757
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

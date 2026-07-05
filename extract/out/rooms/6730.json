@@ -1,0 +1,37 @@
+{
+  "id": 6730,
+  "zone_id": 67,
+  "name": "A sandy bend before the east gate",
+  "description": "The wide road comes to a crossroads close to the eastern gate, which\nappears to be forged from some heavy metal and painted white. The\nground is a mix of shuffled black and gold sand where the two roads \nmeet.",
+  "header_raw": "67 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6731
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6744
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6728
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

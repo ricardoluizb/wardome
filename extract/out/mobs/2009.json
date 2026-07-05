@@ -1,0 +1,12 @@
+{
+  "id": 2009,
+  "alias": "great lag monster",
+  "short_desc": "the Great Lag Monster",
+  "long_desc": "The Great Lag Monster is wondering just what you'll taste like.",
+  "detailed_desc": "A massive man, with the head of a bull.  He looks as strong as bull too,\nbut not nearly as smart.  Actually, now that you consider it... he looks\na heck of a lot meaner than any bull you have ever seen... and he is\ncoming this way!",
+  "flags_raw": "1608 0 -1000 E",
+  "stats1_raw": "52 -6 2 1d1+1089 5d6+20",
+  "stats2_raw": "780 465188 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/20.mob"
+}

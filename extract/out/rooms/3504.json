@@ -1,19 +1,27 @@
 {
   "id": 3504,
   "zone_id": 35,
-  "name": "The South Gate",
-  "description": "You are standing on a small, dusty path leading away from the south\ngate of Midgaard, to the forest of Miden'Nir (Goblinic for 'Green Blood').\nYou can still see the city to the east, but if you go south, there is\nfresh air and greenery.",
-  "header_raw": "35 0 3",
-  "flags_text": "0",
+  "name": "The Gates of Miden'nir",
+  "description": "You are standing on a small, dusty path leading away from Wardome City,\nto the forest of Miden'Nir (Goblinic for 'Green Blood'). You can still\nsee the road to the city to the north, but if you go south,\nthere is fresh air and greenery.",
+  "header_raw": "35 16777216 3",
+  "flags_text": "16777216",
   "sector": 3,
   "exits": [
+    {
+      "dir": 0,
+      "description": "The road thought the plains is in that way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6091
+    },
     {
       "dir": 1,
       "description": "You can see the walls of the South Gate.",
       "keywords": "",
       "door_flag": 0,
       "key": -1,
-      "to": 3127
+      "to": -1
     },
     {
       "dir": 2,

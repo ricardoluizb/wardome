@@ -1,0 +1,21 @@
+{
+  "id": 4099,
+  "zone_id": 40,
+  "name": "The Cage in a Dead Colossal Tree",
+  "description": "This is a enormous dead tree. Its looks like a Dark prison...",
+  "header_raw": "40 65 0",
+  "flags_text": "65",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "back to outside",
+      "keywords": "cage",
+      "door_flag": 2,
+      "key": 4075,
+      "to": 4075
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/40.wld"
+}

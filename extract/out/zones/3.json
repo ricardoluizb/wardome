@@ -1,0 +1,204 @@
+{
+  "id": 3,
+  "name": "The Plains of the North",
+  "header": {
+    "raw": "399 240 1 1",
+    "min_room": 399,
+    "top_room": 240,
+    "lifespan": 1,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        300,
+        10,
+        327
+      ],
+      "comment": "(a small dusk of timian herbs)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        301,
+        10,
+        319
+      ],
+      "comment": "(a small dusk of black gyvel)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        304,
+        3,
+        316
+      ],
+      "comment": "(wild flowers)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        304,
+        3,
+        323
+      ],
+      "comment": "(wild flowers)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        304,
+        3,
+        338
+      ],
+      "comment": "(wild flowers)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        305,
+        1,
+        344
+      ],
+      "comment": "(Shudde-M'ell)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        310,
+        5,
+        -1
+      ],
+      "comment": "(a strange template)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        311,
+        99,
+        -1
+      ],
+      "comment": "(a clear potion)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        309,
+        10,
+        324
+      ],
+      "comment": "(the cute rabbit)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        309,
+        10,
+        318
+      ],
+      "comment": "(the cute rabbit)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        309,
+        10,
+        334
+      ],
+      "comment": "(the cute rabbit)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        300,
+        1,
+        323
+      ],
+      "comment": "(Aruncus the Druid)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        308,
+        2,
+        17
+      ],
+      "comment": "(a druish staff)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        307,
+        2,
+        3
+      ],
+      "comment": "(a strange amulet)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        312,
+        1,
+        -1
+      ],
+      "comment": "(a scroll titled 'jhyfrdow')"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        302,
+        10,
+        -1
+      ],
+      "comment": "(a small dusk of poison ivy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        301,
+        1,
+        331
+      ],
+      "comment": "(Sorbus the Hermit)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        303,
+        2,
+        -1
+      ],
+      "comment": "(a dark red jar)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        309,
+        30,
+        331
+      ],
+      "comment": "(a rabbit roast)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/3.zon"
+}

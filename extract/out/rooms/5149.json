@@ -3,8 +3,8 @@
   "zone_id": 51,
   "name": "The Treasury",
   "description": "This is obviously only a temporary storage place for the collected \ntreasure being rather bare.",
-  "header_raw": "51 ad 0",
-  "flags_text": "ad",
+  "header_raw": "51 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

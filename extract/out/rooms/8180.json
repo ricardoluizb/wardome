@@ -1,0 +1,29 @@
+{
+  "id": 8180,
+  "zone_id": 81,
+  "name": "The Iron Foundry",
+  "description": "Goblins dearly love smoking, noisy machinery, especially if it gets a \njob done poorly and with greater labor than without the smoke.  The\niron furnace which lights this room is one of their proudest feats. \nA blower which leaks air and blows sparks everywhere replaces the\nbellows which work so well for dwarves, and it is run by several \nsturdy trolls turning a horse-mill.  Slag heaps lie all about this \nhuge cave, and glowing pig iron in trenches threatens to burn the soles\noff your shoes.",
+  "header_raw": "81 8 2",
+  "flags_text": "8",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A steel door leads north.",
+      "keywords": "door steel",
+      "door_flag": 1,
+      "key": -1,
+      "to": 8182
+    },
+    {
+      "dir": 3,
+      "description": "A wooden door leads west.",
+      "keywords": "door wooden",
+      "door_flag": 1,
+      "key": -1,
+      "to": 8179
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4733,
+  "zone_id": 47,
+  "name": "Duergar Barracks",
+  "description": "Several small cots line the walls here  inside this large thatched hut.  Small\nscraps of food and several small disfigured bodies lie about, no doubt the\nremains of some unfortunate dwarf.",
+  "header_raw": "47 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4732
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

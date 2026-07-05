@@ -1,0 +1,29 @@
+{
+  "id": 6821,
+  "zone_id": 67,
+  "name": "A wide cart path",
+  "description": "The road outside the town of Sundhaven is well-travelled by vehicles\nof trade.... is it a path for wide carts, or a wide path for carts?\nWestwards, a dense forest is blurred with low-hanging clouds.",
+  "header_raw": "67 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": 6779,
+      "to": 6745
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6827
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

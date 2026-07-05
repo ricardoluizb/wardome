@@ -1,0 +1,37 @@
+{
+  "id": 29908,
+  "zone_id": 298,
+  "name": "A quiet street",
+  "description": "As you slowly walk down this street it starts to get quiet again, so much so\nthat only the birds and animals can be heard.  Several flets dot the trees\naround you, and a small pile of rocks sits along the side of the road.  To the\nnorth you see a row of shops and flets that seem to be busier than the rest of\nthe city.",
+  "header_raw": "298 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29916
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29902
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29907
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

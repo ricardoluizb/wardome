@@ -1,0 +1,634 @@
+{
+  "id": 20,
+  "name": "Castle of Desire",
+  "header": {
+    "raw": "2050 10 1 1 -1",
+    "min_room": 2050,
+    "top_room": 10,
+    "lifespan": 1,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2013,
+        1,
+        2002
+      ],
+      "comment": "(the talkative lag)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2002,
+        99,
+        5
+      ],
+      "comment": "(a bright rubber body suit)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2005,
+        1,
+        2002
+      ],
+      "comment": "(the court jester)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2009,
+        50,
+        -1
+      ],
+      "comment": "(a brightly glowing dildo)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2016,
+        8,
+        2002
+      ],
+      "comment": "(a Gateguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2015,
+        8,
+        5
+      ],
+      "comment": "(Some Gate Guard Armour)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2016,
+        8,
+        16
+      ],
+      "comment": "(a Gate Guard's Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2016,
+        8,
+        2002
+      ],
+      "comment": "(a Gateguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2015,
+        8,
+        5
+      ],
+      "comment": "(Some Gate Guard Armour)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2016,
+        8,
+        16
+      ],
+      "comment": "(a Gate Guard's Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2016,
+        8,
+        2002
+      ],
+      "comment": "(a Gateguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2015,
+        8,
+        5
+      ],
+      "comment": "(Some Gate Guard Armour)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2016,
+        8,
+        16
+      ],
+      "comment": "(a Gate Guard's Sword)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2002,
+        3,
+        0
+      ],
+      "comment": "(Great Hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2002,
+        1,
+        0
+      ],
+      "comment": "(Great Hall)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2001,
+        1,
+        2028
+      ],
+      "comment": "(the lag beast)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2004,
+        50,
+        12
+      ],
+      "comment": "(a set of nipple clamps)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2002,
+        3,
+        2006
+      ],
+      "comment": "(the lag monster)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2002,
+        99,
+        5
+      ],
+      "comment": "(a bright rubber body suit)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2002,
+        3,
+        2017
+      ],
+      "comment": "(the lag monster)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2006,
+        99,
+        16
+      ],
+      "comment": "(a shiny lag dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2011,
+        1,
+        2003
+      ],
+      "comment": "(the annoying lag)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2006,
+        99,
+        16
+      ],
+      "comment": "(a shiny lag dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2012,
+        1,
+        2014
+      ],
+      "comment": "(clueless lag)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2014,
+        1,
+        2024
+      ],
+      "comment": "(the lost lag)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2003,
+        1,
+        2010
+      ],
+      "comment": "(the baby lag)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2007,
+        99,
+        3
+      ],
+      "comment": "(a pet lag slave collar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2004,
+        1,
+        2013
+      ],
+      "comment": "(the lag Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2005,
+        60,
+        1
+      ],
+      "comment": "(a lag branding ring)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2008,
+        5,
+        -1
+      ],
+      "comment": "(a wee little key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2003,
+        30,
+        6
+      ],
+      "comment": "(a rubber mask)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2006,
+        4,
+        2009
+      ],
+      "comment": "(the creepy lag crawler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2006,
+        4,
+        2012
+      ],
+      "comment": "(the creepy lag crawler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2006,
+        4,
+        2015
+      ],
+      "comment": "(the creepy lag crawler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2007,
+        5,
+        2012
+      ],
+      "comment": "(the zombiefied lag)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2007,
+        5,
+        2019
+      ],
+      "comment": "(the zombiefied lag)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2007,
+        5,
+        2026
+      ],
+      "comment": "(the zombiefied lag)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2008,
+        5,
+        2009
+      ],
+      "comment": "(a little quasit lag thing.)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2008,
+        5,
+        2009
+      ],
+      "comment": "(a little quasit lag thing.)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2008,
+        5,
+        2011
+      ],
+      "comment": "(a little quasit lag thing.)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2009,
+        1,
+        2025
+      ],
+      "comment": "(the Great Lag Monster)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2010,
+        50,
+        6
+      ],
+      "comment": "(the horny horns of the Great Lag Monster)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2011,
+        50,
+        5
+      ],
+      "comment": "(the Cum Soaked hide of the Great Lag Monster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2010,
+        1,
+        2031
+      ],
+      "comment": "(the dark spectre)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2017,
+        2,
+        2018
+      ],
+      "comment": "(the Royalty Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2017,
+        2,
+        5
+      ],
+      "comment": "(Some Royalty Guard Armour)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2017,
+        2,
+        2019
+      ],
+      "comment": "(the Royalty Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2017,
+        2,
+        5
+      ],
+      "comment": "(Some Royalty Guard Armour)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2018,
+        2,
+        2011
+      ],
+      "comment": "(a Black Knight)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2018,
+        2,
+        16
+      ],
+      "comment": "(the Knight's Lance)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2019,
+        2,
+        2012
+      ],
+      "comment": "(a White Knight)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2018,
+        2,
+        16
+      ],
+      "comment": "(the Knight's Lance)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2020,
+        2,
+        2010
+      ],
+      "comment": "(the Dungeon Master)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2019,
+        2,
+        17
+      ],
+      "comment": "(the Staff of the Dungeon Master)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2021,
+        1,
+        2025
+      ],
+      "comment": "(the Queen of the Castle of Desire)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2020,
+        1,
+        6
+      ],
+      "comment": "(the Queen's Crown)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2022,
+        1,
+        2021
+      ],
+      "comment": "(the King of the Castle of Desire)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2021,
+        1,
+        17
+      ],
+      "comment": "(the King's Sceptre)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        2022,
+        2,
+        2007
+      ],
+      "comment": "(a golden key)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        2022,
+        2,
+        2005
+      ],
+      "comment": "(a golden key)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2005,
+        1,
+        0
+      ],
+      "comment": "(Master)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2007,
+        3,
+        0
+      ],
+      "comment": "(Mistress)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/20.zon"
+}

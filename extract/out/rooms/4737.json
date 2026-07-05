@@ -1,0 +1,29 @@
+{
+  "id": 4737,
+  "zone_id": 47,
+  "name": "Carved Tunnel",
+  "description": "The walls of the small tunnel have been carved to perfection as well as the\nfloor that has been worn smooth.  It travels south and west leading off into\ndarkness.",
+  "header_raw": "47 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4736
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4738
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

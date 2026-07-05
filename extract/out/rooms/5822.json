@@ -1,0 +1,21 @@
+{
+  "id": 5822,
+  "zone_id": 57,
+  "name": "Loot Room",
+  "description": "You have found the treasury of the Warlock! Congratulations! Now...quickly\nfill your sacks with gold and your packs with gems, before he finds you \nhere...",
+  "header_raw": "57 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "outside the loot room",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 5806,
+      "to": 5821
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

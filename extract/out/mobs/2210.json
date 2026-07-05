@@ -1,0 +1,12 @@
+{
+  "id": 2210,
+  "alias": "dragon rhyr arack",
+  "short_desc": "the Great Rhyr'Arack",
+  "long_desc": "A Rhyr'Arack is here, waiting for you.",
+  "detailed_desc": "This huge Rhyr'Arack dominates the chamber.  As you turn to flee, he grins at\nyou and invites you to stay ... forever!",
+  "flags_raw": "329738 8389800 -1000 E",
+  "stats1_raw": "180 -86 -29 1d1+16560 5d37+152",
+  "stats2_raw": "2700 22747979 8",
+  "stats3_raw": "8 8 1 -1 21",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/22.mob"
+}

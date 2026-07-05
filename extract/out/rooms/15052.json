@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "Up In The Tower",
   "description": "After a long climb, you finally reach the top of the tower.  This\nroom is small, and the only light source is a flickering candle, on\na cluttered table, in the middle of the room.  The only obvious exit\nis back down the stairs.",
-  "header_raw": "150 d 0",
-  "flags_text": "d",
+  "header_raw": "150 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

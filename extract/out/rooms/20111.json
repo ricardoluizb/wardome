@@ -1,0 +1,21 @@
+{
+  "id": 20111,
+  "zone_id": 201,
+  "name": "The Monks' Bunk",
+  "description": "Well, even the toughest of them needs rest.  This is the sleeping chamber\nof the monks. It contains nothing of interest to you, unless if you want\ntheir sleeping mats.",
+  "header_raw": "201 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 20108
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/201.wld"
+}

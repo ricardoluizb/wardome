@@ -1,0 +1,21 @@
+{
+  "id": 20420,
+  "zone_id": 204,
+  "name": "The Treasure Room",
+  "description": "The treasure, but what is it? It is not gold? Well why the ants will need gold?",
+  "header_raw": "204 4 0",
+  "flags_text": "4",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "Door",
+      "door_flag": 2,
+      "key": 0,
+      "to": 20419
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/204.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9944,
+  "zone_id": 99,
+  "name": "The bottom of the granite staircase.",
+  "description": "You have reached the bottom of the granite staircase.  This appears \nto be the basement of Blood Tavern.  A hole in the ceiling which is \nstained with excrement hovers above an enormous mountain of feces \n(how nice).  Walls stand to the west, north and south - but the way \nis passable towards the East, around the dungheap.",
+  "header_raw": "99 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9947
+    },
+    {
+      "dir": 4,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9945
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

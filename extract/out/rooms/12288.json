@@ -1,0 +1,29 @@
+{
+  "id": 12288,
+  "zone_id": 122,
+  "name": "The Private Quarters of Odin and Frigga",
+  "description": "The stairs end in a small chamber, lit by a small fire blazing away\nin the hearth, and decorated with various trophies of Odin and Frigga.\nThere is little here of real value; they do not seek to acquire loads\nof booty or treasure. Instead, the majority of the items take the form\nof trinkets and personal mementos, as well as gifts from their friends\namongst the Aesir and Vanir, and the Modsogner and Durin dwarves.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12287
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12289
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

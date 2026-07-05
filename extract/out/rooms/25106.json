@@ -1,0 +1,29 @@
+{
+  "id": 25106,
+  "zone_id": 251,
+  "name": "A path in the small village",
+  "description": "It seems to be a merchant village. All throught the path you can see shops\nand nomad sellers.",
+  "header_raw": "251 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 25107
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 25105
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/251.wld"
+}

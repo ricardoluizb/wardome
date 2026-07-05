@@ -1,0 +1,42 @@
+{
+  "id": 3840,
+  "zone_id": 38,
+  "name": "The Living Room of Icaza and Hatchet",
+  "description": "You are in a large room.  Walls made of a golden substance harder than titanium\nand atlantium rise high to the ceilings.  Paintings, tapestries, and other\nbeautiful objects of art merge into the walls, as if they are part of the\nwalls themselves.  Two large thrones are in the center of this room.  A large\ndoor wrought from a platinum-like metal is to the north, and an equally large\ndoor wrought from a gold-like metal is to the south.  The other exit from this\nroom is the hallway to the east, and a mysterious portal to the west.",
+  "header_raw": "38 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The door looks impenetrable by mundane means.  A small sign says, 'Hatchet'.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3841
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3839
+    },
+    {
+      "dir": 2,
+      "description": "The door looks impenetrable by mundane means.  A small sign says, 'Icaza'.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3842
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "portal west",
+      "description": "This portal seems impenetrable by mortal means."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

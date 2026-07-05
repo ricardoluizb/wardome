@@ -1,0 +1,21 @@
+{
+  "id": 28511,
+  "zone_id": 285,
+  "name": "The Atlantis General Store",
+  "description": "You enter a small store that is dark and cold. Old empty shelves line the\nwalls and dust blows across the stoney floor. It is evident that this\nstore was once used, but it is no more. A small doorway leads north out \ninto the streets of the city.",
+  "header_raw": "285 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28508
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/285.wld"
+}

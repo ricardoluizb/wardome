@@ -1,0 +1,29 @@
+{
+  "id": 14348,
+  "zone_id": 143,
+  "name": "Hallway Deep in the Pyramid",
+  "description": "Among the plethora of colorful drawings upon the walls you notice blood stains\nand claw marks. A rusty hilt from a long-broken sword lies here.",
+  "header_raw": "143 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "It is very dark there.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14345
+    },
+    {
+      "dir": 3,
+      "description": "It is very dark there, you can't see a thing!",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14349
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

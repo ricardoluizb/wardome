@@ -1,0 +1,12 @@
+{
+  "id": 17309,
+  "alias": "garlon knight",
+  "short_desc": "Sir Garlon",
+  "long_desc": "Sir Garlon, the invisible knight, is waiting here.",
+  "detailed_desc": "Sir Garlon (the vile villian) is hiding here. He was given his invisibility \npower by the witch of the fens for the furtherment of evil.",
+  "flags_raw": "42 262282 -1000 E",
+  "stats1_raw": "128 -44 -9 1d1+3576 5d13+50",
+  "stats2_raw": "1920 5923791 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/173.mob"
+}

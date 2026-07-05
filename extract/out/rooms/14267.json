@@ -1,0 +1,21 @@
+{
+  "id": 14267,
+  "zone_id": 141,
+  "name": "The Throne Room",
+  "description": "In the Throne Room there are the two most important figures in\nthe world.  The avatar and Lord British himself.",
+  "header_raw": "141 64 0",
+  "flags_text": "64",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "doors",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14265
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

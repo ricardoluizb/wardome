@@ -4,9 +4,9 @@
   "short_desc": "the criosphinx",
   "long_desc": "A criosphinx calmly watches you.",
   "detailed_desc": "The criosphinx is a calm and friendly creature, having the head of a ram atop\nthe body of a well-furred feline with eagle-like wings.  He delights in riddles,\nand in poking occasional fun at his easily confused lesser cousins.",
-  "flags_raw": "abelnoq dkp 300 S",
-  "stats1_raw": "23 -3 -2 23d23+230 3d10+15",
-  "stats2_raw": "25000 80000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "92187 33800 300 E",
+  "stats1_raw": "123 -41 -8 1d1+3444 5d13+48",
+  "stats2_raw": "1845 5281116 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/53.mob"
 }

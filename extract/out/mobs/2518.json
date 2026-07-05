@@ -4,9 +4,9 @@
   "short_desc": "the young apprentice",
   "long_desc": "A young apprentice is here teasing a cornered kitten.",
   "detailed_desc": "He looks like a mischievous youth.",
-  "flags_raw": "abcgh dk -200 S",
-  "stats1_raw": "7 7 1 7d6+25 2d4+5",
-  "stats2_raw": "382 2300",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "207 1032 -200 E",
+  "stats1_raw": "130 -45 -9 1d1+3636 5d14+52",
+  "stats2_raw": "1950 6194774 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

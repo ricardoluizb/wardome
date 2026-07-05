@@ -1,0 +1,12 @@
+{
+  "id": 104,
+  "alias": "spectre ghostly",
+  "short_desc": "a ghostly spectre",
+  "long_desc": "A ghostly spectre follows alongside it's Lord, guarding the captured souls.",
+  "detailed_desc": "With no distinct facial features it is hard to tell if this thing was once a\nman or woman or if it ever was alive at all.",
+  "flags_raw": "258120 168 -900 E",
+  "stats1_raw": "35 -9 -4 1d1+2652 5d7+74",
+  "stats2_raw": "525 212251 6",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/1.mob"
+}

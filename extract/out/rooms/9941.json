@@ -1,0 +1,37 @@
+{
+  "id": 9941,
+  "zone_id": 99,
+  "name": "Abode of the Efreeti.",
+  "description": "You have entered the magical abode of the great Efreeti.  Done in \nan eastern motif, this room glimmers with all the amenities one could \nwant.  Pillows, rugs and candelabra are everywhere.  This definitely \nlooks like the lap of luxury.  To the North lies the forbidden treasure\nroom, to enter it is to ask for certain death.",
+  "header_raw": "99 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Certain Death.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9942
+    },
+    {
+      "dir": 3,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9940
+    },
+    {
+      "dir": 4,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9953
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 30024,
+  "alias": "hermit crab",
+  "short_desc": "Hermit Crab",
+  "long_desc": "A hermit crab stands here.",
+  "detailed_desc": "&w &n",
+  "flags_raw": "2120 5288 500 E",
+  "stats1_raw": "70 -23 -6 1d1+4200 5d8+68",
+  "stats2_raw": "1050 1352209 4",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/300.mob"
+}

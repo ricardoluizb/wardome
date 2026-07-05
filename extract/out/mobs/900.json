@@ -4,9 +4,9 @@
   "short_desc": "the homba",
   "long_desc": "The homba flits about.",
   "detailed_desc": "Part kestrel, part bear, part wolf.  Parts is parts, and makes an ugly whole.",
-  "flags_raw": "bflm bdgkp -100 S",
-  "stats1_raw": "4 16 5 2d10+40 1d8+4",
-  "stats2_raw": "100 1500",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "6186 33866 -100 E",
+  "stats1_raw": "10 1 -2 1d1+840 5d3+74",
+  "stats2_raw": "150 9798 7",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/9.mob"
 }

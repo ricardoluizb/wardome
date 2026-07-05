@@ -1,0 +1,12 @@
+{
+  "id": 1109,
+  "alias": "oldstyle horse",
+  "short_desc": "a horse",
+  "long_desc": "A horse becomes frightened by your presence.",
+  "detailed_desc": "The horse looks at you and turns away.  You can tell that it is afraid of you.",
+  "flags_raw": "74 0 0 E",
+  "stats1_raw": "115 -41 -10 1d1+5052 5d12+66",
+  "stats2_raw": "1725 5356660 2",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/11.mob"
+}

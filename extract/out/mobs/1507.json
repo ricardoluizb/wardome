@@ -4,9 +4,9 @@
   "short_desc": "the jinn",
   "long_desc": "One of the jinn dances in and out of the air before your eyes, taunting you.",
   "detailed_desc": "You have heard legends of these creatures, the mischievous little demons\nsaid to be trapped in lamps and bottles, capable of granting all kinds of\npowerful wishes.  To you, it looks like nothing more than an annoying little\nsprite.",
-  "flags_raw": "cg b 0 S",
-  "stats1_raw": "23 0 -2 25d2+400 3d9+3",
-  "stats2_raw": "0 70000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "76 2 0 E",
+  "stats1_raw": "155 -69 -22 1d1+11772 5d31+122",
+  "stats2_raw": "2325 15116691 6",
+  "stats3_raw": "8 8 0 1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/15.mob"
 }

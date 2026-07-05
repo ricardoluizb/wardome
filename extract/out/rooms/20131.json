@@ -1,0 +1,53 @@
+{
+  "id": 20131,
+  "zone_id": 201,
+  "name": "The Dungeons",
+  "description": "You climbed into the dungeon, realizing too late that this is a FORBIDDEN\nAREA. Let's see you talk your way out of this mess.\nThere are four prison cells here.",
+  "header_raw": "201 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A prison cell.",
+      "keywords": "cell",
+      "door_flag": 1,
+      "key": 20131,
+      "to": 20135
+    },
+    {
+      "dir": 1,
+      "description": "A prison cell.",
+      "keywords": "cell",
+      "door_flag": 1,
+      "key": 20131,
+      "to": 20133
+    },
+    {
+      "dir": 2,
+      "description": "A prison cell.",
+      "keywords": "cell",
+      "door_flag": 1,
+      "key": 20131,
+      "to": 20134
+    },
+    {
+      "dir": 3,
+      "description": "A prison cell.",
+      "keywords": "cell",
+      "door_flag": 1,
+      "key": 20131,
+      "to": 20132
+    },
+    {
+      "dir": 4,
+      "description": "A side hall.",
+      "keywords": "trapdoor",
+      "door_flag": 1,
+      "key": -1,
+      "to": 20126
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/201.wld"
+}

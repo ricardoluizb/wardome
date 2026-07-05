@@ -1,0 +1,29 @@
+{
+  "id": 20124,
+  "zone_id": 201,
+  "name": "The Library",
+  "description": "This room contains all the sutras and martial manuals of Shaolin. \nBookshelves line the walls displaying the books in a systematic manner.\nHowever, there is nothing you can use here. It is guarded by one of the \nmasters.",
+  "header_raw": "201 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "bookshelf",
+      "door_flag": 2,
+      "key": 20124,
+      "to": 20125
+    },
+    {
+      "dir": 2,
+      "description": "A side hall.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20120
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/201.wld"
+}

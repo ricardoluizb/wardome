@@ -1,0 +1,29 @@
+{
+  "id": 31317,
+  "zone_id": 313,
+  "name": "Corridor",
+  "description": "The corridor is silent and dark, he continues and east and west.",
+  "header_raw": "313 65 0",
+  "flags_text": "65",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 31318
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 31316
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/313.wld"
+}

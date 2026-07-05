@@ -1,0 +1,29 @@
+{
+  "id": 13390,
+  "zone_id": 132,
+  "name": "A Dark Alley",
+  "description": "You are in a dark, cobblestone alley.  To the west is the eastern market\nsquare and the east wall is east.",
+  "header_raw": "132 1 1",
+  "flags_text": "1",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "the east wall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13356
+    },
+    {
+      "dir": 3,
+      "description": "east market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13383
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

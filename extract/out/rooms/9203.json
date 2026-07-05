@@ -1,0 +1,38 @@
+{
+  "id": 9203,
+  "zone_id": 92,
+  "name": "Mountainside Tombs",
+  "description": "There are a few stone heaps here and there, the tombs of those who did not\nlast the arduous journey up the mountain.  Curiously you notice a few\nuncovered bodies which don't seem to have died of exhaustion.  The path curves\neast around the mountain.",
+  "header_raw": "92 144 5",
+  "flags_text": "144",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9204
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9202
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "bodies body dead",
+      "description": "They look as if their necks have been broken and their flesh, chewed."
+    },
+    {
+      "keywords": "heaps stones tombs",
+      "description": "You are sure glad that YOU aren't under one of those piles!\nMany of the tombstones have the same name on them, 'Raff'.  He must come\nhere a lot."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/92.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8257,
+  "zone_id": 82,
+  "name": "A Campament Of Gypsys",
+  "description": "You are in a small field where you see a campament of gypsys, in a small\nwood carriage. This part of the Champs Elysees is a little more lighted\nthat the rest of it, and besides the gipsys has started a fire, so this\nplace gives you a warm feiling of protection.",
+  "header_raw": "82 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8256
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "trapdoor",
+      "door_flag": 2,
+      "key": 8255,
+      "to": 8296
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

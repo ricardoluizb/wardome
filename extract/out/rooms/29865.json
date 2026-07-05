@@ -1,0 +1,29 @@
+{
+  "id": 29865,
+  "zone_id": 298,
+  "name": "Caras Galadon",
+  "description": "You are at the entrance to a walled grove of trees.  Looking more carefully\ninto the trees you see elven flets.  You have reached Caras Galadon, the City\nof Trees, home to Celeborn and Galadriel.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29866
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29864
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/298.wld"
+}

@@ -1,0 +1,114 @@
+{
+  "id": 266,
+  "name": "Wardome - Learning Zone",
+  "header": {
+    "raw": "26699 1 2 13 -1",
+    "min_room": 26699,
+    "top_room": 1,
+    "lifespan": 2,
+    "reset_mode": 13
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        26604,
+        2,
+        26600
+      ],
+      "comment": "(Ajudante)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        26600,
+        7,
+        26607
+      ],
+      "comment": "(Sunglass)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        2,
+        7,
+        26607
+      ],
+      "comment": "(&bthe &bw&Ba&br&Bd&bo&Bm&be help guide&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        26604,
+        1,
+        26612
+      ],
+      "comment": "(Ajudante)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        26601,
+        7,
+        26619
+      ],
+      "comment": "(Sunglass)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        2,
+        7,
+        26619
+      ],
+      "comment": "(&bthe &bw&Ba&br&Bd&bo&Bm&be help guide&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        26602,
+        1,
+        26617
+      ],
+      "comment": "(Astrain, the ugly)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        26603,
+        7,
+        26613
+      ],
+      "comment": "(A dumb orc)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        26601,
+        7,
+        26601
+      ],
+      "comment": "(Um orc retardado)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        26600,
+        1,
+        26605
+      ],
+      "comment": "(Galahar, o feio)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/266.zon"
+}

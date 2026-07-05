@@ -1,0 +1,29 @@
+{
+  "id": 10135,
+  "zone_id": 101,
+  "name": "The Bell Tower",
+  "description": "You stand in the highest point of the Last Homely House, in a large airy room\nwith four open windows.  In the center of the room is a large bell, suspended\non an axis.  A large rope reaches up from the bell and over a pulley, before\nreturning to the ground near your feet.  The cold spring wind from the valley\nblows against your skin, making you shiver.",
+  "header_raw": "101 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29975
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10119
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/101.wld"
+}

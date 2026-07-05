@@ -3,8 +3,8 @@
   "zone_id": 50,
   "name": "A Small Cavern",
   "description": "It is dark and damp and bats hang from the ceiling.  A narrow crack is\nin the east wall.  The floor now slopes upwards.",
-  "header_raw": "50 ad 5",
-  "flags_text": "ad",
+  "header_raw": "50 9 5",
+  "flags_text": "9",
   "sector": 5,
   "exits": [
     {

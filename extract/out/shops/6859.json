@@ -1,0 +1,39 @@
+{
+  "id": 6859,
+  "producing": [
+    6756,
+    6757,
+    6758,
+    6759,
+    6760,
+    6761,
+    6762
+  ],
+  "profit_buy": 1.0,
+  "profit_sell": 1.0,
+  "buy_types": [
+    "8"
+  ],
+  "messages": [
+    "%s None of those available.",
+    "%s You seem to lack one of those yourself.",
+    "%s I cannot afford this precious thing you carry.",
+    "%s You have not the gold to buy this.",
+    "%s I deal in gems only.",
+    "%s That will be %d coins.",
+    "%s You'll have %d coins for it."
+  ],
+  "tail": [
+    2,
+    2,
+    6726,
+    0,
+    6859,
+    -1,
+    0,
+    28,
+    0,
+    0
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/67.shp"
+}

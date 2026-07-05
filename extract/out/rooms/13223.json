@@ -1,0 +1,37 @@
+{
+  "id": 13223,
+  "zone_id": 132,
+  "name": "The Court",
+  "description": "You continue wandering through the court.  Citizens continue to eye you\nsuspiciously.  The court continues north, south, and west.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "the court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13226
+    },
+    {
+      "dir": 2,
+      "description": "the court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13220
+    },
+    {
+      "dir": 3,
+      "description": "the court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13222
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

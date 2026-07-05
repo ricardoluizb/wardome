@@ -3,8 +3,8 @@
   "zone_id": 186,
   "name": "A T-Intersection In The Passage",
   "description": "This is an intersection of a long east-west passage with a corridor\nleading south.  The air seems a bit clearer here though, as if you were\napproaching an exit.",
-  "header_raw": "186 ad 0",
-  "flags_text": "ad",
+  "header_raw": "186 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

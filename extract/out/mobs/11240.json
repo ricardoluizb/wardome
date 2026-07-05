@@ -1,0 +1,12 @@
+{
+  "id": 11240,
+  "alias": "illithid disguised librarian",
+  "short_desc": "an illithid scientist",
+  "long_desc": "A tall figure shrouded completely in dark robes stands reading a book.",
+  "detailed_desc": "This scholar appears to be totally engrossed in his work. As you approach,\nhowever, you see a long blue clawed hand protrude from the robe, and a slimy\ntentacle inches out of the cowled robe...",
+  "flags_raw": "10 40 -800 E",
+  "stats1_raw": "40 -18 -9 1d1+3996 5d9+106",
+  "stats2_raw": "600 341495 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

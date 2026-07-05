@@ -3,8 +3,8 @@
   "zone_id": 62,
   "name": "A Cave",
   "description": "Heaps of rotting meat and cups of near-drinkable water\nsit here; the orc food stores.  You stand here and wonder\nin near-disbelief at how the orcs could find this stuff\npalatable.  They're orcs; its their nature and their\nstomachs you guess.  Oddly enough, you don't even care to \ncatalog what they have available -- there's no chance you're \ngoing to take any of this...",
-  "header_raw": "62 d 4",
-  "flags_text": "d",
+  "header_raw": "62 8 4",
+  "flags_text": "8",
   "sector": 4,
   "exits": [
     {

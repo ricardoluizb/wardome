@@ -1,0 +1,29 @@
+{
+  "id": 14264,
+  "zone_id": 141,
+  "name": "A staircase",
+  "description": "There is a magical staircase going up.  Beware, for those who go\nup shall not return down.  The other exits except for the west\nare closed for construction.",
+  "header_raw": "141 64 0",
+  "flags_text": "64",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14265
+    },
+    {
+      "dir": 4,
+      "description": "You see the altars of enlightenment.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14269
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

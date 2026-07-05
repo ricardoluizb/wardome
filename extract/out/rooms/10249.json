@@ -1,0 +1,21 @@
+{
+  "id": 10249,
+  "zone_id": 102,
+  "name": "The Pipe Organ Stand",
+  "description": "Crossing the chairs, you get to the left bottom of the cathedral,\nstanding by the side of the main altar room, you are in a space,\nmostly fullfilled by the gargantuan pipe organ placed in the walls.\nThere is also a circular carpet end.",
+  "header_raw": "102 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10248
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

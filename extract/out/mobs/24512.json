@@ -1,0 +1,12 @@
+{
+  "id": 24512,
+  "alias": "horseman pale",
+  "short_desc": "the pale horseman",
+  "long_desc": "A rider mounted on a pale horse leaves death in his wake.",
+  "detailed_desc": "The rider is mounted on a lion headed horse, which breathes\nfire, smoke and brimstone as it rears.",
+  "flags_raw": "74 1192 0 E",
+  "stats1_raw": "120 -44 -11 1d1+5280 5d13+68",
+  "stats2_raw": "1800 6053860 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/245.mob"
+}

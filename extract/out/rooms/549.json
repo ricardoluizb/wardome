@@ -1,0 +1,21 @@
+{
+  "id": 549,
+  "zone_id": 5,
+  "name": "&YWardome's HQ&n",
+  "description": "Every City has it HQ, and you're standing on Wardome City HQ,\nyou gets to see some weapons, and armors in the wall, you also\nsee a cell in the bottom of the room, and finally in the center\nthere is a table where a guard leads everything.",
+  "header_raw": "5 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 540
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

@@ -7,7 +7,7 @@
   "profit_buy": 1.2,
   "profit_sell": 0.9,
   "buy_types": [
-    "BOAT"
+    "22"
   ],
   "messages": [
     "%s Sorry pal, I have not got that kind of ship.",
@@ -30,5 +30,5 @@
     0,
     0
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/shp/54.shp"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/54.shp"
 }

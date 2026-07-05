@@ -1,0 +1,34 @@
+{
+  "id": 2202,
+  "zone_id": 22,
+  "name": "The Foyer",
+  "description": "This is the entrance to the Tower.  The hallway continues to the north,\nleading towards a staircase.  You notice a grim painting on the wall,  and \nquickly look away.",
+  "header_raw": "22 76 0",
+  "flags_text": "76",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a long hallway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2203
+    },
+    {
+      "dir": 2,
+      "description": "You see the gate.",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2201
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "painting",
+      "description": "This painting depicts the grisly death of a foolish human.  You hope you do \nnot share his fate."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

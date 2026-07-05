@@ -1,0 +1,26 @@
+{
+  "id": 14276,
+  "zone_id": 141,
+  "name": "The Altar of Humility",
+  "description": "You may gain true enlightenment here.  There is a large plaque on\nthe wall.  The path continues only if you use the mantra, to\ngain enlightenment.",
+  "header_raw": "141 64 0",
+  "flags_text": "64",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The Path Of Enlightenment ends there.",
+      "keywords": "Path",
+      "door_flag": 2,
+      "key": 14101,
+      "to": 14277
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "plaque",
+      "description": "Humility is perceiving one's place in the world, not according\nto one's own accomplishments, but  according to the intrinsic\nvalue of all individuals."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

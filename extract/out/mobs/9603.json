@@ -1,0 +1,12 @@
+{
+  "id": 9603,
+  "alias": "skull skeleton",
+  "short_desc": "the Skeleton",
+  "long_desc": "An ugly skeleton is walking here.",
+  "detailed_desc": "Look at its skull, looks like there was a sword there.",
+  "flags_raw": "40 8388608 -900 E",
+  "stats1_raw": "180 -80 -24 1d1+12240 5d37+122",
+  "stats2_raw": "2700 20700660 5",
+  "stats3_raw": "8 8 0 3 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/96.mob"
+}

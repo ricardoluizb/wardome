@@ -1,0 +1,45 @@
+{
+  "id": 11228,
+  "zone_id": 112,
+  "name": "Main Street",
+  "description": "You have reached a bend in Main Street, where it heads north and west.\nNone of the houses nearby show any signs of occupation, save one to\nthe east, the door to which is shut, unlike the rest of the dwellings\nyou have passed. A weatherbeaten wooden sign hangs above the door,\nsignifying the purpose of this structure.",
+  "header_raw": "112 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11225
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11229
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11230
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11231
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

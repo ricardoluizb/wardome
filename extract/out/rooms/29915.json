@@ -1,0 +1,21 @@
+{
+  "id": 29915,
+  "zone_id": 298,
+  "name": "In a large sleeping room",
+  "description": "As you walk into this large room, the first thing to strike you is the absence\nof guests.  Where sleeping places normally would be, only dust remains.  The\nonly object in this threadbare room is a solitary mattress.  Even you, the\nhardy adventurer, would have a hard time sleeping with the thought of a large\narmy not far away...  Sleep well!",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29914
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

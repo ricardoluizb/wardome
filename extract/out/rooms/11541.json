@@ -1,0 +1,29 @@
+{
+  "id": 11541,
+  "zone_id": 115,
+  "name": "The Visitor's Locker Room",
+  "description": "What you see (and smell) before you is the typical bloodball locker room,\nfilled with tape, torn jerseys, mud, blood, and assorted pieces of equipment\nand body parts.  To the west is the shower room, to the south you exit onto the\nconcourse.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11540
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11542
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

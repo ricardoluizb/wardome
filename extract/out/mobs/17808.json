@@ -1,0 +1,12 @@
+{
+  "id": 17808,
+  "alias": "rat",
+  "short_desc": "a rat",
+  "long_desc": "A small rat shrieks and runs around.",
+  "detailed_desc": "The rat is a little evil creature that deserves death.",
+  "flags_raw": "12 0 -200 E",
+  "stats1_raw": "39 1 4 1d1+819 5d4+14",
+  "stats2_raw": "585 212663 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/178.mob"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 17866,
+  "zone_id": 178,
+  "name": "The Grand Hall",
+  "description": "You have stepped into the Grand Hall of the hobgoblin kingdom; your luck\nmust be running low by now.  Golden pillars span the hallway, and you\nnotice a red carpet beneath your feet.",
+  "header_raw": "178 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the walkway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17865
+    },
+    {
+      "dir": 2,
+      "description": "You see a large room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17867
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

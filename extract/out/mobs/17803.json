@@ -1,0 +1,12 @@
+{
+  "id": 17803,
+  "alias": "scientist gnome",
+  "short_desc": "a gnome scientist",
+  "long_desc": "A scientist wanders around deep in thought.",
+  "detailed_desc": "You see a gnome who is lost deep into some invention that he is about\nto make.  His hair is white, but he looks fairly strong.",
+  "flags_raw": "14 0 500 E",
+  "stats1_raw": "45 -2 3 1d1+945 5d5+18",
+  "stats2_raw": "675 344520 0",
+  "stats3_raw": "8 8 1 4 8",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/178.mob"
+}

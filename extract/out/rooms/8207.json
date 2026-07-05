@@ -1,0 +1,21 @@
+{
+  "id": 8207,
+  "zone_id": 82,
+  "name": "The Atrium Of Notre Dame",
+  "description": "You are at the east side of the atrium, you see some statues made out of red\nstone that are decorating the walls, you reconice some of them like Christ or\nsome of the apostles. On the ceiling you see many angels made out of gold, or\neven some archangels Rapahel, Michael and Gabriel.",
+  "header_raw": "82 8192 0",
+  "flags_text": "8192",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8205
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2034,
+  "zone_id": 20,
+  "name": "Moonlight",
+  "description": "To my Darling Shimmer My Moonlight - Love Always - Honeybear\nIn the darkest of times, if you look up, you can find your way by the\nshimmering light of the moon. In a dark time in my life, I looked up and there\nshe was, my Shimmer, my Light of the Moon! Oh there have been many lights\nin my life, most of which have  faded. Im sure there will be others, but\nnone will be more precious to me as She.To her I pledge my undying love and\naffection for as long as she \nchooses to light my way!",
+  "header_raw": "20 2716 0",
+  "flags_text": "2716",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2020
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2001
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

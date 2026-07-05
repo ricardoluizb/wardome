@@ -1,0 +1,66 @@
+{
+  "id": 7707,
+  "zone_id": 77,
+  "name": "Into the Astral Plane",
+  "description": "You step through the gate, and into another reality...\n\n   You find yourself floating in a field of blackness, filled with tiny tendrils\nof silvery light and insubstantial shining motes of dust.  The weightlessness\nof this environment is very disorienting, although it is not too late to return\nthrough the gate to the south.",
+  "header_raw": "77 4 2",
+  "flags_text": "4",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The astral field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7708
+    },
+    {
+      "dir": 1,
+      "description": "The astral field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7709
+    },
+    {
+      "dir": 2,
+      "description": "The astral gate leads back to your world.",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7706
+    },
+    {
+      "dir": 3,
+      "description": "The astral field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7710
+    },
+    {
+      "dir": 4,
+      "description": "The astral field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7711
+    },
+    {
+      "dir": 5,
+      "description": "The astral field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7712
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "gate",
+      "description": ">From here the pearly-coloured gate seems very small and insubstantial.  Through\nits bars you can see the Astral Guardian, protecting your world from the perils\nof this plane of existence."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/77.wld"
+}

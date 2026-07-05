@@ -1,0 +1,21 @@
+{
+  "id": 201,
+  "zone_id": 2,
+  "name": "The Quest Preparation Room",
+  "description": "In this room are various items of preparation for the upkeep of the\nquest.  A guide explains to you what the object is:  To get the gold.\nLooking around, you see that the exit to the north has disappeared and\nyou are left with only the one exit down... into the water.\nAs you ready yourself to begin the quest, the guide gives you a potion\nand tells you to quaff it.  You do so and feel like your movements are\neasier, and much more free.  The guide suddenly vanishes and you begin\nthe quest.",
+  "header_raw": "2 12 0",
+  "flags_text": "12",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "The water below you looks rather ominous.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 202
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/2.wld"
+}

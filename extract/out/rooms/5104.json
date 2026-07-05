@@ -3,8 +3,8 @@
   "zone_id": 51,
   "name": "The 3rd House",
   "description": "You stand inside the 3rd house of the city; it is fairly well decorated\nby drow standards having a few statues, murals and such.  A door leads to the \nsouth.",
-  "header_raw": "51 ad 0",
-  "flags_text": "ad",
+  "header_raw": "51 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

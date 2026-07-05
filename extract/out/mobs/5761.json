@@ -1,0 +1,12 @@
+{
+  "id": 5761,
+  "alias": "werewolf man",
+  "short_desc": "a Werewolf",
+  "long_desc": "The man before you transforms into a Werewolf as you watch!",
+  "detailed_desc": "This dour old man is the chief ship-builder for the Warlock, and despite his\nunfortunate curse (Lycanthropy), he is not a bad guy, and will only attack if\nyou initiate hostilities by attacking him or his dog.",
+  "flags_raw": "74 41088 0 E",
+  "stats1_raw": "40 -22 -12 1d1+4632 5d13+126",
+  "stats2_raw": "600 398410 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

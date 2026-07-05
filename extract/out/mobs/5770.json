@@ -1,0 +1,12 @@
+{
+  "id": 5770,
+  "alias": "gas beast",
+  "short_desc": "a gas beast",
+  "long_desc": "A gas beast wraps itself around you and attempts to smother you!",
+  "detailed_desc": "This horrid creature is little more than a gas cloud with a will of its own,\nand as such is very hard to kill.",
+  "flags_raw": "106 9384 -1000 E",
+  "stats1_raw": "30 -17 -11 1d1+3480 5d10+122",
+  "stats2_raw": "450 185326 11",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

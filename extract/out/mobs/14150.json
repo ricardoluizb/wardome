@@ -1,0 +1,12 @@
+{
+  "id": 14150,
+  "alias": "ghost spirit",
+  "short_desc": "the ghost",
+  "long_desc": "This ghost was an evil man in a past life.",
+  "detailed_desc": "In through its transparent face, you can see a grimace of\nevilness and swoops over to you.",
+  "flags_raw": "2632 1154 -1000 E",
+  "stats1_raw": "175 -69 -17 1d1+6300 5d18+80",
+  "stats2_raw": "2625 17811884 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

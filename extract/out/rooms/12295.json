@@ -1,0 +1,21 @@
+{
+  "id": 12295,
+  "zone_id": 122,
+  "name": "A Lofty Nest",
+  "description": "Odin's ravens reside here, in a large nest which has been constructed\nto suit their simple needs. They are frequently send abroad by Odin\nto spy on Jotunheim, Midgaard or other parts of Gladsheim. Various\nshiny objects of the sort birds are attracted by are woven into the\nnest.\n\nPeering over the edge, you can see the snowy plains of Asgard far\nbelow, and the towering branches of Yggdrasil, the top of which is\nnot far from here.",
+  "header_raw": "122 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "trapdoor",
+      "door_flag": 1,
+      "key": 0,
+      "to": 12296
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 11574,
+  "alias": "guildmaster master",
+  "short_desc": "the Guildmaster",
+  "long_desc": "The Warriors' Guildmaster is standing here.",
+  "detailed_desc": "This is your master.  Big and strong with bulging muscles.  Several scars\nacross his body proves that he was using arms before you were born.  He has a\ncalm look on his face.",
+  "flags_raw": "2058 1024 0 E",
+  "stats1_raw": "55 -11 -1 1d1+2412 5d6+42",
+  "stats2_raw": "825 668262 2",
+  "stats3_raw": "8 8 1 3 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

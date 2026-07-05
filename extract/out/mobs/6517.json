@@ -3,10 +3,10 @@
   "alias": "snake giant",
   "short_desc": "the giant snake",
   "long_desc": "There is a giant snake here.",
-  "detailed_desc": "",
-  "flags_raw": "bf k -1000 S",
-  "stats1_raw": "33 0 -10 300d6+600 4d4+22",
-  "stats2_raw": "3000 800000",
-  "stats3_raw": "8 8 1",
+  "detailed_desc": "undefined",
+  "flags_raw": "42 1024 -1000 E",
+  "stats1_raw": "62 -11 0 1d1+1296 5d7+24",
+  "stats2_raw": "930 756900 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/65.mob"
 }

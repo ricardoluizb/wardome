@@ -1,0 +1,29 @@
+{
+  "id": 8147,
+  "zone_id": 81,
+  "name": "The Spiral Tunnel",
+  "description": "There is no use counting how far this tunnel has spiralled down. \nGoblins must be near, though; you can smell it. Here the tunnel\njogs down and west.",
+  "header_raw": "81 9 3",
+  "flags_text": "9",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "The endless spiral runs west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8146
+    },
+    {
+      "dir": 5,
+      "description": "The tunnel plunges steeply down now.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8148
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

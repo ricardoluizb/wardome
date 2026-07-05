@@ -1,0 +1,12 @@
+{
+  "id": 501,
+  "alias": "Chaos Guardian",
+  "short_desc": "the Chaos Guardian",
+  "long_desc": "The Chaos Guardian is standing here.",
+  "detailed_desc": "He looks very strong and wise.  Looks like he doesn't answer to ANYONE.",
+  "flags_raw": "6232 8 0 E",
+  "stats1_raw": "0 0 0 0d0+0 135d-47+-10",
+  "stats2_raw": "1 1 3780",
+  "stats3_raw": "5 15 59 -77 -99",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/5.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 11250,
+  "alias": "giant leech",
+  "short_desc": "a giant leech",
+  "long_desc": "A massive leech rises from the smelly waters.",
+  "detailed_desc": "undefined",
+  "flags_raw": "42 32768 0 E",
+  "stats1_raw": "48 -22 -10 1d1+4800 5d9+108",
+  "stats2_raw": "720 560239 9",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

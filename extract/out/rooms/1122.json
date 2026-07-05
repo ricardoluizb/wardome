@@ -1,0 +1,45 @@
+{
+  "id": 1122,
+  "zone_id": 11,
+  "name": "Bywater Road",
+  "description": "You stand on Bywater Road, the busiest street in all of Shiredom.  The road\ncontinues to the east.  A small hill lies to the west while you can see a\nwatermill to the far south.  You catch a glimpse of the Brandywine River to\nthe north.",
+  "header_raw": "11 8192 1",
+  "flags_text": "8192",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1177
+    },
+    {
+      "dir": 1,
+      "description": "To the east runs Bywater Road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1120
+    },
+    {
+      "dir": 2,
+      "description": "An entrance to the watermill lies to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1123
+    },
+    {
+      "dir": 3,
+      "description": "A small hill to the west blocks your view.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1126
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

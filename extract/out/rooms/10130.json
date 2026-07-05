@@ -1,0 +1,21 @@
+{
+  "id": 10130,
+  "zone_id": 101,
+  "name": "The scribes' room",
+  "description": "You have wandered into a large room, filled with assorted papers.  Elven\nscribes wander to and fro, carefully writing out messages to be sent to their\ncousins in Lothlorien, Grey Havens, and other places in Arda via hawk,\nhorseback, or by foot.  There is a small sign on one wall, printed with a neat\nhand.",
+  "header_raw": "101 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10129
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/101.wld"
+}

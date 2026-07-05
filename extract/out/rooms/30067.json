@@ -1,0 +1,45 @@
+{
+  "id": 30067,
+  "zone_id": 300,
+  "name": "A leafy avenue",
+  "description": "This is a leafy avenue.  The path is made of well-tended moss so your footing\nis very soft.  Upon either side are many trees, creating a canopy above you.  \nPaths between gaps in the trees lead to the houses of the elves.  You can hear\nthe sound of the ocean and the wind whistling in the leaves.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30068
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30074
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30072
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30064
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

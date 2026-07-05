@@ -1,0 +1,12 @@
+{
+  "id": 580,
+  "alias": "faceless mob",
+  "short_desc": "a faceless mob",
+  "long_desc": "A faceless mob stands here.",
+  "detailed_desc": "How odd, it is faceless.",
+  "flags_raw": "11 128 0 E",
+  "stats1_raw": "0 0 0 0d0+0 0d20+10",
+  "stats2_raw": "1 1 0",
+  "stats3_raw": "5 1 0 0 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/5.mob"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5775,
+  "zone_id": 57,
+  "name": "A Cave",
+  "description": "You have entered a huge cave, cut from the rock face by Gods-know what force.\nThere is a campfire burning in the center of the room, and several hides and\nrocks are scattered about the area, along with several bones and chewed\nstrips of half-cooked meat.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "a junction",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5772
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 324,
+  "name": "Survivor Arena",
+  "header": {
+    "raw": "32433 30 2 13",
+    "min_room": 32433,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": 13
+  },
+  "commands": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/324.zon"
+}

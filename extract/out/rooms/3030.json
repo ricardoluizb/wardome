@@ -2,9 +2,9 @@
   "id": 3030,
   "zone_id": 30,
   "name": "The Dump",
-  "description": "The dump, where the people from the city drop their garbage.  Through the\ngarbage you can see a large junction of pipes, looks like the entrance to the\nsewer system.  North of here you see the common square.",
-  "header_raw": "30 c 2",
-  "flags_text": "c",
+  "description": "This was one the dump, where the people from the city dropped their garbage.\nNow this is a dump of DEAD BODIES and DEAD PARTS.",
+  "header_raw": "30 4 2",
+  "flags_text": "4",
   "sector": 2,
   "exits": [
     {
@@ -14,14 +14,6 @@
       "door_flag": 0,
       "key": -1,
       "to": 3025
-    },
-    {
-      "dir": 5,
-      "description": "You see the sewers.",
-      "keywords": "grate",
-      "door_flag": 2,
-      "key": 3005,
-      "to": 7030
     }
   ],
   "extra_descriptions": [],

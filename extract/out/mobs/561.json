@@ -1,0 +1,12 @@
+{
+  "id": 561,
+  "alias": "janitor",
+  "short_desc": "the janitor",
+  "long_desc": "A janitor is walking around, cleaning up.",
+  "detailed_desc": "What a tough job he has.",
+  "flags_raw": "2121 0 0 E",
+  "stats1_raw": "0 0 0 0d0+800 18d11+7",
+  "stats2_raw": "1 1 378",
+  "stats3_raw": "5 2 6 41 84",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/5.mob"
+}

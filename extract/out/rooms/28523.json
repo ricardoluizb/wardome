@@ -1,0 +1,42 @@
+{
+  "id": 28523,
+  "zone_id": 285,
+  "name": "Atlantis throne",
+  "description": "You stand before the throne of the Master. This golden throne is so huge \nthat it takes up almost the entire wall, stretching far above the floor. \nSitting upon it, you feel small and feeble. It is evident that this throne \nis more of a decoration than anything else. Only the largest of kings \ncould sit upon it.  The hall leads south and west into other parts of \nthe keep.",
+  "header_raw": "285 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "throne huge golden gold",
+      "door_flag": 1,
+      "key": 0,
+      "to": 28525
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28524
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28521
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "throne huge gold golden",
+      "description": "The golden throne is huge. It takes up the whole wall........."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/285.wld"
+}

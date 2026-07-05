@@ -3,10 +3,10 @@
   "alias": "gord",
   "short_desc": "Gord",
   "long_desc": "Gord the Rogue stand here.",
-  "detailed_desc": "",
-  "flags_raw": "ch dhk 1000 S",
-  "stats1_raw": "15 0 -3 5d3+105 2d6+4",
-  "stats2_raw": "1 1000",
-  "stats3_raw": "8 8 1",
+  "detailed_desc": "undefined",
+  "flags_raw": "140 1160 1000 E",
+  "stats1_raw": "15 13 7 1d1+315 5d2+6",
+  "stats2_raw": "225 18413 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

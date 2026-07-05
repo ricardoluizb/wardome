@@ -1,0 +1,12 @@
+{
+  "id": 1617,
+  "alias": "spectre",
+  "short_desc": "the spectre",
+  "long_desc": "A spectre has begun to materialize in front of you!",
+  "detailed_desc": "Terror fills your heart as you view this master of the undead.",
+  "flags_raw": "180332 1619002538 -1000 E",
+  "stats1_raw": "180 -92 -33 1d1+20880 5d55+182",
+  "stats2_raw": "2700 27866274 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/16.mob"
+}

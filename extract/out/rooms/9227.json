@@ -1,0 +1,26 @@
+{
+  "id": 9227,
+  "zone_id": 92,
+  "name": "Earth Chamber",
+  "description": "This is the abode of the Earth Ruler.  He decides about earthquakes,\nlandslides, and avalanches.  The Earth Ruler sits upon a huge marble throne\ncarved into the wall.",
+  "header_raw": "92 9 3",
+  "flags_text": "9",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9226
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "marble throne",
+      "description": "The ruler notices your stare, and doesn't like it one bit!  The whole\nearth seems to shake with his emotion."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/92.wld"
+}

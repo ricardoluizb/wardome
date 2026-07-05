@@ -1,0 +1,45 @@
+{
+  "id": 20018,
+  "zone_id": 200,
+  "name": "Main Room",
+  "description": "The tables seem to thin out around here, to give room for the traffic going in\nand out of the kitchen through the archway to the south.  Waiters and\nwaitresses march in and out with empty plates and sumptuous platters, hardly\nstopping to breathe in their business.  You hear the distant clank of a pot\nbanging against something -- the chefs are busy too it seems.  Your stomach\ngrowls...  Are you hungry at all?",
+  "header_raw": "200 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20015
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20017
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20023
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20019
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/200.wld"
+}

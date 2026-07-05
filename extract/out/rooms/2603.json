@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Spellbinder's Cache",
   "description": "You have discovered the cache of the Master Spellbinder.  There are\nthree very large silver chased cabinets here, other than that, the room\nis bare.\n   A silver door can be seen to the south.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

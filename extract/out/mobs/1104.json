@@ -1,0 +1,12 @@
+{
+  "id": 1104,
+  "alias": "oldstyle nursemaid",
+  "short_desc": "a nursemaid",
+  "long_desc": "A nursemaid wanders about, trying to keep track of all the toddlers.",
+  "detailed_desc": "The nursemaid looks rather tired and worn out.  Taking care of so many\ntoddlers for too long has evidently taken its toll.  She looks to you and\nin her eyes you can see her longing for a better life.",
+  "flags_raw": "10 0 100 E",
+  "stats1_raw": "95 -31 -7 1d1+4176 5d10+58",
+  "stats2_raw": "1425 3100938 2",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/11.mob"
+}

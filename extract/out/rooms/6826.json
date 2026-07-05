@@ -1,0 +1,21 @@
+{
+  "id": 6826,
+  "zone_id": 67,
+  "name": "Blind Man's Bluff",
+  "description": "The lonely hilltop is blanketed in a strange, rich green grass-cover,\nand the only sound is that of the wind whistling over the moors.\nA haunting, otherworldly presence has made this bluff its home,\ncasting what malevolence it yet can on the mortal world, and giving\nthe bluff its name.",
+  "header_raw": "67 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6825
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

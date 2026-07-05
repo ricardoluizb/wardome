@@ -1,0 +1,29 @@
+{
+  "id": 12289,
+  "zone_id": 122,
+  "name": "A Stairway to the Next Level",
+  "description": "Located behind Hlidskialf is a small stair, heading up to the second\nlevel, where the private chambers of Odin and Frigga are located.\nNo mortals are welcome here; you can expect resistance if you continue\nin this direction. An eerie whistling sound can be heard at irregular\nintervals; it is the icy winds gusting past the solid walls of the palace.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12299
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12288
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

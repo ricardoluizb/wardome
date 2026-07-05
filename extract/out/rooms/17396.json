@@ -1,0 +1,29 @@
+{
+  "id": 17396,
+  "zone_id": 173,
+  "name": "An Outpost",
+  "description": "You have reached a fortified outpost. Your boots sink in the mud which \nis rutted and groved by the supply wagons which come her.\nYou talk to the guards and they warn you of the merciless Picts to the \nwest, with whom Camelot is at war. The men are hardened by warfare, and \nstare at you with eyes that have seen terrible atrocity. To the east are \nfarms, and to the west you hear the terrible clash of war.",
+  "header_raw": "173 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A muddy road",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17394
+    },
+    {
+      "dir": 3,
+      "description": "The clamor of battle",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17397
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

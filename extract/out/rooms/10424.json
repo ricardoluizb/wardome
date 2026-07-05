@@ -1,0 +1,42 @@
+{
+  "id": 10424,
+  "zone_id": 104,
+  "name": "Room of Lost Souls",
+  "description": "This looks like a waiting room or sorts. Dust and cobwebs are everywhere.\nWooden benches line the walls. A digital number sign is posted on the wall.\nIt currently reads, 'Now Serving Number 1'.\nA ticket dispenser is bolted to the wall.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "It is too dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10407
+    },
+    {
+      "dir": 1,
+      "description": "It is too dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10425
+    },
+    {
+      "dir": 3,
+      "description": "It is too dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10423
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "dispenser",
+      "description": "This is one of those red ticket dispensers that never seem to work right."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

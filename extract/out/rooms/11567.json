@@ -1,0 +1,21 @@
+{
+  "id": 11567,
+  "zone_id": 115,
+  "name": "The Armoury",
+  "description": "This is your standard armoury, filled with your average supply of of armour\nand other assorted goodies.  Broadway is to the west.",
+  "header_raw": "115 144 1",
+  "flags_text": "144",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11566
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 8167,
+  "alias": "wall",
+  "short_desc": "the living wall",
+  "long_desc": "A section of stone wall has many treasures embedded in it.",
+  "detailed_desc": "You have heard of walls that came alive by wicked sorcery and absorb\ngreat treasures within their magical masonry.",
+  "flags_raw": "253978 136 -750 E",
+  "stats1_raw": "169 -86 -31 1d1+19596 5d49+176",
+  "stats2_raw": "2535 23190690 11",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

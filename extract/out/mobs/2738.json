@@ -1,0 +1,12 @@
+{
+  "id": 2738,
+  "alias": "karo",
+  "short_desc": "Karo",
+  "long_desc": "Karo, the mayor's loyal watchdog is here.",
+  "detailed_desc": "Karo, the hobbit mayor's loyal watchdog is here, looking confused.  This dog\nappears to have a problem with both his IQ and his weight.  However, he is big\nand you have the feeling that he bites hard.",
+  "flags_raw": "8 0 0 E",
+  "stats1_raw": "75 -27 -8 1d1+5100 5d15+80",
+  "stats2_raw": "1125 1676658 5",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/27.mob"
+}

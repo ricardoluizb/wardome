@@ -1,0 +1,12 @@
+{
+  "id": 17329,
+  "alias": "nobleman",
+  "short_desc": "a nobleman",
+  "long_desc": "A nobleman stands here in all his finery.",
+  "detailed_desc": "The nobleman wears the finest cotton and wool clothing available. Riches \nadorn him in the form of chains, and a rather heavy looking purse. He \nseems intent on going somewhere.",
+  "flags_raw": "136 0 0 E",
+  "stats1_raw": "115 -37 -7 1d1+3216 5d12+46",
+  "stats2_raw": "1725 4352286 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/173.mob"
+}

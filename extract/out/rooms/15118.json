@@ -1,0 +1,21 @@
+{
+  "id": 15118,
+  "zone_id": 150,
+  "name": "Chicken Coop",
+  "description": "You stand just inside a chicken coop, ankle deep in (no pun intended)\nchicken shit.  Little cluckers run around you pecking here and pecking there,\ngenerally being a nuisance.",
+  "header_raw": "150 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 15117
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/151.wld"
+}

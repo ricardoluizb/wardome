@@ -1,0 +1,29 @@
+{
+  "id": 28413,
+  "zone_id": 284,
+  "name": "Large Tunel",
+  "description": "So Many red eyes...Guess what?",
+  "header_raw": "284 257 6",
+  "flags_text": "257",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "South to back to tunel .",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28412
+    },
+    {
+      "dir": 3,
+      "description": "You see a tunel continuation.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28414
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/284.wld"
+}

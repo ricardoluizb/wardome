@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "A Dark Passage",
   "description": "You are at the end of a dark passage.  A half opened door is to the\neast, shedding soft light around the edges.  Faint snoring sounds can\nbe heard behind the door.\n   Exits lead east through the door, or back west.",
-  "header_raw": "25 adg 0",
-  "flags_text": "adg",
+  "header_raw": "25 73 0",
+  "flags_text": "73",
   "sector": 0,
   "exits": [
     {

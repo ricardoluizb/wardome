@@ -1,0 +1,12 @@
+{
+  "id": 11560,
+  "alias": "shoplifter shop lifter",
+  "short_desc": "a shoplifter",
+  "long_desc": "A shoplifter is busy stuffing things into her pockets.",
+  "detailed_desc": "From the size of her pockets, you can see that this is one busy\nkleptomaniac.",
+  "flags_raw": "2058 1024 0 E",
+  "stats1_raw": "50 -9 0 1d1+2196 5d6+40",
+  "stats2_raw": "750 514062 2",
+  "stats3_raw": "8 8 1 -1 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

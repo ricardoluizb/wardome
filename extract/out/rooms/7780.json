@@ -1,0 +1,37 @@
+{
+  "id": 7780,
+  "zone_id": 77,
+  "name": "Champion's Room",
+  "description": "This is the Temple of a Great Fighter of this World.",
+  "header_raw": "77 128 0",
+  "flags_text": "128",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Closed Door",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 170,
+      "to": 7781
+    },
+    {
+      "dir": 2,
+      "description": "Closed door",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 170,
+      "to": 7782
+    },
+    {
+      "dir": 3,
+      "description": "Closed door.",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 170,
+      "to": 7783
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/77.wld"
+}

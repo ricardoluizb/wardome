@@ -4,9 +4,9 @@
   "short_desc": "the adamantite golem",
   "long_desc": "An adamantite golem stands here looking very dangerous.",
   "detailed_desc": "It seems to be forged of dark metal.  It looks strong and durable,\nbut somewhat un-intelligent.",
-  "flags_raw": "bfgmnopqr dk 350 S",
-  "stats1_raw": "25 0 -10 25d25+250 3d7+3",
-  "stats2_raw": "10000 35650",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "258154 1032 350 E",
+  "stats1_raw": "145 -52 -11 1d1+4056 5d15+58",
+  "stats2_raw": "2175 8494573 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

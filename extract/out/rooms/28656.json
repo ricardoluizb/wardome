@@ -1,0 +1,42 @@
+{
+  "id": 28656,
+  "zone_id": 286,
+  "name": "A grey road",
+  "description": "The ground beneath your feet is a uniformly grey cobblestone.  A dull red\nsun hangs in an orange sky above your head; you hear none of the sounds you\nwould commonly associate with a normal city.\n  The cobblestone road continues to the east and west.  A door to the south\nleads into a tall stone building.",
+  "header_raw": "286 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The grey cobblestones continue.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28657
+    },
+    {
+      "dir": 2,
+      "description": "You see a tall stone building with a wooden door.",
+      "keywords": "door wooden",
+      "door_flag": 1,
+      "key": -1,
+      "to": 28664
+    },
+    {
+      "dir": 3,
+      "description": "The grey cobblestones continue.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28655
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "door wooden",
+      "description": "The door is thick, made from a knotted and twisted greyish wood."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/286.wld"
+}

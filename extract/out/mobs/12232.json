@@ -1,0 +1,12 @@
+{
+  "id": 12232,
+  "alias": "bragi skald",
+  "short_desc": "Bragi",
+  "long_desc": "A skald sits here strumming a golden harp.",
+  "detailed_desc": "Bragi is a peaceful god of music and poetry, and such is his influence\nthat no mortal may commit an act of violence in his presence. His harp\nis a valued item, and he will not part with it, except for an exceptional\nreason.",
+  "flags_raw": "10 9384 1000 E",
+  "stats1_raw": "40 -8 -2 1d1+2400 5d5+56",
+  "stats2_raw": "600 289753 4",
+  "stats3_raw": "8 8 1 3 6",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/122.mob"
+}

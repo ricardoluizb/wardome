@@ -1,0 +1,21 @@
+{
+  "id": 10220,
+  "zone_id": 102,
+  "name": "Guardia's Army Weapon Rack",
+  "description": "You are in the weapon rack stand. There is a few pieces of weapon,\nmostly seems to be already used. Whathever is attacking this kingdom seems\nto be very powerfull and effective, you can see some blacksmiths by the\nrack trying to fix some broken weapons. You realize that the echoes must\ncome from here.",
+  "header_raw": "102 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10218
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

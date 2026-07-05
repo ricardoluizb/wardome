@@ -1,0 +1,12 @@
+{
+  "id": 14134,
+  "alias": "headless",
+  "short_desc": "the headless",
+  "long_desc": "The headless creature seems to be heading right for you!",
+  "detailed_desc": "No one really understands how these things can sense, but as it\nunerringly reaches for you, you know it does.  In any case these\ncreatures are strong and enduring.",
+  "flags_raw": "2152 1024 -1000 E",
+  "stats1_raw": "130 -47 -11 1d1+4680 5d14+62",
+  "stats2_raw": "1950 7522225 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

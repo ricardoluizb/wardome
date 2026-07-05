@@ -5,15 +5,17 @@
     3051,
     3052,
     3053,
-    3054
+    3054,
+    3090
   ],
   "profit_buy": 1.15,
   "profit_sell": 0.15,
   "buy_types": [
-    "SCROLL",
-    "WAND",
-    "STAFF",
-    "POTION"
+    "2",
+    "3",
+    "4",
+    "10",
+    "24"
   ],
   "messages": [
     "%s Sorry, I haven't got exactly that item.",
@@ -36,5 +38,5 @@
     0,
     0
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/shp/30.shp"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/30.shp"
 }

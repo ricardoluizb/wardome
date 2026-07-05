@@ -1,0 +1,37 @@
+{
+  "id": 11586,
+  "zone_id": 115,
+  "name": "The Stairs To Melville's",
+  "description": "You stand at the stairs leading up to Melville's Restaurant, owned by that\nevil bald man, Jonathan Hill.  There is a very sturdy welcome mat at the bottom\nof the stairs with a picture of a duck on it.  The mat does not tear or burn,\nand beating it with a sledgehammer has no effect.  Keep in mind that if you\nwant to go to Melville's, you need a coat and tie.  Oh, and don't forget to\nwipe your feet.  The stairs lead up to Melville's, to the north is the Main Bar\nand to the west the bar continues.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11583
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11588
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11590
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

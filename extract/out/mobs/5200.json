@@ -4,9 +4,9 @@
   "short_desc": "the mighty beholder",
   "long_desc": "You meet a beholder's deadly gaze!",
   "detailed_desc": "It has a large central eye that projects an anti-magic ray and ten\neyestalks atop the round body which can do anything from charm you\nto disintegrate you.  Beholders are not known for their personality.",
-  "flags_raw": "abflnoq dhkp -870 S",
-  "stats1_raw": "25 6 0 1d14+450 6d9+5",
-  "stats2_raw": "28560 134000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "157739 33928 -870 E",
+  "stats1_raw": "160 -64 -17 1d1+7032 5d17+84",
+  "stats2_raw": "2400 13910536 2",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/52.mob"
 }

@@ -1,0 +1,21 @@
+{
+  "id": 13069,
+  "zone_id": 130,
+  "name": "Captain's Place",
+  "description": "Here is the richest and more beautiful place of this Headquarter,\nyou see a enormous picture of Locky, the thieve's God in the left wall\nthere is a big king size bed and a  golden desk here.  If you aren't a\nguest you should get out.  The exit is to the south.",
+  "header_raw": "130 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "Golden Door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 13062
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

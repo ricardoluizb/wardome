@@ -1,0 +1,12 @@
+{
+  "id": 749,
+  "alias": "citizen",
+  "short_desc": "the Citizen",
+  "long_desc": "A citizen of Kerofk is here, going about her business.",
+  "detailed_desc": "This citizen really doesn't have time to fool around with adventurers;\nshe has far too much to do.",
+  "flags_raw": "72 0 100 E",
+  "stats1_raw": "90 -35 -11 1d1+6120 5d19+86",
+  "stats2_raw": "1350 2808292 5",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

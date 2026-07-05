@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The End Of The Hallway",
   "description": "You are at the end of a long hallway.  The walls here glow with a faint\nmagical energy which provides plenty of light.\n   Stairs lead up to the next level here and the hallway continues south.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

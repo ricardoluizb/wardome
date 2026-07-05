@@ -1,0 +1,29 @@
+{
+  "id": 30502,
+  "zone_id": 305,
+  "name": "Uma escura caverna",
+  "description": "Voce continua desbravando essa caverna, e nesse momento voce ve uma pequena\nfilete de luz vindo do norte, mas nao ha nenhum sinal de vida, apenas um senso\nde perigo e morte.  O caminho continua ao norte e sul.",
+  "header_raw": "305 365 0",
+  "flags_text": "365",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30503
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30501
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/305.wld"
+}

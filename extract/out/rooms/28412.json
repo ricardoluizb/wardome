@@ -1,0 +1,29 @@
+{
+  "id": 28412,
+  "zone_id": 284,
+  "name": "Large Tunel",
+  "description": "You find yourself in a enormous tunel full of water creatures.\n  No time to lose! Get your weapon and fight for your life!",
+  "header_raw": "284 257 6",
+  "flags_text": "257",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "To the north you hear roars.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28413
+    },
+    {
+      "dir": 3,
+      "description": "The west is where you were a minute ago!",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28411
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/284.wld"
+}

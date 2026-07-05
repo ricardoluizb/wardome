@@ -1,0 +1,45 @@
+{
+  "id": 2035,
+  "zone_id": 20,
+  "name": "The Castle Moat",
+  "description": "As you go down into the Castle Moat you are pleasantly surprised that you\ncan swim. The water is cold and muky with all manners of yuky stuff floating\nabout. Could be trash dumped from the windows of the Castle by the staff or,\ncould be parts of bodies of those who have dared attack the Castle. The\nMoat continues East and West accross the front and sides of the Castle. You\ncan also go down if you can hold your breath and arent afraid of deep dark\ncold places. A slippery ladder leads back up to the Foyer!",
+  "header_raw": "20 0 6",
+  "flags_text": "0",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "The Eastern side of the Moat",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2036
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "The Western Side of the Mote",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2037
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "The Castle of Desire Foyer",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2001
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "Under Water in the Moat",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2038
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

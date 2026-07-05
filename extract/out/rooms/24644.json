@@ -1,0 +1,29 @@
+{
+  "id": 24644,
+  "zone_id": 245,
+  "name": "Gog",
+  "description": "You are in Satan's city, Gog. Around you the marked ones\nteem and chant the idealogy of the beast. They seem oblivious\nto your presence. An unholy shrine towers above all in the\ncenter of the city. On the ground you see a girl worshipping\na devil idol.",
+  "header_raw": "245 4 1",
+  "flags_text": "4",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Gog",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24658
+    },
+    {
+      "dir": 1,
+      "description": "Gog",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24645
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/245.wld"
+}

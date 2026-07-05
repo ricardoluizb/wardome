@@ -1,0 +1,12 @@
+{
+  "id": 4707,
+  "alias": "rock worm dreaded",
+  "short_desc": "the dreaded rock worm",
+  "long_desc": "The dreaded rock worm has blasted through the rock wall, its jaws open wide!",
+  "detailed_desc": "The jaws of this strange beast are large enough to fit at lease two dwarves\ninto.  Judging by the size you can see that is has been eating quite a few too\nmany dwarves as it's body is at least five feet in diameter.",
+  "flags_raw": "42 8 0 E",
+  "stats1_raw": "65 -20 -5 1d1+3900 5d7+66",
+  "stats2_raw": "975 1098968 4",
+  "stats3_raw": "8 0 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/47.mob"
+}

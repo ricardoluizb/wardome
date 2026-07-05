@@ -1,0 +1,29 @@
+{
+  "id": 6835,
+  "zone_id": 67,
+  "name": "The southern gate",
+  "description": "You stand before the southern gate,forged into ornaments of\nthe triskelion in black iron and covered with ivy. Beyond it,\ndays distant, the mountains of black glass rise shrouded in\npermanent night. Northwards lies the spread of the town of\nSundhaven, hooded in wreaths of cooking smoke.",
+  "header_raw": "67 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6833
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": 6779,
+      "to": 6883
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

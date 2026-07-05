@@ -1,0 +1,34 @@
+{
+  "id": 9036,
+  "zone_id": 90,
+  "name": "The Icy Mountain",
+  "description": "You are on a trail leading up the moutain.  There is some loose \ncrabble lying on the ground.",
+  "header_raw": "90 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9030
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9043
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "crabble",
+      "description": "Yes it is just lying there of absolutely no use at all."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/90.wld"
+}

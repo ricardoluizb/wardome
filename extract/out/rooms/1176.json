@@ -1,0 +1,21 @@
+{
+  "id": 1176,
+  "zone_id": 11,
+  "name": "&RB&rara&Rd&r-D&Ru&rr&n",
+  "description": "Nelde Cormar Eldaron Aranen nu i vilya,\nOtso Heruin Naucoron ondeva mardentassen,\nNerte Firime Nerin yar i Nuron martyar,\nMine i More Herun mormahalmaryasse\nMornoreo Noresse yasse i Fuini caitar.\nMine Corma turie te ilye, Mine Corma hirie te,\nMine Corma hostie te ilye ar mordosse nutie te\nMornoreo Noresse yasse i Fuini caitar.",
+  "header_raw": "11 2588 0",
+  "flags_text": "2588",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1118
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

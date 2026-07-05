@@ -1,0 +1,37 @@
+{
+  "id": 6741,
+  "zone_id": 67,
+  "name": "A black sand road",
+  "description": "Black sand has been hauled up the steep cliffs from the beaches to\nreduce the unpleasant affects of copious mud during the frequent\nrains and heavy fogs of the region. The road is so heavily travelled\nit has almost been packed down into a hard surface.",
+  "header_raw": "67 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6719
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6743
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6740
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

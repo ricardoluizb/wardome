@@ -1,0 +1,34 @@
+{
+  "id": 17343,
+  "zone_id": 173,
+  "name": "Victory Road",
+  "description": "You stand on victory road. Knights pennons are stuck in the ground on\nboth sides of the road, with their coat of arms flapping in the breeze.\nThere are available slots for other coats of arms. Victory road continues\nto the east and west.",
+  "header_raw": "173 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Victory Road",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17347
+    },
+    {
+      "dir": 3,
+      "description": "Victory Road and Knights Way",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17341
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "coat coats arms",
+      "description": "You look at the coats of arms. You recognize a few of the devices as that \nof Gawaine, Tristram, and of course Lancelot."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Tunnel",
   "description": "You stand in a section of this small tunnel which seems to be\nalmost level.  There is a small pool of water collecting beside\nthe north wall indicating perhaps a low spot on the floor.  The\npool is being fed by a small rivulet which is coursing along the\nnorthern wall from the west, but yet the water level in the pool\ndoes not seem to be changing.\n   Looking either way down the tunnel, you can see that the tunnel\nclimbs to the west, and to the east, a strange flickering light\nshows that the tunnel opens up into a cave of sorts.",
-  "header_raw": "40 ad 3",
-  "flags_text": "ad",
+  "header_raw": "40 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

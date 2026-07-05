@@ -1,0 +1,34 @@
+{
+  "id": 20106,
+  "zone_id": 201,
+  "name": "Entrance to Shaolin Temple",
+  "description": "You stand at the main entrance of the famous Shaolin Temple, home to the\nmost highly skilled of all monks. At both sides of the entrance,are two\nimpressive stone lion statues. North leads you into the temple.\nA plaque on the wall catches your attention.",
+  "header_raw": "201 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The path leads you into the main court of the temple.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20107
+    },
+    {
+      "dir": 5,
+      "description": "The path leads down the mountain.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20102
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "plaque wall sign",
+      "description": "|=========================================|\n|      Welcome to Shaolin Temple          |\n|   ---------------------------------     |\n|                                         |\n| May your visit be fun and enlightening. |   \n|                                         | \n|       <<<< ----- BOOM ---- >>>>>        |            \n|=========================================|"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/201.wld"
+}

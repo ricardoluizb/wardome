@@ -1,0 +1,12 @@
+{
+  "id": 12249,
+  "alias": "electric eel",
+  "short_desc": "an electric eel",
+  "long_desc": "A writhing black creature alive with energy swims past.",
+  "detailed_desc": "This underwater menace is a hazard to ships as well as swimmers foolish\nenough to brave the icy depths; the powerful current it unleashes could\nfell a troll.",
+  "flags_raw": "104 1024 0 E",
+  "stats1_raw": "50 -13 -3 1d1+3000 5d6+60",
+  "stats2_raw": "750 584745 4",
+  "stats3_raw": "8 8 0 0 3",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/122.mob"
+}

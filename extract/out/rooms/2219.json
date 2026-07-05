@@ -1,0 +1,29 @@
+{
+  "id": 2219,
+  "zone_id": 22,
+  "name": "Crypt",
+  "description": "You are in a large room which continues to the west.  You notice many\ncoffins here.  Open coffins reveal remains of something other than man.  \nThe smell of reptile is very strong here.",
+  "header_raw": "22 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see the entrance.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2218
+    },
+    {
+      "dir": 3,
+      "description": "You see nothing special.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2222
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

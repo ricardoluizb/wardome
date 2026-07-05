@@ -3,8 +3,8 @@
   "zone_id": 79,
   "name": "The Chain Where It Is Too Windy",
   "description": "Hanging on to the chain you figure out that there is no way of leaving\ndown from here.  The wind pulls you from left to right and back.  This\nseems like a totally impossible task.  The ascend is the only way ahead\nfor you.  Otherwise you would risk death by falling to the hard ground\nbelow.  DO NOT DESCEND NOW OR YOU WILL SURELY DIE!!!!",
-  "header_raw": "79 c 5",
-  "flags_text": "c",
+  "header_raw": "79 4 5",
+  "flags_text": "4",
   "sector": 5,
   "exits": [
     {

@@ -1,0 +1,45 @@
+{
+  "id": 11231,
+  "zone_id": 112,
+  "name": "Main Street",
+  "description": "This section of Main Street appears to have been the scene of a mighty\nbattle, between humans and whatever huge creatures possessed the strength\nto tear them limb from limb and deposit the remains haphazardly about the\nbloodstained cobblestone street. Not one of the foes they fought appears to\nhave perished in the struggle, making you wonder what sort of creatures now\nlurk in this accursed town.",
+  "header_raw": "112 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11232
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11228
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11233
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11218
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

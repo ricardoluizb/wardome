@@ -1,0 +1,34 @@
+{
+  "id": 2403,
+  "zone_id": 24,
+  "name": "&RCa&rll &Wto &rAr&Rms&n",
+  "description": "Indeed the kingdom has quite an arsenal, the rumors are true, Dwarves,\nElves, Fairies, Drows, even humans works here in a perfect sincrony to forge\nthe most pure and strong steel ever made.  But not only steel they forge, the\nroom is fullfilled of the most variable kinds of metal, from bronze to\nmithryll, guided by magic hands, the blacksmiths work with full devotion, taken\nby an battle furor, the wish to defend their kingdom talks louder then their\nown wish to live.  The Long stands of most variable armors and weapons calls\nyour arms, to wield them and slay the enemy, till the blood on your sword be\nthe blood of a King.    \n\n\n\n&cThe first banner was posted here, type read banner to see.",
+  "header_raw": "24 2564 0",
+  "flags_text": "2564",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2402
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "Banner",
+      "description": "Secret of Steel\n\n\n\nAtop the mountain, where the river of steel flows\nBlack is the forest, white was the snow.\nThere as children, how could children know?\nOne without name or number soon would show.\nThere stood he, on his chariot made of gold\nHe did reveal the trinity of secrets old.\n\nA sceptre of iron could mercy bring.\nA shield of gold, the Creator and king,\nAnd the great sword of steel.\nSons os destiny shall wield.\nHear Wisdom's voice.\nRise, know the strength that you feel.\n\nHold in your heart but never reveal.\nYou were called by the Gods, their powers to wield.\nGuard well the secret of steel.\nA sceptre of iron could mercy bring.\nA shield of gold, the Creator and king,\nAnd the great sword of steel.\n\n\nSons os destiny shall wield.\nHear Wisdom's voice.\nRise, know the strength that you feel.\nHold in your heart but never reveal.\nYou were called by the Gods, their powers to wield.\nGuard well the secret of steel"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/24.wld"
+}

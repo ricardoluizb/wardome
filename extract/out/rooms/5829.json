@@ -1,0 +1,21 @@
+{
+  "id": 5829,
+  "zone_id": 57,
+  "name": "A Minotaur Room",
+  "description": "You have entered the lair of a MINOTAUR! And he will sure be pissed if he\ncatches you here, so you'd better leave real quick or get ready for a fight.\nFrom the looks of things, he has been mad for a while- broken pots scatter\nthe floor, and several smashed cups and plates are piled in one corner.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "another door",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5828
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

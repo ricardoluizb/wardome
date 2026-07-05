@@ -1,0 +1,45 @@
+{
+  "id": 8291,
+  "zone_id": 82,
+  "name": "At The End Of The Corridor Of the Dungeon",
+  "description": "You are at the end of this corridor, this place is getting colder, and \ndarker. This place makes you shake, because you fill that you have lost\nall you magic power, as well of the power of your wands and scrolls. In\nfromt of you and at your sides there are cells, if you where inteligent\nyou would lived them close.",
+  "header_raw": "82 129 0",
+  "flags_text": "129",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8290
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 8292
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 8290,
+      "to": 8294
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 8290,
+      "to": 8293
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

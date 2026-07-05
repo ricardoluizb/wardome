@@ -1,0 +1,12 @@
+{
+  "id": 608,
+  "alias": "rabbit",
+  "short_desc": "the rabbit",
+  "long_desc": "A rabbit is bouncing around here.",
+  "detailed_desc": "The rabbit smiles at you, completely harmless!",
+  "flags_raw": "232 0 0 E",
+  "stats1_raw": "100 1 20 10d1+1 18d10+1",
+  "stats2_raw": "0 15 196",
+  "stats3_raw": "0 8 0 0 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/6.mob"
+}

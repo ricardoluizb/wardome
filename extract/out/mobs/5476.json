@@ -4,9 +4,9 @@
   "short_desc": "the couatl",
   "long_desc": "A couatl hovers here.",
   "detailed_desc": "A beautiful creature with the body of a serpent and feathered wings the\ncolour of the rainbow.",
-  "flags_raw": "belnoq dghkp 300 S",
-  "stats1_raw": "15 10 1 10d5+130 2d4+2",
-  "stats2_raw": "0 2400",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "92186 33992 300 E",
+  "stats1_raw": "15 13 7 1d1+315 5d2+6",
+  "stats2_raw": "225 18413 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

@@ -1,0 +1,12 @@
+{
+  "id": 2111,
+  "alias": "demon major",
+  "short_desc": "a major demon",
+  "long_desc": "A major demon lurks about here.",
+  "detailed_desc": "You look deep into the eyes of the beast.  You sense no absolutely no\nintellect, only raw power and rage.",
+  "flags_raw": "2090 8192 -250 E",
+  "stats1_raw": "93 -26 -3 1d1+2604 5d10+36",
+  "stats2_raw": "1395 2371379 0",
+  "stats3_raw": "8 8 0 -1 19",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/21.mob"
+}

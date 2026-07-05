@@ -1,0 +1,34 @@
+{
+  "id": 13243,
+  "zone_id": 132,
+  "name": "A Dark Room",
+  "description": "You have stumbled upon a dark, damp room.  You see a sign on the wall.",
+  "header_raw": "132 13 0",
+  "flags_text": "13",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "your death",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13244
+    },
+    {
+      "dir": 4,
+      "description": "back to the land of the living",
+      "keywords": "grate",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13228
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "North of Here Waits Certain\n          Death.  Many Have Fallen\n          To This Horrible Monster."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

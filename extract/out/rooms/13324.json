@@ -1,0 +1,37 @@
+{
+  "id": 13324,
+  "zone_id": 132,
+  "name": "The West Market Square",
+  "description": "You are on one of two market squares of Cloudy Mountain.  The people here\ndo not seem very friendly and only seem interested in how much money you want\nto spend.  Homes are east and the market continues north, east and south.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "west market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13324
+    },
+    {
+      "dir": 2,
+      "description": "west market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13323
+    },
+    {
+      "dir": 3,
+      "description": "west market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13351
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

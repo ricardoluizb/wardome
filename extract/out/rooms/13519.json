@@ -1,0 +1,29 @@
+{
+  "id": 13519,
+  "zone_id": 135,
+  "name": "The Acid Forest",
+  "description": "Sharp stalagmites reach upwards, created by the mineral ichors\ndripping off stalactites far above.  Pools of acid fill every crevice\non the craggy cavern floor.",
+  "header_raw": "135 8 4",
+  "flags_text": "8",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13522
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13518
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

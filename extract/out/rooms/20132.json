@@ -1,0 +1,21 @@
+{
+  "id": 20132,
+  "zone_id": 201,
+  "name": "A prison cell",
+  "description": "It looks dark and gloomy, probably the only place in the temple that is not\nkept clean and maintained.",
+  "header_raw": "201 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The guard room.",
+      "keywords": "cell",
+      "door_flag": 1,
+      "key": 20131,
+      "to": 20131
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/201.wld"
+}

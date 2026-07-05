@@ -1,0 +1,12 @@
+{
+  "id": 14128,
+  "alias": "prisoner",
+  "short_desc": "the prisoner",
+  "long_desc": "The Prisoner is big and grins evilly at you.",
+  "detailed_desc": "This Prisoner was convicted of one of the most heinous crimes,\nMURDER.  It took many guards and druids to restrain this beast.",
+  "flags_raw": "2120 1024 -1000 E",
+  "stats1_raw": "60 -12 0 1d1+2160 5d7+34",
+  "stats2_raw": "900 838996 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

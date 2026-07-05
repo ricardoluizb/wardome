@@ -1,0 +1,12 @@
+{
+  "id": 7712,
+  "alias": "oldstyle githyanki warlock",
+  "short_desc": "a warlock of the Gith",
+  "long_desc": "A humanoid figure stands here, holding a silvery sword.",
+  "detailed_desc": "You see a leathery-skinned creature, clad all in black and bearing a silvery-\ncolored sword.  Like all githyanki, his teeth are fanged and his eyes hollow\nand sunken.  As you turn to flee, you feel the impact of a fireball against\nyour back.",
+  "flags_raw": "4136 1048 -500 E",
+  "stats1_raw": "95 -27 -4 1d1+2652 5d10+38",
+  "stats2_raw": "1425 2519512 0",
+  "stats3_raw": "8 8 1 -1 7",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/77.mob"
+}

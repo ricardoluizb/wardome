@@ -1,0 +1,12 @@
+{
+  "id": 6756,
+  "alias": "gryphon guard guardian",
+  "short_desc": "a guardian gryphon",
+  "long_desc": "A large guardian gryphon sits immobile before you.",
+  "detailed_desc": "It's a brawny beast, measuring six feet at the shoulder, and staring\npassively at you with cold red eyes. It watches faithfully over the\nguild of physical battle that is its charge; only those worthy may\nenter.",
+  "flags_raw": "221226 109051944 900 E",
+  "stats1_raw": "160 -60 -14 1d1+4476 5d17+64",
+  "stats2_raw": "2400 11302310 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/67.mob"
+}

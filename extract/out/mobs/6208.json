@@ -4,9 +4,9 @@
   "short_desc": "the mutant orc",
   "long_desc": "A mutant orc lies here, barely alive.",
   "detailed_desc": "Its body has been twisted beyond all hope.  It is dying, and\nnothing will stop that.",
-  "flags_raw": "0 k 0 S",
-  "stats1_raw": "6 20 100 1d1+0 1d1+0",
-  "stats2_raw": "0 1",
-  "stats3_raw": "5 5 0",
+  "flags_raw": "8 1024 0 E",
+  "stats1_raw": "77 -18 -1 1d1+2148 5d8+30",
+  "stats2_raw": "1155 1389000 0",
+  "stats3_raw": "5 5 0 7 5",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/62.mob"
 }

@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "A Dark Cell",
   "description": "You are in a dark cell.  Straw and dirt cover the floors here, it is\nvery dark.  Someone, or something seems to be chained to the far wall.\n   The only exit is back south.",
-  "header_raw": "25 adg 0",
-  "flags_text": "adg",
+  "header_raw": "25 73 0",
+  "flags_text": "73",
   "sector": 0,
   "exits": [
     {

@@ -1,0 +1,21 @@
+{
+  "id": 13026,
+  "zone_id": 130,
+  "name": "Treasury's Room",
+  "description": "You are in a small and rustic place, you do not\nsee somethig interesting here, just a small chest\nin the left corner. The only exit is to the east.",
+  "header_raw": "130 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "Picture of Zeina",
+      "door_flag": 2,
+      "key": 0,
+      "to": 13024
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

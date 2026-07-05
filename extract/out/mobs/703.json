@@ -1,0 +1,12 @@
+{
+  "id": 703,
+  "alias": "Bookstore Owner",
+  "short_desc": "the Bookstore Owner",
+  "long_desc": "The Bookstore Owner looks up from a paperback as you come in.",
+  "detailed_desc": "The Bookstore Owner looks very bored in his job here.  From the way\nhis fingers twitch and his eyes dart, you wonder if he really is what\nhe appears...",
+  "flags_raw": "24586 128 -500 E",
+  "stats1_raw": "80 -30 -9 1d1+5436 5d17+82",
+  "stats2_raw": "1200 2011376 5",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

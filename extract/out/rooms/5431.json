@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "Inside the Eastern Gate of New Thalos",
   "description": "Two large stone towers imbedded in the wall loom over you.  The\nmassive iron gate, emblazened with the crest of New Thalos, swings\neasily on four ornately crafted hinges.  It is obvious the makers\nof this city spared no expense in protecting their home.\n   Main street heads towards the market westward and the wilderness\nbeckons from the east.  To the north lies the entrance to the Mages'\nGuild.",
-  "header_raw": "54 c 1",
-  "flags_text": "c",
+  "header_raw": "54 4 1",
+  "flags_text": "4",
   "sector": 1,
   "exits": [
     {

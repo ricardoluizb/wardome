@@ -1,0 +1,29 @@
+{
+  "id": 30028,
+  "zone_id": 300,
+  "name": "A network of rock pools",
+  "description": "You are hopping about a vast network of rock pools.  It is like you would\nimagine the land around Mount Doom.  The sea has shaped the base red rock and\nformed a cratered, bumpy landscape full of surprises.  Countless creatures and\nother sea life inhabit these rock pools.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30027
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30029
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

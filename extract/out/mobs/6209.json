@@ -4,9 +4,9 @@
   "short_desc": "the mutant orc",
   "long_desc": "A horribly mutated orc stands here, gibbering.",
   "detailed_desc": "It doesn't even appear to have registered your arrival... it is\njust talking to itself.  Its body is a twisted wreck of orc, man,\nbeast, and what-not.",
-  "flags_raw": "0 k 0 S",
-  "stats1_raw": "6 20 100 3d5+60 1d1+0",
-  "stats2_raw": "0 10",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "8 1024 0 E",
+  "stats1_raw": "77 -18 -1 1d1+2148 5d8+30",
+  "stats2_raw": "1155 1389000 0",
+  "stats3_raw": "8 8 0 7 5",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/62.mob"
 }

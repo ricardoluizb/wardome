@@ -1,0 +1,41 @@
+{
+  "id": 6882,
+  "producing": [
+    6734,
+    6735,
+    6736,
+    6737,
+    6738,
+    6768
+  ],
+  "profit_buy": 1.0,
+  "profit_sell": 1.0,
+  "buy_types": [
+    "21",
+    "17",
+    "16",
+    "15"
+  ],
+  "messages": [
+    "%s I don't carry those in stock. Try list.",
+    "%s My eyesight is poor, but I can't see as you have one.",
+    "%s My store is too humble to afford this.",
+    "%s I don't accept down payments. Come back with more gold!",
+    "%s I don't buy those. Try another shop!",
+    "%s That comes to %d coins.",
+    "%s I'll give you %d coins for that."
+  ],
+  "tail": [
+    2,
+    2,
+    6734,
+    0,
+    6882,
+    -1,
+    0,
+    28,
+    0,
+    0
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/67.shp"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 747,
+  "zone_id": 7,
+  "name": "The Bookstore",
+  "description": "Shelves fill this store with books to the brimming.  Tomes on cats,\nrats, plates, grates, mages, cages, stages, swords, hoards, dragons,\ngoats, moats, croats, money, honey, spells, bells, Hell, smells, and\non and on and on!  You think that you might be able to find something\ninteresting here...",
+  "header_raw": "7 152 0",
+  "flags_text": "152",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 716
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "bookcase",
+      "door_flag": 1,
+      "key": 724,
+      "to": 748
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

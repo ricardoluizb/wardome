@@ -1,0 +1,29 @@
+{
+  "id": 6791,
+  "zone_id": 67,
+  "name": "Over the edge",
+  "description": "You stand perched on the rocky brink of the cliffs of Sundhaven.\nBefore you a sea of wavering fog holds the land in its grip, \nundulating in the slight wind. You can make out a narrow trail\nsliding straight down among the scant bushes and heather flowers.",
+  "header_raw": "67 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6790
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6792
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

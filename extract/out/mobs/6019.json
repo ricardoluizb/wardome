@@ -4,9 +4,9 @@
   "short_desc": "the duck",
   "long_desc": "A duck is here, quacking happily.",
   "detailed_desc": "The duck is quite fat.  It looks like it is enjoying life.",
-  "flags_raw": "g 0 1000 S",
-  "stats1_raw": "1 20 10 2d6+5 1d4+0",
-  "stats2_raw": "0 75",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "72 0 1000 E",
+  "stats1_raw": "2 19 9 1d1+36 5d1+0",
+  "stats2_raw": "30 376 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/60.mob"
 }

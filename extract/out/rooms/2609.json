@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Golem Master's Workshop",
   "description": "You are in the golem master's workshop.  A few unfinished looking humanoid\nforms of different make are here, some moving, some not.  The animated forms\nlunge to attack you.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

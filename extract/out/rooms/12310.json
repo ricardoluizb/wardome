@@ -1,0 +1,21 @@
+{
+  "id": 12310,
+  "zone_id": 122,
+  "name": "The Chambers of Fjalar",
+  "description": "This large stony hall houses Flajar, the greatest of the Durin and a\nfearsome warrior and giantslayer. Feared and respected by friend and\nfoe alike, his power in combat is not to be scoffed at, despite his\ndiminutive stature. His abode is simple, and spartan, as you'd expect\nof this sworn soldier of the Durin. Relics from previous victories are\nhis only vanities- several giant skulls, and weapons, plus the hide of\na polar bear and a white dragon.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12311
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

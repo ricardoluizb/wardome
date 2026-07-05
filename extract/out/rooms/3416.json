@@ -1,0 +1,34 @@
+{
+  "id": 3416,
+  "zone_id": 34,
+  "name": "Entrance to the Lower Chambers",
+  "description": "You can tell that this area wasn't a part of the original construction.\nThe walls have been hewn by a mighty force look as though they were CLAWED.\nThe passage slopes upward here and also continues to the north.",
+  "header_raw": "34 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3415
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "tunnel",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3418
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "walls",
+      "description": "Something BIG must have done this job!  There are traces of BLOOD in the\nclaw marks."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/34.wld"
+}

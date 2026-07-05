@@ -1,0 +1,21 @@
+{
+  "id": 3808,
+  "zone_id": 38,
+  "name": "A Small Storage Room",
+  "description": "You are in a small storage room.  A pile of filthy rags is against the far\nwall.  The exit is to the west.",
+  "header_raw": "38 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3803
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

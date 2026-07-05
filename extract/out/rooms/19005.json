@@ -1,0 +1,21 @@
+{
+  "id": 19005,
+  "zone_id": 190,
+  "name": "Cellar.",
+  "description": "In this damp cellar are some food and other things stored.",
+  "header_raw": "190 9 3",
+  "flags_text": "9",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 19003
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/190.wld"
+}

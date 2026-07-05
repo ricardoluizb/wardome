@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Lion's Den",
   "description": "Following the gouge down to the cave entrance, you clamber through\nthe small entranceway only to find yourself in what appears to be the\nliving den of a large carnivorous animal!",
-  "header_raw": "40 ad 2",
-  "flags_text": "ad",
+  "header_raw": "40 9 2",
+  "flags_text": "9",
   "sector": 2,
   "exits": [
     {

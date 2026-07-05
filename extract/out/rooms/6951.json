@@ -1,0 +1,29 @@
+{
+  "id": 6951,
+  "zone_id": 69,
+  "name": "Walking the Roof",
+  "description": "This is another part of the roof of the house.  The wind makes you feel like\nyou are going to be picked up and thrown into the ground at any moment, so you\ntry to move slowly and steadily.  Carefully you make your way around a section\nof the roof that is unfinished, and try to head north.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6952
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6950
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

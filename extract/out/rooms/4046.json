@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "Between The Mountains",
   "description": "The trail between the mountains seems almost endless as you continue\nto trek along it.  It continues to both the east and west.",
-  "header_raw": "40 c 5",
-  "flags_text": "c",
+  "header_raw": "40 4 5",
+  "flags_text": "4",
   "sector": 5,
   "exits": [
     {

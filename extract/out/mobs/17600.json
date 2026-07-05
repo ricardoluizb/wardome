@@ -1,0 +1,12 @@
+{
+  "id": 17600,
+  "alias": "oldstyle cityguard guard",
+  "short_desc": "the Ofcol cityguard",
+  "long_desc": "An Ofcol cityguard is standing here, making sure there is no trouble.",
+  "detailed_desc": "This guard is surely a trained and skilled fighter.  He is fully armed and\narmored, and he uses his equipment with a practiced precision.  Luckily for \nyou, this guard will only use his deadly skills for the good of the citizens of\nOfcol.",
+  "flags_raw": "12 8192 1000 E",
+  "stats1_raw": "20 10 7 1d1+414 5d3+8",
+  "stats2_raw": "300 37388 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/176.mob"
+}

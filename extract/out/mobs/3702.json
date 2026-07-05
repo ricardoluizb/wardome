@@ -1,0 +1,12 @@
+{
+  "id": 3702,
+  "alias": "oldstyle ghoul",
+  "short_desc": "the ghastly ghoul",
+  "long_desc": "A ghastly ghoul is here.",
+  "detailed_desc": "It is a walking corpse with long fangs and long, sharp nails that most of\nresemble claws.  Its eyes are a dark yellow colour and glare hungrily at you.",
+  "flags_raw": "8 1024 -750 E",
+  "stats1_raw": "110 -41 -11 1d1+5712 5d12+74",
+  "stats2_raw": "1650 4788749 3",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/37.mob"
+}

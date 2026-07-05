@@ -1,0 +1,12 @@
+{
+  "id": 9908,
+  "alias": "ghenna gorgimera",
+  "short_desc": "the Gorgimera",
+  "long_desc": "A Gorgimera roars at your entrance, and ATTACKS!!!",
+  "detailed_desc": "This monster has three heads, those of a gorgon, a lion, and a fierce\ndragon. It has the hindquarters of a large, black gorgon and the \nforequarters of a huge, tawny lion, with brownish-black wings like those \nof a dragon.",
+  "flags_raw": "137386 1192 100 E",
+  "stats1_raw": "30 3 4 1d1+1080 5d4+22",
+  "stats2_raw": "450 128594 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/99.mob"
+}

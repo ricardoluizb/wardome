@@ -1,0 +1,37 @@
+{
+  "id": 5783,
+  "zone_id": 57,
+  "name": "A Junction",
+  "description": "You have reached a point where you can continue along the north-south passage\nor head west along a very narrow path. You hear laughter coming from this\ndirection.\n\nAs you examine the western passage, you notice that it is indeed VERY narrow,\nand you begin to harbour doubts about getting back out...",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a t-junction",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5785
+    },
+    {
+      "dir": 2,
+      "description": "a bend",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5782
+    },
+    {
+      "dir": 3,
+      "description": "a narrow passageway",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5784
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

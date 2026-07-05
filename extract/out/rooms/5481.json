@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "Underground",
   "description": "The small passage heads north and east from here.  You here the sounds\nof the city above you.",
-  "header_raw": "54 ad 1",
-  "flags_text": "ad",
+  "header_raw": "54 9 1",
+  "flags_text": "9",
   "sector": 1,
   "exits": [
     {

@@ -1,0 +1,36 @@
+{
+  "id": 17607,
+  "producing": [
+    17605,
+    17604,
+    17603,
+    17602
+  ],
+  "profit_buy": 1.0,
+  "profit_sell": 1.0,
+  "buy_types": [
+    "19"
+  ],
+  "messages": [
+    "%s Sorry, I haven't got exactly that item.",
+    "%s You don't seem to have that.",
+    "%s I don't buy such items.",
+    "%s That is too expensive for me!",
+    "%s You can't afford it!",
+    "%s That'll be %d coins, please.",
+    "%s You'll get %d coins for it!"
+  ],
+  "tail": [
+    0,
+    0,
+    17607,
+    0,
+    17607,
+    -1,
+    0,
+    23,
+    0,
+    0
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/176.shp"
+}

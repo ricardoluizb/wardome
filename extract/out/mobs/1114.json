@@ -1,0 +1,12 @@
+{
+  "id": 1114,
+  "alias": "oldstyle miller",
+  "short_desc": "the Miller",
+  "long_desc": "The Miller is here, overseeing his busy mill workers.",
+  "detailed_desc": "The Miller is an impatient young halfling, always trying to command more\nrespect from his workers than he can get.  He looks like the type of person\nwho deserves a spanking but never got one.",
+  "flags_raw": "204 0 50 E",
+  "stats1_raw": "105 -36 -8 1d1+4620 5d11+62",
+  "stats2_raw": "1575 4126799 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/11.mob"
+}

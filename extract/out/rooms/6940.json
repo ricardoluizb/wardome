@@ -1,0 +1,21 @@
+{
+  "id": 6940,
+  "zone_id": 69,
+  "name": "A Plain Old Room",
+  "description": "You have now entered a room of this house, which doesn't have too much\ninside of it.  The walls are without decorations, and there is some furniture\nand a large bed near the walls.  Some of the things are even covered in spider\nwebs.  Looks like no one has been around here for ages.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6939
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

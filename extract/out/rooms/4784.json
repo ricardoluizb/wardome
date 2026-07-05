@@ -1,0 +1,29 @@
+{
+  "id": 4784,
+  "zone_id": 47,
+  "name": "The hills",
+  "description": "You sigh as the trail continues straight up into the mountain.  West leads\nback to the more stable ground, but you wonder what's on the other side of this\nlittle hill.....",
+  "header_raw": "47 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "You see the trail back.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 4785
+    },
+    {
+      "dir": 4,
+      "description": "You see rocks.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 4783
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

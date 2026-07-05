@@ -1,0 +1,29 @@
+{
+  "id": 13537,
+  "zone_id": 135,
+  "name": "The Small Intestine",
+  "description": "The smooth tunnel contracts to the south of here into a new tunnel.",
+  "header_raw": "135 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13536
+    },
+    {
+      "dir": 2,
+      "description": "The new tunnel seems composed of different textures.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13538
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

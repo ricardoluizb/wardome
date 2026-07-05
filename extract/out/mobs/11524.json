@@ -1,0 +1,12 @@
+{
+  "id": 11524,
+  "alias": "dockworker worker",
+  "short_desc": "the dockworker",
+  "long_desc": "A dockworker is busy moving crates.",
+  "detailed_desc": "Dockworkers get very strong from lifting crates and the size of his muscles\nmake you think twice about attacking him.",
+  "flags_raw": "72 0 0 E",
+  "stats1_raw": "45 -6 0 1d1+1980 5d5+38",
+  "stats2_raw": "675 385477 2",
+  "stats3_raw": "8 8 1 3 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

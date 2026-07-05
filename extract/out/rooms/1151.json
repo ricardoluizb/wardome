@@ -1,0 +1,45 @@
+{
+  "id": 1151,
+  "zone_id": 11,
+  "name": "A dark tunnel",
+  "description": "You stand inside a small underground tunnel.  The ceiling is so low that\nyou must crouch to avoid hitting your head.  The tunnel continues north and\nsouth.  To the west you see a Shirriff Post while to the east lies a small\nhome.  All you can see is darkness.",
+  "header_raw": "11 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a dark tunnel.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1152
+    },
+    {
+      "dir": 1,
+      "description": "You see a halfling hole.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1154
+    },
+    {
+      "dir": 2,
+      "description": "You see a dark tunnel.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1149
+    },
+    {
+      "dir": 3,
+      "description": "Above a great oak door you see a sign which reads 'Shirriff Post'.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1153
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

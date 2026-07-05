@@ -1,0 +1,37 @@
+{
+  "id": 14242,
+  "zone_id": 141,
+  "name": "The Desert",
+  "description": "You trudge on.  This desert seems endless.",
+  "header_raw": "141 64 1",
+  "flags_text": "64",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14246
+    },
+    {
+      "dir": 1,
+      "description": "There is a shimmering light.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14243
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14241
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

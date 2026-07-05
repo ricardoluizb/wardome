@@ -1,0 +1,29 @@
+{
+  "id": 5805,
+  "zone_id": 57,
+  "name": "Inside the Shipbuilder's Quarters",
+  "description": "This room houses the shipbuilder and his faithful dog. There are bits of\nwood and tools lying about everywhere, and a section of hull serves as a \nresting bench for the shipbuilder, who can usually be found sprawled over \nit. There is a door to the west, as well as the southern one you originally\ncame through.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "outside a door",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5804
+    },
+    {
+      "dir": 3,
+      "description": "a pantry",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5806
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

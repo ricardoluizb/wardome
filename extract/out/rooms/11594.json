@@ -1,0 +1,21 @@
+{
+  "id": 11594,
+  "zone_id": 115,
+  "name": "The Reception In The Waldorf Astoria",
+  "description": "This is a very classy reception for a very classy hotel.  This fact is\nproven by the sheer beauty of the receptionist.  Hey, they can afford to pay\nfor the high prices of supermodels and Playboy Playmates.  The lobby to the\nWaldorf is downstairs.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11573
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

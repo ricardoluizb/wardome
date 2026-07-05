@@ -1,0 +1,12 @@
+{
+  "id": 733,
+  "alias": "militia guard",
+  "short_desc": "the Militia Man",
+  "long_desc": "A militia guard is here keeping the peace.",
+  "detailed_desc": "The militia guardsman looks very well trained, for a citizen.",
+  "flags_raw": "72 128 500 E",
+  "stats1_raw": "90 -35 -11 1d1+6120 5d19+86",
+  "stats2_raw": "1350 2808292 5",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

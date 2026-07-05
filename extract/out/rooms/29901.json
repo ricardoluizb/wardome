@@ -1,0 +1,21 @@
+{
+  "id": 29901,
+  "zone_id": 298,
+  "name": "A small dark armoury",
+  "description": "This small armoury holds the elves' excess weapons and armour.  A small rack\nlines the west wall and several crates are stacked around the room.  You figure\nthat if they don't see you take anything, it's not illegal.",
+  "header_raw": "298 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 29900
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

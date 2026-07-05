@@ -4,9 +4,9 @@
   "short_desc": "the healer",
   "long_desc": "A healer is standing here.",
   "detailed_desc": "You see a young man, still learning about magical healing, wearing a white \ncoat and using a stethoscope.",
-  "flags_raw": "abel d 900 S",
-  "stats1_raw": "14 7 1 2d7+170 1d7+6",
-  "stats2_raw": "1500 18000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "2074 8 900 E",
+  "stats1_raw": "19 11 7 1d1+396 5d2+6",
+  "stats2_raw": "285 39793 0",
+  "stats3_raw": "8 8 1 1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/120.mob"
 }

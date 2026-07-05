@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Smelly Tunnel",
   "description": "You are in a fairly small north-south leading tunnel.  There\nis a a small light visible off to the north.  As you stop for a\nmoment, you notice a strange smell from the north.",
-  "header_raw": "40 ad 3",
-  "flags_text": "ad",
+  "header_raw": "40 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

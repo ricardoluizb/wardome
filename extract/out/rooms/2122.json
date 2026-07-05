@@ -1,0 +1,29 @@
+{
+  "id": 2122,
+  "zone_id": 21,
+  "name": "The Ledge",
+  "description": "You find yourself on a very wide ledge.  You could stretch out here and take\na nap if you wanted too.  To the south you get a fantastic view of the entire\nforest.  There is perhaps another forty feet to the top of the cliff, all of\nwhich appears to be an easy climb.",
+  "header_raw": "21 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2121
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2124
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/21.wld"
+}

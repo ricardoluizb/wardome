@@ -1,0 +1,12 @@
+{
+  "id": 306,
+  "alias": "oldstyle luxan shopkeeper",
+  "short_desc": "Luxan",
+  "long_desc": "Luxan the Shopkeeper is here, eager to sell you anything.",
+  "detailed_desc": "Luxan is dressed in a strange jacket.\nHe looks like a mean trader from the outskirts of Midgaard.\nHis life is seems to be totally occupied with trading.\nHe looks very fit and capable of protecting his goods.",
+  "flags_raw": "24590 0 400 E",
+  "stats1_raw": "15 13 7 1d1+315 5d2+6",
+  "stats2_raw": "225 18413 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/3.mob"
+}

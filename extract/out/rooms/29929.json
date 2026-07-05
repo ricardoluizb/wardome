@@ -1,0 +1,29 @@
+{
+  "id": 29929,
+  "zone_id": 298,
+  "name": "Stables",
+  "description": "These are the stables of the city.  The horses of the Lord and Lady are usually\nallowed to roam free, but the horses of their guests are not so well trained.\nHay is laying all over the ground, creating a soft padding wherever you walk.\nAnother thing that provides soft padding is the abundance of horse manure.  Oh\nwell, nothing is perfect.  A sign is posted on the wall.",
+  "header_raw": "298 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29928
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29930
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

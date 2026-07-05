@@ -1,0 +1,21 @@
+{
+  "id": 11278,
+  "zone_id": 112,
+  "name": "The Arsenel",
+  "description": "The mage constructed this chamber to bear an impressive array of\nmagical devices he one day hoped to acquire; unfortunately for any\navaricious visitors his collection thus far is rather small. Two plain\nbenches support long metal crates, which the mage planned to fill with\nhis items. Perhaps, however, there are one or two lying around...",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11279
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5760,
+  "zone_id": 57,
+  "name": "An Ornate Room",
+  "description": "You enter a room heavily decorated by ornate stonework and detailed murals\nand reliefs, crafted and colored in a style you have never seen before, \ngiving the room an unearthly beauty. A pedestal has been placed in the\ncenter of the room, and atop it is an iron statue of what looks like a one-\neyed demon.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "a junction",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5759
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

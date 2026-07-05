@@ -1,0 +1,29 @@
+{
+  "id": 17001,
+  "zone_id": 170,
+  "name": "A Path to the Forest",
+  "description": "You are in a ground road that go to the forest. You hear a strange sound\ncaused by any cult. You also hear the sound of the birds and see some\nanimals which are not habituate with your presence.",
+  "header_raw": "170 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see a great glade to this way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17000
+    },
+    {
+      "dir": 3,
+      "description": "You see a forest with a lot of trees to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17003
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/170.wld"
+}

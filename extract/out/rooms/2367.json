@@ -1,0 +1,50 @@
+{
+  "id": 2367,
+  "zone_id": 23,
+  "name": "The Square of Mahn-Tor",
+  "description": "This appears to be the main square of Mahn-Tor. A huge fountain graces the\ncenter of the square, but the extreme cold has turned it into an ice\nsculpture. The water has frozen in arcs through the air. Snow and ice covers\nthe square and small streets lead east and west. To the north, you see\nthe gates to the city. You also notice a small store to the south.\nA small sign hangs outside the store.",
+  "header_raw": "23 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2364
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2368
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2370
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2366
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "[]=========[]\n |  Equip  |\n |   Shop  |\n[]=========[]"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

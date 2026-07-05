@@ -1,0 +1,12 @@
+{
+  "id": 9933,
+  "alias": "ghenna statue stone golem",
+  "short_desc": "the stone golem",
+  "long_desc": "A large statue of a humanoid male has been cut out of the granite here.",
+  "detailed_desc": "It looks like a stone sculpture of Frankenstein's monster.  It stands\ntwelve feet tall, casting a long shadow over you.",
+  "flags_raw": "137386 1192 0 E",
+  "stats1_raw": "36 0 3 1d1+1296 5d4+24",
+  "stats2_raw": "540 208381 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/99.mob"
+}

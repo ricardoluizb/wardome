@@ -1,0 +1,29 @@
+{
+  "id": 6946,
+  "zone_id": 69,
+  "name": "Nearing the End of the Hall",
+  "description": "You are now walking through this hallway, nearing the end of it which is now\nsouth of you a little bit.  There are no doors anywhere in this part of the\nhallway, but the ones north look pretty interesting.  South is the end of the\nhallway.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6942
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6947
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

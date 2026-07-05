@@ -3,8 +3,8 @@
   "zone_id": 50,
   "name": "The Cave-In",
   "description": "You stand at the edge of a large pile of rubble created from the last\nrockslide.",
-  "header_raw": "50 ad 5",
-  "flags_text": "ad",
+  "header_raw": "50 9 5",
+  "flags_text": "9",
   "sector": 5,
   "exits": [
     {

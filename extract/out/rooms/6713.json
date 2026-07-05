@@ -1,0 +1,45 @@
+{
+  "id": 6713,
+  "zone_id": 67,
+  "name": "A lane bordering the cliffs",
+  "description": "You have come to a crossroads of sorts. A park lies to the north, from\nwhich a pleasant scent is drifting, and the road continues, narrowing,\nto the west towards the homes of the residents. Eastwards lies shops\nand the northern gate; a shaded lane travels to the south.",
+  "header_raw": "67 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6714
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6710
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6736
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6764
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

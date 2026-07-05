@@ -1,0 +1,29 @@
+{
+  "id": 14358,
+  "zone_id": 143,
+  "name": "Red Hallway",
+  "description": "The symbols etched into the walls here depict great battles and the pillage\nof hard won victories. The paints used are deep red in color, and almost seem\nto be the hues of dried human blood! The hallway continues to the east and\nwest.",
+  "header_raw": "143 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The walls fade into the darkness ahead.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14359
+    },
+    {
+      "dir": 3,
+      "description": "It is very dark there.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14356
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

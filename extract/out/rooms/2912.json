@@ -1,0 +1,34 @@
+{
+  "id": 2912,
+  "zone_id": 29,
+  "name": "Guard room",
+  "description": "You are standing in a room with beds, chairs, tables, and fire newts!\nThere are paintings on the wall that show great leaders.",
+  "header_raw": "29 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see the shaft in the mountain.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2910
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "beds",
+      "description": "The beds are made of metal and rock."
+    },
+    {
+      "keywords": "chairs",
+      "description": "The chairs are made of stone and look very heavy."
+    },
+    {
+      "keywords": "tables",
+      "description": "The tables are long and wide.  They are made of stone and are obviously to\nheavy to move."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/29.wld"
+}

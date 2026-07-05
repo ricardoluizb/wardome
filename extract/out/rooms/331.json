@@ -1,0 +1,26 @@
+{
+  "id": 331,
+  "zone_id": 3,
+  "name": "Hermit's hut",
+  "description": "You are inside the hermit's hut. It is rather old, but serves it purpose.\nIt keeps its habitant from the rough winds and dangerous beasts of the\nplains and foothills. There is a small fireplace here.",
+  "header_raw": "3 136 0",
+  "flags_text": "136",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Through the door you can see the foothills.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 330
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "fireplace",
+      "description": "The hermit cooks here."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/3.wld"
+}

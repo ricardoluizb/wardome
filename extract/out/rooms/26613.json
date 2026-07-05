@@ -1,0 +1,29 @@
+{
+  "id": 26613,
+  "zone_id": 266,
+  "name": "Learning how to move.",
+  "description": "It's easy to move around this mud. Just type &RW&n(West), &RE&n(East),\n&RN&n(North), &RS&n(South), &RU&n(Up), &RD&n(Down). To see where you can move,\njust look at the '&cExits&n' menu, just bellow the description of \nthe room. In this room, there are exits to '&Re&n'(east) and '&Rw&n'(west).\nIf you type '&Rw&n' you will be back to the initial room.\n&n\nTry it. Type '&Re&n' to continue with your lessons.",
+  "header_raw": "266 1310720 0",
+  "flags_text": "1310720",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26614
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26600
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/266.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 10015,
+  "zone_id": 100,
+  "name": "A Side Hallway",
+  "description": "This small, cramped passageway leads east to what appears to be a dead end.\nThere really is only room enough for one person to squeeze through the passage,\nand the feeling you had earlier is only intensifying as you head deeper into\nthis passage.  Might it not be best to head back west?",
+  "header_raw": "100 264 0",
+  "flags_text": "264",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10016
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10013
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/100.wld"
+}

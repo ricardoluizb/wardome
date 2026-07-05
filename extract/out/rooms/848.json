@@ -1,0 +1,37 @@
+{
+  "id": 848,
+  "zone_id": 7,
+  "name": "Graveyard Entrance",
+  "description": "You stand on a path in an eerie graveyard.  An archway leads north\nto Moon Gate Road, and the path continues to the east and south.  In\nthe gloom of night and the twinkling stars above, the tombstones seem\nto take a life of their own in a storybook way.  You don't think it\nwould be the kind of storybook you would be interested in...",
+  "header_raw": "7 12 1",
+  "flags_text": "12",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 728
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 849
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 851
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

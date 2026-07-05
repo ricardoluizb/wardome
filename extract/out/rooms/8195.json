@@ -1,0 +1,21 @@
+{
+  "id": 8195,
+  "zone_id": 81,
+  "name": "The Storeroom",
+  "description": "This place is not very interesting; however, the wooden crates that\nare stacked about in this dusty cave do arouse your curiosity.",
+  "header_raw": "81 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "A wooden door leads south.",
+      "keywords": "door wooden",
+      "door_flag": 1,
+      "key": 8100,
+      "to": 8194
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

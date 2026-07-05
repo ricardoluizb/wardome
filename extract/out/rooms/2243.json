@@ -1,0 +1,34 @@
+{
+  "id": 2243,
+  "zone_id": 22,
+  "name": "The top of the mountain",
+  "description": "You are standing at the top of the mountain.  It feels more like the top of\nthe world.  To your north lies a huge platinum door.  You hear very pronounced\ngrumbling from behind the doors.  It sounds like something huge and hungry.\nBut if you don't have the key you don't have to worry because you can't get in.\nIf you do have the key I would suggest not going in.  Some believe the Five\nHeaded dragon Tiamat was imprisoned here by the gods.  But who believes in \nfairy tales.  Well, if you're scared, you can always go down the mountain.",
+  "header_raw": "22 64 2",
+  "flags_text": "64",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The platinum door",
+      "keywords": "door platinum",
+      "door_flag": 2,
+      "key": 2241,
+      "to": 2231
+    },
+    {
+      "dir": 5,
+      "description": "The path continues",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2242
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "door platinum",
+      "description": "A huge platinum door separates you from harm"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

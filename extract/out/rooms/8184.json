@@ -1,0 +1,34 @@
+{
+  "id": 8184,
+  "zone_id": 81,
+  "name": "The Mine Shaft",
+  "description": "Here the mine passage ends.  A pale glow shines around a trapdoor in\nthe floor.",
+  "header_raw": "81 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "A rubble-strewn tunnel bends round a corner.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8183
+    },
+    {
+      "dir": 5,
+      "description": "A trap door leads down. You feel very uneasy about opening it.",
+      "keywords": "trapdoor",
+      "door_flag": 2,
+      "key": 8103,
+      "to": 8194
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "trap door floor",
+      "description": "The trapdoor has some dwarf-runes scribbled on its edge.\nThey say:\n                I, Gloin, warn you not to go this way\n                unless you are a brave warrior, whose\n                heart never fails him!"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

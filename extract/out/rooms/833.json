@@ -1,0 +1,21 @@
+{
+  "id": 833,
+  "zone_id": 7,
+  "name": "Void",
+  "description": "Mouserider's bedroom is gone.  You float in space, and several\nobjects wink into being around you.  A reward from the gods, perhaps?\n \n   A rift opens in space below you, and you spot the street outside\nthe White Temple in Kerofk.  A voice booms around you:\n\n   \"Take these toys, and remember this:  don't expect plot continuity\nfrom a mud!\"  You feel relief.",
+  "header_raw": "7 12 0",
+  "flags_text": "12",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 702
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

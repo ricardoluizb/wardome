@@ -1,0 +1,12 @@
+{
+  "id": 560,
+  "alias": "wardome guard",
+  "short_desc": "the Wardome Guard",
+  "long_desc": "A Wardome Guard stands here.",
+  "detailed_desc": "A big, strong, helpful, trustworthy guard.",
+  "flags_raw": "2062 8 0 E",
+  "stats1_raw": "0 0 0 0d0+1000 25d8+6",
+  "stats2_raw": "1 1 522",
+  "stats3_raw": "5 3 11 -100 -122",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/5.mob"
+}

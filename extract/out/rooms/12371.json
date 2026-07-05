@@ -1,0 +1,21 @@
+{
+  "id": 12371,
+  "zone_id": 122,
+  "name": "Jotunheim!",
+  "description": "You stagger out of the blizzard into a large cave, set in the side\nof a massive mountain that was nearly invisible in the raging blizzard.\nBones are scattered across the floor, some of them twice the size of you.\nA dreadful, keening wail echoes about the cave, from some unknown source.\nPresumably you have stumbled inadvertently upon the realm of the giants;\nJotunheim. But how to proceed...?",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12200
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

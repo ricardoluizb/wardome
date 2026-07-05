@@ -1,0 +1,61 @@
+{
+  "id": 7746,
+  "zone_id": 77,
+  "name": "Deep Within the Astral Plane",
+  "description": "You have travelled deep inside the astral field.  Here the fabric of the\nfield has become twisted and warped due to the proximity of another plane of\nexistence.  Some of the tendrils of light that line the astral field have been\nwarped and twisted into portals to other worlds.\n   Take care before you step through one -- you might never return.",
+  "header_raw": "77 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The astral field leads on into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7733
+    },
+    {
+      "dir": 1,
+      "description": "The nexial link has been blocked by the gods for your protection.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": -1
+    },
+    {
+      "dir": 2,
+      "description": "The astral field leads on into the depths.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7745
+    },
+    {
+      "dir": 3,
+      "description": "The astral field leads on into the depths.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7747
+    },
+    {
+      "dir": 4,
+      "description": "The astral field leads on into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7729
+    },
+    {
+      "dir": 5,
+      "description": "The astral field leads on into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7731
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/77.wld"
+}

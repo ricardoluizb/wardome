@@ -1,0 +1,29 @@
+{
+  "id": 12390,
+  "zone_id": 122,
+  "name": "The Dark Pit",
+  "description": "You plunge downwards into the pit, striking the soft earth at the very\nbottom, sinking in to your knees in the bloodsoaked dirt. Peering up,\nyou see that the top of the pit is some distance away, and a magical\nenchantment would be required to head back that way. Footprints in the\ndirt show that you are not the first to have ventured this far.",
+  "header_raw": "122 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12391
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12389
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

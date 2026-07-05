@@ -1,0 +1,29 @@
+{
+  "id": 9981,
+  "zone_id": 99,
+  "name": "A slimey footpath.",
+  "description": "Slime, slime, everywhere.  A wounded Dwarf is laying here, half \nimmersed in the red slime.  Maybe this wasn't such a good idea...\nYou can exit towards the West, or to the South.",
+  "header_raw": "99 1 1",
+  "flags_text": "1",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9980
+    },
+    {
+      "dir": 3,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9982
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

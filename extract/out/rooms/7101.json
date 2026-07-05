@@ -3,8 +3,8 @@
   "zone_id": 71,
   "name": "Under The Mudhole",
   "description": "You stand in a small room with a great big opening in the ceiling.  From\nthis opening there is mud dripping down in large lumps.  >YUCK<.  You can\nsmell the foul stench of the slimy sediment as you try not to get covered\nby the falling sludge.  To the east there is an entryway leading out from\nhere and it seems absolutely impossible to force the muddy descent.",
-  "header_raw": "71 acd 5",
-  "flags_text": "acd",
+  "header_raw": "71 13 5",
+  "flags_text": "13",
   "sector": 5,
   "exits": [
     {

@@ -1,0 +1,29 @@
+{
+  "id": 4727,
+  "zone_id": 47,
+  "name": "Dwarven mines",
+  "description": "The small shaft here continues to the north and to the east. As it slopes\nslightly downward to the east, the walls have a more unfinished look to them.",
+  "header_raw": "47 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4726
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4728
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

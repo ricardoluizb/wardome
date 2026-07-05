@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "A Guest Room",
   "description": "You are standing in a large room.  Although it is comfortable enough,\nyou can tell it is not meant for any of the most illustrious guests,\nsince it lacks that extreme luxury found elsewhere in the Castle.",
-  "header_raw": "150 d 0",
-  "flags_text": "d",
+  "header_raw": "150 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

@@ -1,0 +1,29 @@
+{
+  "id": 13528,
+  "zone_id": 135,
+  "name": "The Small Intestine",
+  "description": "You enter a featureless tunnel of what must be the beginning of the\ndragon's small intestine.  Small piles of human bones and armor bits\nhave been left here.  The tunnel continues north and to the west a\nrougher tunnel can be seen.",
+  "header_raw": "135 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13529
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13556
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

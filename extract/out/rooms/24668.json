@@ -1,0 +1,29 @@
+{
+  "id": 24668,
+  "zone_id": 245,
+  "name": "The corner of the world",
+  "description": "You stand at the corner of the world. As any alchemist will\ntell you, the world has 4 corners, one devoted to each element, and\nheld in place by angels. You are at the earth corner. Beyond the\ncorner stretches the infinite black nothing.",
+  "header_raw": "245 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The shaking lands",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24669
+    },
+    {
+      "dir": 2,
+      "description": "The shaking lands",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24654
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/245.wld"
+}

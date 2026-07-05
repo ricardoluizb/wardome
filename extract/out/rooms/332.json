@@ -1,0 +1,29 @@
+{
+  "id": 332,
+  "zone_id": 3,
+  "name": "The ancient path",
+  "description": "You are moving on an ancient path. The path is slightly covered with\nleaves and twitches.\nTo the north you can see the T-crossing and the path continues south.",
+  "header_raw": "3 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "As you look to the north you see a T-intersection.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 312
+    },
+    {
+      "dir": 2,
+      "description": "The ancient path continues through the plains.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 333
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/3.wld"
+}

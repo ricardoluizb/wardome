@@ -2,33 +2,13 @@
   "id": 186,
   "name": "Newbie Zone",
   "header": {
-    "raw": "18600 18699 10 2",
-    "min_room": 18600,
-    "top_room": 18699,
-    "lifespan": 10,
-    "reset_mode": 2
+    "raw": "18699 5 2 1 -1",
+    "min_room": 18699,
+    "top_room": 5,
+    "lifespan": 2,
+    "reset_mode": 1
   },
   "commands": [
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        18601,
-        1,
-        18605
-      ],
-      "comment": "Pit Beast"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        18604,
-        50,
-        12
-      ],
-      "comment": "Cloak"
-    },
     {
       "cmd": "M",
       "args": [
@@ -37,7 +17,7 @@
         3,
         18600
       ],
-      "comment": "Newbie Monster"
+      "comment": "(the newbie monster)"
     },
     {
       "cmd": "E",
@@ -47,87 +27,117 @@
         99,
         5
       ],
-      "comment": "Vest"
+      "comment": "(A bright green newbie vest)"
     },
     {
-      "cmd": "M",
-      "args": [
-        0,
-        18602,
-        3,
-        18607
-      ],
-      "comment": "Newbie Monster"
-    },
-    {
-      "cmd": "E",
+      "cmd": "O",
       "args": [
         1,
-        18606,
-        99,
-        16
+        2,
+        5,
+        18600
       ],
-      "comment": "Dagger"
+      "comment": "(&bthe &bw&Ba&br&Bd&bo&Bm&be help guide&n)"
     },
     {
-      "cmd": "M",
+      "cmd": "O",
+      "args": [
+        0,
+        18615,
+        1,
+        18648
+      ],
+      "comment": "(a board is nailed here.)"
+    },
+    {
+      "cmd": "D",
       "args": [
         0,
         18611,
         1,
-        18646
+        1
       ],
-      "comment": "Annoying Newbie"
+      "comment": "(Another Corner)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5112,
+        5,
+        18611
+      ],
+      "comment": "(Emperor Newbie)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        18627,
+        15,
+        -1
+      ],
+      "comment": "(&GThe &YE&ym&Yp&ye&Yr&yo&Yr&y &YN&ye&Yw&yb&Yi&ye&Y'&ys &GDagger&n)"
     },
     {
       "cmd": "E",
       "args": [
         1,
-        18606,
-        99,
-        16
+        18621,
+        100,
+        20
       ],
-      "comment": "Dagger"
+      "comment": "(A newbie pendant)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        18603,
+        0,
+        1
+      ],
+      "comment": "(A Nexus)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        18603,
+        1,
+        1
+      ],
+      "comment": "(A Nexus)"
     },
     {
       "cmd": "M",
       "args": [
         0,
-        18612,
-        1,
-        18642
+        5112,
+        5,
+        18603
       ],
-      "comment": "Clueless Newbie"
+      "comment": "(Emperor Newbie)"
     },
     {
-      "cmd": "M",
-      "args": [
-        0,
-        18613,
-        1,
-        18640
-      ],
-      "comment": "Friendly Newbie"
-    },
-    {
-      "cmd": "E",
+      "cmd": "G",
       "args": [
         1,
-        18602,
-        99,
-        5
-      ],
-      "comment": "Vest"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
         18614,
-        1,
-        18604
+        15,
+        -1
       ],
-      "comment": "Lost Newbie"
+      "comment": "(&BThe &YE&ym&Yp&ye&Yr&yo&Yr&y &YN&ye&Yw&yb&Yi&ye&Y'&ys &BMace&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        18621,
+        100,
+        19
+      ],
+      "comment": "(A newbie pendant)"
     },
     {
       "cmd": "M",
@@ -137,7 +147,7 @@
         1,
         18645
       ],
-      "comment": "Smart Newbie"
+      "comment": "(the smart newbie)"
     },
     {
       "cmd": "E",
@@ -147,7 +157,7 @@
         99,
         10
       ],
-      "comment": "Sleeves"
+      "comment": "(Some cool newbie sleeves)"
     },
     {
       "cmd": "E",
@@ -157,7 +167,7 @@
         99,
         7
       ],
-      "comment": "Leggings"
+      "comment": "(Some cool newbie leggings)"
     },
     {
       "cmd": "E",
@@ -167,115 +177,147 @@
         99,
         5
       ],
-      "comment": "Vest"
+      "comment": "(A bright green newbie vest)"
     },
     {
       "cmd": "E",
       "args": [
         1,
-        18614,
-        30,
+        18606,
+        99,
         16
       ],
-      "comment": "Mace"
+      "comment": "(A shiny newbie dagger)"
     },
     {
       "cmd": "M",
       "args": [
         0,
-        18603,
-        1,
-        18602
+        18602,
+        3,
+        18607
       ],
-      "comment": "Dragon"
+      "comment": "(the newbie monster)"
     },
     {
       "cmd": "E",
       "args": [
         1,
-        18607,
+        18606,
         99,
-        3
+        16
       ],
-      "comment": "Collar"
+      "comment": "(A shiny newbie dagger)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        18607,
+        3,
+        1
+      ],
+      "comment": "(More Of The Hallway)"
     },
     {
       "cmd": "M",
+      "args": [
+        0,
+        5112,
+        5,
+        18607
+      ],
+      "comment": "(Emperor Newbie)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        18628,
+        15,
+        -1
+      ],
+      "comment": "(&RThe &YE&ym&Yp&ye&Yr&yo&Yr&y &YN&ye&Yw&yb&Yi&ye&Y'&ys &RSword&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        18621,
+        100,
+        19
+      ],
+      "comment": "(A newbie pendant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        18619,
+        1,
+        18607
+      ],
+      "comment": "(a newbie guardian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        18619,
+        99,
+        11
+      ],
+      "comment": "(A newbie shield)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        18600,
+        1,
+        18601
+      ],
+      "comment": "(newbie janitor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        18626,
+        4,
+        13
+      ],
+      "comment": "(A newbie belt)"
+    },
+    {
+      "cmd": "D",
       "args": [
         0,
         18604,
-        1,
-        18606
-      ],
-      "comment": "Newbie Guard"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        18605,
-        60,
+        2,
         1
       ],
-      "comment": "Ring"
+      "comment": "(A Narrow Passage)"
     },
     {
-      "cmd": "G",
+      "cmd": "M",
       "args": [
+        0,
+        18614,
         1,
-        18608,
-        5
+        18604
       ],
-      "comment": "Key"
+      "comment": "(the lost newbie)"
     },
     {
       "cmd": "E",
       "args": [
         1,
-        18603,
-        30,
-        6
+        18625,
+        99,
+        22
       ],
-      "comment": "Helm"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        18605,
-        1,
-        18612
-      ],
-      "comment": "Alchemist"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        18609,
-        50
-      ],
-      "comment": "Light"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        18606,
-        4,
-        18602
-      ],
-      "comment": "Crawler"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        18606,
-        4,
-        18606
-      ],
-      "comment": "Crawler"
+      "comment": "(a newbie sphere)"
     },
     {
       "cmd": "M",
@@ -285,7 +327,287 @@
         4,
         18609
       ],
-      "comment": "Crawler"
+      "comment": "(the creepy crawler)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        18624,
+        99,
+        8
+      ],
+      "comment": "(A newbie sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        18610,
+        2,
+        18651
+      ],
+      "comment": "(the dark spectre)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        18622,
+        25,
+        17
+      ],
+      "comment": "(the wand of regeneration)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        18621,
+        1,
+        18610
+      ],
+      "comment": "(a newbie thief)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        18623,
+        100,
+        21
+      ],
+      "comment": "(A newbie mask)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        18618,
+        1,
+        18650
+      ],
+      "comment": "(the cave's man)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        18617,
+        100,
+        -1
+      ],
+      "comment": "(a infravision potion)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        18618,
+        50,
+        -1
+      ],
+      "comment": "(a cave's monster tooth)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        18616,
+        1,
+        18649
+      ],
+      "comment": "(a old witch)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        18616,
+        1,
+        16
+      ],
+      "comment": "(a witch's magical rod)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        18617,
+        3,
+        18649
+      ],
+      "comment": "(the witch's servant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        18601,
+        1,
+        18605
+      ],
+      "comment": "(the pit beast)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        18604,
+        50,
+        12
+      ],
+      "comment": "(a dark newbie cloak)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        18611,
+        1,
+        18646
+      ],
+      "comment": "(the annoying newbie)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        18606,
+        99,
+        16
+      ],
+      "comment": "(A shiny newbie dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        18612,
+        1,
+        18642
+      ],
+      "comment": "(the clueless newbie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        18613,
+        1,
+        18640
+      ],
+      "comment": "(the talkative newbie)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        18602,
+        99,
+        5
+      ],
+      "comment": "(A bright green newbie vest)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        18603,
+        1,
+        18602
+      ],
+      "comment": "(the baby dragon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        18607,
+        99,
+        3
+      ],
+      "comment": "(A pet dragon collar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        18604,
+        1,
+        18606
+      ],
+      "comment": "(the Newbie Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        18605,
+        60,
+        1
+      ],
+      "comment": "(A newbie signet ring)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        18608,
+        5,
+        -1
+      ],
+      "comment": "(a wee little key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        18603,
+        30,
+        6
+      ],
+      "comment": "(A bright newbie helm)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        18605,
+        1,
+        18612
+      ],
+      "comment": "(the Newbie Alchemist)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        18609,
+        50,
+        -1
+      ],
+      "comment": "(A brightly glowing jar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        18606,
+        4,
+        18602
+      ],
+      "comment": "(the creepy crawler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        18606,
+        4,
+        18606
+      ],
+      "comment": "(the creepy crawler)"
     },
     {
       "cmd": "M",
@@ -295,7 +617,7 @@
         5,
         18620
       ],
-      "comment": "Zombie"
+      "comment": "(the zombiefied newbie)"
     },
     {
       "cmd": "M",
@@ -305,7 +627,7 @@
         5,
         18624
       ],
-      "comment": "Zombie"
+      "comment": "(the zombiefied newbie)"
     },
     {
       "cmd": "M",
@@ -315,7 +637,7 @@
         5,
         18637
       ],
-      "comment": "Zombie"
+      "comment": "(the zombiefied newbie)"
     },
     {
       "cmd": "M",
@@ -325,7 +647,7 @@
         5,
         18633
       ],
-      "comment": "Zombie"
+      "comment": "(the zombiefied newbie)"
     },
     {
       "cmd": "M",
@@ -335,7 +657,7 @@
         5,
         18627
       ],
-      "comment": "Quasit"
+      "comment": "(the quasit)"
     },
     {
       "cmd": "M",
@@ -345,7 +667,7 @@
         5,
         18636
       ],
-      "comment": "Quasit"
+      "comment": "(the quasit)"
     },
     {
       "cmd": "M",
@@ -355,7 +677,7 @@
         5,
         18638
       ],
-      "comment": "Quasit"
+      "comment": "(the quasit)"
     },
     {
       "cmd": "M",
@@ -365,7 +687,7 @@
         5,
         18621
       ],
-      "comment": "Quasit"
+      "comment": "(the quasit)"
     },
     {
       "cmd": "M",
@@ -375,7 +697,7 @@
         1,
         18629
       ],
-      "comment": "Minotaur"
+      "comment": "(the massive Minotaur)"
     },
     {
       "cmd": "E",
@@ -385,7 +707,7 @@
         50,
         6
       ],
-      "comment": "Horns"
+      "comment": "(the horns of the Minotaur)"
     },
     {
       "cmd": "E",
@@ -395,7 +717,7 @@
         50,
         5
       ],
-      "comment": "Hide"
+      "comment": "(the smelly hide of the Minotaur)"
     },
     {
       "cmd": "M",
@@ -405,7 +727,7 @@
         1,
         18639
       ],
-      "comment": "Spectre"
+      "comment": "(the dark spectre)"
     },
     {
       "cmd": "D",
@@ -415,7 +737,7 @@
         2,
         1
       ],
-      "comment": "A Small Room"
+      "comment": "(The Dirty Hallway)"
     },
     {
       "cmd": "D",
@@ -425,17 +747,7 @@
         0,
         1
       ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        18603,
-        0,
-        1
-      ],
-      "comment": "Bright Hallway"
+      "comment": "(A Small Room)"
     },
     {
       "cmd": "D",
@@ -445,17 +757,7 @@
         2,
         1
       ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        18603,
-        1,
-        1
-      ],
-      "comment": "Bright Hallway"
+      "comment": "(A Bright Hallway)"
     },
     {
       "cmd": "D",
@@ -465,17 +767,7 @@
         3,
         1
       ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        18604,
-        2,
-        1
-      ],
-      "comment": "Alchemist's Chamber"
+      "comment": "(A Bright Hallway)"
     },
     {
       "cmd": "D",
@@ -485,7 +777,7 @@
         0,
         1
       ],
-      "comment": ""
+      "comment": "(The Alchemist's Room)"
     },
     {
       "cmd": "D",
@@ -495,7 +787,7 @@
         5,
         2
       ],
-      "comment": "Dark Pit"
+      "comment": "(A Small Room)"
     },
     {
       "cmd": "D",
@@ -505,17 +797,7 @@
         4,
         2
       ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        18607,
-        3,
-        1
-      ],
-      "comment": "A Small Room"
+      "comment": "(The Dark Pit)"
     },
     {
       "cmd": "D",
@@ -525,17 +807,7 @@
         1,
         1
       ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        18611,
-        1,
-        1
-      ],
-      "comment": "Alchemist's Chamber"
+      "comment": "(A Small Room)"
     },
     {
       "cmd": "D",
@@ -545,8 +817,8 @@
         3,
         1
       ],
-      "comment": ""
+      "comment": "(The Alchemist's Room)"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/186.zon"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/186.zon"
 }

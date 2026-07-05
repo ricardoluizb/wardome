@@ -1,0 +1,37 @@
+{
+  "id": 11607,
+  "zone_id": 115,
+  "name": "The Police Station",
+  "description": "There are dozens of policemen franticly searching through various tidbits of\nevidence looking for answers to all the killings and murders in New Sparta.  \nWatch out, they might even have your name!  Second Avenue is to the north, the\nChief's office is to the south, and the jail is to the west.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11605
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11609
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11610
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

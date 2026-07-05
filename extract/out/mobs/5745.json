@@ -1,0 +1,12 @@
+{
+  "id": 5745,
+  "alias": "barbarian",
+  "short_desc": "an insane Barbarian",
+  "long_desc": "An insane Barbarian leaps out and attacks you!",
+  "detailed_desc": "This demented berserker has been trapped in this dungeon for days and is\ntaking out his frustrations on you! Towering over you at six feet tall and\nweighing in at 280 lbs, he is certainly a force to be reckoned with.",
+  "flags_raw": "106 8192 0 E",
+  "stats1_raw": "30 -17 -11 1d1+3480 5d10+122",
+  "stats2_raw": "450 185326 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

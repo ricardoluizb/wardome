@@ -1,0 +1,29 @@
+{
+  "id": 4738,
+  "zone_id": 47,
+  "name": "Carved Tunnel",
+  "description": "The walls here are red and smooth as they have been carved into perfection.\nThe floor has been worm smooth with use and clear of any rubble.",
+  "header_raw": "47 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4737
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4739
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

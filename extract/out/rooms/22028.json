@@ -1,0 +1,29 @@
+{
+  "id": 22028,
+  "zone_id": 220,
+  "name": "Beside the burial pit",
+  "description": "The things you see inside the pit are, obscene and horrid. It is\ndisgusting how they treat there dead, all piled up to be burnt in a whole.",
+  "header_raw": "220 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22029
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 22027
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/220.wld"
+}

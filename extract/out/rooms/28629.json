@@ -1,0 +1,61 @@
+{
+  "id": 28629,
+  "zone_id": 286,
+  "name": "Traversing the Dragon Village .",
+  "description": "You find yourself deep within in a dark field filled with tiny tendrils\nof silvery light and insubstantial shining motes of dust.  The weightlessness\nof this environment is extremely disorienting, and you are having trouble \nkeeping your sense of direction.\n   All exits lead off into the Dragon Village field.",
+  "header_raw": "286 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The Dragon Village field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28630
+    },
+    {
+      "dir": 1,
+      "description": "The Dragon Village field leads off into the depths.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28649
+    },
+    {
+      "dir": 2,
+      "description": "The Dragon Village field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28635
+    },
+    {
+      "dir": 3,
+      "description": "The Dragon Village field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28624
+    },
+    {
+      "dir": 4,
+      "description": "The Dragon Village field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28626
+    },
+    {
+      "dir": 5,
+      "description": "The Dragon Village field leads off into the depths.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28646
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/286.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Tunnel",
   "description": "The tunnel in which you currently stand is fairly wide (very wide\nrelative to almost all the other tunnels around here it seems) and\nyet the air is quite damp.  The walls have a thin coating of moisture\nupon them which looks and feels somewhat oiley.  The tunnel leads in\nan east-west direction.",
-  "header_raw": "40 ad 3",
-  "flags_text": "ad",
+  "header_raw": "40 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

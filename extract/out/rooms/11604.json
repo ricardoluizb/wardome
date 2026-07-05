@@ -1,0 +1,29 @@
+{
+  "id": 11604,
+  "zone_id": 115,
+  "name": "Second Avenue",
+  "description": "Nothing here...  You can go now.  The construction workers still haven't\nstarted building on this section of the road.  To the east is the intersection\nof Broadway and Second Ave and to the west you smell something bad.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11570
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11605
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

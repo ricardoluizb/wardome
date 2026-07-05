@@ -1,0 +1,21 @@
+{
+  "id": 29972,
+  "zone_id": 298,
+  "name": "High up in a tree",
+  "description": "You are now very near the top of the tree.  This is where people come to see\nGaladriel.  Looking out from the flet you are able to view a considerable\nportion of the lands around you, and it doesn't look pretty.  Your immediate\nsurroundings, on the other hand, are absolutely beautiful.  Of course, you\nwould expect no less from someone as important as Galadriel.  There are several\nwooden benches that look quite comfortable, and you imagine this is where her\nguests sit.  In the center of the flet are two chairs, highly decorated and\nvery expensive-looking.  This must be where Galadriel and Celeborn sit while\nholding an audience.  The whole place is decorated with flowers and other\nplants, giving you the feeling that you are in the middle of a garden rather\nthen on top of a tree.  The stairs from which you entered from lead back down\nto the waiting area.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29971
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

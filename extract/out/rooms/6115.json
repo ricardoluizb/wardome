@@ -3,8 +3,8 @@
   "zone_id": 61,
   "name": "A Small Path In The Deep, Dark Forest",
   "description": "You are on a narrow path leading through the deep, dark forest.  You feel\nas if the ancient trees observe you in watchful silence.  The path continues\nnorth and west.",
-  "header_raw": "61 ad 3",
-  "flags_text": "ad",
+  "header_raw": "61 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

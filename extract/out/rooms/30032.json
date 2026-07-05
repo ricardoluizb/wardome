@@ -1,0 +1,29 @@
+{
+  "id": 30032,
+  "zone_id": 300,
+  "name": "A vibrant garden",
+  "description": "You enter upon a circus of colour.  All around you are exotic plants: soft\nferns, leafy bushes and fragrant flowers.  There is a bench where one can sit\nand enjoy the scenery.  A pond full of silvery fish is also here.  The air is\npleasantly cool and somewhat moist making this an altogether restful place.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30019
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30033
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

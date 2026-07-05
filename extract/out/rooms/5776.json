@@ -1,0 +1,29 @@
+{
+  "id": 5776,
+  "zone_id": 57,
+  "name": "The River",
+  "description": "You are sailing along the mighty underground river that cuts through the\ndungeons of Firetop Mountain. To the west you can see a rocky beach, while\nto the east the river flows into the murky darkness that pervades here.",
+  "header_raw": "57 9 7",
+  "flags_text": "9",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "river",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5777
+    },
+    {
+      "dir": 3,
+      "description": "a rocky beach",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5797
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

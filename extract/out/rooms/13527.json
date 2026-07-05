@@ -1,0 +1,37 @@
+{
+  "id": 13527,
+  "zone_id": 135,
+  "name": "The Dragon's Pancreas",
+  "description": "You are in an oddly shaped chamber, what might have been some foul\norgan of Ancalador.  A yellowish light fills the room from nowhere, as\nif only by the dragon's will alone.  The feeling of malignant evil is\ngreat here, which is only compounded by the large sign overhead which\nreads, 'Memento Mori', or in the common tongue, 'Remember to Die.'\n   The chamber has exits worked into it, to the east and down.",
+  "header_raw": "135 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a fissure in the organ wall.",
+      "keywords": "fissure",
+      "door_flag": 1,
+      "key": -1,
+      "to": 13556
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13545
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13549
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

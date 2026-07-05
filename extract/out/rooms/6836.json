@@ -1,0 +1,29 @@
+{
+  "id": 6836,
+  "zone_id": 67,
+  "name": "A foul staircase",
+  "description": "A staircase littered with rubble descends into a passageway\ncrawling with rats and smelling of.. your imagination needs\nno assistance here. The place gives you the creeps, particularly\nsince there seem to be faint traces of recent footfalls outlined\nin the slime on the soiled floor..",
+  "header_raw": "67 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6837
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "rubble",
+      "door_flag": 1,
+      "key": -1,
+      "to": 6725
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

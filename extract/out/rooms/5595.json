@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "A Tunnel In The Dungeon",
   "description": "You stand in a roughly hewn stone tunnel with cells to the north and\nsouth.  The tunnel continues west and you notice a small crack in the\nstone to the east.",
-  "header_raw": "54 ad 0",
-  "flags_text": "ad",
+  "header_raw": "54 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

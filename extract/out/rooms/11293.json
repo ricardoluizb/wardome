@@ -1,0 +1,29 @@
+{
+  "id": 11293,
+  "zone_id": 112,
+  "name": "A Stone Corridor",
+  "description": "The door opens onto a long stone corridor, dimly lit by smoldering\nbrands supported on each wall by rusted iron sconces. The moans and\ncries are much louder here, and appear to be coming from a large\nchamber to the east.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11292
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11294
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

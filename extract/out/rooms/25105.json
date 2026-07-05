@@ -1,0 +1,37 @@
+{
+  "id": 25105,
+  "zone_id": 251,
+  "name": "The road to Camelot",
+  "description": "You continue walking in direction of the wall. You can see a small village\nto your east, and the wall is now closer to the north.",
+  "header_raw": "251 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "throne",
+      "door_flag": 1,
+      "key": -1,
+      "to": 25111
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 25106
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 25102
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/251.wld"
+}

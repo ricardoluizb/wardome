@@ -1,0 +1,21 @@
+{
+  "id": 5764,
+  "zone_id": 57,
+  "name": "A Shop",
+  "description": "You have entered a brightly-lit shop, an oddity in this place made even\nstranger by the bizarre array of goods available. However, what interests\nyou most in this normally black dungeon is the availability of magic candles\nthat can help light your way.",
+  "header_raw": "57 152 0",
+  "flags_text": "152",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "outside three doors",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5762
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

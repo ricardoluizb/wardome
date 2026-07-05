@@ -1,0 +1,12 @@
+{
+  "id": 2310,
+  "alias": "oldstyle shaman ogre",
+  "short_desc": "the Ogre Shaman",
+  "long_desc": "The ogre shaman is here chanting arcane words and waving his arms.",
+  "detailed_desc": "The ogre shaman is draped in thick fur cloaks and pelts. He has all types of\ncharms and holy symbols draped about him. He looks at you and snarls.",
+  "flags_raw": "206 136 -750 E",
+  "stats1_raw": "185 -76 -20 1d1+8136 5d19+94",
+  "stats2_raw": "2775 21228458 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/23.mob"
+}

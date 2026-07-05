@@ -1,0 +1,21 @@
+{
+  "id": 8295,
+  "zone_id": 82,
+  "name": "A Tower In The H.Q.",
+  "description": "You are in a hight tower, the place is very small and you see an oil \nlamp that is used at night by the guard. In here you have 4 windows\nthat lets you see the north, south, west, and even the east side of\nthe city, but the closer thing you see is the plaza at south.",
+  "header_raw": "82 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8284
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

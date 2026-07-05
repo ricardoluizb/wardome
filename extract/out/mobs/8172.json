@@ -1,0 +1,12 @@
+{
+  "id": 8172,
+  "alias": "goblin",
+  "short_desc": "the goblin",
+  "long_desc": "A goblin warrior stands here.",
+  "detailed_desc": "Ugly, slime-green, and bull-strong.",
+  "flags_raw": "6248 1024 -400 E",
+  "stats1_raw": "168 -86 -31 1d1+19488 5d49+176",
+  "stats2_raw": "2520 22793646 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

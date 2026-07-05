@@ -1,0 +1,29 @@
+{
+  "id": 2797,
+  "zone_id": 27,
+  "name": "&bMiddle of the River&n",
+  "description": "&nYou are in &CHoly &BWaters&n, and feel a &yGreat &WAura of Peace&n and\n&wHarmony&n envolving you while you walk further into the river.",
+  "header_raw": "27 64 6",
+  "flags_text": "64",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2798
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2796
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

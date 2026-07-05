@@ -1,0 +1,21 @@
+{
+  "id": 6834,
+  "zone_id": 67,
+  "name": "The House of Witches",
+  "description": "Dangling mirrors reflect your face a thousand times from the walls\nand ceiling of this supply house of witchcraft. Ingredients for \nthe hexes of hags and the poisons of roguish assassins bubble\nand float in jars crowded onto shelves, and tinkling against each\nother from strings around the stone doorway. A voodoo doll pinned\nto one wall seems to be eyeing you. Let's hope you are not already\nearmarked for demise by someone.",
+  "header_raw": "67 157 0",
+  "flags_text": "157",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "stone",
+      "door_flag": 0,
+      "key": 23,
+      "to": 6833
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

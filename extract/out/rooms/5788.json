@@ -1,0 +1,29 @@
+{
+  "id": 5788,
+  "zone_id": 57,
+  "name": "A Bend",
+  "description": "Turning the bend in the corridor, you sunndenly notice that the floor in the\nbend has collapsed, making a gaping huge hole. Peering down into the hole,\nyou notice that there is another passageway below this one, running north.\nSince the hole is far too big to leap over, and the passage beyond is blocked\nby rubble, your only options are to go down or head back east. \n\nA horrid stench from the pit below suddenly wafts upward, making your eyes\nwater.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "a junction",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5785
+    },
+    {
+      "dir": 5,
+      "description": "a troll den",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5789
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

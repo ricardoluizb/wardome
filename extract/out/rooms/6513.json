@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "Inside The Entrance",
   "description": "Everything here is covered in soot and very grimy.  The path continues\nto the east and north, and there is a door to the west.",
-  "header_raw": "65 d 0",
-  "flags_text": "d",
+  "header_raw": "65 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

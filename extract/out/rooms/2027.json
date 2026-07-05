@@ -1,0 +1,29 @@
+{
+  "id": 2027,
+  "zone_id": 20,
+  "name": "West Balcony",
+  "description": "As you open the doors to the balcony, the beautiful smell of  the warm\nnight fills your soul until your all warm inside. You decide to sit and relax\nbefore doing anything further. You begin to close your eyes, when all of a\nsudden you see the most beautiful thing happening in the sky. A flashing\nlight goes from one side of the dark sky to the other. You finally close your\neyes with happiness and excitement. Knowing that you have just seen a\nshooting star, you begin to make a wish...The next morning you wake up and find yourself at the same spot as you were the night before and figured you must\nhave drifted off to sleep....But as you start to get up, you see something\ndifferent, something strange, something new...You noticed that your wish\ncome true...",
+  "header_raw": "20 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2026
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2029
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 11556,
+  "zone_id": 115,
+  "name": "The Warriors' End Zone",
+  "description": "You are in the Warriors' end zone, the sacred ground of their team.  It is\ndecoratively painted in the club's colors and their logo, a fierce warrior.  \nThe end zone continues to the west.  To the north is the Warriors' defensive\nzone.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11557
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11552
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

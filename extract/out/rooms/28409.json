@@ -1,0 +1,29 @@
+{
+  "id": 28409,
+  "zone_id": 284,
+  "name": "Yet Another Cave",
+  "description": "You find yourself standing in yet another cave. Your mind reels as you\ndiscover this cave is the same as the one you just came from!",
+  "header_raw": "284 8 6",
+  "flags_text": "8",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "North is where you came from.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28407
+    },
+    {
+      "dir": 1,
+      "description": "East leads to a cave that LOOKS different.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28410
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/284.wld"
+}

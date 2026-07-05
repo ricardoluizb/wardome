@@ -1,0 +1,12 @@
+{
+  "id": 29801,
+  "alias": "Black Orc Leader",
+  "short_desc": "Black Orc Leader",
+  "long_desc": "A huge Black Orc screams some commands to his followers and charges you.",
+  "detailed_desc": "This Black Orc looks very very mean and muscular.\nHe is dressed in an ill-fitting black plate and thrusts his\nspear at you.",
+  "flags_raw": "4714 1073742880 -750 E",
+  "stats1_raw": "125 -56 -19 1d1+10500 5d25+120",
+  "stats2_raw": "1875 7606911 7",
+  "stats3_raw": "8 8 1 -1 5",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/298.mob"
+}

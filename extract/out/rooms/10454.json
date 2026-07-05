@@ -1,0 +1,29 @@
+{
+  "id": 10454,
+  "zone_id": 104,
+  "name": "Hall of Fire",
+  "description": "You are standing in a hallway made of fire. The walls are ablaze with\nyellow and blue flames. The smell of the hot air and sulfur burn your\nlungs as you inhale, and dry your mouth as you exhale. The stone floor\nburns at your feet and hungrily drinks up every drop of sweat as they\nfall from your body.\nThe hall of fire continues to the south and west.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see a hall of fire.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10464
+    },
+    {
+      "dir": 3,
+      "description": "You see a stone archway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10453
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

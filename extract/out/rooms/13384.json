@@ -1,0 +1,29 @@
+{
+  "id": 13384,
+  "zone_id": 132,
+  "name": "The Cavern",
+  "description": "The cavern becomes slightly narrower here.  Some stalactites hang from the \ncave ceiling.  You shudder at the though of being impaled by one.  You notice\nsome gems glittering in the rock.",
+  "header_raw": "132 9 5",
+  "flags_text": "9",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "the cavern",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13385
+    },
+    {
+      "dir": 2,
+      "description": "the cavern",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13383
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

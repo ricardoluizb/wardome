@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "The Top Of The Tower",
   "description": "You have arrived at the top of the tower.  This tower is pretty\nuninteresting, and seems made purely for reasons of defence and \nguarding.  The windows are slits for bowmen, very narrow on the \noutward side and broad inwards to allow a wide shooting angle.\nThe only evident exit is down the stairs again.",
-  "header_raw": "150 d 0",
-  "flags_text": "d",
+  "header_raw": "150 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

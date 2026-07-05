@@ -1,0 +1,50 @@
+{
+  "id": 8261,
+  "zone_id": 82,
+  "name": "The Entrance To The Plaza Louis XIV",
+  "description": "You are in the Plaza Louis XIV, but this name wont be for long, with all the\nmonarchy problems. This place is ornamented with trees, and in Paris what is\nnot decorated with trees? Here you can see a note that you should read.",
+  "header_raw": "82 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8265
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8262
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8260
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8263
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "read note",
+      "description": "Soon this place will be called the Plaza of the Revolution\nAtt. Robespierre"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

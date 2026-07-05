@@ -1,0 +1,29 @@
+{
+  "id": 13259,
+  "zone_id": 132,
+  "name": "The East Wall",
+  "description": "You continue to follow the east wall road.  The wall towers over you to the \neast and homes are to the west.  The road is north and south.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "the east wall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13257
+    },
+    {
+      "dir": 2,
+      "description": "along the east wall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13260
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

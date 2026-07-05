@@ -1,0 +1,21 @@
+{
+  "id": 22200,
+  "zone_id": 222,
+  "name": "Horizon Reign",
+  "description": "Lots of massive constructions floating in the air.\nIt seems that you are inside of one of these. \nEverything here looks different, It's like to wake\nup to a new way to see the world. Here everything \nyou have in mind is possible. But be careful, the \nparadox spirits are watching every move!",
+  "header_raw": "222 8216 0",
+  "flags_text": "8216",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "It looks like a long way down...to somewhere already very known =D",
+      "keywords": "Ground",
+      "door_flag": 2,
+      "key": 22200,
+      "to": 500
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/222.wld"
+}

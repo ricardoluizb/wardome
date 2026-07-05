@@ -1,0 +1,21 @@
+{
+  "id": 8288,
+  "zone_id": 82,
+  "name": "A French Hotel",
+  "description": "You are in a French hotel, this place is very dirty, and is falling, in\npieces, no wonder why is been remodelated, but at least in the ceiling it\nhas a pair of beautiful candelabrums made out of pure gold. Here you see\nthe receptionist, you can ask her when it will be open again.",
+  "header_raw": "82 8192 0",
+  "flags_text": "8192",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8267
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

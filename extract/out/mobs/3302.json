@@ -4,9 +4,9 @@
   "short_desc": "the cowgirl",
   "long_desc": "A cowgirl stand here ready to defend her horses...",
   "detailed_desc": "This woman seems ready for anything you might do...\nshe is truly a woman to be reckoned with...",
-  "flags_raw": "blm dst 750 S",
-  "stats1_raw": "20 1 -60 3d5+245 3d6+4",
-  "stats2_raw": "8000 40000",
-  "stats3_raw": "8 8 2",
+  "flags_raw": "6154 786440 750 E",
+  "stats1_raw": "180 -76 -21 1d1+9360 5d19+102",
+  "stats2_raw": "2700 19904481 3",
+  "stats3_raw": "8 8 2 3 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/33.mob"
 }

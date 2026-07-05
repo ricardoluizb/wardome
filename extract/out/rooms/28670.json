@@ -1,0 +1,42 @@
+{
+  "id": 28670,
+  "zone_id": 286,
+  "name": "The cellblock",
+  "description": "A torch flickers in the western wall, providing some illumination for this\ndim corridor.  Some whips, manacles, and chains hang on the walls -- they seem\nto have been used recently.\n   Cell doors stand to the north and south.  The guard station is to the east.",
+  "header_raw": "286 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a small cell.",
+      "keywords": "door cell",
+      "door_flag": 1,
+      "key": -1,
+      "to": 28671
+    },
+    {
+      "dir": 1,
+      "description": "You see the guard station.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28669
+    },
+    {
+      "dir": 2,
+      "description": "You see a small cell.",
+      "keywords": "door cell",
+      "door_flag": 1,
+      "key": -1,
+      "to": 28672
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "door cell",
+      "description": "The cell door is wooden and about 4' high, with a slot in the bottom to pass\nfood underneath to the prisoner."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/286.wld"
+}

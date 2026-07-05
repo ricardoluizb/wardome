@@ -1,0 +1,53 @@
+{
+  "id": 14150,
+  "zone_id": 141,
+  "name": "The Britain Moongate",
+  "description": "The place around the moongate, as always, seems clean and neat. \nThe blue light of the moongate has become a comforting sight to\nyou.",
+  "header_raw": "141 76 0",
+  "flags_text": "76",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14147
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14151
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14153
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14149
+    },
+    {
+      "dir": 4,
+      "description": "Through the moongate there is a large courtroom.",
+      "keywords": "moongate",
+      "door_flag": 2,
+      "key": 14110,
+      "to": 14156
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 701,
+  "zone_id": 7,
+  "name": "MouseRider's Bedroom",
+  "description": "This can hardly be a bedroom--this is a room so spartan surely no\nhuman could spend any time here at all!  There is a small pallet in\none corner, with a chair and a paper-stand next to it.  A small lamp\nlights up that small area, leaving the rest of the room enshrouded in\ndarkness.  In the gloom to the west, you can barely make out a large\nsteel door.\n\n   As you peer at the large steel door more and more, you start to\nmake out an inscription which reads:\n\n        This Door Has Been Condemned By Order Of Tlion\n\n   You therefore make the assumption that it would be stupid to bash\nyour head against this un-openable door, and look elsewhere for\nadventure.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 700
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "door west",
+      "description": "This door seems welded shut.  You'll never open it!"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

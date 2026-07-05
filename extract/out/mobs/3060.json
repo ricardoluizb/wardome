@@ -1,12 +1,12 @@
 {
   "id": 3060,
-  "alias": "cityguard guard",
-  "short_desc": "the cityguard",
-  "long_desc": "A cityguard stands here.",
-  "detailed_desc": "A big, strong, helpful, trustworthy guard.",
-  "flags_raw": "aglm d 1000 S",
-  "stats1_raw": "10 10 1 1d12+123 1d8+5",
-  "stats2_raw": "500 9000",
-  "stats3_raw": "8 8 1",
+  "alias": "skeleton warrior",
+  "short_desc": "a skeleton warrior",
+  "long_desc": "A skeleton warrior stands here.",
+  "detailed_desc": "A big, strong, helpful, trustworthy guard.\nA big, strong, helpful, trustworthy skeleton guard.",
+  "flags_raw": "6216 8 -1000 E",
+  "stats1_raw": "170 -65 -15 1d1+4752 5d18+68",
+  "stats2_raw": "2550 13481323 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

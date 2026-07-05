@@ -1,0 +1,12 @@
+{
+  "id": 508,
+  "alias": "general powerful",
+  "short_desc": "the Powerful General",
+  "long_desc": "&yThe &BPowerful General&y is standing here.&n",
+  "detailed_desc": "The General is the leader of the Wardome Guards.\nHe looks as tough as hell... better avoiding fights with him...\nThis is the guy to look for if you are looking for an &Rarena challenge&n!\nJust type &Ywardome <min_remort> <max_remort>&n at his presence.",
+  "flags_raw": "518217 84979880 0 E",
+  "stats1_raw": "0 0 0 0d0+1000 200d0+10",
+  "stats2_raw": "1 1 6151",
+  "stats3_raw": "5 10 88 -28 4",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/5.mob"
+}

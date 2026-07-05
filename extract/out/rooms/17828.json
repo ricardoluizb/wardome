@@ -1,0 +1,29 @@
+{
+  "id": 17828,
+  "zone_id": 178,
+  "name": "The Barracks",
+  "description": "You now stand in the sleeping quarters of the gnome guards.  Every bed is\nmade perfectly, and not single article of clothing is on the floor.  There\nis a small storage room to the east.",
+  "header_raw": "178 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see a small storage room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17829
+    },
+    {
+      "dir": 2,
+      "description": "You see a long hallway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17826
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

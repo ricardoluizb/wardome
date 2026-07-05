@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "Inside The Temple",
   "description": "Huge marble pillars rise on either side of you and grab hold of\nthe ceiling.  Between each of these, fine softstone frescoes have\nbeen carved depicting scenes from the religous history of New Thalos.\nRows of pews face forward giving their full attention to the pulpit\nrising high above the ground.  The deep red carpeting underfoot shows\nnot a speck of wear or dirt.  It is obvious that New Thalonians take\nreligion seriously.",
-  "header_raw": "54 dgh 0",
-  "flags_text": "dgh",
+  "header_raw": "54 200 0",
+  "flags_text": "200",
   "sector": 0,
   "exits": [
     {

@@ -1,0 +1,12 @@
+{
+  "id": 1124,
+  "alias": "oldstyle local gossip",
+  "short_desc": "a local gossip",
+  "long_desc": "A local gossip asks you, \"Have you heard the latest?\"",
+  "detailed_desc": "The gossip is all talk and no action.  You're transfixed by her ability to\ntalk so much so quickly.",
+  "flags_raw": "138 0 0 E",
+  "stats1_raw": "120 -44 -11 1d1+5280 5d13+68",
+  "stats2_raw": "1800 6053860 2",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/11.mob"
+}

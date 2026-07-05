@@ -1,0 +1,29 @@
+{
+  "id": 29843,
+  "zone_id": 298,
+  "name": "Near the abyss",
+  "description": "You are standing near the edge of a very deep abyss.  Hot smoke is drifting out\nof the abyss.  You can continue south into the abyss (not a very wise decsion)\nand west to the cave.",
+  "header_raw": "298 9 3",
+  "flags_text": "9",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29838
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29842
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/298.wld"
+}

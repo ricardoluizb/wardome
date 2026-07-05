@@ -1,0 +1,21 @@
+{
+  "id": 20208,
+  "zone_id": 202,
+  "name": "In the top room of a tall watch tower",
+  "description": "You stand in the uppermost room of a stone watch tower.  The room is plain and\nvery small.  There is a window in the southern section of the wall that looks\nout on the open ground around Dale--ground now covered by the beseiging army of\norcs and easterlings.  A large rug covers the stone floor below the window.  \nBehind you, the floor opens onto the stairs that lead down.  The roof of the\ntower is low above your head, conical in shape and made of rough wood.  A plain\nchair sits against the wall.",
+  "header_raw": "202 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20207
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/202.wld"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 29935,
+  "zone_id": 298,
+  "name": "Fountain",
+  "description": "A fountain made of the purest silver dominates the center of the lawn.  At the\ncenter of the fountain is a little island upon which grows a lovely Mallorn\ntree.  Gold lamps hang from the boughs of the tree, casting an ethereal light\nover the fountain.  A stream, seemingly made of molten silver, spills forth\nfrom the fountain.  Between the silver water and the golden light, the whole of\nthe fountain has a look that was last seen in the time of the two trees of\nValinor.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29936
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29938
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29943
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29934
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

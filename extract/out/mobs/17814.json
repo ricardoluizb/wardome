@@ -1,0 +1,12 @@
+{
+  "id": 17814,
+  "alias": "bat fire",
+  "short_desc": "the fire bat",
+  "long_desc": "The fire bat flames brightly and prepares to attack.",
+  "detailed_desc": "You see a huge flame which resembles the shape of a bat.  The creature\nhangs from the ceiling and bites at you.",
+  "flags_raw": "4194350 8 -900 E",
+  "stats1_raw": "40 0 4 1d1+837 5d5+16",
+  "stats2_raw": "600 227663 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/178.mob"
+}

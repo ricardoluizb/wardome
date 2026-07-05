@@ -1,0 +1,21 @@
+{
+  "id": 13058,
+  "zone_id": 130,
+  "name": "&rRoom of The Master Thief's&n",
+  "description": "Here is the room of The Master Thief's",
+  "header_raw": "130 224 0",
+  "flags_text": "224",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 13057
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

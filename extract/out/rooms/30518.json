@@ -1,0 +1,21 @@
+{
+  "id": 30518,
+  "zone_id": 305,
+  "name": "&BO Templo dos Ogros",
+  "description": "Certamente esse e' o melhor lugar para um Ogro viver, uma grande caverna.  \nO humido ar enche o local, e' um lugar sombrio aonde estranhos ruidos ecoam do\nmeio do nada de pouco em pouco tempo.  Essa raca aparentemente nao cre em\nnenhum deus.  A Estrada dos Templos fica ao norte.",
+  "header_raw": "305 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30509
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/305.wld"
+}

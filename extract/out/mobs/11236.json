@@ -1,0 +1,12 @@
+{
+  "id": 11236,
+  "alias": "brass golem",
+  "short_desc": "a brass golem",
+  "long_desc": "A brass golem stands before the two doors.",
+  "detailed_desc": "Lacking many of the powers and immunities of its more powerful cousins,\nthe brass golem is nevertheless a competent and hardy defender of any\nmage's chambers.",
+  "flags_raw": "10 8232 0 E",
+  "stats1_raw": "40 -18 -9 1d1+3996 5d9+106",
+  "stats2_raw": "600 341495 9",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

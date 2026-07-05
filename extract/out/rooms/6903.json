@@ -1,0 +1,29 @@
+{
+  "id": 6903,
+  "zone_id": 69,
+  "name": "At the Front Door",
+  "description": "You are now standing at the front door, trying to make up your mind as to\nopen the door, or not.  This house looks to be centuries old, as the porch that\nyou walk on is creaking with every step, and the shudders and the walls look\nchipped, and just bent out of shape.  Well, going inside would be better than\nstaying out here in the rain all night, wouldn't it?",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "old rotten wooden door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6904
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6902
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

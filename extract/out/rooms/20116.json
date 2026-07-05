@@ -1,0 +1,21 @@
+{
+  "id": 20116,
+  "zone_id": 201,
+  "name": "A Secret Tunnel",
+  "description": "The floor above you closes and seals off your exit. \nThis well-lit passage leads south.  To the south you see a bright source\nof light.",
+  "header_raw": "201 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20101
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/201.wld"
+}

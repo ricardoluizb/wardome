@@ -1,0 +1,46 @@
+{
+  "id": 13544,
+  "zone_id": 135,
+  "name": "At The Dragon's Tail",
+  "description": "You have never been so happy to see the light of day!  You are by\nthe dragon's stone tail, which is covered with green, growing vines\nand small, violet flowers.  The birds sing and you can make out a\nfaint path to the south, leading back around the dragon-hill.\nA skull-topped signpost flanks an unused road to the north.\nThere is a large plot device blocking the way along the road to the north.",
+  "header_raw": "135 4 3",
+  "flags_text": "4",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A large plot device blocks the unused road to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": -1
+    },
+    {
+      "dir": 2,
+      "description": "You see a path leading around the dragon, back to its toothy maw.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13501
+    },
+    {
+      "dir": 3,
+      "description": "There is a strange hole in the rock wall, circular in shape.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13543
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "plot device",
+      "description": "This large and strange creation is merely a device often used by writers\nto steer people away from something that he or she does not want them to\nsee at the present moment.  Speaking of which, you *did* see the path\nleading away to the south did you not?"
+    },
+    {
+      "keywords": "sign signpost",
+      "description": "The signpost reads in ancient runic script:\n\nThe Penultimate Tower of Wizardry was rumored to exist, once, just\ndown this road... who knows if this is true?  For though many have\nwent on to see, none have returned to claim it true...\n\n                                --Mercutio the Bard of the Realm"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

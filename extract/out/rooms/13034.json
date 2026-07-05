@@ -1,0 +1,21 @@
+{
+  "id": 13034,
+  "zone_id": 130,
+  "name": "Bavaria's House",
+  "description": "You are in a big bar. You see a lot of drinks. In the corner, you\nsee a group called Nirvana trying to be famous, argh they are so \nhorrible. Lots of adventurers come here to talk about their quests.\nIf you wanna a beer it's the right place. The first avenue is to\nthe North.",
+  "header_raw": "130 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13031
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

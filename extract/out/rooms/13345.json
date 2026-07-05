@@ -1,0 +1,37 @@
+{
+  "id": 13345,
+  "zone_id": 132,
+  "name": "The West Market Square",
+  "description": "The western market.  This is where evil congregate to make sleazy deals.  \nHomes are to the south and the market continues north, east, and west.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "west market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13348
+    },
+    {
+      "dir": 1,
+      "description": "west market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13346
+    },
+    {
+      "dir": 3,
+      "description": "west market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13344
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

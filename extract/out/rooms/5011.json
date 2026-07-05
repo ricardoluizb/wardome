@@ -3,8 +3,8 @@
   "zone_id": 50,
   "name": "A Giant Cave",
   "description": "This cavern overwhelms you.  The walls and ceiling seem miles away.\nBones of previous adventurers lie strewn on the cavern floor.  There is\na passage that spirals downwards in the northeast corner of the cavern.",
-  "header_raw": "50 ad 5",
-  "flags_text": "ad",
+  "header_raw": "50 9 5",
+  "flags_text": "9",
   "sector": 5,
   "exits": [
     {

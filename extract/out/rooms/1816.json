@@ -1,0 +1,29 @@
+{
+  "id": 1816,
+  "zone_id": 18,
+  "name": "The Chanting Room",
+  "description": "Icons of a blue deity abound in this room,\nwith seats outlining a large circle in the\nmiddle.  The herbal scent is stronger here\nthan anywhere else, with torches at each\ncolumn giving the room an air of dancing.\nYou hear the hideous songs of \"la LA la ...\"",
+  "header_raw": "18 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1818
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1813
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/18.wld"
+}

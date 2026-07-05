@@ -1,0 +1,29 @@
+{
+  "id": 6737,
+  "zone_id": 67,
+  "name": "A shaded lane",
+  "description": "You travel on a wide lane lined with ash and oak trees, whose limbs\nbend in various directions and give ample shade. Little things seem\nto be sparkling through the doorway of a building to the west, though\nit is hard to tell from here exactly what.",
+  "header_raw": "67 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6713
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6738
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

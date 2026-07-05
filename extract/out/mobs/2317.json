@@ -1,0 +1,12 @@
+{
+  "id": 2317,
+  "alias": "oldstyle warrior minotaur",
+  "short_desc": "the Minotaur Warrior",
+  "long_desc": "A minotaur warrior is here looking for intruders.",
+  "detailed_desc": "You see a huge minotaur that is dressed in thick furs and armor. He has black\nfur and red eyes. He looks quite capable of protecting the city.",
+  "flags_raw": "108 0 -330 E",
+  "stats1_raw": "180 -74 -20 1d1+7920 5d19+92",
+  "stats2_raw": "2700 19598258 2",
+  "stats3_raw": "8 8 1 3 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/23.mob"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 21562,
+  "zone_id": 215,
+  "name": "the black hole",
+  "description": "A heavy wind you feel on your back ear, you heart accelerates...  You see a\nenormous beast knight on the hole, mounted on a black horse on the bottom of\nthe large enormous hole he grins evily to you, he wields a large dark axe and\nyou will be a great victm for him!  Run away from here..  Its will be best.",
+  "header_raw": "215 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 21561
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/215.wld"
+}

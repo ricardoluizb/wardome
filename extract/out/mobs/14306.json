@@ -1,0 +1,12 @@
+{
+  "id": 14306,
+  "alias": "mob iona shopkeeper",
+  "short_desc": "Iona",
+  "long_desc": "Iona the shopkeeper is here, hanging wet parchments over a rack.",
+  "detailed_desc": "Iona is a nearly middle aged woman who is dressed in long black robes. Her eyes\nare bright blue in color, which is very rare indeed for this part of the world.",
+  "flags_raw": "24842 136 0 E",
+  "stats1_raw": "80 -38 -15 1d1+7992 5d17+122",
+  "stats2_raw": "1200 2320818 9",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/143.mob"
+}

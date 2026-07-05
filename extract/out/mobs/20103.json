@@ -1,0 +1,12 @@
+{
+  "id": 20103,
+  "alias": "disciple",
+  "short_desc": "a disciple",
+  "long_desc": "A disciple tries to impress you with his new skills.",
+  "detailed_desc": "One of the many who came here to learn the Shaolin martial skills. Like \nmany others, he seems quite hopeless.",
+  "flags_raw": "142 128 100 E",
+  "stats1_raw": "75 -31 -11 1d1+6300 5d15+100",
+  "stats2_raw": "1125 1773389 7",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/201.mob"
+}

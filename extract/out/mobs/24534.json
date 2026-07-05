@@ -1,0 +1,12 @@
+{
+  "id": 24534,
+  "alias": "freeman",
+  "short_desc": "the freeman",
+  "long_desc": "A freeman is here, fleeing divine wrath.",
+  "detailed_desc": "The freeman is empoverished. He blames\nall of his sins on the guild.",
+  "flags_raw": "74 1024 -400 E",
+  "stats1_raw": "125 -46 -11 1d1+5496 5d13+70",
+  "stats2_raw": "1875 6808983 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/245.mob"
+}

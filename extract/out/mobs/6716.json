@@ -1,0 +1,12 @@
+{
+  "id": 6716,
+  "alias": "priestess master cleric",
+  "short_desc": "the Priestess of the Ministry",
+  "long_desc": "The Priestess of the Ministry is here, garbed in black.",
+  "detailed_desc": "She is tall, elderly and imposing, but willing to teach those new to\nher priestly arts. The black gown that she wears flows past her toes \nto the stone floor.",
+  "flags_raw": "10 65672 0 E",
+  "stats1_raw": "160 -60 -14 1d1+4476 5d17+64",
+  "stats2_raw": "2400 13675795 0",
+  "stats3_raw": "8 8 2 11 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/67.mob"
+}

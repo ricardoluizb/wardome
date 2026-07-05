@@ -3,8 +3,8 @@
   "zone_id": 53,
   "name": "A Looted Tomb",
   "description": "The floor of this small tomb is littered with the lids of \nsmashed sarcophagi, bits of treasure dropped by thieves and\nlooters, and corpses pulled from their resting places.",
-  "header_raw": "53 d 0",
-  "flags_text": "d",
+  "header_raw": "53 32776 0",
+  "flags_text": "32776",
   "sector": 0,
   "exits": [
     {

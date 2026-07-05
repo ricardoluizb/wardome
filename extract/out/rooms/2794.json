@@ -1,0 +1,29 @@
+{
+  "id": 2794,
+  "zone_id": 27,
+  "name": "&wA Dark &gForest&n",
+  "description": "When you enter into the florest, you see many retorced and ugly trees.  The\nleafs in the floor reaches your knees, and you breath catches up a smell of\ndeath and decadence.",
+  "header_raw": "27 69 3",
+  "flags_text": "69",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2795
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2793
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

@@ -1,10 +1,10 @@
 {
   "id": 7303,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "The Cave T-Cross",
   "description": "You are standing in a mudlike substance.  The smell here is awful, it is\nrotten.  To the west you can see some light.",
-  "header_raw": "73 ad 2",
-  "flags_text": "ad",
+  "header_raw": "72 9 2",
+  "flags_text": "9",
   "sector": 2,
   "exits": [
     {
@@ -34,12 +34,12 @@
   ],
   "extra_descriptions": [
     {
-      "keywords": "mud",
-      "description": "When you examine the mud, you notice small worms crawling around."
-    },
-    {
       "keywords": "worms",
       "description": "The worms are purple.  They do not look edible."
+    },
+    {
+      "keywords": "mud",
+      "description": "When you examine the mud, you notice small worms crawling around."
     }
   ],
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/72.wld"

@@ -1,0 +1,21 @@
+{
+  "id": 13023,
+  "zone_id": 130,
+  "name": "Zeina's Room",
+  "description": "You enter in the room of Zeina, the princess of the Thiefs.\nIt is a big and strange room, half pink and half black, in\nthe pink side you see dools, toys and pictures, in the black\nside you see axes, swords and daggers.",
+  "header_raw": "130 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "Pink Door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 13021
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

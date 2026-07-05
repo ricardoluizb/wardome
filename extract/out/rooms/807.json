@@ -1,0 +1,37 @@
+{
+  "id": 807,
+  "zone_id": 7,
+  "name": "Trial",
+  "description": "This is a large rectangular room with three exits, doors to the\nnorth, east and west.  The door you've come from has...disappeared!\nYou are not surprised, however.  There are some strange scuff marks on\nthe floor, and you'd swear that discoloration is an old bloodstain.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "north",
+      "door_flag": 1,
+      "key": -1,
+      "to": 811
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "east",
+      "door_flag": 1,
+      "key": -1,
+      "to": 809
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "west",
+      "door_flag": 1,
+      "key": -1,
+      "to": 808
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

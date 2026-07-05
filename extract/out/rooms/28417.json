@@ -1,0 +1,29 @@
+{
+  "id": 28417,
+  "zone_id": 284,
+  "name": "Strange Entryway",
+  "description": "Arcane symbols cover the enormous two coral wall.\nIt looks like some magical place to another plane.\n  All that you can see are the reds of their eyes...\n...and they are comming for you...",
+  "header_raw": "284 8 6",
+  "flags_text": "8",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You can see more light to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28418
+    },
+    {
+      "dir": 3,
+      "description": "To the weast is where you were a minute ago!",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28416
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/284.wld"
+}

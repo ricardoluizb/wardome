@@ -1,0 +1,29 @@
+{
+  "id": 11614,
+  "zone_id": 115,
+  "name": "First Avenue",
+  "description": "You immediatly realize that the city suddenly grew darker when you left\nBroadway and it makes you feel uncomfortable.  You hear the sounds of what you\nthink is a war being raged off to the west and you wonder if it is safe to find\nout what's going on.  The Intersection of First and Broadway is to the east and\nHell's Kitchen is to the west.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11516
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11615
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

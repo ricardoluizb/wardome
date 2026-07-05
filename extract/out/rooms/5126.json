@@ -3,8 +3,8 @@
   "zone_id": 51,
   "name": "The Entrance Hall",
   "description": "You stand in the entrance way to the temple which opens up to the north\ninto a large hallway going east and west.  Small statues os spiders line the\nentrance way's walls.",
-  "header_raw": "51 ad 0",
-  "flags_text": "ad",
+  "header_raw": "51 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

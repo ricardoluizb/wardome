@@ -1,0 +1,29 @@
+{
+  "id": 17857,
+  "zone_id": 178,
+  "name": "The Unused Path",
+  "description": "You are now on a fairly unused path that leads east out of the village.\nYou wonder what could be out this way.",
+  "header_raw": "178 4 1",
+  "flags_text": "4",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see a path.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17858
+    },
+    {
+      "dir": 3,
+      "description": "You see a path.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17803
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

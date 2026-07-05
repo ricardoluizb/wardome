@@ -1,0 +1,12 @@
+{
+  "id": 13202,
+  "alias": "guard elite",
+  "short_desc": "an Elite guard",
+  "long_desc": "An Elite guard of the city stands watch.",
+  "detailed_desc": "This guard has reached the higher ranks among the guards.  Although the \nposition of Elite Guard is supposed to be open to all, they tend to be half\nminotaur.",
+  "flags_raw": "8264 1073741824 -350 E",
+  "stats1_raw": "10 -1 -3 1d1+912 5d3+84",
+  "stats2_raw": "150 10180 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 8120,
+  "alias": "boy",
+  "short_desc": "a small boy",
+  "long_desc": "A small boy runs around shouting at unseen foes.",
+  "detailed_desc": "He is ready for the goblins when they come!",
+  "flags_raw": "136 0 300 E",
+  "stats1_raw": "140 -72 -27 1d1+16236 5d43+166",
+  "stats2_raw": "2100 13429563 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

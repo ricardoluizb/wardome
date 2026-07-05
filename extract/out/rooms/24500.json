@@ -1,0 +1,42 @@
+{
+  "id": 24500,
+  "zone_id": 245,
+  "name": "At the corner of the world",
+  "description": "You smoulder in the flames of the corner of the world\ndevoted to fire. The vapors of your burning flesh reach your\nnose. Beyond the corner is only the blackness. There is\nan unstoppered vial glowing orange red in the flames.",
+  "header_raw": "245 16777216 1",
+  "flags_text": "16777216",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Lake of fire",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24514
+    },
+    {
+      "dir": 1,
+      "description": "Lake of fire",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24501
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 195
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "vial",
+      "description": "4th vial of wrath: fire for blasphemers."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/245.wld"
+}

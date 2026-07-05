@@ -1,0 +1,45 @@
+{
+  "id": 11503,
+  "zone_id": 115,
+  "name": "Broadway",
+  "description": "You are on Broadway, the main street of New Sparta.  Rows of stores line the\nsides of the street as far as you can see.  You are impressed by the modern\ntechnology and the sheer size of the buildings.  You are confident that this\ncity is at least 1000 times better than Midgaard.    \n    To the east lies the Fishery.  The west leads to the Tin Can Alley, \nthe economically challenged neighborhood (note the PC terminology).\nBroadway continues to the north.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11506
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11507
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11502
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11508
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

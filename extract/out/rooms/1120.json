@@ -1,0 +1,45 @@
+{
+  "id": 1120,
+  "zone_id": 11,
+  "name": "Bywater Road",
+  "description": "You stand on Bywater Road, the busiest street in all of Shiredom.  The road\ncontinues to the east and west.  To the south you spy the Grocer's Delight,\nthe premium grocer's shop in all the realm while to the north lies Brandywine\nBridge.",
+  "header_raw": "11 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Brandywine Bridge offers safe passage across the tumultuous river.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1131
+    },
+    {
+      "dir": 1,
+      "description": "To the east runs Bywater Road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1118
+    },
+    {
+      "dir": 2,
+      "description": "You see the Grocer's Delight to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1190
+    },
+    {
+      "dir": 3,
+      "description": "To the west runs Bywater Road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1122
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 33,
   "name": "A Cave Passageway",
   "description": "A glimmer of light to the east alerts you to the fact\nthat something is going on in the tunnel nearby.  The south\nexit of the tunnel leads off into complete darkness.  All\naround on the ground are piles of earth and stone, making\nyou have to wend through the tunnel carefully.  Hmm.",
-  "header_raw": "33 ad 0",
-  "flags_text": "ad",
+  "header_raw": "33 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

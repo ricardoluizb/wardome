@@ -4,9 +4,9 @@
   "short_desc": "the slave",
   "long_desc": "A slave here is mining out a new passageway.",
   "detailed_desc": "The slave looks up at you with pleading eyes.  He\nwants his freedom.  The chains around his ankles are\ntight, and you wonder if you should set him free, and\nif you even can.",
-  "flags_raw": "bh 0 1000 S",
-  "stats1_raw": "6 15 100 3d5+70 1d8+1",
-  "stats2_raw": "0 1500",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "138 0 1000 E",
+  "stats1_raw": "170 -71 -20 1d1+8832 5d18+98",
+  "stats2_raw": "2550 16851653 3",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/33.mob"
 }

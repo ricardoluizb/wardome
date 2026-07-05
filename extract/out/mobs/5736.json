@@ -1,0 +1,12 @@
+{
+  "id": 5736,
+  "alias": "orc",
+  "short_desc": "a sleeping Orc",
+  "long_desc": "An off-duty Orc sleeps here.",
+  "detailed_desc": "This vile creature has been assigned to prevent unwanted visitors, but innate\nlaziness combined with generous servings of Orcish Ale have rendered him\nquite ineffective at even this simple task.",
+  "flags_raw": "110 32768 -400 E",
+  "stats1_raw": "30 -17 -11 1d1+3480 5d10+122",
+  "stats2_raw": "450 185326 11",
+  "stats3_raw": "8 8 1 -1 5",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

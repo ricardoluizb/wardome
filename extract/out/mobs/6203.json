@@ -4,9 +4,9 @@
   "short_desc": "the orc hunter",
   "long_desc": "An orc hunter looks at you with hateful eyes.",
   "detailed_desc": "He looks angry, desperate, and maybe a little sick.\nHis green skin is definitely mottled, and he seems to\nlimp a little bit...",
-  "flags_raw": "fm k -350 S",
-  "stats1_raw": "7 14 50 3d5+83 2d3+2",
-  "stats2_raw": "0 2250",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "4136 1024 -350 E",
+  "stats1_raw": "78 -19 -1 1d1+2184 5d8+30",
+  "stats2_raw": "1170 1440480 0",
+  "stats3_raw": "8 8 1 3 5",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/62.mob"
 }

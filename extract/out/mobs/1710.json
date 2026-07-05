@@ -1,0 +1,12 @@
+{
+  "id": 1710,
+  "alias": "male centaur",
+  "short_desc": "a centaur",
+  "long_desc": "A male centaur wanders about this area.",
+  "detailed_desc": "The centaur has the upper torso of a man and lower body of a horse.",
+  "flags_raw": "12 0 200 E",
+  "stats1_raw": "185 -92 -47 1d1+19980 5d55+174",
+  "stats2_raw": "2775 27596996 10",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/16.mob"
+}

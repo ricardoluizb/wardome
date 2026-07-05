@@ -3,8 +3,8 @@
   "zone_id": 51,
   "name": "The Eastern Side Of The Main Chamber",
   "description": "You are on the eastern side of the chamber overlooking the pit.  To the\neast is a door while to the north is an altar.",
-  "header_raw": "51 ad 0",
-  "flags_text": "ad",
+  "header_raw": "51 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

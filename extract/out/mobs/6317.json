@@ -4,9 +4,9 @@
   "short_desc": "the elder wormkin",
   "long_desc": "A wormkin that has grown a bit stares at you inquisitively.",
   "detailed_desc": "A medium-sized dragon -- seems it hasn't killed anything yet by itself, \nthough there is a first time for everything...",
-  "flags_raw": "b dk -300 S",
-  "stats1_raw": "16 5 1 5d4+210 2d6+4",
-  "stats2_raw": "5000 24000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "10 1032 -300 E",
+  "stats1_raw": "116 -38 -7 1d1+3240 5d12+46",
+  "stats2_raw": "1740 4461906 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/63.mob"
 }

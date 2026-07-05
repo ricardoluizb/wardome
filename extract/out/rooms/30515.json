@@ -1,0 +1,21 @@
+{
+  "id": 30515,
+  "zone_id": 305,
+  "name": "&BThe Temple of the Dwarves&n",
+  "description": "Apos passar por algumas montanhas voce chegou ao Templo dos Anoes, nao ha'\nnada de muito especial aqui, apenas o tipico ar frio das montanhas.  Com total\ncerteza aqui nao e' o lugar aonde os anoes guardam seu dinheiro.  A saida a\nEstrada dos Templos e' ao norte.",
+  "header_raw": "305 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30506
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/305.wld"
+}

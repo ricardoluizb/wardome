@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Treasure Room",
   "description": "You have somhow managed to gain access to the treaure vault of the\nSultan.  The alarm sounding in the background tells you that you must\nhave tripped off some kind of alarm system.  It might be adviseable to\ngrab as much stuff as you possibly can and run for the door.",
-  "header_raw": "54 d 0",
-  "flags_text": "d",
+  "header_raw": "54 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

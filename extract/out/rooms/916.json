@@ -3,8 +3,8 @@
   "zone_id": 9,
   "name": "The Second Trial Of Minos",
   "description": "Minos' voice reveberates from the four walls of this room:\n'Get some rest and make sure you're healed.  You'll need it for\nthe next monster in my playground.  Or are you strong enough?'\n   To the south is the entrance to the next challenge of Minos'\nstronghold.",
-  "header_raw": "9 ad 1",
-  "flags_text": "ad",
+  "header_raw": "9 9 1",
+  "flags_text": "9",
   "sector": 1,
   "exits": [
     {

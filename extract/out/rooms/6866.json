@@ -1,0 +1,29 @@
+{
+  "id": 6866,
+  "zone_id": 67,
+  "name": "A path hung with moss",
+  "description": "The slender trail winds its way north-south through bending\ntrees laiden with spanish moss. (Except this was before Spain.)\nIt comes to an end before the bubbling ebbs of a tiny stream,\npouring gently forth from a hole in the rock on which you are\npoised, and flows southward.",
+  "header_raw": "67 1 3",
+  "flags_text": "1",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6865
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6867
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

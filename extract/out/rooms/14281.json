@@ -1,0 +1,21 @@
+{
+  "id": 14281,
+  "zone_id": 141,
+  "name": "The Enlightenment",
+  "description": "A voice booms out, \"You have now truly became Enlightened.  You\nhave fought and defeated the Avatar's enemy of the past.  Now the\ntime warp leads to the future.  Only the truly courageous can\nsurvive the enemies there.\"",
+  "header_raw": "141 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "The Time Warp changes space, and fluxes its surroundings.",
+      "keywords": "warp",
+      "door_flag": 2,
+      "key": 14116,
+      "to": 14282
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 61,
   "name": "A Dusty Trail In The Deep, Dark Forest",
   "description": "You are on a dusty trail leading through the deep, dark forest.  Ancient,\ngrey trees loom everywhere.  The trail continues south and west.  A broad\nirregular path leads eastward away from the trail.",
-  "header_raw": "61 ad 3",
-  "flags_text": "ad",
+  "header_raw": "61 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

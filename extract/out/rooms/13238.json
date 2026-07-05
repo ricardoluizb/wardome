@@ -1,0 +1,21 @@
+{
+  "id": 13238,
+  "zone_id": 132,
+  "name": "Zilch's Pad",
+  "description": "A well-lit room with all sorts of objects and potions for the sole purpose\nof pranks and mischief.  A bucket of water falls on your head.",
+  "header_raw": "132 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "the palace",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13237
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

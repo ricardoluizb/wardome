@@ -3,8 +3,8 @@
   "zone_id": 53,
   "name": "A Musty Chamber",
   "description": "You are standing in a dank, musty chamber just inside the pyramid. \nFootprints and other strange marks are set into the dusty floor here.\nIt would seem that some of the tenants of this monument are still alive.\nExits lead in all directions.   The door to the west is covered with\ninscriptions.",
-  "header_raw": "53 d 0",
-  "flags_text": "d",
+  "header_raw": "53 32776 0",
+  "flags_text": "32776",
   "sector": 0,
   "exits": [
     {
@@ -50,12 +50,12 @@
   ],
   "extra_descriptions": [
     {
-      "keywords": "door stone",
-      "description": "The stone door is covered in strange inscriptions and hieroglyphs that warn\nyou not to proceed any further."
-    },
-    {
       "keywords": "sigils hieroglyphs inscriptions writing",
       "description": "You cannot understand the strange glyphs that cover the door, but most of\nthem seem to depict scenes of fire and massive creatures of apparently\ntremendous strength.  You have a feeling that the glyphs are serving as a\nwarning."
+    },
+    {
+      "keywords": "door stone",
+      "description": "The stone door is covered in strange inscriptions and hieroglyphs that warn\nyou not to proceed any further."
     }
   ],
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/53.wld"

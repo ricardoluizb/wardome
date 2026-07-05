@@ -1,0 +1,50 @@
+{
+  "id": 8125,
+  "zone_id": 81,
+  "name": "The Secret Library Vault",
+  "description": "Wow! There is enough dust here to grow a crop of corn on the shelves.\nBut there may be even more interesting things on the shelves than \ncorn.  Why, on that shelf just out of reach, you see a book that\nhas to be the Book of Dwarven Herblore. Too bad you can't get it; it \nwould be useful to a wizard. A few torn off pages litter the lowest \nshelf, nearer at hand than the great dusty tome.",
+  "header_raw": "81 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The public section of the library is to the north.",
+      "keywords": "",
+      "door_flag": 2,
+      "key": 8108,
+      "to": 8124
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "book herblore",
+      "description": "It lies open, and you may read part of one page:\n\nLong was this wisdom lost to men, and long did it lie deep, deep \nburied beneath the goblin caves. But the brave Nambor did fetch \nback a tattered scroll, bearing a few runes of ancient Dwarven,\nwho only I, Bog Grundelgrin, could read. Now mark well my words,\nO enchanter, for if you take the leaf of the mevais plant ground\nto a paste with water from the Well of Jakur, you may make an\nointment, which heals all wounds. But it is hard to prepare. The\nground leaves must have been picked under the dying moon of late\nNovember, when the mevais is dry, and browned.  Then they must be \n\nYou can read no more, nor can you reach the book."
+    },
+    {
+      "keywords": "pages",
+      "description": "One is a small vellum page, another is large, with red letters. A third\nis a fragment of papyrus scroll.  Still another, very withered, curls\nas it dries. Tucked into a corner a piece of blue paper has been chewed\nby mice."
+    },
+    {
+      "keywords": "small vellum",
+      "description": "Like the rest it is a fragment:\n\nThe age of Iron came next; it is our present age. In these days men\ndwindled both in stature and nobility still further from the Bronze\nAge, so say the philosophers. They began forging their tools and \nblades of iron, and no longer wrote the great epics of the last Age.\nDeath still reigned, and reigns, over the world of men, cutting \nshort their little works. How large they seemed! Yet all is not lost.\nSo says the philosopher:\n              To the world that stumbles lost and lone,\n              A king descends from heaven's throne. \n              Death by death is overthrown.\n\nHere the page has been torn off."
+    },
+    {
+      "keywords": "large red",
+      "description": "It is from a book called \"The Art Of Battle\". The language is archaic,\nthe handwriting bad, and the ink faded.\n\nHow fortunate is the army which counts [?] a master [illegible] in its \nranks! For where the glaive has bitten, he may heal and, even, by the\n[illegible] restore a dying warrior to life and bodily vigor. And even\nbefore the trumpet cries or drums beat these are of use, for the King \nof heaven favors the man of good heart who looks for aid [?] And it\nmay even happen that by his blessings the sword will miss where it \nwould have hit.\nAnd in weaponry: I say to you, grasp your spear in the hands, reaching\nthe right as high as may be, and four feet longer should be its length.\nBut though it may be longer, never should it be less, for this has been\nthe death of many a good knight.  An excellent arm is the spear, which \neasily may slay a man armed with a long sword, for it keepeth its wielder\nat a distance. But for the man who travels alone, seeking to make himself\na name, I do not advise the spear, for it is too long a weapon for the \nwoods or caves.  Take instead a sword, and if you be a child of rock [?]\na smaller axe than the armies carry. And I say too, that the club is a\nvery [illegible] arm, good for the merchant or traveller on lonely roads.\nThe wise travel together, but the fool strikes out alone, saying I will\nsave my gold, [illegible] not paying for idlers. But the night grows dark,\nand in a lonely place bandits set upon him, kill him, and take his gold,\nwhich he had so tried to save.  His bones they leave as a [illegible] to\nhis brotherhood [?] everywhere. We see, then, that the small sword, tho'\nmore costly, is better by far than the club in battle, and in turn \ncheaper, and less good, than the long sword, or the broad sword.  And in\nturn the two-handed sword, or claighmore, passes these in price and worth.\nThe axe and mace I love less, for my hands are suited to the sword, which\n\nUnfortunately, there is no more."
+    },
+    {
+      "keywords": "papyrus scroll fragment",
+      "description": "Some ancient scribe has written a list of legendary weapons, of which  \nonly this tiny scrap remains.\n\nThe great warrior Highlander, it is said, bore a mighty claymore, the\nequal of which is unknown to me.  I have heard it glowed brightly when\ndrawn, but I see no way this would be useful. The great smith Durgandon\nforged it in the dwarven halls; its enchantment is opposed to any evil\nand protects its wearer from harm, it is said.  I know not if this is\ntrue. The blade is known to me only in legend; if indeed it ever was, \nit is now lost forever.  No word of Highlander has been heard for long.\nZebenak Rykalp of Wazen bears a sword made by the smith Dorig, of the\nFoehammer clan.  Its name is Krat, or \"Razor\" in the Vallonian tongue,\nnamed for its thinness, and its renowned edge.  It is supple steel,\nbut quite sturdy, and I have seen Zeb plunge it deep into an oak without\ninjuring the blade. Dorig is truly a great craftsman.  \nThere are dark rumors of a scimitar borne by the Goblin King that, if\n\nShoot! There is no more."
+    },
+    {
+      "keywords": "withered curled curling",
+      "description": "I.  O.  U.\n   For Groceries ...........................3 cr. 1 f. 3 1/2 d.\n   (Signed) Tim, son of Tom the Lifeguard. \n   (Signed) Maxtrum Holloknob"
+    },
+    {
+      "keywords": "blue chewed paper",
+      "description": "It is a letter, or rather, half of a letter.\n\nhas never done. I say more happily that your ring is finished. It\nis a work of great art, and no king wears its equal. Indeed, the stone\nquarried from the [dwarven?] mines of Holdraxe is said to have magical\nproperties.  I know little of these.  But it is said that the right\nsort of opal makes the man invisible who wears it in a ring.  Sorcery\nor not, the ring is quite beautiful, and I will send it to you by\ncourier as soon as the spring mires become roads once more.\n                                               Signed by my hand,\n                                                   Rzesk Kural"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

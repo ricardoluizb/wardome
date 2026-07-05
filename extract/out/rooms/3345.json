@@ -3,8 +3,8 @@
   "zone_id": 33,
   "name": "The General Store",
   "description": "A bored shopkeeper waves an idle hand towards his stock\nof stuff.  Browse, type list, buy, sell, whatever...",
-  "header_raw": "33 d 0",
-  "flags_text": "d",
+  "header_raw": "33 152 0",
+  "flags_text": "152",
   "sector": 0,
   "exits": [
     {

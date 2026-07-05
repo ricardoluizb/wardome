@@ -1,0 +1,29 @@
+{
+  "id": 1624,
+  "zone_id": 16,
+  "name": "The Grand Lobby",
+  "description": "You have entered a vast lobby. This lobby appears to have once been very\nornately furnished, but now everything is decayed and moldering.  A highly\nornate balcony surrounds the lobby. To the east, below the balcony, is an\nopening. The door leading out is west.  You notice that the balcony is\ncovered in highly ornate and life-like stone gargoyles.",
+  "header_raw": "16 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1625
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1623
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 1110,
+  "zone_id": 11,
+  "name": "Shiriff Post of the Eastern Shire",
+  "description": "You are in the Shiriff Post which acts as the nucleus for the three shiriffs\nof the Eastern Shire.  As you examine the shiriffs on duty, you come to realize\nthat the halflings of the Shire are not to be reckoned with.  You cower with \nawe.  A door offers passage to the east.",
+  "header_raw": "11 8200 0",
+  "flags_text": "8200",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1181
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1182
+    },
+    {
+      "dir": 3,
+      "description": "To the west you can see Bywater Road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1109
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

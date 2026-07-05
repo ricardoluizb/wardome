@@ -3,8 +3,8 @@
   "zone_id": 186,
   "name": "The Hallway",
   "description": "As you continue wandering down the hallway, you notice banners,\npictures, and other fine decorations adorning the walls all along\nthis passage.  It seems very different from the dismal passage where\nyou entered.",
-  "header_raw": "186 ad 0",
-  "flags_text": "ad",
+  "header_raw": "186 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

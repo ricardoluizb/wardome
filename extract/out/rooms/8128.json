@@ -1,0 +1,30 @@
+{
+  "id": 8128,
+  "zone_id": 81,
+  "name": "The Crossbow Inn",
+  "description": "This is the famed Crossbow, known all over Korbor's kingdom, where \nthe food is fine and the beverages more or less legal.  Reilly Morgan\nis the innkeeper, and his specialty is imported Scotch whiskey.  He \nwould gladly let you sample the booze.  Or perhaps you prefer beer?  \nHis brew is second to none, better than the Grunting Boar's swill.\nThe mounted head of a 12 point buck hangs over the fireplace, and \ntwo upturned deer feet and hooves support some strange object.",
+  "header_raw": "81 216 0",
+  "flags_text": "216",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You can leave the inn, if you really want to.",
+      "keywords": "door oak",
+      "door_flag": 1,
+      "key": -1,
+      "to": 8109
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "buck head trophy",
+      "description": "It is a magnificent whitetail buck, the kind native only to Ofingia in\nthis part of the world.  The whitetail is the craftiest animal in the \nwoods; if you can stalk one and bring it down with a bow, as Fred\nBear used to say, you can stalk anything."
+    },
+    {
+      "keywords": "object strange hooves rifle gun",
+      "description": "A long metal tube set into a carved handle of curly maple, with an odd\nsort of lever hanging from it, rests on the hooves.  Perhaps it is a\nmagical token of some sort.  Carved into it is the inscription \n\"Winchester Model 1889\".  Odd."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

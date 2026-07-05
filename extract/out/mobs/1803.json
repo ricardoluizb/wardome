@@ -1,0 +1,12 @@
+{
+  "id": 1803,
+  "alias": "bear giant polar",
+  "short_desc": "the giant polar bear",
+  "long_desc": "The giant polar bear doesn't like you disturbing her sleep.",
+  "detailed_desc": "She blends with the snow.",
+  "flags_raw": "42 65544 0 E",
+  "stats1_raw": "124 -42 -8 1d1+3468 5d13+48",
+  "stats2_raw": "1860 5405736 0",
+  "stats3_raw": "8 0 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/18.mob"
+}

@@ -2,22 +2,32 @@
   "id": 35,
   "name": "Miden'Nir",
   "header": {
-    "raw": "3500 3599 60 2",
-    "min_room": 3500,
-    "top_room": 3599,
-    "lifespan": 60,
-    "reset_mode": 2
+    "raw": "3599 45 2 1 -1",
+    "min_room": 3599,
+    "top_room": 45,
+    "lifespan": 2,
+    "reset_mode": 1
   },
   "commands": [
     {
       "cmd": "M",
       "args": [
         0,
-        3500,
-        3,
-        3521
+        567,
+        4,
+        3502
       ],
-      "comment": "Wyvern"
+      "comment": "(the Wardome Gateguard)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        502,
+        99,
+        -1
+      ],
+      "comment": "(Wardome's City key)"
     },
     {
       "cmd": "M",
@@ -27,7 +37,7 @@
         3,
         3521
       ],
-      "comment": "Wyvern"
+      "comment": "(the wyvern)"
     },
     {
       "cmd": "M",
@@ -37,7 +47,17 @@
         3,
         3521
       ],
-      "comment": "Wyvern"
+      "comment": "(the wyvern)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3500,
+        3,
+        3521
+      ],
+      "comment": "(the wyvern)"
     },
     {
       "cmd": "M",
@@ -47,7 +67,7 @@
         10,
         3508
       ],
-      "comment": "Goblin"
+      "comment": "(The goblin)"
     },
     {
       "cmd": "E",
@@ -57,7 +77,7 @@
         10,
         16
       ],
-      "comment": "Club"
+      "comment": "(a wooden club)"
     },
     {
       "cmd": "M",
@@ -67,7 +87,7 @@
         10,
         3509
       ],
-      "comment": "Goblin"
+      "comment": "(The goblin)"
     },
     {
       "cmd": "E",
@@ -77,7 +97,7 @@
         10,
         16
       ],
-      "comment": "Club"
+      "comment": "(a wooden club)"
     },
     {
       "cmd": "M",
@@ -87,7 +107,7 @@
         10,
         3509
       ],
-      "comment": "Goblin"
+      "comment": "(The goblin)"
     },
     {
       "cmd": "E",
@@ -97,7 +117,7 @@
         10,
         16
       ],
-      "comment": "Club"
+      "comment": "(a wooden club)"
     },
     {
       "cmd": "M",
@@ -107,7 +127,7 @@
         10,
         3512
       ],
-      "comment": "Goblin"
+      "comment": "(The goblin)"
     },
     {
       "cmd": "E",
@@ -117,7 +137,7 @@
         10,
         16
       ],
-      "comment": "Club"
+      "comment": "(a wooden club)"
     },
     {
       "cmd": "M",
@@ -127,7 +147,7 @@
         10,
         3512
       ],
-      "comment": "Goblin"
+      "comment": "(The goblin)"
     },
     {
       "cmd": "E",
@@ -137,7 +157,7 @@
         10,
         16
       ],
-      "comment": "Club"
+      "comment": "(a wooden club)"
     },
     {
       "cmd": "M",
@@ -147,7 +167,7 @@
         10,
         3512
       ],
-      "comment": "Goblin"
+      "comment": "(The goblin)"
     },
     {
       "cmd": "E",
@@ -157,7 +177,7 @@
         10,
         16
       ],
-      "comment": "Club"
+      "comment": "(a wooden club)"
     },
     {
       "cmd": "M",
@@ -167,7 +187,7 @@
         10,
         3514
       ],
-      "comment": "Goblin"
+      "comment": "(The goblin)"
     },
     {
       "cmd": "E",
@@ -177,7 +197,7 @@
         10,
         16
       ],
-      "comment": "Club"
+      "comment": "(a wooden club)"
     },
     {
       "cmd": "M",
@@ -187,7 +207,7 @@
         10,
         3516
       ],
-      "comment": "Goblin"
+      "comment": "(The goblin)"
     },
     {
       "cmd": "E",
@@ -197,7 +217,7 @@
         10,
         16
       ],
-      "comment": "Club"
+      "comment": "(a wooden club)"
     },
     {
       "cmd": "M",
@@ -207,7 +227,7 @@
         10,
         3518
       ],
-      "comment": "Goblin"
+      "comment": "(The goblin)"
     },
     {
       "cmd": "E",
@@ -217,7 +237,7 @@
         10,
         16
       ],
-      "comment": "Club"
+      "comment": "(a wooden club)"
     },
     {
       "cmd": "M",
@@ -227,7 +247,7 @@
         10,
         3556
       ],
-      "comment": "Goblin"
+      "comment": "(The goblin)"
     },
     {
       "cmd": "E",
@@ -237,7 +257,7 @@
         10,
         16
       ],
-      "comment": "Club"
+      "comment": "(a wooden club)"
     },
     {
       "cmd": "M",
@@ -247,7 +267,7 @@
         4,
         3551
       ],
-      "comment": "Lieutenant"
+      "comment": "(the goblin lieutenant)"
     },
     {
       "cmd": "E",
@@ -257,7 +277,7 @@
         10,
         16
       ],
-      "comment": "Small Sword"
+      "comment": "(a small sword)"
     },
     {
       "cmd": "M",
@@ -267,7 +287,7 @@
         4,
         3556
       ],
-      "comment": "Lieutenant"
+      "comment": "(the goblin lieutenant)"
     },
     {
       "cmd": "E",
@@ -277,7 +297,7 @@
         10,
         16
       ],
-      "comment": "Small Sword"
+      "comment": "(a small sword)"
     },
     {
       "cmd": "M",
@@ -287,7 +307,7 @@
         1,
         3556
       ],
-      "comment": "Leader"
+      "comment": "(the goblin leader)"
     },
     {
       "cmd": "E",
@@ -297,7 +317,7 @@
         10,
         16
       ],
-      "comment": "Small Spear"
+      "comment": "(a small spear)"
     },
     {
       "cmd": "M",
@@ -307,7 +327,7 @@
         1,
         3575
       ],
-      "comment": "Small Boy"
+      "comment": "(The small boy)"
     },
     {
       "cmd": "E",
@@ -317,7 +337,7 @@
         25,
         17
       ],
-      "comment": "Gyroscope"
+      "comment": "(the gyroscope)"
     },
     {
       "cmd": "M",
@@ -327,7 +347,7 @@
         1,
         3576
       ],
-      "comment": "Innkeeper"
+      "comment": "(the Innkeeper)"
     },
     {
       "cmd": "M",
@@ -337,7 +357,7 @@
         1,
         3577
       ],
-      "comment": "Bard"
+      "comment": "(the bard)"
     },
     {
       "cmd": "E",
@@ -347,7 +367,7 @@
         2,
         16
       ],
-      "comment": "Fine Long Sword"
+      "comment": "(a wooden club)"
     },
     {
       "cmd": "M",
@@ -357,7 +377,7 @@
         4,
         3584
       ],
-      "comment": "Horseman"
+      "comment": "(the dark horseman)"
     },
     {
       "cmd": "E",
@@ -367,7 +387,7 @@
         8,
         5
       ],
-      "comment": "Leather Jacket"
+      "comment": "(a studded leather jacket)"
     },
     {
       "cmd": "M",
@@ -377,7 +397,7 @@
         4,
         3584
       ],
-      "comment": "Horseman"
+      "comment": "(the dark horseman)"
     },
     {
       "cmd": "E",
@@ -387,7 +407,7 @@
         8,
         5
       ],
-      "comment": "Leather Jacket"
+      "comment": "(a studded leather jacket)"
     },
     {
       "cmd": "O",
@@ -397,7 +417,7 @@
         2,
         3521
       ],
-      "comment": "Mutilated Corpse"
+      "comment": "(a mutilated corpse)"
     },
     {
       "cmd": "O",
@@ -407,7 +427,7 @@
         1,
         3521
       ],
-      "comment": "Mutilated Corpse"
+      "comment": "(a mutilated corpse)"
     },
     {
       "cmd": "P",
@@ -417,7 +437,7 @@
         1,
         3506
       ],
-      "comment": "Ornate Dagger"
+      "comment": "(an ornate dagger)"
     },
     {
       "cmd": "O",
@@ -427,8 +447,8 @@
         2,
         3521
       ],
-      "comment": "Mutilated Corpse"
+      "comment": "(a mutilated corpse)"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/35.zon"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/35.zon"
 }

@@ -1,0 +1,21 @@
+{
+  "id": 17377,
+  "zone_id": 173,
+  "name": "Arthur's Chambers",
+  "description": "You have entered the private chambers of King Arthur. A dragon banner serves \nas a canopy and curtains for his large four posted bed. He has a marble \nbasin and a cherry desk and chair. A huge ermine rug lies on the floor. A \nstaircase winds downwards. Tapestries depicting him pulling Excalibur from \nthe stone, and his campaigns of unification adorn the walls.",
+  "header_raw": "173 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "A staircase winding downwards",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17376
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

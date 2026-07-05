@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Entrance To The Library",
   "description": "You are in the entrance to the great library of magic.  A giant desk is\nhere, covered with books parchments and scrolls.  Long shelves loaded with\nrow upon row of books stretch out in every direction as far as the eye can\nsee.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

@@ -1,0 +1,21 @@
+{
+  "id": 13546,
+  "zone_id": 135,
+  "name": "The Private Chambers",
+  "description": "This small room seems to have been carved by hand from the pancreas\nof Ancalador.  It has some amenities, like a soft bed and a small\nalchemist's workbench, but if the dragon is ever freed from his stone\nprison, he will surely be quite unhappy about this situation. The only\nexit is west.",
+  "header_raw": "135 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "Outside is the amphitheatre chamber.",
+      "keywords": "door coffin",
+      "door_flag": 1,
+      "key": -1,
+      "to": 13547
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

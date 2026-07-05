@@ -1,0 +1,29 @@
+{
+  "id": 32680,
+  "zone_id": 326,
+  "name": "skill 1",
+  "description": "&MBACKSTAB\n\n&c- &CClasses que aprendem: &GThief &w(&W26&w)\n&c- &CDelay: &R3 &crounds\n&c- &CDuracao: &cinstantanea\n&c- &CCondicao: &cexecutor e alvo nao podem estar lutando, arma especifica (tipo pierce)\n&c- &CDescricao: &cPermite Apunhalar um inimigo pelas costas, causando dano agravado.\n&c- &CSintaxe: &cbackstab <&Ralvo&c>\n           &cex.: backstab zombie",
+  "header_raw": "326 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 32681
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 32682
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/326.wld"
+}

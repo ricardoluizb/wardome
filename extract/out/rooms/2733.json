@@ -1,0 +1,29 @@
+{
+  "id": 2733,
+  "zone_id": 27,
+  "name": "Hobbit Road",
+  "description": "Yet another part of Hobbit Road.  To the west is the last section of Hobbit\nRoad.  You can go back to the small well to the east.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2732
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2734
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 22060,
+  "zone_id": 220,
+  "name": "The bedroom of Lilith",
+  "description": "There is a large sized bed in the center of the room with green curtains.\nOn the left side of the room is a small table, and on it a lamp. Lilith\nwas the prisoner of Kerjim, he loved her. She was forced to be locked in\nthis room until she agreed to bewed him. She has reached immortality and\nspends all of eternity in this room.",
+  "header_raw": "220 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22059
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/220.wld"
+}

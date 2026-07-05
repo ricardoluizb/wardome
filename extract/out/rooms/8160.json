@@ -1,0 +1,37 @@
+{
+  "id": 8160,
+  "zone_id": 81,
+  "name": "A Pale-Glowing Hall in Goblin-Town",
+  "description": "Not a pleasant place for a Sunday stroll! Wonder how far down you are?",
+  "header_raw": "81 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The hall leads north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8159
+    },
+    {
+      "dir": 2,
+      "description": "There is a bronze door to the south.",
+      "keywords": "door bronze",
+      "door_flag": 1,
+      "key": 8103,
+      "to": 8175
+    },
+    {
+      "dir": 3,
+      "description": "The hall glows to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8161
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

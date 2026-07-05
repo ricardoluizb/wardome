@@ -1,0 +1,45 @@
+{
+  "id": 17642,
+  "zone_id": 176,
+  "name": "The Big Intersection",
+  "description": "You are on the intersection of Impy Way and Swiftest Way.  To the north of\nyou is a big house.  Swiftest Way runs east and west, and Impy way continues\nsouth.  There are quite a few people on this intersection.",
+  "header_raw": "176 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the big house.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 665,
+      "to": 17643
+    },
+    {
+      "dir": 1,
+      "description": "Swiftest Way continues east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17646
+    },
+    {
+      "dir": 2,
+      "description": "Impy Way continues south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17637
+    },
+    {
+      "dir": 3,
+      "description": "Swiftest Way continues west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17649
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/176.wld"
+}

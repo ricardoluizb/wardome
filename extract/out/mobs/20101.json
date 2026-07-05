@@ -1,0 +1,12 @@
+{
+  "id": 20101,
+  "alias": "monk child",
+  "short_desc": "a monk child",
+  "long_desc": "A monk child is here sweeping the floor.",
+  "detailed_desc": "He is only a child, surely you will want to pick on someone your own size.",
+  "flags_raw": "204 0 500 E",
+  "stats1_raw": "60 -24 -9 1d1+5040 5d13+94",
+  "stats2_raw": "900 950039 7",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/201.mob"
+}

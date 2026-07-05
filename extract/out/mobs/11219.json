@@ -1,0 +1,12 @@
+{
+  "id": 11219,
+  "alias": "bear",
+  "short_desc": "a brown bear",
+  "long_desc": "A brown bear lumbers out from behind a table, blood on its fur.",
+  "detailed_desc": "This bear wandered into town a few days ago, and was astonished at the\nlack of resistance it met. It decided to devour the family that once lived\nhere, and has laired here since, enjoying the easy meals.",
+  "flags_raw": "42 0 0 E",
+  "stats1_raw": "35 -15 -8 1d1+3492 5d7+104",
+  "stats2_raw": "525 238782 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

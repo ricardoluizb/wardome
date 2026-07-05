@@ -1,0 +1,45 @@
+{
+  "id": 30102,
+  "zone_id": 301,
+  "name": "Good Soul's Last Vision",
+  "description": "Thus walking by where no life dwells, echoes of the damned consumes the deep\nof your soul, this is known as the last vision of good mortals.  By entering\nthe room, the cold, humid air shivers your bones, as you keep aproaching a\nstrange humming pool, made of bones, your will to live drowns in vain emotions\nof remote dead ends.  The lifeless cave walls are adorned with human body\nparts, which seem quite apropriated on the composition of the room.",
+  "header_raw": "301 8264 0",
+  "flags_text": "8264",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30104
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30100
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30101
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30103
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/301.wld"
+}

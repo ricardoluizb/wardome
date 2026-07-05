@@ -1,0 +1,21 @@
+{
+  "id": 29990,
+  "zone_id": 298,
+  "name": "Reaching the Fangorn forest",
+  "description": "Now you are between the end of the plains and the begining of a ancient forest,\nthe Fangorn Forest, that was here since middle earth had only a single center\nforest.  The forest s dark, and the trees are thick because of its age.  Odd\nsounds are coming from the north.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29989
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

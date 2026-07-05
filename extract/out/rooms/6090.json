@@ -2,9 +2,9 @@
   "id": 6090,
   "zone_id": 60,
   "name": "A Road Through The Plains",
-  "description": "You are on a dust covered east-west road through the western plains.  An\noccasional hunter or adventurer can be seen, heading to or from the forest.\nTo the east is the walled city, Midgaard, and to the west the road ends at\nthe head of a narrow trail into a large forest.",
-  "header_raw": "60 c 2",
-  "flags_text": "c",
+  "description": "You are on a dust covered east-west road through the western plains.  An\noccasional hunter or adventurer can be seen, heading to or from the forest.\nTo the east is the walled city, Wardome City, and to the west the road ends at\nthe head of a narrow trail into a large forest.",
+  "header_raw": "60 4 2",
+  "flags_text": "4",
   "sector": 2,
   "exits": [
     {

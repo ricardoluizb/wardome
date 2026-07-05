@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "A Hall",
   "description": "You stand at an intersection of the hallways.  Wooden corridors\nlead off in all directions except west, the garden of the palace\ncan be entered there.",
-  "header_raw": "54 d 0",
-  "flags_text": "d",
+  "header_raw": "54 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

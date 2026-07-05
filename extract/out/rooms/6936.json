@@ -1,0 +1,29 @@
+{
+  "id": 6936,
+  "zone_id": 69,
+  "name": "The Hallway",
+  "description": "You are walking down a hallway heading east.  The hallway leads a little\nmore to the east until it stops with a door to the north and east, and another\nhallway south.  There are no windows at all in this passageway, making it very\ndark and scary.  The stairs are to the west.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6937
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6935
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5741,
+  "zone_id": 57,
+  "name": "Orc Sleeping Quarters",
+  "description": "This room evidently serves as sleeping quarters for some of the foul Orcs\nthat reside in this place. Loud snoring echoes around this room, coming from\nits single sleeping occupant, who lies with his arms curled about an\ninteresting-looking box...",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "a corridor",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5740
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

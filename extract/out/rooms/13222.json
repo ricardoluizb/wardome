@@ -1,0 +1,45 @@
+{
+  "id": 13222,
+  "zone_id": 132,
+  "name": "The Court",
+  "description": "You are before a very large house.  The court continues east, south, and \nwest.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a large house",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13225
+    },
+    {
+      "dir": 1,
+      "description": "the court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13223
+    },
+    {
+      "dir": 2,
+      "description": "the court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13219
+    },
+    {
+      "dir": 3,
+      "description": "the court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13221
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

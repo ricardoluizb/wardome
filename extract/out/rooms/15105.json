@@ -1,0 +1,21 @@
+{
+  "id": 15105,
+  "zone_id": 150,
+  "name": "A Holding Cell",
+  "description": "This cell seems about the same as the others outside.  A small building,\nwhich looks as if it might be an outhouse, lies to the south, wedged right up\nagainst the side of the cell.",
+  "header_raw": "150 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door cell",
+      "door_flag": 1,
+      "key": -1,
+      "to": 15102
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/151.wld"
+}

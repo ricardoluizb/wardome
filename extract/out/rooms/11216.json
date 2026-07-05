@@ -1,0 +1,21 @@
+{
+  "id": 11216,
+  "zone_id": 112,
+  "name": "The Ruined Fruit Stand",
+  "description": "Piles of rotting fruit and vegetables are piled waist high in moldering\nsacks and broken wooden crates, creating the sickly sweet aroma of\ndecay you detected earlier. No one is present here; perhaps the sight and\nsmell of such decay was too much even for the ensorcelled townsfolk.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11215
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

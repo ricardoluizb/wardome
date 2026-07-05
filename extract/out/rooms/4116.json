@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Passage",
   "description": "You find yourself in quite an ordinary passageway which leads north\nand south.  It looks to be wide enough for two people to walk side by\nside with plenty of room.  The passage appears to be almost rectangular\nin form.  Far off to the south you can see the pinpoint of a light.",
-  "header_raw": "40 ad 3",
-  "flags_text": "ad",
+  "header_raw": "40 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

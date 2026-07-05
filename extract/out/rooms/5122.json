@@ -3,8 +3,8 @@
   "zone_id": 51,
   "name": "The Slave Chamber",
   "description": "The room is in shambles.  Straw is strewn all about the room as beds for\nthe unfortunate creatures who have fallen prey to drow imperialism.",
-  "header_raw": "51 ad 0",
-  "flags_text": "ad",
+  "header_raw": "51 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

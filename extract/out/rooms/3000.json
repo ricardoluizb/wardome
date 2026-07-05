@@ -3,8 +3,8 @@
   "zone_id": 30,
   "name": "The Reading Room",
   "description": "You are in a small, simple room which is mostly empty, save a few\nwooden desks and benches.  To the east you hear the bustle of the Temple\nof Midgaard, a sharp contrast to the relative quiet of this peaceful\nroom.",
-  "header_raw": "30 cdeh 0",
-  "flags_text": "cdeh",
+  "header_raw": "30 156 0",
+  "flags_text": "156",
   "sector": 0,
   "exits": [
     {
@@ -13,7 +13,7 @@
       "keywords": "",
       "door_flag": 0,
       "key": -1,
-      "to": 3001
+      "to": -1
     }
   ],
   "extra_descriptions": [],

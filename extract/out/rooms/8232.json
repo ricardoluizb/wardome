@@ -1,0 +1,37 @@
+{
+  "id": 8232,
+  "zone_id": 82,
+  "name": "The End Of A Corridor",
+  "description": "You are at the end of a corridor that is in the second floor, and you are\nglad that you dint see not even one bench. Far to the north you can see a\nstreet where many carriages are passing, it must be a carriage station. \nFrom here you can pass to the other corridor at east, or enter to what it \nlooks to be a room that is at you west.",
+  "header_raw": "82 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8231
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8233
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8236
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

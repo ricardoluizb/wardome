@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "Underground",
   "description": "The tunnel continues you west and east.  Hopefully you have a good sense\nof direction.",
-  "header_raw": "54 ad 1",
-  "flags_text": "ad",
+  "header_raw": "54 9 1",
+  "flags_text": "9",
   "sector": 1,
   "exits": [
     {

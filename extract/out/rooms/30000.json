@@ -1,0 +1,37 @@
+{
+  "id": 30000,
+  "zone_id": 300,
+  "name": "Grey Havens entrance",
+  "description": "You have entered the Grey Havens, one of the last elven realms in Middle Earth.\nThere is a guardpost here.  City walls stretch away southwest and northwest.  \nSuch measures are seldom needed nowadays, although who knows what the future\nmay hold.  A cemetery lies to the south.",
+  "header_raw": "300 1048584 1",
+  "flags_text": "1048584",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30084
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30001
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30003
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

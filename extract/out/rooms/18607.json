@@ -3,8 +3,8 @@
   "zone_id": 186,
   "name": "More Of The Hallway",
   "description": "Oh joy!  More of this annoying passage.  Perhaps there is something\nmore exciting through that door to the west?  Or you can keep searching\nthe hallways to the north or south.",
-  "header_raw": "186 d 0",
-  "flags_text": "d",
+  "header_raw": "186 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

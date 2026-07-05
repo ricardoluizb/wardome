@@ -1,0 +1,21 @@
+{
+  "id": 6625,
+  "zone_id": 66,
+  "name": "A secret passage",
+  "description": "Rats! Only this you can hear in this dark passage.",
+  "header_raw": "66 265 0",
+  "flags_text": "265",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "wall",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6618
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/66.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Art Exhibit",
   "description": "You are standing in the Sultan's tribute to the finer virtues.\nLarge paintings hang from the walls displaying nature scenes, nudes,\nand glorious victories in battle.  Strange scupltures rest on pedestals \nat each corner of the room and mirrors are placed in strategic locations\nso the viewer may see an entire sculpture at a glance.\n   Your eyes, however, are pulled towards a painting that dominates the\nfar wall.",
-  "header_raw": "54 d 0",
-  "flags_text": "d",
+  "header_raw": "54 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

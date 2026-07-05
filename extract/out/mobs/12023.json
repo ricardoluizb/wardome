@@ -4,9 +4,9 @@
   "short_desc": "the master scheduler",
   "long_desc": "The master scheduler is here, writing in an appointment book.",
   "detailed_desc": "As you look at him, he looks up at you and asks, 'Do you have an\nappointment?'  He waits for a few seconds and then asks, 'Would\nyou like one?'",
-  "flags_raw": "bl 0 900 S",
-  "stats1_raw": "17 3 0 4d4+210 1d6+9",
-  "stats2_raw": "3000 28000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "2058 0 900 E",
+  "stats1_raw": "23 9 6 1d1+477 5d3+8",
+  "stats2_raw": "345 53243 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/120.mob"
 }

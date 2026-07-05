@@ -1,0 +1,29 @@
+{
+  "id": 8271,
+  "zone_id": 82,
+  "name": "The French Cafeteria",
+  "description": "You are in a French cafeteria that is located inside the Musketeer H.Q.,\nthis place has many tables, and chairs where the soldiers who protect the\nking sits and drink a coffee, or eats something before going to work.",
+  "header_raw": "82 152 0",
+  "flags_text": "152",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8270
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

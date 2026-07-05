@@ -1,0 +1,21 @@
+{
+  "id": 9713,
+  "zone_id": 97,
+  "name": "Kitchen",
+  "description": "You have entered the kitchen of this castle, and it is a hotbed of\nactivity.  Servants are bustling about, preparing food for the Gods themselves.",
+  "header_raw": "97 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9712
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/97.wld"
+}

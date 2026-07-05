@@ -3,8 +3,8 @@
   "zone_id": 186,
   "name": "A Bright Hallway",
   "description": "Wow!  What a change from the dismal passage to the south.  Whoever\nkeeps this room up must really like newbies.  The walls and floor are\nclean, and tastefully decorated.  You also notice an interesting design\non the floor.",
-  "header_raw": "186 ad 0",
-  "flags_text": "ad",
+  "header_raw": "186 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

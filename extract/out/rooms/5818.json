@@ -1,0 +1,29 @@
+{
+  "id": 5818,
+  "zone_id": 57,
+  "name": "A Room",
+  "description": "You have entered a sleeping room of some sort. Juding by the smell, the only\ncreatures that ever rest here are undead ones...There is a tatty wall-hanging\none one wall that has a faded representation of the Mountain woven into it,\nand some scraps of cloth on the other wall contained some image that no-one\nwill ever see again.\n\nA small door is set into the north wall.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a corridor",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5819
+    },
+    {
+      "dir": 2,
+      "description": "a corridor",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5817
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1107,
+  "alias": "oldstyle chicken",
+  "short_desc": "a chicken",
+  "long_desc": "A chicken sits on her nest.",
+  "detailed_desc": "The chicken is bright and healthy.  She has no weapons but her beak.",
+  "flags_raw": "72 0 0 E",
+  "stats1_raw": "80 -24 -5 1d1+3516 5d9+52",
+  "stats2_raw": "1200 1904261 2",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/11.mob"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 7848,
+  "zone_id": 78,
+  "name": "Study",
+  "description": "You are in the study room of the valley elves.  Comfortable mats are on the\nfloor, and musical instruments are neatly stacked on shelves.  Books in\nstrange languages line some other elves.  A stairway leads down to the\nfirst floor.",
+  "header_raw": "78 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see another room.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 7804,
+      "to": 7846
+    },
+    {
+      "dir": 3,
+      "description": "You see another room.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7847
+    },
+    {
+      "dir": 5,
+      "description": "You see the first floor.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7839
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/78.wld"
+}

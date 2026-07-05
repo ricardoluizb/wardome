@@ -1,0 +1,37 @@
+{
+  "id": 14387,
+  "zone_id": 143,
+  "name": "A T-Junction",
+  "description": "The corridors meet in a T here, with exits to the north, south, and west.\nThere is nothing else of interest here.",
+  "header_raw": "143 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A passage leads north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14389
+    },
+    {
+      "dir": 2,
+      "description": "A dark passage is south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14388
+    },
+    {
+      "dir": 3,
+      "description": "The passage continues west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14386
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

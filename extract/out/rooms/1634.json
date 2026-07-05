@@ -1,0 +1,21 @@
+{
+  "id": 1634,
+  "zone_id": 16,
+  "name": "A Large Murky Cellar",
+  "description": "You are in a large, murky cellar. An almost tangible air of horror pervades\nthe room.  A thin layer of nitre covers the walls and ceiling.  Rotting\nfurniture looms obliquely about the room.",
+  "header_raw": "16 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 1,
+      "key": -1,
+      "to": 1632
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

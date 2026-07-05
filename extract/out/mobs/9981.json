@@ -1,0 +1,12 @@
+{
+  "id": 9981,
+  "alias": "ghenna dead dwarf",
+  "short_desc": "the Dwarf",
+  "long_desc": "A dwarf is here, near death.",
+  "detailed_desc": "You see nothing special.",
+  "flags_raw": "10 524288 1000 E",
+  "stats1_raw": "30 3 4 1d1+1080 5d4+22",
+  "stats2_raw": "450 128594 1",
+  "stats3_raw": "6 6 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/99.mob"
+}

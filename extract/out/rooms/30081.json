@@ -1,0 +1,29 @@
+{
+  "id": 30081,
+  "zone_id": 300,
+  "name": "An elven home",
+  "description": "A standard living room in a Grey Havens house.  A furry carpet covers the\nfloor, upon which is a leather couch, some wooden chairs and a large table.  \nIt is an extremely uninteresting home.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30080
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30082
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

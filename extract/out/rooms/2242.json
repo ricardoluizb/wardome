@@ -1,0 +1,29 @@
+{
+  "id": 2242,
+  "zone_id": 22,
+  "name": "The path continues",
+  "description": "The path continues up the mountain to the top.  The path also goes down.\nThats it, nothing more to see.",
+  "header_raw": "22 64 2",
+  "flags_text": "64",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "top of the mountain",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2243
+    },
+    {
+      "dir": 5,
+      "description": "path",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2240
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

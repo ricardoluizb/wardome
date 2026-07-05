@@ -1,0 +1,21 @@
+{
+  "id": 827,
+  "zone_id": 7,
+  "name": "Passageway",
+  "description": "The passageway leads away to the north, and you feel you have\nchosen correctly again.  What luck!",
+  "header_raw": "7 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 828
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 11288,
+  "zone_id": 112,
+  "name": "A Dusty Storeroom",
+  "description": "Beneath the old inn lies a storeroom, used to store items such as\ncasks of wine, barrels of ale and mead, and dried meats. Judging by\nthe thick layer of dust and cobwebs, it has not been frequented\nrecently. Some of those cobwebs look pretty big; you wonder what sort\nof spider spun webs with strands as thick as an ogre's wrist...",
+  "header_raw": "112 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "boulder",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11287
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "trapdoor",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11294
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

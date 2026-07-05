@@ -1,0 +1,42 @@
+{
+  "id": 17345,
+  "zone_id": 173,
+  "name": "Corner of Knight's Way and Squire's Run",
+  "description": "You stand at the corner of Knight's way and Squire's run. An arched \ndoorway rises up into a stalwart tower. You can see lettering above the \narch.  Knight's way continues south, and Squire's Run heads east.",
+  "header_raw": "173 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Squire's Run",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17350
+    },
+    {
+      "dir": 2,
+      "description": "Knight's Way",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17342
+    },
+    {
+      "dir": 4,
+      "description": "Tower of Valor",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17351
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "writing arch",
+      "description": "You look at the engraved words:\n\n    FORWARD TO VICTORY"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

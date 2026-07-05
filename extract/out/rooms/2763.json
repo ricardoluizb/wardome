@@ -1,0 +1,29 @@
+{
+  "id": 2763,
+  "zone_id": 27,
+  "name": "Bree Playground",
+  "description": "You are in the playground of Bree.  This is where the children come to frolic\nand play.  The energy shown by these children makes you think about renting a\nroom at the the Prancing Pony.  The playground is covered with grass and large\ntrees provide more than adequate shade for a hot summer Bree day.    \nYou see a sandbox where children can dig around and play.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2762
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2764
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

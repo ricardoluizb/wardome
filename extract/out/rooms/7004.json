@@ -3,8 +3,8 @@
   "zone_id": 70,
   "name": "The Dark Pit",
   "description": "You are standing by the edge of a dark pit that leads down into even\ndeeper darkness.  >BWWAAADDRR< - The smell from down there is unbearable.\nThe sewer stretches into the darkness to the east.",
-  "header_raw": "70 ad 0",
-  "flags_text": "ad",
+  "header_raw": "70 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

@@ -1,0 +1,21 @@
+{
+  "id": 11211,
+  "zone_id": 112,
+  "name": "An Empty House",
+  "description": "This comfortable little dwelling boasts several plush easy chairs, a\nsmall table covered in trinkets, a cupboard stacked with all manner of\ncups and saucers, and a hearth, which has been packed for a cheery blaze.\nThere is no sign of any occupants, however, nor does anyone come running\nwhen you yell out. Shrugging, you settle down in one of the chairs to\nrest for a short while.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11209
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

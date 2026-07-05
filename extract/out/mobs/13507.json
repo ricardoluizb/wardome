@@ -1,0 +1,12 @@
+{
+  "id": 13507,
+  "alias": "hermit",
+  "short_desc": "the hermit",
+  "long_desc": "A Hermit, starved for company, is here.",
+  "detailed_desc": "Although raving mad, the hermit has come out of his isolation since he\nhas not spoken with anyone for ages.  The shaggy hermit draws you over\nand begins to tell a strange tale,\n\n       'Some 600 years ago, when I was but a lad, a great dragon\n\truled the land.  His name was Ancalador.  Many heroes came\n\tto do battle with him, but all failed and died, horribly,\n\tI imagine.  But one wizard challenged the Drake to a magic\n\tduel.  He too died, like the others, but with his last\n\tbreath, the wizard turned the mighty Ancalador to stone!\n\tMany believed the dragon's evil reign ended, but after the\n\tdancing and drinking were over, and life returned to its\n\tquiet pace, the people began to notice that the Dragon's\n\tpresence could still be felt.  Ancalador did, in fact,\n\tcontinue to rule from his petrified prison through the \n\tmanipulation of the minds of men.  Indeed, he has done so\n\tto this day.  Many believe he is plotting the day he can\n        return in the flesh, so to speak...'\n\nWith that the Hermit begins to cackle madly, tears running down his\nleathery face.\nYou can get no more out of him.",
+  "flags_raw": "10 0 500 E",
+  "stats1_raw": "15 -5 -5 1d1+1500 5d3+96",
+  "stats2_raw": "225 30382 9",
+  "stats3_raw": "8 8 0 11 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/135.mob"
+}

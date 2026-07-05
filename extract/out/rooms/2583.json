@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "A Bend In The Hallway",
   "description": "You are at a bend in a long hallway.  The walls emit a faint magical\nglow which provides enough light to see by.\n   The hallway continues north and east.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

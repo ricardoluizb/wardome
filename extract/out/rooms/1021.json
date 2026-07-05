@@ -1,0 +1,21 @@
+{
+  "id": 1021,
+  "zone_id": 10,
+  "name": "A Monk's Room",
+  "description": "This room is a complete shambles.  What looks to have once been\na bed of some sort is now lying in pieces which are scattered about\nthe small room.  There is a shattered wooden door lying near the\ndoorway to the west.  It almost looks as if the door was bashed in.\nOther than the shards of wood lying about the room, there is nothing\nelse out of order, no blood, no material caught anywhere, just the\nbroken wood.",
+  "header_raw": "10 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "You can see darkness outside the door.  Not much of a change from\nwhat is in here.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1020
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

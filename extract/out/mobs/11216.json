@@ -1,0 +1,12 @@
+{
+  "id": 11216,
+  "alias": "zombie badwick",
+  "short_desc": "the zombie of Badwick",
+  "long_desc": "A decaying corpse lurches across the dusty workshop!",
+  "detailed_desc": "Poor Badwick has certainly seen better days; such was the anguish and\nunnatural nature of his death that the body refused to die, and cannot\nnow rest.",
+  "flags_raw": "106 40 0 E",
+  "stats1_raw": "35 -15 -8 1d1+3492 5d7+104",
+  "stats2_raw": "525 238782 9",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 14363,
+  "zone_id": 143,
+  "name": "Tomb of the Great Pharaoh Tutankahmen",
+  "description": "This is the burial chamber of the well known and respected pharaoh Tutankahmen.\nThe walls are etched with sacred golden symbols and the coffin itself is made \nof one continuous piece of melded gold. Most of the fabled treasures which were\nsupposedly buried with this king have been stolen long ago by grave robbers, \nbut enough has still been left here to make anyone prosperous.",
+  "header_raw": "143 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "There is only darkness ahead.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14362
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

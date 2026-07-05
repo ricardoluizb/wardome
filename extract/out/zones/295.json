@@ -1,0 +1,3144 @@
+{
+  "id": 295,
+  "name": "The Ilium",
+  "header": {
+    "raw": "29699 40 2 17",
+    "min_room": 29699,
+    "top_room": 40,
+    "lifespan": 2,
+    "reset_mode": 17
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29500,
+        1,
+        29535
+      ],
+      "comment": "(Ajax)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        29520,
+        1,
+        29535
+      ],
+      "comment": "(a cot)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        29506,
+        1,
+        29535
+      ],
+      "comment": "(a goblet of watered wine)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        29507,
+        1,
+        29535
+      ],
+      "comment": "(a board game)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29501,
+        1,
+        29534
+      ],
+      "comment": "(Achilles)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29508,
+        30,
+        5
+      ],
+      "comment": "(&gAchilles' &YB&yreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29509,
+        30,
+        7
+      ],
+      "comment": "(&gAchilles' &YG&yreaves&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29510,
+        30,
+        6
+      ],
+      "comment": "(&gAchilles' &YH&yelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29511,
+        30,
+        16
+      ],
+      "comment": "(&gAchilles' &YS&yword&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29515,
+        30,
+        11
+      ],
+      "comment": "(&gAchilles' &YS&yhield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29506,
+        1,
+        29534
+      ],
+      "comment": "(Patroclus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29502,
+        30,
+        11
+      ],
+      "comment": "(&wan &WO&wx &WH&wide &WS&whield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29503,
+        30,
+        6
+      ],
+      "comment": "(&wa &yBoar &YTusk &yHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29504,
+        99,
+        5
+      ],
+      "comment": "(a leather jerkin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29502,
+        1,
+        29555
+      ],
+      "comment": "(King Odysseus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29503,
+        1,
+        29542
+      ],
+      "comment": "(King Agamemnon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29504,
+        1,
+        29538
+      ],
+      "comment": "(King Nestor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29505,
+        1,
+        29541
+      ],
+      "comment": "(King Menelaus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29507,
+        1,
+        29598
+      ],
+      "comment": "(Paris)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29508,
+        1,
+        29596
+      ],
+      "comment": "(Hector)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29509,
+        1,
+        29597
+      ],
+      "comment": "(King Priam)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29510,
+        1,
+        29589
+      ],
+      "comment": "(Aeneas)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29511,
+        1,
+        29598
+      ],
+      "comment": "(Helen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29513,
+        50,
+        16
+      ],
+      "comment": "(&ya Bronze &YDagger&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29512,
+        1,
+        29600
+      ],
+      "comment": "(Cassandra)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29513,
+        50,
+        16
+      ],
+      "comment": "(&ya Bronze &YDagger&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29513,
+        1,
+        29596
+      ],
+      "comment": "(Andromache)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29513,
+        50,
+        16
+      ],
+      "comment": "(&ya Bronze &YDagger&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29514,
+        1,
+        29597
+      ],
+      "comment": "(Hecabe)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29513,
+        50,
+        16
+      ],
+      "comment": "(&ya Bronze &YDagger&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29515,
+        1,
+        29531
+      ],
+      "comment": "(Automedon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29502,
+        30,
+        11
+      ],
+      "comment": "(&wan &WO&wx &WH&wide &WS&whield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29503,
+        30,
+        6
+      ],
+      "comment": "(&wa &yBoar &YTusk &yHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29504,
+        99,
+        5
+      ],
+      "comment": "(a leather jerkin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29516,
+        1,
+        29546
+      ],
+      "comment": "(Aias)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29502,
+        30,
+        11
+      ],
+      "comment": "(&wan &WO&wx &WH&wide &WS&whield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29503,
+        30,
+        6
+      ],
+      "comment": "(&wa &yBoar &YTusk &yHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29504,
+        99,
+        5
+      ],
+      "comment": "(a leather jerkin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29517,
+        1,
+        29542
+      ],
+      "comment": "(Chalcas)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29518,
+        1,
+        29579
+      ],
+      "comment": "(Chryseis)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29513,
+        50,
+        16
+      ],
+      "comment": "(&ya Bronze &YDagger&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29519,
+        1,
+        29542
+      ],
+      "comment": "(Briseis)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29520,
+        1,
+        29538
+      ],
+      "comment": "(Antilochus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29521,
+        1,
+        29538
+      ],
+      "comment": "(Thrasymedes)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29522,
+        1,
+        29557
+      ],
+      "comment": "(King Diomedes)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29523,
+        1,
+        29563
+      ],
+      "comment": "(Eurypylus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29524,
+        1,
+        29550
+      ],
+      "comment": "(King Idomeneus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29525,
+        1,
+        29543
+      ],
+      "comment": "(Machaon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29526,
+        1,
+        29551
+      ],
+      "comment": "(Menestheus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29527,
+        1,
+        29567
+      ],
+      "comment": "(Meriones)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29528,
+        1,
+        29557
+      ],
+      "comment": "(Sthenelus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29529,
+        1,
+        29540
+      ],
+      "comment": "(Talthybius)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29530,
+        1,
+        29554
+      ],
+      "comment": "(the greater Aias)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29531,
+        1,
+        29559
+      ],
+      "comment": "(Thersites)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29532,
+        1,
+        29553
+      ],
+      "comment": "(Tleopolemus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29533,
+        1,
+        29581
+      ],
+      "comment": "(Antenor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29513,
+        50,
+        16
+      ],
+      "comment": "(&ya Bronze &YDagger&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29534,
+        1,
+        29584
+      ],
+      "comment": "(Deiphobus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29535,
+        1,
+        29587
+      ],
+      "comment": "(Glaucus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29536,
+        1,
+        29599
+      ],
+      "comment": "(Helenus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29513,
+        50,
+        16
+      ],
+      "comment": "(&ya Bronze &YDagger&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29537,
+        1,
+        29561
+      ],
+      "comment": "(Neoptolemus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29538,
+        1,
+        29592
+      ],
+      "comment": "(Idaeus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29539,
+        1,
+        29578
+      ],
+      "comment": "(Pandarus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29517,
+        30,
+        16
+      ],
+      "comment": "(&wa &yStone &wAxe&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29540,
+        1,
+        29581
+      ],
+      "comment": "(Polydamas)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29541,
+        1,
+        29587
+      ],
+      "comment": "(King Sarpedon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29519,
+        99,
+        6
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29514,
+        99,
+        11
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29505,
+        99,
+        5
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29516,
+        99,
+        8
+      ],
+      "comment": "(a pair of sandals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29542,
+        16,
+        29536
+      ],
+      "comment": "(an Achaean soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29502,
+        30,
+        11
+      ],
+      "comment": "(&wan &WO&wx &WH&wide &WS&whield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29503,
+        30,
+        6
+      ],
+      "comment": "(&wa &yBoar &YTusk &yHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29504,
+        99,
+        5
+      ],
+      "comment": "(a leather jerkin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29542,
+        16,
+        29548
+      ],
+      "comment": "(an Achaean soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29502,
+        30,
+        11
+      ],
+      "comment": "(&wan &WO&wx &WH&wide &WS&whield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29503,
+        30,
+        6
+      ],
+      "comment": "(&wa &yBoar &YTusk &yHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29504,
+        99,
+        5
+      ],
+      "comment": "(a leather jerkin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29542,
+        16,
+        29566
+      ],
+      "comment": "(an Achaean soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29502,
+        30,
+        11
+      ],
+      "comment": "(&wan &WO&wx &WH&wide &WS&whield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29503,
+        30,
+        6
+      ],
+      "comment": "(&wa &yBoar &YTusk &yHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29504,
+        99,
+        5
+      ],
+      "comment": "(a leather jerkin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29542,
+        16,
+        29568
+      ],
+      "comment": "(an Achaean soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29502,
+        30,
+        11
+      ],
+      "comment": "(&wan &WO&wx &WH&wide &WS&whield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29503,
+        30,
+        6
+      ],
+      "comment": "(&wa &yBoar &YTusk &yHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29504,
+        99,
+        5
+      ],
+      "comment": "(a leather jerkin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29543,
+        12,
+        29571
+      ],
+      "comment": "(a Trojan soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29502,
+        30,
+        11
+      ],
+      "comment": "(&wan &WO&wx &WH&wide &WS&whield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29503,
+        30,
+        6
+      ],
+      "comment": "(&wa &yBoar &YTusk &yHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29504,
+        99,
+        5
+      ],
+      "comment": "(a leather jerkin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29543,
+        12,
+        29577
+      ],
+      "comment": "(a Trojan soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29502,
+        30,
+        11
+      ],
+      "comment": "(&wan &WO&wx &WH&wide &WS&whield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29503,
+        30,
+        6
+      ],
+      "comment": "(&wa &yBoar &YTusk &yHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29504,
+        99,
+        5
+      ],
+      "comment": "(a leather jerkin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29543,
+        12,
+        29583
+      ],
+      "comment": "(a Trojan soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29502,
+        30,
+        11
+      ],
+      "comment": "(&wan &WO&wx &WH&wide &WS&whield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29503,
+        30,
+        6
+      ],
+      "comment": "(&wa &yBoar &YTusk &yHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29504,
+        99,
+        5
+      ],
+      "comment": "(a leather jerkin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29543,
+        12,
+        29585
+      ],
+      "comment": "(a Trojan soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29500,
+        99,
+        16
+      ],
+      "comment": "(a short thrusting spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29501,
+        99,
+        17
+      ],
+      "comment": "(a long throwing spear)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29502,
+        30,
+        11
+      ],
+      "comment": "(&wan &WO&wx &WH&wide &WS&whield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29503,
+        30,
+        6
+      ],
+      "comment": "(&wa &yBoar &YTusk &yHelm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29504,
+        99,
+        5
+      ],
+      "comment": "(a leather jerkin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29544,
+        6,
+        29578
+      ],
+      "comment": "(a Trojan citizen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29512,
+        50,
+        16
+      ],
+      "comment": "(&ya Bronze &YSword&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29545,
+        6,
+        29578
+      ],
+      "comment": "(a Trojan citizen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29513,
+        50,
+        16
+      ],
+      "comment": "(&ya Bronze &YDagger&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29544,
+        6,
+        29584
+      ],
+      "comment": "(a Trojan citizen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29512,
+        50,
+        16
+      ],
+      "comment": "(&ya Bronze &YSword&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29545,
+        6,
+        29584
+      ],
+      "comment": "(a Trojan citizen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29513,
+        50,
+        16
+      ],
+      "comment": "(&ya Bronze &YDagger&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29544,
+        6,
+        29591
+      ],
+      "comment": "(a Trojan citizen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29512,
+        50,
+        16
+      ],
+      "comment": "(&ya Bronze &YSword&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29545,
+        6,
+        29593
+      ],
+      "comment": "(a Trojan citizen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29513,
+        50,
+        16
+      ],
+      "comment": "(&ya Bronze &YDagger&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        29520,
+        17,
+        29539
+      ],
+      "comment": "(a cot)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        29506,
+        17,
+        29539
+      ],
+      "comment": "(a goblet of watered wine)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        29507,
+        17,
+        29539
+      ],
+      "comment": "(a board game)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        29518,
+        7,
+        29531
+      ],
+      "comment": "(a banner)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        29518,
+        7,
+        29532
+      ],
+      "comment": "(a banner)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        29518,
+        7,
+        29533
+      ],
+      "comment": "(a banner)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        29518,
+        7,
+        29537
+      ],
+      "comment": "(a banner)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        29518,
+        7,
+        29540
+      ],
+      "comment": "(a banner)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        29518,
+        7,
+        29549
+      ],
+      "comment": "(a banner)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        29518,
+        7,
+        29552
+      ],
+      "comment": "(a banner)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/295.zon"
+}

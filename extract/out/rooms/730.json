@@ -1,0 +1,37 @@
+{
+  "id": 730,
+  "zone_id": 7,
+  "name": "Business Road, South",
+  "description": "Shops line this road , some open and some closed.  Northwards you\nsee the intersection of of Center Road and Business Road, and\nsouthwards is another intersection--Business Road and Moon Gate Road.\n   There is a shop to the west, a dirty sign proclaiming it 'OPEN'.",
+  "header_raw": "7 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 724
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 729
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 847
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

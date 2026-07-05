@@ -1,0 +1,21 @@
+{
+  "id": 10441,
+  "zone_id": 104,
+  "name": "Hidden Room",
+  "description": "This is a long forgotten room. Ancient torture equipment stands around\ncollecting dust. Most of this stuff was probably replace with modern\nhi tech torture devices and for sentimental reasons wasn't thrown away.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "It's too dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10451
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

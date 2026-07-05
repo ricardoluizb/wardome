@@ -1,0 +1,29 @@
+{
+  "id": 203,
+  "zone_id": 2,
+  "name": "A Tunnel",
+  "description": "This tunnel is filled with water.  There are exits to the east and west.\nThe tunnel stretches off in both directions.",
+  "header_raw": "2 9 6",
+  "flags_text": "9",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The tunnel stretches off to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 204
+    },
+    {
+      "dir": 3,
+      "description": "The tunnel stretches off to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 202
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/2.wld"
+}

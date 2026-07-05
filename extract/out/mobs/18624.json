@@ -1,0 +1,12 @@
+{
+  "id": 18624,
+  "alias": "kenshin",
+  "short_desc": "Kenshin",
+  "long_desc": "Kenshin, an old samurai, is here ready to die.",
+  "detailed_desc": "You look for Kenshin, an old samurai, waiting for someone who can help him.\nHe is an experienced man, and always killed in name of justice and freedom.\nNow this elder wants somebody to recompensate him for all that he made.",
+  "flags_raw": "81930 32768 800 E",
+  "stats1_raw": "150 -55 -12 1d1+4200 5d16+60",
+  "stats2_raw": "2250 9371548 0",
+  "stats3_raw": "8 8 1 6 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/186.mob"
+}

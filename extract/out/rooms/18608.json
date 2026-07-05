@@ -2,9 +2,9 @@
   "id": 18608,
   "zone_id": 186,
   "name": "An Open Field By The Great Field",
-  "description": "Finally, you are in an open field... it is so nice to breathe fresh air\nagain!  You can return to that dank, smelly place to the east, or take the\nexit to the north which appears to lead into a large field.",
-  "header_raw": "186 c 0",
-  "flags_text": "c",
+  "description": "Finally, you are in an open field... it is so nice to breathe fresh air\nagain!  You can return to that dank, smelly place to the east, or take the\nexit to the north wich appears to a laneway.",
+  "header_raw": "186 4 0",
+  "flags_text": "4",
   "sector": 0,
   "exits": [
     {
@@ -13,7 +13,7 @@
       "keywords": "",
       "door_flag": 0,
       "key": -1,
-      "to": 3061
+      "to": 3502
     },
     {
       "dir": 1,

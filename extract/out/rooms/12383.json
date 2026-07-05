@@ -1,0 +1,29 @@
+{
+  "id": 12383,
+  "zone_id": 122,
+  "name": "Niflheim",
+  "description": "Your every sense is assaulted and offended by this realm of the dead;\nit is more than that even, it is a realm of the damned, those totally\ndevoid of any hope of redemption. No one would willingly reside in\nsuch a place, except as its dark master, which Hel is. She is aware\nof all who pass through her realm, and most likely lies in wait not\nfar away, eager to teach you a well-deserved lesson.",
+  "header_raw": "122 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12381
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12384
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

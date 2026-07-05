@@ -3,8 +3,8 @@
   "zone_id": 72,
   "name": "The End Of The Drain",
   "description": "You are at the end of the drain around you the sewer has collapsed, the\nonly exit is west.",
-  "header_raw": "72 ad 3",
-  "flags_text": "ad",
+  "header_raw": "72 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

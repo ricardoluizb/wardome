@@ -1,0 +1,21 @@
+{
+  "id": 13073,
+  "zone_id": 130,
+  "name": "Dagger's Adept Room",
+  "description": "Here is a beautiful room, you see ten beds here and some pictures\nof neautiful naked women.  Here is the room where a elite group of the\nthieve's lair called Dagger's Adept sleep.  The exit is to the west.",
+  "header_raw": "130 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "Bronze Door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 13072
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

@@ -4,9 +4,9 @@
   "short_desc": "the merman",
   "long_desc": "There is a merman swimming here brandishing his trident at you!",
   "detailed_desc": "The merman has a powerful tail fin instead of legs.",
-  "flags_raw": "bflmnoq dkpst 350 S",
-  "stats1_raw": "5 14 5 5d5+65 2d4+2",
-  "stats2_raw": "1500 1000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "96298 820232 350 E",
+  "stats1_raw": "20 -4 -3 1d1+1680 5d5+78",
+  "stats2_raw": "300 51409 7",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/9.mob"
 }

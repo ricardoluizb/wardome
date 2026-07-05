@@ -1,0 +1,21 @@
+{
+  "id": 812,
+  "zone_id": 7,
+  "name": "Passageway",
+  "description": "You drop from the now-vanishing trapdoor above to this new passage.\nIt runs to the east.  You begin to wonder if you'll ever see Kerofk\nagain...  this maze is awful!",
+  "header_raw": "7 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 813
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

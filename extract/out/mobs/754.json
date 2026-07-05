@@ -1,0 +1,12 @@
+{
+  "id": 754,
+  "alias": "Bartender",
+  "short_desc": "the Bartender",
+  "long_desc": "The Bartender pours drinks several at a time to keep up with the rush.",
+  "detailed_desc": "The Bartender looks harried as he tries to keep up with several\ndifferent orders at the same time.  Maybe you should bother him\nlater...",
+  "flags_raw": "24586 128 250 E",
+  "stats1_raw": "30 -5 -2 1d1+2040 5d7+62",
+  "stats2_raw": "450 137671 5",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

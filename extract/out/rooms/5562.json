@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Northeast Tower",
   "description": "You stand on one of the four towers guarding the city.  To the north\nyou see the wide plains and then the forset.  South of here you see the\ncity and the Great Eastern Desert beyond.",
-  "header_raw": "54 d 0",
-  "flags_text": "d",
+  "header_raw": "54 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

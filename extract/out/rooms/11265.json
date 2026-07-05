@@ -1,0 +1,29 @@
+{
+  "id": 11265,
+  "zone_id": 112,
+  "name": "A Ravaged Corridor",
+  "description": "Once the site of beautiful paintings and elegantly carved sculptures,\nthis wing of the temple is now a scene of carnage and destruction. Dead\npriests, some of whom appear to have been partially devoured, litter\nthe floor, as well as the corpses of rats, goblins and other fecund\ncreatures. A vile smell, the unmistakable stench of death, fills the\nair.\n\nWhat used to be the confessionary lies to the east.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11264
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11261
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

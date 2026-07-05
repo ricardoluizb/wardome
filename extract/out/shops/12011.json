@@ -7,13 +7,15 @@
     3023,
     3024,
     3025,
-    12008
+    12008,
+    12034
   ],
   "profit_buy": 2.25,
   "profit_sell": 0.6,
   "buy_types": [
-    "WEAPON",
-    "ARMOR"
+    "5",
+    "9",
+    "11"
   ],
   "messages": [
     "%s We are out of that item right now.",
@@ -26,7 +28,7 @@
   ],
   "tail": [
     0,
-    0,
+    2,
     12011,
     0,
     12006,
@@ -36,5 +38,5 @@
     0,
     0
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/shp/120.shp"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/120.shp"
 }

@@ -1,0 +1,364 @@
+{
+  "id": 18,
+  "name": "The Little Haven",
+  "header": {
+    "raw": "1833 30 2 1 -1",
+    "min_room": 1833,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1803,
+        1,
+        1805
+      ],
+      "comment": "(The giant polar bear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1802,
+        4,
+        1807
+      ],
+      "comment": "(The gnome guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1802,
+        4,
+        1807
+      ],
+      "comment": "(The gnome guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1801,
+        10,
+        1810
+      ],
+      "comment": "(The busy gnome)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1801,
+        10,
+        1811
+      ],
+      "comment": "(The busy gnome)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1801,
+        10,
+        1812
+      ],
+      "comment": "(The busy gnome)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1810,
+        10,
+        1812
+      ],
+      "comment": "(The thief)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1801,
+        10,
+        1813
+      ],
+      "comment": "(The busy gnome)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1801,
+        10,
+        1814
+      ],
+      "comment": "(The busy gnome)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1807,
+        5,
+        1814
+      ],
+      "comment": "(The cold frost giant)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1806,
+        10,
+        -1
+      ],
+      "comment": "(a fuschia potion)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1807,
+        5,
+        1818
+      ],
+      "comment": "(The cold frost giant)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1806,
+        10,
+        -1
+      ],
+      "comment": "(a fuschia potion)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1806,
+        1,
+        1819
+      ],
+      "comment": "(The Snow Queen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1804,
+        1,
+        11
+      ],
+      "comment": "(The Shield of the South Wind)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1804,
+        4,
+        17
+      ],
+      "comment": "(The Shield of the South Wind)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1809,
+        1,
+        1820
+      ],
+      "comment": "(The master herbal)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1805,
+        10,
+        -1
+      ],
+      "comment": "(a sprig of mints)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1807,
+        5,
+        1821
+      ],
+      "comment": "(The cold frost giant)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1806,
+        10,
+        -1
+      ],
+      "comment": "(a fuschia potion)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1804,
+        1,
+        1824
+      ],
+      "comment": "(The white dragon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1802,
+        2,
+        17
+      ],
+      "comment": "(a wand of fire)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1805,
+        1,
+        1825
+      ],
+      "comment": "(The blue dragon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1803,
+        2,
+        16
+      ],
+      "comment": "(a flaming axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1807,
+        5,
+        1827
+      ],
+      "comment": "(The cold frost giant)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1806,
+        10,
+        -1
+      ],
+      "comment": "(a fuschia potion)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1807,
+        5,
+        1827
+      ],
+      "comment": "(The cold frost giant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1808,
+        1,
+        1828
+      ],
+      "comment": "(The white mistress)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1808,
+        1,
+        1828
+      ],
+      "comment": "(The white mistress)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1803,
+        2,
+        16
+      ],
+      "comment": "(a flaming axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1808,
+        1,
+        1830
+      ],
+      "comment": "(The white mistress)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1802,
+        2,
+        17
+      ],
+      "comment": "(a wand of fire)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1803,
+        1,
+        1831
+      ],
+      "comment": "(The giant polar bear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1803,
+        1,
+        1832
+      ],
+      "comment": "(The giant polar bear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1803,
+        1,
+        1833
+      ],
+      "comment": "(The giant polar bear)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/18.zon"
+}

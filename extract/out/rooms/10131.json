@@ -1,0 +1,21 @@
+{
+  "id": 10131,
+  "zone_id": 101,
+  "name": "Sleeping Quarters",
+  "description": "You have entered one of the many sleeping quarters of Valfenda.  Guessing from\nthe elegant, but sparse furnishings, these quarters are mostlikely reserved for\nguests of Elrond.  There is a large bed in the center of the room, and a window\nto the north which looks out upon the valley of Valfenda.",
+  "header_raw": "101 1048576 0",
+  "flags_text": "1048576",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10129
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/101.wld"
+}

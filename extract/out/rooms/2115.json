@@ -1,0 +1,42 @@
+{
+  "id": 2115,
+  "zone_id": 21,
+  "name": "The Forest of Graye",
+  "description": "You are in a hardwood forest, walking through noisy leaves.  There is a\ncliff face to the north.",
+  "header_raw": "21 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2112
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2116
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2118
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "cliff face",
+      "description": "It seems that if you put your toe right here, and your left hand over here,\nthat you just might be able to climb it."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/21.wld"
+}

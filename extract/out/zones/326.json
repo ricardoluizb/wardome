@@ -1,0 +1,74 @@
+{
+  "id": 326,
+  "name": "The Builders Test Zone",
+  "header": {
+    "raw": "32699 30 2 2 -1",
+    "min_room": 32699,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": 2
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        32610,
+        1,
+        32699
+      ],
+      "comment": "(An aprenticce of the Archmage Miriel)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        32600,
+        1,
+        32605
+      ],
+      "comment": "(the Fcobain)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        32602,
+        99,
+        -1
+      ],
+      "comment": "(the vulcan kiss)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        32601,
+        99,
+        -1
+      ],
+      "comment": "(a tongue kiss)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        32600,
+        99,
+        -1
+      ],
+      "comment": "(a simple kiss)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        32603,
+        2,
+        5
+      ],
+      "comment": "(a silk nightgown)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/326.zon"
+}

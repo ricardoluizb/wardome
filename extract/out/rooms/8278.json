@@ -1,0 +1,29 @@
+{
+  "id": 8278,
+  "zone_id": 82,
+  "name": "The Musketeer's Room",
+  "description": "This is the room where the Musketeers can rest when they came from a\nlong journey of work. This room has many chairs, beds, and a big wood\ntable with some cards on it. This place has a red carped in the floor\nand the walls are decorated with some paitings from Van Goght.",
+  "header_raw": "82 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "wall",
+      "door_flag": 2,
+      "key": 8292,
+      "to": 8299
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8277
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

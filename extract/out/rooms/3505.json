@@ -3,8 +3,8 @@
   "zone_id": 35,
   "name": "The Trail To Miden'Nir",
   "description": "You are in a light forest.  A path leads south, but the passage to\nthe east is easy enough.  To the west, smoke can be seen rising above\nthe treetops.  The sprawl of Midgaard lies north of here.",
-  "header_raw": "35 c 3",
-  "flags_text": "c",
+  "header_raw": "35 4 3",
+  "flags_text": "4",
   "sector": 3,
   "exits": [
     {

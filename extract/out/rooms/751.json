@@ -1,0 +1,21 @@
+{
+  "id": 751,
+  "zone_id": 7,
+  "name": "Leonna's Office",
+  "description": "This is Guildmistress Leonna's office.  It is bright and cheery,\nwith a roaring fire in a fireplace and several songbirds in cages\nproviding color.  Her desk is spotless but for some work she was just\nat a moment ago.  Black satin-covered chairs are arranged for comfort\nof her guests, and you have a sudden urge to just sit and rest snd\nperhaps talk a bit.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 749
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

@@ -1,0 +1,1364 @@
+{
+  "id": 143,
+  "name": "Egypt",
+  "header": {
+    "raw": "14396 45 2 29 -1",
+    "min_room": 14396,
+    "top_room": 45,
+    "lifespan": 2,
+    "reset_mode": 29
+  },
+  "commands": [
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        14330,
+        1,
+        14300
+      ],
+      "comment": "(a stargate)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14301,
+        8,
+        14300
+      ],
+      "comment": "(the Sandworm)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14301,
+        8,
+        14300
+      ],
+      "comment": "(the Sandworm)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14301,
+        8,
+        14304
+      ],
+      "comment": "(the Sandworm)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14301,
+        8,
+        14304
+      ],
+      "comment": "(the Sandworm)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14301,
+        8,
+        14302
+      ],
+      "comment": "(the Sandworm)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14301,
+        8,
+        14302
+      ],
+      "comment": "(the Sandworm)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14301,
+        8,
+        14301
+      ],
+      "comment": "(the Sandworm)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14301,
+        8,
+        14301
+      ],
+      "comment": "(the Sandworm)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14303,
+        1,
+        14314
+      ],
+      "comment": "(Rez)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14300,
+        500,
+        -1
+      ],
+      "comment": "(a kopesh sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14304,
+        1,
+        14315
+      ],
+      "comment": "(Habib)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14301,
+        7,
+        -1
+      ],
+      "comment": "(a dull metal helmet)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14303,
+        6,
+        -1
+      ],
+      "comment": "(a suit of hard, leather armor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14300,
+        8,
+        14305
+      ],
+      "comment": "(the Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14300,
+        40,
+        16
+      ],
+      "comment": "(a kopesh sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14301,
+        40,
+        6
+      ],
+      "comment": "(a dull metal helmet)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14303,
+        40,
+        5
+      ],
+      "comment": "(a suit of hard, leather armor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14300,
+        8,
+        14305
+      ],
+      "comment": "(the Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14300,
+        40,
+        16
+      ],
+      "comment": "(a kopesh sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14301,
+        40,
+        6
+      ],
+      "comment": "(a dull metal helmet)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14303,
+        40,
+        5
+      ],
+      "comment": "(a suit of hard, leather armor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14300,
+        8,
+        14306
+      ],
+      "comment": "(the Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14300,
+        40,
+        16
+      ],
+      "comment": "(a kopesh sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14303,
+        40,
+        5
+      ],
+      "comment": "(a suit of hard, leather armor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14301,
+        40,
+        6
+      ],
+      "comment": "(a dull metal helmet)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14300,
+        8,
+        14306
+      ],
+      "comment": "(the Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14300,
+        40,
+        16
+      ],
+      "comment": "(a kopesh sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14301,
+        40,
+        6
+      ],
+      "comment": "(a dull metal helmet)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14303,
+        40,
+        5
+      ],
+      "comment": "(a suit of hard, leather armor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14300,
+        8,
+        14307
+      ],
+      "comment": "(the Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14301,
+        40,
+        6
+      ],
+      "comment": "(a dull metal helmet)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14300,
+        40,
+        16
+      ],
+      "comment": "(a kopesh sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14303,
+        40,
+        5
+      ],
+      "comment": "(a suit of hard, leather armor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14300,
+        8,
+        14307
+      ],
+      "comment": "(the Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14300,
+        40,
+        16
+      ],
+      "comment": "(a kopesh sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14301,
+        40,
+        6
+      ],
+      "comment": "(a dull metal helmet)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14303,
+        40,
+        5
+      ],
+      "comment": "(a suit of hard, leather armor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14302,
+        3,
+        14308
+      ],
+      "comment": "(the Peddler)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14302,
+        20,
+        16
+      ],
+      "comment": "(a scimitar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14302,
+        3,
+        14308
+      ],
+      "comment": "(the Peddler)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14302,
+        20,
+        16
+      ],
+      "comment": "(a scimitar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14302,
+        3,
+        14308
+      ],
+      "comment": "(the Peddler)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14302,
+        20,
+        16
+      ],
+      "comment": "(a scimitar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14308,
+        4,
+        14312
+      ],
+      "comment": "(the Pyramid guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14308,
+        4,
+        14312
+      ],
+      "comment": "(the Pyramid guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14324,
+        5,
+        17
+      ],
+      "comment": "(a heavy iron key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14308,
+        4,
+        14313
+      ],
+      "comment": "(the Pyramid guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14308,
+        4,
+        14313
+      ],
+      "comment": "(the Pyramid guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14305,
+        1,
+        14316
+      ],
+      "comment": "(Omar)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14319,
+        100,
+        -1
+      ],
+      "comment": "(a bag of dates)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14320,
+        100,
+        -1
+      ],
+      "comment": "(a bag of nuts)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14321,
+        100,
+        -1
+      ],
+      "comment": "(a ripe melon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14306,
+        1,
+        14317
+      ],
+      "comment": "(Iona)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3052,
+        500,
+        -1
+      ],
+      "comment": "(a scroll of recall)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        14325,
+        500,
+        -1
+      ],
+      "comment": "(a blue potion of healing)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14307,
+        2,
+        14320
+      ],
+      "comment": "(the egyptian commoner)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14307,
+        2,
+        14321
+      ],
+      "comment": "(the egyptian commoner)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14326,
+        2,
+        14323
+      ],
+      "comment": "(the palace guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14326,
+        2,
+        14323
+      ],
+      "comment": "(the palace guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14323,
+        5,
+        17
+      ],
+      "comment": "(an emerald key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14300,
+        8,
+        14325
+      ],
+      "comment": "(the Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14300,
+        40,
+        16
+      ],
+      "comment": "(a kopesh sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14303,
+        40,
+        5
+      ],
+      "comment": "(a suit of hard, leather armor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14301,
+        40,
+        6
+      ],
+      "comment": "(a dull metal helmet)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14300,
+        8,
+        14325
+      ],
+      "comment": "(the Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14300,
+        40,
+        16
+      ],
+      "comment": "(a kopesh sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14301,
+        40,
+        6
+      ],
+      "comment": "(a dull metal helmet)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14303,
+        40,
+        5
+      ],
+      "comment": "(a suit of hard, leather armor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14310,
+        1,
+        14326
+      ],
+      "comment": "(the Captain of the Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14322,
+        5,
+        3
+      ],
+      "comment": "(a small golden key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14304,
+        5,
+        13
+      ],
+      "comment": "(a frayed leather belt)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14309,
+        6,
+        14327
+      ],
+      "comment": "(the egyptian nobleman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14309,
+        6,
+        14328
+      ],
+      "comment": "(the egyptian nobleman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14309,
+        6,
+        14333
+      ],
+      "comment": "(the egyptian nobleman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14312,
+        1,
+        14336
+      ],
+      "comment": "(Antonious)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14307,
+        5,
+        4
+      ],
+      "comment": "(a bronze medallion)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14314,
+        1,
+        14337
+      ],
+      "comment": "(the bodyguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14313,
+        1,
+        14338
+      ],
+      "comment": "(Cleopatra)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14309,
+        5,
+        14
+      ],
+      "comment": "(a jade bracelet)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14308,
+        5,
+        4
+      ],
+      "comment": "(a green silk scarf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14311,
+        1,
+        14340
+      ],
+      "comment": "(Vangar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14306,
+        5,
+        6
+      ],
+      "comment": "(a magic helmet)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14305,
+        5,
+        16
+      ],
+      "comment": "(the Vangar's Spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14315,
+        4,
+        14343
+      ],
+      "comment": "(the giant brown snake)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14315,
+        4,
+        14343
+      ],
+      "comment": "(the giant brown snake)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14315,
+        4,
+        14343
+      ],
+      "comment": "(the giant brown snake)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14315,
+        4,
+        14343
+      ],
+      "comment": "(the giant brown snake)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14316,
+        3,
+        14347
+      ],
+      "comment": "(the skeleton of a slave)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14316,
+        3,
+        14347
+      ],
+      "comment": "(the skeleton of a slave)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14316,
+        3,
+        14347
+      ],
+      "comment": "(the skeleton of a slave)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14317,
+        3,
+        14359
+      ],
+      "comment": "(the mummy of a general)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14317,
+        3,
+        14359
+      ],
+      "comment": "(the mummy of a general)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14317,
+        3,
+        14359
+      ],
+      "comment": "(the mummy of a general)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14321,
+        2,
+        14362
+      ],
+      "comment": "(the large mummy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14321,
+        2,
+        14362
+      ],
+      "comment": "(the large mummy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14319,
+        1,
+        14363
+      ],
+      "comment": "(Tutankahmen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14313,
+        5,
+        1
+      ],
+      "comment": "(a jeweled signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14312,
+        5,
+        17
+      ],
+      "comment": "(a golden sceptre)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14320,
+        1,
+        14364
+      ],
+      "comment": "(Aelphia)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14314,
+        5,
+        1
+      ],
+      "comment": "(the Ring of Protection)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14322,
+        3,
+        14367
+      ],
+      "comment": "(the wandering mummy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14322,
+        3,
+        14367
+      ],
+      "comment": "(the wandering mummy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14322,
+        3,
+        14367
+      ],
+      "comment": "(the wandering mummy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14323,
+        1,
+        14375
+      ],
+      "comment": "(the enormous cobra)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14327,
+        1,
+        14377
+      ],
+      "comment": "(the heucuva)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14318,
+        5,
+        8
+      ],
+      "comment": "(a pair of gold buckled sandals)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14315,
+        5,
+        16
+      ],
+      "comment": "(the Mace of Disruption)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14331,
+        2,
+        1
+      ],
+      "comment": "(The Palace Courtyard)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14323,
+        3,
+        2
+      ],
+      "comment": "(At the Palace Gates)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14340,
+        0,
+        1
+      ],
+      "comment": "(Vangar's Chamber)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14312,
+        2,
+        2
+      ],
+      "comment": "(Guard Post)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14324,
+        0,
+        1
+      ],
+      "comment": "(Entrance to the Palace)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14341,
+        0,
+        2
+      ],
+      "comment": "(Entryway into the Pyramid)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14334,
+        3,
+        2
+      ],
+      "comment": "(The Palace Courtyard)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14362,
+        0,
+        1
+      ],
+      "comment": "(Entrance to the Tombs)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14326,
+        2,
+        1
+      ],
+      "comment": "(Captain's Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14362,
+        1,
+        1
+      ],
+      "comment": "(Entrance to the Tombs)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14363,
+        2,
+        1
+      ],
+      "comment": "(Tomb of the Great Pharaoh Tutankahmen)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14336,
+        2,
+        1
+      ],
+      "comment": "(The Guest Bedroom)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14364,
+        3,
+        1
+      ],
+      "comment": "(Aelphia's Tomb)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14324,
+        1,
+        2
+      ],
+      "comment": "(Entrance to the Palace)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14378,
+        2,
+        1
+      ],
+      "comment": "(Entrance to the Great Tomb)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14332,
+        0,
+        1
+      ],
+      "comment": "(The Palace Courtyard)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14379,
+        0,
+        1
+      ],
+      "comment": "(The Tomb of the Great Pharaoh Ramses)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        14337,
+        1,
+        2
+      ],
+      "comment": "(The Antechamber)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14324,
+        1,
+        14379
+      ],
+      "comment": "(Ramses)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14317,
+        5,
+        1
+      ],
+      "comment": "(the Ring of Regeneration)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14316,
+        5,
+        3
+      ],
+      "comment": "(the Amulet of Life)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14325,
+        3,
+        14380
+      ],
+      "comment": "(the big ugly mean aggressive thing)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14325,
+        3,
+        14388
+      ],
+      "comment": "(the big ugly mean aggressive thing)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14325,
+        3,
+        14389
+      ],
+      "comment": "(the big ugly mean aggressive thing)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        14318,
+        1,
+        14393
+      ],
+      "comment": "(Moses)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14311,
+        5,
+        12
+      ],
+      "comment": "(a dark blue robe)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        14310,
+        5,
+        17
+      ],
+      "comment": "(the Staff of Life)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/143.zon"
+}

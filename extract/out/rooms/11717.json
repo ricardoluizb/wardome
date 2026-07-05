@@ -1,0 +1,29 @@
+{
+  "id": 11717,
+  "zone_id": 117,
+  "name": "Cemetery entrance.",
+  "description": "A small wall is surrounding the cemetery completely making this a dark place\nthat it would normally be.  Now you are only one step away of the place where\nall the souls of the braves are buried.  Fell free to look around and pay some\nrespect to the memory of those who left already.",
+  "header_raw": "117 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11715
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11718
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/117.wld"
+}

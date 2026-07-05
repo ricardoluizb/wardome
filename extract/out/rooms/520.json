@@ -1,0 +1,21 @@
+{
+  "id": 520,
+  "zone_id": 5,
+  "name": "&BThe Temple of the Ogres&n",
+  "description": "Certainly this is the better place for an Ogre to live, a massive Cave.\nAn humid air fills the cave, it is a gloomy place, noises can be heard at\nevery moment. No God seems to be worshiped by the Ogres.\n   The exit to the Temple Street is to the North.",
+  "header_raw": "5 1048596 0",
+  "flags_text": "1048596",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 508
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

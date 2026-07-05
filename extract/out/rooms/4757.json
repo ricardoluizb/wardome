@@ -1,0 +1,29 @@
+{
+  "id": 4757,
+  "zone_id": 47,
+  "name": "Path in the Rock",
+  "description": "A small path travels over boulders and crevices to the north and east.  The\nedge of the cavern lies to the west while mounds of boulders are heaped to the\nsouth.",
+  "header_raw": "47 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4756
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4758
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

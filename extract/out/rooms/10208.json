@@ -1,0 +1,21 @@
+{
+  "id": 10208,
+  "zone_id": 102,
+  "name": "The Upper-Left Walkway by the Lobby",
+  "description": "Walking around the plataform you reaches it ends. There is a tapestry\nbanner in front of you, which goes to the top of the plataform. You can\nalso see some portraits posted by the walls here.",
+  "header_raw": "102 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10207
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

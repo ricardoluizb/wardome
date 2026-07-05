@@ -1,0 +1,37 @@
+{
+  "id": 12394,
+  "zone_id": 122,
+  "name": "An Infernal Junction",
+  "description": "Several dark tunnels meet here, heading into the dark, dismal depths of\nNiflheim. Bursts of flame explode from small holes in the floor at\nrandom intervals, of too brief duration to injure you, but sufficient to\ncause you to start in surprise and fear. Dark cave entrances abound\neverywhere, most of them crawling with the pale bodies of the damned,\nwrithing like maggots over and around each other, doomed to spend milennia\nin this form, as partial attrition for their sins.",
+  "header_raw": "122 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12391
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12393
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12398
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

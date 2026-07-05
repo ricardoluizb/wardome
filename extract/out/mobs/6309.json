@@ -4,9 +4,9 @@
   "short_desc": "the quasit",
   "long_desc": "A quasit blinks in and out, grinning at you.",
   "detailed_desc": "Demoniac in nature, but more mischievous.  He twiddles his thumbs\nand creates a magical treasure!",
-  "flags_raw": "acgh bdfs -300 S",
-  "stats1_raw": "10 1 -10 1d12+47 1d8+0",
-  "stats2_raw": "1500 11000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "205 262186 -300 E",
+  "stats1_raw": "110 -35 -6 1d1+3072 5d12+44",
+  "stats2_raw": "1650 3830999 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/63.mob"
 }

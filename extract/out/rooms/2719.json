@@ -1,0 +1,21 @@
+{
+  "id": 2719,
+  "zone_id": 27,
+  "name": "Sam's Home",
+  "description": "The home of Sam and Rosa.  The house is all clean and shiny.  Rosa and Sam must\nlike to have things clean in case they have visitors.  Maybe you should stay a\nwhile.  This place is nice.  Hobbit Road to the east.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2718
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

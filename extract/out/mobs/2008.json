@@ -1,0 +1,12 @@
+{
+  "id": 2008,
+  "alias": "quasit imp lag thing",
+  "short_desc": "a little quasit lag thing.",
+  "long_desc": "A funny little imp-like lag thing (a quasit perhaps?) is sneaking about here.",
+  "detailed_desc": "Little green, vaguely humoniod shaped creature, with a long pointed tail.\nIt is hard to say because before you ever get a good look at it, it darts\nback into the shadows.",
+  "flags_raw": "236 0 -800 E",
+  "stats1_raw": "50 -5 2 1d1+1044 5d6+20",
+  "stats2_raw": "750 417675 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/20.mob"
+}

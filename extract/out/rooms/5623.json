@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "River Ishtar",
   "description": "The river flows under the wall of the city to the east and stretches\noff towards high snow capped mountains far far to the west.",
-  "header_raw": "54 0 7",
-  "flags_text": "0",
+  "header_raw": "54 16777216 7",
+  "flags_text": "16777216",
   "sector": 7,
   "exits": [
     {

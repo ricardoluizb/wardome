@@ -1,0 +1,21 @@
+{
+  "id": 8173,
+  "zone_id": 81,
+  "name": "The Barracks Room",
+  "description": "Rough bunks are let into the walls here, so about fifty goblins can \nsleep in this rather large room. If it was better kept up, this place \nmight actually be comfortable, suggesting that it was not made by\nthe goblins, who would not have made it so big.  As it is, they have\ncrammed in the bunks as closely as possible, and you see a few which,\nbecause their walls were too thin, have collapsed on the bunk below.",
+  "header_raw": "81 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A bronze door stands to the north.",
+      "keywords": "door bronze",
+      "door_flag": 1,
+      "key": 8100,
+      "to": 8163
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

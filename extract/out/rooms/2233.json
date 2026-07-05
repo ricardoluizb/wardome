@@ -1,0 +1,29 @@
+{
+  "id": 2233,
+  "zone_id": 22,
+  "name": "Wine cellar",
+  "description": "This is the old wine cellar of the Dragon Tower.  The shelves are empty.\nNothing living has been in here for a long time.  You see a tunnel leading\noff to the east and boy does it smell bad.  Kinda of like rotting flesh.",
+  "header_raw": "22 65 2",
+  "flags_text": "65",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A tunnel",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2234
+    },
+    {
+      "dir": 4,
+      "description": "The stairwell",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2232
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

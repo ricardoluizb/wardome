@@ -1,0 +1,12 @@
+{
+  "id": 1011,
+  "alias": "wight",
+  "short_desc": "the wight",
+  "long_desc": "A hideous creature is here, mere skin and bones, howling madly.",
+  "detailed_desc": "This ghastly apparition fills you with nigh-absolute terror.  Your\nfirst conscious thought is to run.  Run fast and far that is.\nHowever, your second thought is to look at it a little more closely.\nIn doing so, you notice that it seems to be made of mummified flesh,\nstretched over pointed bones.  Also, it has strangely glowing red\neyes.",
+  "flags_raw": "74 136 -900 E",
+  "stats1_raw": "50 -25 -12 1d1+5400 5d16+120",
+  "stats2_raw": "750 668281 10",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/10.mob"
+}

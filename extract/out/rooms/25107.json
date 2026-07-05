@@ -1,0 +1,29 @@
+{
+  "id": 25107,
+  "zone_id": 251,
+  "name": "The merchand village",
+  "description": "The path continues. Shops are all around, you hear noises from all the\nbuildings - people buying and selling.",
+  "header_raw": "251 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 25108
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 25106
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/251.wld"
+}

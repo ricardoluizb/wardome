@@ -1,0 +1,12 @@
+{
+  "id": 7812,
+  "alias": "oldstyle guardian daemon",
+  "short_desc": "the guardian daemon",
+  "long_desc": "A huge guardian daemon is here, watching the treasure.",
+  "detailed_desc": "This daemon is unhappy with its summoned job, and is willing to take out it's\nanger at you!",
+  "flags_raw": "42 0 -500 E",
+  "stats1_raw": "75 -23 -5 1d1+3900 5d8+60",
+  "stats2_raw": "1125 1612172 3",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/78.mob"
+}

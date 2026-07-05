@@ -1,0 +1,12 @@
+{
+  "id": 3205,
+  "alias": "chambermaid",
+  "short_desc": "the Chambermaid",
+  "long_desc": "A Chambermaid is here, desperately trying to straighten up.",
+  "detailed_desc": "The Chambermaid looks harried, and glances at you with fear in her eyes.",
+  "flags_raw": "2314 16777216 400 E",
+  "stats1_raw": "165 -62 -14 1d1+4620 5d17+66",
+  "stats2_raw": "2475 12359848 0",
+  "stats3_raw": "8 8 2 -1 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/32.mob"
+}

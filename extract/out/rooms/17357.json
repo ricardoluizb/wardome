@@ -1,0 +1,21 @@
+{
+  "id": 17357,
+  "zone_id": 173,
+  "name": "Squire's Barracks",
+  "description": "You stand in the squire's barracks. It is here that all of the lackeys \nof the knights of the round table reside while their lords are in court. \nThe place is a jumble of beds, lockers, and tables. Activity swirls \naround the long wooden benches and tables where at present people are \neating. There is a rudimentry camp kitchin, with a roster of the day \n(your name is not on it).",
+  "header_raw": "173 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Squire's Run at the North Gate",
+      "keywords": "",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17355
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

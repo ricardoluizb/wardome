@@ -1,0 +1,12 @@
+{
+  "id": 7802,
+  "alias": "oldstyle elf valley",
+  "short_desc": "a valley elf",
+  "long_desc": "A female valley elf wanders here, skirting between the tall grasses.",
+  "detailed_desc": "This elf is almost as tall as you are, but much slimmer and more agile.\nShe glares at you, then quickly disappears before you see more of her.",
+  "flags_raw": "236 263168 0 E",
+  "stats1_raw": "80 -26 -6 1d1+4152 5d9+62",
+  "stats2_raw": "1200 1934015 3",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/78.mob"
+}

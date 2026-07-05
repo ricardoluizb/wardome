@@ -4,9 +4,9 @@
   "short_desc": "Michael",
   "long_desc": "The archangel Michael turns and begins to look you over.",
   "detailed_desc": "At first you see nothing but a bright and comforting glow; then the\nimage sharpens suddenly, and you see a face, eyes, hands, but then\nthat too fades, and you see nothing.",
-  "flags_raw": "bl h 1000 S",
-  "stats1_raw": "29 -6 -7 1d100+1900 6d7+7",
-  "stats2_raw": "0 280000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "2058 128 1000 E",
+  "stats1_raw": "170 -77 -24 1d1+12912 5d35+128",
+  "stats2_raw": "2550 19772606 6",
+  "stats3_raw": "8 8 1 1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/15.mob"
 }

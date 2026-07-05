@@ -4,9 +4,9 @@
   "short_desc": "Uriel",
   "long_desc": "Uriel, the angel of darkness, stands here guarding the way forward.",
   "detailed_desc": "After the Fall of the bringer of light, the Lord had need for the\nservice of a fourth, and it was this angel, Uriel, that rose to the\nhighest ranks.",
-  "flags_raw": "bl h 1000 S",
-  "stats1_raw": "29 -6 -7 1d100+1900 6d7+7",
-  "stats2_raw": "0 280000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "2058 128 1000 E",
+  "stats1_raw": "160 -72 -23 1d1+12156 5d33+124",
+  "stats2_raw": "2400 16576721 6",
+  "stats3_raw": "8 8 1 1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/15.mob"
 }

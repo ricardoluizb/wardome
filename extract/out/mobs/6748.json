@@ -1,0 +1,12 @@
+{
+  "id": 6748,
+  "alias": "butcher",
+  "short_desc": "the butcher",
+  "long_desc": "The town butcher tosses meat cleavers about listlessly.",
+  "detailed_desc": "This overweight fellow looks bloodthirsty and bored with life. As you\nenter he hurls several sharp meat cleavers around the edge of the door\nwithout looking up.",
+  "flags_raw": "24587 0 -700 E",
+  "stats1_raw": "155 -57 -13 1d1+4332 5d16+62",
+  "stats2_raw": "2325 10306835 0",
+  "stats3_raw": "8 8 1 7 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/67.mob"
+}

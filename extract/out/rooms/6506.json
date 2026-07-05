@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "A Bend In The Narrow Path",
   "description": "This is a narrow path that bends to the east here.  The trees hang\nover the path, and it is very overgrown.  The narrow path continues to\nthe south and to the east.",
-  "header_raw": "65 d 0",
-  "flags_text": "d",
+  "header_raw": "65 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

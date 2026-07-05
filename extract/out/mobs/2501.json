@@ -4,9 +4,9 @@
   "short_desc": "the lost adventurer",
   "long_desc": "An emaciated adventurer is here looking lost and hopeless.",
   "detailed_desc": "He looks haggard and sickly; no doubt he's been lost here for quite some time.",
-  "flags_raw": "ah k 400 S",
-  "stats1_raw": "8 12 6 10d10+10 2d4+4",
-  "stats2_raw": "286 1500",
-  "stats3_raw": "6 8 1",
+  "flags_raw": "137 1024 400 E",
+  "stats1_raw": "130 -45 -9 1d1+3636 5d14+52",
+  "stats2_raw": "1950 6194774 0",
+  "stats3_raw": "6 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

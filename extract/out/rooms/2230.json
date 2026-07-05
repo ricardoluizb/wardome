@@ -1,0 +1,21 @@
+{
+  "id": 2230,
+  "zone_id": 22,
+  "name": "THE Lair",
+  "description": "You have entered a huge lair.\nYou feel that something big lives here or at least did.\nThe golden door lies back to the west.",
+  "header_raw": "22 72 2",
+  "flags_text": "72",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "You see a great golden door.",
+      "keywords": "door golden great",
+      "door_flag": 2,
+      "key": 2299,
+      "to": 2229
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

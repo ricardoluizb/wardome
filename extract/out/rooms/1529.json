@@ -3,18 +3,10 @@
   "zone_id": 15,
   "name": "Pilgrimage",
   "description": "It is incumbent upon all Muslims to make the pilgrimage to Mecca once\nin their lifetime, if they are able, and for those unfortunate enough to\nfollow the lives of the lower evils, such a pilgrimage with an open and\ncontrite heart shall absolve them of all.",
-  "header_raw": "15 ad 0",
-  "flags_text": "ad",
+  "header_raw": "15 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
-    {
-      "dir": 4,
-      "description": "",
-      "keywords": "",
-      "door_flag": 0,
-      "key": -1,
-      "to": 1535
-    },
     {
       "dir": 1,
       "description": "",
@@ -30,6 +22,14 @@
       "door_flag": 0,
       "key": -1,
       "to": 1528
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1535
     }
   ],
   "extra_descriptions": [],

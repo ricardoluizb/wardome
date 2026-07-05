@@ -1,0 +1,12 @@
+{
+  "id": 13280,
+  "alias": "Monk",
+  "short_desc": "a monk",
+  "long_desc": "A monk guards the entrance.",
+  "detailed_desc": "These silent guards are respected by the city for their vow of silence.  It does\nnot include spell casting, which equal the most powerful sorcerers'.",
+  "flags_raw": "12298 168 550 E",
+  "stats1_raw": "50 -21 -9 1d1+4596 5d11+100",
+  "stats2_raw": "750 596679 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

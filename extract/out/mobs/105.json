@@ -1,0 +1,12 @@
+{
+  "id": 105,
+  "alias": "man hunter vampyre",
+  "short_desc": "the vampyre hunter",
+  "long_desc": "A man stands here, a wooden stake sticking out of a backpack he is wearing.",
+  "detailed_desc": "He gives you a piercing look, one that seems to borrow down into your soul.  \nHe raises one side of his upper lip in a snarl and attacks.",
+  "flags_raw": "72 0 100 E",
+  "stats1_raw": "40 -12 -5 1d1+3036 5d9+76",
+  "stats2_raw": "600 303551 6",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/1.mob"
+}

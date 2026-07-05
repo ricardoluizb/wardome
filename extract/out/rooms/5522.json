@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Butchery",
   "description": "This shop has the aroma of freshly slaughterd beasts.  You feel right\nat home.  You see a fairly simple set up.  The corpses... er... selections\nhang on hooks, still bleeding into catch pans that drain into a single\nunderground vat.  You wonder where that leads...",
-  "header_raw": "54 d 0",
-  "flags_text": "d",
+  "header_raw": "54 152 0",
+  "flags_text": "152",
   "sector": 0,
   "exits": [
     {

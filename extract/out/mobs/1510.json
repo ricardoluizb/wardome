@@ -4,9 +4,9 @@
   "short_desc": "Judas Escariot",
   "long_desc": "The wayward apostle approaches slowly, extending his arms in a hug.",
   "detailed_desc": "You see nothing but the sadness of a man who would sell his own God.",
-  "flags_raw": "bc dk -1000 S",
-  "stats1_raw": "25 -3 -4 5d10+650 4d6+5",
-  "stats2_raw": "1 145000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "14 1032 -1000 E",
+  "stats1_raw": "165 -74 -23 1d1+12540 5d33+126",
+  "stats2_raw": "2475 16479797 6",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/15.mob"
 }

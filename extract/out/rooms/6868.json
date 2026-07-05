@@ -1,0 +1,29 @@
+{
+  "id": 6868,
+  "zone_id": 67,
+  "name": "A stream",
+  "description": "The clear waters begin to shift and curl and the current increase\nslightly. Tiny brown reeds on the banks lean downstream, sending the\ndragonflies airborne from their stalks. A wind whistles in the leaves\nof the trees above and no sound can be made out from ahead.",
+  "header_raw": "67 1 7",
+  "flags_text": "1",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6867
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6869
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

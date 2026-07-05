@@ -3,8 +3,8 @@
   "zone_id": 61,
   "name": "A Small Path On The River Bank In The Deep, Dark Forest",
   "description": "You are on a narrow path leading through the deep, dark forest.\nAncient grey trees loom everywhere.  To the south a dark river flows\nwestward through the forest.  The path continues north and east.",
-  "header_raw": "61 ad 3",
-  "flags_text": "ad",
+  "header_raw": "61 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

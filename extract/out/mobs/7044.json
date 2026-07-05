@@ -4,9 +4,9 @@
   "short_desc": "the lemure",
   "long_desc": "The lemure blob slithers towards you for an attack!",
   "detailed_desc": "This looks like a vaguely human blob.  Big black yellow eyes, and a mouth\ngoing a little bit out from the face.  The lemure does not look interested\nin you at all, but it attacks anyway.  It looks like its mind has been\nburned out.",
-  "flags_raw": "fnq k -500 S",
-  "stats1_raw": "5 16 6 3d5+57 2d4+0",
-  "stats2_raw": "0 1000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "73768 1024 -500 E",
+  "stats1_raw": "5 18 9 1d1+99 5d1+2",
+  "stats2_raw": "75 1651 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/70.mob"
 }

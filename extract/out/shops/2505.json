@@ -11,8 +11,8 @@
   "profit_buy": 2.1,
   "profit_sell": 0.5,
   "buy_types": [
-    "FOOD",
-    "LIQ CONTAINER"
+    "19",
+    "17"
   ],
   "messages": [
     "%s Haven't got that in storage, try LIST!",
@@ -35,5 +35,5 @@
     0,
     0
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/shp/25.shp"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/25.shp"
 }

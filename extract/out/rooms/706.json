@@ -1,0 +1,29 @@
+{
+  "id": 706,
+  "zone_id": 7,
+  "name": "Center Road, East",
+  "description": "The stars shine down on you blindly as you walk down Citizen's\nRoad, and for a moment you forget what kind of strange place you're\nin.  A flowerbox filled with wilted flowers brings you back to\nreality; this city hasn't seen the sun for decades...",
+  "header_raw": "7 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 708
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 705
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

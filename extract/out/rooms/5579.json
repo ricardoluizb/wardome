@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "A Hall",
   "description": "The long stretch of hallway continues east and west from here.  The\nsmall red carpet covering the centerline is always underfoot and an\noccasional bench or potted plant lines the wall.\nThere is a door here to the north with a plaque mounted over it.",
-  "header_raw": "54 d 0",
-  "flags_text": "d",
+  "header_raw": "54 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

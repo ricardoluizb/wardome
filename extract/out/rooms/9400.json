@@ -1,0 +1,29 @@
+{
+  "id": 9400,
+  "zone_id": 94,
+  "name": "&WThe &BFlying Drakkar&W'&Bs &WBoarding Path",
+  "description": "&CFrom here it is possible to see an extraordinary boat with wings, it has the shape of a dragon.Here is a rope ladder wich takes you aboard the ship. Thor himself is here guarding the entrance!&n",
+  "header_raw": "94 3145920 3",
+  "flags_text": "3145920",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 0,
+      "key": 9402,
+      "to": 9401
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6151
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/94.wld"
+}

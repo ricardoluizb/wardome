@@ -1,0 +1,12 @@
+{
+  "id": 24528,
+  "alias": "harlot woman",
+  "short_desc": "the harlot",
+  "long_desc": "A woman is here, peddling her body.",
+  "detailed_desc": "The harlot winks at you from her pasty\nanimal greased complexion. She wiggles\nher hips suggestively. She smells nice,\nhaving bathed in the last week.",
+  "flags_raw": "74 1024 -400 E",
+  "stats1_raw": "120 -44 -11 1d1+5280 5d13+68",
+  "stats2_raw": "1800 6053860 2",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/245.mob"
+}

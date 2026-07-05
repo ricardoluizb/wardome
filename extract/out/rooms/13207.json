@@ -1,0 +1,45 @@
+{
+  "id": 13207,
+  "zone_id": 132,
+  "name": "The Court",
+  "description": "Behold! The City of Cloudy Mountain!  The Court is covered with large\ntiles of polished stones.  There is quite a variety of beings that live in the\ncity.  Although good, neutral, and evil share the same city, they tend to live\nin separate sections.  By looking closer, you realize that there is tension\nand prejudice among the citizens of this grand city.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13210
+    },
+    {
+      "dir": 1,
+      "description": "the court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13208
+    },
+    {
+      "dir": 2,
+      "description": "A large iron gate.",
+      "keywords": "gate so",
+      "door_flag": 1,
+      "key": -1,
+      "to": 13205
+    },
+    {
+      "dir": 3,
+      "description": "the court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13206
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

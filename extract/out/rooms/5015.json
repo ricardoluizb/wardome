@@ -3,8 +3,8 @@
   "zone_id": 50,
   "name": "An Underground Pool",
   "description": "You are wading in a knee deep pool of lime-water.",
-  "header_raw": "50 ad 6",
-  "flags_text": "ad",
+  "header_raw": "50 9 6",
+  "flags_text": "9",
   "sector": 6,
   "exits": [
     {

@@ -1,0 +1,12 @@
+{
+  "id": 11213,
+  "alias": "mayor secretary",
+  "short_desc": "the mayor's secretary",
+  "long_desc": "A plump, middle aged woman sits here behind a huge desk.",
+  "detailed_desc": "This woman appears to be unusually bright and cheerful, for this place;\nyou wonder for a second if she somehow resisted the malediction plaguing\nher peers, then you notice that her smile is forced, her eyes emotionless,\nand realize it is almost as if she is just acting out a preprogrammed\nseries of activities and responses.",
+  "flags_raw": "10 0 0 E",
+  "stats1_raw": "35 -15 -8 1d1+3492 5d7+104",
+  "stats2_raw": "525 238782 9",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

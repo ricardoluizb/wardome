@@ -1,774 +1,14 @@
 {
   "id": 36,
-  "name": "The Chessboard of Midgaard",
+  "name": "The Chessboard of Wardome",
   "header": {
-    "raw": "3600 3699 10 1",
-    "min_room": 3600,
-    "top_room": 3699,
-    "lifespan": 10,
+    "raw": "3699 10 1 1 -1",
+    "min_room": 3699,
+    "top_room": 10,
+    "lifespan": 1,
     "reset_mode": 1
   },
   "commands": [
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3600,
-        8,
-        3609
-      ],
-      "comment": "Black Pawn"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3600,
-        8,
-        5
-      ],
-      "comment": "Black Pawn Armour"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3602,
-        8,
-        16
-      ],
-      "comment": "Black Pawn Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3600,
-        8,
-        3610
-      ],
-      "comment": "Black Pawn"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3600,
-        8,
-        5
-      ],
-      "comment": "Black Pawn Armour"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3602,
-        8,
-        16
-      ],
-      "comment": "Black Pawn Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3600,
-        8,
-        3611
-      ],
-      "comment": "Black Pawn"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3600,
-        8,
-        5
-      ],
-      "comment": "Black Pawn Armour"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3602,
-        8,
-        16
-      ],
-      "comment": "Black Pawn Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3600,
-        8,
-        3612
-      ],
-      "comment": "Black Pawn"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3600,
-        8,
-        5
-      ],
-      "comment": "Black Pawn Armour"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3602,
-        8,
-        16
-      ],
-      "comment": "Black Pawn Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3600,
-        8,
-        3613
-      ],
-      "comment": "Black Pawn"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3600,
-        8,
-        5
-      ],
-      "comment": "Black Pawn Armour"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3602,
-        8,
-        16
-      ],
-      "comment": "Black Pawn Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3600,
-        8,
-        3614
-      ],
-      "comment": "Black Pawn"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3600,
-        8,
-        5
-      ],
-      "comment": "Black Pawn Armour"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3602,
-        8,
-        16
-      ],
-      "comment": "Black Pawn Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3600,
-        8,
-        3615
-      ],
-      "comment": "Black Pawn"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3600,
-        8,
-        5
-      ],
-      "comment": "Black Pawn Armour"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3602,
-        8,
-        16
-      ],
-      "comment": "Black Pawn Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3600,
-        8,
-        3616
-      ],
-      "comment": "Black Pawn"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3600,
-        8,
-        5
-      ],
-      "comment": "Black Pawn Armour"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3602,
-        8,
-        16
-      ],
-      "comment": "Black Pawn Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3601,
-        8,
-        3649
-      ],
-      "comment": "White Pawn"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3601,
-        8,
-        5
-      ],
-      "comment": "White Pawn Armour"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3603,
-        8,
-        16
-      ],
-      "comment": "White Pawn Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3601,
-        8,
-        3650
-      ],
-      "comment": "White Pawn"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3601,
-        8,
-        5
-      ],
-      "comment": "White Pawn Armour"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3603,
-        8,
-        16
-      ],
-      "comment": "White Pawn Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3601,
-        8,
-        3651
-      ],
-      "comment": "White Pawn"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3601,
-        8,
-        5
-      ],
-      "comment": "White Pawn Armour"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3603,
-        8,
-        16
-      ],
-      "comment": "White Pawn Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3601,
-        8,
-        3652
-      ],
-      "comment": "White Pawn"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3601,
-        8,
-        5
-      ],
-      "comment": "White Pawn Armour"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3603,
-        8,
-        16
-      ],
-      "comment": "White Pawn Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3601,
-        8,
-        3653
-      ],
-      "comment": "White Pawn"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3601,
-        8,
-        5
-      ],
-      "comment": "White Pawn Armour"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3603,
-        8,
-        16
-      ],
-      "comment": "White Pawn Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3601,
-        8,
-        3654
-      ],
-      "comment": "White Pawn"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3601,
-        8,
-        5
-      ],
-      "comment": "White Pawn Armour"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3603,
-        8,
-        16
-      ],
-      "comment": "White Pawn Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3601,
-        8,
-        3655
-      ],
-      "comment": "White Pawn"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3601,
-        8,
-        5
-      ],
-      "comment": "White Pawn Armour"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3603,
-        8,
-        16
-      ],
-      "comment": "White Pawn Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3601,
-        8,
-        3656
-      ],
-      "comment": "White Pawn"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3601,
-        8,
-        5
-      ],
-      "comment": "White Pawn Armour"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3603,
-        8,
-        16
-      ],
-      "comment": "White Pawn Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3602,
-        2,
-        3601
-      ],
-      "comment": "Black Rook"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3604,
-        2,
-        5
-      ],
-      "comment": "Black Rook Armour"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3602,
-        2,
-        3608
-      ],
-      "comment": "Black Rook"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3604,
-        2,
-        5
-      ],
-      "comment": "Black Rook Armour"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3603,
-        2,
-        3657
-      ],
-      "comment": "White Rook"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3605,
-        2,
-        5
-      ],
-      "comment": "White Rook Armour"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3603,
-        2,
-        3664
-      ],
-      "comment": "White Rook"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3605,
-        2,
-        5
-      ],
-      "comment": "White Rook Armour"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3604,
-        2,
-        3602
-      ],
-      "comment": "Black Knight"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3606,
-        2,
-        16
-      ],
-      "comment": "Black Knight Lance"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3604,
-        2,
-        3607
-      ],
-      "comment": "Black Knight"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3606,
-        2,
-        16
-      ],
-      "comment": "Black Knight Lance"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3605,
-        2,
-        3658
-      ],
-      "comment": "White Knight"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3607,
-        2,
-        16
-      ],
-      "comment": "White Knight Lance"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3605,
-        2,
-        3663
-      ],
-      "comment": "White Knight"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3607,
-        2,
-        16
-      ],
-      "comment": "White Knight Lance"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3606,
-        2,
-        3603
-      ],
-      "comment": "Black Bishop"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3608,
-        2,
-        17
-      ],
-      "comment": "Black Bishop Staff"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3606,
-        2,
-        3606
-      ],
-      "comment": "Black Bishop"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3608,
-        2,
-        17
-      ],
-      "comment": "Black Bishop Staff"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3607,
-        2,
-        3659
-      ],
-      "comment": "White Bishop"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3609,
-        2,
-        17
-      ],
-      "comment": "White Bishop Staff"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3607,
-        2,
-        3662
-      ],
-      "comment": "White Bishop"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3609,
-        2,
-        17
-      ],
-      "comment": "White Bishop Staff"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3608,
-        1,
-        3604
-      ],
-      "comment": "Black Queen"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3610,
-        1,
-        6
-      ],
-      "comment": "Black Queen Crown"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        3609,
-        1,
-        3660
-      ],
-      "comment": "White Queen"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        3611,
-        1,
-        6
-      ],
-      "comment": "White Queen Crown"
-    },
     {
       "cmd": "M",
       "args": [
@@ -777,7 +17,17 @@
         1,
         3605
       ],
-      "comment": "Black King"
+      "comment": "(The Black King)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3621,
+        1,
+        -1
+      ],
+      "comment": "(Black King's head)"
     },
     {
       "cmd": "E",
@@ -787,16 +37,17 @@
         1,
         17
       ],
-      "comment": "Black King Sceptre"
+      "comment": "(the Black King's Sceptre)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3614,
-        1
+        1,
+        -1
       ],
-      "comment": "Black Treasury Key"
+      "comment": "(the Key to the Black Treasury)"
     },
     {
       "cmd": "M",
@@ -806,7 +57,17 @@
         1,
         3661
       ],
-      "comment": "White King"
+      "comment": "(the White King)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3620,
+        1,
+        -1
+      ],
+      "comment": "(White king's head)"
     },
     {
       "cmd": "E",
@@ -816,16 +77,777 @@
         1,
         17
       ],
-      "comment": "White King Sceptre"
+      "comment": "(the White King's Sceptre)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         3615,
-        1
+        1,
+        -1
       ],
-      "comment": "White Treasury Key"
+      "comment": "(the Key to the White Treasury)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3600,
+        8,
+        3609
+      ],
+      "comment": "(the Pawn of the Black Court)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3600,
+        8,
+        5
+      ],
+      "comment": "(some Black Pawn Armour)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3602,
+        8,
+        16
+      ],
+      "comment": "(a Black Pawn's Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3600,
+        8,
+        3610
+      ],
+      "comment": "(the Pawn of the Black Court)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3600,
+        8,
+        5
+      ],
+      "comment": "(some Black Pawn Armour)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3602,
+        8,
+        16
+      ],
+      "comment": "(a Black Pawn's Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3600,
+        8,
+        3611
+      ],
+      "comment": "(the Pawn of the Black Court)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3600,
+        8,
+        5
+      ],
+      "comment": "(some Black Pawn Armour)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3602,
+        8,
+        16
+      ],
+      "comment": "(a Black Pawn's Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3600,
+        8,
+        3612
+      ],
+      "comment": "(the Pawn of the Black Court)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3600,
+        8,
+        5
+      ],
+      "comment": "(some Black Pawn Armour)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3602,
+        8,
+        16
+      ],
+      "comment": "(a Black Pawn's Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3600,
+        8,
+        3613
+      ],
+      "comment": "(the Pawn of the Black Court)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3600,
+        8,
+        5
+      ],
+      "comment": "(some Black Pawn Armour)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3602,
+        8,
+        16
+      ],
+      "comment": "(a Black Pawn's Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3600,
+        8,
+        3614
+      ],
+      "comment": "(the Pawn of the Black Court)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3600,
+        8,
+        5
+      ],
+      "comment": "(some Black Pawn Armour)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3602,
+        8,
+        16
+      ],
+      "comment": "(a Black Pawn's Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3600,
+        8,
+        3615
+      ],
+      "comment": "(the Pawn of the Black Court)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3600,
+        8,
+        5
+      ],
+      "comment": "(some Black Pawn Armour)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3602,
+        8,
+        16
+      ],
+      "comment": "(a Black Pawn's Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3600,
+        8,
+        3616
+      ],
+      "comment": "(the Pawn of the Black Court)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3600,
+        8,
+        5
+      ],
+      "comment": "(some Black Pawn Armour)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3602,
+        8,
+        16
+      ],
+      "comment": "(a Black Pawn's Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3601,
+        8,
+        3649
+      ],
+      "comment": "(the Pawn of the White Court)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3601,
+        8,
+        5
+      ],
+      "comment": "(some White Pawn Armour)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3603,
+        8,
+        16
+      ],
+      "comment": "(a White Pawn's Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3601,
+        8,
+        3650
+      ],
+      "comment": "(the Pawn of the White Court)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3601,
+        8,
+        5
+      ],
+      "comment": "(some White Pawn Armour)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3603,
+        8,
+        16
+      ],
+      "comment": "(a White Pawn's Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3601,
+        8,
+        3651
+      ],
+      "comment": "(the Pawn of the White Court)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3601,
+        8,
+        5
+      ],
+      "comment": "(some White Pawn Armour)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3603,
+        8,
+        16
+      ],
+      "comment": "(a White Pawn's Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3601,
+        8,
+        3652
+      ],
+      "comment": "(the Pawn of the White Court)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3601,
+        8,
+        5
+      ],
+      "comment": "(some White Pawn Armour)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3603,
+        8,
+        16
+      ],
+      "comment": "(a White Pawn's Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3601,
+        8,
+        3653
+      ],
+      "comment": "(the Pawn of the White Court)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3601,
+        8,
+        5
+      ],
+      "comment": "(some White Pawn Armour)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3603,
+        8,
+        16
+      ],
+      "comment": "(a White Pawn's Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3601,
+        8,
+        3654
+      ],
+      "comment": "(the Pawn of the White Court)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3601,
+        8,
+        5
+      ],
+      "comment": "(some White Pawn Armour)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3603,
+        8,
+        16
+      ],
+      "comment": "(a White Pawn's Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3601,
+        8,
+        3655
+      ],
+      "comment": "(the Pawn of the White Court)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3601,
+        8,
+        5
+      ],
+      "comment": "(some White Pawn Armour)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3603,
+        8,
+        16
+      ],
+      "comment": "(a White Pawn's Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3601,
+        8,
+        3656
+      ],
+      "comment": "(the Pawn of the White Court)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3601,
+        8,
+        5
+      ],
+      "comment": "(some White Pawn Armour)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3603,
+        8,
+        16
+      ],
+      "comment": "(a White Pawn's Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3602,
+        2,
+        3601
+      ],
+      "comment": "(the Black Rook)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3604,
+        2,
+        5
+      ],
+      "comment": "(some Black Rook Armour)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3602,
+        2,
+        3608
+      ],
+      "comment": "(the Black Rook)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3604,
+        2,
+        5
+      ],
+      "comment": "(some Black Rook Armour)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3603,
+        2,
+        3657
+      ],
+      "comment": "(the White Rook)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3605,
+        2,
+        5
+      ],
+      "comment": "(some White Rook Armour)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3603,
+        2,
+        3664
+      ],
+      "comment": "(the White Rook)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3605,
+        2,
+        5
+      ],
+      "comment": "(some White Rook Armour)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3604,
+        2,
+        3602
+      ],
+      "comment": "(the Black Knight)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3606,
+        2,
+        16
+      ],
+      "comment": "(the Lance of the Black Knight)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3604,
+        2,
+        3607
+      ],
+      "comment": "(the Black Knight)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3606,
+        2,
+        16
+      ],
+      "comment": "(the Lance of the Black Knight)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3605,
+        2,
+        3658
+      ],
+      "comment": "(the White Knight)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3607,
+        2,
+        16
+      ],
+      "comment": "(the Lance of the White Knight)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3605,
+        2,
+        3663
+      ],
+      "comment": "(the White Knight)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3607,
+        2,
+        16
+      ],
+      "comment": "(the Lance of the White Knight)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3606,
+        2,
+        3603
+      ],
+      "comment": "(the Black Bishop)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3608,
+        2,
+        17
+      ],
+      "comment": "(the Staff of the Black Bishop)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3606,
+        2,
+        3606
+      ],
+      "comment": "(the Black Bishop)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3608,
+        2,
+        17
+      ],
+      "comment": "(the Staff of the Black Bishop)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3607,
+        2,
+        3659
+      ],
+      "comment": "(the White Bishop)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3609,
+        2,
+        17
+      ],
+      "comment": "(the Staff of the White Bishop)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3607,
+        2,
+        3662
+      ],
+      "comment": "(the White Bishop)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3609,
+        2,
+        17
+      ],
+      "comment": "(the Staff of the White Bishop)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3608,
+        1,
+        3604
+      ],
+      "comment": "(the Black Queen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3610,
+        1,
+        6
+      ],
+      "comment": "(the Crown of the Black Queen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3609,
+        1,
+        3660
+      ],
+      "comment": "(the White Queen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3611,
+        1,
+        6
+      ],
+      "comment": "(the Crown of the White Queen)"
     },
     {
       "cmd": "O",
@@ -835,7 +857,7 @@
         1,
         3665
       ],
-      "comment": "Black Treasury Gold"
+      "comment": "(the Black Royal Treasure)"
     },
     {
       "cmd": "O",
@@ -845,7 +867,7 @@
         1,
         3666
       ],
-      "comment": "White Treasury Gold"
+      "comment": "(the White Royal Treasure)"
     },
     {
       "cmd": "D",
@@ -855,7 +877,7 @@
         5,
         2
       ],
-      "comment": "Black Treasury Door"
+      "comment": "(A Black Square)"
     },
     {
       "cmd": "D",
@@ -865,7 +887,7 @@
         4,
         2
       ],
-      "comment": ""
+      "comment": "(The Black Treasury)"
     },
     {
       "cmd": "D",
@@ -875,7 +897,7 @@
         5,
         2
       ],
-      "comment": "White Treasury Door"
+      "comment": "(A White Square)"
     },
     {
       "cmd": "D",
@@ -885,8 +907,8 @@
         4,
         2
       ],
-      "comment": ""
+      "comment": "(The White Treasury)"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/36.zon"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/36.zon"
 }

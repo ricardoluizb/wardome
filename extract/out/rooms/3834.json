@@ -1,0 +1,21 @@
+{
+  "id": 3834,
+  "zone_id": 38,
+  "name": "An End of the Tunnel",
+  "description": "You are at an end of the tunnel, and you can see signs of digging here.  The\nwalls glitter from a lantern hung on a wall.  The exit is to the east.",
+  "header_raw": "38 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3833
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

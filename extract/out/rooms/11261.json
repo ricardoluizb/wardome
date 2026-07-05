@@ -1,0 +1,45 @@
+{
+  "id": 11261,
+  "zone_id": 112,
+  "name": "The Central Worship Area",
+  "description": "The passage opens onto the center of the hemispherical chamber, the\nceiling of which is elaborately decorated with murals depicting an open\nsky, filled with birds and other creatures. A slight breeze blows continually\naround the chamber, reminding you of a fresh spring morning. All of the pews\nthat normally rest on the blue stone floor here have been smashed to flinders,\nhowever, and piled in the center of the room. Rats and maggots crawl about the\nfurniture, and the corpses of the clergy interred within.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11258
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11265
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11273
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11262
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

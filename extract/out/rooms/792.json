@@ -1,0 +1,21 @@
+{
+  "id": 792,
+  "zone_id": 7,
+  "name": "Kitchen",
+  "description": "As all the other rooms in this house, this kitchen has been mostly\ndestroyed by time and inconsideration by the current owners.  There is\nstill some fresh food lying about, but a rotten smell fills the air,\nand you see small insects scuttling about in the trash on the floor.\nThe one thing that is sure is that you don't want to eat anything that\nwas prepared here!",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 789
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

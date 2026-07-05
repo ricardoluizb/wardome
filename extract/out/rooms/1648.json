@@ -1,0 +1,29 @@
+{
+  "id": 1648,
+  "zone_id": 16,
+  "name": "Turret of the Eastern Tower",
+  "description": "You stand in the turret of the eastern tower.  A huge hole has been\nmade in the roof by some enormous beast, letting the daylight (or moonlight)\nin.  There is a hatchway in the floor, and an opening to the west leading out\nonto a catwalk.",
+  "header_raw": "16 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "There is a small opening this way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1649
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 1,
+      "key": -1,
+      "to": 1647
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

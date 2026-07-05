@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "The Door To The Kingdom",
   "description": "Here the path turns to the west.  You can see a door in front of you,\nand the path continues to the west and south.",
-  "header_raw": "65 d 0",
-  "flags_text": "d",
+  "header_raw": "65 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

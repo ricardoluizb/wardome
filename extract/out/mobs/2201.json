@@ -1,0 +1,12 @@
+{
+  "id": 2201,
+  "alias": "oldstyle draconian",
+  "short_desc": "the Draconian",
+  "long_desc": "The Draconian is standing here.",
+  "detailed_desc": "This horrible creature is a bizarre cross between a man and a dragon.  He \nhas black scales and a seven foot wingspan.  He scowls at you and hefts his \nspear as you enter the room.",
+  "flags_raw": "14 1192 -900 E",
+  "stats1_raw": "165 -78 -26 1d1+15180 5d33+146",
+  "stats2_raw": "2475 17656925 8",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/22.mob"
+}

@@ -3,8 +3,8 @@
   "zone_id": 72,
   "name": "The Entrance",
   "description": "You are in a very dark room.  You notice that some faces are staring at\nyou from inside the walls.  In the middle of the room there is a small altar.\nTo the north there is a small round door.",
-  "header_raw": "72 ad 1",
-  "flags_text": "ad",
+  "header_raw": "72 9 1",
+  "flags_text": "9",
   "sector": 1,
   "exits": [
     {
@@ -26,12 +26,12 @@
   ],
   "extra_descriptions": [
     {
-      "keywords": "altar",
-      "description": "This altar is very special.  Faces appear to be smiling from it.  There\nis a triangle engraved in the top of it."
-    },
-    {
       "keywords": "triangle",
       "description": "The triangle is filled with small symbols.  They seem to be a language\nyou have never seen before."
+    },
+    {
+      "keywords": "altar",
+      "description": "This altar is very special.  Faces appear to be smiling from it.  There\nis a triangle engraved in the top of it."
     }
   ],
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/72.wld"

@@ -1,0 +1,29 @@
+{
+  "id": 30072,
+  "zone_id": 300,
+  "name": "An elven home",
+  "description": "This is a small cottage house built in a quaint architectural style.  It has\nbeen constructed mostly from wood and has been painted in shades of green,\nbrown and white.  Lattice grates have been attached to the window panels and\nthe walls are lined with a few canvas works.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30067
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30073
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

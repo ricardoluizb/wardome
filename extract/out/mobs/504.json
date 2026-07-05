@@ -1,0 +1,12 @@
+{
+  "id": 504,
+  "alias": "sherif",
+  "short_desc": "Wardome Sheriff",
+  "long_desc": "The Wardome Sheriff is here protecting the city.",
+  "detailed_desc": "A big man, the best man to protect the city.",
+  "flags_raw": "8 16777216 0 E",
+  "stats1_raw": "0 0 0 0d0+1000 120d-40+-8",
+  "stats2_raw": "1 1 3360",
+  "stats3_raw": "5 14 52 -68 -23",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/5.mob"
+}

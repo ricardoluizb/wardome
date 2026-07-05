@@ -1,0 +1,21 @@
+{
+  "id": 11253,
+  "zone_id": 112,
+  "name": "A Cell",
+  "description": "This cell is small, simple and relatively clean. A huddled body in one corner\nis all that remains of the unfortunate soul trapped in here and left to die\nof starvation after the townsfolk fell under the sway of the evil spell. Now\ntheir enraged spirits linger, however, thirsting for revenge!",
+  "header_raw": "112 72 0",
+  "flags_text": "72",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 11261,
+      "to": 11251
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

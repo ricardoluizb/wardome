@@ -1,0 +1,45 @@
+{
+  "id": 12202,
+  "zone_id": 122,
+  "name": "The Icy Wastes",
+  "description": "You wander blindly through the blizzard, your footsteps being completely\ncovered in seconds behind you, making it impossible to judge exactly how\nfar you have travelled. Anything dropped here is quickly buried under tons\nof fresh snow. A creature howls somewhere nearby; you doubt these barren\nwastes are home to anything benign...",
+  "header_raw": "122 1 1",
+  "flags_text": "1",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12202
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12203
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12201
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12204
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

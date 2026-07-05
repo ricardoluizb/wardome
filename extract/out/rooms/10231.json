@@ -1,0 +1,21 @@
+{
+  "id": 10231,
+  "zone_id": 102,
+  "name": "Standing Forefront the Thrones",
+  "description": "You are standing before Queen Lenne's throne and King Leone's throne.\nThere are some bodyguards standing by both sides of the thrones. Thrones\nwhich are mad of a massive and beautifull oak, addorned with gold and\nsilver, giving a different air to the royalty of the room.",
+  "header_raw": "102 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10215
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

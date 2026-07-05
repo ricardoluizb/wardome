@@ -1,0 +1,29 @@
+{
+  "id": 29580,
+  "zone_id": 295,
+  "name": "The Streets of Ilium",
+  "description": "You are standing on a street in the city of Ilium, also known as Troy.\nTrojans run here and there, with worried looks on their faces, for they\nare concerned for the safety of their city and their families during this\nwar. This state of war has lasted for nine years, with no sign of abating.\nThe massive walls of the city that loom to the south look strong enough to\nrepel any foe, though. The palace lies to the north of here.",
+  "header_raw": "295 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29584
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29573
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/295.wld"
+}

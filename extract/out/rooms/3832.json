@@ -1,0 +1,29 @@
+{
+  "id": 3832,
+  "zone_id": 38,
+  "name": "A Bend in the Tunnels",
+  "description": "You are in a bend in the tunnels.  A lantern blazes on a low ceiling.  The\nexits are to the west and south.",
+  "header_raw": "38 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3833
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3830
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

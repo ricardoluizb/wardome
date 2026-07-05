@@ -1,0 +1,29 @@
+{
+  "id": 8269,
+  "zone_id": 82,
+  "name": "Revolution Plaza",
+  "description": "You are in the western end of the plaza, you see infront of you an old\nbuilding, with big windows. It is the Musketeers H.Q. this is a place\nyou dont want to miss, the entrance is to the east.",
+  "header_raw": "82 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8268
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8264
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

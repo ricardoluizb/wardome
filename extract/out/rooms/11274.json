@@ -1,0 +1,29 @@
+{
+  "id": 11274,
+  "zone_id": 112,
+  "name": "The Gaping Pit",
+  "description": "Here, an evil block of black stone rises from a gaping hole in the\nearth, which leads into some netherworld from which the vile beast that\nconducts operations here was spawned. To enter it would mean no return,\nand you are certain that not even you could survive long when exposed to\nthe pure chaos that surely lurks at the bottom of this void. A shrill shrieking\nemanates from all sides; its source hundreds of faces that press against the\nwalls, as if they belonged to people imprisoned within the shifting surface of\nthe stone. You had heard that all structures of Chaos were formed from the\nunwilling souls of sacrifical victims, bound to eternal excruciating pain as\nbuilding blocks for Chaos.",
+  "header_raw": "112 73 0",
+  "flags_text": "73",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11273
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11275
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

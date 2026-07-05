@@ -1,0 +1,54 @@
+{
+  "id": 28528,
+  "zone_id": 285,
+  "name": "The guarded hall",
+  "description": "You walk down a torch lit hallway. It has been carved out of pure stone. \nIt is very quiet in this hall. You notice rows of colored doors on each \nwall. To your east, you see a holy door. To your west, you see a red \ndoor. The hall itself leads south and north.",
+  "header_raw": "285 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28527
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "holy",
+      "door_flag": 2,
+      "key": 28506,
+      "to": 28540
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28529
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "arena",
+      "door_flag": 2,
+      "key": 28502,
+      "to": 28512
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "arena",
+      "description": "You see a arena  door."
+    },
+    {
+      "keywords": "holy",
+      "description": "You see a holy door. It has the name \"Avatar\" written on it."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/285.wld"
+}

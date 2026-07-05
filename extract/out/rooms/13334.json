@@ -1,0 +1,45 @@
+{
+  "id": 13334,
+  "zone_id": 132,
+  "name": "The West Market Square",
+  "description": "You are on one of two market squares in Cloudy Mountain.  The tiles here are\na dull black color.  Even though this market seems rather gloomy, the city\nhere is still in excellent condition.  A dark alley is west and a dark mansion\nis east.  The market continues north and south.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "west market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13332
+    },
+    {
+      "dir": 1,
+      "description": "Kringe's domain",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13336
+    },
+    {
+      "dir": 2,
+      "description": "the market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13338
+    },
+    {
+      "dir": 3,
+      "description": "a dark alley",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13335
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 9909,
+  "alias": "ghenna death knight",
+  "short_desc": "the Death Knight",
+  "long_desc": "A Death Knight stands here, lowering at you.",
+  "detailed_desc": "A hulking skeleton, its face a blackened skull covered with shards of\nshriveled rotting flesh, chillingly returns your gaze.",
+  "flags_raw": "137256 136 0 E",
+  "stats1_raw": "25 6 4 1d1+900 5d3+20",
+  "stats2_raw": "375 80053 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/99.mob"
+}

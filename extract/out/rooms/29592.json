@@ -1,0 +1,29 @@
+{
+  "id": 29592,
+  "zone_id": 295,
+  "name": "Inside the Palace",
+  "description": "This opulent abode is heavily furnished with items of bronze, gold and silver.\nThere is a central throne room to the north of here. This place appears to\nbe fairly deserted compared to the rest of the city.",
+  "header_raw": "295 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29597
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 29588
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/295.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1018,
+  "zone_id": 10,
+  "name": "The Bell Room",
+  "description": "Standing in this tall room, you feel rather small.  You look up into\nthe gloomy rafters above and you can see countless bells hanging up there,\nswinging to and fro lightly.  Every so often one peals out with its distinct\nring.  The dim light in here is throwing strange shadows all over the place.\nWait!  Did one just move?",
+  "header_raw": "10 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Through the doorway, you can only see darkness.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1015
+    },
+    {
+      "dir": 3,
+      "description": "Through the doorway, you can only see darkness.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1017
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

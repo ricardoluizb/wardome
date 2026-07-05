@@ -1,0 +1,26 @@
+{
+  "id": 2399,
+  "zone_id": 23,
+  "name": "Belrak's Natural Room",
+  "description": "This room is full of green. The furniture and all other items show the color\nof nature. The room smells of pine and forest odors. From the items here, it\nappears as though a woodsman of some sorts lives here. A &Ggreen&n door leads east.",
+  "header_raw": "23 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see a &Ggreen&n door there.",
+      "keywords": "door green",
+      "door_flag": 2,
+      "key": 2357,
+      "to": 2397
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "brown",
+      "description": "It looks like it leads to the hall."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

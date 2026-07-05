@@ -1,0 +1,12 @@
+{
+  "id": 6743,
+  "alias": "thief wanted",
+  "short_desc": "a wanted thief",
+  "long_desc": "A thief is lounging, hiding out from the bounty hunters.",
+  "detailed_desc": "He doesn't look too nervous about being found and brutally hung for\nhis crimes. With his feet up and margarita in hand, he kicks back in\nan easy chair and thumbs through a magazine.",
+  "flags_raw": "10 819328 -1000 E",
+  "stats1_raw": "160 -60 -14 1d1+4476 5d17+64",
+  "stats2_raw": "2400 11302310 0",
+  "stats3_raw": "8 8 1 2 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/67.mob"
+}

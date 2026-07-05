@@ -1,0 +1,21 @@
+{
+  "id": 9979,
+  "zone_id": 99,
+  "name": "A slimey footpath.",
+  "description": "What the hell?!  This footpath is covered with a slimey substance \nakin to ectoplasm - its really gross.  The path is so slippery that \nyou cant ascend to where there is a covered walkway above you.  Your \nonly option is to go West.",
+  "header_raw": "99 5 1",
+  "flags_text": "5",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9980
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

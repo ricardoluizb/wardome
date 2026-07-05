@@ -4,9 +4,9 @@
   "short_desc": "Raphael",
   "long_desc": "The archangel Raphael looks up and frowns at you in disapproval.",
   "detailed_desc": "It is impossible to get a solid glance at the archangel.  He is nothing\nthat is human, and with a mere whisper, he dispels every image that you\nattempt to create in your mind.",
-  "flags_raw": "bl h 1000 S",
-  "stats1_raw": "29 -6 -7 1d100+1900 6d7+7",
-  "stats2_raw": "0 280000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "256414 17568942 1000 E",
+  "stats1_raw": "160 -72 -23 1d1+12156 5d33+124",
+  "stats2_raw": "2400 16576721 6",
+  "stats3_raw": "8 8 1 1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/15.mob"
 }

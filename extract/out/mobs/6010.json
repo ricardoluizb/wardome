@@ -4,9 +4,9 @@
   "short_desc": "the squirrel",
   "long_desc": "A squirrel is here seeking refuge in its nest.",
   "detailed_desc": "It peers out of its nest at you anxiously, seeming to plead silently with\nyou to leave it alone.",
-  "flags_raw": "b st 200 S",
-  "stats1_raw": "1 20 8 1d7+9 1d5+0",
-  "stats2_raw": "0 120",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "10 786432 200 E",
+  "stats1_raw": "2 19 9 1d1+36 5d1+0",
+  "stats2_raw": "30 376 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/60.mob"
 }

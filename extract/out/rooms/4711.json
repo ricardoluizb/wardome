@@ -1,0 +1,21 @@
+{
+  "id": 4711,
+  "zone_id": 47,
+  "name": "Dwarven mine",
+  "description": "The small shaft ends abruptly at a jewel encrusted wall.  To the north the\nsmall shaft continues some past some small rocks.",
+  "header_raw": "47 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4710
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 8106,
+  "producing": [
+    8156,
+    8155,
+    8154,
+    8153
+  ],
+  "profit_buy": 1.0,
+  "profit_sell": 0.5,
+  "buy_types": [
+    "1"
+  ],
+  "messages": [
+    "%s I don't see that here. Do you?",
+    "%s Well, my friend, perhaps you hallucinate?",
+    "%s I buy only things that bubble and fizz.",
+    "%s Too expensive for THIS wizard.",
+    "%s Alas, you are too poor to buy that.",
+    "%s That'll be %d coins, please.",
+    "%s Here. I pay you %d coins. Is that enough?"
+  ],
+  "tail": [
+    0,
+    3,
+    8106,
+    2,
+    8130,
+    -1,
+    5,
+    12,
+    13,
+    18
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/81.shp"
+}

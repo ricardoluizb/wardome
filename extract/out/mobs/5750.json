@@ -1,0 +1,12 @@
+{
+  "id": 5750,
+  "alias": "spider giant",
+  "short_desc": "a giant Spider",
+  "long_desc": "A loathsome spider the size of a small pony scuttles towards you.",
+  "detailed_desc": "You are not sure which scares you the most about this horrible arachnid-\nThe way its 2 feet long furry legs scuttle on the rock as it races at you,\nthe way its beady eyes stare evilly at you as is approaches, or the way the\nvenom dripping from its maw burns into the stone as it falls...",
+  "flags_raw": "106 8 -400 E",
+  "stats1_raw": "20 -12 -9 1d1+2316 5d7+118",
+  "stats2_raw": "300 65430 11",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

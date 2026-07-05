@@ -1,0 +1,21 @@
+{
+  "id": 5738,
+  "zone_id": 57,
+  "name": "A Pit",
+  "description": "Ack! As you open the door and pass through, you fall into a deep pit! The \nsides are smooth and unscaleable, and for some reason your magic doesn't\nseem to work here. Looks like you might need to recall.",
+  "header_raw": "57 13 0",
+  "flags_text": "13",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "a trapdoor",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

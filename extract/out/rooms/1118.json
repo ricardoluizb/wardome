@@ -1,0 +1,45 @@
+{
+  "id": 1118,
+  "zone_id": 11,
+  "name": "Bywater Road",
+  "description": "You stand on Bywater Road, the busiest street in all of Shiredom.  The road\ncontinues to the east and west.  A large, imposing building lies to the south.\nYou catch a glimpse of the Brandywine River to the north.",
+  "header_raw": "11 8192 1",
+  "flags_text": "8192",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1176
+    },
+    {
+      "dir": 1,
+      "description": "To the east you see the entrance to the Shire.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1103
+    },
+    {
+      "dir": 2,
+      "description": "A large, imposing building lies to the south.  A sign reads 'Shiriff Post'.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1189
+    },
+    {
+      "dir": 3,
+      "description": "To the west runs Bywater Road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1120
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 20030,
+  "zone_id": 200,
+  "name": "Stairwell",
+  "description": "A stairwell here leads back down to the first floor and the main room of the\nwayhouse.  A hallway leads east along the second floor here, lined with doors\nto private bedrooms.  The floors, stairs, and walls are all made with sturdy\noak in contrast of the heavy stone of the exterior walls.  A light at the top\nof the stairs throws illumination down the hall.",
+  "header_raw": "200 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20031
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20029
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/200.wld"
+}

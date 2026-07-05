@@ -3,8 +3,8 @@
   "zone_id": 64,
   "name": "A Hall",
   "description": "This is the northern end of the hall.  There are cells to\nyour right and left, empty and awaiting occupants.",
-  "header_raw": "64 ad 0",
-  "flags_text": "ad",
+  "header_raw": "64 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

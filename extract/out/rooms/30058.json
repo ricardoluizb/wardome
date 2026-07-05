@@ -1,0 +1,37 @@
+{
+  "id": 30058,
+  "zone_id": 300,
+  "name": "A pleasant grove",
+  "description": "A peaceful spot amongst the soft green trees.  Leaf litter covers the ground.\nA cool westerly breeze causes the leaves to swirl and scatter about the place.\nTo the northeast you can see the main street of the Grey Havens while to the\nsoutheast is a grass avenue lined with trees.  It seems to be the residential\narea.",
+  "header_raw": "300 12 1",
+  "flags_text": "12",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30031
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30007
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30064
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

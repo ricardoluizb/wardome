@@ -1,0 +1,21 @@
+{
+  "id": 12222,
+  "zone_id": 122,
+  "name": "Stables of Blodug-Hofi",
+  "description": "Although these magnificent stables that you have entered appear to be\ncapable of housing three score of mighty warhorses, there is evidence\nof but one steed being quartered here; the steed of Frey and thus considered\nworthy of such accommodations. Stout oak rafters support a thatched roof,\nwhile the whitewashed walls are filled with hooks that bear various tack\nand saddle care items, as well as several mammoth sacks of oats.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12220
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

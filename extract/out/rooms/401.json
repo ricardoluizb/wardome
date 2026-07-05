@@ -1,0 +1,29 @@
+{
+  "id": 401,
+  "zone_id": 4,
+  "name": "Upstairs",
+  "description": "Inside the castle dont have much exits,you walk a lot for him but no find anything, you see a upstairs to up.",
+  "header_raw": "4 244 0",
+  "flags_text": "244",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 400
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 402
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/4.wld"
+}

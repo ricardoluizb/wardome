@@ -1,0 +1,29 @@
+{
+  "id": 3460,
+  "zone_id": 34,
+  "name": "Den of the Vampire",
+  "description": "Your mind whirls in the hideous madness of this place.  The stench\nis horrendous and dead bodies, sucked of life, lay all over.  One coffin\nlies in the center of the room ... waiting for YOU!",
+  "header_raw": "34 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3459
+    },
+    {
+      "dir": 5,
+      "description": "A jet black coffin ... who knows what lurks beneath.",
+      "keywords": "coffin",
+      "door_flag": 2,
+      "key": 3419,
+      "to": 3475
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/34.wld"
+}

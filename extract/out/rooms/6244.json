@@ -3,8 +3,8 @@
   "zone_id": 62,
   "name": "A Tunnel",
   "description": "The floor is slick with the humidity that boils out of\nthe lower reaches of this cave, bringing that most awful \nsmell with it.  Again, you consider saving your nose the \ntrip west and down the tunnel, and heading back east to \nthe cave entrance.",
-  "header_raw": "62 ad 4",
-  "flags_text": "ad",
+  "header_raw": "62 9 4",
+  "flags_text": "9",
   "sector": 4,
   "exits": [
     {

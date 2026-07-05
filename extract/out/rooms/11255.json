@@ -1,0 +1,29 @@
+{
+  "id": 11255,
+  "zone_id": 112,
+  "name": "Heroes' Walk",
+  "description": "The walk continues south towards the temple of Asteh, to the south,\npast the great Library of Hochenyana, a famed mage's retreat in the\nempire. You shudder to think what will have happened to this once great\ncenter of learning in these times of neglect.",
+  "header_raw": "112 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11250
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11256
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

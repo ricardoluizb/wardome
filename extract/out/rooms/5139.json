@@ -3,8 +3,8 @@
   "zone_id": 51,
   "name": "The Clerics' Barracks",
   "description": "The bed chamber is brightly decorated with spider shaped statues, murals\nand the like.  Large beds line the floor making this a comfortable room to\nlive in.",
-  "header_raw": "51 ad 0",
-  "flags_text": "ad",
+  "header_raw": "51 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

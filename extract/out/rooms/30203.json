@@ -1,0 +1,37 @@
+{
+  "id": 30203,
+  "zone_id": 302,
+  "name": "&MT&mhrone &BR&boom&n",
+  "description": "You are in the throne room, gorgeous and richly decorated.  The whole floor is\ncovered with a beautiful red carpet.  Most of the walls are covered with yellow\ncurtains, and on each curtain there is the painting of the Purple Dragon,\ndecorated with gold and silver.  On the walls that there is no curtain, some\npictures with great figures of the clan and this world are hung, also diverse\nhistories of the Purple Dragons.  There is a rectangular table in the middle of\nthe hall, that is used for the meeting of the high cupole, and still to receive\nillustrious celebrities with style.  The throne is the great attraction of all\nthis high-decorated hall.  It was made of a mixture of diverse noble materials\nas gold, silver, mithril and adamantite.  There is still a sign for the most\ndiverse acknowledgments near the entrance of this hall.",
+  "header_raw": "302 128 0",
+  "flags_text": "128",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30202
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30205
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/302.wld"
+}

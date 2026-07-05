@@ -1,0 +1,45 @@
+{
+  "id": 6904,
+  "zone_id": 69,
+  "name": "Inside The Dark and Creepy House",
+  "description": "You are inside of the very dark and damp old house, which is frightening you\nvery much now.  Noises appear from nowhere, and small shadows lurk on the\nwalls.  Rodent problem, maybe.  Every so often lightning strikes and lights up\nthe house for a split second, and then the thunder booms loudly.",
+  "header_raw": "69 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6921
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6905
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "old rotten wooden door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6903
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6922
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

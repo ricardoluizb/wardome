@@ -1,0 +1,37 @@
+{
+  "id": 13372,
+  "zone_id": 132,
+  "name": "The Caves of Cloudy Mountain",
+  "description": "You only see a large, stone room carved out the rock.  Exits are north,\neast and south.  Strange, lizard-like tracks are on the ground.  You hear a \ndragon snoring.",
+  "header_raw": "132 9 5",
+  "flags_text": "9",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "the caves",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13371
+    },
+    {
+      "dir": 1,
+      "description": "the caves",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13380
+    },
+    {
+      "dir": 2,
+      "description": "the caves",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13373
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

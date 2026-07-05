@@ -1,0 +1,29 @@
+{
+  "id": 161,
+  "zone_id": 1,
+  "name": "Climbing Up the Cliff",
+  "description": "You simply cannot do it.  Your arms are like jello and your breath is coming\nin hot racking gasps that make your palms sweat and your head ache.  You have\nno choice but to head back down to the forest and find your way out some other\nway.",
+  "header_raw": "1 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 161
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 103
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/1.wld"
+}

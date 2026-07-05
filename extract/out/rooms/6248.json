@@ -3,8 +3,8 @@
   "zone_id": 62,
   "name": "A Cave",
   "description": "There are bodies here... corpses.  Orcs, the lot of \nthem, every single one of them horribly disfigured in \nsome senseless way; one whose arms were removed, another \nwho lacks anything that could sensibly be called a face. \nA few twitch feebly with the last remains of life, the \nrest just decompose.  The dim sense of horror budding in \nyour head blossoms as you realize the pile in the corner \nconsists of dead orc children awaiting burial.",
-  "header_raw": "62 cd 4",
-  "flags_text": "cd",
+  "header_raw": "62 12 4",
+  "flags_text": "12",
   "sector": 4,
   "exits": [
     {

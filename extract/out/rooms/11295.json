@@ -1,0 +1,29 @@
+{
+  "id": 11295,
+  "zone_id": 112,
+  "name": "A Secret Tunnel",
+  "description": "The secret door opens onto a rough tunnel, carved from the rock beneath\nHochenyana by something with powerful claws; the rock appears to have been\nrended as if it were butter. The floor of the tunnel is composed of fresh\nsoil, either a product of the excavation or a deliberate covering, you know\nnot. It bears a number of tracks, some humanoid, some unrecognizable. It\nruns at an angle away from the secret door, to the north.",
+  "header_raw": "112 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11296
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11294
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1012,
+  "alias": "wraith",
+  "short_desc": "the wraith",
+  "long_desc": "A strange humanoid shape moves towards you.  It is a wraith!",
+  "detailed_desc": "This thing looks vaguely humanoid, but does not appear to be made\nof flesh but rather seems to be made of a strange electricity in\nthe air.",
+  "flags_raw": "74 1048712 -800 E",
+  "stats1_raw": "50 -25 -12 1d1+5400 5d16+120",
+  "stats2_raw": "750 668281 10",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/10.mob"
+}

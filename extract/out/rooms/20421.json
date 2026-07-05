@@ -1,0 +1,21 @@
+{
+  "id": 20421,
+  "zone_id": 204,
+  "name": "Third Depository",
+  "description": "You enter and see a lot of ant's walking around the room. You can feel the presence from something strange.\nBut you can't see this, you are lost.",
+  "header_raw": "204 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "deposit",
+      "door_flag": 1,
+      "key": 0,
+      "to": 20406
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/204.wld"
+}

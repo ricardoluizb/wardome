@@ -1,0 +1,29 @@
+{
+  "id": 17696,
+  "zone_id": 176,
+  "name": "Above the Dragon Chamber",
+  "description": "You are above the Dragon Chamber.  You curiously note that this shaft that\nconnects the chamber to the sky is wide enough that even a dragon can fit\nthrough.  This shaft leads up and down.",
+  "header_raw": "176 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17697
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17693
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/176.wld"
+}

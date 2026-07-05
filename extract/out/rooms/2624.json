@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "A Dark Room",
   "description": "You are in a large dark room.  The stench here makes you gag and retch.\nThere are body parts and half rotted corpses strewn about with complete\nabandon.  Several operating tables with still forms that resemble nothing\nyou have ever seen alive are here.\n   Tortured screams can be heard from the north.",
-  "header_raw": "25 adg 0",
-  "flags_text": "adg",
+  "header_raw": "25 73 0",
+  "flags_text": "73",
   "sector": 0,
   "exits": [
     {

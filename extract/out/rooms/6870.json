@@ -1,0 +1,29 @@
+{
+  "id": 6870,
+  "zone_id": 67,
+  "name": "A stairwell",
+  "description": "An old temple stairwell winds down in darkness into the inner, long\nabandoned recesses of the golden temple. It seems few have reason\nto travel this way. The dust that coats the steps lies mostly\nundisturbed, and an aura of desertion hangs about the place.\nWhoever does traverse these ancient halls may or may not have\nthe light of goodness in their motivations.",
+  "header_raw": "67 13 0",
+  "flags_text": "13",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6872
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6761
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

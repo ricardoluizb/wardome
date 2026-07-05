@@ -1,0 +1,12 @@
+{
+  "id": 3405,
+  "alias": "oldstyle priest",
+  "short_desc": "the priest",
+  "long_desc": "A priest of God stands here solemnly speaking words of praise.",
+  "detailed_desc": "Obviously a goodly man, you feel closer to God just by gazing upon this man.\nDressed in white, fine white hair, and a soft slightly wrinkled face ...\nthis man has a sacred beauty.  You see a halo around his head.",
+  "flags_raw": "58 168 1000 E",
+  "stats1_raw": "165 -74 -23 1d1+12540 5d33+126",
+  "stats2_raw": "2475 16479797 6",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/34.mob"
+}

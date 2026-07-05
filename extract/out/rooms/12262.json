@@ -1,0 +1,29 @@
+{
+  "id": 12262,
+  "zone_id": 122,
+  "name": "The Halls of the Aesir",
+  "description": "You pass into a low ceilinged lodge, the interior of which is heavily\ndecorated with various trophies, mementoes and a profusion of animal\nhides. It is in this hall, bathed in firelight, that the Aesir gather\nto sing songs, listen to tales, and drink copious quantities of ale as\nthe mood takes them.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12263
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12261
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

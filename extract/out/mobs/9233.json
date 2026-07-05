@@ -1,0 +1,12 @@
+{
+  "id": 9233,
+  "alias": "oldstyle illusionist",
+  "short_desc": "an illusionist",
+  "long_desc": "The illusionist seeks the aid of the elemental forces.",
+  "detailed_desc": "He seeks their aid for a powerful new spell of deception.\n\n<wielded>            The Sword of Illusions",
+  "flags_raw": "74 0 -50 E",
+  "stats1_raw": "150 -55 -12 1d1+4200 5d16+60",
+  "stats2_raw": "2250 10308702 0",
+  "stats3_raw": "8 8 0 9 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/92.mob"
+}

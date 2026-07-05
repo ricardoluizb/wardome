@@ -1,0 +1,38 @@
+{
+  "id": 3412,
+  "zone_id": 34,
+  "name": "The Grand Hall of Kings",
+  "description": "You are at the west end of the Grand Hall of Kings.  There is a doorway to the\nsouth with something strange written above it.  Also on the floor are dried\nblood stains, but their color seems a little wrong.",
+  "header_raw": "34 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3417
+    },
+    {
+      "dir": 2,
+      "description": "A door to the south",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 3413
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "stain stains",
+      "description": "That's odd ... they seem a little GREEN."
+    },
+    {
+      "keywords": "door writing",
+      "description": "Above the door is some strange writing!  It is worn with age, but it refers\nto an ancient ruler named 'Shohan'."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/34.wld"
+}

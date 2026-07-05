@@ -4,9 +4,9 @@
   "short_desc": "the giant lizard",
   "long_desc": "A giant lizard is foraging for food along the cavern floor here.",
   "detailed_desc": "This scaly creature looks like it is well adapted to its underground\nhabitat.  He looks very powerful.",
-  "flags_raw": "g dk 100 S",
-  "stats1_raw": "21 0 1 4d20+340 3d7+4",
-  "stats2_raw": "200 55000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "72 1032 100 E",
+  "stats1_raw": "61 -10 1 1d1+1278 5d7+24",
+  "stats2_raw": "915 723420 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/65.mob"
 }

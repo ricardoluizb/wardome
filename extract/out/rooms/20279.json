@@ -1,0 +1,21 @@
+{
+  "id": 20279,
+  "zone_id": 0,
+  "name": "The Hills of Emyn Muil",
+  "description": "At finally, the end!  The enormous maze of mountains is in your back now.  But\ndon't start to comemorate yet!  Look to the east and prepare for the next step\nof your journey...  The Dead Marshes.",
+  "header_raw": "0 72 5",
+  "flags_text": "72",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20278
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/202.wld"
+}

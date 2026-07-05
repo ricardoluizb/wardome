@@ -1,0 +1,46 @@
+{
+  "id": 14100,
+  "zone_id": 141,
+  "name": "Entrance to Ultima",
+  "description": "The blue moongate casts an strange blue light upon a huge gate to\nthe south.  The gate is open and beyond it you see a simple\nvillage.  Around the gate there are two pedestals.  On the first\npedestal, there is a magic scroll.  On the second there is a\nplaque.",
+  "header_raw": "141 16777292 0",
+  "flags_text": "16777292",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6069
+    },
+    {
+      "dir": 2,
+      "description": "There is a huge gate",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14101
+    },
+    {
+      "dir": 5,
+      "description": "A blue moongate",
+      "keywords": "moongate",
+      "door_flag": 1,
+      "key": -1,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "plaque",
+      "description": "The plaque reads, \"The Ultima Area was made for Merc 2.0.\""
+    },
+    {
+      "keywords": "magic scroll",
+      "description": "An image flew out of the scroll and creates a huge image of a\nface approximately ten feet off the ground.  It says, \" Welcome\nto Ultima, where adventure and excitement may be found for all\npeople, and all levels.  Each of the separate planes increase in\nlevel. Have a nice day!\""
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

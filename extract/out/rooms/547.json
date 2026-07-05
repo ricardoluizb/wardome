@@ -1,0 +1,29 @@
+{
+  "id": 547,
+  "zone_id": 5,
+  "name": "&CThe Bridge&n",
+  "description": "You find yourself in another way of leaving the city, which is by\nthe river. For your luck, there is a Captain here, sellin canoes, boats and\nother kind of sea vehicles. Leading down the bridge you will find yourself\nalready in the sea.",
+  "header_raw": "5 144 0",
+  "flags_text": "144",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 538
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 550
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

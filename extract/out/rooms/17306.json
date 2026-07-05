@@ -1,0 +1,42 @@
+{
+  "id": 17306,
+  "zone_id": 173,
+  "name": "A Fork in the Dirty Trail",
+  "description": "You are at a fork in the dirty trail in Forest Arden. There is horsesign\nin the dirt, and the trail goes north, east, and west from here.",
+  "header_raw": "173 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A dirty trail",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17309
+    },
+    {
+      "dir": 1,
+      "description": "A dirty trail",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17310
+    },
+    {
+      "dir": 3,
+      "description": "A dirty trail",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17302
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "horsesign",
+      "description": "You bend down and look at the hoof marks in the dirt. The heavy traffic \ngoes to the north and west."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

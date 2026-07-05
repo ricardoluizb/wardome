@@ -3,18 +3,10 @@
   "zone_id": 15,
   "name": "Hate",
   "description": "There is little in life much easier, and truthfully, little that is a\nquicker ticket to damnation.  You give brief thanks that you have come to\nthe end of these trials, but your words are drowned out by something\nmuch louder, a mechanical preaching that drowns your ears in anger.  You\nhear a steady, repetitive litany of the same phrase, over and over again:\n\"I go the way history dictates with the blind assurance of a sleep-walker.\"",
-  "header_raw": "15 ad 0",
-  "flags_text": "ad",
+  "header_raw": "15 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
-    {
-      "dir": 2,
-      "description": "",
-      "keywords": "",
-      "door_flag": 0,
-      "key": -1,
-      "to": 1511
-    },
     {
       "dir": 0,
       "description": "",
@@ -22,6 +14,14 @@
       "door_flag": 0,
       "key": -1,
       "to": 1528
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1511
     }
   ],
   "extra_descriptions": [],

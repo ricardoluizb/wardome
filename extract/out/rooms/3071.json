@@ -1,0 +1,29 @@
+{
+  "id": 3071,
+  "zone_id": 30,
+  "name": "Paladins?",
+  "description": "This was the entrance hall to the Guild of the Paladins. A holy place\nwith holy knights. Now it is a dead place with dead beasts.",
+  "header_raw": "30 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3053
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3095
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/30.wld"
+}

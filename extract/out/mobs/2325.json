@@ -1,0 +1,12 @@
+{
+  "id": 2325,
+  "alias": "Harok",
+  "short_desc": "Harok",
+  "long_desc": "Harok, the Minotaur Warrior Master, is here practicing his skills.",
+  "detailed_desc": "Harok is HUGE. His bulging muscles are confined beneath heavy armor. It seems\nvery clear why he is the master of the warriors of Mahn-Tor.",
+  "flags_raw": "2090 136 -300 E",
+  "stats1_raw": "200 -84 -23 1d1+8796 5d21+100",
+  "stats2_raw": "3000 26655827 2",
+  "stats3_raw": "8 8 1 3 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/23.mob"
+}

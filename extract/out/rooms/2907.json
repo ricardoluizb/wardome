@@ -1,0 +1,21 @@
+{
+  "id": 2907,
+  "zone_id": 29,
+  "name": "Mountain top",
+  "description": "You are standing at the top of the mountain. The mountain looks like it has\nbeen ravaged by something.",
+  "header_raw": "29 4 4",
+  "flags_text": "4",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "You see the entrance to the mountain to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2906
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/29.wld"
+}

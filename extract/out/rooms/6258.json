@@ -3,8 +3,8 @@
   "zone_id": 62,
   "name": "A Tunnel",
   "description": "This tunnel opens up into a large room to the north, \nand to the south, leads towards a set of doors.  The light\nis crisp and bright, clearly showing the lack of tool \nmarks on the hewn walls... magic?  The room just ahead is \nlarge, and also well-lighted, giving it an almost clinical\natmosphere.  Somewhere in the recesses of that room \nsomething cries out in a horrible crackling voice.  Not \ngood.",
-  "header_raw": "62 d 0",
-  "flags_text": "d",
+  "header_raw": "62 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

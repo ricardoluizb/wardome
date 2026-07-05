@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "Outside The Northern Gate Of New Thalos",
   "description": "You stand outside the gate of New Thalos.  The city lies to the south,\nand wilderness to the north.",
-  "header_raw": "54 c 1",
-  "flags_text": "c",
+  "header_raw": "54 4 1",
+  "flags_text": "4",
   "sector": 1,
   "exits": [
     {
@@ -22,6 +22,14 @@
       "door_flag": 1,
       "key": 5401,
       "to": 5422
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
     }
   ],
   "extra_descriptions": [],

@@ -1,0 +1,12 @@
+{
+  "id": 11526,
+  "alias": "pimp",
+  "short_desc": "the pimp",
+  "long_desc": "A pimp is busy counting his money to see if his women have been cheating him.",
+  "detailed_desc": "You over hear the pimp reciting poetry...\nBitch better have my money\nnot some, not half\nbut all my cash!",
+  "flags_raw": "10 0 0 E",
+  "stats1_raw": "40 -4 1 1d1+1752 5d5+36",
+  "stats2_raw": "600 280201 2",
+  "stats3_raw": "8 8 1 -1 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

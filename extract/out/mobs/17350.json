@@ -1,0 +1,12 @@
+{
+  "id": 17350,
+  "alias": "serf busy",
+  "short_desc": "a busy serf",
+  "long_desc": "A busy serf is here, tilling the fields for harvest.",
+  "detailed_desc": "The serf has a farm tool and a rag to cover himself.",
+  "flags_raw": "14 0 0 E",
+  "stats1_raw": "101 -30 -5 1d1+2820 5d11+40",
+  "stats2_raw": "1515 3000569 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/173.mob"
+}

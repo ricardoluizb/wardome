@@ -1,0 +1,45 @@
+{
+  "id": 14310,
+  "zone_id": 143,
+  "name": "The Market",
+  "description": "The streets are lined with shops, and the pyramid lies to the south.",
+  "header_raw": "143 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A crowded market.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14309
+    },
+    {
+      "dir": 1,
+      "description": "A sign says, 'Food of the Gods.'",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14316
+    },
+    {
+      "dir": 2,
+      "description": "An open road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14311
+    },
+    {
+      "dir": 3,
+      "description": "A sign says, 'Mystery of the Sands'",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14317
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

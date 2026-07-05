@@ -1,0 +1,29 @@
+{
+  "id": 6716,
+  "zone_id": 67,
+  "name": "The Tower of Sorcery",
+  "description": "Gently curving sigils have been worked into the ancient, weathered\nstone of the tower of the local wizards, winding towards the ceiling\nin a sloping spiral. A stairwell has its foot at the north wall,\nrickety but presumably stable enough to support you. A dim violet\nfaerie glow illuminates the room.",
+  "header_raw": "67 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6715
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6717
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

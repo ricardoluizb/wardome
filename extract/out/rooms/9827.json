@@ -1,0 +1,29 @@
+{
+  "id": 9827,
+  "zone_id": 98,
+  "name": "Escolha seu Destino",
+  "description": "Voce venceu o segredo do Labirinto da camara mortuaria 'D'\nSua demora acegurou a fuga dos lideres e sobreviventes.\nParabens, mas nao ha tempo para comemorar.",
+  "header_raw": "98 128 0",
+  "flags_text": "128",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9601
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9826
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/98.wld"
+}

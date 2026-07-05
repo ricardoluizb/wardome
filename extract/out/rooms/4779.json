@@ -1,0 +1,37 @@
+{
+  "id": 4779,
+  "zone_id": 47,
+  "name": "A trail along the hills",
+  "description": "The trail flattens out a bit, giving you time to breathe.  You don't see much\nwater and don't think the sun is going to help your thirst.  The closest shade\nappears to be the dwarf forest, which is VERY far away.",
+  "header_raw": "47 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    },
+    {
+      "dir": 1,
+      "description": "You see the trail.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 4778
+    },
+    {
+      "dir": 5,
+      "description": "You see the scary cliff down, but at least you know you can climb it.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 4780
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 13341,
+  "zone_id": 132,
+  "name": "The Thief Guild",
+  "description": "You shine your light throughout the dark room and discover hoards of stolen\ntreasures, gold, and other goods throughout this large hall.  Many beady eyes\nare watching your every move.  The only obvious exit is north.",
+  "header_raw": "132 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "the thieves' guild",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13340
+    },
+    {
+      "dir": 3,
+      "description": "the assassin's room",
+      "keywords": "wall west",
+      "door_flag": 1,
+      "key": -1,
+      "to": 13342
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 543,
+  "zone_id": 5,
+  "name": "&WPitBull's Gym&n",
+  "description": "You are standing in an enormous room, by the first view it seems to be a gym.\nA training Master is here to help you. Here is the place where you can change your\nMeta Points, for Strength, Dexterity, Constitution, Hit Points and Move Points.\nTYPE:&GMETA&n",
+  "header_raw": "5 28 0",
+  "flags_text": "28",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 539
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 7048
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

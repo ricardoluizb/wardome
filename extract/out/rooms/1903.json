@@ -1,0 +1,21 @@
+{
+  "id": 1903,
+  "zone_id": 19,
+  "name": "Achados, perdidos ou roubados.",
+  "description": "Aqui nessa sala voce encontrara todos os objetos pegos, saqueados, ou\nfurtados por nossos membros, sinta-se a vontade, pegue o que quiser, mas\ncontribua sempre com seus dotes ladinos.",
+  "header_raw": "19 2564 0",
+  "flags_text": "2564",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1901
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/19.wld"
+}

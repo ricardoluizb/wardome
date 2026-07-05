@@ -1,0 +1,12 @@
+{
+  "id": 1100,
+  "alias": "oldstyle elven wizard",
+  "short_desc": "the Elven Wizard",
+  "long_desc": "An Elven Wizard is here, creating fireworks for the festivities.",
+  "detailed_desc": "The Elven Wizard looks at you in a solemn sort of way.  His gaze seems to\npenetrate through your innermost being.  He is wearing a silvery cloak\nand holding a multi-colored staff.  Although he appears to be older\nthan the oldest man, he seems to have an inner strength which most mortals\ncannot overcome.",
+  "flags_raw": "74 8 500 E",
+  "stats1_raw": "100 -34 -8 1d1+4392 5d11+60",
+  "stats2_raw": "1500 3589522 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/11.mob"
+}

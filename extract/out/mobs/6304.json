@@ -4,9 +4,9 @@
   "short_desc": "the orc",
   "long_desc": "The orc is stuck in the web and he can't get out.",
   "detailed_desc": "You notice an evil look in his eyes, but he seems quite drained of life,\nand all he can do is glare at you while he's stuck in this web.",
-  "flags_raw": "b 0 -400 S",
-  "stats1_raw": "2 19 8 2d10+10 2d3+0",
-  "stats2_raw": "10 300",
-  "stats3_raw": "6 6 1",
+  "flags_raw": "10 0 -400 E",
+  "stats1_raw": "102 -31 -5 1d1+2856 5d11+40",
+  "stats2_raw": "1530 3086249 0",
+  "stats3_raw": "6 6 1 -1 5",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/63.mob"
 }

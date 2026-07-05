@@ -1,0 +1,29 @@
+{
+  "id": 17318,
+  "zone_id": 173,
+  "name": "Before an Inviting Hut",
+  "description": "You stand in front of an inviting hut. Smoke curls from the chimney \nbringing you the smell of fresh venison. Lamplight cuts through the \ndarkness and the windows. A delightful song can be heard from inside.\nTo the west is the door (adjar) to the hut, and a dirty trail leads\nto the south.",
+  "header_raw": "173 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "A dirty trail",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17317
+    },
+    {
+      "dir": 3,
+      "description": "An inviting hut",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17323
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

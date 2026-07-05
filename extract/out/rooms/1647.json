@@ -1,0 +1,29 @@
+{
+  "id": 1647,
+  "zone_id": 16,
+  "name": "Third Level of Eastern Tower",
+  "description": "You are in the center of the Eastern Tower's third floor.  The room you are in\nglows with a mysterious light that has no source.  In the center of the room a\nladder climbs up to a hatchway in the ceiling.  The hatchway is a strange\nlooking keyhole.  There is also a door to the west.",
+  "header_raw": "16 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 1,
+      "key": -1,
+      "to": 1644
+    },
+    {
+      "dir": 4,
+      "description": "The hatchway appears securely fastened.  In it is a strange keyhole.",
+      "keywords": "trapdoor",
+      "door_flag": 2,
+      "key": 1666,
+      "to": 1648
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 64,
   "name": "A Hallway",
   "description": "This small hallway on the former 'ground floor' ran north-\nsouth.  To the east is the stairwell that leads up into \nthe shadowy recesses of the tower.  To the west is the\nentrance way to the tower.  The north is completely blocked\noff by lava, and the way south is still clear.",
-  "header_raw": "64 ad 0",
-  "flags_text": "ad",
+  "header_raw": "64 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

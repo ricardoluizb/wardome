@@ -1,0 +1,37 @@
+{
+  "id": 6736,
+  "zone_id": 67,
+  "name": "A shaded lane",
+  "description": "Loose leaves blow in tiny spirals along the surface of the wooded\nroad as summer fades to autumn. Between the trees to the west,\nsomething sparkles tauntingly from the dark doorway of a small\nshop. Eastwards the dome of the temple can be seen rising.",
+  "header_raw": "67 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6713
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6738
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6859
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

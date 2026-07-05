@@ -1,0 +1,29 @@
+{
+  "id": 5786,
+  "zone_id": 57,
+  "name": "A Bend",
+  "description": "The passage you are following bends sharply here, and you have the option of\ngoing west or north, depending on which direction you were coming from. The\nnorth passage looks particularly dull and empty, while the west leads to a\njunction near a small recess in the north wall.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a long passageway",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5787
+    },
+    {
+      "dir": 3,
+      "description": "a junction",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5785
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

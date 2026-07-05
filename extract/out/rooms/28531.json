@@ -1,0 +1,26 @@
+{
+  "id": 28531,
+  "zone_id": 285,
+  "name": "You are dead, sorry",
+  "description": "Somebody close the door! \n&RPANIC! You have no way out!&n\n&WYou will probably die...&n",
+  "header_raw": "285 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "deathtrap",
+      "door_flag": 2,
+      "key": 28507,
+      "to": 28529
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "deathtrap",
+      "description": "It looks like it leads back to the hall."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/285.wld"
+}

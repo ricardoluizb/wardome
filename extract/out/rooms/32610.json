@@ -1,0 +1,37 @@
+{
+  "id": 32610,
+  "zone_id": 326,
+  "name": "The garden",
+  "description": "This is what seems to be the garden of the Castle... Here you can see all kinds of flowers... There are a few trees very well handled. You probably never been in such a beaultiful place.",
+  "header_raw": "326 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 32609
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/326.wld"
+}

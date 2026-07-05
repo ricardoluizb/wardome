@@ -1,0 +1,21 @@
+{
+  "id": 11284,
+  "zone_id": 112,
+  "name": "A Dead(?) End",
+  "description": "The tunnel ends abruptly here, at a large pool of thick black muck,\neven thicker and more disgusting than the sludge elsewhere. You think you\ncan see something moving about in the mess...",
+  "header_raw": "112 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11283
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

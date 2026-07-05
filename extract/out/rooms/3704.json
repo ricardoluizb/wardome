@@ -1,0 +1,45 @@
+{
+  "id": 3704,
+  "zone_id": 37,
+  "name": "In front of the Chapel",
+  "description": "You are on an open space before a small chapel.  A gravel road leads north\nthrough the graveyard and the chapel entrance is to the south.",
+  "header_raw": "37 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The gravel road continues northwards.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3703
+    },
+    {
+      "dir": 1,
+      "description": "The gravel path leads eastwards between the dark evergreen trees.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3719
+    },
+    {
+      "dir": 2,
+      "description": "The chapel door is made of old bone.",
+      "keywords": "Bone_Door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3733
+    },
+    {
+      "dir": 3,
+      "description": "The gravel path leads westwards between the dark evergreen trees.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3717
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/37.wld"
+}

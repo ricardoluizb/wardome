@@ -1,0 +1,12 @@
+{
+  "id": 17632,
+  "alias": "oldstyle attendant",
+  "short_desc": "an attendant of the dragon",
+  "long_desc": "A person robed in gold is attending to the Keeper of the Citadel.",
+  "detailed_desc": "This elder servant to the Gold Dragon is very loyal to him, willing to risk\nhis life for his liege.",
+  "flags_raw": "10 8194 1000 E",
+  "stats1_raw": "29 6 5 1d1+603 5d3+10",
+  "stats2_raw": "435 96901 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/176.mob"
+}

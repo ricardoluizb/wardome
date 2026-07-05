@@ -1,0 +1,29 @@
+{
+  "id": 6954,
+  "zone_id": 69,
+  "name": "At the Top of the Chimney",
+  "description": "This is the top of a chimney that you're at now.  The chimney seems to be\nbig enough for one to fit in it.  It is made of big red bricks which are also\nchipped.  All over.  No smoke is coming up, so why not check out where it\nleads?",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6953
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6922
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

@@ -1,0 +1,54 @@
+{
+  "id": 2324,
+  "zone_id": 23,
+  "name": "The Blood Sea Portal",
+  "description": "You stand on a small pedestal like altar that has been built on the shore \nhere. Standing here, you can look out across the sea. You can almost imagine\nthat you see a far away island. Dominating the altar is a small blue portal of\nlight. It is possible to walk south into the portal. The shore itself extends\nto the north, east, and west.\nThere are small inscriptions on the rock at the base of the portal.",
+  "header_raw": "23 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2321
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2325
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2326
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2323
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "small inscriptions inscription",
+      "description": "\"Enter all ye who wish to join the Brotherhood!\""
+    },
+    {
+      "keywords": "portal blue",
+      "description": "You see a swirling blue portal of light. You think you can see glimpses of\nsomething moving on the \"other side\"."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

@@ -1,0 +1,46 @@
+{
+  "id": 324,
+  "zone_id": 3,
+  "name": "The steep foothills",
+  "description": "You are walking in the steep foothills. It is rather hard to move here.\nTo the north you can see the mountains towering over you.  Pine trees\ngrow here.",
+  "header_raw": "3 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The foothills extend far to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 325
+    },
+    {
+      "dir": 2,
+      "description": "The foothills extend downwards to the south. In the horizon you can\nsee the City Of Midgaard.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 322
+    },
+    {
+      "dir": 3,
+      "description": "The foothills extend far to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 323
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "mountains",
+      "description": "The mountains seems dark and all most alive, as they contrast against\nthe sky."
+    },
+    {
+      "keywords": "pine tree trees pines",
+      "description": "The all too quiet trees suggest that something roams these woods."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/3.wld"
+}

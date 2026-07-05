@@ -1,0 +1,21 @@
+{
+  "id": 6883,
+  "zone_id": 67,
+  "name": "A cobblestone road",
+  "description": "You stand outside the southern gate of the town of Sundhaven.\nThe walls are high enough to keep the town secure, and ringed\nwith tendrils of lush green ivy. The busy murmur of citylife can\nbe heard from beyond. Southwards, the cobblestone road crosses\na meadow of sorts before disappearing into a line of dark woods.",
+  "header_raw": "67 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": 6779,
+      "to": 6835
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

@@ -4,9 +4,9 @@
   "short_desc": "the Royal Herald",
   "long_desc": "The Royal Herald is standing here.",
   "detailed_desc": "This is a young, powerfully built man, whose primary function\nis to make Royal Announcements.",
-  "flags_raw": "0 0 800 S",
-  "stats1_raw": "18 1 -1 3d6+220 1d8+9",
-  "stats2_raw": "500 30000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "8 0 800 E",
+  "stats1_raw": "125 -42 -8 1d1+3492 5d13+50",
+  "stats2_raw": "1875 5532299 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/150.mob"
 }

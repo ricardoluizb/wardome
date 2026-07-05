@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "In The Library",
   "description": "You are in the great library of magic.  A strong musty smell permeates\nthe entire area.  Upon shelves which float just out of reach are hundreds\nof books, tomes and scrolls of every possible shape size and colour.  The\nelusive books seem to wink in and out of existence before your untrained\neyes.  It is very quiet here.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

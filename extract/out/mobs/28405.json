@@ -1,0 +1,12 @@
+{
+  "id": 28405,
+  "alias": "fish monster",
+  "short_desc": "fish monster",
+  "long_desc": "a Fish monster raises her eyes at you as you enter this cave.",
+  "detailed_desc": "The being before you looks like a huge fish of some. Its flat head holds\nwater which it needs to breath. The only way you will defeat it is by   \nhitting it so much that the water spills from it's head.",
+  "flags_raw": "8388616 0 0 E",
+  "stats1_raw": "100 -30 -5 1d1+2796 5d11+40",
+  "stats2_raw": "1500 2916487 0",
+  "stats3_raw": "8 8 0 -1 9",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/284.mob"
+}

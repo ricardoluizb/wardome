@@ -1,0 +1,42 @@
+{
+  "id": 2386,
+  "zone_id": 23,
+  "name": "Entry to the Royal Chambers",
+  "description": "You are at the entrance to the royal chambers of the keep. A plush shag rug\ncovers the stone floor. Large candelabras hang from the ceiling, lighting the\nroom. A huge fireplace warms the room. Beaded doorways lead south and east. A\nhuge stone door stands in the west wall.",
+  "header_raw": "23 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2395
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2393
+    },
+    {
+      "dir": 3,
+      "description": "You see a heavy stone door there.",
+      "keywords": "door heavy stone",
+      "door_flag": 2,
+      "key": 2359,
+      "to": 2385
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "door huge stone",
+      "description": "A huge stone door......."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

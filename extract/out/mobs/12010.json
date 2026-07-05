@@ -4,9 +4,9 @@
   "short_desc": "the herbalist",
   "long_desc": "There is a beautiful young lady here, carrying herbs to help the healer with.",
   "detailed_desc": "The herbalist is a very beautiful young lady who is about 22 years old.  She \nhas deep brown eyes and shoulder-length chestnut hair.  Her body is perfectly \nproportioned and she stands about 5' 5\" tall.",
-  "flags_raw": "bhl d 1000 S",
-  "stats1_raw": "10 11 2 3d4+110 1d7+4",
-  "stats2_raw": "500 8000",
-  "stats3_raw": "8 8 2",
+  "flags_raw": "2186 8 1000 E",
+  "stats1_raw": "21 10 7 1d1+441 5d3+8",
+  "stats2_raw": "315 51147 0",
+  "stats3_raw": "8 8 2 1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/120.mob"
 }

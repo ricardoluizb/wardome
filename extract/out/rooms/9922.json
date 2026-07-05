@@ -1,0 +1,29 @@
+{
+  "id": 9922,
+  "zone_id": 99,
+  "name": "The master suite.",
+  "description": "This is the master suite inside Blood Tavern.  A liquor cabinet \nstands against one wall, filled with dusty old bottles, while a \nking sized bed stands opposite.  A half opened door to the West \nleads into a bathroom.",
+  "header_raw": "99 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9921
+    },
+    {
+      "dir": 3,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9923
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 72,
   "name": "The Inner Lair",
   "description": "You are in a octagonal room with smooth purple stone walls.  The floor is \nmade from black stone.  In the western wall you see a large black stone door.",
-  "header_raw": "72 ad 0",
-  "flags_text": "ad",
+  "header_raw": "72 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

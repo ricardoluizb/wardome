@@ -1,0 +1,29 @@
+{
+  "id": 20400,
+  "zone_id": 204,
+  "name": "The Anthill's Entrance",
+  "description": "Here is the entrance to an enormous Anthill, you can hear the ants Working hardly beneath.\nThere are some guards blocking the intruders. You starts thinking its not a good idea to stay here.\nThere are two obvious exits, down leads you to the first floor of the anthill, south leads you to safety.",
+  "header_raw": "204 16777228 0",
+  "flags_text": "16777228",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6133
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "trapdoor",
+      "door_flag": 2,
+      "key": 0,
+      "to": 20401
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/204.wld"
+}

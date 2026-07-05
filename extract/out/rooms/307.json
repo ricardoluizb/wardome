@@ -1,0 +1,29 @@
+{
+  "id": 307,
+  "zone_id": 3,
+  "name": "Path in the foothills",
+  "description": "You are walking on a path situated in the small foothills.\nThe winds are more than average here but it feels nice. You can follow\nthe path east or west.",
+  "header_raw": "3 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The path continues in the foothills",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 308
+    },
+    {
+      "dir": 3,
+      "description": "To the west the path takes a bend southwards.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 306
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/3.wld"
+}

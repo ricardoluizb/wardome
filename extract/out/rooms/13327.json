@@ -1,0 +1,45 @@
+{
+  "id": 13327,
+  "zone_id": 132,
+  "name": "The West Market Square",
+  "description": "The people here are rich and will kill you to get richer if they see the\nopportunity.  The mage's guild is north and the market continues east, south,\nand west.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "the mage guild",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13328
+    },
+    {
+      "dir": 1,
+      "description": "market square",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13326
+    },
+    {
+      "dir": 2,
+      "description": "west market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13350
+    },
+    {
+      "dir": 3,
+      "description": "west market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13331
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

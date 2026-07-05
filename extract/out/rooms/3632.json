@@ -3,8 +3,8 @@
   "zone_id": 36,
   "name": "A White Square",
   "description": "You are standing on a white marble square.  There is a large rusty\ngate to the east.",
-  "header_raw": "36 0 1",
-  "flags_text": "0",
+  "header_raw": "36 16777216 1",
+  "flags_text": "16777216",
   "sector": 1,
   "exits": [
     {

@@ -1,0 +1,29 @@
+{
+  "id": 11546,
+  "zone_id": 115,
+  "name": "The Tunnel",
+  "description": "You stand at the end of a long tunnel, the long walk where the fearless\ngladiators collect their final thoughts before entering the battle zone.  \nThere is a light at the end of the tunnel, beckoning you to enter.  You hear\nthe roar or the crowd, and begin to feel your animalistic instincts rise inside\nof you.  Can you take that long walk...?  Above you are the stands, to your\neast is the playing field.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11548
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11534
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

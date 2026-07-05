@@ -1,0 +1,12 @@
+{
+  "id": 11570,
+  "alias": "knight guildguard",
+  "short_desc": "the knight",
+  "long_desc": "A knight is guarding the entrance.",
+  "detailed_desc": "He is an expert warrior who has attained knighthood through countless\nchivalrous deeds.  His duty is to protect the Guild of Swordsmen and his\nextreme skill combined with his experience in warfare makes him a deadly\nopponent.",
+  "flags_raw": "4106 8 0 E",
+  "stats1_raw": "50 -9 0 1d1+2196 5d6+40",
+  "stats2_raw": "750 514062 2",
+  "stats3_raw": "8 8 1 3 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9401,
+  "zone_id": 94,
+  "name": "&WThe &BR&Wecreation &BR&Woom&n",
+  "description": "&CJudging by the size, and the seats in here you can supose that this is where people rest and talk to one another. You also can find a barrel full of clean water here.",
+  "header_raw": "94 1048644 0",
+  "flags_text": "1048644",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9402
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 0,
+      "key": 9402,
+      "to": 9400
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/94.wld"
+}

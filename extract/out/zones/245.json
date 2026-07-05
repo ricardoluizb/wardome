@@ -1,0 +1,1434 @@
+{
+  "id": 245,
+  "name": "Armageddon",
+  "header": {
+    "raw": "24699 35 2 25 -1",
+    "min_room": 24699,
+    "top_room": 35,
+    "lifespan": 2,
+    "reset_mode": 25
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24536,
+        1,
+        24697
+      ],
+      "comment": "(He who sits at the throne)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24540,
+        1,
+        22
+      ],
+      "comment": "(&wthe &CAura &wof the &WHeavens&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24538,
+        1,
+        17
+      ],
+      "comment": "(&wthe &yBook &wof &RLife&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        24535,
+        1,
+        24697
+      ],
+      "comment": "(an emerald throne)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24520,
+        1,
+        24601
+      ],
+      "comment": "(the woman clothed with the sun)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24520,
+        10,
+        10
+      ],
+      "comment": "(&wthe &WWings &wof &yEagles&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24523,
+        10,
+        7
+      ],
+      "comment": "(&YSkirt &wof the &YSun&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24522,
+        10,
+        5
+      ],
+      "comment": "(&YShirt &wof the &YSun&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24521,
+        10,
+        6
+      ],
+      "comment": "(&wa &WCrown &wwith &BTwelve &WS&Bt&Wa&Br&Ws&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24524,
+        10,
+        8
+      ],
+      "comment": "(&wthe &WMoon Under &wyour &WFeet&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24532,
+        10,
+        0
+      ],
+      "comment": "(&Bt&Wh&Be &WM&Bo&Wr&Bn&Wi&Bn&Wg &BS&Wt&Ba&Wr&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24506,
+        1,
+        24500
+      ],
+      "comment": "(the angel with the fiery censer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24506,
+        10,
+        16
+      ],
+      "comment": "(a golden sickle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24505,
+        10,
+        13
+      ],
+      "comment": "(a golden girdle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24507,
+        10,
+        17
+      ],
+      "comment": "(the prayers of saints)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        24508,
+        5,
+        -1
+      ],
+      "comment": "(a censer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24522,
+        4,
+        24578
+      ],
+      "comment": "(the sealed one)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24530,
+        10,
+        5
+      ],
+      "comment": "(&wa &WWhite Robe&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24531,
+        10,
+        6
+      ],
+      "comment": "(a Seal)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24521,
+        1,
+        24577
+      ],
+      "comment": "(the word of The Gods)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24525,
+        10,
+        22
+      ],
+      "comment": "(&wHidden &CMana&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24529,
+        10,
+        16
+      ],
+      "comment": "(the sharp, two-edged sword of the mouth)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24528,
+        10,
+        9
+      ],
+      "comment": "(&wa &WWhite &yStone&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24526,
+        10,
+        17
+      ],
+      "comment": "(a rod of iron)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24527,
+        10,
+        4
+      ],
+      "comment": "(&WWhite &wRaiment&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24522,
+        4,
+        24574
+      ],
+      "comment": "(the sealed one)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24530,
+        10,
+        5
+      ],
+      "comment": "(&wa &WWhite Robe&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24531,
+        10,
+        6
+      ],
+      "comment": "(a Seal)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24507,
+        4,
+        24560
+      ],
+      "comment": "(the harvesting angel)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24506,
+        10,
+        16
+      ],
+      "comment": "(a golden sickle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24505,
+        10,
+        13
+      ],
+      "comment": "(a golden girdle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24507,
+        10,
+        17
+      ],
+      "comment": "(the prayers of saints)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24535,
+        1,
+        24560
+      ],
+      "comment": "(the chief captain)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24502,
+        1,
+        24538
+      ],
+      "comment": "(Babylon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24504,
+        10,
+        17
+      ],
+      "comment": "(the golden cup of Babylon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24527,
+        1,
+        24522
+      ],
+      "comment": "(the murderer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24541,
+        10,
+        16
+      ],
+      "comment": "(&ra &RBloody &rKnife&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24503,
+        1,
+        24513
+      ],
+      "comment": "(the angel of the waters)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24506,
+        10,
+        16
+      ],
+      "comment": "(a golden sickle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24505,
+        10,
+        13
+      ],
+      "comment": "(a golden girdle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24507,
+        10,
+        17
+      ],
+      "comment": "(the prayers of saints)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24512,
+        1,
+        24599
+      ],
+      "comment": "(the pale horseman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24517,
+        10,
+        16
+      ],
+      "comment": "(&wthe &RS&rcythe &wof the &WGrim &yReaper&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24516,
+        10,
+        12
+      ],
+      "comment": "(&RD&reath's &WC&wloak&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24507,
+        4,
+        24594
+      ],
+      "comment": "(the harvesting angel)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24506,
+        10,
+        16
+      ],
+      "comment": "(a golden sickle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24505,
+        10,
+        13
+      ],
+      "comment": "(a golden girdle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24507,
+        10,
+        17
+      ],
+      "comment": "(the prayers of saints)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24513,
+        1,
+        24679
+      ],
+      "comment": "(the archangel Michael)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24518,
+        10,
+        16
+      ],
+      "comment": "(&wthe &CH&Woly &BL&Wance &wof &CA&Wrchangel &BM&Wichael&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24514,
+        5,
+        24679
+      ],
+      "comment": "(the dragon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24523,
+        3,
+        24676
+      ],
+      "comment": "(the marked one)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24519,
+        10,
+        6
+      ],
+      "comment": "(the mark of the beast)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24524,
+        1,
+        24674
+      ],
+      "comment": "(the beast)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24519,
+        10,
+        6
+      ],
+      "comment": "(the mark of the beast)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24523,
+        3,
+        24672
+      ],
+      "comment": "(the marked one)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24519,
+        10,
+        6
+      ],
+      "comment": "(the mark of the beast)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24504,
+        1,
+        24668
+      ],
+      "comment": "(the angel of the earth)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24506,
+        10,
+        16
+      ],
+      "comment": "(a golden sickle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24505,
+        10,
+        13
+      ],
+      "comment": "(a golden girdle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24507,
+        10,
+        17
+      ],
+      "comment": "(the prayers of saints)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24522,
+        4,
+        24664
+      ],
+      "comment": "(the sealed one)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24530,
+        10,
+        12
+      ],
+      "comment": "(&wa &WWhite Robe&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24531,
+        10,
+        6
+      ],
+      "comment": "(a Seal)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24519,
+        1,
+        24660
+      ],
+      "comment": "(the false prophet)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24519,
+        10,
+        6
+      ],
+      "comment": "(the mark of the beast)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        24534,
+        1,
+        24660
+      ],
+      "comment": "(a fountain of blood)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24507,
+        4,
+        24650
+      ],
+      "comment": "(the harvesting angel)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24506,
+        10,
+        16
+      ],
+      "comment": "(a golden sickle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24505,
+        10,
+        13
+      ],
+      "comment": "(a golden girdle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24507,
+        10,
+        17
+      ],
+      "comment": "(the prayers of saints)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24523,
+        3,
+        24644
+      ],
+      "comment": "(the marked one)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24519,
+        10,
+        6
+      ],
+      "comment": "(the mark of the beast)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24507,
+        4,
+        24643
+      ],
+      "comment": "(the harvesting angel)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24506,
+        10,
+        16
+      ],
+      "comment": "(a golden sickle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24505,
+        10,
+        13
+      ],
+      "comment": "(a golden girdle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24507,
+        10,
+        17
+      ],
+      "comment": "(the prayers of saints)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24522,
+        4,
+        24629
+      ],
+      "comment": "(the sealed one)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24530,
+        10,
+        12
+      ],
+      "comment": "(&wa &WWhite Robe&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24531,
+        10,
+        6
+      ],
+      "comment": "(a Seal)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24533,
+        2,
+        24629
+      ],
+      "comment": "(the bondsman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24509,
+        1,
+        24609
+      ],
+      "comment": "(the white horseman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24509,
+        10,
+        6
+      ],
+      "comment": "(&Wthe White Crown of the Conquerer&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24510,
+        10,
+        16
+      ],
+      "comment": "(&Wthe White Bow of the Conquerer&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24511,
+        10,
+        5
+      ],
+      "comment": "(&ra &RB&rre&Ya&ystp&Yl&rat&Re&r of &RF&rir&Re&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24528,
+        1,
+        24521
+      ],
+      "comment": "(the harlot)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        24500,
+        100,
+        -1
+      ],
+      "comment": "(the key of David)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        24534,
+        1,
+        24521
+      ],
+      "comment": "(a fountain of blood)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24516,
+        1,
+        24505
+      ],
+      "comment": "(Balaam the teacher of Balac)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        24507,
+        2,
+        2
+      ],
+      "comment": "(MaGog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24515,
+        1,
+        24509
+      ],
+      "comment": "(Jezebel the prophetess)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24531,
+        3,
+        24517
+      ],
+      "comment": "(the mighty man)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24531,
+        3,
+        24517
+      ],
+      "comment": "(the mighty man)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24526,
+        1,
+        24520
+      ],
+      "comment": "(the whoremonger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24517,
+        1,
+        24533
+      ],
+      "comment": "(Balac, disciple of Balaam)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24534,
+        2,
+        24542
+      ],
+      "comment": "(the freeman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24508,
+        4,
+        24551
+      ],
+      "comment": "(an army of heaven)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24530,
+        2,
+        24556
+      ],
+      "comment": "(the rich man)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24534,
+        2,
+        24570
+      ],
+      "comment": "(the freeman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24508,
+        4,
+        24575
+      ],
+      "comment": "(an army of heaven)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24518,
+        3,
+        24586
+      ],
+      "comment": "(the unclean spirit)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        24533,
+        1,
+        24586
+      ],
+      "comment": "(a puddle of blood)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        24533,
+        1,
+        24589
+      ],
+      "comment": "(a puddle of blood)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24533,
+        2,
+        24592
+      ],
+      "comment": "(the bondsman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24532,
+        2,
+        24597
+      ],
+      "comment": "(the former king)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        24533,
+        1,
+        24598
+      ],
+      "comment": "(a puddle of blood)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24518,
+        3,
+        24608
+      ],
+      "comment": "(the unclean spirit)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        24533,
+        1,
+        24610
+      ],
+      "comment": "(a puddle of blood)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        24533,
+        1,
+        24613
+      ],
+      "comment": "(a puddle of blood)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24518,
+        3,
+        24621
+      ],
+      "comment": "(the unclean spirit)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        24533,
+        1,
+        24621
+      ],
+      "comment": "(a puddle of blood)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24508,
+        4,
+        24630
+      ],
+      "comment": "(an army of heaven)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24530,
+        2,
+        24633
+      ],
+      "comment": "(the rich man)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24531,
+        3,
+        24651
+      ],
+      "comment": "(the mighty man)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24525,
+        1,
+        24661
+      ],
+      "comment": "(the idolator)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24519,
+        1,
+        6
+      ],
+      "comment": "(the mark of the beast)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24508,
+        4,
+        24663
+      ],
+      "comment": "(an army of heaven)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24505,
+        1,
+        24681
+      ],
+      "comment": "(the angel of the air)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24506,
+        1,
+        16
+      ],
+      "comment": "(a golden sickle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24505,
+        1,
+        13
+      ],
+      "comment": "(a golden girdle)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        24507,
+        1,
+        -1
+      ],
+      "comment": "(the prayers of saints)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        24681,
+        5,
+        0
+      ],
+      "comment": "(The corner of the world)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24500,
+        3,
+        24686
+      ],
+      "comment": "(the giant locust)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24501,
+        1,
+        5
+      ],
+      "comment": "(&wan Iron &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24502,
+        1,
+        16
+      ],
+      "comment": "(a locust stinger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24500,
+        3,
+        24688
+      ],
+      "comment": "(the giant locust)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24501,
+        1,
+        5
+      ],
+      "comment": "(&wan Iron &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24502,
+        1,
+        16
+      ],
+      "comment": "(a locust stinger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24501,
+        1,
+        24689
+      ],
+      "comment": "(Abaddon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24503,
+        1,
+        3
+      ],
+      "comment": "(the chain of binding)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24500,
+        3,
+        24689
+      ],
+      "comment": "(the giant locust)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24501,
+        1,
+        5
+      ],
+      "comment": "(&wan Iron &YBreastplate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24502,
+        1,
+        16
+      ],
+      "comment": "(a locust stinger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24542,
+        1,
+        24691
+      ],
+      "comment": "(the eagle creature)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24539,
+        1,
+        24693
+      ],
+      "comment": "(the lion creature)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24540,
+        1,
+        24694
+      ],
+      "comment": "(the ox creature)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24541,
+        1,
+        24695
+      ],
+      "comment": "(the creature with a human face)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24537,
+        1,
+        24696
+      ],
+      "comment": "(the lamb)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        24537,
+        1,
+        24696
+      ],
+      "comment": "(a scroll of seven broken seals)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        24538,
+        1,
+        24698
+      ],
+      "comment": "(One of Four and Twenty Elders)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        24539,
+        1,
+        17
+      ],
+      "comment": "(a golden bowl of incense)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        24536,
+        1,
+        24698
+      ],
+      "comment": "(four and twenty thrones)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/245.zon"
+}

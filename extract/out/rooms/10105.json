@@ -1,0 +1,29 @@
+{
+  "id": 10105,
+  "zone_id": 101,
+  "name": "The Feast Hall",
+  "description": "A long table fills the room, stretching from one end of the hall to the other.\nOrnately carved chairs have been placed at regular intervals about the table.\nTapestries have been hung on the walls, woven with bright colors and motifs.  \nTo the west, two large windows look out over the valley of Valfenda.",
+  "header_raw": "101 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 10103
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 10106
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/101.wld"
+}

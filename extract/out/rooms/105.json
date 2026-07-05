@@ -1,0 +1,29 @@
+{
+  "id": 105,
+  "zone_id": 1,
+  "name": "Tree Top Level - Almost to the Ground",
+  "description": "The trees that you have begun to descend through seem to try to grab your\nfeet as you climb down the cliff.  The branches all snag your clothing, sharp\nand piercing as you climb down.  The buzzards won't seem to leave you alone and\nfighting here is just not what you had in mind when you began your descent.  \nThe forest floor below you, all covered in shadows and mystery, is just a long\njump down, but still a far enough jump that a broken leg or ankle would almost\ncertainly result in a jumping attempt.",
+  "header_raw": "1 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 104
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 106
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/1.wld"
+}

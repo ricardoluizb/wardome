@@ -1,0 +1,29 @@
+{
+  "id": 844,
+  "zone_id": 7,
+  "name": "Mountain Pass",
+  "description": "The mountain pass leads up to the west, and downwards to the south.\nThere seems to be a strange half twilight farther to the west, casting\nan eerie glow over the stones and shrubberies around.  You can see a \nlarge dark plain to the east that the sun never seems to have shone\nupon, making it appear to be otherworldly somehow...",
+  "header_raw": "7 8 4",
+  "flags_text": "8",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 843
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 845
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

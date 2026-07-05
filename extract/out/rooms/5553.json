@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Jail",
   "description": "You are in jail.  For some reason, someone feels that you've screwed\nup pretty bad and should be put away safely for a while.",
-  "header_raw": "54 defhj 0",
-  "flags_text": "defhj",
+  "header_raw": "54 696 0",
+  "flags_text": "696",
   "sector": 0,
   "exits": [
     {

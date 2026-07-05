@@ -3,8 +3,8 @@
   "zone_id": 61,
   "name": "A Dead End Path On The River Bank In The Deep, Dark Forest",
   "description": "You are on a narrow path leading through the deep, dark forest.  The\nancient trees stand so close that the path disappears between the dusty\nroots.  To the south a dark river flows from east to west.  The only exit\nappears to be east.",
-  "header_raw": "61 ad 3",
-  "flags_text": "ad",
+  "header_raw": "61 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

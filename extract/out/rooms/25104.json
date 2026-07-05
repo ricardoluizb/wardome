@@ -1,0 +1,21 @@
+{
+  "id": 25104,
+  "zone_id": 251,
+  "name": "The treasure of the thief",
+  "description": "Wow!! A lot of treasures! But only one attracts your attention: It's the\ngolden chest, in the corner of the room. But the chest isn't unguarded...",
+  "header_raw": "251 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 25103
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/251.wld"
+}

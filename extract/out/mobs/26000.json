@@ -1,0 +1,12 @@
+{
+  "id": 26000,
+  "alias": "bjorn shopkeeper shop keeper",
+  "short_desc": "Bjorn",
+  "long_desc": "Bjorn the shopkeeper is here melting and forging some artifacts.",
+  "detailed_desc": "Bjorn is a massive muscle shopkeeper.  He forges weapons with the same facility\nthat he could break your neck.  He sells some powerful stuffs for war here.",
+  "flags_raw": "3661834 1636860072 1000 E",
+  "stats1_raw": "200 -80 -20 1d1+21600 10d41+80",
+  "stats2_raw": "3000 34652576 10",
+  "stats3_raw": "8 8 0 10 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/260.mob"
+}

@@ -1,0 +1,64 @@
+{
+  "id": 94,
+  "name": "Wardome - Viking's Clan",
+  "header": {
+    "raw": "9499 30 0 9 3",
+    "min_room": 9499,
+    "top_room": 30,
+    "lifespan": 0,
+    "reset_mode": 9
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9400,
+        1,
+        9400
+      ],
+      "comment": "(the &BV&Wikings &YGod&W, &GThor)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        9403,
+        1,
+        9402
+      ],
+      "comment": "(the Vikings CLan Board)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9401,
+        1,
+        9407
+      ],
+      "comment": "(&WThe &YKing Elendil&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9404,
+        1,
+        16
+      ],
+      "comment": "(&BThor&W'&Bs &RH&Ba&Ym&Rm&Be&Yr&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        9401,
+        1,
+        9401
+      ],
+      "comment": "(a &BG&Wreat &BB&Warrel of &BC&Wlear &BW&Water&n)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/94.zon"
+}

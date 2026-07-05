@@ -1,0 +1,12 @@
+{
+  "id": 2206,
+  "alias": "oldstyle concubine draconian",
+  "short_desc": "a concubine",
+  "long_desc": "A concubine is resting here.",
+  "detailed_desc": "This is a concubine of the king.  She is lounging here, wearing nothing at \nall.  You find yourself strangely repulsed as she draws a knife and \nprepares to defend herself.",
+  "flags_raw": "10 1192 -500 E",
+  "stats1_raw": "175 -83 -28 1d1+16092 5d35+150",
+  "stats2_raw": "2625 20955157 8",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/22.mob"
+}

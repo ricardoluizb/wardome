@@ -3,8 +3,8 @@
   "zone_id": 71,
   "name": "A Junction In The Sewer Pipes",
   "description": "You stand in the middle of what looks like a triple junction of pipes\ngoing east, west and north.",
-  "header_raw": "71 ad 1",
-  "flags_text": "ad",
+  "header_raw": "71 9 1",
+  "flags_text": "9",
   "sector": 1,
   "exits": [
     {

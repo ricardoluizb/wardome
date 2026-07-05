@@ -1,0 +1,29 @@
+{
+  "id": 29854,
+  "zone_id": 298,
+  "name": "In the cottage",
+  "description": "You are in a very small and dirty cottage.  The floor is covered with garbage\nand junk.  The only furnitures in the room is a small straw bed and a cabinet.\nThe only exit is to the south.",
+  "header_raw": "298 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 29853
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 29855
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/298.wld"
+}

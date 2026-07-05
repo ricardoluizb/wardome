@@ -3,8 +3,8 @@
   "zone_id": 33,
   "name": "The Mountain Tavern",
   "description": "Hmm.  Looks like there's no one here, not even an bartender.\nEvidently you've come during off hours, since no bar could be\nTHIS dull.  The walls are decorated with mounted animal heads\nand arrows and longbows and other hunting equipment/trophies.\nAll of it looks rather plain.",
-  "header_raw": "33 d 0",
-  "flags_text": "d",
+  "header_raw": "33 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

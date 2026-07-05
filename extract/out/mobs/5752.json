@@ -1,0 +1,12 @@
+{
+  "id": 5752,
+  "alias": "troll",
+  "short_desc": "a Troll",
+  "long_desc": "A Troll with very long, powerful arms lopes toward you.",
+  "detailed_desc": "This ugly monster is only 5 feet tall, but its arms are also nearly five\nfeet long, and end with wicked, sharp claws that could cut stone. Yellow\nmucous drips from the fevered beast's slavering maw, and you shudder to\nthink fo the germs you could be infecte dwith by this grotesque.",
+  "flags_raw": "110 8192 -500 E",
+  "stats1_raw": "30 -17 -11 1d1+3480 5d10+122",
+  "stats2_raw": "450 185326 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

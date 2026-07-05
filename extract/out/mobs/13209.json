@@ -1,0 +1,12 @@
+{
+  "id": 13209,
+  "alias": "gateguard guard",
+  "short_desc": "a gateguard",
+  "long_desc": "A guard is protecting the city entrance.",
+  "detailed_desc": "This dragon appears to be very short and stocky.  You don't seem to be \nintimidated by this guard even though you are being challenged.  Is this the\ncity's best defense, or is this a trick to make you underestimate the defenses?",
+  "flags_raw": "8266 40 0 E",
+  "stats1_raw": "15 -3 -4 1d1+1380 5d3+86",
+  "stats2_raw": "225 26305 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

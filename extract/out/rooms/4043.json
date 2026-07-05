@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Cave Entrance",
   "description": "You stand in a large tunnel, much larger than it seemed from\nthe outside.  The ceiling is at least twenty feet above, and the\nwidth of the tunnel runs at least fifteen feet.  You can feel the\nfresh air coming from the east, and off to the west, it looks to\nlead into darkness.",
-  "header_raw": "40 d 2",
-  "flags_text": "d",
+  "header_raw": "40 8 2",
+  "flags_text": "8",
   "sector": 2,
   "exits": [
     {

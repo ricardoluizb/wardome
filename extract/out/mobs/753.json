@@ -1,0 +1,12 @@
+{
+  "id": 753,
+  "alias": "Receptionist",
+  "short_desc": "the Receptionist",
+  "long_desc": "A receptionist stands in front of you, waiting to help you.",
+  "detailed_desc": "She looks at you happily, and pushes a ledger at you.",
+  "flags_raw": "10 128 0 E",
+  "stats1_raw": "95 -37 -11 1d1+6456 5d19+88",
+  "stats2_raw": "1425 3275365 5",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

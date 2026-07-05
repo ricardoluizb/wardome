@@ -1,0 +1,21 @@
+{
+  "id": 9725,
+  "zone_id": 97,
+  "name": "Residence",
+  "description": "You are in the residence of one of the inhabitants of this town.  He looks\nvaguely familiar, but you can't place his name ...",
+  "header_raw": "97 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9705
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/97.wld"
+}

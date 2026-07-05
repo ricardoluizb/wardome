@@ -1,0 +1,37 @@
+{
+  "id": 19001,
+  "zone_id": 190,
+  "name": "Entrance to the Elven forest.",
+  "description": "Huge green trees are everyware. An enormous wooden gate rises \nup to the north.\nThe gate is currently guarded by:",
+  "header_raw": "190 17825792 3",
+  "flags_text": "17825792",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 19002
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": -1
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6132
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/190.wld"
+}

@@ -1,0 +1,53 @@
+{
+  "id": 8194,
+  "zone_id": 81,
+  "name": "A Crossing of Tunnels",
+  "description": "Four passages lead north, south, east, and west of here, but all are\nblocked by doors;  a wooden door to north, a brass door to the east,\nan iron door to the south, and a western door of adamant.  You can \nalso escape the way you came here.",
+  "header_raw": "81 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The wooden door seems like the safest bet; probably nothing is there.",
+      "keywords": "door wooden",
+      "door_flag": 1,
+      "key": 8100,
+      "to": 8195
+    },
+    {
+      "dir": 1,
+      "description": "The brass door might hide something interesting.",
+      "keywords": "door brass",
+      "door_flag": 2,
+      "key": 8102,
+      "to": 8196
+    },
+    {
+      "dir": 2,
+      "description": "The iron door looks very sturdy, and you had better leave it alone.",
+      "keywords": "door iron",
+      "door_flag": 2,
+      "key": 8103,
+      "to": 8197
+    },
+    {
+      "dir": 3,
+      "description": "The adamant door looks almost unbreakable.",
+      "keywords": "door adamant",
+      "door_flag": 2,
+      "key": 8105,
+      "to": 8198
+    },
+    {
+      "dir": 4,
+      "description": "A trap door leads up.",
+      "keywords": "trapdoor",
+      "door_flag": 2,
+      "key": 8103,
+      "to": 8184
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

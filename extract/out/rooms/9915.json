@@ -1,0 +1,37 @@
+{
+  "id": 9915,
+  "zone_id": 99,
+  "name": "Blood Tavern.",
+  "description": "You are standing inside Blood Tavern - a bizarre looking place, at \nfirst sight.  The parquet floor creaks under the weight of an odd \nlooking bar to the north which seems to be moving somehow.  Next to \nthe bar a stairwell disappears into blackness above.  The ceiling is \nvaulted, and sports three candeled chandeliers, which hang like \nvictims above you.",
+  "header_raw": "99 1 1",
+  "flags_text": "1",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9916
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 9904
+    },
+    {
+      "dir": 3,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9917
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

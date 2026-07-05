@@ -4,9 +4,9 @@
   "short_desc": "the giant earth beetle",
   "long_desc": "The giant, mean-looking earth beetle is here.",
   "detailed_desc": "Now, you've seen beetles, but this one is enormous.  It stretches\nperhaps two feet from head to tail.  As it notices you, it waves\nits six legs about and makes some strange skittering noises at you.",
-  "flags_raw": "0 k -300 S",
-  "stats1_raw": "8 13 3 2d10+98 2d4+2",
-  "stats2_raw": "1000 3750",
-  "stats3_raw": "4 8 0",
+  "flags_raw": "8 1024 -300 E",
+  "stats1_raw": "12 14 8 1d1+252 5d2+4",
+  "stats2_raw": "180 10839 0",
+  "stats3_raw": "4 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/70.mob"
 }

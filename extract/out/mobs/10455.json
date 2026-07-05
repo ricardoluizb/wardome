@@ -1,0 +1,12 @@
+{
+  "id": 10455,
+  "alias": "oldstyle half eaten horse carcass",
+  "short_desc": "horse carcass",
+  "long_desc": "A half-eaten horse carcass is here being digested.",
+  "detailed_desc": "This is what used to be a horse.  Hmm, maybe - it's hard to tell.  Half\nof it has been digested already.",
+  "flags_raw": "522282 1064 -800 E",
+  "stats1_raw": "130 -47 -11 1d1+4680 5d14+62",
+  "stats2_raw": "1950 7522225 1",
+  "stats3_raw": "8 8 0 10 11",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/104.mob"
+}

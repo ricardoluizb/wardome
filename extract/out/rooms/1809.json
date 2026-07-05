@@ -1,0 +1,29 @@
+{
+  "id": 1809,
+  "zone_id": 18,
+  "name": "The Even Tighter Passage",
+  "description": "It's a bit of a squeeze here and you think that\nlast pot pie you ate a while back is getting\nrevenge on you now.  The walls are smooth,\nwith finger holes for you to hang on to.\nDown there seems to be flooring to stand on to,\nwith the passage to return to the surface.",
+  "header_raw": "18 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1808
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1810
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/18.wld"
+}

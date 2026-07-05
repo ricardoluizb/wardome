@@ -1,0 +1,12 @@
+{
+  "id": 13213,
+  "alias": "demon",
+  "short_desc": "a demon",
+  "long_desc": "A demon searches the caverns for victims.",
+  "detailed_desc": "A large, lizard like creature sizes you up as a good meal.",
+  "flags_raw": "8298 40 -500 E",
+  "stats1_raw": "20 -6 -5 1d1+1836 5d5+88",
+  "stats2_raw": "300 53412 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

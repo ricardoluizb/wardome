@@ -1,0 +1,42 @@
+{
+  "id": 8109,
+  "zone_id": 81,
+  "name": "King's Way",
+  "description": "If it annoyed you to journey so far to see such a tiny town as Ofingia, \nyou are somewhat placated by the sight of a homely inn to your south.\nIt is not as large as the Grunting Boar, but as a sailor will take any\nport in a storm, you will drink anywhere after abstaining so long!\nThough Ofingia is a city under siege nowadays, with all the goblin\nraids, still Reilly keeps the inn open.",
+  "header_raw": "81 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The King's Way continues east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8110
+    },
+    {
+      "dir": 2,
+      "description": "A fine, homely inn lies south.  A sign stands there.",
+      "keywords": "door oak",
+      "door_flag": 1,
+      "key": -1,
+      "to": 8128
+    },
+    {
+      "dir": 3,
+      "description": "A great gate lies some yards west.  It is richly carved.",
+      "keywords": "gate wooden",
+      "door_flag": 1,
+      "key": 8107,
+      "to": 8108
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "The Crossbow Inn\n                By Reilly Morgan"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

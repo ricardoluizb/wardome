@@ -1,0 +1,21 @@
+{
+  "id": 9730,
+  "zone_id": 97,
+  "name": "Guest Quarters",
+  "description": "You have entered a room reserved for visitors to this castle.  You are\namazed as you recognize the occupant - Ra, the Egyptian Sun God.  He must be\nvisiting Zeus.",
+  "header_raw": "97 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9715
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/97.wld"
+}

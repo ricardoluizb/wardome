@@ -1,0 +1,29 @@
+{
+  "id": 14148,
+  "zone_id": 141,
+  "name": "Cellar",
+  "description": "There is a chair in corner.  And plenty of empty bottles.  There\nis also the evidence of the green substance here as well.",
+  "header_raw": "141 73 0",
+  "flags_text": "73",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14151
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14147
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

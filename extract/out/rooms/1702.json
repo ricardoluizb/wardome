@@ -1,0 +1,45 @@
+{
+  "id": 1702,
+  "zone_id": 16,
+  "name": "Crossroads to the Wilderness",
+  "description": "You are at a crossroads to the wilderness areas east and north of here,\nand the more civilized areas to the west. The main road is west, an\nolder road continues east, and a simple trail heads north.  To the south,\nan old ram-shackle building is being used as a trading post for the\nsurrounding wilderness.",
+  "header_raw": "16 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a trail leading north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1704
+    },
+    {
+      "dir": 1,
+      "description": "The old Eastern road continues this way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1601
+    },
+    {
+      "dir": 2,
+      "description": "An old, ram-shackle building serves as a trading post here.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1703
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1701
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

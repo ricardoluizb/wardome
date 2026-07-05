@@ -1,0 +1,12 @@
+{
+  "id": 11559,
+  "alias": "cop",
+  "short_desc": "the cop",
+  "long_desc": "n",
+  "detailed_desc": "You can see that this guy does not concentrate very much on his job and\ntends to look the other way.  He seems to be more interested in filling his\nbelly with beer than in protecting the city.",
+  "flags_raw": "6472 40 300 E",
+  "stats1_raw": "45 -6 0 1d1+1980 5d5+38",
+  "stats2_raw": "675 385477 2",
+  "stats3_raw": "8 8 1 3 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

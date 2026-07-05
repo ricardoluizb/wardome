@@ -2,1030 +2,42 @@
   "id": 25,
   "name": "The High Tower Of Magic",
   "header": {
-    "raw": "2500 2699 20 2",
-    "min_room": 2500,
-    "top_room": 2699,
-    "lifespan": 20,
-    "reset_mode": 2
+    "raw": "2699 20 2 1 -1",
+    "min_room": 2699,
+    "top_room": 20,
+    "lifespan": 2,
+    "reset_mode": 1
   },
   "commands": [
     {
       "cmd": "M",
       "args": [
         0,
-        2500,
-        6,
-        2502
-      ],
-      "comment": "Shadow Guardian"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2500,
-        6,
-        2504
-      ],
-      "comment": "Shadow Guardian"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2500,
-        6,
-        2506
-      ],
-      "comment": "Shadow Guardian"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2500,
-        6,
-        2508
-      ],
-      "comment": "Shadow Guardian"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2500,
-        6,
-        2511
-      ],
-      "comment": "Shadow Guardian"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2501,
-        1,
-        2511
-      ],
-      "comment": "Adventurer"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2502,
-        1,
-        2507
-      ],
-      "comment": "Edgar"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2503,
-        1,
-        2512
-      ],
-      "comment": "Diamond Golem"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        2500,
-        1,
-        17
-      ],
-      "comment": "Diamond Key"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2504,
-        7,
-        2513
-      ],
-      "comment": "Wandering Mage"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2504,
-        7,
-        2514
-      ],
-      "comment": "Wandering Mage"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2504,
-        7,
-        2514
-      ],
-      "comment": "Wandering Mage"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2504,
-        7,
-        2515
-      ],
-      "comment": "Wandering Mage"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2504,
-        7,
-        2516
-      ],
-      "comment": "Wandering Mage"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2504,
-        7,
-        2518
-      ],
-      "comment": "Wandering Mage"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2504,
-        7,
-        2519
-      ],
-      "comment": "Wandering Mage"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2505,
-        1,
-        2518
-      ],
-      "comment": "Strick The Bartender"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        2504,
-        100
-      ],
-      "comment": "Silce Of Traveller's Bread"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        2545,
-        100
-      ],
-      "comment": "Herbal Brew"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        2546,
-        100
-      ],
-      "comment": "Waybread"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3010,
-        100
-      ],
-      "comment": "Loaf Of Bread"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3100,
-        100
-      ],
-      "comment": "Tea Cup"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3101,
-        100
-      ],
-      "comment": "Coffee Cup"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2506,
-        1,
-        2519
-      ],
-      "comment": "Tatorious The Wizard"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3050,
-        100
-      ],
-      "comment": "Scroll Of Identify"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3051,
-        100
-      ],
-      "comment": "Yellow Potion"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        3053,
-        100
-      ],
-      "comment": "Grey Wand Of Invisibility"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2507,
-        1,
-        2520
-      ],
-      "comment": "The Cook"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        2547,
-        2,
-        16
-      ],
-      "comment": "Meat Cleaver"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2508,
-        1,
-        2520
-      ],
-      "comment": "Assistant Cook"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2509,
-        1,
-        2527
-      ],
-      "comment": "Prisoner"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        2548,
-        1,
-        13
-      ],
-      "comment": "Chain Shackles"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2510,
-        1,
-        2528
-      ],
-      "comment": "Jailor"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        2522,
-        1,
-        17
-      ],
-      "comment": "Old Key"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2511,
-        2,
-        2533
-      ],
-      "comment": "Broom"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2511,
-        2,
-        2533
-      ],
-      "comment": "Broom"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2512,
-        10,
-        2535
-      ],
-      "comment": "Lesser Guardian"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2512,
-        10,
-        2540
-      ],
-      "comment": "Lesser Guardian"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2512,
-        10,
-        2630
-      ],
-      "comment": "Lesser Guardian"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2512,
-        10,
-        2535
-      ],
-      "comment": "Lesser Guardian"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2512,
-        10,
-        2535
-      ],
-      "comment": "Lesser Guardian"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2512,
-        10,
-        2535
-      ],
-      "comment": "Lesser Guardian"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2513,
-        5,
-        2535
-      ],
-      "comment": "Greater Guardian"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2513,
-        5,
-        2575
-      ],
-      "comment": "Greater Guardian"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2513,
-        5,
-        2600
-      ],
-      "comment": "Greater Guardian"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2513,
-        5,
-        2633
-      ],
-      "comment": "Greater Guardian"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2513,
-        5,
-        2649
-      ],
-      "comment": "Greater Guardian"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2514,
-        1,
-        2537
-      ],
-      "comment": "Visiting Mage"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2515,
-        3,
-        2542
-      ],
-      "comment": "Apprentice"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2515,
-        3,
-        2544
-      ],
-      "comment": "Apprentice"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2516,
-        3,
-        2544
-      ],
-      "comment": "Apprentice"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2516,
-        3,
-        2542
-      ],
-      "comment": "Apprentice"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2517,
-        3,
-        2542
-      ],
-      "comment": "Apprentice"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2517,
-        3,
-        2544
-      ],
-      "comment": "Apprentice"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2518,
-        3,
-        2545
-      ],
-      "comment": "Apprentice"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2518,
-        3,
-        2545
-      ],
-      "comment": "Apprentice"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2518,
-        3,
-        2545
-      ],
-      "comment": "Apprentice"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2519,
-        1,
-        2545
-      ],
-      "comment": "Kitten"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2520,
-        4,
-        2549
-      ],
-      "comment": "Student"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2520,
-        4,
-        2549
-      ],
-      "comment": "Student"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2520,
-        4,
-        2549
-      ],
-      "comment": "Student"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2520,
-        4,
-        2549
-      ],
-      "comment": "Student"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2521,
-        1,
-        2549
-      ],
-      "comment": "Teacher"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2522,
-        4,
-        2554
-      ],
-      "comment": "Student"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2522,
-        4,
-        2554
-      ],
-      "comment": "Student"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2522,
-        4,
-        2554
-      ],
-      "comment": "Student"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2522,
-        4,
-        2554
-      ],
-      "comment": "Student"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2523,
-        1,
-        2554
-      ],
-      "comment": "Teacher"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2524,
-        3,
-        2557
-      ],
-      "comment": "Listener"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2524,
-        3,
-        2557
-      ],
-      "comment": "Listener"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2524,
-        3,
-        2557
-      ],
-      "comment": "Listener"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2525,
-        1,
-        2557
-      ],
-      "comment": "Speaker"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2526,
-        3,
-        2559
-      ],
-      "comment": "Student"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        2549,
-        6,
-        16
-      ],
-      "comment": "Silvery Dagger"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2526,
-        3,
-        2559
-      ],
-      "comment": "Student"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        2549,
-        6,
-        16
-      ],
-      "comment": "Silvery Dagger"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2526,
-        3,
-        2559
-      ],
-      "comment": "Student"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        2549,
-        6,
-        16
-      ],
-      "comment": "Silvery Dagger"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2527,
-        1,
-        2559
-      ],
-      "comment": "Battle Master"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        2549,
-        6,
-        17
-      ],
-      "comment": "Silvery Dagger"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2528,
-        2,
-        2564
-      ],
-      "comment": "Teacher"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2529,
-        1,
-        2565
-      ],
-      "comment": "Sleeping Mage"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2530,
-        1,
-        2567
-      ],
-      "comment": "Scribe"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2512,
-        10,
-        2568
-      ],
-      "comment": "Lesser Guardian"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2531,
-        2,
-        2571
-      ],
-      "comment": "Scribe"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2531,
-        2,
-        2571
-      ],
-      "comment": "Scribe"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2532,
-        1,
-        2573
-      ],
-      "comment": "Master Scribe"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        2552,
-        1
-      ],
-      "comment": "Cylindrical Tube"
-    },
-    {
-      "cmd": "P",
-      "args": [
-        1,
-        2550,
-        2,
-        2552
-      ],
-      "comment": "Scroll"
-    },
-    {
-      "cmd": "P",
-      "args": [
-        1,
-        2551,
-        2,
-        2552
-      ],
-      "comment": "Bound Scroll"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2533,
-        1,
-        2573
-      ],
-      "comment": "Assistant Scribe"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
         2553,
-        3
-      ],
-      "comment": "Old Scroll"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2534,
         1,
-        2582
+        2637
       ],
-      "comment": "Enchanter"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        2515,
-        1,
-        17
-      ],
-      "comment": "Small Key"
+      "comment": "(The Librarian)"
     },
     {
       "cmd": "G",
       "args": [
         1,
-        2554,
+        9823,
+        1,
+        -1
+      ],
+      "comment": "(&WTales From Wardome&n (Tome I))"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        2637,
+        1,
         1
       ],
-      "comment": "Scroll Of Enchantment"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2535,
-        1,
-        2582
-      ],
-      "comment": "Dancing Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2536,
-        1,
-        2588
-      ],
-      "comment": "The Mad Alchemist"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        2555,
-        5,
-        17
-      ],
-      "comment": "Leather Pouch"
-    },
-    {
-      "cmd": "P",
-      "args": [
-        1,
-        2556,
-        2,
-        2555
-      ],
-      "comment": "Silver Spoon"
-    },
-    {
-      "cmd": "P",
-      "args": [
-        1,
-        2558,
-        2,
-        2555
-      ],
-      "comment": "Red Potion"
-    },
-    {
-      "cmd": "P",
-      "args": [
-        1,
-        2559,
-        2,
-        2555
-      ],
-      "comment": "Green Potion"
-    },
-    {
-      "cmd": "P",
-      "args": [
-        1,
-        2560,
-        2,
-        2555
-      ],
-      "comment": "Effervescent Potion"
-    },
-    {
-      "cmd": "P",
-      "args": [
-        1,
-        2561,
-        2,
-        2555
-      ],
-      "comment": "Milky White Potion"
+      "comment": "(The Entrance To The Library)"
     },
     {
       "cmd": "M",
@@ -1035,7 +47,7 @@
         1,
         2590
       ],
-      "comment": "The Summoner"
+      "comment": "(the Master Summoner)"
     },
     {
       "cmd": "E",
@@ -1045,7 +57,1097 @@
         2,
         17
       ],
-      "comment": "Teleport Staff"
+      "comment": "(a black staff)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2590,
+        0,
+        1
+      ],
+      "comment": "(The Pentagram Chamber)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2581,
+        1,
+        1
+      ],
+      "comment": "(A Very Hot Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2581,
+        2,
+        1
+      ],
+      "comment": "(A Very Hot Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2581,
+        4,
+        1
+      ],
+      "comment": "(A Very Hot Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        2565,
+        1,
+        2581
+      ],
+      "comment": "(Mithril Guardian)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2513,
+        2,
+        -1
+      ],
+      "comment": "(a mithril hammer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2500,
+        6,
+        2502
+      ],
+      "comment": "(the shadow guardian)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2500,
+        6,
+        2504
+      ],
+      "comment": "(the shadow guardian)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2500,
+        6,
+        2506
+      ],
+      "comment": "(the shadow guardian)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2500,
+        6,
+        2508
+      ],
+      "comment": "(the shadow guardian)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2500,
+        6,
+        2511
+      ],
+      "comment": "(the shadow guardian)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2501,
+        1,
+        2511
+      ],
+      "comment": "(the lost adventurer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2502,
+        1,
+        2507
+      ],
+      "comment": "(Edgar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2503,
+        1,
+        2512
+      ],
+      "comment": "(the diamond golem)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2500,
+        1,
+        17
+      ],
+      "comment": "(a diamond key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2504,
+        7,
+        2513
+      ],
+      "comment": "(the mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2504,
+        7,
+        2514
+      ],
+      "comment": "(the mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2504,
+        7,
+        2514
+      ],
+      "comment": "(the mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2504,
+        7,
+        2515
+      ],
+      "comment": "(the mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2504,
+        7,
+        2516
+      ],
+      "comment": "(the mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2504,
+        7,
+        2518
+      ],
+      "comment": "(the mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2504,
+        7,
+        2519
+      ],
+      "comment": "(the mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2505,
+        1,
+        2518
+      ],
+      "comment": "(Strick the bartender)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2504,
+        100,
+        -1
+      ],
+      "comment": "(a slice of traveller's bread)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2545,
+        100,
+        -1
+      ],
+      "comment": "(a herbal brew)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2546,
+        100,
+        -1
+      ],
+      "comment": "(a waybread)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3010,
+        100,
+        -1
+      ],
+      "comment": "(a bread)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3100,
+        100,
+        -1
+      ],
+      "comment": "(a cup)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3101,
+        100,
+        -1
+      ],
+      "comment": "(a cup)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2506,
+        1,
+        2519
+      ],
+      "comment": "(Tatorious)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3050,
+        100,
+        -1
+      ],
+      "comment": "(a scroll of identify)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3051,
+        100,
+        -1
+      ],
+      "comment": "(a yellow potion of see invisible)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3053,
+        100,
+        -1
+      ],
+      "comment": "(a grey wand of invisibility)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2507,
+        1,
+        2520
+      ],
+      "comment": "(Ezmerelda)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2547,
+        2,
+        16
+      ],
+      "comment": "(a meat cleaver)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2508,
+        1,
+        2520
+      ],
+      "comment": "(the cook's assistant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2509,
+        1,
+        2527
+      ],
+      "comment": "(the prisoner)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2548,
+        1,
+        13
+      ],
+      "comment": "(some chain shackles)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2510,
+        1,
+        2528
+      ],
+      "comment": "(the Jailor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2522,
+        1,
+        17
+      ],
+      "comment": "(an old key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2511,
+        2,
+        2533
+      ],
+      "comment": "(the broom)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2511,
+        2,
+        2533
+      ],
+      "comment": "(the broom)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2512,
+        10,
+        2535
+      ],
+      "comment": "(the pair of disembodied hands)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2512,
+        10,
+        2540
+      ],
+      "comment": "(the pair of disembodied hands)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2512,
+        10,
+        2630
+      ],
+      "comment": "(the pair of disembodied hands)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2512,
+        10,
+        2535
+      ],
+      "comment": "(the pair of disembodied hands)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2512,
+        10,
+        2535
+      ],
+      "comment": "(the pair of disembodied hands)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2512,
+        10,
+        2535
+      ],
+      "comment": "(the pair of disembodied hands)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2513,
+        5,
+        2535
+      ],
+      "comment": "(the pair of disembodied eyes)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2513,
+        5,
+        2575
+      ],
+      "comment": "(the pair of disembodied eyes)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2513,
+        5,
+        2600
+      ],
+      "comment": "(the pair of disembodied eyes)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2513,
+        5,
+        2633
+      ],
+      "comment": "(the pair of disembodied eyes)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2513,
+        5,
+        2649
+      ],
+      "comment": "(the pair of disembodied eyes)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2514,
+        1,
+        2537
+      ],
+      "comment": "(the mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2515,
+        3,
+        2542
+      ],
+      "comment": "(the young apprentice magic user)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2515,
+        3,
+        2544
+      ],
+      "comment": "(the young apprentice magic user)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2516,
+        3,
+        2544
+      ],
+      "comment": "(the young apprentice)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2516,
+        3,
+        2542
+      ],
+      "comment": "(the young apprentice)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2517,
+        3,
+        2542
+      ],
+      "comment": "(the young apprentice)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2517,
+        3,
+        2544
+      ],
+      "comment": "(the young apprentice)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2518,
+        3,
+        2545
+      ],
+      "comment": "(the young apprentice)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2518,
+        3,
+        2545
+      ],
+      "comment": "(the young apprentice)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2518,
+        3,
+        2545
+      ],
+      "comment": "(the young apprentice)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2519,
+        1,
+        2545
+      ],
+      "comment": "(the small kitten)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2520,
+        4,
+        2549
+      ],
+      "comment": "(the student)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2520,
+        4,
+        2549
+      ],
+      "comment": "(the student)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2520,
+        4,
+        2549
+      ],
+      "comment": "(the student)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2520,
+        4,
+        2549
+      ],
+      "comment": "(the student)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2521,
+        1,
+        2549
+      ],
+      "comment": "(the instructor of magic)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2522,
+        4,
+        2554
+      ],
+      "comment": "(the student of spells)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2522,
+        4,
+        2554
+      ],
+      "comment": "(the student of spells)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2522,
+        4,
+        2554
+      ],
+      "comment": "(the student of spells)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2522,
+        4,
+        2554
+      ],
+      "comment": "(the student of spells)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2523,
+        1,
+        2554
+      ],
+      "comment": "(the spell teacher)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2524,
+        3,
+        2557
+      ],
+      "comment": "(the student of spells)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2524,
+        3,
+        2557
+      ],
+      "comment": "(the student of spells)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2524,
+        3,
+        2557
+      ],
+      "comment": "(the student of spells)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2525,
+        1,
+        2557
+      ],
+      "comment": "(the wizard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2526,
+        3,
+        2559
+      ],
+      "comment": "(the young mage)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2549,
+        6,
+        16
+      ],
+      "comment": "(a silvery dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2526,
+        3,
+        2559
+      ],
+      "comment": "(the young mage)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2549,
+        6,
+        16
+      ],
+      "comment": "(a silvery dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2526,
+        3,
+        2559
+      ],
+      "comment": "(the young mage)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2549,
+        6,
+        16
+      ],
+      "comment": "(a silvery dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2527,
+        1,
+        2559
+      ],
+      "comment": "(the battle mistress)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2549,
+        6,
+        17
+      ],
+      "comment": "(a silvery dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2528,
+        2,
+        2564
+      ],
+      "comment": "(the spell teacher)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2529,
+        1,
+        2565
+      ],
+      "comment": "(the aged wizard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2530,
+        1,
+        2567
+      ],
+      "comment": "(the scribe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2512,
+        10,
+        2568
+      ],
+      "comment": "(the pair of disembodied hands)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2531,
+        2,
+        2571
+      ],
+      "comment": "(the scribe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2531,
+        2,
+        2571
+      ],
+      "comment": "(the scribe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2532,
+        1,
+        2573
+      ],
+      "comment": "(the Master Scribe)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2552,
+        1,
+        -1
+      ],
+      "comment": "(a long cylindrical tube)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        2550,
+        2,
+        2552
+      ],
+      "comment": "(a scroll)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        2551,
+        2,
+        2552
+      ],
+      "comment": "(a bound scroll)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2533,
+        1,
+        2573
+      ],
+      "comment": "(the scribe's assistant)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2553,
+        3,
+        -1
+      ],
+      "comment": "(an old scroll)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2534,
+        1,
+        2582
+      ],
+      "comment": "(the Enchanter)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2515,
+        1,
+        17
+      ],
+      "comment": "(a small key)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2554,
+        1,
+        -1
+      ],
+      "comment": "(a scroll written on blue paper)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2535,
+        1,
+        2582
+      ],
+      "comment": "(the dancing sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2536,
+        1,
+        2588
+      ],
+      "comment": "(the Mad Alchemist)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2555,
+        5,
+        17
+      ],
+      "comment": "(a leather pouch)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        2556,
+        2,
+        2555
+      ],
+      "comment": "(a silver stirring spoon)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        2558,
+        2,
+        2555
+      ],
+      "comment": "(a bright red potion)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        2559,
+        2,
+        2555
+      ],
+      "comment": "(a green potion)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        2560,
+        2,
+        2555
+      ],
+      "comment": "(an effervescent potion)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        2561,
+        2,
+        2555
+      ],
+      "comment": "(a milky white potion)"
     },
     {
       "cmd": "M",
@@ -1055,7 +1157,7 @@
         1,
         2595
       ],
-      "comment": "Master Of Charm"
+      "comment": "(the Master Charmer)"
     },
     {
       "cmd": "E",
@@ -1065,16 +1167,17 @@
         1,
         17
       ],
-      "comment": "Golden Flute"
+      "comment": "(a golden flute)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         2564,
-        1
+        1,
+        -1
       ],
-      "comment": "Figurine"
+      "comment": "(a small figurine)"
     },
     {
       "cmd": "M",
@@ -1084,7 +1187,7 @@
         5,
         2568
       ],
-      "comment": "Golem Sentry"
+      "comment": "(the wooden golem)"
     },
     {
       "cmd": "M",
@@ -1094,7 +1197,7 @@
         5,
         2598
       ],
-      "comment": "Golem Sentry"
+      "comment": "(the wooden golem)"
     },
     {
       "cmd": "M",
@@ -1104,7 +1207,7 @@
         5,
         2598
       ],
-      "comment": "Golem Sentry"
+      "comment": "(the wooden golem)"
     },
     {
       "cmd": "M",
@@ -1114,7 +1217,7 @@
         5,
         2628
       ],
-      "comment": "Golem Sentry"
+      "comment": "(the wooden golem)"
     },
     {
       "cmd": "M",
@@ -1124,7 +1227,7 @@
         5,
         2628
       ],
-      "comment": "Golem Sentry"
+      "comment": "(the wooden golem)"
     },
     {
       "cmd": "M",
@@ -1134,7 +1237,7 @@
         1,
         2602
       ],
-      "comment": "SpellBinder"
+      "comment": "(the Master Spellbinder)"
     },
     {
       "cmd": "E",
@@ -1144,16 +1247,17 @@
         1,
         17
       ],
-      "comment": "Silvery Key"
+      "comment": "(a silvery key)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         2523,
-        1
+        1,
+        -1
       ],
-      "comment": "Silvery Key"
+      "comment": "(a silvery key)"
     },
     {
       "cmd": "E",
@@ -1163,7 +1267,7 @@
         2,
         13
       ],
-      "comment": "Holstered Belt"
+      "comment": "(a holstered belt)"
     },
     {
       "cmd": "P",
@@ -1173,7 +1277,7 @@
         2,
         2565
       ],
-      "comment": "Blackened Wand"
+      "comment": "(a blackened wand)"
     },
     {
       "cmd": "M",
@@ -1183,7 +1287,7 @@
         1,
         2609
       ],
-      "comment": "Golem Maker"
+      "comment": "(the Golem Maker)"
     },
     {
       "cmd": "E",
@@ -1193,7 +1297,7 @@
         2,
         17
       ],
-      "comment": "Runed Chisel"
+      "comment": "(a runed chisel)"
     },
     {
       "cmd": "M",
@@ -1203,7 +1307,7 @@
         1,
         2609
       ],
-      "comment": "Granite Golem"
+      "comment": "(the granite golem)"
     },
     {
       "cmd": "M",
@@ -1213,7 +1317,7 @@
         1,
         2611
       ],
-      "comment": "Bronze Golem"
+      "comment": "(the bronze golem)"
     },
     {
       "cmd": "M",
@@ -1223,7 +1327,7 @@
         1,
         2611
       ],
-      "comment": "Flesh Golem"
+      "comment": "(the flesh golem)"
     },
     {
       "cmd": "M",
@@ -1233,7 +1337,7 @@
         1,
         2609
       ],
-      "comment": "Cloth Golem"
+      "comment": "(the cloth golem)"
     },
     {
       "cmd": "M",
@@ -1243,7 +1347,7 @@
         1,
         2611
       ],
-      "comment": "Adamantite Golem"
+      "comment": "(the adamantite golem)"
     },
     {
       "cmd": "M",
@@ -1253,7 +1357,7 @@
         1,
         2611
       ],
-      "comment": "Clay Golem"
+      "comment": "(the clay golem)"
     },
     {
       "cmd": "M",
@@ -1263,7 +1367,7 @@
         1,
         2617
       ],
-      "comment": "Master Of Illusion"
+      "comment": "(the Master of Illusions)"
     },
     {
       "cmd": "E",
@@ -1273,7 +1377,7 @@
         3,
         13
       ],
-      "comment": "Beltpouch"
+      "comment": "(a beltpouch)"
     },
     {
       "cmd": "P",
@@ -1283,7 +1387,7 @@
         3,
         2568
       ],
-      "comment": "Sparkling Dust"
+      "comment": "(some sparkling dust)"
     },
     {
       "cmd": "M",
@@ -1293,7 +1397,7 @@
         1,
         2625
       ],
-      "comment": "The Necromancer"
+      "comment": "(the Necromancer)"
     },
     {
       "cmd": "E",
@@ -1303,7 +1407,7 @@
         2,
         3
       ],
-      "comment": "Dark Cowl"
+      "comment": "(a dark cowl)"
     },
     {
       "cmd": "E",
@@ -1313,7 +1417,7 @@
         2,
         17
       ],
-      "comment": "Ashen Wand"
+      "comment": "(an ashen wand)"
     },
     {
       "cmd": "M",
@@ -1323,7 +1427,7 @@
         4,
         2625
       ],
-      "comment": "Skeleton"
+      "comment": "(the animated skeleton)"
     },
     {
       "cmd": "M",
@@ -1333,7 +1437,7 @@
         4,
         2625
       ],
-      "comment": "Skeleton"
+      "comment": "(the animated skeleton)"
     },
     {
       "cmd": "M",
@@ -1343,7 +1447,7 @@
         1,
         2625
       ],
-      "comment": "Undead Giant"
+      "comment": "(the undead giant)"
     },
     {
       "cmd": "E",
@@ -1353,7 +1457,7 @@
         1,
         16
       ],
-      "comment": "Spiked Club"
+      "comment": "(a huge spiked club)"
     },
     {
       "cmd": "M",
@@ -1363,7 +1467,7 @@
         3,
         2635
       ],
-      "comment": "Witch"
+      "comment": "(the ugly witch)"
     },
     {
       "cmd": "M",
@@ -1373,7 +1477,7 @@
         3,
         2635
       ],
-      "comment": "Witch"
+      "comment": "(the ugly witch)"
     },
     {
       "cmd": "M",
@@ -1383,17 +1487,7 @@
         3,
         2635
       ],
-      "comment": "Witch"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        2553,
-        1,
-        2637
-      ],
-      "comment": "Librarian"
+      "comment": "(the ugly witch)"
     },
     {
       "cmd": "M",
@@ -1403,7 +1497,7 @@
         1,
         2653
       ],
-      "comment": "Neutral Apprentice"
+      "comment": "(the Master's apprentice)"
     },
     {
       "cmd": "E",
@@ -1413,7 +1507,7 @@
         1,
         12
       ],
-      "comment": "Grey Robe"
+      "comment": "(a grey robe)"
     },
     {
       "cmd": "E",
@@ -1423,7 +1517,7 @@
         1,
         14
       ],
-      "comment": "Silver Bracelet"
+      "comment": "(a glinting silver bracelet)"
     },
     {
       "cmd": "M",
@@ -1433,7 +1527,7 @@
         1,
         2654
       ],
-      "comment": "Grey Familiar"
+      "comment": "(the grey cat)"
     },
     {
       "cmd": "M",
@@ -1443,16 +1537,17 @@
         1,
         2654
       ],
-      "comment": "Neutral Guildmaster"
+      "comment": "(the Master of Neutrality)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         2593,
-        1
+        1,
+        -1
       ],
-      "comment": "Grey Key"
+      "comment": "(a grey key)"
     },
     {
       "cmd": "E",
@@ -1462,7 +1557,7 @@
         1,
         3
       ],
-      "comment": "Grey Cloak"
+      "comment": "(a long grey cloak)"
     },
     {
       "cmd": "E",
@@ -1472,7 +1567,7 @@
         1,
         16
       ],
-      "comment": "Iron Shod Staff"
+      "comment": "(an iron shod staff)"
     },
     {
       "cmd": "E",
@@ -1482,7 +1577,7 @@
         3,
         17
       ],
-      "comment": "Ward Minor"
+      "comment": "(a ward minor)"
     },
     {
       "cmd": "M",
@@ -1492,7 +1587,7 @@
         1,
         2661
       ],
-      "comment": "Evil Apprentice"
+      "comment": "(the black robed apprentice)"
     },
     {
       "cmd": "E",
@@ -1502,7 +1597,7 @@
         1,
         12
       ],
-      "comment": "Black Robe"
+      "comment": "(a black robe)"
     },
     {
       "cmd": "E",
@@ -1512,7 +1607,7 @@
         1,
         14
       ],
-      "comment": "Onyx Bracelet"
+      "comment": "(an onyx bracelet)"
     },
     {
       "cmd": "M",
@@ -1522,7 +1617,7 @@
         1,
         2664
       ],
-      "comment": "Black Familiar"
+      "comment": "(the black cat)"
     },
     {
       "cmd": "M",
@@ -1532,16 +1627,17 @@
         1,
         2664
       ],
-      "comment": "Evil Guildmaster"
+      "comment": "(the Master of the Black Robes)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         2594,
-        1
+        1,
+        -1
       ],
-      "comment": "Black Key"
+      "comment": "(a black key)"
     },
     {
       "cmd": "E",
@@ -1551,7 +1647,7 @@
         1,
         3
       ],
-      "comment": "Dark Black Cloak"
+      "comment": "(a dark black cloak)"
     },
     {
       "cmd": "E",
@@ -1561,7 +1657,7 @@
         1,
         16
       ],
-      "comment": "Shard Of Obsidian"
+      "comment": "(a sharp shard of obsidian)"
     },
     {
       "cmd": "E",
@@ -1571,7 +1667,7 @@
         3,
         17
       ],
-      "comment": "Ward Minor"
+      "comment": "(a ward minor)"
     },
     {
       "cmd": "M",
@@ -1581,7 +1677,7 @@
         1,
         2667
       ],
-      "comment": "Good Apprentice"
+      "comment": "(the white robed apprentice)"
     },
     {
       "cmd": "E",
@@ -1591,7 +1687,7 @@
         1,
         12
       ],
-      "comment": "White Robe"
+      "comment": "(a white robe)"
     },
     {
       "cmd": "E",
@@ -1601,7 +1697,7 @@
         1,
         14
       ],
-      "comment": "White Gold Bracelet"
+      "comment": "(a white gold bracelet)"
     },
     {
       "cmd": "M",
@@ -1611,7 +1707,7 @@
         1,
         2669
       ],
-      "comment": "White Familiar"
+      "comment": "(the white cat)"
     },
     {
       "cmd": "M",
@@ -1621,16 +1717,17 @@
         1,
         2669
       ],
-      "comment": "Good Guildmaster"
+      "comment": "(the Master of Goodness)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         2595,
-        1
+        1,
+        -1
       ],
-      "comment": "White Key"
+      "comment": "(a white key)"
     },
     {
       "cmd": "E",
@@ -1640,7 +1737,7 @@
         1,
         3
       ],
-      "comment": "White Cloak"
+      "comment": "(a white cloak)"
     },
     {
       "cmd": "E",
@@ -1650,7 +1747,7 @@
         1,
         16
       ],
-      "comment": "Ivory Hilted Dagger"
+      "comment": "(an ivory hilted dagger)"
     },
     {
       "cmd": "E",
@@ -1660,7 +1757,7 @@
         3,
         17
       ],
-      "comment": "Ward Minor"
+      "comment": "(a ward minor)"
     },
     {
       "cmd": "M",
@@ -1670,7 +1767,7 @@
         1,
         2677
       ],
-      "comment": "Calico Cat"
+      "comment": "(the calico cat)"
     },
     {
       "cmd": "E",
@@ -1680,7 +1777,7 @@
         1,
         3
       ],
-      "comment": "Spiked Collar"
+      "comment": "(&WA &ws&Wp&wi&Wk&we&Wd &Wcollar&n)"
     },
     {
       "cmd": "M",
@@ -1690,16 +1787,17 @@
         1,
         2677
       ],
-      "comment": "Grand Master Of Magic"
+      "comment": "(the Grand Mistress)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         2538,
-        1
+        1,
+        -1
       ],
-      "comment": "Intricate Key"
+      "comment": "(an intricately carved key)"
     },
     {
       "cmd": "E",
@@ -1709,7 +1807,7 @@
         1,
         3
       ],
-      "comment": "Shimmering Cloak"
+      "comment": "(&Wa shimmering &mcloak of many &Mc&ro&Gl&Wo&Yr&Cs&n)"
     },
     {
       "cmd": "E",
@@ -1719,7 +1817,7 @@
         2,
         5
       ],
-      "comment": "Green Dragon Scale Shirt"
+      "comment": "(a tight fitting green dragon scale shirt)"
     },
     {
       "cmd": "E",
@@ -1729,7 +1827,7 @@
         1,
         1
       ],
-      "comment": "Emerald Ring"
+      "comment": "(a small emerald ring)"
     },
     {
       "cmd": "E",
@@ -1739,7 +1837,7 @@
         1,
         14
       ],
-      "comment": "Emerald Bracelet"
+      "comment": "(&wan &Cemerald &Wbracelet&n)"
     },
     {
       "cmd": "E",
@@ -1749,7 +1847,7 @@
         1,
         17
       ],
-      "comment": "Ward Major"
+      "comment": "(a ward major)"
     },
     {
       "cmd": "E",
@@ -1759,7 +1857,7 @@
         1,
         16
       ],
-      "comment": "Ebony Kris"
+      "comment": "(the ebony kris)"
     },
     {
       "cmd": "O",
@@ -1769,7 +1867,7 @@
         1,
         2520
       ],
-      "comment": "Oven"
+      "comment": "(an oven)"
     },
     {
       "cmd": "P",
@@ -1779,7 +1877,7 @@
         200,
         2501
       ],
-      "comment": "Traveller's Bread"
+      "comment": "(a slice of traveller's bread)"
     },
     {
       "cmd": "O",
@@ -1789,7 +1887,7 @@
         1,
         2520
       ],
-      "comment": "Meat Locker"
+      "comment": "(a meat locker)"
     },
     {
       "cmd": "P",
@@ -1799,7 +1897,7 @@
         1,
         2502
       ],
-      "comment": "Chunk Of Meat"
+      "comment": "(a large chunk of meat)"
     },
     {
       "cmd": "P",
@@ -1809,16 +1907,17 @@
         1,
         2502
       ],
-      "comment": "Finger Sandwich"
+      "comment": "(a finger sandwich)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         2520,
-        2503
+        2503,
+        -1
       ],
-      "comment": ""
+      "comment": "(a spice rack)"
     },
     {
       "cmd": "O",
@@ -1828,7 +1927,7 @@
         3,
         2520
       ],
-      "comment": "Spice Rack"
+      "comment": "(a spice rack)"
     },
     {
       "cmd": "O",
@@ -1838,7 +1937,7 @@
         2,
         2533
       ],
-      "comment": "Broom"
+      "comment": "(a straw broom)"
     },
     {
       "cmd": "O",
@@ -1848,7 +1947,7 @@
         2,
         2533
       ],
-      "comment": "Broom"
+      "comment": "(a straw broom)"
     },
     {
       "cmd": "O",
@@ -1858,37 +1957,37 @@
         1,
         2579
       ],
-      "comment": "Cabinet"
+      "comment": "(a cabinet)"
     },
     {
       "cmd": "P",
       "args": [
         1,
         3020,
-        100,
+        999,
         2508
       ],
-      "comment": "Dagger"
+      "comment": "(a dagger)"
     },
     {
       "cmd": "P",
       "args": [
         1,
         3021,
-        100,
+        999,
         2508
       ],
-      "comment": "Small Sword"
+      "comment": "(a small sword)"
     },
     {
       "cmd": "P",
       "args": [
         1,
         3022,
-        100,
+        999,
         2508
       ],
-      "comment": "Long Sword"
+      "comment": "(a long sword)"
     },
     {
       "cmd": "O",
@@ -1898,7 +1997,7 @@
         1,
         2579
       ],
-      "comment": "Bar Of Silver"
+      "comment": "(a bar of silver)"
     },
     {
       "cmd": "O",
@@ -1908,7 +2007,7 @@
         1,
         2579
       ],
-      "comment": "Bar Of Gold"
+      "comment": "(&YA bar of gold&n)"
     },
     {
       "cmd": "O",
@@ -1918,7 +2017,7 @@
         1,
         2579
       ],
-      "comment": "Bar Of Mithral"
+      "comment": "(a bar of mithril)"
     },
     {
       "cmd": "O",
@@ -1928,17 +2027,7 @@
         1,
         2579
       ],
-      "comment": "Bar Of Adamantite"
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        2513,
-        1,
-        2581
-      ],
-      "comment": "Mithral Hammer"
+      "comment": "(a bar of adamantite)"
     },
     {
       "cmd": "O",
@@ -1948,7 +2037,7 @@
         1,
         2582
       ],
-      "comment": "Chest"
+      "comment": "(a chest)"
     },
     {
       "cmd": "P",
@@ -1958,7 +2047,7 @@
         1,
         2514
       ],
-      "comment": "Long Sword"
+      "comment": "(a long sword)"
     },
     {
       "cmd": "P",
@@ -1968,7 +2057,7 @@
         1,
         2514
       ],
-      "comment": "Silver Dagger"
+      "comment": "(a silver dagger)"
     },
     {
       "cmd": "P",
@@ -1978,7 +2067,7 @@
         1,
         2514
       ],
-      "comment": "Scimitar"
+      "comment": "(a curved scimitar)"
     },
     {
       "cmd": "O",
@@ -1988,7 +2077,7 @@
         1,
         2601
       ],
-      "comment": "Staff"
+      "comment": "(a wooden staff)"
     },
     {
       "cmd": "O",
@@ -1998,7 +2087,7 @@
         1,
         2603
       ],
-      "comment": "Cabinet"
+      "comment": "(a silver chased cabinet)"
     },
     {
       "cmd": "P",
@@ -2008,7 +2097,7 @@
         1,
         2520
       ],
-      "comment": "Red And White Staff"
+      "comment": "(a red and white staff)"
     },
     {
       "cmd": "P",
@@ -2018,7 +2107,7 @@
         1,
         2520
       ],
-      "comment": "Burnt Staff"
+      "comment": "(a burnt staff)"
     },
     {
       "cmd": "O",
@@ -2028,7 +2117,7 @@
         1,
         2603
       ],
-      "comment": "Cabinet"
+      "comment": "(a silver chased cabinet)"
     },
     {
       "cmd": "P",
@@ -2038,7 +2127,7 @@
         1,
         2521
       ],
-      "comment": "Black Rod"
+      "comment": "(a black rod)"
     },
     {
       "cmd": "P",
@@ -2048,7 +2137,7 @@
         1,
         2521
       ],
-      "comment": "Wooden Stick"
+      "comment": "(a wooden stick)"
     },
     {
       "cmd": "P",
@@ -2058,7 +2147,7 @@
         1,
         2521
       ],
-      "comment": "Metal Wand"
+      "comment": "(a metal wand)"
     },
     {
       "cmd": "O",
@@ -2068,7 +2157,7 @@
         1,
         2635
       ],
-      "comment": "Cauldron"
+      "comment": "(a black cauldron)"
     },
     {
       "cmd": "P",
@@ -2078,7 +2167,7 @@
         1,
         2530
       ],
-      "comment": "Bat Wings"
+      "comment": "(a small pair of bat wings)"
     },
     {
       "cmd": "P",
@@ -2088,7 +2177,7 @@
         1,
         2530
       ],
-      "comment": "Eyeball"
+      "comment": "(an eyeball)"
     },
     {
       "cmd": "O",
@@ -2098,7 +2187,7 @@
         1,
         2645
       ],
-      "comment": "The Book Of Magic"
+      "comment": "(the book of magic)"
     },
     {
       "cmd": "P",
@@ -2108,7 +2197,7 @@
         1,
         2533
       ],
-      "comment": "Spectacles Of True Seeing"
+      "comment": "(a pair of spectacles)"
     },
     {
       "cmd": "O",
@@ -2118,7 +2207,7 @@
         1,
         2680
       ],
-      "comment": "Golden Altar"
+      "comment": "(a golden altar)"
     },
     {
       "cmd": "P",
@@ -2128,7 +2217,7 @@
         1,
         2535
       ],
-      "comment": "Heart Shaped Medallion"
+      "comment": "(&wA &Rheart &ws&Wh&wa&Wp&we&Wd &Rmedallion&n)"
     },
     {
       "cmd": "O",
@@ -2138,7 +2227,7 @@
         1,
         2681
       ],
-      "comment": "Chest"
+      "comment": "(a large chest)"
     },
     {
       "cmd": "P",
@@ -2148,7 +2237,7 @@
         1,
         2537
       ],
-      "comment": "Coins"
+      "comment": "(a pile of coins is here)"
     },
     {
       "cmd": "O",
@@ -2158,7 +2247,7 @@
         1,
         2682
       ],
-      "comment": "Brown Cloak"
+      "comment": "(a brown cloak)"
     },
     {
       "cmd": "O",
@@ -2168,7 +2257,7 @@
         1,
         2682
       ],
-      "comment": "Chameleon Poncho"
+      "comment": "(a chameleon poncho)"
     },
     {
       "cmd": "O",
@@ -2178,7 +2267,7 @@
         1,
         2682
       ],
-      "comment": "Old Boots"
+      "comment": "(a pair of old boots)"
     },
     {
       "cmd": "O",
@@ -2188,7 +2277,7 @@
         1,
         2682
       ],
-      "comment": "Leather Backpack"
+      "comment": "(&Wa &wleather &mbackpack&n)"
     },
     {
       "cmd": "P",
@@ -2198,7 +2287,7 @@
         1,
         2544
       ],
-      "comment": "Seashell Ring"
+      "comment": "(a seashell ring)"
     },
     {
       "cmd": "D",
@@ -2208,7 +2297,7 @@
         0,
         2
       ],
-      "comment": "Tower Entrance"
+      "comment": "(The Entrance To The High Tower)"
     },
     {
       "cmd": "D",
@@ -2218,7 +2307,7 @@
         2,
         2
       ],
-      "comment": ""
+      "comment": "(Inside The High Tower Of Sorcery)"
     },
     {
       "cmd": "D",
@@ -2228,7 +2317,7 @@
         3,
         1
       ],
-      "comment": "Kitchen"
+      "comment": "(The Dining Room)"
     },
     {
       "cmd": "D",
@@ -2238,7 +2327,7 @@
         1,
         1
       ],
-      "comment": ""
+      "comment": "(The Kitchen)"
     },
     {
       "cmd": "D",
@@ -2248,7 +2337,7 @@
         5,
         1
       ],
-      "comment": "Trapdoor"
+      "comment": "(A Dark Hallway)"
     },
     {
       "cmd": "D",
@@ -2258,7 +2347,7 @@
         4,
         1
       ],
-      "comment": ""
+      "comment": "(Below The Trapdoor)"
     },
     {
       "cmd": "D",
@@ -2268,7 +2357,7 @@
         0,
         2
       ],
-      "comment": "Dark Cell"
+      "comment": "(A Dark Passage)"
     },
     {
       "cmd": "D",
@@ -2278,7 +2367,7 @@
         2,
         2
       ],
-      "comment": ""
+      "comment": "(A Dark Cell)"
     },
     {
       "cmd": "D",
@@ -2288,7 +2377,7 @@
         1,
         1
       ],
-      "comment": "Jailor's Office"
+      "comment": "(A Dark Passage)"
     },
     {
       "cmd": "D",
@@ -2298,7 +2387,7 @@
         3,
         1
       ],
-      "comment": ""
+      "comment": "(The Jailor's office)"
     },
     {
       "cmd": "D",
@@ -2308,7 +2397,7 @@
         0,
         1
       ],
-      "comment": "Store Room"
+      "comment": "(The Hallway)"
     },
     {
       "cmd": "D",
@@ -2318,7 +2407,7 @@
         2,
         1
       ],
-      "comment": ""
+      "comment": "(A Store Room)"
     },
     {
       "cmd": "D",
@@ -2328,7 +2417,7 @@
         2,
         1
       ],
-      "comment": "Broom Closet"
+      "comment": "(The Hallway)"
     },
     {
       "cmd": "D",
@@ -2338,7 +2427,7 @@
         0,
         1
       ],
-      "comment": ""
+      "comment": "(A Broom Closet)"
     },
     {
       "cmd": "D",
@@ -2348,7 +2437,7 @@
         0,
         1
       ],
-      "comment": "A Hallway"
+      "comment": "(A Bend In The Hallway)"
     },
     {
       "cmd": "D",
@@ -2358,7 +2447,7 @@
         2,
         1
       ],
-      "comment": ""
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -2368,7 +2457,7 @@
         1,
         1
       ],
-      "comment": "Guest Bedroom"
+      "comment": "(A Bend In The Hallway)"
     },
     {
       "cmd": "D",
@@ -2378,7 +2467,7 @@
         3,
         1
       ],
-      "comment": ""
+      "comment": "(A Guest Bedroom)"
     },
     {
       "cmd": "D",
@@ -2388,7 +2477,7 @@
         2,
         1
       ],
-      "comment": "Guardian's Chamber"
+      "comment": "(A Bend In The Hallway)"
     },
     {
       "cmd": "D",
@@ -2398,7 +2487,7 @@
         0,
         1
       ],
-      "comment": ""
+      "comment": "(The Guardians' chamber)"
     },
     {
       "cmd": "D",
@@ -2408,7 +2497,7 @@
         1,
         1
       ],
-      "comment": "Guest Bedroom"
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -2418,7 +2507,7 @@
         3,
         1
       ],
-      "comment": ""
+      "comment": "(A Guest Bedroom)"
     },
     {
       "cmd": "D",
@@ -2428,7 +2517,7 @@
         1,
         1
       ],
-      "comment": "Burnt Room"
+      "comment": "(A hallway)"
     },
     {
       "cmd": "D",
@@ -2438,7 +2527,7 @@
         3,
         1
       ],
-      "comment": ""
+      "comment": "(The Burnt Room)"
     },
     {
       "cmd": "D",
@@ -2448,7 +2537,7 @@
         0,
         1
       ],
-      "comment": "Apprentices' Barracks"
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -2458,7 +2547,7 @@
         2,
         1
       ],
-      "comment": ""
+      "comment": "(The Apprentices' Barracks)"
     },
     {
       "cmd": "D",
@@ -2468,7 +2557,7 @@
         0,
         1
       ],
-      "comment": "Apprentices' Barracks"
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -2478,7 +2567,7 @@
         2,
         1
       ],
-      "comment": ""
+      "comment": "(The Apprentices' Barracks)"
     },
     {
       "cmd": "D",
@@ -2488,7 +2577,7 @@
         0,
         1
       ],
-      "comment": "Apprentices' Workshop"
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -2498,7 +2587,7 @@
         2,
         1
       ],
-      "comment": ""
+      "comment": "(The Apprentices' Workshop)"
     },
     {
       "cmd": "D",
@@ -2508,7 +2597,7 @@
         3,
         1
       ],
-      "comment": "Classroom"
+      "comment": "(The Hallway)"
     },
     {
       "cmd": "D",
@@ -2518,7 +2607,7 @@
         1,
         1
       ],
-      "comment": ""
+      "comment": "(A Classroom)"
     },
     {
       "cmd": "D",
@@ -2528,7 +2617,7 @@
         3,
         1
       ],
-      "comment": "Empty Classroom"
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -2538,7 +2627,7 @@
         1,
         1
       ],
-      "comment": ""
+      "comment": "(An Empty Classroom)"
     },
     {
       "cmd": "D",
@@ -2548,7 +2637,7 @@
         3,
         1
       ],
-      "comment": "Empty Classroom"
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -2558,7 +2647,7 @@
         1,
         1
       ],
-      "comment": ""
+      "comment": "(An Empty Classroom)"
     },
     {
       "cmd": "D",
@@ -2568,7 +2657,7 @@
         2,
         1
       ],
-      "comment": "Amphitheater"
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -2578,7 +2667,7 @@
         0,
         1
       ],
-      "comment": ""
+      "comment": "(The Amphitheater)"
     },
     {
       "cmd": "D",
@@ -2588,7 +2677,7 @@
         2,
         1
       ],
-      "comment": "Training Room"
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -2598,7 +2687,7 @@
         0,
         1
       ],
-      "comment": ""
+      "comment": "(The Training Room)"
     },
     {
       "cmd": "D",
@@ -2608,7 +2697,7 @@
         2,
         1
       ],
-      "comment": "Dueling Room"
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -2618,7 +2707,7 @@
         0,
         1
       ],
-      "comment": ""
+      "comment": "(A Dueling Room)"
     },
     {
       "cmd": "D",
@@ -2628,7 +2717,7 @@
         1,
         1
       ],
-      "comment": "Spellmasters' Lounge"
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -2638,7 +2727,7 @@
         3,
         1
       ],
-      "comment": ""
+      "comment": "(The Spellmasters' Lounge)"
     },
     {
       "cmd": "D",
@@ -2648,7 +2737,7 @@
         1,
         1
       ],
-      "comment": "Bedroom"
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -2658,7 +2747,7 @@
         3,
         1
       ],
-      "comment": ""
+      "comment": "(A Bedroom)"
     },
     {
       "cmd": "D",
@@ -2668,7 +2757,7 @@
         1,
         1
       ],
-      "comment": "Study"
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -2678,7 +2767,7 @@
         3,
         1
       ],
-      "comment": ""
+      "comment": "(The Study)"
     },
     {
       "cmd": "D",
@@ -2688,7 +2777,7 @@
         0,
         1
       ],
-      "comment": "Small Office"
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -2698,7 +2787,7 @@
         2,
         1
       ],
-      "comment": ""
+      "comment": "(A Small Office)"
     },
     {
       "cmd": "D",
@@ -2708,7 +2797,7 @@
         3,
         1
       ],
-      "comment": "Master Scribe's Workshop"
+      "comment": "(A Small Office)"
     },
     {
       "cmd": "D",
@@ -2718,7 +2807,7 @@
         1,
         1
       ],
-      "comment": ""
+      "comment": "(The Master Scribe's Workshop)"
     },
     {
       "cmd": "D",
@@ -2728,7 +2817,7 @@
         0,
         1
       ],
-      "comment": "Store Room"
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -2738,7 +2827,7 @@
         2,
         1
       ],
-      "comment": ""
+      "comment": "(A Store Room)"
     },
     {
       "cmd": "D",
@@ -2748,7 +2837,7 @@
         3,
         1
       ],
-      "comment": "Store Room"
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -2758,7 +2847,7 @@
         1,
         1
       ],
-      "comment": ""
+      "comment": "(A Store Room)"
     },
     {
       "cmd": "D",
@@ -2768,27 +2857,7 @@
         3,
         1
       ],
-      "comment": "Very Hot Room"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        2581,
-        1,
-        1
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        2581,
-        2,
-        1
-      ],
-      "comment": "Master Enchanter's Chamber"
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -2798,17 +2867,7 @@
         0,
         1
       ],
-      "comment": ""
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        2581,
-        4,
-        1
-      ],
-      "comment": "Dark Room"
+      "comment": "(The Master Enchanter's Chamber)"
     },
     {
       "cmd": "D",
@@ -2818,7 +2877,7 @@
         5,
         1
       ],
-      "comment": ""
+      "comment": "(It Is Very Dark Here...)"
     },
     {
       "cmd": "D",
@@ -2828,7 +2887,7 @@
         2,
         1
       ],
-      "comment": "Laboratory"
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -2838,7 +2897,7 @@
         0,
         1
       ],
-      "comment": ""
+      "comment": "(A Laboratory)"
     },
     {
       "cmd": "D",
@@ -2848,17 +2907,7 @@
         2,
         1
       ],
-      "comment": "Pentagram Chamber"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        2590,
-        0,
-        1
-      ],
-      "comment": ""
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -2868,7 +2917,7 @@
         1,
         1
       ],
-      "comment": "Empty Room"
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -2878,7 +2927,7 @@
         3,
         1
       ],
-      "comment": ""
+      "comment": "(An Empty Room)"
     },
     {
       "cmd": "D",
@@ -2888,7 +2937,7 @@
         1,
         1
       ],
-      "comment": "Charm Master's Chamber"
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -2898,7 +2947,7 @@
         3,
         1
       ],
-      "comment": ""
+      "comment": "(The Charm Master's Chamber)"
     },
     {
       "cmd": "D",
@@ -2908,7 +2957,7 @@
         0,
         1
       ],
-      "comment": "Animal Pens"
+      "comment": "(The Charm Master's Chamber)"
     },
     {
       "cmd": "D",
@@ -2918,7 +2967,7 @@
         2,
         1
       ],
-      "comment": ""
+      "comment": "(The Animal Pens)"
     },
     {
       "cmd": "D",
@@ -2928,7 +2977,7 @@
         0,
         1
       ],
-      "comment": "Store Room"
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -2938,7 +2987,7 @@
         2,
         1
       ],
-      "comment": ""
+      "comment": "(A Store Room)"
     },
     {
       "cmd": "D",
@@ -2948,7 +2997,7 @@
         3,
         1
       ],
-      "comment": "Master Spellbinder's Chamber"
+      "comment": "(A Store Room)"
     },
     {
       "cmd": "D",
@@ -2958,7 +3007,7 @@
         1,
         1
       ],
-      "comment": ""
+      "comment": "(The Master Spellbinder's Chamber)"
     },
     {
       "cmd": "D",
@@ -2968,7 +3017,7 @@
         3,
         1
       ],
-      "comment": "Master Spellbinder's Cache"
+      "comment": "(The Master Spellbinder's Chamber)"
     },
     {
       "cmd": "D",
@@ -2978,7 +3027,7 @@
         1,
         1
       ],
-      "comment": ""
+      "comment": "(The Spellbinder's Cache)"
     },
     {
       "cmd": "D",
@@ -2988,7 +3037,7 @@
         0,
         1
       ],
-      "comment": "Master Spellbinder's Cache"
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -2998,7 +3047,7 @@
         2,
         1
       ],
-      "comment": ""
+      "comment": "(The Spellbinder's Cache)"
     },
     {
       "cmd": "D",
@@ -3008,7 +3057,7 @@
         3,
         1
       ],
-      "comment": "Golem Master's Workshop"
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -3018,7 +3067,7 @@
         1,
         1
       ],
-      "comment": ""
+      "comment": "(The Golem Master's Workshop)"
     },
     {
       "cmd": "D",
@@ -3028,7 +3077,7 @@
         5,
         1
       ],
-      "comment": "Dark Room"
+      "comment": "(The Golem Master's Workshop)"
     },
     {
       "cmd": "D",
@@ -3038,7 +3087,7 @@
         4,
         1
       ],
-      "comment": ""
+      "comment": "(It Is Very Dark Here...)"
     },
     {
       "cmd": "D",
@@ -3048,7 +3097,7 @@
         2,
         1
       ],
-      "comment": "Illusion Master's Chamber"
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -3058,7 +3107,7 @@
         0,
         1
       ],
-      "comment": ""
+      "comment": "(The Illusion Master's Chamber)"
     },
     {
       "cmd": "D",
@@ -3068,7 +3117,7 @@
         2,
         1
       ],
-      "comment": "Meditation Chamber"
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -3078,7 +3127,7 @@
         0,
         1
       ],
-      "comment": ""
+      "comment": "(The Meditation Chamber)"
     },
     {
       "cmd": "D",
@@ -3088,7 +3137,7 @@
         1,
         1
       ],
-      "comment": "Necromancer's Room"
+      "comment": "(A Hallway)"
     },
     {
       "cmd": "D",
@@ -3098,7 +3147,7 @@
         3,
         1
       ],
-      "comment": ""
+      "comment": "(A Dark Room)"
     },
     {
       "cmd": "D",
@@ -3108,7 +3157,7 @@
         1,
         1
       ],
-      "comment": "Scrying Chamber"
+      "comment": "(A Corridor)"
     },
     {
       "cmd": "D",
@@ -3118,7 +3167,7 @@
         3,
         1
       ],
-      "comment": ""
+      "comment": "(The Scrying Chamber)"
     },
     {
       "cmd": "D",
@@ -3128,17 +3177,7 @@
         3,
         1
       ],
-      "comment": "Library"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        2637,
-        1,
-        1
-      ],
-      "comment": ""
+      "comment": "(A Guest Bedroom)"
     },
     {
       "cmd": "D",
@@ -3148,7 +3187,7 @@
         2,
         1
       ],
-      "comment": "Grey Antechamber"
+      "comment": "(A Grey Tiled Hallway)"
     },
     {
       "cmd": "D",
@@ -3158,7 +3197,7 @@
         0,
         1
       ],
-      "comment": ""
+      "comment": "(The Antechamber)"
     },
     {
       "cmd": "D",
@@ -3168,7 +3207,7 @@
         1,
         1
       ],
-      "comment": "Black Antechamber"
+      "comment": "(The End Of The Hallway)"
     },
     {
       "cmd": "D",
@@ -3178,7 +3217,7 @@
         3,
         1
       ],
-      "comment": ""
+      "comment": "(The Chamber Of Darkness)"
     },
     {
       "cmd": "D",
@@ -3188,7 +3227,7 @@
         3,
         1
       ],
-      "comment": "White Antechamber"
+      "comment": "(A Bright Hallway)"
     },
     {
       "cmd": "D",
@@ -3198,7 +3237,7 @@
         1,
         1
       ],
-      "comment": ""
+      "comment": "(An Antechamber)"
     },
     {
       "cmd": "D",
@@ -3208,7 +3247,7 @@
         0,
         2
       ],
-      "comment": "Grey Door"
+      "comment": "(A Wide Hallway)"
     },
     {
       "cmd": "D",
@@ -3218,7 +3257,7 @@
         2,
         2
       ],
-      "comment": ""
+      "comment": "(A Wide Hallway)"
     },
     {
       "cmd": "D",
@@ -3228,7 +3267,7 @@
         0,
         2
       ],
-      "comment": "Black Door"
+      "comment": "(A Wide Hallway)"
     },
     {
       "cmd": "D",
@@ -3238,7 +3277,7 @@
         2,
         2
       ],
-      "comment": ""
+      "comment": "(A Wide Hallway)"
     },
     {
       "cmd": "D",
@@ -3248,7 +3287,7 @@
         0,
         2
       ],
-      "comment": "White Door"
+      "comment": "(A Wide Hallway)"
     },
     {
       "cmd": "D",
@@ -3258,7 +3297,7 @@
         2,
         2
       ],
-      "comment": ""
+      "comment": "(The Entranceway)"
     },
     {
       "cmd": "D",
@@ -3268,7 +3307,7 @@
         1,
         1
       ],
-      "comment": "Treasury"
+      "comment": "(The Altar)"
     },
     {
       "cmd": "D",
@@ -3278,7 +3317,7 @@
         3,
         1
       ],
-      "comment": ""
+      "comment": "(The Treasury)"
     },
     {
       "cmd": "D",
@@ -3288,7 +3327,7 @@
         3,
         1
       ],
-      "comment": "Secret Excape Passage"
+      "comment": "(The Altar)"
     },
     {
       "cmd": "D",
@@ -3298,8 +3337,8 @@
         1,
         1
       ],
-      "comment": ""
+      "comment": "(A Passage)"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/25.zon"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/25.zon"
 }

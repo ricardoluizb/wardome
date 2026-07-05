@@ -3,8 +3,8 @@
   "zone_id": 33,
   "name": "The Common Room",
   "description": "A large fireplace warms this room in great waves of\nheat, to combat the chill drafts eminating from the windows\non the west and north sides of this room.  A few benches\nand tables are clustered in the center of the room, for\nthe use of the locals.  Fairly plain, for a frequented\ngathering place.",
-  "header_raw": "33 d 0",
-  "flags_text": "d",
+  "header_raw": "33 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

@@ -1,0 +1,21 @@
+{
+  "id": 11207,
+  "zone_id": 112,
+  "name": "Animal Attack",
+  "description": "The furniture in this dwelling has been smashed to flinders, the blood\nstained remains a testament to the strength and ferocity of whatever\nslew the hapless townsfolk who once resided here. The smell of rotting\nmeat is strong here, as is the fecund odor of a wild animal. Little\nof use seems to have survived the assault.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11206
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

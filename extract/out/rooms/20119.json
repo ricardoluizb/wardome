@@ -1,0 +1,45 @@
+{
+  "id": 20119,
+  "zone_id": 201,
+  "name": "The Grand Hall",
+  "description": "This massive hall contains figurines of the Buddha in all sort of sizes and\npositions. Towering above all of them, is a huge golden statue of a sleeping \nBuddha.  Directly in front of it, is a huge stone table for offerings.\nExits lead west and east to side halls, while south leads you back to the\nMain Court.",
+  "header_raw": "201 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A side hall.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20126
+    },
+    {
+      "dir": 2,
+      "description": "The main court.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20107
+    },
+    {
+      "dir": 3,
+      "description": "A side hall.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20120
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "Buddha golden statue",
+      "door_flag": 1,
+      "key": -1,
+      "to": 20136
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/201.wld"
+}

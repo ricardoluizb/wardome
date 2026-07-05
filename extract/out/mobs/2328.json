@@ -1,0 +1,12 @@
+{
+  "id": 2328,
+  "alias": "oldstyle amyrok minotaur mage master",
+  "short_desc": "Amyrok",
+  "long_desc": "Amyrok, the minotaur archmage, is here chanting arcane spells.",
+  "detailed_desc": "Amyrok is a small minotaur. He is clad in loose robes and emits an aura of\npower. He appears quite dangerous, despite his size. He is the leader of the\nmages of Mahn-Tor.",
+  "flags_raw": "42 136 300 E",
+  "stats1_raw": "200 -84 -23 1d1+8796 5d21+100",
+  "stats2_raw": "3000 26655827 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/23.mob"
+}

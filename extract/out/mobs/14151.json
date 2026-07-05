@@ -1,0 +1,12 @@
+{
+  "id": 14151,
+  "alias": "skeleton",
+  "short_desc": "the skeleton",
+  "long_desc": "The skeleton walks around in tattered clothing.",
+  "detailed_desc": "The skeleton has rotting bits of flesh attached to his bones.  He\ncarries a rusty shield and sword.  In fact the only thing\ncompletely clean on him is his white teeth, perhaps from his\nnightly meals of flesh and bone.",
+  "flags_raw": "2120 5248 -1000 E",
+  "stats1_raw": "175 -69 -17 1d1+6300 5d18+80",
+  "stats2_raw": "2625 17811884 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

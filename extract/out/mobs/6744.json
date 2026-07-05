@@ -1,0 +1,12 @@
+{
+  "id": 6744,
+  "alias": "priestess sacrifice",
+  "short_desc": "a sacrificial priestess",
+  "long_desc": "A priestess is preparing a blindfolded animal for sacrifice.",
+  "detailed_desc": "She is busy anointing a serrated dagger with a special balm, and\nsprinkling a dark water over the animal. She asks that you take a \nseat and keep quiet.",
+  "flags_raw": "2058 152 0 E",
+  "stats1_raw": "150 -55 -12 1d1+4200 5d16+60",
+  "stats2_raw": "2250 11339572 0",
+  "stats3_raw": "8 8 2 1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/67.mob"
+}

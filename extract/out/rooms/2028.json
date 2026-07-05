@@ -1,0 +1,37 @@
+{
+  "id": 2028,
+  "zone_id": 20,
+  "name": "Hot Tub",
+  "description": "The moon has turned a translucent silver and casts a light that\nilluminates the outlines of the bodies in the hot tub. This is the place\nto relax and get to know the one sitting across from you. The hot tub is\ncozy, almost magical as the pulsing jet stream of water makes direct\ncontact in your most secret places and those strong, smooth bubbles\nmassage reality away. Soft music, with a steady beat fills the air,\ntouches your soul and strikes an almost primal urge in you. You drift in a\nsecure and sensual place as your body responds to the steamy water, the\nfeather-light touches of someone and you enter a dreamlike state.",
+  "header_raw": "20 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2030
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2006
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2031
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

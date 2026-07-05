@@ -1,0 +1,37 @@
+{
+  "id": 9110,
+  "zone_id": 91,
+  "name": "An ominous storm cloud.",
+  "description": "You find yourself in a storm.  Lightning flashes and thunder\ncrashes, making you wish you were dry and warm.",
+  "header_raw": "91 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "There is a crag, high and rocky.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9111
+    },
+    {
+      "dir": 3,
+      "description": "You spy a tiny cloud.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9125
+    },
+    {
+      "dir": 4,
+      "description": "There is another cloud above you.  If you jump you might make it...",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9109
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

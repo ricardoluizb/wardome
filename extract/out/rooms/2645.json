@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Reading Room",
   "description": "You are in a small room completely devoid of furnishings.  The only thing\nhere is an enormous tome, lying face open on the floor.  The great book looks\nboth heavy and ancient.  Its jewel encrusted bindings are well worn as the\nbark of a tree.  Spidery writings seem to crawls across the pages, totally\nincomprehensible to your mortal eye.  Something seems to be wedged between\nthe pages.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

@@ -1,0 +1,29 @@
+{
+  "id": 1820,
+  "zone_id": 18,
+  "name": "The Master Herbal's Room",
+  "description": "Maps of Midgaard and Asgard abound in this room\nwith each forest marked for its herbal plant\ngrowing seasons.  The scent of parsley, sage,\nrosemary and thyme permeate the air.",
+  "header_raw": "18 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door west",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1818
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "secret-door down",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1815
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/18.wld"
+}

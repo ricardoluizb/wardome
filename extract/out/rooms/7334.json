@@ -1,10 +1,10 @@
 {
   "id": 7334,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "The Stair-Room",
   "description": "You are standing in a small room.  Drawings of faces in pain are on the\nwalls.  You can feel that darkness is ruling the place.  There is one exit:\nsouth.",
-  "header_raw": "73 ad 1",
-  "flags_text": "ad",
+  "header_raw": "72 9 1",
+  "flags_text": "9",
   "sector": 1,
   "exits": [
     {

@@ -1,0 +1,21 @@
+{
+  "id": 11512,
+  "zone_id": 115,
+  "name": "The Sexy Seventies Cafe",
+  "description": "No, this is not a place to find swinging septuagenarians.  This is a cafe\ncommemorating that happening decade the Seventies.  Around you are people\nadorned in plaid shirts and bell-bottomed trousers.  Pictures of John Travolta,\nRichard Nixon and the Bee-Gees hang on the walls.  You see what you think is a\nmarijuana plant growing in the corner.  To the west, you can return to Broadway\n(and the real world).",
+  "header_raw": "115 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11506
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

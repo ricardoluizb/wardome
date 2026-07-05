@@ -4,9 +4,9 @@
   "short_desc": "the red dragon",
   "long_desc": "The fierce-looking red dragon stares at you angrily.",
   "detailed_desc": "The red dragon stares at you, angrily, as it wakes when you arrive.\nIt says 'Oh, human YOU woke me up... Hsssss', while it moves closer,\n'Can one NEVER sleep in peace... Hssss... '",
-  "flags_raw": "befnoq dhkp -1000 S",
-  "stats1_raw": "19 2 0 5d4+230 3d6+3",
-  "stats2_raw": "16842 40000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "90170 33928 -1000 E",
+  "stats1_raw": "50 -5 2 1d1+1044 5d6+20",
+  "stats2_raw": "750 459442 0",
+  "stats3_raw": "8 8 0 0 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/70.mob"
 }

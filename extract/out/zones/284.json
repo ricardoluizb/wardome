@@ -1,0 +1,1154 @@
+{
+  "id": 284,
+  "name": "Abyssal Sea",
+  "header": {
+    "raw": "28499 30 1 1 -1",
+    "min_room": 28499,
+    "top_room": 30,
+    "lifespan": 1,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28413,
+        20,
+        28420
+      ],
+      "comment": "(A child of atlantis)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28413,
+        20,
+        28420
+      ],
+      "comment": "(A child of atlantis)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28413,
+        20,
+        28420
+      ],
+      "comment": "(A child of atlantis)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28413,
+        20,
+        28420
+      ],
+      "comment": "(A child of atlantis)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28413,
+        20,
+        28420
+      ],
+      "comment": "(A child of atlantis)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28413,
+        20,
+        28420
+      ],
+      "comment": "(A child of atlantis)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28413,
+        20,
+        28420
+      ],
+      "comment": "(A child of atlantis)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28413,
+        20,
+        28420
+      ],
+      "comment": "(A child of atlantis)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28413,
+        20,
+        28420
+      ],
+      "comment": "(A child of atlantis)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28413,
+        20,
+        28420
+      ],
+      "comment": "(A child of atlantis)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28414,
+        25,
+        28421
+      ],
+      "comment": "(Guardian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28416,
+        3,
+        16
+      ],
+      "comment": "(Trident)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28414,
+        25,
+        28421
+      ],
+      "comment": "(Guardian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28416,
+        3,
+        16
+      ],
+      "comment": "(Trident)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28414,
+        25,
+        28421
+      ],
+      "comment": "(Guardian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28416,
+        3,
+        16
+      ],
+      "comment": "(Trident)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28414,
+        25,
+        28421
+      ],
+      "comment": "(Guardian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28416,
+        3,
+        16
+      ],
+      "comment": "(Trident)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28414,
+        25,
+        28421
+      ],
+      "comment": "(Guardian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28416,
+        3,
+        16
+      ],
+      "comment": "(Trident)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28414,
+        25,
+        28421
+      ],
+      "comment": "(Guardian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28416,
+        3,
+        16
+      ],
+      "comment": "(Trident)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28414,
+        25,
+        28421
+      ],
+      "comment": "(Guardian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28416,
+        3,
+        16
+      ],
+      "comment": "(Trident)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        28414,
+        25,
+        28421
+      ],
+      "comment": "(Guardian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28416,
+        3,
+        16
+      ],
+      "comment": "(Trident)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        28426,
+        3,
+        -1
+      ],
+      "comment": "(Prison key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28407,
+        1,
+        28423
+      ],
+      "comment": "(Aquaman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28402,
+        3,
+        13
+      ],
+      "comment": "(Aquamarin belt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28404,
+        3,
+        7
+      ],
+      "comment": "(Aquamarin scale leggings)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28405,
+        3,
+        10
+      ],
+      "comment": "(Aquamarin scale sleeves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28406,
+        3,
+        8
+      ],
+      "comment": "(Aquamarin scale boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28407,
+        3,
+        9
+      ],
+      "comment": "(Aquamarin scale gauntlets)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        28423,
+        4,
+        1
+      ],
+      "comment": "(The Aqua Hero Resistence)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        28422,
+        5,
+        1
+      ],
+      "comment": "(The Refuge Gates of the Atlantis)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28412,
+        1,
+        28435
+      ],
+      "comment": "(Kraken)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28413,
+        3,
+        5
+      ],
+      "comment": "(the Giant Kraken Scale)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28425,
+        1,
+        16
+      ],
+      "comment": "(kraken fingernail)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        28420,
+        1,
+        28435
+      ],
+      "comment": "(shell)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        28421,
+        1,
+        28420
+      ],
+      "comment": "(Rusty Stone)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        28422,
+        1,
+        28420
+      ],
+      "comment": "(Pearl Gem)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        28423,
+        1,
+        28420
+      ],
+      "comment": "(Iron Mask)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28401,
+        6,
+        28402
+      ],
+      "comment": "(Giant Shark)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28401,
+        6,
+        28402
+      ],
+      "comment": "(Giant Shark)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28401,
+        6,
+        28402
+      ],
+      "comment": "(Giant Shark)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28401,
+        6,
+        28403
+      ],
+      "comment": "(Giant Shark)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28401,
+        6,
+        28403
+      ],
+      "comment": "(Giant Shark)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28401,
+        6,
+        28403
+      ],
+      "comment": "(Giant Shark)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28402,
+        8,
+        28406
+      ],
+      "comment": "(Fossil fish)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28402,
+        8,
+        28406
+      ],
+      "comment": "(Fossil fish)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28402,
+        8,
+        28406
+      ],
+      "comment": "(Fossil fish)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28402,
+        8,
+        28406
+      ],
+      "comment": "(Fossil fish)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28402,
+        8,
+        28407
+      ],
+      "comment": "(Fossil fish)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28402,
+        8,
+        28407
+      ],
+      "comment": "(Fossil fish)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28402,
+        8,
+        28408
+      ],
+      "comment": "(Fossil fish)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28402,
+        8,
+        28409
+      ],
+      "comment": "(Fossil fish)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28403,
+        2,
+        28410
+      ],
+      "comment": "(giant crab)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28403,
+        2,
+        28414
+      ],
+      "comment": "(giant crab)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28404,
+        6,
+        28404
+      ],
+      "comment": "(crazed Orca)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28404,
+        6,
+        28404
+      ],
+      "comment": "(crazed Orca)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28404,
+        6,
+        28404
+      ],
+      "comment": "(crazed Orca)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28404,
+        6,
+        28405
+      ],
+      "comment": "(crazed Orca)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28404,
+        6,
+        28405
+      ],
+      "comment": "(crazed Orca)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28404,
+        6,
+        28405
+      ],
+      "comment": "(crazed Orca)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28405,
+        8,
+        28410
+      ],
+      "comment": "(fish monster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28405,
+        8,
+        28410
+      ],
+      "comment": "(fish monster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28405,
+        8,
+        28410
+      ],
+      "comment": "(fish monster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28405,
+        8,
+        28410
+      ],
+      "comment": "(fish monster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28405,
+        8,
+        28411
+      ],
+      "comment": "(fish monster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28405,
+        8,
+        28411
+      ],
+      "comment": "(fish monster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28405,
+        8,
+        28412
+      ],
+      "comment": "(fish monster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28405,
+        8,
+        28412
+      ],
+      "comment": "(fish monster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28406,
+        2,
+        28416
+      ],
+      "comment": "(giant octopus)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28406,
+        2,
+        28417
+      ],
+      "comment": "(giant octopus)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28408,
+        1,
+        28424
+      ],
+      "comment": "(Nemo)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28403,
+        1,
+        12
+      ],
+      "comment": "(Nemo Cloak)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28409,
+        6,
+        28415
+      ],
+      "comment": "(Deep thing)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28409,
+        6,
+        28415
+      ],
+      "comment": "(Deep thing)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28409,
+        6,
+        28415
+      ],
+      "comment": "(Deep thing)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28409,
+        6,
+        28415
+      ],
+      "comment": "(Deep thing)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28409,
+        6,
+        28415
+      ],
+      "comment": "(Deep thing)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28409,
+        6,
+        28415
+      ],
+      "comment": "(Deep thing)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28415,
+        3,
+        6
+      ],
+      "comment": "(Something)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28410,
+        1,
+        28434
+      ],
+      "comment": "(Seamon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28410,
+        3,
+        3
+      ],
+      "comment": "(Seagora Eye)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28411,
+        1,
+        28433
+      ],
+      "comment": "(Seagora)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28411,
+        3,
+        3
+      ],
+      "comment": "(Seamon Eye)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28413,
+        20,
+        28419
+      ],
+      "comment": "(A child of atlantis)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28413,
+        20,
+        28419
+      ],
+      "comment": "(A child of atlantis)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28413,
+        20,
+        28419
+      ],
+      "comment": "(A child of atlantis)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28413,
+        20,
+        28419
+      ],
+      "comment": "(A child of atlantis)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28413,
+        20,
+        28419
+      ],
+      "comment": "(A child of atlantis)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28413,
+        20,
+        28419
+      ],
+      "comment": "(A child of atlantis)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28413,
+        20,
+        28419
+      ],
+      "comment": "(A child of atlantis)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28413,
+        20,
+        28419
+      ],
+      "comment": "(A child of atlantis)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28413,
+        20,
+        28419
+      ],
+      "comment": "(A child of atlantis)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28413,
+        20,
+        28419
+      ],
+      "comment": "(A child of atlantis)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28415,
+        1,
+        28431
+      ],
+      "comment": "(Poseidon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28419,
+        3,
+        0
+      ],
+      "comment": "(Poseidon Halo)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        28418,
+        3,
+        -1
+      ],
+      "comment": "(Poseidon key)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        28432,
+        5,
+        2
+      ],
+      "comment": "(Monsters Prison)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28412,
+        3,
+        16
+      ],
+      "comment": "(Poseidon Trident)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28416,
+        1,
+        28426
+      ],
+      "comment": "(Neptune)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28414,
+        2,
+        2
+      ],
+      "comment": "(The Ring of Seven Seas)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28408,
+        3,
+        14
+      ],
+      "comment": "(&RC&roral &Rm&ru&Wl&Rt&ri&Wc&Ro&rl&Wo&Rr&re&Wd &Rbracelet&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28409,
+        3,
+        5
+      ],
+      "comment": "(Aquamarin shell)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        28417,
+        3,
+        16
+      ],
+      "comment": "(The Neptune Mask)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28417,
+        7,
+        28413
+      ],
+      "comment": "(Man-o-War)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28417,
+        7,
+        28413
+      ],
+      "comment": "(Man-o-War)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28417,
+        7,
+        28413
+      ],
+      "comment": "(Man-o-War)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28417,
+        7,
+        28413
+      ],
+      "comment": "(Man-o-War)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28417,
+        7,
+        28413
+      ],
+      "comment": "(Man-o-War)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28417,
+        7,
+        28413
+      ],
+      "comment": "(Man-o-War)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        28417,
+        7,
+        28413
+      ],
+      "comment": "(Man-o-War)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/284.zon"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3221,
+  "zone_id": 32,
+  "name": "The Balcony",
+  "description": "You sense that you have reached journey's end.  The balcony overlooks a\ngreat grassy field.  The sun's rays blind you, and you hear a snort.",
+  "header_raw": "32 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3219
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/32.wld"
+}

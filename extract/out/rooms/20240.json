@@ -1,0 +1,37 @@
+{
+  "id": 20240,
+  "zone_id": 202,
+  "name": "An abandoned market place",
+  "description": "Along this street are numerous upturned and broken carts.  Tattered pieces of\ntarp and wood litter the road, remnants of some of the carts that were most\nviolently destroyed.  It would appear that there was a riot when the food began\nto run short as a result of the siege.",
+  "header_raw": "202 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20241
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20239
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20242
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/202.wld"
+}

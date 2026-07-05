@@ -1,0 +1,21 @@
+{
+  "id": 20523,
+  "zone_id": 205,
+  "name": "Cave End",
+  "description": "The termine caves ends here ... Shape of a room, stand here few soldiers\nwaiting an attack to act, they looks apprehensives ...",
+  "header_raw": "205 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20515
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/205.wld"
+}

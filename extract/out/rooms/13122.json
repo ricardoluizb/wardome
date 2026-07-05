@@ -1,0 +1,29 @@
+{
+  "id": 13122,
+  "zone_id": 131,
+  "name": "Shogun of Rei",
+  "description": "You are in the chamber of the Shogun of Rei.  The Shogun here knows well of\nthe value of other people.  In fact, he even respects your insignificant\ncarcass.  Hmm . . . how odd, no one else does.",
+  "header_raw": "131 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The antechamber is north of you.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13121
+    },
+    {
+      "dir": 4,
+      "description": "A stairway leads up from here.",
+      "keywords": "forcefield",
+      "door_flag": 1,
+      "key": 13104,
+      "to": 13123
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/131.wld"
+}

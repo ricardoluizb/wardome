@@ -1,0 +1,21 @@
+{
+  "id": 12370,
+  "zone_id": 122,
+  "name": "The Infernal Throne of Surtur",
+  "description": "Here lies the throne of Surtur, lord of the fire giants. It is a towering\nchair of iron, ablaze with magical flame of brilliant hues of red and blue,\nwhich cast a blinding light throughout the cavernous halls. Large stone statues\nof fire giants wielding massive swords flank the throne, and line the hall,\nwhich is a deep red, and is shot through with rivulets of molten lava, the heat\nfrom which is almost unbearable. The ceiling is of dark stone, and appears to\nhave once been the mouth of an active volcano or cinder cone.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12369
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

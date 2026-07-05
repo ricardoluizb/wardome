@@ -1,0 +1,74 @@
+{
+  "id": 222,
+  "name": "Horizon Reign",
+  "header": {
+    "raw": "22299 25 2 0 -1",
+    "min_room": 22299,
+    "top_room": 25,
+    "lifespan": 2,
+    "reset_mode": 0
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22202,
+        1,
+        22202
+      ],
+      "comment": "(Yin, o bom)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22203,
+        1,
+        22201
+      ],
+      "comment": "(Yang, o mal)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        22202,
+        1,
+        22200
+      ],
+      "comment": "(a big and confortable throne)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22201,
+        1,
+        22200
+      ],
+      "comment": "(Amanda's avatar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        22200,
+        1,
+        22200
+      ],
+      "comment": "(Amanda, the pupil of Senex)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        22200,
+        5,
+        2
+      ],
+      "comment": "(Horizon Reign)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/222.zon"
+}

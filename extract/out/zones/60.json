@@ -2,397 +2,52 @@
   "id": 60,
   "name": "Haon-Dor, Light Forest",
   "header": {
-    "raw": "6000 6099 13 2",
-    "min_room": 6000,
-    "top_room": 6099,
-    "lifespan": 13,
-    "reset_mode": 2
+    "raw": "6099 60 2 1 -1",
+    "min_room": 6099,
+    "top_room": 60,
+    "lifespan": 2,
+    "reset_mode": 1
   },
   "commands": [
     {
       "cmd": "M",
       "args": [
         0,
-        6000,
-        1,
-        6009
-      ],
-      "comment": "John The Lumberjack"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        6000,
-        2,
-        16
-      ],
-      "comment": "Lumber Axe"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        6001,
-        10,
-        5
-      ],
-      "comment": "Chequered Shirt"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        6002,
-        20,
-        8
-      ],
-      "comment": "Leather Boots"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        6001,
-        6,
-        6012
-      ],
-      "comment": "Rabbit"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        6023,
-        10
-      ],
-      "comment": "Meat"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        6001,
-        6,
-        6015
-      ],
-      "comment": "Rabbit"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        6023,
-        10
-      ],
-      "comment": "Meat"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        6001,
-        6,
-        6017
-      ],
-      "comment": "Rabbit"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        6023,
-        10
-      ],
-      "comment": "Meat"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        6001,
-        6,
-        6019
-      ],
-      "comment": "Rabbit"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        6023,
-        10
-      ],
-      "comment": "Meat"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        6002,
-        1,
-        6022
-      ],
-      "comment": "Brown Bear"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        6004,
-        1,
-        6023
-      ],
-      "comment": "Fallow Deer"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        6024,
-        4
-      ],
-      "comment": "Venison"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        6005,
+        567,
         4,
-        6014
+        6092
       ],
-      "comment": "Brown Fox"
+      "comment": "(the Wardome Gateguard)"
     },
     {
-      "cmd": "O",
-      "args": [
-        0,
-        6003,
-        1,
-        6010
-      ],
-      "comment": "Fireplace"
-    },
-    {
-      "cmd": "P",
+      "cmd": "G",
       "args": [
         1,
-        6006,
-        1,
-        6003
+        502,
+        99,
+        -1
       ],
-      "comment": "Key To Wooden Chest"
+      "comment": "(Wardome's City key)"
     },
     {
-      "cmd": "R",
+      "cmd": "D",
       "args": [
         0,
-        6010,
-        6004
+        6078,
+        5,
+        1
       ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        6004,
-        50,
-        6010
-      ],
-      "comment": "Lantern"
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        6005,
-        1,
-        6010
-      ],
-      "comment": "Wooden Chest"
-    },
-    {
-      "cmd": "P",
-      "args": [
-        1,
-        6007,
-        1,
-        6005
-      ],
-      "comment": "Coins"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        6010,
-        6013
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        6013,
-        100,
-        6010
-      ],
-      "comment": "Water Barrel"
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        6010,
-        1,
-        6023
-      ],
-      "comment": "Blackberries"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        6006,
-        6011
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        6011,
-        10,
-        6006
-      ],
-      "comment": "Mushroom"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        6013,
-        6011
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        6011,
-        10,
-        6013
-      ],
-      "comment": "Mushroom"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        6016,
-        6011
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        6011,
-        10,
-        6016
-      ],
-      "comment": "Mushroom"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        6019,
-        6011
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        6011,
-        10,
-        6019
-      ],
-      "comment": "Mushroom"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        6065,
-        6011
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        6011,
-        10,
-        6065
-      ],
-      "comment": "Mushroom"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        6062,
-        6011
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        6011,
-        10,
-        6062
-      ],
-      "comment": "Mushroom"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        6069,
-        6011
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        6011,
-        10,
-        6069
-      ],
-      "comment": "Mushroom"
+      "comment": "(In The Dense Forest Between The Hills)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         6078,
-        6011
+        6011,
+        -1
       ],
-      "comment": ""
+      "comment": "(a mushroom)"
     },
     {
       "cmd": "O",
@@ -402,7 +57,47 @@
         10,
         6078
       ],
-      "comment": "Mushroom"
+      "comment": "(a mushroom)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6006,
+        1,
+        6033
+      ],
+      "comment": "(the bird)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6007,
+        1,
+        6033
+      ],
+      "comment": "(the bobcat)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6016,
+        1,
+        6033
+      ],
+      "comment": "(an oaken cudgel)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        2701,
+        1,
+        6033
+      ],
+      "comment": "(&Wa &wD&Wa&wr&Wk &WP&wo&Wr&wt&Wa&wl&n)"
     },
     {
       "cmd": "O",
@@ -412,27 +107,417 @@
         1,
         6000
       ],
-      "comment": "The News Sign"
+      "comment": "(a large sign)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6000,
+        2,
+        1
+      ],
+      "comment": "(The Edge Of The Forest)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6003,
+        1,
+        6010
+      ],
+      "comment": "(a fireplace)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6006,
+        1,
+        6003
+      ],
+      "comment": "(a small brass key)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6010,
+        6004,
+        -1
+      ],
+      "comment": "(A hooded brass lantern)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6004,
+        50,
+        6010
+      ],
+      "comment": "(A hooded brass lantern)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6005,
+        1,
+        6010
+      ],
+      "comment": "(a wooden chest)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6007,
+        1,
+        6005
+      ],
+      "comment": "(a heap of gold coins)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6010,
+        6013,
+        -1
+      ],
+      "comment": "(&wa barrel of &CWater&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6013,
+        100,
+        6010
+      ],
+      "comment": "(&wa barrel of &CWater&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6010,
+        2,
+        1
+      ],
+      "comment": "(Inside The Cabin)"
     },
     {
       "cmd": "M",
+      "args": [
+        0,
+        6000,
+        1,
+        6009
+      ],
+      "comment": "(John the Lumberjack)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6000,
+        2,
+        16
+      ],
+      "comment": "(a lumber axe)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6001,
+        10,
+        5
+      ],
+      "comment": "(a chequered shirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6002,
+        20,
+        8
+      ],
+      "comment": "(a pair of worn leather boots)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6001,
+        6,
+        6012
+      ],
+      "comment": "(the rabbit)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6023,
+        10,
+        -1
+      ],
+      "comment": "(a piece of rabbit meat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6001,
+        6,
+        6015
+      ],
+      "comment": "(the rabbit)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6023,
+        10,
+        -1
+      ],
+      "comment": "(a piece of rabbit meat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6001,
+        6,
+        6017
+      ],
+      "comment": "(the rabbit)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6023,
+        10,
+        -1
+      ],
+      "comment": "(a piece of rabbit meat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6001,
+        6,
+        6019
+      ],
+      "comment": "(the rabbit)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6023,
+        10,
+        -1
+      ],
+      "comment": "(a piece of rabbit meat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6002,
+        1,
+        6022
+      ],
+      "comment": "(the brown bear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6004,
+        1,
+        6023
+      ],
+      "comment": "(the fallow deer)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6024,
+        4,
+        -1
+      ],
+      "comment": "(a piece of venison)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6005,
+        4,
+        6014
+      ],
+      "comment": "(the brown fox)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6010,
+        1,
+        6023
+      ],
+      "comment": "(some blackberries)"
+    },
+    {
+      "cmd": "R",
       "args": [
         0,
         6006,
-        1,
-        6033
+        6011,
+        -1
       ],
-      "comment": "Bird With Broken Wing"
+      "comment": "(a mushroom)"
     },
     {
-      "cmd": "M",
+      "cmd": "O",
       "args": [
         0,
-        6007,
-        1,
-        6033
+        6011,
+        10,
+        6006
       ],
-      "comment": "Bobcat"
+      "comment": "(a mushroom)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6013,
+        6011,
+        -1
+      ],
+      "comment": "(a mushroom)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6011,
+        10,
+        6013
+      ],
+      "comment": "(a mushroom)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6016,
+        6011,
+        -1
+      ],
+      "comment": "(a mushroom)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6011,
+        10,
+        6016
+      ],
+      "comment": "(a mushroom)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6019,
+        6011,
+        -1
+      ],
+      "comment": "(a mushroom)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6011,
+        10,
+        6019
+      ],
+      "comment": "(a mushroom)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6065,
+        6011,
+        -1
+      ],
+      "comment": "(a mushroom)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6011,
+        10,
+        6065
+      ],
+      "comment": "(a mushroom)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6062,
+        6011,
+        -1
+      ],
+      "comment": "(a mushroom)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6011,
+        10,
+        6062
+      ],
+      "comment": "(a mushroom)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6069,
+        6011,
+        -1
+      ],
+      "comment": "(a mushroom)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6011,
+        10,
+        6069
+      ],
+      "comment": "(a mushroom)"
     },
     {
       "cmd": "M",
@@ -442,7 +527,7 @@
         4,
         6005
       ],
-      "comment": "Sparrow"
+      "comment": "(the sparrow)"
     },
     {
       "cmd": "M",
@@ -452,7 +537,7 @@
         4,
         6013
       ],
-      "comment": "Sparrow"
+      "comment": "(the sparrow)"
     },
     {
       "cmd": "M",
@@ -462,7 +547,7 @@
         4,
         6062
       ],
-      "comment": "Sparrow"
+      "comment": "(the sparrow)"
     },
     {
       "cmd": "M",
@@ -472,7 +557,7 @@
         3,
         6032
       ],
-      "comment": "Robin"
+      "comment": "(the robin)"
     },
     {
       "cmd": "M",
@@ -482,7 +567,7 @@
         4,
         6066
       ],
-      "comment": "Robin"
+      "comment": "(the robin)"
     },
     {
       "cmd": "M",
@@ -492,7 +577,7 @@
         4,
         6013
       ],
-      "comment": "Robin"
+      "comment": "(the robin)"
     },
     {
       "cmd": "M",
@@ -502,7 +587,7 @@
         4,
         6016
       ],
-      "comment": "Robin"
+      "comment": "(the robin)"
     },
     {
       "cmd": "M",
@@ -512,7 +597,7 @@
         2,
         6030
       ],
-      "comment": "Nested (Hidden) Squirrel"
+      "comment": "(the squirrel)"
     },
     {
       "cmd": "M",
@@ -522,7 +607,7 @@
         2,
         6030
       ],
-      "comment": "Nested (Hidden) Squirrel"
+      "comment": "(the squirrel)"
     },
     {
       "cmd": "M",
@@ -532,7 +617,7 @@
         1,
         6067
       ],
-      "comment": "(Hidden) Badger"
+      "comment": "(the sleepy badger)"
     },
     {
       "cmd": "M",
@@ -542,7 +627,7 @@
         7,
         6003
       ],
-      "comment": "Grey Squirrel"
+      "comment": "(the grey squirrel)"
     },
     {
       "cmd": "M",
@@ -552,7 +637,7 @@
         7,
         6007
       ],
-      "comment": "Grey Squirrel"
+      "comment": "(the grey squirrel)"
     },
     {
       "cmd": "M",
@@ -562,7 +647,7 @@
         7,
         6028
       ],
-      "comment": "Grey Squirrel"
+      "comment": "(the grey squirrel)"
     },
     {
       "cmd": "M",
@@ -572,7 +657,7 @@
         7,
         6032
       ],
-      "comment": "Grey Squirrel"
+      "comment": "(the grey squirrel)"
     },
     {
       "cmd": "M",
@@ -582,7 +667,7 @@
         7,
         6030
       ],
-      "comment": "Grey Squirrel"
+      "comment": "(the grey squirrel)"
     },
     {
       "cmd": "M",
@@ -592,7 +677,7 @@
         7,
         6064
       ],
-      "comment": "Grey Squirrel"
+      "comment": "(the grey squirrel)"
     },
     {
       "cmd": "M",
@@ -602,7 +687,7 @@
         7,
         6075
       ],
-      "comment": "Grey Squirrel"
+      "comment": "(the grey squirrel)"
     },
     {
       "cmd": "M",
@@ -612,7 +697,7 @@
         4,
         6030
       ],
-      "comment": "Chipmunk"
+      "comment": "(the small chipmunk)"
     },
     {
       "cmd": "M",
@@ -622,7 +707,7 @@
         4,
         6021
       ],
-      "comment": "Chipmunk"
+      "comment": "(the small chipmunk)"
     },
     {
       "cmd": "M",
@@ -632,7 +717,7 @@
         4,
         6067
       ],
-      "comment": "Chipmunk"
+      "comment": "(the small chipmunk)"
     },
     {
       "cmd": "M",
@@ -642,7 +727,7 @@
         4,
         6061
       ],
-      "comment": "Chipmunk"
+      "comment": "(the small chipmunk)"
     },
     {
       "cmd": "M",
@@ -652,7 +737,7 @@
         4,
         6026
       ],
-      "comment": "Crow"
+      "comment": "(the large black crow)"
     },
     {
       "cmd": "M",
@@ -662,7 +747,7 @@
         4,
         6026
       ],
-      "comment": "Crow"
+      "comment": "(the large black crow)"
     },
     {
       "cmd": "M",
@@ -672,7 +757,7 @@
         4,
         6026
       ],
-      "comment": "Crow"
+      "comment": "(the large black crow)"
     },
     {
       "cmd": "M",
@@ -682,7 +767,7 @@
         4,
         6027
       ],
-      "comment": "Crow"
+      "comment": "(the large black crow)"
     },
     {
       "cmd": "M",
@@ -692,7 +777,7 @@
         1,
         6026
       ],
-      "comment": "Vulture"
+      "comment": "(the grotesque vulture)"
     },
     {
       "cmd": "M",
@@ -702,16 +787,17 @@
         1,
         6025
       ],
-      "comment": "Small 5-Pt Buck"
+      "comment": "(the young buck)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         6024,
-        4
+        4,
+        -1
       ],
-      "comment": "Venison"
+      "comment": "(a piece of venison)"
     },
     {
       "cmd": "M",
@@ -721,7 +807,7 @@
         3,
         6027
       ],
-      "comment": "Fish"
+      "comment": "(the fish)"
     },
     {
       "cmd": "M",
@@ -731,7 +817,7 @@
         3,
         6027
       ],
-      "comment": "Fish"
+      "comment": "(the fish)"
     },
     {
       "cmd": "M",
@@ -741,7 +827,7 @@
         3,
         6027
       ],
-      "comment": "Fish"
+      "comment": "(the fish)"
     },
     {
       "cmd": "M",
@@ -751,7 +837,7 @@
         2,
         6027
       ],
-      "comment": "Duckling"
+      "comment": "(the duckling)"
     },
     {
       "cmd": "M",
@@ -761,7 +847,7 @@
         2,
         6027
       ],
-      "comment": "Duckling"
+      "comment": "(the duckling)"
     },
     {
       "cmd": "M",
@@ -771,7 +857,7 @@
         2,
         6027
       ],
-      "comment": "Duck"
+      "comment": "(the duck)"
     },
     {
       "cmd": "M",
@@ -781,7 +867,7 @@
         2,
         6027
       ],
-      "comment": "Duck"
+      "comment": "(the duck)"
     },
     {
       "cmd": "M",
@@ -791,16 +877,17 @@
         11,
         6068
       ],
-      "comment": "Rabbit"
+      "comment": "(the rabbit)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         6023,
-        16
+        16,
+        -1
       ],
-      "comment": "Meat"
+      "comment": "(a piece of rabbit meat)"
     },
     {
       "cmd": "M",
@@ -810,16 +897,17 @@
         11,
         6062
       ],
-      "comment": "Rabbit"
+      "comment": "(the rabbit)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         6023,
-        16
+        16,
+        -1
       ],
-      "comment": "Meat"
+      "comment": "(a piece of rabbit meat)"
     },
     {
       "cmd": "M",
@@ -829,16 +917,17 @@
         11,
         6071
       ],
-      "comment": "Rabbit"
+      "comment": "(the rabbit)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         6023,
-        16
+        16,
+        -1
       ],
-      "comment": "Meat"
+      "comment": "(a piece of rabbit meat)"
     },
     {
       "cmd": "M",
@@ -848,16 +937,17 @@
         11,
         6070
       ],
-      "comment": "Rabbit"
+      "comment": "(the rabbit)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         6023,
-        16
+        16,
+        -1
       ],
-      "comment": "Meat"
+      "comment": "(a piece of rabbit meat)"
     },
     {
       "cmd": "M",
@@ -867,16 +957,17 @@
         11,
         6060
       ],
-      "comment": "Rabbit"
+      "comment": "(the rabbit)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         6023,
-        16
+        16,
+        -1
       ],
-      "comment": "Meat"
+      "comment": "(a piece of rabbit meat)"
     },
     {
       "cmd": "M",
@@ -886,7 +977,7 @@
         8,
         6069
       ],
-      "comment": "Brown Fox"
+      "comment": "(the brown fox)"
     },
     {
       "cmd": "M",
@@ -896,7 +987,7 @@
         8,
         6074
       ],
-      "comment": "Brown Fox"
+      "comment": "(the brown fox)"
     },
     {
       "cmd": "M",
@@ -906,52 +997,57 @@
         8,
         6060
       ],
-      "comment": "Brown Fox"
+      "comment": "(the brown fox)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         6006,
-        6014
+        6014,
+        -1
       ],
-      "comment": ""
+      "comment": "(a small brook)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         6007,
-        6014
+        6014,
+        -1
       ],
-      "comment": ""
+      "comment": "(a small brook)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         6008,
-        6014
+        6014,
+        -1
       ],
-      "comment": ""
+      "comment": "(a small brook)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         6013,
-        6014
+        6014,
+        -1
       ],
-      "comment": ""
+      "comment": "(a small brook)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         6014,
-        6014
+        6014,
+        -1
       ],
-      "comment": ""
+      "comment": "(a small brook)"
     },
     {
       "cmd": "O",
@@ -961,7 +1057,7 @@
         5,
         6006
       ],
-      "comment": "Brook"
+      "comment": "(a small brook)"
     },
     {
       "cmd": "O",
@@ -971,7 +1067,7 @@
         5,
         6007
       ],
-      "comment": "Brook"
+      "comment": "(a small brook)"
     },
     {
       "cmd": "O",
@@ -981,7 +1077,7 @@
         5,
         6008
       ],
-      "comment": "Brook"
+      "comment": "(a small brook)"
     },
     {
       "cmd": "O",
@@ -991,7 +1087,7 @@
         5,
         6013
       ],
-      "comment": "Brook"
+      "comment": "(a small brook)"
     },
     {
       "cmd": "O",
@@ -1001,16 +1097,17 @@
         5,
         6014
       ],
-      "comment": "Brook"
+      "comment": "(a small brook)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         6025,
-        6015
+        6015,
+        -1
       ],
-      "comment": ""
+      "comment": "(the lake)"
     },
     {
       "cmd": "O",
@@ -1020,16 +1117,17 @@
         2,
         6025
       ],
-      "comment": "Lake"
+      "comment": "(the lake)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         6025,
-        6015
+        6015,
+        -1
       ],
-      "comment": ""
+      "comment": "(the lake)"
     },
     {
       "cmd": "O",
@@ -1039,17 +1137,7 @@
         2,
         6027
       ],
-      "comment": "Lake"
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        6016,
-        1,
-        6033
-      ],
-      "comment": "Oaken Cudgel"
+      "comment": "(the lake)"
     },
     {
       "cmd": "O",
@@ -1059,7 +1147,7 @@
         1,
         6026
       ],
-      "comment": "Corpse Of The Boar"
+      "comment": "(the corpse of a boar)"
     },
     {
       "cmd": "P",
@@ -1069,7 +1157,7 @@
         1,
         6017
       ],
-      "comment": "Meat"
+      "comment": "(a large slab of meat)"
     },
     {
       "cmd": "P",
@@ -1079,7 +1167,7 @@
         1,
         6017
       ],
-      "comment": "Tusks"
+      "comment": "(a pair of boar tusks)"
     },
     {
       "cmd": "O",
@@ -1089,7 +1177,7 @@
         1,
         6067
       ],
-      "comment": "Invis Floating Log"
+      "comment": "(a hollow log)"
     },
     {
       "cmd": "O",
@@ -1099,7 +1187,7 @@
         1,
         6032
       ],
-      "comment": "Invis Bird's Nest"
+      "comment": "(the bird's nest)"
     },
     {
       "cmd": "P",
@@ -1109,7 +1197,7 @@
         3,
         6021
       ],
-      "comment": "Robin's Egg"
+      "comment": "(a blue robin's egg)"
     },
     {
       "cmd": "P",
@@ -1119,7 +1207,7 @@
         3,
         6021
       ],
-      "comment": "Robin's Egg"
+      "comment": "(a blue robin's egg)"
     },
     {
       "cmd": "P",
@@ -1129,7 +1217,7 @@
         3,
         6021
       ],
-      "comment": "Robin's Egg"
+      "comment": "(a blue robin's egg)"
     },
     {
       "cmd": "D",
@@ -1139,18 +1227,8 @@
         0,
         1
       ],
-      "comment": "Cabin"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        6010,
-        2,
-        1
-      ],
-      "comment": ""
+      "comment": "(Outside A Small Cabin In The Forest)"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/60.zon"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/60.zon"
 }

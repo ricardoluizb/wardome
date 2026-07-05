@@ -1,0 +1,29 @@
+{
+  "id": 10508,
+  "zone_id": 104,
+  "name": "Blackened Hall",
+  "description": "This hall looks as if it was burned out recently. The walls are charred and\nsmoking. Ashes and bits of burnt timber crunch under your feet as you \nwalk down the hall. A sign on the wall reads, 'No Non-smoking Please'.\nThe hallway continues to the north and west.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a blackened hall.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10498
+    },
+    {
+      "dir": 3,
+      "description": "You see a blackened hall.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10507
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

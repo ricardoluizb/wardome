@@ -1,0 +1,21 @@
+{
+  "id": 13269,
+  "zone_id": 132,
+  "name": "A Noble's Home",
+  "description": "You are in a large manor with all kinds of treasures, paintings, and \nluxuries.  The court is west.",
+  "header_raw": "132 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "the court",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13214
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

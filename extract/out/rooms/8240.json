@@ -1,0 +1,21 @@
+{
+  "id": 8240,
+  "zone_id": 82,
+  "name": "A Lyon House",
+  "description": "You have enter to a small house of Lyon, is very simple, made out of wood,\nornamented with some pictures in the walls, the ceiling is made out of straw\nand the furniture is made out of wood to. You only see a desk at your right,\nand a bed to the left. You can only go back west.",
+  "header_raw": "82 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8239
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

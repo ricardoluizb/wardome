@@ -1,0 +1,29 @@
+{
+  "id": 8248,
+  "zone_id": 82,
+  "name": "A Dark Tunnel",
+  "description": "You are in a very dark and stunky tunnel that is making you dizzy, maybe you\nshould go back before you throw up your breakfast, and besides this look like\nthe perfect place for an ambush. It feels like if you where stepping on some-\nthing, you look down and it is an ugly, fat and dirty rat. Oh dear in what\nplace you have ended, you can go back west or continue east.",
+  "header_raw": "82 289 6",
+  "flags_text": "289",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8249
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8247
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

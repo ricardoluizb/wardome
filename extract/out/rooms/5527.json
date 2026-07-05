@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Repair Shop",
   "description": "One of the most popular shops in New Thalos, this shop is always a\nhive of activity.  It is almost inhuman the way one man can fix all\ntypes of armour singlehandedly.  If you have an item in need of repair\nsimply give it to the man behind the counter.\nThere is a small sign on the counter.",
-  "header_raw": "54 cd 0",
-  "flags_text": "cd",
+  "header_raw": "54 12 0",
+  "flags_text": "12",
   "sector": 0,
   "exits": [
     {

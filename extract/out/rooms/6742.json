@@ -1,0 +1,21 @@
+{
+  "id": 6742,
+  "zone_id": 67,
+  "name": "The butcher shop",
+  "description": "You are enclosed in a poorly lit, stuffy room that smells of blood,\nsalted meat and strange preservatives you didn't think existed in\nthis time period. Pewter cases filled with ice give off wisps of steam\nnear a roasting fire at the east wall. You might wonder why this place\nis situated so proximate to the gallows, but the butcher nonchalantly\nclaims all his goods died peaceably, then turns away to stifle a chuckle.",
+  "header_raw": "67 184 0",
+  "flags_text": "184",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6728
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

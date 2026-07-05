@@ -1,0 +1,21 @@
+{
+  "id": 11507,
+  "zone_id": 115,
+  "name": "Charlie's Fish Store",
+  "description": "As you walk into the fish store, you are overwhelmed by the nasty smell of\nfish.  On the back wall you notice a large mounted fish.  After a while, you\nrealize that the fish is Charlie Tuna.  You see one of those dusty chalk boards\nwith a list of delectables from which you can choose.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11503
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

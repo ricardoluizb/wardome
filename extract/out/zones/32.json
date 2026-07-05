@@ -1,0 +1,424 @@
+{
+  "id": 32,
+  "name": "Temple of the Bull",
+  "header": {
+    "raw": "3299 30 2 1 -1",
+    "min_room": 3299,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3203,
+        4,
+        3218
+      ],
+      "comment": "(the templar of Mateon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3206,
+        1,
+        17
+      ],
+      "comment": "(an oak key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3203,
+        4,
+        16
+      ],
+      "comment": "(a seasoned staff)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3201,
+        4,
+        3
+      ],
+      "comment": "(a brown fur cape)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        3202,
+        0,
+        2
+      ],
+      "comment": "(Under the Arch)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3201,
+        2,
+        3202
+      ],
+      "comment": "(the Shaggy Monk)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3205,
+        1,
+        -1
+      ],
+      "comment": "(a marble key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3206,
+        1,
+        3221
+      ],
+      "comment": "(Taurus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3208,
+        3,
+        1
+      ],
+      "comment": "(a taurus ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3209,
+        3,
+        12
+      ],
+      "comment": "(a great fur cloak)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3210,
+        3,
+        21
+      ],
+      "comment": "(a golden horned mask)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3211,
+        3,
+        7
+      ],
+      "comment": "(a set of brown fur leggings)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3212,
+        3,
+        15
+      ],
+      "comment": "(a twisted horn)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        3219,
+        1,
+        2
+      ],
+      "comment": "(The Bull's Chamber)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3205,
+        2,
+        3219
+      ],
+      "comment": "(the Chambermaid)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3204,
+        2,
+        17
+      ],
+      "comment": "(a wet mop)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        3213,
+        1,
+        2
+      ],
+      "comment": "(Mateon's Chamber)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3203,
+        4,
+        3213
+      ],
+      "comment": "(the templar of Mateon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3204,
+        1,
+        3213
+      ],
+      "comment": "(the grand knight Mateon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3207,
+        1,
+        17
+      ],
+      "comment": "(an iron key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3203,
+        4,
+        16
+      ],
+      "comment": "(a seasoned staff)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3201,
+        4,
+        4
+      ],
+      "comment": "(a brown fur cape)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3202,
+        4,
+        3211
+      ],
+      "comment": "(the Silver Statue)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3202,
+        4,
+        16
+      ],
+      "comment": "(a Statue's Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3202,
+        4,
+        3209
+      ],
+      "comment": "(the Silver Statue)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3202,
+        4,
+        16
+      ],
+      "comment": "(a Statue's Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3202,
+        4,
+        3205
+      ],
+      "comment": "(the Silver Statue)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3202,
+        4,
+        16
+      ],
+      "comment": "(a Statue's Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3202,
+        4,
+        3203
+      ],
+      "comment": "(the Silver Statue)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3202,
+        4,
+        16
+      ],
+      "comment": "(a Statue's Sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3207,
+        10,
+        3217
+      ],
+      "comment": "(an acolyte)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3201,
+        4,
+        4
+      ],
+      "comment": "(a brown fur cape)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3207,
+        10,
+        3215
+      ],
+      "comment": "(an acolyte)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3201,
+        4,
+        3
+      ],
+      "comment": "(a brown fur cape)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3207,
+        10,
+        3210
+      ],
+      "comment": "(an acolyte)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3207,
+        10,
+        3208
+      ],
+      "comment": "(an acolyte)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3207,
+        10,
+        3206
+      ],
+      "comment": "(an acolyte)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        3204,
+        2,
+        2
+      ],
+      "comment": "(The Temple)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3207,
+        10,
+        3204
+      ],
+      "comment": "(an acolyte)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        3220,
+        3,
+        2
+      ],
+      "comment": "(The Dark Chamber)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        3214,
+        3,
+        2
+      ],
+      "comment": "(The Upper Temple)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/32.zon"
+}

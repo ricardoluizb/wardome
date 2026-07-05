@@ -1,0 +1,29 @@
+{
+  "id": 6854,
+  "zone_id": 67,
+  "name": "A white portal",
+  "description": "You stand bathed in the glow of a portal of white light.\nThis is the gift of the Archmage to the guild of the ministry,\nin return for certain blessings, of course. Beyond the pale glare\nis a vision of the temple courtyard, the center of town, below\nyou.",
+  "header_raw": "67 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6853
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6701
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 9912,
+  "alias": "ghenna elf",
+  "short_desc": "the errant Elf",
+  "long_desc": "An errant Elf is here, looking for denizens of evil.",
+  "detailed_desc": "You see an attractive young man, about 5 feet tall, with gleaming eyes\nand a pale complexion.  Though small, he appears to be very lithe and agile.",
+  "flags_raw": "4552 1192 1000 E",
+  "stats1_raw": "15 11 6 1d1+540 5d2+16",
+  "stats2_raw": "225 22359 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/99.mob"
+}

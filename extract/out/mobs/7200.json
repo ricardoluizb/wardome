@@ -4,9 +4,9 @@
   "short_desc": "the master mindflayer",
   "long_desc": "The master mindflayer is here, looking at you with an evil look.",
   "detailed_desc": "It is a seven foot tall humanoid dressed in a purple cloak, and swinging a\nblack and purple rod above its head as if it was going to attack you any\nmoment now.  In the middle of its head are four tentacles with sharp points.",
-  "flags_raw": "aceflm dfk -800 S",
-  "stats1_raw": "14 7 0 1d10+170 3d4+4",
-  "stats2_raw": "0 20000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "6205 1064 -800 E",
+  "stats1_raw": "14 13 7 1d1+288 5d2+4",
+  "stats2_raw": "210 15601 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/72.mob"
 }

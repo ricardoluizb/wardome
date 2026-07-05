@@ -1,0 +1,29 @@
+{
+  "id": 6850,
+  "zone_id": 67,
+  "name": "The Lodge of Wrath",
+  "description": "The home lodge of warriors is a surprisingly comfortable place,\nfurnished with a thick, hardy rug of a red so dark as to almost\nbe black, beds shelved in bunks of hearty oak, a roaring fireplace\nin the corner. Several large chairs stuffed with coarse wool are\nsituated round the fire for the rowdy telling of tales over \ninebriating brews.",
+  "header_raw": "67 24 0",
+  "flags_text": "24",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6851
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6752
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

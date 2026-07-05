@@ -1,0 +1,45 @@
+{
+  "id": 24507,
+  "zone_id": 245,
+  "name": "MaGog",
+  "description": "You are in Satan's city of MaGog. About you writhe and cavort sinners in\na final frolic before destruction.Refuse and offal are the perfume of the city.\nDeterioration and decay claim every building you view. Here the evil is so\nstrong you can almost feel it caress you. To the south lead a series of stairs\nto a solid adamantite gate emblazoned with the seals of heaven.",
+  "header_raw": "245 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "MaGog",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24521
+    },
+    {
+      "dir": 1,
+      "description": "MaGog",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24508
+    },
+    {
+      "dir": 2,
+      "description": "Into the bottomless pit",
+      "keywords": "gate adamantite south",
+      "door_flag": 1,
+      "key": 24500,
+      "to": 24682
+    },
+    {
+      "dir": 3,
+      "description": "MaGog",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24506
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/245.wld"
+}

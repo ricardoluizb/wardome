@@ -1,0 +1,1164 @@
+{
+  "id": 97,
+  "name": "The Olympus",
+  "header": {
+    "raw": "9749 100 1 1 -1",
+    "min_room": 9749,
+    "top_room": 100,
+    "lifespan": 1,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9705,
+        1,
+        9737
+      ],
+      "comment": "(Ares)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9703,
+        2,
+        17
+      ],
+      "comment": "(the spear of Ares)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9726,
+        100,
+        -1
+      ],
+      "comment": "(nectar)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9709,
+        100,
+        -1
+      ],
+      "comment": "(ambrosia)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9709,
+        4,
+        9737
+      ],
+      "comment": "(A Soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9713,
+        10,
+        16
+      ],
+      "comment": "(a notched axe)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9719,
+        100,
+        -1
+      ],
+      "comment": "(a pear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9709,
+        4,
+        9737
+      ],
+      "comment": "(A Soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9713,
+        10,
+        16
+      ],
+      "comment": "(a notched axe)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9719,
+        100,
+        -1
+      ],
+      "comment": "(a pear)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9737,
+        1,
+        1
+      ],
+      "comment": "(The Planning Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9718,
+        1,
+        9730
+      ],
+      "comment": "(Ra the Sun God)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9722,
+        2,
+        3
+      ],
+      "comment": "(the Amulet of Ra)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9723,
+        1,
+        16
+      ],
+      "comment": "(the Sword of the Sun)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9747,
+        5,
+        1
+      ],
+      "comment": "(Hall of Gods)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9701,
+        1,
+        9719
+      ],
+      "comment": "(Prometheus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9708,
+        2,
+        9
+      ],
+      "comment": "(Flaming gauntlets)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9728,
+        20,
+        -1
+      ],
+      "comment": "(a secret map of Olympus)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9719,
+        2,
+        2
+      ],
+      "comment": "(Cell)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9707,
+        1,
+        9736
+      ],
+      "comment": "(Hephaestus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9712,
+        2,
+        11
+      ],
+      "comment": "(A brightly glowing shield)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9726,
+        100,
+        -1
+      ],
+      "comment": "(nectar)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9709,
+        100,
+        -1
+      ],
+      "comment": "(ambrosia)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9708,
+        4,
+        9736
+      ],
+      "comment": "(A Golden Maiden)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9717,
+        10,
+        -1
+      ],
+      "comment": "(a gold nugget)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9708,
+        4,
+        9736
+      ],
+      "comment": "(A Golden Maiden)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9717,
+        10,
+        -1
+      ],
+      "comment": "(a gold nugget)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        9736,
+        3,
+        1
+      ],
+      "comment": "(Smithy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9704,
+        1,
+        9725
+      ],
+      "comment": "(Apollo)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9707,
+        2,
+        17
+      ],
+      "comment": "(a silver bow)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9726,
+        100,
+        -1
+      ],
+      "comment": "(nectar)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9709,
+        100,
+        -1
+      ],
+      "comment": "(ambrosia)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9710,
+        4,
+        9725
+      ],
+      "comment": "(An apprentice musician)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9716,
+        100,
+        17
+      ],
+      "comment": "(a lute)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9721,
+        100,
+        -1
+      ],
+      "comment": "(a kiwi)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9710,
+        4,
+        9725
+      ],
+      "comment": "(An apprentice musician)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9716,
+        100,
+        17
+      ],
+      "comment": "(a lute)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9721,
+        100,
+        -1
+      ],
+      "comment": "(a kiwi)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9713,
+        1,
+        9728
+      ],
+      "comment": "(Odin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9724,
+        2,
+        12
+      ],
+      "comment": "(a blue robe)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9725,
+        2,
+        6
+      ],
+      "comment": "(a wide brimmed hat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9700,
+        1,
+        9709
+      ],
+      "comment": "(Zeus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9700,
+        2,
+        5
+      ],
+      "comment": "(the Aegis)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9701,
+        2,
+        17
+      ],
+      "comment": "(Zeus' thunderbolt)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9726,
+        100,
+        -1
+      ],
+      "comment": "(nectar)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9709,
+        100,
+        -1
+      ],
+      "comment": "(ambrosia)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        9709,
+        5,
+        1
+      ],
+      "comment": "(Throne Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9702,
+        1,
+        9746
+      ],
+      "comment": "(Hermes)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9704,
+        6,
+        8
+      ],
+      "comment": "(a pair of winged sandals)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9702,
+        2,
+        6
+      ],
+      "comment": "(A Winged Helmet)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9726,
+        100,
+        -1
+      ],
+      "comment": "(nectar)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9709,
+        100,
+        -1
+      ],
+      "comment": "(ambrosia)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9720,
+        1,
+        9744
+      ],
+      "comment": "(Hera)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9711,
+        4,
+        1
+      ],
+      "comment": "(a sapphire ring)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9726,
+        100,
+        -1
+      ],
+      "comment": "(nectar)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9709,
+        100,
+        -1
+      ],
+      "comment": "(ambrosia)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9703,
+        1,
+        9745
+      ],
+      "comment": "(Poseidon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9706,
+        2,
+        17
+      ],
+      "comment": "(poseidon's Trident)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9726,
+        100,
+        -1
+      ],
+      "comment": "(nectar)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9709,
+        100,
+        -1
+      ],
+      "comment": "(ambrosia)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9719,
+        2,
+        9720
+      ],
+      "comment": "(a chimera)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9720,
+        1,
+        2
+      ],
+      "comment": "(Cell)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9719,
+        2,
+        9721
+      ],
+      "comment": "(a chimera)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9721,
+        3,
+        2
+      ],
+      "comment": "(Cell)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9718,
+        0,
+        2
+      ],
+      "comment": "(Dungeon)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9718,
+        1,
+        2
+      ],
+      "comment": "(Dungeon)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9718,
+        3,
+        2
+      ],
+      "comment": "(Dungeon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9714,
+        1,
+        9723
+      ],
+      "comment": "(Julius the Green Grocer)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9714,
+        100,
+        -1
+      ],
+      "comment": "(a bunch of grapes)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9718,
+        100,
+        -1
+      ],
+      "comment": "(an apple)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9719,
+        100,
+        -1
+      ],
+      "comment": "(a pear)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9720,
+        100,
+        -1
+      ],
+      "comment": "(a orange)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9721,
+        100,
+        -1
+      ],
+      "comment": "(a kiwi)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9715,
+        1,
+        9726
+      ],
+      "comment": "(the Alchemist)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9705,
+        1,
+        -1
+      ],
+      "comment": "(an Ivory Staff)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9709,
+        100,
+        -1
+      ],
+      "comment": "(ambrosia)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9710,
+        1,
+        -1
+      ],
+      "comment": "(a glowing necklace)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9726,
+        1,
+        -1
+      ],
+      "comment": "(nectar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9716,
+        1,
+        9735
+      ],
+      "comment": "(Clive the Weapons Master)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9707,
+        1,
+        -1
+      ],
+      "comment": "(a silver bow)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9713,
+        1,
+        -1
+      ],
+      "comment": "(a notched axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9717,
+        1,
+        9734
+      ],
+      "comment": "(Samuel the Armourer)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9704,
+        1,
+        -1
+      ],
+      "comment": "(a pair of winged sandals)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9708,
+        1,
+        -1
+      ],
+      "comment": "(Flaming gauntlets)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9711,
+        1,
+        -1
+      ],
+      "comment": "(a sapphire ring)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9706,
+        1,
+        9724
+      ],
+      "comment": "(Athena)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9710,
+        10,
+        3
+      ],
+      "comment": "(a glowing necklace)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9705,
+        10,
+        17
+      ],
+      "comment": "(an Ivory Staff)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9726,
+        100,
+        -1
+      ],
+      "comment": "(nectar)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9709,
+        100,
+        -1
+      ],
+      "comment": "(ambrosia)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9722,
+        10,
+        9703
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9722,
+        10,
+        9704
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9722,
+        10,
+        9705
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9722,
+        10,
+        9706
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9722,
+        10,
+        9707
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9722,
+        10,
+        9727
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9722,
+        10,
+        9733
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9724,
+        4,
+        9713
+      ],
+      "comment": "(A Cook)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9724,
+        4,
+        9713
+      ],
+      "comment": "(A Cook)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9725,
+        1,
+        9717
+      ],
+      "comment": "(The Jailer)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9727,
+        10,
+        -1
+      ],
+      "comment": "(a Cell key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9711,
+        4,
+        9724
+      ],
+      "comment": "(a serving boy)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9715,
+        10,
+        17
+      ],
+      "comment": "(a fan made of peacock feathers)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9714,
+        100,
+        -1
+      ],
+      "comment": "(a bunch of grapes)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9711,
+        4,
+        9724
+      ],
+      "comment": "(a serving boy)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9715,
+        10,
+        17
+      ],
+      "comment": "(a fan made of peacock feathers)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9714,
+        100,
+        -1
+      ],
+      "comment": "(a bunch of grapes)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9721,
+        3,
+        9732
+      ],
+      "comment": "(a roc)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9721,
+        3,
+        9732
+      ],
+      "comment": "(a roc)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9723,
+        3,
+        9732
+      ],
+      "comment": "(a pegasus)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9723,
+        3,
+        9732
+      ],
+      "comment": "(a pegasus)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9712,
+        5,
+        9749
+      ],
+      "comment": "(A hound of war)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9712,
+        5,
+        9749
+      ],
+      "comment": "(A hound of war)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9712,
+        5,
+        9749
+      ],
+      "comment": "(A hound of war)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        9738,
+        4,
+        1
+      ],
+      "comment": "(Second Floor)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/97.zon"
+}

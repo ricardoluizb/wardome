@@ -1,0 +1,29 @@
+{
+  "id": 10485,
+  "zone_id": 104,
+  "name": "Meat Locker",
+  "description": "Rows of beef and other meats hang from large steel hooks. \nThe meat locker continues to the north and west.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see more of the Meat locker",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10475
+    },
+    {
+      "dir": 3,
+      "description": "You see more of the Meat locker",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10484
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

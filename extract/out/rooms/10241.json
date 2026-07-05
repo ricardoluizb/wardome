@@ -1,0 +1,29 @@
+{
+  "id": 10241,
+  "zone_id": 102,
+  "name": "Finally, The top of the Starway",
+  "description": "You reach the top of the stairs, when it wasnt possible to the walls\nbecome more thiner, there is a end-tunnel light, you can see some lights\ncoming from the east side of the corridor, there is also a big wooden\ndoor, decorated with marble blocking the way.",
+  "header_raw": "102 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10242
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10239
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

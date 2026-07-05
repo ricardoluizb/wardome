@@ -1,0 +1,29 @@
+{
+  "id": 20003,
+  "zone_id": 200,
+  "name": "Near a Large Building",
+  "description": "You are south-west of the main structure of the Wayhouse.  A lone rain barrel\ncatches run-off from the roof eaves by the corner of the building, and you spy\na small white fence cordoning off an herb garden nearby.  The path around the\nbuilding leads to the north and east.",
+  "header_raw": "200 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20002
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20004
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/200.wld"
+}

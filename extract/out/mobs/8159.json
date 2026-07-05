@@ -1,0 +1,12 @@
+{
+  "id": 8159,
+  "alias": "kobold slave",
+  "short_desc": "the kobold slave",
+  "long_desc": "A kobold shuffles quickly about, carrying iron ore and lime.",
+  "detailed_desc": "He avoids the whip nimbly as he feeds the roaring furnace.",
+  "flags_raw": "76 1024 -100 E",
+  "stats1_raw": "150 -77 -29 1d1+17400 5d46+170",
+  "stats2_raw": "2250 16400210 11",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

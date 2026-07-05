@@ -1,0 +1,21 @@
+{
+  "id": 5795,
+  "zone_id": 57,
+  "name": "A Gas Room!",
+  "description": "*Cough* This room is filled with gas. And it's attacking you!\n\n\nThere is a niche on the far wall, which looks like it could contain a key.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "a bend",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5794
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

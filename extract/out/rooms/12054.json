@@ -3,8 +3,8 @@
   "zone_id": 120,
   "name": "The Aqueduct",
   "description": "You are in a massive stone structure that has been designed to channel\nwater into the city of Rome.  Due to the recent drought, the water level\nis low, allowing passage without a boat.  The walls and floor are covered\nwith algae and slime, producing treacherous footing conditions.  There are\nexits in all four cardinal directions.",
-  "header_raw": "120 d 6",
-  "flags_text": "d",
+  "header_raw": "120 8 6",
+  "flags_text": "8",
   "sector": 6,
   "exits": [
     {

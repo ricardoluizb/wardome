@@ -1,0 +1,21 @@
+{
+  "id": 12267,
+  "zone_id": 122,
+  "name": "A Stables",
+  "description": "This small chamber houses Thor's magical goats, which bear his chariot\nwhen he is at war or journeying across the planes. They are rare, magical\nbeasts that can never be slain; each morning they regenerate to their\nprevious forms, and thus provide an endless source of nourishment for\nthe thunder god and whoever dines with him.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12266
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 24627,
+  "zone_id": 245,
+  "name": "Wormwood",
+  "description": "You are in the burning forest of Wormwood. In the sky above you,\nstars fall earthward to land with  resounding explosions. The\nsmoke is thick. You hear the wail, and smell the seared flesh\nof the dying from all around you.",
+  "header_raw": "245 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Wormwood",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24628
+    },
+    {
+      "dir": 2,
+      "description": "A strange glow",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24613
+    },
+    {
+      "dir": 3,
+      "description": "Wormwood",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24626
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/245.wld"
+}

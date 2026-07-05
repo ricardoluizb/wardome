@@ -1,0 +1,29 @@
+{
+  "id": 1050,
+  "zone_id": 10,
+  "name": "A Bottomless Pit",
+  "description": "Neighbour, it appears that you have chosen the wrong path to continue\nyour voyages.  It seems that this pit falls a long, long way, and falling\nto the bottom just might take forever...",
+  "header_raw": "10 9 9",
+  "flags_text": "9",
+  "sector": 9,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Looking northwards, you notice that the crypt continues happily.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1047
+    },
+    {
+      "dir": 5,
+      "description": "Further down the pit.  It goes on forever you know.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1051
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

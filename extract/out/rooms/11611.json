@@ -1,0 +1,21 @@
+{
+  "id": 11611,
+  "zone_id": 115,
+  "name": "The Jail Cell",
+  "description": "If you are in here, for your sake you had better have a key, or you may rot\nhere indefinitely, as the cell door is extremely hard to open from the inside.\nOh, and just one word of advice -- don't bend over for the soap!",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "cell door",
+      "door_flag": 2,
+      "key": 11500,
+      "to": 11610
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

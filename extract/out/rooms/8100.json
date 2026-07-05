@@ -1,0 +1,29 @@
+{
+  "id": 8100,
+  "zone_id": 81,
+  "name": "A Narrow Crawlway",
+  "description": "Ouch! You can barely squeeze through this passage, which is only a\nfoot and a half high.  It was also hidden behind a stone block; that\nis, no doubt, the reason the goblins have not tried to follow you, \nbeing too weak to move it.  You, however, can still shove it aside, \nshould you wish to slither north.  The wide passage to the \nsouth looks much, much more inviting, however.",
+  "header_raw": "81 281 5",
+  "flags_text": "281",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The crawlway opens into a large cave, crudely hewn from the stone.",
+      "keywords": "breakdown block",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3556
+    },
+    {
+      "dir": 2,
+      "description": "The crawlway is not really that long; it opens out to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8101
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

@@ -4,9 +4,9 @@
   "short_desc": "the Black King",
   "long_desc": "The Black King stands here.",
   "detailed_desc": "The Black King is a menacing figure.  You can easily understand why he\nis the king and you are not.",
-  "flags_raw": "bcefl dh -999 S",
-  "stats1_raw": "36 14 -6 10d10+2000 5d8+20",
-  "stats2_raw": "20000 300000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "67646 578822312 -999 E",
+  "stats1_raw": "200 -94 -30 1d1+16800 5d41+150",
+  "stats2_raw": "3000 29779557 7",
+  "stats3_raw": "8 8 0 3 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/36.mob"
 }

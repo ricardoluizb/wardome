@@ -1,0 +1,21 @@
+{
+  "id": 3074,
+  "zone_id": 30,
+  "name": "The BlackSmith's Room",
+  "description": "You see weapons, glowing strange power and huming a strange sound. You only can see a small lot of weapons, the rest are invisible to your eyes.",
+  "header_raw": "30 193 0",
+  "flags_text": "193",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3020
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/30.wld"
+}

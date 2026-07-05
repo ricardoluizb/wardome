@@ -1,0 +1,29 @@
+{
+  "id": 11610,
+  "zone_id": 115,
+  "name": "The Jail",
+  "description": "You get the impression that more things go on in here than is supposed to.\nSouth of here is the actual jail cell, where most of New Sparta's notorious\ncriminals reside.  There are only two ways into the cell -- get the key off of\nthe warden, or be convicted...  The Police Station is to the east.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11607
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "cell door",
+      "door_flag": 2,
+      "key": 11500,
+      "to": 11611
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

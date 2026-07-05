@@ -1,0 +1,12 @@
+{
+  "id": 13215,
+  "alias": "bat",
+  "short_desc": "a bat",
+  "long_desc": "A big brown bat is making noise",
+  "detailed_desc": "This bat keeps flying close to you, but doesn't attack.  You have the feeling\nthat it's purpose is to distract you from noticing a larger foe.",
+  "flags_raw": "8392 67108904 -390 E",
+  "stats1_raw": "20 -6 -5 1d1+1836 5d5+88",
+  "stats2_raw": "300 53412 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

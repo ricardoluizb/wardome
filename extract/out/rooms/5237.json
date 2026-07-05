@@ -3,8 +3,8 @@
   "zone_id": 52,
   "name": "A Tall Dwelling",
   "description": "This seems to be the tallest structure remaining in the city.  At\none time this could have been an inn of some sort, but now it is just\na mess.  The back wall as been completely knocked down revealing an \nentrance into another building through yet another collapsed wall.\nBetween the two buildings are a few blast craters and boulders.  An old\nset of wooden steps leads up to a creaking second floor.",
-  "header_raw": "52 d 1",
-  "flags_text": "d",
+  "header_raw": "52 8 1",
+  "flags_text": "8",
   "sector": 1,
   "exits": [
     {

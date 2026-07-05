@@ -1,0 +1,21 @@
+{
+  "id": 8142,
+  "zone_id": 81,
+  "name": "A Small Chamber",
+  "description": "This may also be a guard chamber, but you are not sure.  Perhaps it is\na storehouse of some sort, for you see no guards.  It is a large room.\nThe door-light does not reach far, and your torch casts long shadows.\nPlenty of room for creepy things to hide.",
+  "header_raw": "81 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "There is a glowing door to the west.",
+      "keywords": "door glowing",
+      "door_flag": 2,
+      "key": 8101,
+      "to": 8141
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

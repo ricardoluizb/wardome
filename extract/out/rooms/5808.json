@@ -1,0 +1,29 @@
+{
+  "id": 5808,
+  "zone_id": 57,
+  "name": "A Zombie Room",
+  "description": "You have entered the quarters of some of the Warlock's many undead servants.\nSeveral Zombies reside here, along with some interesting-looking items\nbelonging to past adventurers which have been scattered on the floor here.\n\nThere is a door in the north wall.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a crypt",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5809
+    },
+    {
+      "dir": 2,
+      "description": "a short dark corridor",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5807
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

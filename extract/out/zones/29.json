@@ -1,0 +1,1064 @@
+{
+  "id": 29,
+  "name": "Nirrad Land of the Fire Newts",
+  "header": {
+    "raw": "2931 15 2 17",
+    "min_room": 2931,
+    "top_room": 15,
+    "lifespan": 2,
+    "reset_mode": 17
+  },
+  "commands": [
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2900,
+        0,
+        1
+      ],
+      "comment": "(Obsidian hills)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2901,
+        2,
+        2903
+      ],
+      "comment": "(a mountain goat)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2901,
+        500,
+        16
+      ],
+      "comment": "(horns)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2901,
+        2,
+        2904
+      ],
+      "comment": "(a mountain goat)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2901,
+        500,
+        16
+      ],
+      "comment": "(horns)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2902,
+        2,
+        2904
+      ],
+      "comment": "(a mountain ewe)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2902,
+        100,
+        -1
+      ],
+      "comment": "(milk bladder)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2902,
+        2,
+        2904
+      ],
+      "comment": "(a mountain ewe)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2902,
+        100,
+        -1
+      ],
+      "comment": "(milk bladder)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2903,
+        6,
+        2904
+      ],
+      "comment": "(A mountain kid)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2903,
+        6,
+        2904
+      ],
+      "comment": "(A mountain kid)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2903,
+        6,
+        2904
+      ],
+      "comment": "(A mountain kid)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2903,
+        6,
+        2904
+      ],
+      "comment": "(A mountain kid)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2903,
+        6,
+        2904
+      ],
+      "comment": "(A mountain kid)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2903,
+        6,
+        2904
+      ],
+      "comment": "(A mountain kid)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2904,
+        10,
+        2910
+      ],
+      "comment": "(a fire newt worker)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2903,
+        100,
+        16
+      ],
+      "comment": "(shovel)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2905,
+        6,
+        2911
+      ],
+      "comment": "(a fire newt guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2904,
+        100,
+        16
+      ],
+      "comment": "(short sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2905,
+        6,
+        2911
+      ],
+      "comment": "(a fire newt guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2904,
+        100,
+        16
+      ],
+      "comment": "(short sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2905,
+        6,
+        2911
+      ],
+      "comment": "(a fire newt guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2904,
+        100,
+        16
+      ],
+      "comment": "(short sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2905,
+        6,
+        2912
+      ],
+      "comment": "(a fire newt guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2905,
+        100,
+        16
+      ],
+      "comment": "(hand axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2905,
+        6,
+        2912
+      ],
+      "comment": "(a fire newt guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2904,
+        100,
+        16
+      ],
+      "comment": "(short sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2905,
+        6,
+        2912
+      ],
+      "comment": "(a fire newt guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2905,
+        100,
+        16
+      ],
+      "comment": "(hand axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2904,
+        10,
+        2914
+      ],
+      "comment": "(a fire newt worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2904,
+        10,
+        2914
+      ],
+      "comment": "(a fire newt worker)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2903,
+        100,
+        16
+      ],
+      "comment": "(shovel)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2906,
+        4,
+        2915
+      ],
+      "comment": "(a fire newt worker)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2903,
+        100,
+        16
+      ],
+      "comment": "(shovel)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2906,
+        4,
+        2915
+      ],
+      "comment": "(a fire newt worker)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2903,
+        100,
+        16
+      ],
+      "comment": "(shovel)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2906,
+        4,
+        2915
+      ],
+      "comment": "(a fire newt worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2906,
+        4,
+        2915
+      ],
+      "comment": "(a fire newt worker)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        2906,
+        20,
+        2915
+      ],
+      "comment": "(chainmail)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2904,
+        10,
+        2916
+      ],
+      "comment": "(a fire newt worker)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2903,
+        100,
+        16
+      ],
+      "comment": "(shovel)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2904,
+        10,
+        2917
+      ],
+      "comment": "(a fire newt worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2907,
+        6,
+        2917
+      ],
+      "comment": "(Fire newt guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2904,
+        100,
+        16
+      ],
+      "comment": "(short sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2904,
+        10,
+        2918
+      ],
+      "comment": "(a fire newt worker)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2903,
+        100,
+        16
+      ],
+      "comment": "(shovel)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2907,
+        6,
+        2918
+      ],
+      "comment": "(Fire newt guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2904,
+        100,
+        16
+      ],
+      "comment": "(short sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2904,
+        10,
+        2919
+      ],
+      "comment": "(a fire newt worker)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2903,
+        100,
+        16
+      ],
+      "comment": "(shovel)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2907,
+        6,
+        2919
+      ],
+      "comment": "(Fire newt guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2905,
+        100,
+        16
+      ],
+      "comment": "(hand axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2908,
+        2,
+        2920
+      ],
+      "comment": "(a fire newt mother)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2909,
+        12,
+        2920
+      ],
+      "comment": "(a fire newt baby)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2909,
+        12,
+        2920
+      ],
+      "comment": "(a fire newt baby)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2909,
+        12,
+        2920
+      ],
+      "comment": "(a fire newt baby)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2909,
+        12,
+        2920
+      ],
+      "comment": "(a fire newt baby)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2909,
+        12,
+        2920
+      ],
+      "comment": "(a fire newt baby)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2909,
+        12,
+        2920
+      ],
+      "comment": "(a fire newt baby)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2904,
+        10,
+        2921
+      ],
+      "comment": "(a fire newt worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2904,
+        10,
+        2921
+      ],
+      "comment": "(a fire newt worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2907,
+        6,
+        2921
+      ],
+      "comment": "(Fire newt guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2905,
+        100,
+        16
+      ],
+      "comment": "(hand axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2908,
+        2,
+        2922
+      ],
+      "comment": "(a fire newt mother)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2909,
+        12,
+        2922
+      ],
+      "comment": "(a fire newt baby)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2909,
+        12,
+        2922
+      ],
+      "comment": "(a fire newt baby)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2909,
+        12,
+        2922
+      ],
+      "comment": "(a fire newt baby)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2909,
+        12,
+        2922
+      ],
+      "comment": "(a fire newt baby)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2909,
+        12,
+        2922
+      ],
+      "comment": "(a fire newt baby)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2909,
+        12,
+        2922
+      ],
+      "comment": "(a fire newt baby)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2904,
+        10,
+        2923
+      ],
+      "comment": "(a fire newt worker)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2903,
+        100,
+        16
+      ],
+      "comment": "(shovel)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2907,
+        6,
+        2923
+      ],
+      "comment": "(Fire newt guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2904,
+        100,
+        16
+      ],
+      "comment": "(short sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2907,
+        6,
+        2923
+      ],
+      "comment": "(Fire newt guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2910,
+        2,
+        2924
+      ],
+      "comment": "(a fire newt sergeant)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2906,
+        20,
+        5
+      ],
+      "comment": "(chainmail)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2907,
+        20,
+        16
+      ],
+      "comment": "(pick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2911,
+        4,
+        2925
+      ],
+      "comment": "(a fire newt general)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2906,
+        20,
+        5
+      ],
+      "comment": "(chainmail)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2907,
+        20,
+        16
+      ],
+      "comment": "(pick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2911,
+        4,
+        2925
+      ],
+      "comment": "(a fire newt general)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2906,
+        20,
+        5
+      ],
+      "comment": "(chainmail)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2907,
+        20,
+        16
+      ],
+      "comment": "(pick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2912,
+        1,
+        2926
+      ],
+      "comment": "(a fire newt leader)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2911,
+        10,
+        16
+      ],
+      "comment": "(broad axe)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2912,
+        10,
+        5
+      ],
+      "comment": "(leather suit)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2910,
+        2,
+        2927
+      ],
+      "comment": "(a fire newt sergeant)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2906,
+        20,
+        5
+      ],
+      "comment": "(chainmail)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2907,
+        20,
+        16
+      ],
+      "comment": "(pick)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2928,
+        1,
+        1
+      ],
+      "comment": "(Entrance to the temple)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2911,
+        4,
+        2928
+      ],
+      "comment": "(a fire newt general)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2906,
+        20,
+        5
+      ],
+      "comment": "(chainmail)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2907,
+        20,
+        16
+      ],
+      "comment": "(pick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2911,
+        4,
+        2928
+      ],
+      "comment": "(a fire newt general)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2906,
+        20,
+        5
+      ],
+      "comment": "(chainmail)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2907,
+        20,
+        16
+      ],
+      "comment": "(pick)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2929,
+        3,
+        1
+      ],
+      "comment": "(Inside the Temple)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2913,
+        1,
+        2929
+      ],
+      "comment": "(a fire newt priest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2913,
+        10,
+        16
+      ],
+      "comment": "(mace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2914,
+        2,
+        2930
+      ],
+      "comment": "(a fire lizard)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2914,
+        10,
+        -1
+      ],
+      "comment": "(orange potion)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2914,
+        2,
+        2930
+      ],
+      "comment": "(a fire lizard)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2914,
+        10,
+        -1
+      ],
+      "comment": "(orange potion)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        2915,
+        100,
+        2931
+      ],
+      "comment": "(a newt egg)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/29.zon"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 6862,
+  "zone_id": 67,
+  "name": "Along the town wall",
+  "description": "You reach a bend in the town wall, and the trail follows it on\nboth sides to the north and west. Ivy growing along the wall here\nbrushes your arm as you pass. Dense shrubbery lining the path to\nthe east renders that way unnavigable.",
+  "header_raw": "67 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6861
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6863
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

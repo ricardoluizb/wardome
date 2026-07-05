@@ -3,8 +3,8 @@
   "zone_id": 71,
   "name": "An Odd Intersection",
   "description": "You stand in a rather odd intersection of pipes.  The pipes actually\ndon't resemble pipes anymore.  They look more like a real stone tunnel,\nor a passageway hewn directly into the rock.  The ways from here lead\nnorth, east and west.",
-  "header_raw": "71 ad 1",
-  "flags_text": "ad",
+  "header_raw": "71 9 1",
+  "flags_text": "9",
   "sector": 1,
   "exits": [
     {

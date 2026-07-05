@@ -4,9 +4,9 @@
   "short_desc": "the creature homunculus",
   "long_desc": "The creature homunculus is here, looking at you with an evil look.",
   "detailed_desc": "The homunculus appears in a man-like form, about eighteen inches tall,\nhas a greenish, reptilian skin, leathery wings, and a batlike mouth,\nwith teeth dripping with a greenish sludge.",
-  "flags_raw": "nop df -780 S",
-  "stats1_raw": "11 10 1 6d3+130 2d6+2",
-  "stats2_raw": "500 11500",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "57352 40 -780 E",
+  "stats1_raw": "11 15 8 1d1+225 5d2+4",
+  "stats2_raw": "165 8859 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/70.mob"
 }

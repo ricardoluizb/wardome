@@ -1,0 +1,1774 @@
+{
+  "id": 202,
+  "name": "Wardome - The Lord of Rings II",
+  "header": {
+    "raw": "20299 30 2 25 -1",
+    "min_room": 20299,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": 25
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20221,
+        1,
+        20221
+      ],
+      "comment": "(a Bank Teller)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20220,
+        3,
+        20221
+      ],
+      "comment": "(a Strong Guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20218,
+        1,
+        20218
+      ],
+      "comment": "(Dervon the professor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20204,
+        20,
+        17
+      ],
+      "comment": "(&CD&cervon's &YB&yook&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        20218,
+        1,
+        20218
+      ],
+      "comment": "(a trickling fountain)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20237,
+        1,
+        20237
+      ],
+      "comment": "(an upset jeweler)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20206,
+        20,
+        22
+      ],
+      "comment": "(&gan &GE&gme&Wr&gal&Gd &yStone&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20207,
+        20,
+        17
+      ],
+      "comment": "(&WCrystal Ball&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20205,
+        20,
+        2
+      ],
+      "comment": "(&MA&mme&Wth&mis&Mt &MR&min&Mg&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20229,
+        10,
+        20229
+      ],
+      "comment": "(a Guard Dog)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20202,
+        20,
+        4
+      ],
+      "comment": "(&YPet &cDog &WC&wollar&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20229,
+        10,
+        20229
+      ],
+      "comment": "(a Guard Dog)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20202,
+        20,
+        3
+      ],
+      "comment": "(&YPet &cDog &WC&wollar&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20229,
+        10,
+        20229
+      ],
+      "comment": "(a Guard Dog)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20202,
+        20,
+        4
+      ],
+      "comment": "(&YPet &cDog &WC&wollar&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20229,
+        10,
+        20229
+      ],
+      "comment": "(a Guard Dog)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20202,
+        20,
+        3
+      ],
+      "comment": "(&YPet &cDog &WC&wollar&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20229,
+        10,
+        20229
+      ],
+      "comment": "(a Guard Dog)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20202,
+        20,
+        4
+      ],
+      "comment": "(&YPet &cDog &WC&wollar&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20202,
+        2,
+        20202
+      ],
+      "comment": "(a servant of the king)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        20208,
+        100,
+        -1
+      ],
+      "comment": "(The &Yking's &gPillow&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20222,
+        4,
+        20222
+      ],
+      "comment": "(Guardian of the North Gate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20200,
+        20,
+        16
+      ],
+      "comment": "(&CG&cuardian's &CS&cword&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20222,
+        4,
+        20222
+      ],
+      "comment": "(Guardian of the North Gate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20201,
+        20,
+        11
+      ],
+      "comment": "(&CG&cuardian's &CS&chield&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20200,
+        4,
+        20200
+      ],
+      "comment": "(Guardian of the South Gate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20200,
+        20,
+        16
+      ],
+      "comment": "(&CG&cuardian's &CS&cword&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20200,
+        4,
+        20200
+      ],
+      "comment": "(Guardian of the South Gate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20201,
+        20,
+        11
+      ],
+      "comment": "(&CG&cuardian's &CS&chield&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20253,
+        20,
+        20287
+      ],
+      "comment": "(a lot of flies)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20254,
+        20,
+        20287
+      ],
+      "comment": "(little spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20253,
+        20,
+        20288
+      ],
+      "comment": "(a lot of flies)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20254,
+        20,
+        20288
+      ],
+      "comment": "(little spider)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        20252,
+        3,
+        20288
+      ],
+      "comment": "(hobbit pan)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20253,
+        20,
+        20264
+      ],
+      "comment": "(a lot of flies)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20254,
+        20,
+        20264
+      ],
+      "comment": "(little spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20253,
+        20,
+        20258
+      ],
+      "comment": "(a lot of flies)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20254,
+        20,
+        20258
+      ],
+      "comment": "(little spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20253,
+        20,
+        20256
+      ],
+      "comment": "(a lot of flies)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20254,
+        20,
+        20256
+      ],
+      "comment": "(little spider)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        20252,
+        3,
+        20280
+      ],
+      "comment": "(hobbit pan)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        20252,
+        3,
+        20252
+      ],
+      "comment": "(hobbit pan)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20252,
+        1,
+        20278
+      ],
+      "comment": "(&YO&yrcs &RW&rar&Cc&chief&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20251,
+        10,
+        15
+      ],
+      "comment": "(&gThe &YC&yrushed &CB&cracer &gof The &RW&rar&CC&chief&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20251,
+        10,
+        14
+      ],
+      "comment": "(&gThe &YC&yrushed &CB&cracer &gof The &RW&rar&CC&chief&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20250,
+        10,
+        11
+      ],
+      "comment": "(&gThe &YG&yreat &CS&chield &gof The &RW&rar&CC&chief&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20254,
+        20,
+        20271
+      ],
+      "comment": "(little spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20254,
+        20,
+        20271
+      ],
+      "comment": "(little spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20253,
+        20,
+        20254
+      ],
+      "comment": "(a lot of flies)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20253,
+        20,
+        20254
+      ],
+      "comment": "(a lot of flies)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20254,
+        20,
+        20260
+      ],
+      "comment": "(little spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20254,
+        20,
+        20260
+      ],
+      "comment": "(little spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20253,
+        20,
+        20297
+      ],
+      "comment": "(a lot of flies)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20253,
+        20,
+        20297
+      ],
+      "comment": "(a lot of flies)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20254,
+        20,
+        20289
+      ],
+      "comment": "(little spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20254,
+        20,
+        20289
+      ],
+      "comment": "(little spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20253,
+        20,
+        20291
+      ],
+      "comment": "(a lot of flies)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20253,
+        20,
+        20291
+      ],
+      "comment": "(a lot of flies)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20254,
+        20,
+        20295
+      ],
+      "comment": "(little spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20254,
+        20,
+        20295
+      ],
+      "comment": "(little spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20253,
+        20,
+        20282
+      ],
+      "comment": "(a lot of flies)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20253,
+        20,
+        20282
+      ],
+      "comment": "(a lot of flies)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20254,
+        20,
+        20285
+      ],
+      "comment": "(little spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20254,
+        20,
+        20285
+      ],
+      "comment": "(little spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20253,
+        20,
+        20253
+      ],
+      "comment": "(a lot of flies)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20253,
+        20,
+        20253
+      ],
+      "comment": "(a lot of flies)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20254,
+        20,
+        20262
+      ],
+      "comment": "(little spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20254,
+        20,
+        20262
+      ],
+      "comment": "(little spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20253,
+        20,
+        20263
+      ],
+      "comment": "(a lot of flies)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20253,
+        20,
+        20263
+      ],
+      "comment": "(a lot of flies)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20254,
+        20,
+        20250
+      ],
+      "comment": "(little spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20254,
+        20,
+        20250
+      ],
+      "comment": "(little spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20251,
+        12,
+        20267
+      ],
+      "comment": "(Tired Orc Archer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        3
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29981,
+        40,
+        16
+      ],
+      "comment": "(a rustic orcrish bow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20250,
+        12,
+        20267
+      ],
+      "comment": "(Tired Orc Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        3
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29980,
+        40,
+        16
+      ],
+      "comment": "(a spiked club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20251,
+        12,
+        20269
+      ],
+      "comment": "(Tired Orc Archer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        3
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29981,
+        40,
+        16
+      ],
+      "comment": "(a rustic orcrish bow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20250,
+        12,
+        20269
+      ],
+      "comment": "(Tired Orc Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        3
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29980,
+        40,
+        16
+      ],
+      "comment": "(a spiked club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20251,
+        12,
+        20268
+      ],
+      "comment": "(Tired Orc Archer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        3
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29981,
+        40,
+        16
+      ],
+      "comment": "(a rustic orcrish bow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20251,
+        12,
+        20268
+      ],
+      "comment": "(Tired Orc Archer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        3
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29981,
+        40,
+        16
+      ],
+      "comment": "(a rustic orcrish bow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20250,
+        12,
+        20268
+      ],
+      "comment": "(Tired Orc Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        3
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29980,
+        40,
+        16
+      ],
+      "comment": "(a spiked club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20250,
+        12,
+        20268
+      ],
+      "comment": "(Tired Orc Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        3
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29980,
+        40,
+        16
+      ],
+      "comment": "(a spiked club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20251,
+        12,
+        20273
+      ],
+      "comment": "(Tired Orc Archer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        3
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29981,
+        40,
+        16
+      ],
+      "comment": "(a rustic orcrish bow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20251,
+        12,
+        20273
+      ],
+      "comment": "(Tired Orc Archer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        3
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29981,
+        40,
+        16
+      ],
+      "comment": "(a rustic orcrish bow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20250,
+        12,
+        20273
+      ],
+      "comment": "(Tired Orc Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        3
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29980,
+        40,
+        16
+      ],
+      "comment": "(a spiked club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20250,
+        12,
+        20273
+      ],
+      "comment": "(Tired Orc Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        3
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29980,
+        40,
+        16
+      ],
+      "comment": "(a spiked club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20251,
+        12,
+        20274
+      ],
+      "comment": "(Tired Orc Archer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        3
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29981,
+        40,
+        16
+      ],
+      "comment": "(a rustic orcrish bow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20251,
+        12,
+        20274
+      ],
+      "comment": "(Tired Orc Archer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        3
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29981,
+        40,
+        16
+      ],
+      "comment": "(a rustic orcrish bow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20250,
+        12,
+        20274
+      ],
+      "comment": "(Tired Orc Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        3
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29980,
+        40,
+        16
+      ],
+      "comment": "(a spiked club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20250,
+        12,
+        20274
+      ],
+      "comment": "(Tired Orc Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        3
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29980,
+        40,
+        16
+      ],
+      "comment": "(a spiked club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20251,
+        12,
+        20276
+      ],
+      "comment": "(Tired Orc Archer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        3
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29981,
+        40,
+        16
+      ],
+      "comment": "(a rustic orcrish bow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20251,
+        12,
+        20276
+      ],
+      "comment": "(Tired Orc Archer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        3
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29981,
+        40,
+        16
+      ],
+      "comment": "(a rustic orcrish bow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20250,
+        12,
+        20276
+      ],
+      "comment": "(Tired Orc Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        3
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29980,
+        40,
+        16
+      ],
+      "comment": "(a spiked club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20250,
+        12,
+        20276
+      ],
+      "comment": "(Tired Orc Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        3
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29980,
+        40,
+        16
+      ],
+      "comment": "(a spiked club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20251,
+        12,
+        20277
+      ],
+      "comment": "(Tired Orc Archer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        3
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29981,
+        40,
+        16
+      ],
+      "comment": "(a rustic orcrish bow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20251,
+        12,
+        20277
+      ],
+      "comment": "(Tired Orc Archer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        3
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29981,
+        40,
+        16
+      ],
+      "comment": "(a rustic orcrish bow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20250,
+        12,
+        20277
+      ],
+      "comment": "(Tired Orc Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        3
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29980,
+        40,
+        16
+      ],
+      "comment": "(a spiked club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20250,
+        12,
+        20277
+      ],
+      "comment": "(Tired Orc Warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        3
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29980,
+        40,
+        16
+      ],
+      "comment": "(a spiked club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20203,
+        1,
+        20203
+      ],
+      "comment": "(the keymaster)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        20203,
+        100,
+        -1
+      ],
+      "comment": "(the Key of the Armory)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20203,
+        1,
+        2
+      ],
+      "comment": "(The waiting hall)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20248,
+        1,
+        20247
+      ],
+      "comment": "(Chuck)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20247,
+        1,
+        20247
+      ],
+      "comment": "(Orex)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        20246,
+        1,
+        20246
+      ],
+      "comment": "(a sturdy wooden chair)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20246,
+        1,
+        20246
+      ],
+      "comment": "(Atago)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20244,
+        2,
+        20243
+      ],
+      "comment": "(a gnarled old man)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20243,
+        5,
+        20242
+      ],
+      "comment": "(a measly little mouse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20243,
+        5,
+        20242
+      ],
+      "comment": "(a measly little mouse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20242,
+        5,
+        20242
+      ],
+      "comment": "(a slimy little rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20242,
+        5,
+        20242
+      ],
+      "comment": "(a slimy little rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20241,
+        1,
+        20241
+      ],
+      "comment": "(Phoros)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20240,
+        5,
+        20240
+      ],
+      "comment": "(an old haggard beggar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20240,
+        5,
+        20240
+      ],
+      "comment": "(an old haggard beggar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20239,
+        10,
+        20239
+      ],
+      "comment": "(a Woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20239,
+        10,
+        20239
+      ],
+      "comment": "(a Woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20239,
+        10,
+        20239
+      ],
+      "comment": "(a Woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20231,
+        10,
+        20238
+      ],
+      "comment": "(a Woman Minding)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20231,
+        10,
+        20238
+      ],
+      "comment": "(a Woman Minding)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20231,
+        10,
+        20238
+      ],
+      "comment": "(a Woman Minding)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20231,
+        10,
+        20231
+      ],
+      "comment": "(a Woman Minding)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20231,
+        10,
+        20231
+      ],
+      "comment": "(a Woman Minding)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20231,
+        10,
+        20231
+      ],
+      "comment": "(a Woman Minding)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20230,
+        1,
+        20230
+      ],
+      "comment": "(a Weaponsmith)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        20226,
+        1,
+        20226
+      ],
+      "comment": "(a wooden chest)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20215,
+        2,
+        20217
+      ],
+      "comment": "(a Nervous Father)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20215,
+        2,
+        20215
+      ],
+      "comment": "(a Nervous Father)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20212,
+        5,
+        20212
+      ],
+      "comment": "(a Stern Guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20212,
+        5,
+        20212
+      ],
+      "comment": "(a Stern Guard)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        20213,
+        1,
+        20213
+      ],
+      "comment": "(a small paper card)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20204,
+        3,
+        2
+      ],
+      "comment": "(The armoury)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/202.zon"
+}

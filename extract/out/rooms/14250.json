@@ -1,0 +1,29 @@
+{
+  "id": 14250,
+  "zone_id": 141,
+  "name": "The Place of Ultimate Evil",
+  "description": "The ground itself seems malevolent.  It sinks and engulfs you.",
+  "header_raw": "141 8257 1",
+  "flags_text": "8257",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14251
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14253
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

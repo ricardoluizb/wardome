@@ -1,0 +1,21 @@
+{
+  "id": 29904,
+  "zone_id": 298,
+  "name": "An Abandoned Music Shop",
+  "description": "You are in a small music store.  The shelves are barren and empty, and dust has\nsettled upon the floor.  The sound of passing elves outside is muted through\nthe thick wooden walls of this flet.  The sound of weeping draws your\nattention, and you realize that this shop is not, in fact, abandoned.  The\nproprietor sits on the floor in the corner crying softly.",
+  "header_raw": "298 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29903
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

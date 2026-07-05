@@ -1,0 +1,45 @@
+{
+  "id": 12358,
+  "zone_id": 122,
+  "name": "The Marine Court",
+  "description": "A stone courtyard, encrusted with barnacles that tear at your clothing as\nyou pass, stretches before you, teeming with all manner of marine life. A\nsense of peace, after escaping the storm, is soon supplanted by a growing\nunease as you regard some of the dark horrors of the depths, never meant\nto be seen by surface dwellers. The master of this domain appears to be\nwell guarded.",
+  "header_raw": "122 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12359
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12338
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12357
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12335
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 552,
+  "zone_id": 5,
+  "name": "&cOn the River&n",
+  "description": "North of here you see the Second Street. The river flows from east to west.\nThe riverbanks are too steep to climb.",
+  "header_raw": "5 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 5001
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 551
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

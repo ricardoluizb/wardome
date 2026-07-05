@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "A Cul De Sac",
   "description": "You are in a small cul de sac.  A window to the east is letting in\nmoonlight and a pleasant breeze.  Through it, the surrounding country\nside can be seen.\n   The only apparent exit leads back west to the hallway.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

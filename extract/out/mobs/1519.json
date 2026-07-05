@@ -4,9 +4,9 @@
   "short_desc": "the demon",
   "long_desc": "The hell-fire around you is dominated by a massive, burning demon.",
   "detailed_desc": "You see nothing but the inexorably red and burning anger of the \nlord of the underworld that you fear to be your fate.",
-  "flags_raw": "bcf dk -1000 S",
-  "stats1_raw": "27 -4 -5 75d2+825 4d8+5",
-  "stats2_raw": "40000 180000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "46 1032 -1000 E",
+  "stats1_raw": "175 -79 -25 1d1+13296 5d35+130",
+  "stats2_raw": "2625 19558147 6",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/15.mob"
 }

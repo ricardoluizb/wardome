@@ -1,0 +1,12 @@
+{
+  "id": 9902,
+  "alias": "ghenna banshee",
+  "short_desc": "the Banshee",
+  "long_desc": "The groaning spirit of a long-dead woman floats here.",
+  "detailed_desc": "This is the spirit of an evil female elf, a very rare thing indeed.  Her\nhair is wild and unkempt, and she is dressed in tattered rags.",
+  "flags_raw": "133256 1192 -1000 E",
+  "stats1_raw": "15 11 6 1d1+540 5d2+16",
+  "stats2_raw": "225 22359 1",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/99.mob"
+}

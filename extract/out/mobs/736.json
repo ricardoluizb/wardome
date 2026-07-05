@@ -1,0 +1,12 @@
+{
+  "id": 736,
+  "alias": "bright light",
+  "short_desc": "the Bright Light",
+  "long_desc": "A bright shining light here nearly blinds you!",
+  "detailed_desc": "You try to look closer at the light and nearly burn your retinas clear\noff.  That wasn't too bright now, was it?",
+  "flags_raw": "42 136 0 E",
+  "stats1_raw": "100 -40 -12 1d1+6792 5d21+90",
+  "stats2_raw": "1500 3791433 5",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

@@ -1,12 +1,12 @@
 {
   "id": 3063,
-  "alias": "mercenary",
-  "short_desc": "the mercenary",
-  "long_desc": "A mercenary is waiting for a job here.",
-  "detailed_desc": "He looks pretty mean, and you imagine he'd do anything for money.",
-  "flags_raw": "bl 0 -330 S",
-  "stats1_raw": "5 15 5 2d6+60 1d6+1",
-  "stats2_raw": "87 900",
-  "stats3_raw": "8 8 1",
+  "alias": "Banshee",
+  "short_desc": "the Banshee",
+  "long_desc": "A horror Banshee stands here.",
+  "detailed_desc": "He looks pretty mean, dark cloth, dark cloak and dark face. Thin arms\nand legs. No single enemy....",
+  "flags_raw": "2056 0 -1000 E",
+  "stats1_raw": "190 -75 -18 1d1+5316 5d20+76",
+  "stats2_raw": "2850 18644097 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

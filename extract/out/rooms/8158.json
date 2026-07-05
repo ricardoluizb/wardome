@@ -1,0 +1,29 @@
+{
+  "id": 8158,
+  "zone_id": 81,
+  "name": "A Landing",
+  "description": "A stairwell plunges down to the next level here. To the west, a steel \ndoor forbids your passage.",
+  "header_raw": "81 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "A steel door blocks this way.",
+      "keywords": "door steel",
+      "door_flag": 2,
+      "key": 8100,
+      "to": 8157
+    },
+    {
+      "dir": 5,
+      "description": "A trap door opens down.",
+      "keywords": "trapdoor",
+      "door_flag": 1,
+      "key": -1,
+      "to": 8159
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

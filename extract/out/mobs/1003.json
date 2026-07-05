@@ -1,0 +1,12 @@
+{
+  "id": 1003,
+  "alias": "esmerelda priestess woman",
+  "short_desc": "Esmerelda the priestess",
+  "long_desc": "A woman dressed in dark robes watches the approaching undead in fear.",
+  "detailed_desc": "Dressed in solid black, Esmerelda is the current High Priestess of this\nCathedral.  Funny how you had never heard of a female high priestess\nbefore this time, isn't it?  And even stranger, you know her name...\nhow distinctly odd.  Anyways, Esmerelda seems to be watching the undead\nbefore her advancing ever so slowly, maybe you can try to save her!",
+  "flags_raw": "174 136 -900 E",
+  "stats1_raw": "80 -40 -17 1d1+8640 5d25+132",
+  "stats2_raw": "1200 2995403 10",
+  "stats3_raw": "8 8 2 1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/10.mob"
+}

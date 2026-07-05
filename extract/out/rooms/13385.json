@@ -1,0 +1,29 @@
+{
+  "id": 13385,
+  "zone_id": 132,
+  "name": "The Cavern",
+  "description": "The cavern turns east and then north again.  You hear a dragon snoring to \nthe north.  Many stalactites hang from the ceiling, you hurry through the room\nin fear that they will rain down upon you.  Many jewels reflect your light, this\nroom appears to be mined or excavated by some intelligent life form.",
+  "header_raw": "132 9 5",
+  "flags_text": "9",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "the cavern",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13386
+    },
+    {
+      "dir": 3,
+      "description": "the cavern",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13384
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

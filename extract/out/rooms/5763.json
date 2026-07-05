@@ -1,0 +1,21 @@
+{
+  "id": 5763,
+  "zone_id": 57,
+  "name": "A Cavern",
+  "description": "The door opens onto a rough-hewn cavern, dark and dreary as the rest of the\ndungeon, save that it has more than the usual amount of cobwebs, and also\nsports a fair collection of Orcish, Dwarven and Human bones. You enter\ncautiously, well aware that this may be the lair of a Huge SPIDER.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "outside three doors",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5762
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

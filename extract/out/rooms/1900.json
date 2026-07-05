@@ -1,0 +1,29 @@
+{
+  "id": 1900,
+  "zone_id": 19,
+  "name": "Um discreto esconderijo",
+  "description": "Voce encontra uma porta escondida nas sombras, muito empoeirada, e de\ndificil notabilidade, um ar de misterio e silencio passa por voce, o lugar eh\naparentemente muito calmo e tranquilo, como se fosse uma velha taverna de um\nsenhor qualquer.  Um sutil homem encapuzado de bracos cruzados esta parado logo\nali.",
+  "header_raw": "19 196 0",
+  "flags_text": "196",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 0,
+      "key": 1903,
+      "to": 1901
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 4030
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/19.wld"
+}

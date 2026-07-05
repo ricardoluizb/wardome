@@ -1,0 +1,37 @@
+{
+  "id": 8230,
+  "zone_id": 82,
+  "name": "The Central Corridor Of The Second Floor",
+  "description": "You are in the peincipal corridor of the second floor, decorated with some\ncolumns of doric style. Here their arent any walls, so the air passes freely\nfromthe east to the west side of the corridor. You are starting to wish you\nhad brought your sweater.",
+  "header_raw": "82 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8228
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8233
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8231
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

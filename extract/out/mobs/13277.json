@@ -1,0 +1,12 @@
+{
+  "id": 13277,
+  "alias": "cleric",
+  "short_desc": "a cleric",
+  "long_desc": "A cleric is here.",
+  "detailed_desc": "The clerics of Cloudy Mountain have mastered the art of healing that is \nsecond to none.",
+  "flags_raw": "8 168 490 E",
+  "stats1_raw": "50 -21 -9 1d1+4596 5d11+100",
+  "stats2_raw": "750 596679 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

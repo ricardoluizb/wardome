@@ -1,0 +1,37 @@
+{
+  "id": 1149,
+  "zone_id": 11,
+  "name": "A three way intersection",
+  "description": "You stand at an intersection.  The tunnel continues east and west while\nto the north you can barely make out a smaller trail.",
+  "header_raw": "11 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a dark tunnel.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1151
+    },
+    {
+      "dir": 1,
+      "description": "You see a dark tunnel.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1150
+    },
+    {
+      "dir": 3,
+      "description": "You see a dark tunnel.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1148
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

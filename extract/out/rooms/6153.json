@@ -3,8 +3,8 @@
   "zone_id": 61,
   "name": "Inside The Great Tree",
   "description": "You have stepped inside of this hollowed tree.  From here steps lead down\ninto darkness or you can exit the tree by going west.",
-  "header_raw": "61 ad 3",
-  "flags_text": "ad",
+  "header_raw": "61 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

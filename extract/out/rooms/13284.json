@@ -1,0 +1,29 @@
+{
+  "id": 13284,
+  "zone_id": 132,
+  "name": "Maaklan Residence",
+  "description": "You are inside what appears to be a huge meeting hall.  Many members of the\nDragons of Virtue are here.  In the corner are some members taking donations.\nOthers are passing out pamphlets about the principles of kindness.",
+  "header_raw": "132 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "east market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13283
+    },
+    {
+      "dir": 3,
+      "description": "Maaklan quarters",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13285
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

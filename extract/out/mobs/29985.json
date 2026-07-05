@@ -1,0 +1,12 @@
+{
+  "id": 29985,
+  "alias": "orc archer",
+  "short_desc": "the orc archer",
+  "long_desc": "A horrible orc grumbles and aims his bow at you.",
+  "detailed_desc": "This orc has an angry look.  He is not as big as an infantary orc.  His hands\nshakes a little while aiming at you.",
+  "flags_raw": "524 1082131624 -750 E",
+  "stats1_raw": "190 -91 -30 1d1+17472 5d39+156",
+  "stats2_raw": "2850 26634425 8",
+  "stats3_raw": "8 8 0 10 5",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/299.mob"
+}

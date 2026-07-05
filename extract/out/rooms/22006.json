@@ -1,0 +1,29 @@
+{
+  "id": 22006,
+  "zone_id": 220,
+  "name": "Nearing the bottom",
+  "description": "You have made it past most of the dreaded creatures, but more still\nawaits you at the bottom. Odd looking creatures surrond you, wielding\nanything from daggers to stone clubs. Fear sweeps the eye of the enemy\nit looks as if they have been under an enchantement.",
+  "header_raw": "220 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22005
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22007
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/220.wld"
+}

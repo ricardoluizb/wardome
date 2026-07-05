@@ -2,9 +2,9 @@
   "id": 3020,
   "zone_id": 30,
   "name": "The Armory",
-  "description": "The armory with all kinds of armors on the walls and in the window.  You\nsee helmets, shields and chain mails.  To the north is the main street.\nOn the wall is a small note.",
-  "header_raw": "30 dh 0",
-  "flags_text": "dh",
+  "description": "This once was the armory. You can almost see the weapons and armours in\nthe shelves...good times, no?",
+  "header_raw": "30 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

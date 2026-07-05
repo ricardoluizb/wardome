@@ -1,0 +1,29 @@
+{
+  "id": 796,
+  "zone_id": 7,
+  "name": "Guest Bedroom",
+  "description": "This is a tiny little room, about 6 feet square and containing only\na small bed, a small night-table and a stepladder leaning against the\nwall in one corner.  A lot of disturbed dust on the floor makes you\nwonder what this room is being used for, since it is obvious no one\nhas used the bed for a _long_ time.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 795
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "trapdoor",
+      "door_flag": 1,
+      "key": -1,
+      "to": 798
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

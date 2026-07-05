@@ -1,0 +1,21 @@
+{
+  "id": 743,
+  "zone_id": 7,
+  "name": "Bob's Armoury and Tackle",
+  "description": "This place has to be the WEIRDEST shop you've ever been in.\nFishing poles and halberds decorate the walls.  Breast plates stacked\nwith cups of nightcrawlers on top.  Bow strings and fishing line, etc,\netc, etc.  The shopkeeper has made this nightmare somewhat homey,\nthough, with doileys and pictures scattered about in a pleasing\ndisplay.",
+  "header_raw": "7 248 0",
+  "flags_text": "248",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 711
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 14327,
+  "alias": "mob heucuva",
+  "short_desc": "the heucuva",
+  "long_desc": "A heucuva is here, reciting a prayer.",
+  "detailed_desc": "He is the priest who performed the funeral for Ramses. He now continues to\nrecite the prayers which helped Ramses gain entrance into the afterlife for all\nof eternity.",
+  "flags_raw": "492042 8397864 0 E",
+  "stats1_raw": "78 -37 -15 1d1+7800 5d15+120",
+  "stats2_raw": "1170 2160720 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/143.mob"
+}

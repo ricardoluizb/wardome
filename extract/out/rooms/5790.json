@@ -1,0 +1,21 @@
+{
+  "id": 5790,
+  "zone_id": 57,
+  "name": "A Rough Cavern",
+  "description": "Proceeding away from the Troll den, you come into a long, rough cavern,\nlittered with decaying corpses and shards of broken bones and weapons.\nRemembering the previous occupant of this foul place you encountered, you\ngrip your trusty weapons firmly and glare about, ready for anything. A\ndistant howl suddenly echoes about the cavern, and you tense, sweat beading\non your brow.\n\nYou spy a set of steps leading up to a door in the far wall, to the north, \nand step up to it.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a door",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5791
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

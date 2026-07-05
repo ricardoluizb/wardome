@@ -1,0 +1,21 @@
+{
+  "id": 1621,
+  "zone_id": 16,
+  "name": "Northern Moat",
+  "description": "You are in the middle of the moat, on the north side of the tower.  There is\nno place to land here.  Deep throated 'ribbids' come from the water all\naround you.",
+  "header_raw": "16 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1620
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

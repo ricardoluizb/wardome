@@ -3,8 +3,8 @@
   "zone_id": 70,
   "name": "A Muddy Intersection",
   "description": "You wouldn't want to know the true feeling of standing in this mud up to\nyour hips.  >BWAADR<.  All that fills your mind right now is the dream of\na hot bath.  This is NOT very clean mud you know, remember you're in the\nsewer!  The pipes leads north, south and east.",
-  "header_raw": "70 ad 5",
-  "flags_text": "ad",
+  "header_raw": "70 9 5",
+  "flags_text": "9",
   "sector": 5,
   "exits": [
     {
@@ -34,12 +34,12 @@
   ],
   "extra_descriptions": [
     {
-      "keywords": "mud",
-      "description": "It is as dark as tar and looks like something out of a toilet, on top of\nthat, the smell is absolutely overwhelming."
-    },
-    {
       "keywords": "sediment",
       "description": "It is NOT the kind of matter that would concern you too much, normally, but\nas you are in the middle of it, it just might become your main concern.\nREAL YUCKY!"
+    },
+    {
+      "keywords": "mud",
+      "description": "It is as dark as tar and looks like something out of a toilet, on top of\nthat, the smell is absolutely overwhelming."
     }
   ],
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/70.wld"

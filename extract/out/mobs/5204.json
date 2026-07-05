@@ -4,9 +4,9 @@
   "short_desc": "the mimic",
   "long_desc": "The stone floor of this house has been ripped apart.",
   "detailed_desc": "What a mess, you wonder to yourself what could have caused this rampant\ndestruction.",
-  "flags_raw": "bqr 0 -140 S",
-  "stats1_raw": "11 11 3 2d6+110 2d6+0",
-  "stats2_raw": "0 10500",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "131082 0 -140 E",
+  "stats1_raw": "130 -49 -12 1d1+5712 5d14+72",
+  "stats2_raw": "1950 7624337 2",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/52.mob"
 }

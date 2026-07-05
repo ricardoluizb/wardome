@@ -1,0 +1,12 @@
+{
+  "id": 11505,
+  "alias": "mugger",
+  "short_desc": "the mugger",
+  "long_desc": "A mugger is thinking about taking your money or your life.",
+  "detailed_desc": "Driven to desperate measures, this leech of society is after one thing...  \nYour money.  He'll do anything to get it too.",
+  "flags_raw": "200 0 200 E",
+  "stats1_raw": "30 1 2 1d1+1320 5d4+32",
+  "stats2_raw": "450 143372 2",
+  "stats3_raw": "8 8 1 0 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

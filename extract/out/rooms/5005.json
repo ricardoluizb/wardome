@@ -3,8 +3,8 @@
   "zone_id": 50,
   "name": "An Underground Lake",
   "description": "You are floating on a jet-black underground lake fed by dripping\nwater and lime from above.  The tunnel continues to the east and the\nriver leads back west.  Leading upwards to the northwest is a roughly\nhewn hallway.",
-  "header_raw": "50 ad 7",
-  "flags_text": "ad",
+  "header_raw": "50 9 7",
+  "flags_text": "9",
   "sector": 7,
   "exits": [
     {

@@ -4,9 +4,9 @@
   "short_desc": "the adjudicator",
   "long_desc": "An adjudicator is watching the games intently.",
   "detailed_desc": "The adjudicator is a retired gladiator and scars cover all exposed parts of\nhis body.  Although he is getting on in years, he remains healthy and fit.",
-  "flags_raw": "bl h 100 S",
-  "stats1_raw": "12 9 2 3d7+140 1d7+4",
-  "stats2_raw": "2000 13000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "2058 128 100 E",
+  "stats1_raw": "28 6 5 1d1+585 5d3+10",
+  "stats2_raw": "420 88418 0",
+  "stats3_raw": "8 8 1 10 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/120.mob"
 }

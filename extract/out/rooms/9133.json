@@ -1,0 +1,45 @@
+{
+  "id": 9133,
+  "zone_id": 91,
+  "name": "Sneezing little cloud.",
+  "description": "The cloud is wracked with sneezes.  At first you thought you were\nin an earthquake before you realize where you are!",
+  "header_raw": "91 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9145
+    },
+    {
+      "dir": 1,
+      "description": "This cloud is, like, totally lost, you know?",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9134
+    },
+    {
+      "dir": 2,
+      "description": "The cloud to the south blushes and tries to hide when you look at\nit.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9132
+    },
+    {
+      "dir": 3,
+      "description": "You see a cirrus maximus cloud.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9143
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

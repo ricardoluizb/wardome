@@ -1,0 +1,29 @@
+{
+  "id": 12373,
+  "zone_id": 122,
+  "name": "The Icy Caverns",
+  "description": "The tunnel evens out on an icy ledge, which is not dissimilar to those\nof the legendary realm of the frost giants of Midgaard, known as the\nGlacial Rift. Here, the ice is all that is beneath your feet; it has\nbeen carved from the frozen water that filled the open spaces in the\nmountain to create tunnels to allow the inhabitants to move through.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12374
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12372
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

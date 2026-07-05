@@ -1,0 +1,12 @@
+{
+  "id": 13216,
+  "alias": "spider",
+  "short_desc": "a giant spider",
+  "long_desc": "A giant, hairy spider eyes your inventory",
+  "detailed_desc": "A large, black, hairy spider that will eat your inventory the instant you \nturn your back to it.",
+  "flags_raw": "204 262176 -350 E",
+  "stats1_raw": "20 -6 -5 1d1+1836 5d5+88",
+  "stats2_raw": "300 53412 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

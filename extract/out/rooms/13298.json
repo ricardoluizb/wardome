@@ -1,0 +1,37 @@
+{
+  "id": 13298,
+  "zone_id": 132,
+  "name": "The North Wall",
+  "description": "You are traveling along the north wall.  The wall and the mountain behind\ncast a shadow over you.  A noble's home is south and the road continues \neast and west.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "the north wall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13297
+    },
+    {
+      "dir": 2,
+      "description": "the north wall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13299
+    },
+    {
+      "dir": 3,
+      "description": "the north wall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13300
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 99,
+  "alias": "death reaper",
+  "short_desc": "Death",
+  "long_desc": "Death the Grim Reaper is observing you silently from empty eye sockets.",
+  "detailed_desc": "The dark-robed skeletal figure radiates an unendurable coldness.",
+  "flags_raw": "256026 33960 0 E",
+  "stats1_raw": "0 210 -84 -21d1+1 5880d10+22",
+  "stats2_raw": "84 3150 0",
+  "stats3_raw": "0 8 8 0 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/0.mob"
+}

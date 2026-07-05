@@ -1,0 +1,45 @@
+{
+  "id": 508,
+  "zone_id": 5,
+  "name": "&cTemple Street&n",
+  "description": "&n   You are at the beggining of the east side of the &cTemple Street&n, just east of\n&CThe Center of the Temple Street&n. Here, two temples were built: &BThe Temple of\nthe  Orcs&n, to the north, and &BThe Temple of the Ogres&n, to the south.",
+  "header_raw": "5 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 514
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 509
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 520
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 507
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

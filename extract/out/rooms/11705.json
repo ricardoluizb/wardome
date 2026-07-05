@@ -1,0 +1,29 @@
+{
+  "id": 11705,
+  "zone_id": 117,
+  "name": "Melchior's temple of life.",
+  "description": "The aura around this place makes anyone that enters here beggin to think\ndiferent of being alive and health.  When you look over the place you can see\nthe life flowing through the walls, the floor and the celling.  Being here is\none of the most beautty things of ever.  You can see a small door to the west.",
+  "header_raw": "117 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 11708
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "altar",
+      "door_flag": 2,
+      "key": 0,
+      "to": 11707
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/117.wld"
+}

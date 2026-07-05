@@ -3,8 +3,8 @@
   "zone_id": 51,
   "name": "The Slave Cells",
   "description": "This is the main room to the cell chambers for the slaves to be \nsacrificed.  You notice there are no guards around.",
-  "header_raw": "51 ad 0",
-  "flags_text": "ad",
+  "header_raw": "51 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

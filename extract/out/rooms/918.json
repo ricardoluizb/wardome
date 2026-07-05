@@ -3,8 +3,8 @@
   "zone_id": 9,
   "name": "The Fourth Trial Of Minos",
   "description": "Minos must be a monster hacking machine.  You see a blue light\nflicker on and off.  A voice crackles, 'WHY ARE YOU HERE!'",
-  "header_raw": "9 ad 0",
-  "flags_text": "ad",
+  "header_raw": "9 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

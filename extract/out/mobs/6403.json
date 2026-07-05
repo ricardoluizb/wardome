@@ -4,9 +4,9 @@
   "short_desc": "a Bad Feeling",
   "long_desc": "A bad feeling chokes your throat.",
   "detailed_desc": "It resembles a lot of other bad feelings you've had,\nbut a lot more tangible... magic?",
-  "flags_raw": "beflmnopqr dk 0 S",
-  "stats1_raw": "18 3 0 1d1+249 3d8+0",
-  "stats2_raw": "0 40000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "260154 1032 0 E",
+  "stats1_raw": "100 -40 -12 1d1+6792 5d21+90",
+  "stats2_raw": "1500 3791433 5",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/64.mob"
 }

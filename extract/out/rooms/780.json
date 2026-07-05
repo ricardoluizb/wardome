@@ -1,0 +1,53 @@
+{
+  "id": 780,
+  "zone_id": 7,
+  "name": "Main Hall",
+  "description": "This is an old, dusty room.  The patterns of filth on the floor\nindicate that several people have inhabited this house still, fairly\nrecently in fact.  A once-ornate grand stairway leads up to the second\nfloor, and below it's peak is a set of cracked glass doors that open\nup into the backyard.  The hall of the house leads north-south,\ngaining access to some of the interior rooms.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 786
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 779
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 789
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 781
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 791
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

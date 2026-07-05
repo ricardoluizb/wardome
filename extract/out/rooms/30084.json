@@ -1,0 +1,37 @@
+{
+  "id": 30084,
+  "zone_id": 300,
+  "name": "A Dimly Lit Path",
+  "description": "To enter in Gray Heavens, you have to walk inside this small florest.\nBe Careful",
+  "header_raw": "300 5 0",
+  "flags_text": "5",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2742
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30085
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30000
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

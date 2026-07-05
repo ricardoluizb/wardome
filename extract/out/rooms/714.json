@@ -1,0 +1,45 @@
+{
+  "id": 714,
+  "zone_id": 7,
+  "name": "Cliffside Road, North",
+  "description": "Say, there's a bustling tavern to the west called, 'The\nCliffhanger'!  Aptly named, too, since its oh...about 5 feet away from\nthe cliff's edge.  That cliff looks kind of dangerous actually.  The\nCliffhanger looks good, though.\n   Cliff Side Road continues to the north and south.",
+  "header_raw": "7 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 715
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 767
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 708
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 746
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

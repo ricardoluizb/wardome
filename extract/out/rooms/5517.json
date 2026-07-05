@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Base Of The Tower",
   "description": "You walk into a cold room whose only feature is an old wooden\nstaircase spirling up along the wall to a higher level.  Up these\nstairs you are told awaits the old mage who may be able to help\nyou advance in your studies.",
-  "header_raw": "54 de 0",
-  "flags_text": "de",
+  "header_raw": "54 24 0",
+  "flags_text": "24",
   "sector": 0,
   "exits": [
     {

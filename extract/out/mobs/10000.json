@@ -1,0 +1,12 @@
+{
+  "id": 10000,
+  "alias": "bat",
+  "short_desc": "a huge black bat",
+  "long_desc": "A huge black bat hovers before you.",
+  "detailed_desc": "It doesn't seem to want to attack, it simply seems to be watching you, almost\nwith intelligent eyes.",
+  "flags_raw": "196620 0 -200 E",
+  "stats1_raw": "150 -55 -12 1d1+4200 5d16+60",
+  "stats2_raw": "2250 9371548 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/100.mob"
+}

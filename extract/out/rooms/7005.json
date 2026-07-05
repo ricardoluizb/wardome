@@ -3,8 +3,8 @@
   "zone_id": 70,
   "name": "The Muddy Sewer",
   "description": "You are standing in the middle of a bend of the sewer pipe.  It is very\ndark around here and the mud is sticking to your legs, not very pleasant.\nThe pipe leads east and south from here.",
-  "header_raw": "70 ad 4",
-  "flags_text": "ad",
+  "header_raw": "70 9 4",
+  "flags_text": "9",
   "sector": 4,
   "exits": [
     {

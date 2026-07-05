@@ -1,0 +1,21 @@
+{
+  "id": 1007,
+  "zone_id": 10,
+  "name": "The Confessional",
+  "description": "In this dingy little room, you can tell that people used to make their\nmost holy of confessions here.  There is no relief now, for, those who have \nhave lost their souls.\n   A small and dingy curtain hangs in the entranceway to the west.",
+  "header_raw": "10 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "The curtain to the west is hanging raggedly from the bar along the top of\nthe entranceway.  Looking through it you can see a fairly large open area\njust outside.",
+      "keywords": "curtain",
+      "door_flag": 1,
+      "key": -1,
+      "to": 1005
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

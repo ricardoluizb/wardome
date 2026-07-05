@@ -1,0 +1,29 @@
+{
+  "id": 828,
+  "zone_id": 7,
+  "name": "Passageway",
+  "description": "There is a door to your north, with a plaque that says, \n\t\t   'The Trial of Death!'\n\n   Uh-oh.  You wonder if you've a scroll of recall...",
+  "header_raw": "7 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 829
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 827
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

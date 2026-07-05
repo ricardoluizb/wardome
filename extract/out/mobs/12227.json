@@ -1,0 +1,12 @@
+{
+  "id": 12227,
+  "alias": "fjalar durin",
+  "short_desc": "Fjalar",
+  "long_desc": "A mighty dwarf stands here, weapons ready.",
+  "detailed_desc": "Hero of the Durin race, Fjaler stands ready to defend them from the\nscourge of Jotunheim. Using his magical gauntlets, Fjalar can deliver\nblows of incredible strength and speed.",
+  "flags_raw": "72 9384 300 E",
+  "stats1_raw": "30 -3 0 1d1+1800 5d4+52",
+  "stats2_raw": "450 148261 4",
+  "stats3_raw": "8 8 1 11 9",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/122.mob"
+}

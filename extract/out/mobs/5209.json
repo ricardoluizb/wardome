@@ -4,9 +4,9 @@
   "short_desc": "the lamia",
   "long_desc": "A strange lamia stands here waiting for her next meal.",
   "detailed_desc": "This is a creature with the upper torso of a beautiful woman, but the lower\nbody of a four-legged beast.  She licks her lips as she looks at you greedily.",
-  "flags_raw": "abfg f -500 S",
-  "stats1_raw": "9 10 3 1d12+120 1d4+5",
-  "stats2_raw": "1500 7000",
-  "stats3_raw": "8 8 2",
+  "flags_raw": "75 32 -500 E",
+  "stats1_raw": "155 -61 -16 1d1+6816 5d16+82",
+  "stats2_raw": "2325 12685336 2",
+  "stats3_raw": "8 8 2 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/52.mob"
 }

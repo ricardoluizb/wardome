@@ -1,0 +1,2594 @@
+{
+  "id": 176,
+  "name": "The New Ofcol",
+  "header": {
+    "raw": "17699 30 1 1 -1",
+    "min_room": 17699,
+    "top_room": 30,
+    "lifespan": 1,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17629,
+        1,
+        17688
+      ],
+      "comment": "(Chaplain Jerrold)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17664,
+        99,
+        12
+      ],
+      "comment": "(a golden robe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17630,
+        3,
+        17688
+      ],
+      "comment": "(a Dragonlord)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17654,
+        10,
+        5
+      ],
+      "comment": "(&Ya golden &gd&Gr&ga&Gg&go&Gn&gs&Gc&ga&Gl&ge &Ytorso&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17660,
+        99,
+        11
+      ],
+      "comment": "(&Ya golden &gd&Gr&ga&Gg&go&Gn&gs&Gc&ga&Gl&ge &Yshield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17669,
+        10,
+        16
+      ],
+      "comment": "(the golden claw)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17656,
+        10,
+        6
+      ],
+      "comment": "(&YGolden &gd&Gr&ga&Gg&go&Gn&gs&Gc&ga&Gl&ge &Yleggings&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17657,
+        10,
+        7
+      ],
+      "comment": "(&YGolden &gd&Gr&ga&Gg&go&Gn&gs&Gc&g&Ga&gl&Ge &Yboots&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17630,
+        3,
+        17688
+      ],
+      "comment": "(a Dragonlord)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17654,
+        10,
+        5
+      ],
+      "comment": "(&Ya golden &gd&Gr&ga&Gg&go&Gn&gs&Gc&ga&Gl&ge &Ytorso&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17660,
+        10,
+        11
+      ],
+      "comment": "(&Ya golden &gd&Gr&ga&Gg&go&Gn&gs&Gc&ga&Gl&ge &Yshield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17669,
+        10,
+        16
+      ],
+      "comment": "(the golden claw)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17657,
+        10,
+        8
+      ],
+      "comment": "(&YGolden &gd&Gr&ga&Gg&go&Gn&gs&Gc&g&Ga&gl&Ge &Yboots&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17658,
+        10,
+        9
+      ],
+      "comment": "(&YGolden &gd&Gr&ga&Gg&go&Gn&gs&Gc&ga&Gl&ge &Ygauntlets&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17630,
+        3,
+        17688
+      ],
+      "comment": "(a Dragonlord)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17654,
+        10,
+        5
+      ],
+      "comment": "(&Ya golden &gd&Gr&ga&Gg&go&Gn&gs&Gc&ga&Gl&ge &Ytorso&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17660,
+        10,
+        11
+      ],
+      "comment": "(&Ya golden &gd&Gr&ga&Gg&go&Gn&gs&Gc&ga&Gl&ge &Yshield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17669,
+        10,
+        16
+      ],
+      "comment": "(the golden claw)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17659,
+        10,
+        10
+      ],
+      "comment": "(&YGolden &gd&Gr&ga&Gg&go&Gn&gs&Gc&ga&Gl&ge &Ysleeves&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17661,
+        10,
+        13
+      ],
+      "comment": "(&Ya golden &gd&Gr&ga&Gg&go&Gn&gs&Gc&ga&Gl&ge &Ygirth&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17600,
+        1,
+        1
+      ],
+      "comment": "(Granny's Still Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17609,
+        1,
+        17600
+      ],
+      "comment": "(Granny Jenkins)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        17649,
+        99,
+        17600
+      ],
+      "comment": "(a quart of ale)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17618,
+        2,
+        1
+      ],
+      "comment": "(Dirt Road)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17619,
+        0,
+        1
+      ],
+      "comment": "(Chicken Coop)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17616,
+        3,
+        1
+      ],
+      "comment": "(The Shed)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17625,
+        1,
+        2
+      ],
+      "comment": "(Impy Way)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17626,
+        3,
+        2
+      ],
+      "comment": "(Big House)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17625,
+        3,
+        2
+      ],
+      "comment": "(Impy Way)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17629,
+        1,
+        2
+      ],
+      "comment": "(Big House)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17642,
+        0,
+        2
+      ],
+      "comment": "(The Big Intersection)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17643,
+        2,
+        2
+      ],
+      "comment": "(Big House)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17632,
+        1,
+        1
+      ],
+      "comment": "(Impy Way)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17632,
+        3,
+        1
+      ],
+      "comment": "(Impy Way)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17633,
+        3,
+        1
+      ],
+      "comment": "(House)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17635,
+        1,
+        1
+      ],
+      "comment": "(House)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17637,
+        1,
+        1
+      ],
+      "comment": "(Impy Way)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17637,
+        3,
+        1
+      ],
+      "comment": "(Impy Way)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17638,
+        3,
+        1
+      ],
+      "comment": "(House)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        17640,
+        1,
+        1
+      ],
+      "comment": "(House)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17600,
+        8,
+        17608
+      ],
+      "comment": "(the Ofcol cityguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17621,
+        99,
+        5
+      ],
+      "comment": "(Brass plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17630,
+        99,
+        16
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17622,
+        99,
+        6
+      ],
+      "comment": "(a brass helm)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17600,
+        8,
+        17604
+      ],
+      "comment": "(the Ofcol cityguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17621,
+        99,
+        5
+      ],
+      "comment": "(Brass plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17630,
+        99,
+        16
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17623,
+        99,
+        7
+      ],
+      "comment": "(Brass leggings)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17600,
+        8,
+        17601
+      ],
+      "comment": "(the Ofcol cityguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17621,
+        99,
+        5
+      ],
+      "comment": "(Brass plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17630,
+        99,
+        16
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17624,
+        99,
+        8
+      ],
+      "comment": "(brass boots)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17600,
+        8,
+        17650
+      ],
+      "comment": "(the Ofcol cityguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17621,
+        99,
+        5
+      ],
+      "comment": "(Brass plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17630,
+        99,
+        16
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17625,
+        99,
+        9
+      ],
+      "comment": "(brass gauntlets)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17600,
+        8,
+        17642
+      ],
+      "comment": "(the Ofcol cityguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17621,
+        99,
+        5
+      ],
+      "comment": "(Brass plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17630,
+        99,
+        16
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17626,
+        99,
+        10
+      ],
+      "comment": "(Brass sleeves)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17600,
+        8,
+        17647
+      ],
+      "comment": "(the Ofcol cityguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17621,
+        99,
+        5
+      ],
+      "comment": "(Brass plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17630,
+        99,
+        16
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17627,
+        99,
+        11
+      ],
+      "comment": "(a brass shield)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17600,
+        8,
+        17667
+      ],
+      "comment": "(the Ofcol cityguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17621,
+        99,
+        5
+      ],
+      "comment": "(Brass plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17630,
+        99,
+        16
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17628,
+        99,
+        13
+      ],
+      "comment": "(a brass girth)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17600,
+        8,
+        17637
+      ],
+      "comment": "(the Ofcol cityguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17621,
+        99,
+        5
+      ],
+      "comment": "(Brass plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17630,
+        99,
+        16
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17629,
+        99,
+        14
+      ],
+      "comment": "(a brass bracer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17601,
+        1,
+        17601
+      ],
+      "comment": "(Marshall Diana)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17639,
+        3,
+        5
+      ],
+      "comment": "(Platinum plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17640,
+        3,
+        6
+      ],
+      "comment": "(the platinum helmet)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17641,
+        3,
+        7
+      ],
+      "comment": "(Platinum leggings)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17642,
+        3,
+        8
+      ],
+      "comment": "(Platinum boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17643,
+        3,
+        9
+      ],
+      "comment": "(Platinum gauntlets)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17644,
+        3,
+        10
+      ],
+      "comment": "(Platinum sleeves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17645,
+        3,
+        11
+      ],
+      "comment": "(The platinum spiked shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17646,
+        3,
+        13
+      ],
+      "comment": "(the platinum girth)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17647,
+        3,
+        16
+      ],
+      "comment": "(Holy Avenger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17602,
+        1,
+        17669
+      ],
+      "comment": "(Captain Derrick)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17631,
+        3,
+        5
+      ],
+      "comment": "(silver plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17653,
+        3,
+        16
+      ],
+      "comment": "(a ranseur)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17632,
+        3,
+        6
+      ],
+      "comment": "(a silver helm)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17633,
+        3,
+        7
+      ],
+      "comment": "(silver leggings)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17634,
+        3,
+        8
+      ],
+      "comment": "(silver boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17635,
+        3,
+        9
+      ],
+      "comment": "(silver gauntlets)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17626,
+        99,
+        10
+      ],
+      "comment": "(Brass sleeves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17627,
+        99,
+        11
+      ],
+      "comment": "(a brass shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17628,
+        99,
+        13
+      ],
+      "comment": "(a brass girth)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17603,
+        1,
+        17699
+      ],
+      "comment": "(Captain Jacklyn)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17631,
+        3,
+        5
+      ],
+      "comment": "(silver plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17653,
+        3,
+        16
+      ],
+      "comment": "(a ranseur)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17632,
+        3,
+        6
+      ],
+      "comment": "(a silver helm)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17623,
+        99,
+        7
+      ],
+      "comment": "(Brass leggings)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17624,
+        99,
+        8
+      ],
+      "comment": "(brass boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17625,
+        99,
+        9
+      ],
+      "comment": "(brass gauntlets)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17636,
+        3,
+        10
+      ],
+      "comment": "(silver sleeves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17637,
+        3,
+        11
+      ],
+      "comment": "(the silver shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17638,
+        3,
+        13
+      ],
+      "comment": "(the silver girth)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17623,
+        3,
+        17699
+      ],
+      "comment": "(the Ofcol cityguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17621,
+        99,
+        5
+      ],
+      "comment": "(Brass plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17630,
+        99,
+        16
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17627,
+        99,
+        11
+      ],
+      "comment": "(a brass shield)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17651,
+        99,
+        -1
+      ],
+      "comment": "(the citadel key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17623,
+        3,
+        17699
+      ],
+      "comment": "(the Ofcol cityguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17621,
+        99,
+        5
+      ],
+      "comment": "(Brass plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17630,
+        99,
+        16
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17627,
+        99,
+        11
+      ],
+      "comment": "(a brass shield)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17651,
+        99,
+        -1
+      ],
+      "comment": "(the citadel key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17623,
+        3,
+        17699
+      ],
+      "comment": "(the Ofcol cityguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17621,
+        99,
+        5
+      ],
+      "comment": "(Brass plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17630,
+        99,
+        16
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17627,
+        99,
+        11
+      ],
+      "comment": "(a brass shield)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17651,
+        99,
+        -1
+      ],
+      "comment": "(the citadel key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17634,
+        3,
+        17698
+      ],
+      "comment": "(the Ofcol cityguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17621,
+        99,
+        5
+      ],
+      "comment": "(Brass plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17630,
+        99,
+        16
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17627,
+        99,
+        11
+      ],
+      "comment": "(a brass shield)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17651,
+        99,
+        -1
+      ],
+      "comment": "(the citadel key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17634,
+        3,
+        17698
+      ],
+      "comment": "(the Ofcol cityguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17621,
+        99,
+        5
+      ],
+      "comment": "(Brass plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17630,
+        99,
+        16
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17627,
+        99,
+        11
+      ],
+      "comment": "(a brass shield)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17651,
+        99,
+        -1
+      ],
+      "comment": "(the citadel key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17634,
+        3,
+        17698
+      ],
+      "comment": "(the Ofcol cityguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17621,
+        99,
+        5
+      ],
+      "comment": "(Brass plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17630,
+        99,
+        16
+      ],
+      "comment": "(a claymore)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17627,
+        99,
+        11
+      ],
+      "comment": "(a brass shield)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17651,
+        99,
+        -1
+      ],
+      "comment": "(the citadel key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17604,
+        1,
+        17603
+      ],
+      "comment": "(Jim the Blacksmith)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17600,
+        99,
+        -1
+      ],
+      "comment": "(a hand axe)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17601,
+        99,
+        -1
+      ],
+      "comment": "(a meat cleaver)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17615,
+        99,
+        -1
+      ],
+      "comment": "(a pitchfork)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17667,
+        99,
+        -1
+      ],
+      "comment": "(a chest)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17605,
+        1,
+        17604
+      ],
+      "comment": "(Sam)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17616,
+        99,
+        -1
+      ],
+      "comment": "(a leather vest)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17617,
+        99,
+        -1
+      ],
+      "comment": "(some leather sleeves)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17618,
+        99,
+        -1
+      ],
+      "comment": "(some leather leggings)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17619,
+        99,
+        -1
+      ],
+      "comment": "(some leather boots)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17606,
+        1,
+        17606
+      ],
+      "comment": "(Madam Tracy)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17606,
+        99,
+        -1
+      ],
+      "comment": "(an emerald ring)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17607,
+        99,
+        -1
+      ],
+      "comment": "(a glass trinket)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17608,
+        99,
+        -1
+      ],
+      "comment": "(a golden necklace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17607,
+        1,
+        17607
+      ],
+      "comment": "(Marty)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17602,
+        99,
+        -1
+      ],
+      "comment": "(a side of beef)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17603,
+        99,
+        -1
+      ],
+      "comment": "(a side of pork)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17604,
+        99,
+        -1
+      ],
+      "comment": "(a side of horse)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17605,
+        99,
+        -1
+      ],
+      "comment": "(a defeathered chicken)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17622,
+        1,
+        17609
+      ],
+      "comment": "(Nyles the Bartender)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17648,
+        99,
+        -1
+      ],
+      "comment": "(a shot of whiskey)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17649,
+        99,
+        -1
+      ],
+      "comment": "(a quart of ale)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17650,
+        99,
+        -1
+      ],
+      "comment": "(a quart of port brew)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17608,
+        1,
+        17610
+      ],
+      "comment": "(Farmer Elizabeth)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17609,
+        99,
+        -1
+      ],
+      "comment": "(a head of cabbage)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17610,
+        99,
+        -1
+      ],
+      "comment": "(a head of lettuce)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17611,
+        99,
+        -1
+      ],
+      "comment": "(a bottle of milk)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17612,
+        99,
+        -1
+      ],
+      "comment": "(an apple)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17613,
+        99,
+        -1
+      ],
+      "comment": "(an ear of corn)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17610,
+        1,
+        17617
+      ],
+      "comment": "(Jack)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17601,
+        99,
+        16
+      ],
+      "comment": "(a meat cleaver)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17611,
+        1,
+        17620
+      ],
+      "comment": "(Farmer Sara)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17615,
+        99,
+        16
+      ],
+      "comment": "(a pitchfork)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        17614,
+        99,
+        17620
+      ],
+      "comment": "(a pile of hay)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        17611,
+        99,
+        17620
+      ],
+      "comment": "(a bottle of milk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17612,
+        4,
+        17619
+      ],
+      "comment": "(a hen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17612,
+        4,
+        17619
+      ],
+      "comment": "(a hen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17612,
+        4,
+        17619
+      ],
+      "comment": "(a hen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17612,
+        4,
+        17619
+      ],
+      "comment": "(a hen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17613,
+        3,
+        17623
+      ],
+      "comment": "(the cow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17613,
+        3,
+        17623
+      ],
+      "comment": "(the cow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17613,
+        3,
+        17623
+      ],
+      "comment": "(the cow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17614,
+        2,
+        17620
+      ],
+      "comment": "(the cow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17614,
+        2,
+        17620
+      ],
+      "comment": "(the cow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17615,
+        4,
+        17622
+      ],
+      "comment": "(the young horse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17615,
+        4,
+        17622
+      ],
+      "comment": "(the young horse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17615,
+        4,
+        17622
+      ],
+      "comment": "(the young horse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17615,
+        4,
+        17622
+      ],
+      "comment": "(the young horse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17616,
+        4,
+        17624
+      ],
+      "comment": "(the pig)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17616,
+        4,
+        17624
+      ],
+      "comment": "(the pig)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17616,
+        4,
+        17624
+      ],
+      "comment": "(the pig)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17616,
+        4,
+        17624
+      ],
+      "comment": "(the pig)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17617,
+        3,
+        17601
+      ],
+      "comment": "(the citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17617,
+        3,
+        17650
+      ],
+      "comment": "(the citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17617,
+        3,
+        17648
+      ],
+      "comment": "(the citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17618,
+        3,
+        17611
+      ],
+      "comment": "(the citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17618,
+        3,
+        17666
+      ],
+      "comment": "(the citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17618,
+        3,
+        17637
+      ],
+      "comment": "(the citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17619,
+        2,
+        17661
+      ],
+      "comment": "(the boy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17619,
+        2,
+        17655
+      ],
+      "comment": "(the boy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17620,
+        2,
+        17635
+      ],
+      "comment": "(the girl)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17620,
+        2,
+        17652
+      ],
+      "comment": "(the girl)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17624,
+        1,
+        17609
+      ],
+      "comment": "(a bard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17621,
+        3,
+        17627
+      ],
+      "comment": "(the maid)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17666,
+        99,
+        16
+      ],
+      "comment": "(a broom)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17665,
+        99,
+        -1
+      ],
+      "comment": "(a house key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17621,
+        3,
+        17629
+      ],
+      "comment": "(the maid)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17666,
+        99,
+        16
+      ],
+      "comment": "(a broom)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17665,
+        99,
+        -1
+      ],
+      "comment": "(a house key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17621,
+        3,
+        17643
+      ],
+      "comment": "(the maid)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17666,
+        99,
+        16
+      ],
+      "comment": "(a broom)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        17665,
+        99,
+        -1
+      ],
+      "comment": "(a house key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17625,
+        2,
+        17674
+      ],
+      "comment": "(a servant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17625,
+        2,
+        17673
+      ],
+      "comment": "(a servant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17626,
+        2,
+        17682
+      ],
+      "comment": "(a squire)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17626,
+        2,
+        17683
+      ],
+      "comment": "(a squire)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17627,
+        1,
+        17678
+      ],
+      "comment": "(a page)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17628,
+        1,
+        17669
+      ],
+      "comment": "(the Priestess of Ofcol)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17664,
+        99,
+        12
+      ],
+      "comment": "(a golden robe)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17652,
+        99,
+        3
+      ],
+      "comment": "(&WThe Holy &rSymbol &Wof &rBahamut&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17631,
+        1,
+        17693
+      ],
+      "comment": "(the Ancient Gold Dragon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17668,
+        10,
+        16
+      ],
+      "comment": "(the Golden Claw)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17663,
+        2,
+        17
+      ],
+      "comment": "(the Gold Dragon Orb)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17632,
+        2,
+        17693
+      ],
+      "comment": "(an attendant of the dragon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17664,
+        10,
+        12
+      ],
+      "comment": "(a golden robe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17632,
+        2,
+        17693
+      ],
+      "comment": "(an attendant of the dragon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17664,
+        10,
+        12
+      ],
+      "comment": "(a golden robe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17633,
+        3,
+        17690
+      ],
+      "comment": "(a Dragonknight)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17654,
+        10,
+        5
+      ],
+      "comment": "(&Ya golden &gd&Gr&ga&Gg&go&Gn&gs&Gc&ga&Gl&ge &Ytorso&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17660,
+        10,
+        11
+      ],
+      "comment": "(&Ya golden &gd&Gr&ga&Gg&go&Gn&gs&Gc&ga&Gl&ge &Yshield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17662,
+        10,
+        16
+      ],
+      "comment": "(the golden claw)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17633,
+        3,
+        17676
+      ],
+      "comment": "(a Dragonknight)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17654,
+        10,
+        5
+      ],
+      "comment": "(&Ya golden &gd&Gr&ga&Gg&go&Gn&gs&Gc&ga&Gl&ge &Ytorso&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17660,
+        10,
+        11
+      ],
+      "comment": "(&Ya golden &gd&Gr&ga&Gg&go&Gn&gs&Gc&ga&Gl&ge &Yshield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17662,
+        10,
+        16
+      ],
+      "comment": "(the golden claw)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        17633,
+        3,
+        17681
+      ],
+      "comment": "(a Dragonknight)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17620,
+        99,
+        1
+      ],
+      "comment": "(an Ofcol signet ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17654,
+        10,
+        5
+      ],
+      "comment": "(&Ya golden &gd&Gr&ga&Gg&go&Gn&gs&Gc&ga&Gl&ge &Ytorso&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17660,
+        10,
+        11
+      ],
+      "comment": "(&Ya golden &gd&Gr&ga&Gg&go&Gn&gs&Gc&ga&Gl&ge &Yshield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        17662,
+        10,
+        16
+      ],
+      "comment": "(the golden claw)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/176.zon"
+}

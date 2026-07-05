@@ -1,0 +1,29 @@
+{
+  "id": 26620,
+  "zone_id": 266,
+  "name": "Talking with other players",
+  "description": "It is important to talk with other players. The can help you\na lot. To see who is playing this mud, type 'who'. To send a message\nto those people, type 'chat TEXT'. E.G.: 'chat this is my fist chat'.\nGo to north(typing n) to continue.",
+  "header_raw": "266 1310720 0",
+  "flags_text": "1310720",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26621
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26619
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/266.wld"
+}

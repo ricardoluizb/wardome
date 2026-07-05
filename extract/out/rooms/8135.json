@@ -1,0 +1,29 @@
+{
+  "id": 8135,
+  "zone_id": 81,
+  "name": "The Stone Hallway",
+  "description": "The walls are carved from limestone, and drip water, so this cave is \nalways very damp, and very cold.",
+  "header_raw": "81 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The walls are just as damp to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8134
+    },
+    {
+      "dir": 3,
+      "description": "The walls are just as damp to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8136
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

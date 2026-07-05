@@ -1,0 +1,46 @@
+{
+  "id": 14249,
+  "zone_id": 141,
+  "name": "The Shrine of Spirituality",
+  "description": "In this room a huge ankh sits on a pedestal.  The Shrine is the\nsource of all magical power.  The Timelord himself lives here. \nThere is a moongate here also.  And last of all there is a huge\nengraving taking up the west wall.",
+  "header_raw": "141 68 2",
+  "flags_text": "68",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You peer into the blackness, and hear shrieks and sounds totally\ninhuman.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14254
+    },
+    {
+      "dir": 2,
+      "description": "Peace infuses your body.  The graveyard is a solemn and sobering\nplace.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14257
+    },
+    {
+      "dir": 4,
+      "description": "Through the moongate you see a castle.",
+      "keywords": "moongate",
+      "door_flag": 1,
+      "key": 14115,
+      "to": 14262
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "ankh",
+      "description": "Through your entire journey you have not understood the real\nsymbol of the ankh.  Its true beauty only realizes itself to you\nnow.  This knowledge transcends all that come before."
+    },
+    {
+      "keywords": "engraving",
+      "description": "Pilgrim,\n     You have reached the final step on your way to enlightenment. \nIn this last step you will be shown ultimate evil to your north,\nand ultimate food to your south.  This is the land of the undead.\n\nBoth those whose goodness links them to the land, and those whose\nevilness was rejected dead are here.  To have true spirituality\none must know both.  Once you have been strengthened and forge\nthrough the evil, there is one final test before you prove\nyourself equal to the Avatar himself.  You must endure the test\nof time."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

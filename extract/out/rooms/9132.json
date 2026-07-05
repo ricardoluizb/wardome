@@ -1,0 +1,37 @@
+{
+  "id": 9132,
+  "zone_id": 91,
+  "name": "Bashful little cloud.",
+  "description": "This cloud blushes and tries to avoid your glance as you look at\nyour surroundings.  You decide that overall it is a peaceful little\ncloud.",
+  "header_raw": "91 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The cloud to the north sneezes!",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9133
+    },
+    {
+      "dir": 2,
+      "description": "A sleepy little cloud to the south yawns and rolls over.  You hear\nsnoring.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9129
+    },
+    {
+      "dir": 3,
+      "description": "An isolated little raincloud.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9142
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

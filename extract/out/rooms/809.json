@@ -1,0 +1,21 @@
+{
+  "id": 809,
+  "zone_id": 7,
+  "name": "Passageway",
+  "description": "The door behind you melds into the stone walls without a trace.\nWhomever wasted the magical energies to these doors certainly had\nflair, if not a sense of humor.\n   The passage continues southward.",
+  "header_raw": "7 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 810
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

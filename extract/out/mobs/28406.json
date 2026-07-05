@@ -1,0 +1,12 @@
+{
+  "id": 28406,
+  "alias": "octopus",
+  "short_desc": "giant octopus",
+  "long_desc": "a Giant Octopus is comming to hold you.",
+  "detailed_desc": "It has 8 tentacles that end in cruel suckers and vicius barbs.\nAs you look at it you see that it has no other thoughts than just to kill\nyou an eat you raw.",
+  "flags_raw": "8388616 0 0 E",
+  "stats1_raw": "100 -30 -5 1d1+2796 5d11+40",
+  "stats2_raw": "1500 2916487 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/284.mob"
+}

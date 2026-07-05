@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "The Passage",
   "description": "You are in a passage, that leads north and south. To the east there\nis an exit to the Great Hall.",
-  "header_raw": "150 d 0",
-  "flags_text": "d",
+  "header_raw": "150 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

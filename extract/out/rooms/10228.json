@@ -1,0 +1,29 @@
+{
+  "id": 10228,
+  "zone_id": 102,
+  "name": "The Chancellor's Room",
+  "description": "Entering the dark chancellor's room you lite it with your torch.\nIt seems to be a quite common room, except for the large ammount of\npapers thrown by the desk, and the huge amount of ocultism books spread\nout by his bed. This guy must be really strange.",
+  "header_raw": "102 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10227
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10247
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

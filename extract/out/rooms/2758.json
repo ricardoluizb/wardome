@@ -1,0 +1,37 @@
+{
+  "id": 2758,
+  "zone_id": 27,
+  "name": "A large room",
+  "description": "The most dominant feature of this room is the large rectangular table in the\nmiddle of the room, surrounded by a dozen chairs.  This room was apparently\ndecorated in expectance of a large number of guests.  There is a fireplace on\nthe western wall, made with deep red bricks.  A few simple decorations sit on\ntop of the mantle, but do little to distract any visitors.  There is a sign\nupon the northern wall, beside a doorway.  There are doors to both the west and\neast, set near the northern wall.",
+  "header_raw": "27 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2760
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2757
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2759
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

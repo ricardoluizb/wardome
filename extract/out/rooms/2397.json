@@ -1,0 +1,46 @@
+{
+  "id": 2397,
+  "zone_id": 23,
+  "name": "The end of the guarded hall",
+  "description": "You are at the end of the hall. Colored doors line the walls to the north. To\nyour west, you see a &Ggreen&n door. To your east, you see a &Ccyan&n door. The hall\nitself leads north back along the rows of doors.",
+  "header_raw": "23 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2392
+    },
+    {
+      "dir": 1,
+      "description": "You see a &Ccyan&n door there.",
+      "keywords": "door cyan",
+      "door_flag": 2,
+      "key": 2358,
+      "to": 2398
+    },
+    {
+      "dir": 3,
+      "description": "You see a &Ggreen&n door there.",
+      "keywords": "door green",
+      "door_flag": 2,
+      "key": 2357,
+      "to": 2399
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "brown",
+      "description": "You see a brown door here. It has the name \"Belrak\" written on it."
+    },
+    {
+      "keywords": "grey",
+      "description": "You see a grey door here. It has the name \"Dorgar\" written on it."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

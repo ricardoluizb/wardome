@@ -1,12 +1,12 @@
 {
   "id": 1509,
   "alias": "caliph hakim al-hakim",
-  "short_desc": "al-Hakim",
+  "short_desc": "Al-Hakim",
   "long_desc": "The mad Caliph al-Hakim is here, dissecting a young boy.",
   "detailed_desc": "The darkest skin, and eyes so white.  Covered only in a shoddy woolen\ntunic, he has not bathed in months nor eaten in days, and yet his smile,\nso charming.",
-  "flags_raw": "bf dk -1000 S",
-  "stats1_raw": "26 -4 -5 4d10+840 4d9+6",
-  "stats2_raw": "34000 180000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "42 1032 -1000 E",
+  "stats1_raw": "164 -74 -23 1d1+12456 5d33+124",
+  "stats2_raw": "2460 16191047 6",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/15.mob"
 }

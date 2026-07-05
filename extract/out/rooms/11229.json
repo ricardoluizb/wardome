@@ -1,0 +1,21 @@
+{
+  "id": 11229,
+  "zone_id": 112,
+  "name": "The Old Tailor Shop",
+  "description": "The interior of this boarded up structure is filled with smashed\nfurniture and long strips of torn cloth, covered in blood stains.\nThe walls and floors are covered in deep gouges, as if someone had gone\nspare with a knife, hacking and stabbing wildly. Once a tailor shop,\nit used to be an inn before that, until the owner went broke and sold it\nto its current occupant (who was at the time a little healthier).",
+  "header_raw": "112 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11228
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

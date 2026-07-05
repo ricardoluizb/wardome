@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Study",
   "description": "You are in a small, well kept study.  Ancient tomes are on shelves\non the walls, A huge table sits in the middle of the room, with maps\nweighted down upon it.  The only light source here comes from an\ninterestingly non-magical oil lamp.\n   The only apparent exit leads back west to the hallway.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

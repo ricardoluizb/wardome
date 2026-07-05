@@ -3,8 +3,8 @@
   "zone_id": 186,
   "name": "A Large Room",
   "description": "As you enter, you light glints of the wall to the east.  There appears\nto be words scrawled on the wall, and a crude picture.  To the west the\nroom extends beyond the reach of your light, and the dark shadows make you\nparanoid... anything could be hiding there.  You are painfully aware of\nhow exposed you are without walls around you.",
-  "header_raw": "186 ad 0",
-  "flags_text": "ad",
+  "header_raw": "186 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {
@@ -26,12 +26,12 @@
   ],
   "extra_descriptions": [
     {
-      "keywords": "writing words",
-      "description": "The writing appears to says 'beware the Minotaur...'"
-    },
-    {
       "keywords": "wall",
       "description": "There is a crude picture of a man with the head of a bull with some writing\nnext to it."
+    },
+    {
+      "keywords": "writing words",
+      "description": "The writing appears to says 'beware the Minotaur...'"
     }
   ],
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/186.wld"

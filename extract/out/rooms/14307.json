@@ -1,0 +1,21 @@
+{
+  "id": 14307,
+  "zone_id": 143,
+  "name": "Guard House",
+  "description": "Some gate guards are here gambling with dice. The room is sparsely furnished.",
+  "header_raw": "143 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You can see the gate from here.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14306
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

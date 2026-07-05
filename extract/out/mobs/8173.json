@@ -1,0 +1,12 @@
+{
+  "id": 8173,
+  "alias": "ogre guard Thrash",
+  "short_desc": "Thrash the Ogre",
+  "long_desc": "Thrash the Ogre Mercenary guards the Great Goblin.",
+  "detailed_desc": "You are sure you have seen Thrash before, somewhere.  Maybe he was\nin the Grunting Boar the other day with Pippin. Anyway, the Great \nGoblin has hired him as a bodyguard.",
+  "flags_raw": "6254 1032 -900 E",
+  "stats1_raw": "170 -87 -32 1d1+19716 5d52+178",
+  "stats2_raw": "2550 23592315 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

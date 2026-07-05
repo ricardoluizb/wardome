@@ -1,0 +1,12 @@
+{
+  "id": 8110,
+  "alias": "kelek guard captain",
+  "short_desc": "Sir Kelek",
+  "long_desc": "Passing guards raise their visors in salute to Sir Kelek, their captain.",
+  "detailed_desc": "He did not reach this rank by staying close by the Newbie Zone.",
+  "flags_raw": "14618 0 700 E",
+  "stats1_raw": "165 -84 -31 1d1+19140 5d49+176",
+  "stats2_raw": "2475 21629734 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

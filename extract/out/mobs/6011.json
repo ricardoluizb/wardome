@@ -4,9 +4,9 @@
   "short_desc": "the sleepy badger",
   "long_desc": "A furry brown badger is curled up under a log here.",
   "detailed_desc": "The badger is slowly awakening and peering up at you from its burrow. You\nknow that it won't be moving this slow for long.  Its sharp claws and teeth\ncatch your attention when you consider killing it.",
-  "flags_raw": "b t 50 S",
-  "stats1_raw": "4 17 5 1d5+48 2d3+2",
-  "stats2_raw": "0 650",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "10 524288 50 E",
+  "stats1_raw": "4 18 9 1d1+81 5d1+0",
+  "stats2_raw": "60 1089 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/60.mob"
 }

@@ -1,0 +1,21 @@
+{
+  "id": 14277,
+  "zone_id": 141,
+  "name": "The Enlightenment",
+  "description": "A voice booms out, \"You are now eight part enlightened.  To truly\nbecome an Avatar though you must experience what he has\nexperienced.  Go through the time warp and fight his enemies. \nBeware only High Mortals should attempt this challenge.\"",
+  "header_raw": "141 64 0",
+  "flags_text": "64",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "The Time Warp changes space, and fluxes its surroundings.",
+      "keywords": "warp",
+      "door_flag": 2,
+      "key": 14116,
+      "to": 14278
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

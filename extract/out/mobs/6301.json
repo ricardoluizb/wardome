@@ -4,9 +4,9 @@
   "short_desc": "the young spider",
   "long_desc": "The young spider is ballooning by you.",
   "detailed_desc": "He looks freshly hatched and sprightly.  His young fangs are just\ngrowing in as of late.",
-  "flags_raw": "cg dk 0 S",
-  "stats1_raw": "3 18 7 1d12+40 1d7+0",
-  "stats2_raw": "80 350",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "76 1032 0 E",
+  "stats1_raw": "103 -31 -5 1d1+2880 5d11+40",
+  "stats2_raw": "1545 3173542 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/63.mob"
 }

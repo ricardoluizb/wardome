@@ -1,0 +1,29 @@
+{
+  "id": 9607,
+  "zone_id": 96,
+  "name": "Snake nest",
+  "description": "You are already walking at hours when begins to notice many bones for the\nground, some bones are many big with more than 5 meters",
+  "header_raw": "96 257 0",
+  "flags_text": "257",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "secret passage",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9614
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9606
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/96.wld"
+}

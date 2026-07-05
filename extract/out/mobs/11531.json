@@ -1,0 +1,12 @@
+{
+  "id": 11531,
+  "alias": "orc blocker raider",
+  "short_desc": "the Orc blocker",
+  "long_desc": "A Raiders' blocker is trying to pave an open pathway.",
+  "detailed_desc": "This is the slowest (both physically AND mentally) of the bloodbowl players.\nHowever, he is also very large and powerful, so be careful when tangling with\nhim.",
+  "flags_raw": "2058 1024 -200 E",
+  "stats1_raw": "35 -1 1 1d1+1536 5d4+34",
+  "stats2_raw": "525 195924 2",
+  "stats3_raw": "8 8 1 3 5",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

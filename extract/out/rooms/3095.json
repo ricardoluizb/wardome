@@ -1,0 +1,21 @@
+{
+  "id": 3095,
+  "zone_id": 30,
+  "name": "Black monster's lair",
+  "description": "This is the black monster's lair. The black monster is the one\nwho attacked midggard and transformed it in a undead city.\nYou will have to kill him to free the city....but it is said\nthat he is invincible.",
+  "header_raw": "30 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3052
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/30.wld"
+}

@@ -2,9 +2,9 @@
   "id": 5250,
   "zone_id": 52,
   "name": "The Temple Of Thalos",
-  "description": "You stand within one of the most holy places in the realm.  This\nstunning domed temple once housed the city's worshipers en masse.  \nUnfortunately, it succumbed to the destruction brought on this city.\nLong benches lie toppled and the altar desecrated.  Large chunks of stone\nhave fallen from the walls and roof, sending sunlight streaming in on\nyou.  A few books lie about, conveying to you a holy message in a\nstrange tongue.  \n     Wind gusts through the four archways and howls and screams can be\nheard from all parts of the city.",
-  "header_raw": "52 cdh 1",
-  "flags_text": "cdh",
+  "description": "You stand within one of the most holy places in the realm.  This\nstunning domed temple once housed the city's worshipers en masse.  \nUnfortunately, it succumbed to the destruction brought on this city.\nLong benches lie toppled and the altar desecrated.  Large chunks of stone\nhave fallen from the walls and roof, sending sunlight streaming in on\nyou.  A few books lie about, conveying to you a holy message in a\nstrange tongue.  \n     Wind gusts through the four archways and howls and screams can be\nheard from all parts of the city.\n    Looking up, you can see many shelfs, its looks like a library.",
+  "header_raw": "52 12 1",
+  "flags_text": "12",
   "sector": 1,
   "exits": [
     {
@@ -38,6 +38,14 @@
       "door_flag": 0,
       "key": -1,
       "to": 5205
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3900
     }
   ],
   "extra_descriptions": [],

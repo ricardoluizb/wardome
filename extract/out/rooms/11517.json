@@ -1,0 +1,29 @@
+{
+  "id": 11517,
+  "zone_id": 115,
+  "name": "The Weapons Shop",
+  "description": "The Weapons Shop is self-explanatory -- this is a place to buy and sell\nweapons (what else would you expect?  ).  The Warriors' Guild is to the east\nand Broadway is to the west.",
+  "header_raw": "115 144 1",
+  "flags_text": "144",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11523
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11511
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

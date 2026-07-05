@@ -1,0 +1,26 @@
+{
+  "id": 775,
+  "zone_id": 7,
+  "name": "Shrine to the Emperor",
+  "description": "This is a very historical spot for the people of Kerofk, where the\nwizard Rand entered this realm through the 'dimension portal' he made,\nand later went on to found this city. A giant slab of earth lies\ntoppled over here, a strange eye-shaped stone embedded in it pointing\nat the sky.  A strange thrum of power in the background raises your\nhackles...remnants and echoes of Rand's power, evidently.",
+  "header_raw": "7 12 0",
+  "flags_text": "12",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 722
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "stone eye shaped eye-shaped",
+      "description": "Now that you examine it closer, it really does seem to be a carved\nstone eye, worn smooth by time and the elements.  It feels strangely\nwarm to the touch, and you feel a tingling as you pass your hand above\nit..."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

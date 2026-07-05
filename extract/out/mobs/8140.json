@@ -1,0 +1,12 @@
+{
+  "id": 8140,
+  "alias": "goblin",
+  "short_desc": "the goblin",
+  "long_desc": "A goblin gnaws a bone here.",
+  "detailed_desc": "That bone looks very tasty, but he probably won't share it.",
+  "flags_raw": "6248 1024 -250 E",
+  "stats1_raw": "153 -78 -29 1d1+17748 5d46+170",
+  "stats2_raw": "2295 17369806 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

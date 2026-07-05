@@ -1,0 +1,12 @@
+{
+  "id": 14382,
+  "zone_id": 143,
+  "name": "Collapsing Floor",
+  "description": "As you enter this room, the floor crumbles under your feet, causing you\nto commence a 150 foot drop into an underground lava flow.  \nYou are dead...sorry.",
+  "header_raw": "143 10 1",
+  "flags_text": "10",
+  "sector": 1,
+  "exits": [],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

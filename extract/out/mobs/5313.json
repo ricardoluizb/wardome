@@ -4,9 +4,9 @@
   "short_desc": "the gynosphinx",
   "long_desc": "A gynosphinx sits here, befuddled by a riddle.",
   "detailed_desc": "The gynosphinx is a crafty but gentle creature, having the body of a\nbeautiful dark-skinned woman from the waist up, a feathery set of wings\nand the hind legs of a mighty cat.  Right now she is confused, having \njust heard a puzzling riddle from a cousin criosphinx.",
-  "flags_raw": "abelnoq dkp 100 S",
-  "stats1_raw": "19 1 0 19d19+190 2d10+10",
-  "stats2_raw": "10000 35000",
-  "stats3_raw": "8 8 2",
+  "flags_raw": "92187 33800 100 E",
+  "stats1_raw": "119 -39 -7 1d1+3324 5d12+46",
+  "stats2_raw": "1785 4801761 0",
+  "stats3_raw": "8 8 2 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/53.mob"
 }

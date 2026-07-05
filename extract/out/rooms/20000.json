@@ -1,0 +1,50 @@
+{
+  "id": 20000,
+  "zone_id": 200,
+  "name": "Outside the Wayhouse",
+  "description": "You are outside a large, two-story building which proports to be 'Werith's\nWayhouse' on a brightly lettered sign out front.  You hear laughing and revelry\nfrom inside -- sounds like a lively place.  The main doors are directly south\nof you, and small paths lead east and west around the building.  Eastward is\nanother smaller building obviously a stable.  Northward is the main road,\nproviding all the traffic and customers for this establishment.",
+  "header_raw": "200 16777224 1",
+  "flags_text": "16777224",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20007
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": 0,
+      "to": 20015
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20001
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 12200
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "it says,\"WERITH'S WAYHOUSE\""
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/200.wld"
+}

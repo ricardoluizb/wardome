@@ -1,0 +1,29 @@
+{
+  "id": 2004,
+  "zone_id": 20,
+  "name": "Stairwell",
+  "description": "-An enormous stairwell looms before you....You gaze up the winding stairs\nto see the light of the moon shining through the stain glass windows...The\nlight fills the stairwell with dark and mysterious pattrens, giving you a\nsense of someone watching from the shadows....",
+  "header_raw": "20 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2006
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2001
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

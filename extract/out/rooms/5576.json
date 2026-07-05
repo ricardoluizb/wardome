@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "A Guest Room",
   "description": "This is a simple room used for visiting nobles.  A small dresser stands\non the east wall with a mirror hung right above it.  A queen sized bed made\nup in satin sheets stands in the middle of the room against the south\nwall under a window.  The only obvious exit is north back out into the \nhallway.",
-  "header_raw": "54 d 0",
-  "flags_text": "d",
+  "header_raw": "54 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

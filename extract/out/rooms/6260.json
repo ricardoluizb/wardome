@@ -3,8 +3,8 @@
   "zone_id": 62,
   "name": "The Laboratory",
   "description": "Another table is set up will all sorts of alchemical \napparatus here, vials and beakers, distillation equipment \nand et cetera.  The stuff looks expensive, but bulky and \nfragile; not good treasure to cart away with you at all.",
-  "header_raw": "62 d 0",
-  "flags_text": "d",
+  "header_raw": "62 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

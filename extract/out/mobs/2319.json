@@ -1,0 +1,12 @@
+{
+  "id": 2319,
+  "alias": "oldstyle minotaur high guard",
+  "short_desc": "the High Minotaur Guard",
+  "long_desc": "The minotaur high guard is here guarding the Keep.",
+  "detailed_desc": "The high guard is dressed in blue plate armour. He looks quite dangerous and\nskilled.",
+  "flags_raw": "110 8 -330 E",
+  "stats1_raw": "200 -84 -23 1d1+8796 5d21+100",
+  "stats2_raw": "3000 26655827 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/23.mob"
+}

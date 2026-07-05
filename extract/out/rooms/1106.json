@@ -1,0 +1,53 @@
+{
+  "id": 1106,
+  "zone_id": 11,
+  "name": "Bywater Road",
+  "description": "You stand on Bywater Road, the busiest street in all of Shiredom.  The road\ncontinues to the east and west.  To the north, steps lead to a friendly looking\nweaponry/armory while a nursery lies to the south.",
+  "header_raw": "11 8192 1",
+  "flags_text": "8192",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Steps lead to a friendly looking weaponry and armory.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1186
+    },
+    {
+      "dir": 1,
+      "description": "To the east runs Bywater Road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1109
+    },
+    {
+      "dir": 2,
+      "description": "To the south lies Kid'n Keep, the local nursery.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1187
+    },
+    {
+      "dir": 3,
+      "description": "To the west runs Bywater Road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1104
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1198
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

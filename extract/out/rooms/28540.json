@@ -1,0 +1,26 @@
+{
+  "id": 28540,
+  "zone_id": 285,
+  "name": "Atlantis Avatar Sanctum",
+  "description": "You enter a temple of sorts. A small altar is here and relics of many\nreligions lie around. It is evident that this is the room of a studying \ncleric.  A holy door leads west.",
+  "header_raw": "285 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "holy",
+      "door_flag": 2,
+      "key": 28506,
+      "to": 28528
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "holy",
+      "description": "It looks like it leads back to the hall."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/285.wld"
+}

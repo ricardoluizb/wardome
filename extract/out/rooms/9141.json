@@ -1,0 +1,34 @@
+{
+  "id": 9141,
+  "zone_id": 91,
+  "name": "Witches Tower",
+  "description": "Here you see strange things of arcane value.  There is a cauldron in the\ncorner bubbling madly, belching a foul brew that must have come from hell.\nOn shelves lie jars of strange creatures you have never seen before, or\nhope to again.  A picture of a familiar temple hangs on the east wall.",
+  "header_raw": "91 13 0",
+  "flags_text": "13",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "picture",
+      "door_flag": 1,
+      "key": -1,
+      "to": -1
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9140
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "picture",
+      "description": "The picture is in on the east wall.  It is very complex in detail, and you\nalmost see people walking around the temple in the picture."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

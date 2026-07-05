@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Entrance To The Dancing Daemon Inn",
   "description": "You find yourself in an entrance foyer to the Dancing Daemon Inn.\nChrome plated stairs spiral up to the reception area.  To the south\nyou hear the sounds of merriment and drinking and from the west you\nhear the bustling activity of New Thalos.",
-  "header_raw": "54 d 0",
-  "flags_text": "d",
+  "header_raw": "54 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

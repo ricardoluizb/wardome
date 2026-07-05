@@ -1,0 +1,12 @@
+{
+  "id": 11573,
+  "alias": "guildmaster master",
+  "short_desc": "the Guildmaster",
+  "long_desc": "The Thieves' Guildmaster is standing here.",
+  "detailed_desc": "You realize that whenever your Guildmaster moves, you fail to notice it -\nthe way of the true thief.  She is to be dressed in poor clothing, having the\nappearance of a beggar.",
+  "flags_raw": "2058 1024 0 E",
+  "stats1_raw": "55 -11 -1 1d1+2412 5d6+42",
+  "stats2_raw": "825 668262 2",
+  "stats3_raw": "8 8 1 2 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

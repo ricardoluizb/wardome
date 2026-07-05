@@ -1,0 +1,12 @@
+{
+  "id": 10456,
+  "alias": "oldstyle stomach dragon",
+  "short_desc": "stomach dragon",
+  "long_desc": "A stomach dragon is here, digesting Big Mouth's food.",
+  "detailed_desc": "A large, brown-and-green, slime-covered reptile, its function seems to be\nto move to each food item and barf acid all over it.",
+  "flags_raw": "520234 1064 -800 E",
+  "stats1_raw": "130 -47 -11 1d1+4680 5d14+62",
+  "stats2_raw": "1950 7522225 1",
+  "stats3_raw": "8 8 0 10 11",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/104.mob"
+}

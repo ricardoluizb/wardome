@@ -1,0 +1,42 @@
+{
+  "id": 13500,
+  "zone_id": 135,
+  "name": "A Wild Valley",
+  "description": "You move slowly through the green vines and thick undergrowth that cover the\nvalley floor.  It would appear that not many have come here in ages.  To the\nwest, the land rises to leave the valley.  To the east the vegetation clears to\ngive way to a strange uprising of stone.  Up you will enter in the necromancers\ntest area.",
+  "header_raw": "135 4 4",
+  "flags_text": "4",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The uprising looks like some huge beast set to pounce.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13501
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13557
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "grate",
+      "door_flag": 1,
+      "key": 0,
+      "to": 3700
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "uprising stone",
+      "description": "The uprising looks like some huge beast set to pounce."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

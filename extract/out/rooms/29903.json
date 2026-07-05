@@ -1,0 +1,37 @@
+{
+  "id": 29903,
+  "zone_id": 298,
+  "name": "A bustling shopping street",
+  "description": "You are standing on a platform above the ground that serves as one of the main\nstreets in Caras Galadon.  People stream by you on both sides, but not many\nseem to be stopping at all.  No one seems eager to spend money on the sorts of\nitems sold along this street in the middle of a siege!  To the south a flet\nthat used to be a furniture store is closed, and an apparently abandoned music\nstore is to the north.",
+  "header_raw": "298 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29904
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29902
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29905
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

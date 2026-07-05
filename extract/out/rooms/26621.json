@@ -1,0 +1,29 @@
+{
+  "id": 26621,
+  "zone_id": 266,
+  "name": "Eating and drinking",
+  "description": "It is good to keep your good healthy. To eat, just type 'eat food'. You\nhave a bread in your inventary, so, type 'eat bread' to eat it. To\ndrink, just type 'drink containner'. You have a bottle, so, type drink\nbottle.\nDo not worry, you neve die of lack of food or drinking in this mud, but it\nis good to keep good healty to improve the stamina of your player.\nType 'n' to continue.",
+  "header_raw": "266 1310720 0",
+  "flags_text": "1310720",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26622
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26620
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/266.wld"
+}

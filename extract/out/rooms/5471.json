@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "Alley",
   "description": "You are in a tiny ally between the temple and the bank.  You hear\nsome shouting and general roadwork to the south.  The ground is rough\nand in need of repair.  In the road is a small pothole.",
-  "header_raw": "54 ac 1",
-  "flags_text": "ac",
+  "header_raw": "54 5 1",
+  "flags_text": "5",
   "sector": 1,
   "exits": [
     {

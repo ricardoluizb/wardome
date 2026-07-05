@@ -1,0 +1,21 @@
+{
+  "id": 6918,
+  "zone_id": 69,
+  "name": "The Slow-Death Room",
+  "description": "All of a sudden, you walk into a room with no torches or any light source,\nand are surrounded in darkness.  You turn only to realize that the exit has\ndisappeared behind you.  You are trapped inside this room now.  This room must\nbe used to kill prisoners slowly, as you see a pair of evil-looking yellow eyes\nstaring at you...",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "secret escape",
+      "door_flag": 1,
+      "key": 6903,
+      "to": 6929
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

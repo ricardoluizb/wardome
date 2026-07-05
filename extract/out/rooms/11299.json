@@ -1,0 +1,21 @@
+{
+  "id": 11299,
+  "zone_id": 112,
+  "name": "The Root of all Evil",
+  "description": "At last! A grim smile of triumph twists your battle weary face as you\nstride boldly into the lair of the evil behind the madness that has taken\nahold of Hochenyana. For it is here, in this bare, unremarkable chamber,\nthat the foul tyrant plots his diabolical schemes, and came extremely\nclose to subjugating half the empire! Now you have arrived to thwart his\nevil schemes! A surge of elation courses through your veins and you grip\nyour weapon firmly.",
+  "header_raw": "112 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11298
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

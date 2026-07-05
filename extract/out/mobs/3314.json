@@ -4,9 +4,9 @@
   "short_desc": "a bartender",
   "long_desc": "A bartender washes a glass idly here.",
   "detailed_desc": "He nods, smiles, and asks you what you would like to drink.\nAs you decide, he slowly polishes a glass with an old bar\nrag.  The glass is completely clean, but he polishes it anyway.\nGo figure.",
-  "flags_raw": "b 0 200 S",
-  "stats1_raw": "15 6 10 3d5+180 2d8+2",
-  "stats2_raw": "10000 21000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "24586 0 200 E",
+  "stats1_raw": "200 -86 -24 1d1+10392 5d21+110",
+  "stats2_raw": "3000 27072324 3",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/33.mob"
 }

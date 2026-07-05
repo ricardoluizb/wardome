@@ -1,0 +1,26 @@
+{
+  "id": 28538,
+  "zone_id": 285,
+  "name": "Atlantis Master of Gladiator",
+  "description": "This room is dirty and unkempt. Odds and ends of different items lie all \nover. It is apparent that some type of pack-rat lives here. It appears as \nthough nothing has ever entered this room and ever left again. A arena door \nleads west.",
+  "header_raw": "285 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "arena",
+      "door_flag": 2,
+      "key": 28509,
+      "to": 28537
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "arena",
+      "description": "It looks like it leads back to the hall."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/285.wld"
+}

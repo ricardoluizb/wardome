@@ -1,0 +1,21 @@
+{
+  "id": 2029,
+  "zone_id": 20,
+  "name": "South Tower",
+  "description": "As you enter my tower, you are greeted by the warm glow of a fire in the\nfireplace.  The east is adorned with bookcases, filled with books both old\nand new.  The north has a rather quaint, and cozy sofa, with a small\nrefrigerator on the side.  The west is also adorned, not with bookcases, but with my coat of arms, and my fabulous sword collection.  The south, where you\nentered, has a door leading to the spirial staircase that lead you to the\ntower.  In the center of the room, there is a round table with 6 chairs around\nit, in the center of the table, there are fresh roses in a vase.  As you\nenter, I look up from my desk in the northwestern part of the tower, put\ndown my quill pen, and properly greet you into the tower.",
+  "header_raw": "20 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2027
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

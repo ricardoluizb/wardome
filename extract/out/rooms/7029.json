@@ -3,8 +3,8 @@
   "zone_id": 70,
   "name": "The Triple Junction",
   "description": "You stand in the middle of a huge junction of concrete sewer pipes.  The \npipes lead into three different directions: east, south and west.",
-  "header_raw": "70 ad 1",
-  "flags_text": "ad",
+  "header_raw": "70 9 1",
+  "flags_text": "9",
   "sector": 1,
   "exits": [
     {

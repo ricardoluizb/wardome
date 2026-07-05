@@ -3,8 +3,8 @@
   "zone_id": 31,
   "name": "The Park Entrance",
   "description": "You are standing just inside the small park of Midgaard.  To the north is\nthe promenade and a small path leads south into the park.  To your east is\nthe famous Park Cafe.",
-  "header_raw": "31 c 1",
-  "flags_text": "c",
+  "header_raw": "31 4 1",
+  "flags_text": "4",
   "sector": 1,
   "exits": [
     {

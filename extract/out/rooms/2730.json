@@ -1,0 +1,21 @@
+{
+  "id": 2730,
+  "zone_id": 27,
+  "name": "Took's House",
+  "description": "Took's home.  The home of Took.  You have heard stories about this guy.  The\nother hobbits say he is big and strong and some people say he knows his way\naround magic.  You can see a desk here, all covered with papers.  There seems\nto be some magic words but you can't understand them.  A stone path lies to the\nnorth.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 2730,
+      "to": 2729
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

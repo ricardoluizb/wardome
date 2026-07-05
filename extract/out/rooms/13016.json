@@ -1,0 +1,26 @@
+{
+  "id": 13016,
+  "zone_id": 130,
+  "name": "Gypsy's Place",
+  "description": "You enter in a strange house, each wall with a diferent color.\nThere is a table with a crystal ball and two chairs.\nYou see a board with a picture of Madonna, totaly undressed.",
+  "header_raw": "130 132 0",
+  "flags_text": "132",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13014
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "ball crystal",
+      "description": "You look at the crystall ball and see...... NOTHING!!!!\nWhat do you want?! See the future.. Hey, Give me a break!!!\nOnly a stupid one like you to think something like that!!!!"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

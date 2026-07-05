@@ -1,0 +1,37 @@
+{
+  "id": 840,
+  "zone_id": 7,
+  "name": "Near a City",
+  "description": "There is small gate to your east where guards let farmers into and\nout of the city with their produce.  The walls seem indestructible,\nbut scorch marks along its length tell a different story...",
+  "header_raw": "7 8 2",
+  "flags_text": "8",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9801
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 776
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 839
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

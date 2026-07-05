@@ -1,0 +1,21 @@
+{
+  "id": 3816,
+  "zone_id": 38,
+  "name": "A Storage Room",
+  "description": "You are in a storage room.  \"Food\" and some useless tools are scattered all\nover the floor, but they sure don't look like anything you'd dare get near!\nThe exit is to the west.",
+  "header_raw": "38 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3811
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

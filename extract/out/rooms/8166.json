@@ -1,0 +1,21 @@
+{
+  "id": 8166,
+  "zone_id": 81,
+  "name": "A Barracks Room",
+  "description": "The room might suit goblins, but you would never sleep here, unless \npressed by dire need.  Even then, it would be miserable.  Here\nweapons and battered armor lie discarded, but you could use little\nof it.",
+  "header_raw": "81 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "There is a bronze door to the south.",
+      "keywords": "door bronze",
+      "door_flag": 1,
+      "key": 8100,
+      "to": 8165
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

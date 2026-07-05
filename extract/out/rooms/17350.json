@@ -1,0 +1,34 @@
+{
+  "id": 17350,
+  "zone_id": 173,
+  "name": "Squire's Run",
+  "description": "You stand on Squire's Run. Squires bustle up and down the road on various \nerrands for their lords. You notice a scroll lying on the ground. Squire's\nRun contines east and west.",
+  "header_raw": "173 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Squire's Run",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17355
+    },
+    {
+      "dir": 3,
+      "description": "Corner of Knight's Way and Squire's Run",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17345
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "scroll",
+      "description": "You look at the scroll. It is torn and badly smeared. You can make out:\n\n  .... I wandered through the Forest of Blackmoor, lost and without hope, \n  until I found a hut. I looked through the window and there stood the  \n  Grail on a table. A beautiful woman beckoned to me, and at that moment \n  my mount spooked, racing into the forest....."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 9901,
+  "alias": "ghenna barrow wight",
+  "short_desc": "the barrow wight",
+  "long_desc": "A twisted pile of cloth and bones lies here.",
+  "detailed_desc": "You see an undead being whose sole purpose is to protect its barrow\nmound.  Flesh hangs from its wretched body, and it looks more dead\nthan alive.",
+  "flags_raw": "124938 263208 0 E",
+  "stats1_raw": "10 13 7 1d1+360 5d2+14",
+  "stats2_raw": "150 8653 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/99.mob"
+}

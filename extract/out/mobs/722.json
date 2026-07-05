@@ -1,0 +1,12 @@
+{
+  "id": 722,
+  "alias": "prisoner",
+  "short_desc": "the Prisoner",
+  "long_desc": "A prisoner here has given up all hopes of escape.",
+  "detailed_desc": "The prisoner looks up at you weakly and mumbles, \n'I am not a number!'  He gasps and looks dejected again.",
+  "flags_raw": "10 128 -500 E",
+  "stats1_raw": "90 -35 -11 1d1+6120 5d19+86",
+  "stats2_raw": "1350 2808292 5",
+  "stats3_raw": "6 6 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

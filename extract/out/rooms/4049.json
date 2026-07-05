@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Foothills",
   "description": "You are at a point on the trail where it turns slowly from an\nalmost straight westwards trail into a trail meandering towards\nthe northwest.",
-  "header_raw": "40 c 4",
-  "flags_text": "c",
+  "header_raw": "40 4 4",
+  "flags_text": "4",
   "sector": 4,
   "exits": [
     {

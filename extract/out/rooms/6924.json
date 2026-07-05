@@ -1,0 +1,29 @@
+{
+  "id": 6924,
+  "zone_id": 69,
+  "name": "The Second Floor Stairs",
+  "description": "Here are the stairs leading you to the next scary floor of this house.  The\nstairs are an accident waiting to happen.  They look so old and so unsteady,\nthat even a mouse might break them.  The wood used for them is chipped and in\nsome spots cut, but this is the only way to the next floor.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6923
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6935
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

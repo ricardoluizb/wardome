@@ -1,0 +1,134 @@
+{
+  "id": 96,
+  "name": "Wardome - Mysterious Cave",
+  "header": {
+    "raw": "9699 30 2 1 -1",
+    "min_room": 9699,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9601,
+        10,
+        9613
+      ],
+      "comment": "(the Giant Rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9602,
+        10,
+        9607
+      ],
+      "comment": "(a Giant Bat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9603,
+        10,
+        9606
+      ],
+      "comment": "(the Skeleton)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9603,
+        10,
+        9608
+      ],
+      "comment": "(the Skeleton)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9601,
+        10,
+        9611
+      ],
+      "comment": "(the Giant Rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9602,
+        10,
+        9602
+      ],
+      "comment": "(a Giant Bat)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        9602,
+        1,
+        9616
+      ],
+      "comment": "(Sacred chest)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        9605,
+        1,
+        9602
+      ],
+      "comment": "(Sacred note)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        9604,
+        1,
+        9602
+      ],
+      "comment": "(Mystical Opal Stone)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9899,
+        1,
+        9615
+      ],
+      "comment": "(Tarrasque)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9603,
+        1,
+        5
+      ],
+      "comment": "(the &Bpiece &Gof &Rgiant &Cscale &Yof &WTarrasque&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9601,
+        100,
+        -1
+      ],
+      "comment": "(Sacred key)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/96.zon"
+}

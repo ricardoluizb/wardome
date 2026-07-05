@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Foothills",
   "description": "A short trek through the foothills and you find yourself facing a\ntrail that leads between the mountains to the west.  The trail through\nthem looks to be very long and probably quite tiring.  You spot a narrow\ntrail leading away to the northwest not too far distant to the west.",
-  "header_raw": "40 c 5",
-  "flags_text": "c",
+  "header_raw": "40 4 5",
+  "flags_text": "4",
   "sector": 5,
   "exits": [
     {

@@ -1,0 +1,12 @@
+{
+  "id": 13001,
+  "alias": "skeleton",
+  "short_desc": "the Skeleton",
+  "long_desc": "A pile of bones is on the floor.",
+  "detailed_desc": "As you get closer of the bones you can see that they aren't\njust bones, they have LIFE.",
+  "flags_raw": "26204 172 0 E",
+  "stats1_raw": "70 -19 -3 1d1+3072 5d8+48",
+  "stats2_raw": "1050 1307631 2",
+  "stats3_raw": "8 8 0 2 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/130.mob"
+}

@@ -1,0 +1,834 @@
+{
+  "id": 55,
+  "name": "The Graye Area",
+  "header": {
+    "raw": "5599 30 0",
+    "min_room": 5599,
+    "top_room": 30,
+    "lifespan": 0,
+    "reset_mode": null
+  },
+  "commands": [
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5543,
+        5,
+        2
+      ],
+      "comment": "Close tomb entrance"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5559,
+        4,
+        2
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5544,
+        5,
+        2
+      ],
+      "comment": "Close trapdoor"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5546,
+        4,
+        2
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5549,
+        5,
+        2
+      ],
+      "comment": "Other end of trapdoor"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5548,
+        4,
+        2
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5555,
+        0,
+        2
+      ],
+      "comment": "Close ebony door"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5556,
+        2,
+        2
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5556,
+        1,
+        2
+      ],
+      "comment": "Close ivory door"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5557,
+        3,
+        2
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5501,
+        5,
+        5505
+      ],
+      "comment": "Load a brownie"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5507,
+        50,
+        17
+      ],
+      "comment": "Give him a wand"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5501,
+        5,
+        5508
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5507,
+        50,
+        17
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5501,
+        5,
+        5516
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5507,
+        50,
+        17
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5501,
+        5,
+        5517
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5507,
+        50,
+        17
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5501,
+        5,
+        5514
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5507,
+        50,
+        17
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5502,
+        10,
+        5509
+      ],
+      "comment": "Load a wolf"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5502,
+        10,
+        5510
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5502,
+        10,
+        5511
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5502,
+        10,
+        5514
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5502,
+        10,
+        5517
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5503,
+        5,
+        5519
+      ],
+      "comment": "Load a rabbit"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5503,
+        5,
+        5516
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5503,
+        5,
+        5513
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5504,
+        1,
+        5515
+      ],
+      "comment": "Load Tomal the woodsman"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5508,
+        20,
+        12
+      ],
+      "comment": "Cloak"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5509,
+        20,
+        13
+      ],
+      "comment": "Belt"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5510,
+        20,
+        8
+      ],
+      "comment": "Boots"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5505,
+        4,
+        5533
+      ],
+      "comment": "Load demon guard"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5505,
+        4,
+        5534
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5505,
+        4,
+        5535
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5505,
+        4,
+        5536
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5506,
+        5,
+        5537
+      ],
+      "comment": "Load Graye Guardsman"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5511,
+        20,
+        6
+      ],
+      "comment": "Helmet"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5512,
+        20,
+        3
+      ],
+      "comment": "Cape"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5513,
+        20,
+        16
+      ],
+      "comment": "Sword"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5506,
+        5,
+        5537
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5511,
+        20,
+        6
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5512,
+        20,
+        3
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5513,
+        20,
+        16
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5506,
+        5,
+        5537
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5511,
+        20,
+        6
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5512,
+        20,
+        3
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5513,
+        20,
+        16
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5506,
+        5,
+        5538
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5506,
+        5,
+        5539
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5507,
+        3,
+        5550
+      ],
+      "comment": "Load an Imp"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5507,
+        3,
+        5551
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5508,
+        3,
+        5550
+      ],
+      "comment": "Minor Demon"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5508,
+        3,
+        5551
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5509,
+        4,
+        5538
+      ],
+      "comment": "Citizens"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5510,
+        4,
+        5538
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5509,
+        4,
+        5539
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5510,
+        4,
+        5539
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5511,
+        1,
+        5550
+      ],
+      "comment": "Major demon"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5514,
+        20,
+        17
+      ],
+      "comment": "Claw"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5512,
+        1,
+        5552
+      ],
+      "comment": "Rift guardian"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5515,
+        10,
+        10
+      ],
+      "comment": "Armband"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5513,
+        2,
+        5554
+      ],
+      "comment": "Jail Guard"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5516,
+        20,
+        16
+      ],
+      "comment": "Whip"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5513,
+        2,
+        5555
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5516,
+        20,
+        16
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5514,
+        1,
+        5545
+      ],
+      "comment": "Rymat"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5515,
+        1,
+        5555
+      ],
+      "comment": "Irgon"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5517,
+        10,
+        0
+      ],
+      "comment": "Candle"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5503,
+        5,
+        17
+      ],
+      "comment": "Ebony Key"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5516,
+        1,
+        5556
+      ],
+      "comment": "Scrytin"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5518,
+        10,
+        11
+      ],
+      "comment": "Shield"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5504,
+        5,
+        17
+      ],
+      "comment": "Ivory Key"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        5505,
+        1,
+        5543
+      ],
+      "comment": "Cronicles"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        5522,
+        1,
+        5557
+      ],
+      "comment": "Scrawled Note"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        5521,
+        1,
+        5543
+      ],
+      "comment": "Journal"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        5523,
+        1,
+        5557
+      ],
+      "comment": "Key to tomb"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        5502,
+        1,
+        5543
+      ],
+      "comment": "Trap key"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        5520,
+        1,
+        5561
+      ],
+      "comment": "Graye's Plate"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        5519,
+        1,
+        5561
+      ],
+      "comment": "Graye's Visor"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        5506,
+        1,
+        5543
+      ],
+      "comment": "Desk"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        0,
+        5501,
+        1,
+        5506
+      ],
+      "comment": "Key in desk"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/55.zon"
+}

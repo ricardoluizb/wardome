@@ -1,10 +1,10 @@
 {
   "id": 3058,
   "zone_id": 30,
-  "name": "Ye Olde Water Shoppe",
-  "description": "You are standing in the center of a small wooden shop whose walls are\ncovered with racks upon racks of water jugs.  Several large barrels with\nspigots are stacked in the corner.",
-  "header_raw": "30 dh 0",
-  "flags_text": "dh",
+  "name": "Blood shop",
+  "description": "This was once the water shop, now it is the blood shop.",
+  "header_raw": "30 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

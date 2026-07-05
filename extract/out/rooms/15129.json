@@ -1,0 +1,21 @@
+{
+  "id": 15129,
+  "zone_id": 150,
+  "name": "Weapon Cache",
+  "description": "Various implements of destruction are stored here, just waiting for some\nlucky soul to come along and abuse them.",
+  "header_raw": "150 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 15128
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/151.wld"
+}

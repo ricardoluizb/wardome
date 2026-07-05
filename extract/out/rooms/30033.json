@@ -1,0 +1,29 @@
+{
+  "id": 30033,
+  "zone_id": 300,
+  "name": "The tower entrance",
+  "description": "Guards are generally posted here at the entrance to the tower.  Guests are\nwelcome but there is the occasional intruder.  It is a lavish room with a plush\nred carpet and some golden ornaments.  An archway to the north leads to a hall\nand the rest of the tower.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30034
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30032
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

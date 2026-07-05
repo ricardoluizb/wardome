@@ -1,0 +1,114 @@
+{
+  "id": 4,
+  "name": "Wardome - The God's Castle",
+  "header": {
+    "raw": "499 30 1 2 -1",
+    "min_room": 499,
+    "top_room": 30,
+    "lifespan": 1,
+    "reset_mode": 2
+  },
+  "commands": [
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        13021,
+        2,
+        418
+      ],
+      "comment": "(&MZeina&m's picture&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        212,
+        2,
+        418
+      ],
+      "comment": "(&ra chocolate bar&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        213,
+        2,
+        418
+      ],
+      "comment": "(&nA bunch of &ypeanuts&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        210,
+        1,
+        418
+      ],
+      "comment": "(a fountain of &Glemonade&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        1258,
+        2,
+        418
+      ],
+      "comment": "(&gA &GP&go&Gi&gs&Go&gn&Go&gu&Gs &gDagger &W(&CShi&W)&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        1258,
+        2,
+        418
+      ],
+      "comment": "(&gA &GP&go&Gi&gs&Go&gn&Go&gu&Gs &gDagger &W(&CShi&W)&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        403,
+        1,
+        413
+      ],
+      "comment": "(a statue of Arkhon)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        413,
+        3,
+        1
+      ],
+      "comment": "(Arkhon's Temple)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        412,
+        1,
+        2
+      ],
+      "comment": "(The Office of &BM&binister &cTaerom&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        414,
+        1,
+        417
+      ],
+      "comment": "(&GMagic &gFountain&n)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/4.zon"
+}

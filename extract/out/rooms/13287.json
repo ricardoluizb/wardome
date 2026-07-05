@@ -1,0 +1,29 @@
+{
+  "id": 13287,
+  "zone_id": 132,
+  "name": "The East Market Square",
+  "description": "You are at the southeast corner of the market.  Even though the citizens in\nthis section aren't wealthy, they appear to be the richest in personality.  \nMarket continues north and west.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "east market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13286
+    },
+    {
+      "dir": 3,
+      "description": "east market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13288
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

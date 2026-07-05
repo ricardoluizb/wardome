@@ -1,0 +1,36 @@
+{
+  "id": 6834,
+  "producing": [
+    6780,
+    6791,
+    6792,
+    6793
+  ],
+  "profit_buy": 1.0,
+  "profit_sell": 1.0,
+  "buy_types": [
+    "12"
+  ],
+  "messages": [
+    "%s I don't carry that.",
+    "%s Even if you had one of those, I doubt I would want it.",
+    "%s I'd buy it, but I just fed my dragon and am broke!",
+    "%s You'll need more gold than that!",
+    "%s I don't need to buy those - I'm a witch! Muaha!",
+    "%s Good choice, my pretty! %d coins please.",
+    "%s Ahh! Just the thing I needed. Have %d coins."
+  ],
+  "tail": [
+    2,
+    2,
+    6727,
+    0,
+    6834,
+    -1,
+    0,
+    28,
+    0,
+    0
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/67.shp"
+}

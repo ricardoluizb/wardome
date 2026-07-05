@@ -1,0 +1,29 @@
+{
+  "id": 13276,
+  "zone_id": 132,
+  "name": "The Warrior Guild",
+  "description": "You are in a lounge.  Shields and arms are on the walls.  A bar is in the\ncorner and many warriors are relaxing.",
+  "header_raw": "132 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Warrior Guild",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13277
+    },
+    {
+      "dir": 2,
+      "description": "warrior guild",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13275
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

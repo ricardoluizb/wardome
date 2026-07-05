@@ -1,0 +1,12 @@
+{
+  "id": 1132,
+  "alias": "oldstyle shiriff",
+  "short_desc": "a shiriff",
+  "long_desc": "A shiriff of the Shire looks for the lost halfling youth.",
+  "detailed_desc": "The shiriff is over waist high, quite tall for a halfling.\nHe looks at you, smiles and asks you if you have seen a halfling youth\nsomewhere outside the shire.",
+  "flags_raw": "10 0 150 E",
+  "stats1_raw": "120 -44 -11 1d1+5280 5d13+68",
+  "stats2_raw": "1800 6053860 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/11.mob"
+}

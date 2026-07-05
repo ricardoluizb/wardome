@@ -1,0 +1,21 @@
+{
+  "id": 3828,
+  "zone_id": 38,
+  "name": "The Leader's Quarters",
+  "description": "You are in a small room.  A large desk and large chair make up the furnishings\nin this room, other than a painting on the north wall.  The steel door leads\neast out of here.",
+  "header_raw": "38 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door steel",
+      "door_flag": 1,
+      "key": 3802,
+      "to": 3826
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

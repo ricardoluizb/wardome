@@ -1,0 +1,12 @@
+{
+  "id": 8146,
+  "alias": "warg",
+  "short_desc": "the hungry warg",
+  "long_desc": "A hungry warg stands here, growling at you.",
+  "detailed_desc": "The goblins sometimes ride wargs, and maybe this one is trained as a \nmount. You only know that the white fangs it now shows as it \nsees you approaching look very sharp.",
+  "flags_raw": "104 1024 -350 E",
+  "stats1_raw": "152 -78 -29 1d1+17628 5d46+170",
+  "stats2_raw": "2280 17042481 11",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

@@ -3,8 +3,8 @@
   "zone_id": 61,
   "name": "Outside A Cave In The Deep, Dark Forest",
   "description": "You are at the end of a broad, irregular path.  To the north is a very\nlarge ominous-looking cave opening.  The trees here have many marks as if\nsomething with huge claws has been tearing at them in rage.",
-  "header_raw": "61 ad 3",
-  "flags_text": "ad",
+  "header_raw": "61 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

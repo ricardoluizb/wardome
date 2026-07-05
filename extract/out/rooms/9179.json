@@ -1,0 +1,21 @@
+{
+  "id": 9179,
+  "zone_id": 91,
+  "name": "Library",
+  "description": "You are overwhelmed by the sheer volumes of books here.  The\nshelves stretch all the way to the ceiling and are on every wall,\neven above the doorway.  There are chairs for sitting and reading\nand a desk for more intense studies.",
+  "header_raw": "91 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9178
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

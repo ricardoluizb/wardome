@@ -1,0 +1,12 @@
+{
+  "id": 300,
+  "alias": "oldstyle druid Aruncus",
+  "short_desc": "Aruncus the Druid",
+  "long_desc": "Aruncus the Druid is walking around here, searching for herbs.",
+  "detailed_desc": "Aruncus is a tall, skinny druid with a face marked by nature.\nHe seems to be in peace with himself and his surroundings.",
+  "flags_raw": "200 8 -500 E",
+  "stats1_raw": "15 13 7 1d1+315 5d2+6",
+  "stats2_raw": "225 18413 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/3.mob"
+}

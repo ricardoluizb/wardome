@@ -1,0 +1,12 @@
+{
+  "id": 14322,
+  "alias": "mob mummy wandering",
+  "short_desc": "the wandering mummy",
+  "long_desc": "A wandering mummy stumbles across the room.",
+  "detailed_desc": "A disheleved rotting corpse wanders the halls. He has a blank stare in \nwhatever is left of his eyes. He silently attacks you.",
+  "flags_raw": "65576 1032 0 E",
+  "stats1_raw": "49 -22 -10 1d1+4896 5d9+108",
+  "stats2_raw": "735 592763 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/143.mob"
+}

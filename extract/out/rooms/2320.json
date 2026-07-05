@@ -1,0 +1,37 @@
+{
+  "id": 2320,
+  "zone_id": 23,
+  "name": "The rocky shore",
+  "description": "You are at the base of the rocky hills. Stretching to the south and east, you\nsee a rocky shore. To the southeast, you see a small altar of some sorts that\nglows with an eerie blue light. It is possible to climb up into the hills here.",
+  "header_raw": "23 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2321
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2323
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2317
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

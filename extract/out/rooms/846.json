@@ -1,0 +1,29 @@
+{
+  "id": 846,
+  "zone_id": 7,
+  "name": "Mountain Pass",
+  "description": "The mountains rise up here, the small pass you are on wending its way up to\nthe north. The sky seems dark above the mountains, as if the mountains were a\ndividing line keeping back the night. The pass also leads back down to the\nmountain trail and a hidden valley in the distance.",
+  "header_raw": "7 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 845
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 4076
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

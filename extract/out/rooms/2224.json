@@ -1,0 +1,45 @@
+{
+  "id": 2224,
+  "zone_id": 22,
+  "name": "The Great Hall",
+  "description": "You are working your way down the Hall.  To the north, you notice a smaller\npassageway, while the main hall continues to the east.",
+  "header_raw": "22 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a narrow passageway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2225
+    },
+    {
+      "dir": 1,
+      "description": "You see the Hall.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2229
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2248
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2223
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

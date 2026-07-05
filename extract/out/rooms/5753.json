@@ -1,0 +1,21 @@
+{
+  "id": 5753,
+  "zone_id": 57,
+  "name": "Armory",
+  "description": "You have entered an armory. Most of the weapons here are of Orcish make,\ncrude and clumsy-looking, and you ignore them. However, a few weapons of\nhuman and elf make are also stored here- perhaps you may find one of use\nto you...",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "a corridor",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5752
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

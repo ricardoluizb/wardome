@@ -1,0 +1,21 @@
+{
+  "id": 830,
+  "zone_id": 7,
+  "name": "Alcove",
+  "description": "Up ahead, you see a bright light, much brighter than most mundane\nlight sources you've seen.  It seems to be coming from a small globe\nin the next room, resting on a pedestal.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 831
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

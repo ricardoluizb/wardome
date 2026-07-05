@@ -1,0 +1,12 @@
+{
+  "id": 8292,
+  "alias": "flea",
+  "short_desc": "a flea",
+  "long_desc": "a tiny flea is jumping around",
+  "detailed_desc": "It is very small and has a kind of blood color (red) is a very comon bug\nof this kind of places.",
+  "flags_raw": "4296 1280 -100 E",
+  "stats1_raw": "180 -78 -23 1d1+10800 5d19+112",
+  "stats2_raw": "2700 20266381 4",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/82.mob"
+}

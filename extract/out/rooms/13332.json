@@ -1,0 +1,45 @@
+{
+  "id": 13332,
+  "zone_id": 132,
+  "name": "The West Market Square",
+  "description": "You are on a busy section of the market.  Many shady merchants and dealers\nare lurking about.  You tighten your grip on your wallet.  A noble's home is \nwest and the market continues north, east, and south.",
+  "header_raw": "132 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "west market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13331
+    },
+    {
+      "dir": 1,
+      "description": "west market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13350
+    },
+    {
+      "dir": 2,
+      "description": "west market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13334
+    },
+    {
+      "dir": 3,
+      "description": "a noble's manor",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13333
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

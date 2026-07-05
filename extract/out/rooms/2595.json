@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Charm Master's Chamber",
   "description": "You are in the chambers of the tower's Master of Charm.  Some straw\nand dirt litters the floor here, it looks to have been recently used by\nwild animals.\n   Strange sounds can be heard through the bars to the north.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

@@ -4,9 +4,9 @@
   "short_desc": "the Newbie Alchemist",
   "long_desc": "The Newbie Alchemist is here trying to make something.",
   "detailed_desc": "He is a funny looking, furry little dude.  He looks really busy trying to\nmix up a batch of something or other.",
-  "flags_raw": "2 0 0 S",
-  "stats1_raw": "5 16 5 4d6+38 2d4+0",
-  "stats2_raw": "1000 1200",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "10 0 -40 E",
+  "stats1_raw": "5 18 9 1d1+99 5d1+2",
+  "stats2_raw": "75 1651 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/186.mob"
 }

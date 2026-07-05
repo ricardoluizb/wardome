@@ -4,9 +4,9 @@
   "short_desc": "the Newbie Guard",
   "long_desc": "The Newbie Guard is here wondering where that dragon went.",
   "detailed_desc": "The Guard also had the job of taking care of the Alchemist's pet dragon,\nbut he doesn't seem to be doing a good job of it.  He looks at you and\nsays, 'Have you seen that dragon?  Master will have my head if I don't find\nhim.'",
-  "flags_raw": "2 0 0 S",
-  "stats1_raw": "3 18 7 2d6+34 1d7+0",
-  "stats2_raw": "500 800",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "10 0 -30 E",
+  "stats1_raw": "3 19 9 1d1+63 5d1+0",
+  "stats2_raw": "45 669 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/186.mob"
 }

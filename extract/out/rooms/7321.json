@@ -1,20 +1,12 @@
 {
   "id": 7321,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "The East Tunnel",
   "description": "You are standing in dark tunnel, the exits are east and west.  To the west\nyou see a wooden door.",
-  "header_raw": "73 cd 1",
-  "flags_text": "cd",
+  "header_raw": "72 12 1",
+  "flags_text": "12",
   "sector": 1,
   "exits": [
-    {
-      "dir": 3,
-      "description": "You can see a wooden door.",
-      "keywords": "door wooden",
-      "door_flag": 1,
-      "key": -1,
-      "to": 7318
-    },
     {
       "dir": 1,
       "description": "You can see a muddy tunnel.",
@@ -22,6 +14,14 @@
       "door_flag": 0,
       "key": -1,
       "to": 7302
+    },
+    {
+      "dir": 3,
+      "description": "You can see a wooden door.",
+      "keywords": "door wooden",
+      "door_flag": 1,
+      "key": -1,
+      "to": 7318
     }
   ],
   "extra_descriptions": [],

@@ -3,8 +3,8 @@
   "zone_id": 33,
   "name": "A Cave Passageway",
   "description": "The passage you are standing in turns west and south \nfrom here.  One of the sconces here is out, making this \narea extremely dark and hard to see in.  You do see lights\nfrom the south, however, seemingly brighter than the \nsconces you've seen along the walls so far.",
-  "header_raw": "33 d 0",
-  "flags_text": "d",
+  "header_raw": "33 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

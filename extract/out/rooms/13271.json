@@ -1,0 +1,37 @@
+{
+  "id": 13271,
+  "zone_id": 132,
+  "name": "The East Market Square",
+  "description": "You are on one of two market squares in the city.  These squares are where \ncitizens buy their food and supplies.  More casual gatherings take place\nhere to be made of gold.  The market continues north and south.  An alleyway\nis west and a mansion blocks your path east.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "east market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13272
+    },
+    {
+      "dir": 2,
+      "description": "the east market",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13294
+    },
+    {
+      "dir": 3,
+      "description": "a dark alley",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13270
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

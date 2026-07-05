@@ -3,8 +3,8 @@
   "zone_id": 79,
   "name": "The Treasure Room",
   "description": "This place is gloomy.  A HUGE safe is cemented into the west wall.  The\nonly visible exit is west, through the oak door.",
-  "header_raw": "79 cdj 0",
-  "flags_text": "cdj",
+  "header_raw": "79 524 0",
+  "flags_text": "524",
   "sector": 0,
   "exits": [
     {

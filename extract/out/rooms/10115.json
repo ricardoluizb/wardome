@@ -1,0 +1,29 @@
+{
+  "id": 10115,
+  "zone_id": 101,
+  "name": "The Healing Chambers",
+  "description": "These are the elven healing chambers of Elrond, known for their miraculous\npowers of healing.  The room is full of beds, and the walls about you are\ncovered in shelves.  Upon the shelves are delightful bottles of herbs, which\nhave released a fragrant odor into the air.  A small window on the east wall\nlooks out on the world.",
+  "header_raw": "101 1048596 1",
+  "flags_text": "1048596",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 10116
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 10113
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/101.wld"
+}

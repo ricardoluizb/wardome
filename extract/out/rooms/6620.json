@@ -1,0 +1,29 @@
+{
+  "id": 6620,
+  "zone_id": 66,
+  "name": "A corridor",
+  "description": "A simple corridor, a glowing light comes from the\nnorth. To the west you can back to center of the Mansion.",
+  "header_raw": "66 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6621
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6619
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/66.wld"
+}

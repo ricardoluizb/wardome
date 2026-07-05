@@ -4,9 +4,9 @@
   "short_desc": "the Book Monster",
   "long_desc": "A mound of books rise up into a human shape and tries to hit you!",
   "detailed_desc": "Ironically enough, the book-monster's head is War and\nPeace.  Hmm.",
-  "flags_raw": "beflmnopqr dk 0 S",
-  "stats1_raw": "14 7 1 1d1+199 2d8+2",
-  "stats2_raw": "0 18000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "260154 1032 0 E",
+  "stats1_raw": "115 -47 -14 1d1+7812 5d23+96",
+  "stats2_raw": "1725 5657972 5",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/64.mob"
 }

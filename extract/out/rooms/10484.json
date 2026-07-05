@@ -1,0 +1,37 @@
+{
+  "id": 10484,
+  "zone_id": 104,
+  "name": "Meat Locker",
+  "description": "You stand in a large meat locker. Chunks of meat hang on the wall and \nlarger corpses hang from steel hooks. Frozen blood and other \nunrecognizable pieces are littered on the floor.\nThe meat locker continues to the north and east.\nThere is a freezer door to the west.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see more of the Meat locker",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10474
+    },
+    {
+      "dir": 1,
+      "description": "You see more of the Meat locker",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10485
+    },
+    {
+      "dir": 3,
+      "description": "You see a freezer door.",
+      "keywords": "door freezer",
+      "door_flag": 1,
+      "key": -1,
+      "to": 10483
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

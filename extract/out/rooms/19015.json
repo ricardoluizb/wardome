@@ -1,0 +1,37 @@
+{
+  "id": 19015,
+  "zone_id": 190,
+  "name": "The end of the fine path.",
+  "description": "On both sides of this path are doors. Over the eastern door is a \nsign telling you this must be the tavern of the village, and to \nthe north you see a large house, about two stores high.",
+  "header_raw": "190 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 19017
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 19016
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 19012
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/190.wld"
+}

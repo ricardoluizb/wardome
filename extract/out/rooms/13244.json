@@ -1,0 +1,21 @@
+{
+  "id": 13244,
+  "zone_id": 132,
+  "name": "The Lag Monster's Lair",
+  "description": "Oh No! A mudder's worst nightmare come true!! You should get out while you\nstill can!  Many corpses are strewn about, yours will join them shortly.",
+  "header_raw": "132 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "a room",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13243
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

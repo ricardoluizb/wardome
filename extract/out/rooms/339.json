@@ -1,0 +1,42 @@
+{
+  "id": 339,
+  "zone_id": 3,
+  "name": "The Stones of G'harne",
+  "description": "You are in the center of 7, 15 ft tall monolith like black stones.\nIn the center of the ring formed by the monolith you can't help\nnoticing a big sacrifice altar. The ground is covered with dirt, but the\naltar shows no sign of such. West of here is the ancient path.",
+  "header_raw": "3 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "You see the ancient path and the wooden bridge here.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 337
+    },
+    {
+      "dir": 5,
+      "description": "You see a tunnel down there.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 340
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "stones g'harne monolith",
+      "description": "The stones of G'harne tower fifteen feet over you.\nThe giant stones are made of a material you haven't seen before.\nIt resembles black marble, but somehow feels different."
+    },
+    {
+      "keywords": "altar sacrifice",
+      "description": "You move closer to examine the sacrifice altar of G'harne.\nThe altar is about 3 feet high, 10 feet long and 4 feet wide.\nIt has engraved pictures of death rituals and horrifying worms."
+    },
+    {
+      "keywords": "death rituals worms engraving picture",
+      "description": "The pictures are depicting evil rituals.\nYou see druids pouring blood over herbs on an altar like this one.\nThere are people calling giant worms into existence with dark spells."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/3.wld"
+}

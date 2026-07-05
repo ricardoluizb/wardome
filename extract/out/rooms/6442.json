@@ -3,8 +3,8 @@
   "zone_id": 64,
   "name": "The Stairs",
   "description": "Stairs lead down here to the second level of the basement,\nor back west to the alcove.",
-  "header_raw": "64 ad 0",
-  "flags_text": "ad",
+  "header_raw": "64 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

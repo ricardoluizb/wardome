@@ -1,0 +1,30 @@
+{
+  "id": 12297,
+  "zone_id": 122,
+  "name": "Odin's Private Council Chambers",
+  "description": "It is here that Odin confers with his fellow Aesir on matters of\ngrave import, seated about the oak table that rests before the hearth.\nPapers and maps are scattered all over the table along with the occasional\nsword or hammer scar, where an angry Aesir has vented his wrath more than\nonce on the hapless furniture. Statues rest in each corner of the room\ndepicting each of the four elements. Large bearskins have been nailed to\nthe walls, and a white dragon hide dominates the high wooden ceiling.",
+  "header_raw": "122 12 0",
+  "flags_text": "12",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": 0,
+      "to": 12260
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "white dragon hide",
+      "description": "The hide was taken from the body of a large white dragon, slain by\nThor and his sons, and was brought here as a gift to Odin and the other\nAesir. Large patches of the skin are heavily abraded, evidence of the\nmighty blows struck it by Mjolnir."
+    },
+    {
+      "keywords": "statue element",
+      "description": "Each bear a small inscription-\nFire, Earth, Wind and Water; take me to my sacred altar"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

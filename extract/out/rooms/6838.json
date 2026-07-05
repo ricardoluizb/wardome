@@ -1,0 +1,29 @@
+{
+  "id": 6838,
+  "zone_id": 67,
+  "name": "A dark passageway",
+  "description": "Your foot slides as your boot sinks into some unpleasant substance\non the muddy floor.. mold? Only inspection in better light will tell.\nEastwards the passage slants into a dark pool, and disappears to the\nwest into blackness.",
+  "header_raw": "67 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6839
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6837
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

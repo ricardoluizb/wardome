@@ -1,0 +1,12 @@
+{
+  "id": 10433,
+  "alias": "Frozen body",
+  "short_desc": "&cF&Cr&Woz&Ce&cn &cB&Cod&cy&n",
+  "long_desc": "A frozen body lies here on the ground.",
+  "detailed_desc": "As you look at the corpse you recoil as you notice its eyes still move.  They\nstare intently from its bluish face as if pleading for your help.",
+  "flags_raw": "2058 1160 0 E",
+  "stats1_raw": "110 -37 -8 1d1+3960 5d12+54",
+  "stats2_raw": "1650 5117119 1",
+  "stats3_raw": "8 8 0 0 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/104.mob"
+}

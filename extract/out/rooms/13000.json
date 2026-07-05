@@ -1,0 +1,29 @@
+{
+  "id": 13000,
+  "zone_id": 130,
+  "name": "Thieve's Lair Entrance",
+  "description": "You are in the entrance of the Thief's Lair,\nyou see a enormous and invulnerable Silver Gate.\nThe Gate is guarded by two powerfull Warrior.",
+  "header_raw": "130 16777216 1",
+  "flags_text": "16777216",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 2,
+      "key": 13000,
+      "to": 13001
+    },
+    {
+      "dir": 5,
+      "description": "Thieve's Lair",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6151
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

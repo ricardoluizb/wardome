@@ -1,0 +1,26 @@
+{
+  "id": 8119,
+  "zone_id": 81,
+  "name": "Dorig Foehammer's Smithy",
+  "description": "You can only watch with awe as Dorig, the famed dwarven warrior-smith. \nforges a bar of iron into a knife blade in fifteen minutes.  He makes\nsome fine swords and chain mail, but good armor doesn't come cheap!\nA battle axe hangs on the wall.",
+  "header_raw": "81 152 0",
+  "flags_text": "152",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You can leave and avoid the sparks of molten iron that fly thick here.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8111
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "axe wall",
+      "description": "The wall-hung axe is too high to reach, but you can see it is \nnamed \"Lucille\"."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

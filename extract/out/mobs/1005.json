@@ -1,0 +1,12 @@
+{
+  "id": 1005,
+  "alias": "wyrenthoth dracolich dragon undead",
+  "short_desc": "Wyrenthoth",
+  "long_desc": "It is on this ledge that Wyrenthoth sits, preening him... itself.",
+  "detailed_desc": "Hmmm... seems that you have managed to walk in on Wyrenthoth during one\nof his... its preening sessions.  You don't exactly understand what there\nis to see beyond the bones.  Oh, wait, you didn't even know what the\nthing in front of you was did you?  Well, you take the time to look, for\nonce, and notice that it is a large collection of bones.  And it\nhappens that this large collection of bones serves to form what looks to\nbe a dragon, although the odd bone or two seems to be out of place.  It\ndoes appear that Wyrenthoth is a dracolich.",
+  "flags_raw": "202 578814088 900 E",
+  "stats1_raw": "50 -25 -12 1d1+5400 5d16+120",
+  "stats2_raw": "750 668281 10",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/10.mob"
+}

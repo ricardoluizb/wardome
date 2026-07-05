@@ -1,0 +1,12 @@
+{
+  "id": 19006,
+  "alias": "Elf mage elven",
+  "short_desc": "the Elven mage",
+  "long_desc": "A Tiny Elven mage is floating behind the counter.",
+  "detailed_desc": "You notice a tired look on his face.",
+  "flags_raw": "24586 0 900 E",
+  "stats1_raw": "75 -17 -1 1d1+2100 5d8+30",
+  "stats2_raw": "1125 1418710 0",
+  "stats3_raw": "8 8 1 0 3",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/190.mob"
+}

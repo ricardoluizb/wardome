@@ -1,0 +1,61 @@
+{
+  "id": 6884,
+  "zone_id": 67,
+  "name": "A crawlspace",
+  "description": "You slip into a God's private domain. Better leave without\na trace before long, it could be dangerous to remain, should\nthe God of this place return.\nYou see shimmering walls to the North, South, West and Up.\nFaint visions of the destination wavers in your eyes.",
+  "header_raw": "67 1548 0",
+  "flags_text": "1548",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3001
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": -1
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "stone",
+      "door_flag": 0,
+      "key": 6779,
+      "to": 6874
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5106
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6700
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

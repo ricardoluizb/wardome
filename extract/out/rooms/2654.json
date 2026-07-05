@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Main Chamber",
   "description": "A feeling of tranquility comes over you as you enter the main chamber\nof Neutrality.  Some artifacts are hung on the walls here, or set on stands.\nThe room in general looks both comfortable and official.  Probably where the\nMaster of Neutrality holds audience.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

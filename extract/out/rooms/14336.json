@@ -1,0 +1,21 @@
+{
+  "id": 14336,
+  "zone_id": 143,
+  "name": "The Guest Bedroom",
+  "description": "Staying in the palace is a \"special guest\", Antonious. He is here to provide\nspecial \"services\" for the queen. However, he is now pouring over a tactical\nmap depicting a sea battle.",
+  "header_raw": "143 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The courtyard lies to the south.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14332
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

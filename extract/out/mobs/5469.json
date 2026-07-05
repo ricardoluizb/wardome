@@ -4,9 +4,9 @@
   "short_desc": "the ixitxachitl",
   "long_desc": "A very large ray with a wicked looking tail swims here.",
   "detailed_desc": "You see a large ray with sharp fangs and a barbed tail.",
-  "flags_raw": "bflpqr dgk -500 S",
-  "stats1_raw": "10 0 -5 3d3+120 3d4+1",
-  "stats2_raw": "0 2000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "231466 1096 -500 E",
+  "stats1_raw": "10 15 8 1d1+207 5d2+4",
+  "stats2_raw": "150 7126 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

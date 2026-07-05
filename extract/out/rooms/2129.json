@@ -1,0 +1,21 @@
+{
+  "id": 2129,
+  "zone_id": 21,
+  "name": "Entrance to the City of Graye",
+  "description": "You are standing before the great gate of Graye.  Crimson plumed soldiers\nraise the portcullis and urge you the enter quickly.",
+  "header_raw": "21 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2135
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/21.wld"
+}

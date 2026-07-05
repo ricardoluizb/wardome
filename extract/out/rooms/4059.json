@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Tunnel",
   "description": "You are standing in a tunnel deep inside the heart of Mount Moria.  A\nsmall rivulet of water runs alongside the wall to the north as the tunnel\nseems to lead slightly down towards the east.\n   The tunnel continues on to the east as it plunges deeper into the earth,\nand upwards a bit towards the west where the air seems to be quite damp.",
-  "header_raw": "40 acd 3",
-  "flags_text": "acd",
+  "header_raw": "40 13 3",
+  "flags_text": "13",
   "sector": 3,
   "exits": [
     {

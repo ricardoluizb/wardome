@@ -1,0 +1,21 @@
+{
+  "id": 10037,
+  "zone_id": 100,
+  "name": "Holding Cell",
+  "description": "This cold, dank, hard stoned cell must have been quite a torture chamber in\nit's day.  The old rusty chains hanging from the wall and the iron maiden which\nrests dead center give you all the indication you need to confirm that fact.  \nYou run your fingers along the smooth wood of the iron maiden, marvelling at\nhow well kept and clean it is.  Well kept and clean?  This stuff is still being\nused!",
+  "header_raw": "100 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 10036
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/100.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 12206,
+  "alias": "loki",
+  "short_desc": "Loki",
+  "long_desc": "A wiry, black haired man slinks past you.",
+  "detailed_desc": "Blood brother of Odin, Loki is a cruel, manipulative trickster and\nschemer, constantly at odds with the other gods, and usually banished\nor outcast because of it.",
+  "flags_raw": "200 794794 -1000 E",
+  "stats1_raw": "10 7 2 1d1+600 5d2+44",
+  "stats2_raw": "150 9070 4",
+  "stats3_raw": "8 8 1 2 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/122.mob"
+}

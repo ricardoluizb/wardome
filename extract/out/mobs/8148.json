@@ -1,0 +1,12 @@
+{
+  "id": 8148,
+  "alias": "orc",
+  "short_desc": "the orc",
+  "long_desc": "An Orc guards the caves here.",
+  "detailed_desc": "He is not as large as the usual Orc, probably half a goblin.",
+  "flags_raw": "6250 1024 -400 E",
+  "stats1_raw": "157 -80 -29 1d1+18204 5d46+172",
+  "stats2_raw": "2355 18720972 11",
+  "stats3_raw": "4 8 1 -1 5",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

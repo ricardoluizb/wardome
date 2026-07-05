@@ -1,0 +1,54 @@
+{
+  "id": 17370,
+  "zone_id": 173,
+  "name": "The Court of Camelot",
+  "description": "You stand in the fabled court of Camelot. Here in the sunny courtyard noblemen\nand knights walk barefoot in the grass discussing chivalry and wars to come.\nTroubadours play ballads on their lutes and entertainers hop and leap into the\nair all for a chance of earning the kings favor. Ladies in waiting play their\nlove games with young knights and squires. The whole world seems like a much\nbetter place here, where friendship thrives and the high ideals of chivalry\nbreathe.  You have a commanding vantage of the Tourney Yard of Camelot from\nhere.  Exits lead to the knights barracks, the round table, the feast hall,\nand the tourney yard of Camelot.",
+  "header_raw": "173 128 2",
+  "flags_text": "128",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The Knights Barracks",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17374
+    },
+    {
+      "dir": 1,
+      "description": "The Round Table",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17376
+    },
+    {
+      "dir": 2,
+      "description": "The Feast Hall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17371
+    },
+    {
+      "dir": 3,
+      "description": "The Tourney Yard of Camelot",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17359
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "yard tourney",
+      "description": "You watch two knights across the tourney yard. To the left is a knight\nin full armor and a bright orange plume. To the right is a knight in chain \nmail and a trailing black cape. Arthur signal's the knights with a short wave.\nThe both knights spur their warhorses into a full gallop. To your right you\nhear a squeal of delight from a spectator. The black caped knight leans into\nhis charge with his weight forward and in a low stand on his stirrups. \nBoth knights collide in the center of the yard with a resounding crash. The\norange plummed knight contorts in his saddle, delivering a thrust high on \nthe shield of the black caped knight. The black caped knight connects with a\nhard shot to the center of the shield of the orange knight. You watch the \norange knight fly and land with a sickening crash on the yard. The black\nknight circles and raises his lance in a salute to Arthur."
+    },
+    {
+      "keywords": "spectator",
+      "description": "The lady in waiting is weeping, as her knight was the orange knight. She\nquickly recovers and tosses her favor to the black knight."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

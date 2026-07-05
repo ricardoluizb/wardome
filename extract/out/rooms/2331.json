@@ -1,0 +1,29 @@
+{
+  "id": 2331,
+  "zone_id": 23,
+  "name": "The swampy path",
+  "description": "You tread lightly through the mirky water and sludge that makes up the path\nyou follow. To the east, there is a thick wall of mist. You can see nothing\nwithin it. Harder ground rises to the north.",
+  "header_raw": "23 9 3",
+  "flags_text": "9",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2330
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2335
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

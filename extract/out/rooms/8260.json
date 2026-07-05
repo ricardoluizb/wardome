@@ -1,0 +1,29 @@
+{
+  "id": 8260,
+  "zone_id": 82,
+  "name": "The Historical Center Of France",
+  "description": "You are at the entrance to the historical center of the city of Paris, where\nthe most important monument is the plaza of Louie XIV, what actually is the\nplaza of the concorde. Here is where the revolution of France started in the\nXVIII century. You can enter to the north.",
+  "header_raw": "82 4 2",
+  "flags_text": "4",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8261
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8259
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

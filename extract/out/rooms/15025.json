@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "The Stair Room",
   "description": "You are standing below a great staircase, that leads up to the\nsecond floor of the Castle.  The stairs are made of marble, and there\nare pillars carved in the likenesses of trees with little animals\nrunning up and down the trunks.",
-  "header_raw": "150 d 0",
-  "flags_text": "d",
+  "header_raw": "150 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

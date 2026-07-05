@@ -1,0 +1,61 @@
+{
+  "id": 20509,
+  "zone_id": 205,
+  "name": "The Intersection",
+  "description": "You cant see many ways to follow, dark and cold caves, full of termites\nwalking arround.",
+  "header_raw": "205 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20510
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20513
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20512
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20511
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 0,
+      "to": 20508
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20514
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/205.wld"
+}

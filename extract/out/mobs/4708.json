@@ -1,0 +1,12 @@
+{
+  "id": 4708,
+  "alias": "spirit dwarf",
+  "short_desc": "a dwarven spirit",
+  "long_desc": "A small dwarven spirit is at unrest here.",
+  "detailed_desc": "The small spirit screams in agony as it is bound to this wretched existence.\nThe soul of some unfortunate dwarf now has to fly aimlessly through this chamber\nof eternal pain.",
+  "flags_raw": "10 168 -999 E",
+  "stats1_raw": "60 -18 -5 1d1+3600 5d7+64",
+  "stats2_raw": "900 879375 4",
+  "stats3_raw": "8 0 0 -1 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/47.mob"
+}

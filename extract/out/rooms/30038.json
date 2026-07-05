@@ -1,0 +1,21 @@
+{
+  "id": 30038,
+  "zone_id": 300,
+  "name": "An elven leisure area",
+  "description": "A lavish and spacious area providing a place for elves in the tower to come and\nspend some leisure time.  Underfoot is a soft crimson carpet which complements\nthe soft pink walls.  Many games are generally played here on the green felt\ntables.  You notice one with a spinning wheel in it and a sign explaining the\nrules of play.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30037
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

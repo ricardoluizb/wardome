@@ -1,0 +1,21 @@
+{
+  "id": 29949,
+  "zone_id": 298,
+  "name": "A Small Room",
+  "description": "As you slowly walk further north you come to a small room at the end of the\nwalkway.  It is sparsely furnished but it appears as if someone lives here at\nthe moment.  A small desk sits in one corner with a lamp attached to the desk.\nA bed rests on the north wall near a window that points northward.  Several\npictures dot the walls.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29948
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

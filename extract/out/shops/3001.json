@@ -1,13 +1,16 @@
 {
   "id": 3001,
   "producing": [
-    3009,
     3010,
-    3011
+    3011,
+    18620,
+    3009
   ],
   "profit_buy": 1.4,
   "profit_sell": 1.0,
-  "buy_types": [],
+  "buy_types": [
+    "19"
+  ],
   "messages": [
     "%s Haven't got that on storage - try list!",
     "%s I don't buy!",
@@ -15,7 +18,7 @@
     "%s I don't buy!",
     "%s If you have no money, you'll have to go!",
     "%s That'll be %d coins.",
-    "%s Oops - %d a minor bug - please report!"
+    "%s I'll give you %d coins for that."
   ],
   "tail": [
     0,
@@ -29,5 +32,5 @@
     0,
     0
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/shp/30.shp"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/30.shp"
 }

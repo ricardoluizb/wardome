@@ -1,0 +1,21 @@
+{
+  "id": 2786,
+  "zone_id": 27,
+  "name": "Inside Ferny's Place",
+  "description": "You have gained admittance to the house of Bill Ferny.  The house is quite dark\non the inside, due to drawn curtains.  You stand in the foyer, and can see that\nthe house is actually quite nice on the inside...  In contrast to the outer\nappearance.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 2785
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

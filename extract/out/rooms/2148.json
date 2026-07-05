@@ -1,0 +1,29 @@
+{
+  "id": 2148,
+  "zone_id": 21,
+  "name": "The Valley of Demons",
+  "description": "You are heading deeper and deeper into a valley.  The walls climb up on\neither side of you, soon becoming nearly vertical.  Your path is slowed by\nthick choking vegetation grabbing your boots.  The path back to the south\ndisappears in darkness, and your path continues to dip as you head to the\nnorth.",
+  "header_raw": "21 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2149
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2147
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/21.wld"
+}

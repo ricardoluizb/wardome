@@ -4,9 +4,9 @@
   "short_desc": "Strick the bartender",
   "long_desc": "Strick is here levitating drinks to his customers.",
   "detailed_desc": "He looks rather harmless, but then again so does a sleeping dragon.",
-  "flags_raw": "b dk 750 S",
-  "stats1_raw": "25 1 -6 1d1+30000 3d7+20",
-  "stats2_raw": "2000 20000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "24586 1032 750 E",
+  "stats1_raw": "154 -57 -13 1d1+4308 5d16+60",
+  "stats2_raw": "2310 10115023 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

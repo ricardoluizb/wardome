@@ -3,8 +3,8 @@
   "zone_id": 70,
   "name": "A Triple Junction",
   "description": "You stand in a junction with pipes leading west, north and east.",
-  "header_raw": "70 ad 1",
-  "flags_text": "ad",
+  "header_raw": "70 9 1",
+  "flags_text": "9",
   "sector": 1,
   "exits": [
     {

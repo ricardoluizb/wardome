@@ -1,0 +1,29 @@
+{
+  "id": 2757,
+  "zone_id": 27,
+  "name": "Hall of Guilds",
+  "description": "You have stepped into a grand and open entryway of the Hall of Guilds.  The\nfloors and walls are cobbled stone of superior workmanship than the surrounding\nbuildings of Bree.  The ceiling is open and you can see the thick wooden beams\nsupporting a simple roof.  There are two long tables along the eastern and\nwestern walls with some uncomfortable looking wooden chairs arranged around\nthem for study.  Against the north wall stands a large bookshelf containing\nvarious books and ledgers about guilds.  To the left of the bookshelf is an\narched doorway leading further into the hall.    \nThe only obvious exits are south and north.",
+  "header_raw": "27 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2758
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2756
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

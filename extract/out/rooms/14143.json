@@ -1,0 +1,37 @@
+{
+  "id": 14143,
+  "zone_id": 141,
+  "name": "The Southwest Corner of the Tavern",
+  "description": "There are many people here, but even through their scent, there\nseems to be a slight stench.",
+  "header_raw": "141 72 0",
+  "flags_text": "72",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14141
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14144
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "cellar",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14146
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2736,
+  "zone_id": 27,
+  "name": "Path to Hobbit Mayor's Office",
+  "description": "You are walking along a path to the Mayor's office to the North.  Hobbit Road\nlies to the south.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2737
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2734
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

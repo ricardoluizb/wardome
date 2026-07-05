@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Long Tunnel",
   "description": "You are standing in a long east-west tunnel.  It is not all that\nwide at this point, perhaps wide enough for two people to stand side\nby side without impeding each other.  Off to the west it appears that\nthe tunnel opens up some more while to the east it dives further down\ninto the earth, and you can see a small hole about two feet in diameter\nabout waist height in the southern wall.",
-  "header_raw": "40 ad 3",
-  "flags_text": "ad",
+  "header_raw": "40 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

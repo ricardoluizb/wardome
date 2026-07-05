@@ -1,0 +1,12 @@
+{
+  "id": 9221,
+  "alias": "oldstyle mud elemental",
+  "short_desc": "a mud monster",
+  "long_desc": "A mud monster slops around.",
+  "detailed_desc": "The magical mud monster is a cross between water and earth.",
+  "flags_raw": "74 0 0 E",
+  "stats1_raw": "150 -55 -12 1d1+4200 5d16+60",
+  "stats2_raw": "2250 9371548 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/92.mob"
+}

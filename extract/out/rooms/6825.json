@@ -1,0 +1,29 @@
+{
+  "id": 6825,
+  "zone_id": 67,
+  "name": "Climbing a small bluff",
+  "description": "A few gnarled, wind-tortured trees spread their meager limbs in hunched\neastward arcs. There is little that is extraordinary about this place.\nIt is deserted, it is lonely, yet a particularly green bluff forms a\nplateau just above you. It calls to you in an eerie way, yet emits\na chaotic aura that might be best left alone.",
+  "header_raw": "67 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6826
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6824
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

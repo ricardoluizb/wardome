@@ -1,0 +1,29 @@
+{
+  "id": 10209,
+  "zone_id": 102,
+  "name": "At the top of the stairs",
+  "description": "This side of the castle is a little bit more habited. There are some\nsoldiers in rest going downstairs, you can hear some noises coming from\ndown there, it seems to be spoon and knifes noises. You can hear some\nspeech down there too.",
+  "header_raw": "102 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10207
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10210
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

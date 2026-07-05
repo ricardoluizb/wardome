@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Passage",
   "description": "You stand in a fairly normal passage, slightly wider than is\nnecessary for one person, but not quite wide enough for two.  The\nceiling dips here rather surprisingly, or wait, is that because the\nfloor climbs upwards toward it?  The tunnel seems to narrow slightly\nmore as you look to the south, and widens up somewhat as you look\nnorthward.  The light to the south continues to flicker.",
-  "header_raw": "40 ad 3",
-  "flags_text": "ad",
+  "header_raw": "40 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

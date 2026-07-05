@@ -1,0 +1,37 @@
+{
+  "id": 12363,
+  "zone_id": 122,
+  "name": "The Realm of Fire",
+  "description": "You wander into a twisting tunnel, of yellowed stone, lit by flaming\ngases, their source tiny holes in the wall through which they escape\nfrom some hidden source. Skulls covered in bronze line the walls, and\ngrin evilly at those who pass by, heading further into this grim lair.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12364
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12361
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 12380
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

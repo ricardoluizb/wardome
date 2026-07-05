@@ -1,0 +1,26 @@
+{
+  "id": 2372,
+  "zone_id": 23,
+  "name": "Harok's Training Room",
+  "description": "This room is full of all sorts of weapons and armours. Pieces of old targets\nand practice dummies lie all around. The walls are chipped and scored from\nweapon blows. This is obviously the room of an avid warrior. A &Rred&n door leads\neast.",
+  "header_raw": "23 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see a &Rred&n door there.",
+      "keywords": "door red",
+      "door_flag": 2,
+      "key": 2351,
+      "to": 2388
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "red",
+      "description": "It looks like it leads back to the hall."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

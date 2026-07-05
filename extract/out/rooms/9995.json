@@ -1,0 +1,21 @@
+{
+  "id": 9995,
+  "zone_id": 99,
+  "name": "A quivering jaunt.",
+  "description": "You have entered a quivering jaunt.  It feels like you are in the\nbelly of a giant beast.  The mucuslike walls are a deep red color \nthat thrums with energy.  The only exit is North.",
+  "header_raw": "99 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9996
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

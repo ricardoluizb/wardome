@@ -1,0 +1,26 @@
+{
+  "id": 17338,
+  "zone_id": 173,
+  "name": "West Bailey Tower",
+  "description": "You stand inside the western bailey tower. You have a great view of the\nbailey and you could fire a ranged weapon through the murder hole. Stairs \nlead down.",
+  "header_raw": "173 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "Inside the Curtain Wall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17330
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "view hole bailey",
+      "description": "You peek through the murder hole at the bailey as many have done before you."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

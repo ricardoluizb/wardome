@@ -1,0 +1,29 @@
+{
+  "id": 15114,
+  "zone_id": 150,
+  "name": "A Dirt Path",
+  "description": "This path leads east to a crossing of paths (possibly the center of\nthe;village) and west toward some low buildings and a row od holding cells.",
+  "header_raw": "150 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 15115
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 15110
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/151.wld"
+}

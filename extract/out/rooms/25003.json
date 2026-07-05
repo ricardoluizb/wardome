@@ -1,0 +1,29 @@
+{
+  "id": 25003,
+  "zone_id": 250,
+  "name": "Mountainside Tombs",
+  "description": "There are a few stone heaps here and there, the tombs of those who did not\nlast the arduous journey up the mountain.  Curiously you notice a few uncovered\nbodies which don't seem to have died of exhaustion.  The path curves east\naround the mountain.",
+  "header_raw": "250 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 25004
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 25002
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/250.wld"
+}

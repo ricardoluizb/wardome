@@ -3,8 +3,8 @@
   "zone_id": 70,
   "name": "The Muddy Sewer",
   "description": "You are standing in mud to your knees.  This is not the kind of place\nfor a picnic.  The muddy sewer stretches further into the south.",
-  "header_raw": "70 ad 5",
-  "flags_text": "ad",
+  "header_raw": "70 9 5",
+  "flags_text": "9",
   "sector": 5,
   "exits": [
     {

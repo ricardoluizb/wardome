@@ -1,0 +1,12 @@
+{
+  "id": 6712,
+  "alias": "squire",
+  "short_desc": "a squire",
+  "long_desc": "An eager squire stands attendant.",
+  "detailed_desc": "He appears to be hanging on his lord's every word, but when watched\nclosely seems to pay more attention to his cold mug of ale.",
+  "flags_raw": "2058 32904 0 E",
+  "stats1_raw": "140 -50 -11 1d1+3912 5d15+56",
+  "stats2_raw": "2100 7674036 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/67.mob"
+}

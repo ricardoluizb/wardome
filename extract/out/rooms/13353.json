@@ -1,0 +1,21 @@
+{
+  "id": 13353,
+  "zone_id": 132,
+  "name": "The Dracolich's Lair",
+  "description": "The room is black and a blue flame roars in the center of the cave.  The\nsmell of death nearly over powers you.  You gasp in terror as you see skulls\nfrom adventurers that have come before you.",
+  "header_raw": "132 9 5",
+  "flags_text": "9",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "cavern",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13352
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 14359,
+  "zone_id": 143,
+  "name": "The Room of War",
+  "description": "Several old, decaying weapons hang on the walls and dangle from the ceiling.\nThree large stone coffins have been built partially into the floor, and you\nsee that the walls have been painted entirely red with human blood. As you\ncontinue to peer into the dim light, you notice movement from the corner of\nthe room!",
+  "header_raw": "143 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "It is very dark there, you can't see a thing.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14358
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

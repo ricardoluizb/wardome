@@ -1,0 +1,45 @@
+{
+  "id": 11553,
+  "zone_id": 115,
+  "name": "Centrefield",
+  "description": "This is the center of all action in WarDome.  Flying bodies (and body parts)\nare all around you.  You are standing on a large gray skull with glowing eyes\nand blood stained fangs -- not real of course, just the Bloodbowl logo painted\non the surface of the field.  The respective defensive zones are to the north\nand south, and the 50-Meter Line runs east-west.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11554
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11555
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11551
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11548
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

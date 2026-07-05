@@ -1,0 +1,29 @@
+{
+  "id": 29939,
+  "zone_id": 298,
+  "name": "The lawn",
+  "description": "You seem to have walked into history.  Statues of elven heroes, carved in pure,\nwhite marble stand here among the trees.  It seems as if a dark look has come\nover the heroes though.  You wish they would come alive and help to fight the\ndarkness but alas most are either dead or have gone west.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29940
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29938
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

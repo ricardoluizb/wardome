@@ -1,0 +1,45 @@
+{
+  "id": 709,
+  "zone_id": 7,
+  "name": "Cliffside Road, South",
+  "description": "This looks like an interesting spot.\n   As you hug the buildings to keep away from the thousand foot drop\nto your east (that would surely KILL you), you notice a large casino\nestablishment named 'The Edge of Luck' to the west.  Strangely enough,\nthe citzenry of Kerofk walk up and down the street, almost oblivious to\nthe incredible drop mere feet away.\n   Cliffside Road continues North and South.",
+  "header_raw": "7 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 708
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 767
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 710
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 741
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 8221,
+  "alias": "Choirboy",
+  "short_desc": "a choirboy",
+  "long_desc": "A choirboy is singing here.",
+  "detailed_desc": "He is a boy who sings in the cathedral, for some coins. He doesnt look very\nstrong or powerful, and he would sing any song for some coins.",
+  "flags_raw": "4232 32 20 E",
+  "stats1_raw": "150 -63 -18 1d1+9000 5d16+100",
+  "stats2_raw": "2250 11927425 4",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/82.mob"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 10120,
+  "zone_id": 101,
+  "name": "A craftman's shop in the House of Elrond",
+  "description": "You have entered one of the queerest workshops you have ever seen.  Situated in\nthe middle of the room is a large table, filled with rags, wood, metal lantern\nhousings, wax and wicks.  A large sign rests on the table, painted black with\nred letters.",
+  "header_raw": "101 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10121
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/101.wld"
+}

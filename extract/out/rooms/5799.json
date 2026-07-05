@@ -1,0 +1,21 @@
+{
+  "id": 5799,
+  "zone_id": 57,
+  "name": "The Chieftain's Quarters",
+  "description": "You have entered the quarters of the leader of the Orcs of Firetop Mountain.\nHe is standing here brandishing a big bullwhip, which he is using to beat\nanother, smaller Orc, presumably his batman or servant. A chest in the far\ncorner catches you eye, and you wonder what wealth this Chieftain may \npossess...",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "a westward corridor",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5747
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

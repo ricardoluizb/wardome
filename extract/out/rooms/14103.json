@@ -1,0 +1,53 @@
+{
+  "id": 14103,
+  "zone_id": 141,
+  "name": "The New Magincia Moongate",
+  "description": "You see another moongate here, exactly between the crossing of\ntwo paths.",
+  "header_raw": "141 68 1",
+  "flags_text": "68",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14102
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14113
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14104
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14108
+    },
+    {
+      "dir": 4,
+      "description": "Through the translucent moongate you think you see... books?",
+      "keywords": "moongate",
+      "door_flag": 2,
+      "key": 14108,
+      "to": 14116
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 72,
   "name": "The Lair Entrance",
   "description": "You are in a dry part of the sewer.  To the north is a wooden door,\nyou can see some slime at the lower part of the door.  You also see\nsome skulls and some broken bones.",
-  "header_raw": "72 acd 2",
-  "flags_text": "acd",
+  "header_raw": "72 13 2",
+  "flags_text": "13",
   "sector": 2,
   "exits": [
     {

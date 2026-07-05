@@ -1,0 +1,29 @@
+{
+  "id": 20245,
+  "zone_id": 202,
+  "name": "A narrow side street",
+  "description": "You step over piles of garbage and corpses as you walk along this narrow side\nstreet.  To the east is a small building that looks like a pile of sticks and\ntwigs.",
+  "header_raw": "202 265 1",
+  "flags_text": "265",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20244
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20235
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/202.wld"
+}

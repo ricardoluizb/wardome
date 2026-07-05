@@ -1,0 +1,21 @@
+{
+  "id": 773,
+  "zone_id": 7,
+  "name": "Vacant Lot",
+  "description": "There's a large flattened area in the middle of this lot.  You get the\neerie feeling that something SHOULD be here, but isn't.  How Odd!\nMoon Gate Road is to the north.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 727
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

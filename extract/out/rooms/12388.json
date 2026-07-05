@@ -1,0 +1,37 @@
+{
+  "id": 12388,
+  "zone_id": 122,
+  "name": "Niflheim",
+  "description": "At this point a narrow path winds downwards to the southeast, a thin\nframe of bones covered with stretched skin, that descends into the\ngorge, towards whatever may lie at the bottom. The path continues to\nthe west along the gorge, but appears to end abruptly at a sheer drop\ninto the fiery pit.",
+  "header_raw": "122 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12387
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12389
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12386
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 758,
+  "zone_id": 7,
+  "name": "Courtroom",
+  "description": "Here's where the judges dispense the decisions of Kerofk upon the\ngeneral populace. At the moment there is no court case going on, but\nit looks like they are setting up for one soon.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 755
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 30,
   "name": "The Cryogenic Center",
   "description": "You are standing in an impossible white sterile room with cylindrical\nbody-length canisters lined up against the walls.  The Reception is to the\nsouth.",
-  "header_raw": "30 d 1",
-  "flags_text": "d",
+  "header_raw": "30 8 1",
+  "flags_text": "8",
   "sector": 1,
   "exits": [
     {

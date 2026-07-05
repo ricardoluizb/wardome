@@ -4,9 +4,9 @@
   "short_desc": "the mage",
   "long_desc": "A small intelligent looking mage is standing here.",
   "detailed_desc": "His IQ makes almost any normal person look stupid...\nIt looks like he knows his way with magic.",
-  "flags_raw": "abcf dk -100 S",
-  "stats1_raw": "13 10 2 3d20+100 2d6+0",
-  "stats2_raw": "2500 21000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "46 1032 -100 E",
+  "stats1_raw": "25 8 6 1d1+522 5d3+10",
+  "stats2_raw": "375 72518 0",
+  "stats3_raw": "8 8 1 0 3",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/40.mob"
 }

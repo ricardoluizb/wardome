@@ -1,0 +1,12 @@
+{
+  "id": 202,
+  "alias": "lizardman wizard",
+  "short_desc": "The wizard",
+  "long_desc": "A lizardman wizard is conjuring here.",
+  "detailed_desc": "This wizard is deeply involved in his conjuring and hasn't noticed you...\nyet.",
+  "flags_raw": "108 0 0 E",
+  "stats1_raw": "95 -39 -13 1d1+7212 5d19+98",
+  "stats2_raw": "1425 3695283 6",
+  "stats3_raw": "8 8 1 0 9",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/2.mob"
+}

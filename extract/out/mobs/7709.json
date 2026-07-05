@@ -1,0 +1,12 @@
+{
+  "id": 7709,
+  "alias": "oldstyle githyanki protector",
+  "short_desc": "a githyanki protector",
+  "long_desc": "A black knight of the githyanki protects his queen.",
+  "detailed_desc": "You see a leathery-skinned humanoid creature that stands a full foot taller\nthan a normal man.  His features are obscured by a suit of ornately designed\nsplinted armor -- you only hear the hissing of his breath and the scraping\nof his sword against its scabbard as it is unsheathed.",
+  "flags_raw": "42 1024 -500 E",
+  "stats1_raw": "100 -30 -5 1d1+2796 5d11+40",
+  "stats2_raw": "1500 2916487 0",
+  "stats3_raw": "8 8 1 3 7",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/77.mob"
+}

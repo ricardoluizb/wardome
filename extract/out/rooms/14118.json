@@ -1,0 +1,34 @@
+{
+  "id": 14118,
+  "zone_id": 141,
+  "name": "Library",
+  "description": "The Library continues here, with exits to the east and west.",
+  "header_raw": "141 72 0",
+  "flags_text": "72",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14119
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14117
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "book books shelves",
+      "description": "This shelf has books dealing with the 'D's'.  'Dracula, Blood\nSucker or Beavis fan?' seems to be the most interesting book\nhere."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

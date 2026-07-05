@@ -1,0 +1,29 @@
+{
+  "id": 334,
+  "zone_id": 3,
+  "name": "The ancient path",
+  "description": "You are standing on the ancient path which runs north and south.\nThe path is hardly visible here.",
+  "header_raw": "3 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the ancient path.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 333
+    },
+    {
+      "dir": 2,
+      "description": "You trace the path carefully and see no immediate dangers.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 335
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/3.wld"
+}

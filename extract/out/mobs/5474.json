@@ -4,9 +4,9 @@
   "short_desc": "the behir",
   "long_desc": "A behir slithers on the ground.",
   "detailed_desc": "You see a large snake-like reptile with more than a dozen legs.",
-  "flags_raw": "fglpq kp -300 S",
-  "stats1_raw": "12 9 4 4d3+146 2d8+4",
-  "stats2_raw": "0 1000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "100456 33792 -300 E",
+  "stats1_raw": "12 14 8 1d1+252 5d2+4",
+  "stats2_raw": "180 10839 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

@@ -1,0 +1,42 @@
+{
+  "id": 22000,
+  "zone_id": 220,
+  "name": "The pit of Kerjim",
+  "description": "You stand at the edge of a pit, you can hear screams of death, violence\nthat make your blood curdle. This is the pit of Kerjim, an ancient\ndemon able to slay any mortal. It is pitch black, and there are prying\neyes all around. There is an engraving on the wall here.",
+  "header_raw": "220 16777216 0",
+  "flags_text": "16777216",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 21500
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "stone",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6078
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 22001
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "engraving wall",
+      "description": "**********************************\n                         *             BEWARE!!!          *\n                         *       Here Dwells Kerajim,     *  \n                         *       King of the Balrogs.     *  \n                         *       Die at your own risk,    *\n                         * We very much doubt the chances *\n                         *     of any Corpse Retrieval    *\n                         *                                *\n                         *         Raf & Blizzard         *\n                         **********************************"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/220.wld"
+}

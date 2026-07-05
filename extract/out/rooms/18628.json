@@ -3,8 +3,8 @@
   "zone_id": 186,
   "name": "A Corner Room",
   "description": "This room is hardly more than a crossing of passages.  You do sense a\nslight breeze wafting down the passage to the north though, but it smells\naltogether bad...",
-  "header_raw": "186 ad 0",
-  "flags_text": "ad",
+  "header_raw": "186 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

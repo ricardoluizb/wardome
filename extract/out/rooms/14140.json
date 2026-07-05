@@ -1,0 +1,29 @@
+{
+  "id": 14140,
+  "zone_id": 141,
+  "name": "The Northeast Corner of the Tavern",
+  "description": "Along this east wall of the tavern are all the tables for the\nmeals.  Outside the windows you see cobblestone streets.",
+  "header_raw": "141 72 0",
+  "flags_text": "72",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14142
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14139
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

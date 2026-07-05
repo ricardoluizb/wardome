@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "A Small Cottage",
   "description": "This cottage looks to have been left in exactly the same shape as\nit was in quite some time ago.  It looks as if the residents left one\nday and haven't returned home yet.  Oddly enough, the furniture is\ndust free and the food on the table still looks fresh.  This house is\nreally strange, perhaps it wuld be in your best interests to leave as\nsoon as humanly possible.\n   The road is back through the open doorway to the east.",
-  "header_raw": "150 d 0",
-  "flags_text": "d",
+  "header_raw": "150 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

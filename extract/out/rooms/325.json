@@ -1,0 +1,29 @@
+{
+  "id": 325,
+  "zone_id": 3,
+  "name": "The steep foothills",
+  "description": "You are walking in the steep foothills. It is rather hard to move here.\nFurther to the north you can see the mountains towering over you.\nSeveral pinetrees grow here.",
+  "header_raw": "3 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The foothills extend into smaller hills far to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 326
+    },
+    {
+      "dir": 3,
+      "description": "The foothills extend far to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 324
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/3.wld"
+}

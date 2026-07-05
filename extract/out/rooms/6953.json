@@ -1,0 +1,29 @@
+{
+  "id": 6953,
+  "zone_id": 69,
+  "name": "The End of the Roof",
+  "description": "You are now at the end of the roof, or what once was the roof.  The shingles\nhere have been washed away from the rain, making it look bare.  It's beginning\nto get very slipper up here.  By the looks of it, there seems to be nowhere to\ngo from here.  A small chimney is directly east of you.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6952
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6954
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

@@ -11,9 +11,9 @@
       "dir": 0,
       "description": "The gate is made of solid iron and is well maintained.",
       "keywords": "gate",
-      "door_flag": 2,
+      "door_flag": 1,
       "key": -1,
-      "to": -1
+      "to": 2100
     },
     {
       "dir": 2,
@@ -26,12 +26,12 @@
   ],
   "extra_descriptions": [
     {
-      "keywords": "gate",
-      "description": "The gate is made of solid iron and is well maintained."
-    },
-    {
       "keywords": "road",
       "description": "The road is wide and very muddy."
+    },
+    {
+      "keywords": "gate",
+      "description": "The gate is made of solid iron and is well maintained."
     }
   ],
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/120.wld"

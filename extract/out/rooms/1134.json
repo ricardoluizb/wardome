@@ -1,0 +1,29 @@
+{
+  "id": 1134,
+  "zone_id": 11,
+  "name": "Delving Lane",
+  "description": "Delving Lane runs north and south in this small borough of the Shire. There\nis a small house to the west, nothing to the east, and up ahead you see a round\ndoor which leads to a rather impressive abode.",
+  "header_raw": "11 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A large, magnificent house meets your steady gaze.  Above the round door a\nsign reads 'Bag End'.",
+      "keywords": "",
+      "door_flag": 1,
+      "key": -1,
+      "to": 1135
+    },
+    {
+      "dir": 2,
+      "description": "You see Delving Lane.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1133
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

@@ -1,0 +1,654 @@
+{
+  "id": 66,
+  "name": "Wardome - The Dark Mansion",
+  "header": {
+    "raw": "6699 25 2 1 -1",
+    "min_room": 6699,
+    "top_room": 25,
+    "lifespan": 2,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6610,
+        1,
+        6630
+      ],
+      "comment": "(Ragon, The Sorcerer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6621,
+        1,
+        17
+      ],
+      "comment": "(Ragon's staff)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6611,
+        6,
+        6630
+      ],
+      "comment": "(a ghost)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6611,
+        12,
+        6630
+      ],
+      "comment": "(a ghost)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6612,
+        1,
+        6631
+      ],
+      "comment": "(Baltazar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6622,
+        1,
+        20
+      ],
+      "comment": "(Baltazar's earring)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6620,
+        1,
+        6629
+      ],
+      "comment": "(Ragon's Painting)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6605,
+        7,
+        6613
+      ],
+      "comment": "(the scavenger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6608,
+        12,
+        6613
+      ],
+      "comment": "(the skeleton)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6608,
+        12,
+        6613
+      ],
+      "comment": "(the skeleton)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6623,
+        0,
+        1
+      ],
+      "comment": "(The corridor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6608,
+        12,
+        6623
+      ],
+      "comment": "(the skeleton)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6627,
+        2,
+        1
+      ],
+      "comment": "(Torture Chamber)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6607,
+        1,
+        6627
+      ],
+      "comment": "(the torturer)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6617,
+        1,
+        6628
+      ],
+      "comment": "(a extingued fireplace)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6602,
+        2,
+        2
+      ],
+      "comment": "(A garden)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6602,
+        3,
+        2
+      ],
+      "comment": "(A garden)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6600,
+        1,
+        6601
+      ],
+      "comment": "(a man with a black cape)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6600,
+        2,
+        17
+      ],
+      "comment": "(a key)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        6601,
+        0,
+        2
+      ],
+      "comment": "(The middle of the Mountain)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6601,
+        4,
+        1
+      ],
+      "comment": "(The middle of the Mountain)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6602,
+        15,
+        6604
+      ],
+      "comment": "(A zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6602,
+        15,
+        6604
+      ],
+      "comment": "(A zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6602,
+        15,
+        6604
+      ],
+      "comment": "(A zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6602,
+        15,
+        6604
+      ],
+      "comment": "(A zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6602,
+        15,
+        6604
+      ],
+      "comment": "(A zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6602,
+        15,
+        6604
+      ],
+      "comment": "(A zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6602,
+        15,
+        6604
+      ],
+      "comment": "(A zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6602,
+        15,
+        6604
+      ],
+      "comment": "(A zombie)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6601,
+        1,
+        17
+      ],
+      "comment": "(a red cross )"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6602,
+        99,
+        6610
+      ],
+      "comment": "(A zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6605,
+        7,
+        6618
+      ],
+      "comment": "(the scavenger)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6618,
+        3,
+        1
+      ],
+      "comment": "(The library)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6625,
+        1,
+        1
+      ],
+      "comment": "(A secret passage)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        6616,
+        1,
+        6625
+      ],
+      "comment": "(an old book)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6601,
+        1,
+        6603
+      ],
+      "comment": "(a man with a black cape)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6602,
+        1000,
+        -1
+      ],
+      "comment": "(an old scroll)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6606,
+        1000,
+        -1
+      ],
+      "comment": "(a scroll of recall)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6609,
+        1000,
+        -1
+      ],
+      "comment": "(a potion of health)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6610,
+        1000,
+        -1
+      ],
+      "comment": "(a liven potion)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6608,
+        1000,
+        -1
+      ],
+      "comment": "(a potion of mana)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6608,
+        1000,
+        -1
+      ],
+      "comment": "(a potion of mana)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6612,
+        1000,
+        -1
+      ],
+      "comment": "(&YT&yhe &YH&yoly &YL&yight&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6614,
+        1,
+        6621
+      ],
+      "comment": "(a Piano)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6609,
+        1000,
+        6614
+      ],
+      "comment": "(a potion of health)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6609,
+        1000,
+        6614
+      ],
+      "comment": "(a potion of health)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6606,
+        1,
+        6621
+      ],
+      "comment": "(the Phanton Pianist)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6615,
+        1000,
+        17
+      ],
+      "comment": "(the &Ygolden &yMaul&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6612,
+        2,
+        2
+      ],
+      "comment": "(Inside the Mansion)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        6613,
+        1,
+        6612
+      ],
+      "comment": "(a blood in the wall)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6605,
+        7,
+        6620
+      ],
+      "comment": "(the scavenger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6605,
+        7,
+        6619
+      ],
+      "comment": "(the scavenger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6605,
+        7,
+        6617
+      ],
+      "comment": "(the scavenger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6605,
+        7,
+        6616
+      ],
+      "comment": "(the scavenger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6605,
+        7,
+        6615
+      ],
+      "comment": "(the scavenger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6602,
+        15,
+        6608
+      ],
+      "comment": "(A zombie)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6607,
+        1,
+        -1
+      ],
+      "comment": "(a simple key)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6605,
+        1,
+        1
+      ],
+      "comment": "(The sanctuary)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        6603,
+        1,
+        6605
+      ],
+      "comment": "(a chest)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6604,
+        5,
+        6603
+      ],
+      "comment": "(the sword Masamune)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6603,
+        1,
+        6605
+      ],
+      "comment": "(the treasure keeper)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6605,
+        1000,
+        17
+      ],
+      "comment": "(a dirty key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6602,
+        5,
+        6609
+      ],
+      "comment": "(A zombie)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6607,
+        0,
+        2
+      ],
+      "comment": "(In the entrance of the Mansion)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/66.zon"
+}

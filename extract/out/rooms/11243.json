@@ -1,0 +1,29 @@
+{
+  "id": 11243,
+  "zone_id": 112,
+  "name": "Carnage",
+  "description": "The path here is littered with the corpses of small animals, vermin and\nthe occasional humanoid, including humans, elves and goblins. Bloodstains\nmar the cobblestones, as well as piles of flyblown decaying guts. A foul\nodor assaults your nostrils, and you do not doubt that serious evil is\nafoot here.",
+  "header_raw": "112 4 1",
+  "flags_text": "4",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11244
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11235
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

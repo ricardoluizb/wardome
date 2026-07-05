@@ -1,12 +1,12 @@
 {
   "id": 1517,
   "alias": "iblis satan devil voice",
-  "short_desc": "the Temptation",
+  "short_desc": "The Temptation",
   "long_desc": "You pause nervously as a voice whispers at you from over your shoulder.",
   "detailed_desc": "There is no physical figure attached to the presence that dominates this\nplace, just tormented laughter, moaning, screaming, and begging.",
-  "flags_raw": "bcf dk -1000 S",
-  "stats1_raw": "25 -3 -4 10d5+650 4d6+5",
-  "stats2_raw": "25000 145000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "46 25167008 -1000 E",
+  "stats1_raw": "175 -79 -25 1d1+13296 5d35+130",
+  "stats2_raw": "2625 21513961 6",
+  "stats3_raw": "8 8 1 1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/15.mob"
 }

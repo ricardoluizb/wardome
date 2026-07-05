@@ -4,9 +4,9 @@
   "short_desc": "the Immortal Postmaster",
   "long_desc": "The Immortal Postmaster is hard at work here.",
   "detailed_desc": "Scary... a postal worker... working?",
-  "flags_raw": "ab p 0 S",
-  "stats1_raw": "30 0 -10 1d49+901 4d8+5",
-  "stats2_raw": "0 0",
-  "stats3_raw": "8 8 2",
+  "flags_raw": "11 32768 0 E",
+  "stats1_raw": "30 6 5 1d1+630 10d4+12",
+  "stats2_raw": "450 105901 0",
+  "stats3_raw": "8 8 2 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/12.mob"
 }

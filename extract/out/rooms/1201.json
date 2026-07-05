@@ -3,8 +3,8 @@
   "zone_id": 12,
   "name": "The Inn Of The Gods",
   "description": "The Inn of the Gods is a small room, holding only a shelf with many\nsmall precious stones on it.  When a God comes to rent his belongings,\nhis essence is stored in the stones.  The Immortal Board Room is to\nthe south.",
-  "header_raw": "12 dj 0",
-  "flags_text": "dj",
+  "header_raw": "12 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

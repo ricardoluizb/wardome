@@ -3,10 +3,10 @@
   "alias": "postmaster post master",
   "short_desc": "the postmaster",
   "long_desc": "The head postmaster is standing here, waiting to help you with your mail.",
-  "detailed_desc": "The Postmaster seems like a happy old man, though a bit sluggish.  He\nworries about the reputation of the MMS (Midgaard Mail Service), as many\npeople seem to think that it is slow.  Perhaps if he were to brush the\ncobwebs from his uniform it would help to make a better impression.",
-  "flags_raw": "ablnopr dp 1000 S",
-  "stats1_raw": "33 0 -10 1d1+30000 1d8+18",
-  "stats2_raw": "2000 0",
-  "stats3_raw": "8 8 1",
+  "detailed_desc": "The Postmaster seems like a happy old man, though a bit sluggish.  He\nworries about the reputation of the WMS (Wardome Mail Service), as many\npeople seem to think that it is slow.  Perhaps if he were to brush the\ncobwebs from his uniform it would help to make a better impression.",
+  "flags_raw": "190475 32776 1000 E",
+  "stats1_raw": "33 4 5 1d1+693 5d4+12",
+  "stats2_raw": "495 136156 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

@@ -1,0 +1,37 @@
+{
+  "id": 17330,
+  "zone_id": 173,
+  "name": "Inside the Curtain Wall",
+  "description": "You stand on the road inside the curtain wall. Stairs lead up to the western \nbailey tower, and the road continues north and east.",
+  "header_raw": "173 1 1",
+  "flags_text": "1",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Inside the Curtain Wall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17331
+    },
+    {
+      "dir": 1,
+      "description": "Inside the Curtain Wall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17328
+    },
+    {
+      "dir": 4,
+      "description": "The West Bailey Tower",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17338
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

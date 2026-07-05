@@ -1,0 +1,12 @@
+{
+  "id": 11569,
+  "alias": "assassin guildguard",
+  "short_desc": "the assassin",
+  "long_desc": "An assassin is guarding the entrance.",
+  "detailed_desc": "He is a thief who has specialized in killing others as effectively as\npossible, using all sorts of weapons.  His superior knowledge of how and where\nto use them combined with his extraordinary stealth makes him a deadly\nopponent.",
+  "flags_raw": "4106 32 0 E",
+  "stats1_raw": "50 -9 0 1d1+2196 5d6+40",
+  "stats2_raw": "750 514062 2",
+  "stats3_raw": "8 8 1 2 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

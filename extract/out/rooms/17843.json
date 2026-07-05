@@ -1,0 +1,29 @@
+{
+  "id": 17843,
+  "zone_id": 178,
+  "name": "End of the Dark Hallway",
+  "description": "You have reached the end of the dark hallway and maybe the end of your puny\nlife.  Something lumbers its way out of the shadows.",
+  "header_raw": "178 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17838
+    },
+    {
+      "dir": 3,
+      "description": "You see a decaying door.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 17801,
+      "to": 17844
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

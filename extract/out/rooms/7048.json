@@ -3,8 +3,8 @@
   "zone_id": 70,
   "name": "The Sewers",
   "description": "You stand in a dead end of the sewer.  The only way out is south.\nYou can see a shaft leading up but it looks too difficult to go up\nthat way.",
-  "header_raw": "70 ad 1",
-  "flags_text": "ad",
+  "header_raw": "70 13 1",
+  "flags_text": "13",
   "sector": 1,
   "exits": [
     {
@@ -14,6 +14,14 @@
       "door_flag": 0,
       "key": -1,
       "to": 7049
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 543
     }
   ],
   "extra_descriptions": [],

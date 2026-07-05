@@ -1,0 +1,29 @@
+{
+  "id": 28405,
+  "zone_id": 284,
+  "name": "Still the Firrure",
+  "description": "The path proceeds to north, but is too dark to see something clear at all.\nYou feel a strange vibrations...LOOK OUT!",
+  "header_raw": "284 9 6",
+  "flags_text": "9",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "North to go on.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28406
+    },
+    {
+      "dir": 3,
+      "description": "Its to dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28404
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/284.wld"
+}

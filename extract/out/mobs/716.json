@@ -1,0 +1,12 @@
+{
+  "id": 716,
+  "alias": "lawyer",
+  "short_desc": "the Lawyer",
+  "long_desc": "The lawyer is here, ready to lie his tongue out.",
+  "detailed_desc": "The lawyer looks at you, ready to spot anything he can sue you for.\nThis has got to be one of the most loathesome mobs in the whole mud!",
+  "flags_raw": "138 128 -1000 E",
+  "stats1_raw": "100 -40 -12 1d1+6792 5d21+90",
+  "stats2_raw": "1500 3791433 5",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

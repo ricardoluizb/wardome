@@ -1,0 +1,29 @@
+{
+  "id": 17317,
+  "zone_id": 173,
+  "name": "Forest Blackmoor",
+  "description": "You have entered Blackmoor, the forest of the damned. Thorns and crooked \ntrees scratch and tear at you, almost as if they were alive. The well worn \npath has has vanished and you have lost your bearings.",
+  "header_raw": "173 8388609 3",
+  "flags_text": "8388609",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17315
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17318
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

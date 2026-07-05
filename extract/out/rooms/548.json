@@ -1,0 +1,21 @@
+{
+  "id": 548,
+  "zone_id": 5,
+  "name": "&YCity Hall&n",
+  "description": "Here is the city hall of Wardome, a very important place indeed,\nbecause it is where the Mayor spends almost all his time. Hung in the\nwall you see the city key of wardome, shining as gold, there've been\nrumors that the key is given to the noble warriors of Wardome City.",
+  "header_raw": "5 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 539
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

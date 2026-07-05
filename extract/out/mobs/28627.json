@@ -1,0 +1,12 @@
+{
+  "id": 28627,
+  "alias": "Hydra",
+  "short_desc": "Hydra",
+  "long_desc": "Hydra head growls at you as you enter this room.",
+  "detailed_desc": "Its looks like an enormous dragon with 5 heads...\nNo time to look... No time to flee.",
+  "flags_raw": "493610 26215560 0 E",
+  "stats1_raw": "200 -90 -27 1d1+13596 5d41+130",
+  "stats2_raw": "3000 28155218 5",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/286.mob"
+}

@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "Below The Trapdoor",
   "description": "You are below the trapdoor.  It is very dark and dusty here, very\nlittle light filters through from above.  A faint sound of dripping\nwater can be heard in the distance below.\n   A rope ladder leads down.",
-  "header_raw": "25 adg 0",
-  "flags_text": "adg",
+  "header_raw": "25 73 0",
+  "flags_text": "73",
   "sector": 0,
   "exits": [
     {

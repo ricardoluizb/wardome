@@ -1,0 +1,45 @@
+{
+  "id": 11703,
+  "zone_id": 117,
+  "name": "Walking in the road of time.",
+  "description": "Here is the center of the road of time, now you can have a full vision of the\ntemple to the north and by your sides are two houses, one of then have some\nplaque upon the door.  Standing here brings some memories that you didn't know\nto have inside.  To the north you can see a small market.",
+  "header_raw": "117 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11708
+    },
+    {
+      "dir": 1,
+      "description": "A closed red door",
+      "keywords": "red door",
+      "door_flag": 2,
+      "key": 11703,
+      "to": 11706
+    },
+    {
+      "dir": 2,
+      "description": "beggining of temple street.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11702
+    },
+    {
+      "dir": 3,
+      "description": "Another small house in the slums.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11704
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/117.wld"
+}

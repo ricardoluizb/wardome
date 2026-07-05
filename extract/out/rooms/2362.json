@@ -1,0 +1,34 @@
+{
+  "id": 2362,
+  "zone_id": 23,
+  "name": "Before the gates of Mahn-Tor",
+  "description": "You stand at the edge of a high cliff. Directly south, set back off the\ncliff's edge, you see a huge pair of gates. These gates appear to be carved\nalmost completely out of ice. A huge city and keep appear to be on the other\nside of these gates. There is also a possibility of climbing down the cliff \nface.",
+  "header_raw": "23 4 5",
+  "flags_text": "4",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "gate huge gates ice",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2364
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2361
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "gate gates ice huge",
+      "description": "The gates to the city are made almost completely of ice. Looking closely, you\ncan see intricate carvings in the gates. They appear to be of creatures that\nare half man and half bull."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

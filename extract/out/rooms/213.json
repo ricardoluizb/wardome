@@ -1,0 +1,34 @@
+{
+  "id": 213,
+  "zone_id": 2,
+  "name": "Temple Of Morgash",
+  "description": "This is the temple to the Lizardmen's evil deity, Morgash.  It is\nquite ugly.  At least in your opinion it is... you are certain that\nthe lizardmen like it though.\nThere are two exits.  Down and through the large door to the east.",
+  "header_raw": "2 9 6",
+  "flags_text": "9",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A large door blocks your way.",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 205,
+      "to": 214
+    },
+    {
+      "dir": 5,
+      "description": "There is a hole leading down.  Obvious eh?",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 212
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "door",
+      "description": "It is quite large with a small keyhole."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/2.wld"
+}

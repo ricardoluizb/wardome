@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "An Intersection",
   "description": "You are at an intersection in the corridor.  The obsidian walled halls\nlead off in every direction from here, pulsing with the power of their\nancient runes.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

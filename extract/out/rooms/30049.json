@@ -1,0 +1,29 @@
+{
+  "id": 30049,
+  "zone_id": 300,
+  "name": "Cirdan's throne room",
+  "description": "A majestic throne room.  Somehow you can tell this room is indeed ancient and\nhas not been changed for centuries.  The striking feature of the room is\nobviously the throne, which has been created from shining silver and is\nencrusted with sparkling jewels.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30046
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30050
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

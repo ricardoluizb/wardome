@@ -1,0 +1,37 @@
+{
+  "id": 11701,
+  "zone_id": 117,
+  "name": "A street leadding to city.",
+  "description": "This is a long and beauty street covered with cobblestone adorned with some\ndraws in the floor that looks like professional pictures.  This street leads\nyou in three directions.  North you can see a dome that resemble a worship\ntemple.  To the west lies the city and east you can see the way that brought\nyou here.",
+  "header_raw": "117 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "To the temple.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11702
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11700
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11709
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/117.wld"
+}

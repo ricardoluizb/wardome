@@ -1,0 +1,29 @@
+{
+  "id": 1827,
+  "zone_id": 18,
+  "name": "The Great Door",
+  "description": "You see before you a huge oaken door with adamantite \ntrim that reads \"LITTLE HAVEN.\"  The rest of this place\nseems to be made of glass, giving it an almost mirror-like\nquality.  The gnomish runes are inscribed as well\nas a few you understand: that of the Snow Queen.\nThere is a giant key hole here, but it looks well \nworn by the snow and wind.  You feel the heat\nof the furnace room to the south.",
+  "header_raw": "18 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "It must be locked to keep you out.",
+      "keywords": "door north",
+      "door_flag": 1,
+      "key": -1,
+      "to": 1828
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1817
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/18.wld"
+}

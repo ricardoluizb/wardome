@@ -4,7 +4,7 @@
   "profit_buy": 2.0,
   "profit_sell": 0.5,
   "buy_types": [
-    "FOOD"
+    "19"
   ],
   "messages": [
     "%s Sorry buddy, I don't sell that.",
@@ -27,5 +27,5 @@
     13,
     20
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/shp/54.shp"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/54.shp"
 }

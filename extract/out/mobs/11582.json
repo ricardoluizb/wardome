@@ -1,0 +1,12 @@
+{
+  "id": 11582,
+  "alias": "waiter",
+  "short_desc": "the Waiter",
+  "long_desc": "A waiter is going around from one place to another.",
+  "detailed_desc": "The waiter looks like he could easily kill you while still carrying quite a\nfew firebreathers.",
+  "flags_raw": "10 8 0 E",
+  "stats1_raw": "45 -6 0 1d1+1980 5d5+38",
+  "stats2_raw": "675 385477 2",
+  "stats3_raw": "8 8 1 -1 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

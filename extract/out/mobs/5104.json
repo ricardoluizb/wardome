@@ -4,9 +4,9 @@
   "short_desc": "the drow priestess",
   "long_desc": "A drow priestess is here shouting orders.",
   "detailed_desc": "I wouldn't want go get on her bad side!",
-  "flags_raw": "abflm dk -1000 S",
-  "stats1_raw": "17 5 0 1d11+205 14d1+4",
-  "stats2_raw": "4000 28000",
-  "stats3_raw": "8 8 2",
+  "flags_raw": "6187 1032 -1000 E",
+  "stats1_raw": "36 2 4 1d1+756 5d4+14",
+  "stats2_raw": "540 188768 0",
+  "stats3_raw": "8 8 2 1 1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/51.mob"
 }

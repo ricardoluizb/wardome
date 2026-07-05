@@ -1,0 +1,21 @@
+{
+  "id": 29555,
+  "zone_id": 295,
+  "name": "The Horse",
+  "description": "This is a broad clearing full of tradesmen and a huge, half-finished wooden\nhorse. You see scattered about the clearing wooden rabbits, badgers, stoats,\nturtles, hawks and echidnas. Evidently a lot of thought went into the final\nchoice for the lure...",
+  "header_raw": "295 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29548
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/295.wld"
+}

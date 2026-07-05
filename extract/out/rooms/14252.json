@@ -1,0 +1,29 @@
+{
+  "id": 14252,
+  "zone_id": 141,
+  "name": "The Place of Ultimate Evil",
+  "description": "It is dark, there is no evidence of light except what you have\nwith you.  And this is swallowed by the darkness within 2 feet.",
+  "header_raw": "141 8257 1",
+  "flags_text": "8257",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14255
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14251
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

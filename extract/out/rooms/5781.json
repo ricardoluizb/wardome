@@ -1,0 +1,26 @@
+{
+  "id": 5781,
+  "zone_id": 57,
+  "name": "Ogre Cave",
+  "description": "Whew! What a smell! This cave, littered as it is with garbage, offal and \nhalf-eaten body parts, smells atrocious. And so does its inhabitant! Too\nbad for you he's very sensitive about it all, and when he sees you gag and\nretch, he leaps forward to attack.\n\nA traveller once told you that he found a gateway to another dimension in \nan Ogre cave in these parts...",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "entrance to a cave",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5780
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "floor ground",
+      "description": "There is a circular scorch mark on the floor here."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

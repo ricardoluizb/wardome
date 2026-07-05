@@ -1,0 +1,12 @@
+{
+  "id": 17343,
+  "alias": "raider saxon",
+  "short_desc": "a Saxon raider",
+  "long_desc": "A Saxon raider is here, ready to take your head as a trophy",
+  "detailed_desc": "The Saxon raider carries his sax, *yes really it is an actual weapon name*, \nand is dressed in various hides.",
+  "flags_raw": "46 524288 -200 E",
+  "stats1_raw": "120 -40 -8 1d1+3360 5d13+48",
+  "stats2_raw": "1800 4918761 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/173.mob"
+}

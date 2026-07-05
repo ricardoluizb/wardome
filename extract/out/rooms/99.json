@@ -1,0 +1,54 @@
+{
+  "id": 99,
+  "zone_id": 0,
+  "name": "The Realm Of The Dead",
+  "description": "You are standing on an immense, grey stone floor that stretches as far\nas you can see in all directions.  Rough winds plunging from the dark,\nstarless sky tear savagely at your fragile body.",
+  "header_raw": "0 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The hard floor seems to go on forever.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 99
+    },
+    {
+      "dir": 1,
+      "description": "The hard floor seems to go on forever.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 99
+    },
+    {
+      "dir": 2,
+      "description": "The hard floor seems to go on forever.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 99
+    },
+    {
+      "dir": 3,
+      "description": "The hard floor seems to go on forever.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 99
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sky wind winds",
+      "description": "Cold winds plunge ceaselessly at you from the dark, cloudless sky."
+    },
+    {
+      "keywords": "floor",
+      "description": "The stone floor is the same shade of grey as the sky and is completely plain\nand unscratched.  It is probably too hard for anything to leave as much as a\nscratch on it."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/0.wld"
+}

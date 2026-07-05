@@ -1,0 +1,3034 @@
+{
+  "id": 115,
+  "name": "The city of New Sparta",
+  "header": {
+    "raw": "11699 30 2 1 -1",
+    "min_room": 11699,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11546,
+        1,
+        11527
+      ],
+      "comment": "(the minor throat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11504,
+        10,
+        11527
+      ],
+      "comment": "(the cop)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11510,
+        100,
+        16
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11518,
+        1,
+        11527
+      ],
+      "comment": "(Pee Wee)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11519,
+        5,
+        11527
+      ],
+      "comment": "(the punk)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11511,
+        100,
+        16
+      ],
+      "comment": "(a switchblade knife)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11520,
+        5,
+        11527
+      ],
+      "comment": "(the skinhead)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11512,
+        100,
+        16
+      ],
+      "comment": "(a chain)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11521,
+        5,
+        11527
+      ],
+      "comment": "(the prostitute)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11521,
+        5,
+        11527
+      ],
+      "comment": "(the prostitute)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11525,
+        3,
+        11527
+      ],
+      "comment": "(the transvestite)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11566,
+        4,
+        11527
+      ],
+      "comment": "(the stripper)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11566,
+        4,
+        11527
+      ],
+      "comment": "(the stripper)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11566,
+        4,
+        11527
+      ],
+      "comment": "(the stripper)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11585,
+        8,
+        11527
+      ],
+      "comment": "(the drunk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11585,
+        8,
+        11527
+      ],
+      "comment": "(the drunk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11506,
+        14,
+        11512
+      ],
+      "comment": "(the tourist)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11530,
+        20,
+        17
+      ],
+      "comment": "(a camera)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11578,
+        1,
+        11512
+      ],
+      "comment": "(the waiter)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3104,
+        100,
+        -1
+      ],
+      "comment": "(a canteen)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        504,
+        100,
+        -1
+      ],
+      "comment": "(a cup of coffee)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11611,
+        0,
+        2
+      ],
+      "comment": "(The Jail Cell)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11556,
+        1,
+        11611
+      ],
+      "comment": "(Esprit)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11610,
+        2,
+        2
+      ],
+      "comment": "(The Jail)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11554,
+        1,
+        11610
+      ],
+      "comment": "(the Warden)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11500,
+        1,
+        -1
+      ],
+      "comment": "(a jail key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11510,
+        100,
+        16
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11609,
+        0,
+        1
+      ],
+      "comment": "(The Chief's Office)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11553,
+        1,
+        11609
+      ],
+      "comment": "(Chief O'Hara)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11501,
+        10,
+        16
+      ],
+      "comment": "(a handgun)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11544,
+        5,
+        11601
+      ],
+      "comment": "(the fireman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11519,
+        100,
+        16
+      ],
+      "comment": "(a fireman's axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11544,
+        5,
+        11603
+      ],
+      "comment": "(the fireman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11519,
+        100,
+        16
+      ],
+      "comment": "(a fireman's axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11543,
+        1,
+        11602
+      ],
+      "comment": "(Fire Marshall Bob)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11540,
+        5,
+        11604
+      ],
+      "comment": "(the construction worker)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11513,
+        100,
+        16
+      ],
+      "comment": "(a connecting rod)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11517,
+        20,
+        13
+      ],
+      "comment": "(a tool belt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11518,
+        10,
+        6
+      ],
+      "comment": "(a hardhat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11519,
+        6,
+        11615
+      ],
+      "comment": "(the punk)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11511,
+        100,
+        16
+      ],
+      "comment": "(a switchblade knife)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11520,
+        5,
+        11615
+      ],
+      "comment": "(the skinhead)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11512,
+        100,
+        16
+      ],
+      "comment": "(a chain)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11607,
+        2,
+        1
+      ],
+      "comment": "(The Police Station)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11503,
+        10,
+        11607
+      ],
+      "comment": "(the policeman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11510,
+        100,
+        16
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11504,
+        10,
+        11607
+      ],
+      "comment": "(the cop)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11510,
+        100,
+        16
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11503,
+        10,
+        11613
+      ],
+      "comment": "(the policeman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11510,
+        16,
+        16
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11503,
+        10,
+        11605
+      ],
+      "comment": "(the policeman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11510,
+        100,
+        16
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11503,
+        10,
+        11605
+      ],
+      "comment": "(the policeman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11510,
+        100,
+        16
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11517,
+        15,
+        11606
+      ],
+      "comment": "(the alley cat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11517,
+        15,
+        11606
+      ],
+      "comment": "(the alley cat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11517,
+        15,
+        11606
+      ],
+      "comment": "(the alley cat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11584,
+        15,
+        11606
+      ],
+      "comment": "(the beastly fido)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11584,
+        15,
+        11606
+      ],
+      "comment": "(the beastly fido)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11584,
+        15,
+        11606
+      ],
+      "comment": "(the beastly fido)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11502,
+        99,
+        8
+      ],
+      "comment": "(a pair of doggie slippers)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11547,
+        1,
+        11608
+      ],
+      "comment": "(the throat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11546,
+        1,
+        11608
+      ],
+      "comment": "(the minor throat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11548,
+        1,
+        11608
+      ],
+      "comment": "(the major throat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11549,
+        1,
+        11608
+      ],
+      "comment": "(the senior throat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11550,
+        1,
+        11608
+      ],
+      "comment": "(the master throat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11523,
+        1,
+        11600
+      ],
+      "comment": "(the Bishop)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11512,
+        1,
+        11591
+      ],
+      "comment": "(Rebecca Howe)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11591,
+        1,
+        1
+      ],
+      "comment": "(Rebecca's Office)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11588,
+        3,
+        1
+      ],
+      "comment": "(Inside The Bar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11585,
+        8,
+        11580
+      ],
+      "comment": "(the drunk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11516,
+        1,
+        11589
+      ],
+      "comment": "(Paul)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11585,
+        8,
+        11589
+      ],
+      "comment": "(the drunk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11509,
+        1,
+        11585
+      ],
+      "comment": "(Carla)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11585,
+        8,
+        11585
+      ],
+      "comment": "(the drunk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11507,
+        1,
+        11584
+      ],
+      "comment": "(Norm)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11508,
+        1,
+        11584
+      ],
+      "comment": "(Cliff Claven)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11585,
+        8,
+        11584
+      ],
+      "comment": "(the drunk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11503,
+        10,
+        11516
+      ],
+      "comment": "(the policeman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11510,
+        100,
+        16
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11539,
+        6,
+        11516
+      ],
+      "comment": "(the vendor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11583,
+        5,
+        11516
+      ],
+      "comment": "(the janitor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11503,
+        10,
+        11570
+      ],
+      "comment": "(the policeman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11510,
+        100,
+        16
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11506,
+        14,
+        11570
+      ],
+      "comment": "(the tourist)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11530,
+        20,
+        17
+      ],
+      "comment": "(a camera)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11538,
+        6,
+        11570
+      ],
+      "comment": "(the innocent child)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11583,
+        5,
+        11570
+      ],
+      "comment": "(the janitor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11583,
+        5,
+        11506
+      ],
+      "comment": "(the janitor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11503,
+        10,
+        11573
+      ],
+      "comment": "(the policeman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11510,
+        100,
+        16
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11583,
+        5,
+        11573
+      ],
+      "comment": "(the janitor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11582,
+        1,
+        11524
+      ],
+      "comment": "(the Waiter)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11581,
+        1,
+        11595
+      ],
+      "comment": "(the Waiter)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11580,
+        1,
+        11520
+      ],
+      "comment": "(the Waiter)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11579,
+        1,
+        11576
+      ],
+      "comment": "(the waiter)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11555,
+        1,
+        11594
+      ],
+      "comment": "(the maid)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11577,
+        1,
+        11594
+      ],
+      "comment": "(the receptionist)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11576,
+        1,
+        11567
+      ],
+      "comment": "(the Armourer)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        29505,
+        2,
+        -1
+      ],
+      "comment": "(&ya Bronze &YBreastplate&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        29514,
+        2,
+        -1
+      ],
+      "comment": "(&ya Bronze &YShield&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        29519,
+        2,
+        -1
+      ],
+      "comment": "(&ya Bronze &YHelm&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11504,
+        10,
+        11501
+      ],
+      "comment": "(the cop)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11510,
+        100,
+        16
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11524,
+        4,
+        11501
+      ],
+      "comment": "(the dockworker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11575,
+        1,
+        11501
+      ],
+      "comment": "(the Captain)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3060,
+        10,
+        -1
+      ],
+      "comment": "(a raft)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3061,
+        10,
+        -1
+      ],
+      "comment": "(a canoe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11574,
+        1,
+        11525
+      ],
+      "comment": "(the Guildmaster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11573,
+        1,
+        11596
+      ],
+      "comment": "(the Guildmaster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11572,
+        1,
+        11521
+      ],
+      "comment": "(the Guildmaster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11571,
+        1,
+        11577
+      ],
+      "comment": "(the Guildmaster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11570,
+        1,
+        11523
+      ],
+      "comment": "(the knight)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11569,
+        1,
+        11514
+      ],
+      "comment": "(the assassin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11568,
+        1,
+        11519
+      ],
+      "comment": "(the knight templar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11567,
+        1,
+        11575
+      ],
+      "comment": "(the sorcerer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11506,
+        14,
+        11510
+      ],
+      "comment": "(the tourist)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11530,
+        20,
+        17
+      ],
+      "comment": "(a camera)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11506,
+        14,
+        11510
+      ],
+      "comment": "(the tourist)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11530,
+        20,
+        17
+      ],
+      "comment": "(a camera)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11538,
+        6,
+        11510
+      ],
+      "comment": "(the innocent child)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11565,
+        1,
+        11510
+      ],
+      "comment": "(the bleached blonde bimbo)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11558,
+        2,
+        11518
+      ],
+      "comment": "(the cop)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11510,
+        100,
+        16
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11563,
+        1,
+        11518
+      ],
+      "comment": "(Raghuram the 7-11 Manager)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11520,
+        10,
+        -1
+      ],
+      "comment": "(a doughnut)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11522,
+        10,
+        -1
+      ],
+      "comment": "(a bag of potato chips)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11523,
+        10,
+        -1
+      ],
+      "comment": "(a box of pretzels)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11524,
+        10,
+        -1
+      ],
+      "comment": "(a two litre bottle)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11525,
+        10,
+        -1
+      ],
+      "comment": "(a carton)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11526,
+        10,
+        -1
+      ],
+      "comment": "(a carton)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11527,
+        10,
+        -1
+      ],
+      "comment": "(an Italian hoagie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11562,
+        1,
+        11517
+      ],
+      "comment": "(the arms dealer)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11510,
+        500,
+        -1
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11511,
+        500,
+        -1
+      ],
+      "comment": "(a switchblade knife)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11519,
+        500,
+        -1
+      ],
+      "comment": "(a fireman's axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11561,
+        1,
+        11507
+      ],
+      "comment": "(a fisherman)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11516,
+        5,
+        -1
+      ],
+      "comment": "(a fish)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11521,
+        5,
+        -1
+      ],
+      "comment": "(a lobster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11504,
+        10,
+        11597
+      ],
+      "comment": "(the cop)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11510,
+        100,
+        16
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11506,
+        14,
+        11597
+      ],
+      "comment": "(the tourist)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11530,
+        20,
+        17
+      ],
+      "comment": "(a camera)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11519,
+        5,
+        11597
+      ],
+      "comment": "(the punk)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11511,
+        100,
+        16
+      ],
+      "comment": "(a switchblade knife)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11538,
+        6,
+        11597
+      ],
+      "comment": "(the innocent child)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11557,
+        1,
+        11597
+      ],
+      "comment": "(the cashier)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11503,
+        500,
+        -1
+      ],
+      "comment": "(a pair of Nike sneakers)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11504,
+        500,
+        -1
+      ],
+      "comment": "(a pair of blue jeans)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11505,
+        500,
+        -1
+      ],
+      "comment": "(a sweatshirt)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11506,
+        500,
+        -1
+      ],
+      "comment": "(an overcoat)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11507,
+        500,
+        -1
+      ],
+      "comment": "(a pair of sweatpants)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11514,
+        500,
+        -1
+      ],
+      "comment": "(a silver dildo)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11528,
+        500,
+        -1
+      ],
+      "comment": "(a suit jacket)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11529,
+        500,
+        -1
+      ],
+      "comment": "(a necktie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11560,
+        2,
+        11597
+      ],
+      "comment": "(a shoplifter)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11514,
+        1,
+        11587
+      ],
+      "comment": "(Frasier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11558,
+        2,
+        11587
+      ],
+      "comment": "(the cop)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11510,
+        100,
+        16
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11551,
+        6,
+        11560
+      ],
+      "comment": "(the cheerleader)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11515,
+        10,
+        17
+      ],
+      "comment": "(a set of pom-poms)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11552,
+        1,
+        11560
+      ],
+      "comment": "(Ilsa the Head Cheerleader)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11515,
+        10,
+        17
+      ],
+      "comment": "(a set of pom-poms)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11551,
+        6,
+        11562
+      ],
+      "comment": "(the cheerleader)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11515,
+        10,
+        17
+      ],
+      "comment": "(a set of pom-poms)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11530,
+        2,
+        11559
+      ],
+      "comment": "(the Human receiver)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11551,
+        6,
+        11559
+      ],
+      "comment": "(the cheerleader)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11515,
+        10,
+        17
+      ],
+      "comment": "(a set of pom-poms)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11540,
+        5,
+        11544
+      ],
+      "comment": "(the construction worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11541,
+        5,
+        11544
+      ],
+      "comment": "(the drunk, rowdy fan)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3001,
+        100,
+        -1
+      ],
+      "comment": "(a bottle)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11542,
+        4,
+        11544
+      ],
+      "comment": "(the Security Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11510,
+        100,
+        16
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11537,
+        5,
+        11533
+      ],
+      "comment": "(the loyal fan)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11539,
+        6,
+        11533
+      ],
+      "comment": "(the vendor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11542,
+        4,
+        11533
+      ],
+      "comment": "(the Security Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11510,
+        100,
+        16
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11506,
+        14,
+        11535
+      ],
+      "comment": "(the tourist)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11530,
+        20,
+        17
+      ],
+      "comment": "(a camera)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11537,
+        5,
+        11535
+      ],
+      "comment": "(the loyal fan)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11539,
+        6,
+        11535
+      ],
+      "comment": "(the vendor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11542,
+        4,
+        11535
+      ],
+      "comment": "(the Security Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11510,
+        100,
+        16
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11542,
+        4,
+        11540
+      ],
+      "comment": "(the Security Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11510,
+        100,
+        16
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11539,
+        6,
+        11545
+      ],
+      "comment": "(the vendor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11540,
+        5,
+        11545
+      ],
+      "comment": "(the construction worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11541,
+        5,
+        11545
+      ],
+      "comment": "(the drunk, rowdy fan)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3001,
+        100,
+        -1
+      ],
+      "comment": "(a bottle)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11539,
+        6,
+        11543
+      ],
+      "comment": "(the vendor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11541,
+        5,
+        11543
+      ],
+      "comment": "(the drunk, rowdy fan)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3001,
+        100,
+        -1
+      ],
+      "comment": "(a bottle)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11510,
+        1,
+        11583
+      ],
+      "comment": "(Woody)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3001,
+        10,
+        -1
+      ],
+      "comment": "(a bottle)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3000,
+        20,
+        -1
+      ],
+      "comment": "(&gDragon's Barrel&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11513,
+        1,
+        11583
+      ],
+      "comment": "(Sam)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11509,
+        3,
+        16
+      ],
+      "comment": "(a baseball bat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11515,
+        1,
+        11583
+      ],
+      "comment": "(Lilith)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11540,
+        5,
+        11583
+      ],
+      "comment": "(the construction worker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11506,
+        14,
+        11502
+      ],
+      "comment": "(the tourist)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11530,
+        20,
+        17
+      ],
+      "comment": "(a camera)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11506,
+        14,
+        11502
+      ],
+      "comment": "(the tourist)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11530,
+        20,
+        17
+      ],
+      "comment": "(a camera)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11539,
+        6,
+        11502
+      ],
+      "comment": "(the vendor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11538,
+        6,
+        11509
+      ],
+      "comment": "(the innocent child)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11537,
+        5,
+        11532
+      ],
+      "comment": "(the loyal fan)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11538,
+        6,
+        11532
+      ],
+      "comment": "(the innocent child)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11537,
+        5,
+        11534
+      ],
+      "comment": "(the loyal fan)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11538,
+        6,
+        11534
+      ],
+      "comment": "(the innocent child)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11537,
+        5,
+        11536
+      ],
+      "comment": "(the loyal fan)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11527,
+        4,
+        11558
+      ],
+      "comment": "(the Orc lineman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11533,
+        2,
+        11558
+      ],
+      "comment": "(the Orc thrower)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11528,
+        4,
+        11558
+      ],
+      "comment": "(the Human lineman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11528,
+        4,
+        11549
+      ],
+      "comment": "(the Human lineman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11532,
+        2,
+        11549
+      ],
+      "comment": "(the Human blocker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11534,
+        2,
+        11549
+      ],
+      "comment": "(the Human thrower)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11527,
+        4,
+        11549
+      ],
+      "comment": "(the Orc lineman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11536,
+        1,
+        11551
+      ],
+      "comment": "(the Human blitzer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11508,
+        3,
+        8
+      ],
+      "comment": "(a pair of shoulder pads)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11533,
+        2,
+        11554
+      ],
+      "comment": "(the Orc thrower)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11535,
+        1,
+        11554
+      ],
+      "comment": "(the Orc blitzer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11508,
+        3,
+        8
+      ],
+      "comment": "(a pair of shoulder pads)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11534,
+        2,
+        11552
+      ],
+      "comment": "(the Human thrower)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11531,
+        2,
+        11555
+      ],
+      "comment": "(the Orc blocker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11532,
+        2,
+        11555
+      ],
+      "comment": "(the Human blocker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11531,
+        2,
+        11548
+      ],
+      "comment": "(the Orc blocker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11527,
+        4,
+        11561
+      ],
+      "comment": "(the Orc lineman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11530,
+        2,
+        11561
+      ],
+      "comment": "(the Human receiver)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11529,
+        2,
+        11550
+      ],
+      "comment": "(the Orc receiver)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11528,
+        4,
+        11557
+      ],
+      "comment": "(the Human lineman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11529,
+        2,
+        11557
+      ],
+      "comment": "(the Orc receiver)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11527,
+        4,
+        11553
+      ],
+      "comment": "(the Orc lineman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11528,
+        4,
+        11553
+      ],
+      "comment": "(the Human lineman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11505,
+        2,
+        11528
+      ],
+      "comment": "(the mugger)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11511,
+        100,
+        16
+      ],
+      "comment": "(a switchblade knife)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11521,
+        5,
+        11528
+      ],
+      "comment": "(the prostitute)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11521,
+        5,
+        11528
+      ],
+      "comment": "(the prostitute)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11525,
+        3,
+        11528
+      ],
+      "comment": "(the transvestite)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11526,
+        1,
+        11528
+      ],
+      "comment": "(the pimp)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11511,
+        100,
+        16
+      ],
+      "comment": "(a switchblade knife)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11506,
+        14,
+        11505
+      ],
+      "comment": "(the tourist)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11530,
+        20,
+        17
+      ],
+      "comment": "(a camera)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11524,
+        4,
+        11505
+      ],
+      "comment": "(the dockworker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11506,
+        14,
+        11504
+      ],
+      "comment": "(the tourist)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11530,
+        20,
+        17
+      ],
+      "comment": "(a camera)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11524,
+        4,
+        11504
+      ],
+      "comment": "(the dockworker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11505,
+        2,
+        11515
+      ],
+      "comment": "(the mugger)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11511,
+        100,
+        16
+      ],
+      "comment": "(a switchblade knife)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11525,
+        3,
+        11515
+      ],
+      "comment": "(the transvestite)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11522,
+        1,
+        11590
+      ],
+      "comment": "(Jonathan Hill)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11500,
+        1,
+        11581
+      ],
+      "comment": "(Goethe)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3050,
+        500,
+        -1
+      ],
+      "comment": "(a scroll of identify)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3052,
+        500,
+        -1
+      ],
+      "comment": "(a scroll of recall)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11520,
+        5,
+        11581
+      ],
+      "comment": "(the skinhead)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11512,
+        100,
+        16
+      ],
+      "comment": "(a chain)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11517,
+        15,
+        11508
+      ],
+      "comment": "(the alley cat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11520,
+        5,
+        11508
+      ],
+      "comment": "(the skinhead)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11512,
+        100,
+        16
+      ],
+      "comment": "(a chain)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11511,
+        1,
+        11593
+      ],
+      "comment": "(Mayor Abe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11504,
+        10,
+        11569
+      ],
+      "comment": "(the cop)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11510,
+        100,
+        16
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11506,
+        14,
+        11569
+      ],
+      "comment": "(the tourist)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11530,
+        20,
+        17
+      ],
+      "comment": "(a camera)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11503,
+        10,
+        11529
+      ],
+      "comment": "(the policeman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11510,
+        100,
+        16
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11506,
+        14,
+        11529
+      ],
+      "comment": "(the tourist)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11530,
+        20,
+        17
+      ],
+      "comment": "(a camera)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11503,
+        10,
+        11574
+      ],
+      "comment": "(the policeman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11510,
+        100,
+        16
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11506,
+        14,
+        11574
+      ],
+      "comment": "(the tourist)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11530,
+        20,
+        17
+      ],
+      "comment": "(a camera)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11504,
+        10,
+        11530
+      ],
+      "comment": "(the cop)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11510,
+        100,
+        16
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11504,
+        10,
+        11572
+      ],
+      "comment": "(the cop)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11510,
+        100,
+        16
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11504,
+        10,
+        11511
+      ],
+      "comment": "(the cop)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11510,
+        100,
+        16
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11503,
+        10,
+        11599
+      ],
+      "comment": "(the policeman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11510,
+        100,
+        16
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11502,
+        1,
+        11568
+      ],
+      "comment": "(Wally the Wizard)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3051,
+        500,
+        -1
+      ],
+      "comment": "(a yellow potion of see invisible)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3053,
+        500,
+        -1
+      ],
+      "comment": "(a grey wand of invisibility)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11501,
+        1,
+        11513
+      ],
+      "comment": "(Harry the Hare Krishna)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3280,
+        500,
+        -1
+      ],
+      "comment": "(a green herb)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3281,
+        500,
+        -1
+      ],
+      "comment": "(Agrimony)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3282,
+        500,
+        -1
+      ],
+      "comment": "(Astragalus)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3283,
+        500,
+        -1
+      ],
+      "comment": "(Bilberry)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3284,
+        500,
+        -1
+      ],
+      "comment": "(Black Cohosh)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3285,
+        500,
+        -1
+      ],
+      "comment": "(Chasteberry)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3286,
+        500,
+        -1
+      ],
+      "comment": "(Damiana)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3287,
+        500,
+        -1
+      ],
+      "comment": "(Dandelion)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        524,
+        1,
+        -1
+      ],
+      "comment": "(an old and white herb)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11565,
+        1,
+        11566
+      ],
+      "comment": "(the bleached blonde bimbo)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11520,
+        5,
+        11566
+      ],
+      "comment": "(the skinhead)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11512,
+        100,
+        16
+      ],
+      "comment": "(a chain)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11504,
+        10,
+        11522
+      ],
+      "comment": "(the cop)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11510,
+        100,
+        16
+      ],
+      "comment": "(a nightstick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11517,
+        15,
+        11522
+      ],
+      "comment": "(the alley cat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11519,
+        5,
+        11522
+      ],
+      "comment": "(the punk)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11511,
+        100,
+        16
+      ],
+      "comment": "(a switchblade knife)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        11579,
+        3034,
+        -1
+      ],
+      "comment": "(an automatic teller machine)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        3034,
+        99,
+        11579
+      ],
+      "comment": "(an automatic teller machine)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/115.zon"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 11238,
+  "zone_id": 112,
+  "name": "The Reception Area",
+  "description": "The hall ends in a spacious office, dominated by a massive cedar table,\nwhich serves as a desk for the Mayor's busy secretary. It is covered with\npiles of official documents, but from here it looks as if most of them are\neither blank or covered in meaningless scribbles. A plush chair rests behind\nthe desk, for the convenience of the Mayor's secretary, as does a large\nlantern, which burns continuously, the result of a minor but strong dweomer.\nA stout wooden door to the west leads into the Mayor's office.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11237
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11239
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

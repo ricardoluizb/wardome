@@ -1,0 +1,37 @@
+{
+  "id": 10013,
+  "zone_id": 100,
+  "name": "Echoing Hallway",
+  "description": "Just north of you is the start to a set of stone stairs leading up in the\ncastle's heights.  This must be the way to the turret you saw from the outside.\nEast of you, a small hallway with a low ceiling runs into darkness.  Looking in\nthat direction gives you the chills, although for what reason, you have no\nidea.  The hallway runs north to the stairs or south toward the entrance (or\nexit) to the castle.",
+  "header_raw": "100 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10014
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10015
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10012
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/100.wld"
+}

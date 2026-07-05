@@ -1,0 +1,12 @@
+{
+  "id": 13510,
+  "alias": "spider green",
+  "short_desc": "the green crystal spider",
+  "long_desc": "A green crystal spider is roaming here.",
+  "detailed_desc": "The fantastic beast seems to be made of a crystalline substance\nwhich is giving off a green light.  It clicks its crystal mandibles\nin irritation with you.",
+  "flags_raw": "136 0 -400 E",
+  "stats1_raw": "20 -8 -6 1d1+1992 5d5+98",
+  "stats2_raw": "300 56083 9",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/135.mob"
+}

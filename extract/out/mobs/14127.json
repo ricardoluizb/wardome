@@ -1,0 +1,12 @@
+{
+  "id": 14127,
+  "alias": "prisoner",
+  "short_desc": "the dirty prisoner",
+  "long_desc": "The Prisoner grips the bars with his dirty hands.",
+  "detailed_desc": "The Prisoner seems to be a slimy character.  He was a thief, and\nJustice was done to him.  You glimpse light shining off of\nsomething black in his hands.",
+  "flags_raw": "2280 33792 -666 E",
+  "stats1_raw": "50 -7 1 1d1+1800 5d6+30",
+  "stats2_raw": "750 507177 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

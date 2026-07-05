@@ -1,0 +1,12 @@
+{
+  "id": 9000,
+  "alias": "giant vulture",
+  "short_desc": "the giant vulture",
+  "long_desc": "A giant vulture is here.",
+  "detailed_desc": "It looks hungry.",
+  "flags_raw": "108 9256 -1000 E",
+  "stats1_raw": "180 -88 -30 1d1+18000 5d37+162",
+  "stats2_raw": "2700 23885378 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/90.mob"
+}

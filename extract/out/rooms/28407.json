@@ -1,0 +1,37 @@
+{
+  "id": 28407,
+  "zone_id": 284,
+  "name": "The dark submersed cave",
+  "description": "You are in a giant cave, all the walls are shining with a soft golden light.\nThe cave continues to the south and there is a small passage to west.",
+  "header_raw": "284 9 6",
+  "flags_text": "9",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "South lead to another way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28409
+    },
+    {
+      "dir": 3,
+      "description": "To the west is another way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28408
+    },
+    {
+      "dir": 4,
+      "description": "A dark stairway leads you downward.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28406
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/284.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 29543,
+  "zone_id": 295,
+  "name": "The Physicians' Tent",
+  "description": "Here Machaon, son of Asclepius, and his brother tend to the sick and the\nwounded. They will even tend your injuries, for a fee.",
+  "header_raw": "295 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29540
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/295.wld"
+}

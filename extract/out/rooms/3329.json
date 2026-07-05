@@ -3,8 +3,8 @@
   "zone_id": 33,
   "name": "The End Of The Passageway",
   "description": "The cave passageway ends abruptly here to the north in a\nlarge wooden door set into the stone walls.  The craftsmanship\nis superb!  You can also head back to the main passage to the\nwest, where there seems to be more light than here.  An echo\nfrom down the passage makes you wonder for a moment if you are\nbeing followed, but you see nothing there...",
-  "header_raw": "33 d 0",
-  "flags_text": "d",
+  "header_raw": "33 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

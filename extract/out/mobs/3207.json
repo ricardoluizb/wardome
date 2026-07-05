@@ -1,0 +1,12 @@
+{
+  "id": 3207,
+  "alias": "acolyte",
+  "short_desc": "an acolyte",
+  "long_desc": "An acolyte is here, looking for a broom.",
+  "detailed_desc": "The acolyte wanders around, looking for a broom.  He is making a heroic\nattempt to ignore you.",
+  "flags_raw": "456 16777216 400 E",
+  "stats1_raw": "155 -57 -13 1d1+4332 5d16+62",
+  "stats2_raw": "2325 11337518 0",
+  "stats3_raw": "8 8 1 1 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/32.mob"
+}

@@ -3,8 +3,8 @@
   "zone_id": 186,
   "name": "The End Of The Passage",
   "description": "Ahhh... at last, the end of the hallway... you can exit into open\nair to the west,or return to the east and make sure you didn't miss\nanything.",
-  "header_raw": "186 d 0",
-  "flags_text": "d",
+  "header_raw": "186 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {
@@ -22,6 +22,14 @@
       "door_flag": 0,
       "key": -1,
       "to": 18608
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 18648
     }
   ],
   "extra_descriptions": [],

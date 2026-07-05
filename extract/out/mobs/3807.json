@@ -1,0 +1,12 @@
+{
+  "id": 3807,
+  "alias": "rat were wererat guard",
+  "short_desc": "a wererat guard",
+  "long_desc": "A humanoid rat stands guard here, but decides to attack you!",
+  "detailed_desc": "This beast looks like a combination rat and human, as it has properties of\nboth, namely standing erect, wielding a weapon, but with fur, ears, and tail\nof a rat.  He seems to be guarding something.",
+  "flags_raw": "42 0 -500 E",
+  "stats1_raw": "14 13 7 1d1+288 5d2+4",
+  "stats2_raw": "210 15601 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/38.mob"
+}

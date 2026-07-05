@@ -1,0 +1,12 @@
+{
+  "id": 5744,
+  "alias": "cyclops iron",
+  "short_desc": "an iron Cyclops",
+  "long_desc": "A Huge iron Cyclops with a single huge gem serving as an eye towers over you.",
+  "detailed_desc": "This specially made Iron Golem is extremely tough and powerful. Although not\naggressive, it will certainly attack if you seek to take its gem.",
+  "flags_raw": "74 8328 0 E",
+  "stats1_raw": "40 -22 -12 1d1+4632 5d13+126",
+  "stats2_raw": "600 398410 11",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

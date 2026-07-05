@@ -3,8 +3,8 @@
   "zone_id": 52,
   "name": "A Small Guard House",
   "description": "This was once the barracks for Thalos' Cityguards.  Now just an empty\nshell, this small shack still stands guarding the entrance both to the\ncity and to the city hall.",
-  "header_raw": "52 d 1",
-  "flags_text": "d",
+  "header_raw": "52 8 1",
+  "flags_text": "8",
   "sector": 1,
   "exits": [
     {

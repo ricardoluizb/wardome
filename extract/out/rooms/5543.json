@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Drafting Room",
   "description": "The walls are covered with paper sketchings of hull designs.  This room\nis used by the shipwright to build his creations on paper before making a\nsingle cut in wood.",
-  "header_raw": "54 d 0",
-  "flags_text": "d",
+  "header_raw": "54 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

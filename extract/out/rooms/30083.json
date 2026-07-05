@@ -1,0 +1,21 @@
+{
+  "id": 30083,
+  "zone_id": 300,
+  "name": "A green garden",
+  "description": "There is a sweet fragrance in the air.  You are in a scenic garden with many\nflowers, a trimmed green lawn and a single sturdy apple tree.  Unfortunately,\nit seems that what's left of the fruit lies rotting upon the ground.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30080
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

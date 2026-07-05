@@ -3,8 +3,8 @@
   "zone_id": 33,
   "name": "A Cave Passageway",
   "description": "The tunnel twists to the south and east from here, \nits dark length seemingly dismal and lifeless.  A faint \nthumping sound reverberates from the walls, making you \nperk your ears for the direction of the noise.",
-  "header_raw": "33 d 0",
-  "flags_text": "d",
+  "header_raw": "33 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

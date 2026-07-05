@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "The Great Hall",
   "description": "You are standing in the south-west end of the Great Hall. It \nis truly vast; the roof is so high above your head, that it seems no\ncloser than the clouds outside.  The roof is beautifully painted, by\nsomeone who must have been a true master.  The hall is very large,\nand could easily seat several hundred people at a banquet.",
-  "header_raw": "150 d 0",
-  "flags_text": "d",
+  "header_raw": "150 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

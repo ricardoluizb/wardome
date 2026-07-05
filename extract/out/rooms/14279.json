@@ -1,0 +1,21 @@
+{
+  "id": 14279,
+  "zone_id": 141,
+  "name": "In the Warp",
+  "description": "You are in a featureless room.  You see the apprentice and lover\nof Mondain here.  Minax.  She does not seem happy to see you.",
+  "header_raw": "141 64 0",
+  "flags_text": "64",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "The Time Warp zips to the future.",
+      "keywords": "warp",
+      "door_flag": 2,
+      "key": 14116,
+      "to": 14280
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

@@ -1,0 +1,1174 @@
+{
+  "id": 69,
+  "name": "Haunted House",
+  "header": {
+    "raw": "6999 30 1 1 -1",
+    "min_room": 6999,
+    "top_room": 30,
+    "lifespan": 1,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6950,
+        1,
+        1
+      ],
+      "comment": "(On the Roof)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6945,
+        1,
+        2
+      ],
+      "comment": "(The Room of the Golden Lance)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6909,
+        1,
+        6945
+      ],
+      "comment": "(a golden lance)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6921,
+        1,
+        6945
+      ],
+      "comment": "(the boogie monster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6909,
+        3,
+        6905
+      ],
+      "comment": "(a headless ghost)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6919,
+        2,
+        17
+      ],
+      "comment": "(a ghosts' head)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6920,
+        2,
+        6919
+      ],
+      "comment": "(a stupid ghost's brain)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6900,
+        5,
+        1
+      ],
+      "comment": "(Up a Twisting Path)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6922,
+        2,
+        6951
+      ],
+      "comment": "(a dark crow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6920,
+        1,
+        6936
+      ],
+      "comment": "(a lost wizard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6929,
+        3,
+        17
+      ],
+      "comment": "(a glowing wand)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6930,
+        3,
+        -1
+      ],
+      "comment": "(a violet scroll)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6913,
+        0,
+        1
+      ],
+      "comment": "(A Cell)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6918,
+        2,
+        6913
+      ],
+      "comment": "(a sad prisoner)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6916,
+        0,
+        1
+      ],
+      "comment": "(A Bloody Cell)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6917,
+        2,
+        6916
+      ],
+      "comment": "(the evil prisoner)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6928,
+        1,
+        17
+      ],
+      "comment": "(a rusted file)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6912,
+        2,
+        1
+      ],
+      "comment": "(A Cell)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6916,
+        2,
+        6912
+      ],
+      "comment": "(an insane prisoner)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6915,
+        2,
+        6906
+      ],
+      "comment": "(a beetle)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6947,
+        3,
+        1
+      ],
+      "comment": "(The End of the Hallway)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6914,
+        2,
+        6947
+      ],
+      "comment": "(a roach)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6913,
+        2,
+        6909
+      ],
+      "comment": "(a wandering rat)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6961,
+        4,
+        1
+      ],
+      "comment": "(The Storm Cellar)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6922,
+        1,
+        6961
+      ],
+      "comment": "(a bench)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6923,
+        1,
+        6961
+      ],
+      "comment": "(a box)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6924,
+        1,
+        6923
+      ],
+      "comment": "(a bootle)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6925,
+        1,
+        6923
+      ],
+      "comment": "(an old bottle)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6926,
+        1,
+        6923
+      ],
+      "comment": "(an old bread)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6912,
+        2,
+        6917
+      ],
+      "comment": "(a rat)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6921,
+        1,
+        6917
+      ],
+      "comment": "(a skull)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6904,
+        2,
+        1
+      ],
+      "comment": "(Inside The Dark and Creepy House)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6911,
+        3,
+        6904
+      ],
+      "comment": "(A little bat)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6949,
+        3,
+        1
+      ],
+      "comment": "(Inside the Attic)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6910,
+        2,
+        6949
+      ],
+      "comment": "(a large bat)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6937,
+        0,
+        1
+      ],
+      "comment": "(Before the Porch)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6937,
+        1,
+        1
+      ],
+      "comment": "(Before the Porch)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6909,
+        3,
+        6937
+      ],
+      "comment": "(a headless ghost)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6919,
+        2,
+        17
+      ],
+      "comment": "(a ghosts' head)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6920,
+        2,
+        6919
+      ],
+      "comment": "(a stupid ghost's brain)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6934,
+        2,
+        1
+      ],
+      "comment": "(A Secret Room)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6918,
+        1,
+        6934
+      ],
+      "comment": "(lots of gold coins)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6933,
+        3,
+        1
+      ],
+      "comment": "(A Closet)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6908,
+        5,
+        6933
+      ],
+      "comment": "(a little spider)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6917,
+        2,
+        6933
+      ],
+      "comment": "(a scarf)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6956,
+        1,
+        1
+      ],
+      "comment": "(The Closet)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6915,
+        2,
+        6956
+      ],
+      "comment": "(an old leather belt)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6916,
+        2,
+        6956
+      ],
+      "comment": "(an old jacket)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6908,
+        5,
+        6946
+      ],
+      "comment": "(a little spider)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6904,
+        1,
+        6922
+      ],
+      "comment": "(the fireplace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6908,
+        5,
+        6922
+      ],
+      "comment": "(a little spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6907,
+        2,
+        6926
+      ],
+      "comment": "(a rock)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6927,
+        0,
+        1
+      ],
+      "comment": "(The Path to the Outhouse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6907,
+        2,
+        6927
+      ],
+      "comment": "(a rock)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6944,
+        1,
+        1
+      ],
+      "comment": "(A Room)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6913,
+        3,
+        6944
+      ],
+      "comment": "(a rusty sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6906,
+        1,
+        6944
+      ],
+      "comment": "(a box)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6918,
+        0,
+        1
+      ],
+      "comment": "(The Slow-Death Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6905,
+        1,
+        6918
+      ],
+      "comment": "(the mad dragon)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6903,
+        1,
+        -1
+      ],
+      "comment": "(a secret key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6931,
+        3,
+        16
+      ],
+      "comment": "(a dragon tail)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6932,
+        3,
+        21
+      ],
+      "comment": "(a bull skull)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6940,
+        1,
+        1
+      ],
+      "comment": "(A Plain Old Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6904,
+        1,
+        6940
+      ],
+      "comment": "(a harmless spider)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6958,
+        3,
+        1
+      ],
+      "comment": "(Behind the Stairs)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6910,
+        3,
+        6958
+      ],
+      "comment": "(a torch)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6903,
+        1,
+        6958
+      ],
+      "comment": "(darkness)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6905,
+        1,
+        -1
+      ],
+      "comment": "(a special key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6927,
+        3,
+        16
+      ],
+      "comment": "(the dark sword of power)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6939,
+        3,
+        1
+      ],
+      "comment": "(The Southern Hallway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6939,
+        1,
+        1
+      ],
+      "comment": "(The Southern Hallway)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6902,
+        3,
+        6939
+      ],
+      "comment": "(a wandering ghoul)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6911,
+        3,
+        16
+      ],
+      "comment": "(a pair of bloody claws)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6911,
+        0,
+        1
+      ],
+      "comment": "(Into the Dungeon)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6911,
+        2,
+        1
+      ],
+      "comment": "(Into the Dungeon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6902,
+        3,
+        6911
+      ],
+      "comment": "(a wandering ghoul)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6911,
+        3,
+        16
+      ],
+      "comment": "(a pair of bloody claws)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6921,
+        0,
+        1
+      ],
+      "comment": "(Near the Deck)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6902,
+        3,
+        6921
+      ],
+      "comment": "(a wandering ghoul)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6911,
+        4,
+        16
+      ],
+      "comment": "(a pair of bloody claws)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6941,
+        3,
+        1
+      ],
+      "comment": "(A Room in the House)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6908,
+        1,
+        6941
+      ],
+      "comment": "(a small bed)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6957,
+        4,
+        2
+      ],
+      "comment": "(The Secret Den of the Owner)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6901,
+        1,
+        6957
+      ],
+      "comment": "(an old woman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6900,
+        5,
+        2
+      ],
+      "comment": "(a ring of the devil)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6912,
+        5,
+        16
+      ],
+      "comment": "(the PUNISHER)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6914,
+        5,
+        -1
+      ],
+      "comment": "(a purple potion)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6920,
+        3,
+        2
+      ],
+      "comment": "(The Lair of the Dungeon Ruler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6900,
+        1,
+        6920
+      ],
+      "comment": "(the dungeon ruler)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6901,
+        5,
+        11
+      ],
+      "comment": "(the shield of the dead)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6907,
+        1,
+        -1
+      ],
+      "comment": "(the key to the treasure)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6902,
+        1,
+        -1
+      ],
+      "comment": "(a skeleton key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6919,
+        1,
+        6920
+      ],
+      "comment": "(a slave)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6906,
+        1,
+        6960
+      ],
+      "comment": "(an old well)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6962,
+        5,
+        2
+      ],
+      "comment": "(In a Very Dark Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6962,
+        4,
+        2
+      ],
+      "comment": "(In a Very Dark Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6923,
+        1,
+        6962
+      ],
+      "comment": "(a stone wall)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6933,
+        1,
+        -1
+      ],
+      "comment": "(a rugged key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6934,
+        2,
+        22
+      ],
+      "comment": "(a jagged piece of stone)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6955,
+        2,
+        1
+      ],
+      "comment": "(The Second Floor Balcony)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6948,
+        1,
+        1
+      ],
+      "comment": "(Stairs to the Attic)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6943,
+        3,
+        0
+      ],
+      "comment": "(A Room in the House)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6942,
+        1,
+        0
+      ],
+      "comment": "(More of the Hallway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6942,
+        3,
+        1
+      ],
+      "comment": "(More of the Hallway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6938,
+        3,
+        1
+      ],
+      "comment": "(The Closet)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6938,
+        5,
+        2
+      ],
+      "comment": "(The Closet)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6932,
+        1,
+        1
+      ],
+      "comment": "(At the Bookshelf)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6932,
+        0,
+        1
+      ],
+      "comment": "(At the Bookshelf)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6929,
+        2,
+        2
+      ],
+      "comment": "(Outside the Secret)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6929,
+        5,
+        1
+      ],
+      "comment": "(Outside the Secret)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6928,
+        2,
+        1
+      ],
+      "comment": "(The Outhouse)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6925,
+        2,
+        1
+      ],
+      "comment": "(The Back Deck)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6915,
+        2,
+        1
+      ],
+      "comment": "(Another Cell)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6914,
+        0,
+        1
+      ],
+      "comment": "(The Dungeon)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6914,
+        2,
+        1
+      ],
+      "comment": "(The Dungeon)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6903,
+        0,
+        1
+      ],
+      "comment": "(At the Front Door)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/69.zon"
+}

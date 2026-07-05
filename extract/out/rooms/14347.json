@@ -1,0 +1,21 @@
+{
+  "id": 14347,
+  "zone_id": 143,
+  "name": "The Slave Pit",
+  "description": "This is tonb for several of the pharaoh's slaves who were sacrificed so they\ncould serve him in the after-life. The room is small and plain, and several sk\nskeletons lie on the floor.",
+  "header_raw": "143 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "It is pitch black.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14346
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

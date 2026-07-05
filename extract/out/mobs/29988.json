@@ -1,0 +1,12 @@
+{
+  "id": 29988,
+  "alias": "rohan knight",
+  "short_desc": "a Rohan knight",
+  "long_desc": "A knight clad in heavy armour rides his horse here.",
+  "detailed_desc": "This is one of the knights of the group that hunts orcs around these fields.  \nHe looks at you distrustfully.",
+  "flags_raw": "65800 1090520232 750 E",
+  "stats1_raw": "190 -91 -30 1d1+17472 5d39+156",
+  "stats2_raw": "2850 26634425 8",
+  "stats3_raw": "8 8 0 5 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/299.mob"
+}

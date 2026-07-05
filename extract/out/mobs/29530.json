@@ -1,0 +1,12 @@
+{
+  "id": 29530,
+  "alias": "greater aias",
+  "short_desc": "the greater Aias",
+  "long_desc": "The greater Aias strings his bow and eyes you cautiously.",
+  "detailed_desc": "The greater Aias is the greatest archer of all the Achaeans. He is the son\nof King Telamon, the ruler of Salamis, and is thus sometimes called\nTelamonian Aias.",
+  "flags_raw": "72 128 500 E",
+  "stats1_raw": "145 -60 -17 1d1+8700 5d15+98",
+  "stats2_raw": "2175 10811275 4",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/295.mob"
+}

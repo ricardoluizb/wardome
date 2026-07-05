@@ -1,0 +1,2384 @@
+{
+  "id": 299,
+  "name": "Wardome - The Lord of Rings I",
+  "header": {
+    "raw": "29999 35 2 25 -1",
+    "min_room": 29999,
+    "top_room": 35,
+    "lifespan": 2,
+    "reset_mode": 25
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20253,
+        20,
+        29999
+      ],
+      "comment": "(a lot of flies)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20254,
+        20,
+        29994
+      ],
+      "comment": "(little spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20253,
+        20,
+        29995
+      ],
+      "comment": "(a lot of flies)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20253,
+        20,
+        29995
+      ],
+      "comment": "(a lot of flies)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29986,
+        10,
+        29985
+      ],
+      "comment": "(the corpulent orc)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29980,
+        40,
+        16
+      ],
+      "comment": "(a spiked club)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        4
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29985,
+        10,
+        29985
+      ],
+      "comment": "(the orc archer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        4
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29981,
+        40,
+        16
+      ],
+      "comment": "(a rustic orcrish bow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29990,
+        1,
+        29990
+      ],
+      "comment": "(Eomer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29985,
+        30,
+        5
+      ],
+      "comment": "(&wa &YRoyal &CK&cnight &WPlate&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29984,
+        30,
+        11
+      ],
+      "comment": "(&wa &YRoyal &CK&cnight &WShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29986,
+        30,
+        16
+      ],
+      "comment": "(&RG&rut&Mw&mine&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29989,
+        6,
+        29990
+      ],
+      "comment": "(a Rohan scout)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29983,
+        40,
+        16
+      ],
+      "comment": "(&wa &WBright &YLance&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29988,
+        6,
+        29990
+      ],
+      "comment": "(a Rohan knight)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29983,
+        40,
+        16
+      ],
+      "comment": "(&wa &WBright &YLance&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29982,
+        1,
+        29982
+      ],
+      "comment": "(the Anarion statue)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29981,
+        1,
+        29982
+      ],
+      "comment": "(the Isildur statue)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29976,
+        1,
+        29976
+      ],
+      "comment": "(Daleron the elven docker)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        29976,
+        30,
+        -1
+      ],
+      "comment": "(&WLight &GElven &YBoat&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29989,
+        6,
+        29989
+      ],
+      "comment": "(a Rohan scout)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29983,
+        40,
+        16
+      ],
+      "comment": "(&wa &WBright &YLance&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29988,
+        6,
+        29989
+      ],
+      "comment": "(a Rohan knight)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29983,
+        40,
+        16
+      ],
+      "comment": "(&wa &WBright &YLance&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29986,
+        6,
+        29986
+      ],
+      "comment": "(the corpulent orc)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        4
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29980,
+        40,
+        16
+      ],
+      "comment": "(a spiked club)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29985,
+        6,
+        29986
+      ],
+      "comment": "(the orc archer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        4
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29981,
+        40,
+        16
+      ],
+      "comment": "(a rustic orcrish bow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29986,
+        6,
+        29987
+      ],
+      "comment": "(the corpulent orc)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29980,
+        40,
+        16
+      ],
+      "comment": "(a spiked club)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        4
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29985,
+        6,
+        29987
+      ],
+      "comment": "(the orc archer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29982,
+        40,
+        4
+      ],
+      "comment": "(a orcrish collar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29981,
+        40,
+        16
+      ],
+      "comment": "(a rustic orcrish bow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29927,
+        1,
+        29929
+      ],
+      "comment": "(Elven Blacksmith)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29928,
+        10,
+        16
+      ],
+      "comment": "(&wThe &yheavy &YHammer &wof the &WBlacksmith&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        29929,
+        1,
+        29929
+      ],
+      "comment": "(Heavy Anvil)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        10151,
+        1,
+        29975
+      ],
+      "comment": "(Statue of Elendil)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10150,
+        20,
+        16
+      ],
+      "comment": "(&wThe &CFragment &R(&cHilt&R) &wof &WNar&wsil&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10151,
+        20,
+        17
+      ],
+      "comment": "(&wThe &CFragment &R(&cMiddle&R) &wof &WNar&wsil&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        10152,
+        20,
+        22
+      ],
+      "comment": "(&wThe &CFragment &R(&cTip&R) &wof &WNar&wsil&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29903,
+        1,
+        29973
+      ],
+      "comment": "(Haldir)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29910,
+        50,
+        6
+      ],
+      "comment": "(&wthe &WE&wlf &BD&war&Wk H&wood&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29911,
+        50,
+        16
+      ],
+      "comment": "(&wthe &WE&wlf &BD&war&Wk B&wow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29900,
+        50,
+        12
+      ],
+      "comment": "(&wAn &WE&wlven &BD&war&Wk C&wape&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29968,
+        1,
+        29968
+      ],
+      "comment": "(Statue of Gil-Galad)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29921,
+        20,
+        16
+      ],
+      "comment": "(&CT&Wh&Ce &cS&Cp&We&Ca&cr A&Ce&Wgl&Co&cs&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29901,
+        15,
+        29968
+      ],
+      "comment": "(Elf Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29901,
+        50,
+        6
+      ],
+      "comment": "(&YThe &yLorien &YHornet&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29900,
+        50,
+        12
+      ],
+      "comment": "(&wAn &WE&wlven &BD&war&Wk C&wape&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29901,
+        15,
+        29968
+      ],
+      "comment": "(Elf Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29901,
+        50,
+        6
+      ],
+      "comment": "(&YThe &yLorien &YHornet&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29900,
+        50,
+        12
+      ],
+      "comment": "(&wAn &WE&wlven &BD&war&Wk C&wape&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29911,
+        1,
+        29974
+      ],
+      "comment": "(Rumil)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29901,
+        50,
+        6
+      ],
+      "comment": "(&YThe &yLorien &YHornet&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29900,
+        50,
+        12
+      ],
+      "comment": "(&wAn &WE&wlven &BD&war&Wk C&wape&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29970,
+        2,
+        29970
+      ],
+      "comment": "(Woman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29946,
+        10,
+        29970
+      ],
+      "comment": "(Elven Honor Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29912,
+        50,
+        8
+      ],
+      "comment": "(&gthe &wsilent &GE&glven &YB&yoot&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29900,
+        50,
+        12
+      ],
+      "comment": "(&wAn &WE&wlven &BD&war&Wk C&wape&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29901,
+        50,
+        6
+      ],
+      "comment": "(&YThe &yLorien &YHornet&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29971,
+        1,
+        29971
+      ],
+      "comment": "(Secretary)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29946,
+        10,
+        29971
+      ],
+      "comment": "(Elven Honor Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29912,
+        50,
+        8
+      ],
+      "comment": "(&gthe &wsilent &GE&glven &YB&yoot&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29900,
+        50,
+        12
+      ],
+      "comment": "(&wAn &WE&wlven &BD&war&Wk C&wape&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29901,
+        50,
+        6
+      ],
+      "comment": "(&YThe &yLorien &YHornet&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29946,
+        10,
+        29971
+      ],
+      "comment": "(Elven Honor Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29912,
+        50,
+        8
+      ],
+      "comment": "(&gthe &wsilent &GE&glven &YB&yoot&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29900,
+        50,
+        12
+      ],
+      "comment": "(&wAn &WE&wlven &BD&war&Wk C&wape&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29901,
+        50,
+        6
+      ],
+      "comment": "(&YThe &yLorien &YHornet&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29972,
+        1,
+        29972
+      ],
+      "comment": "(Galadriel)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29902,
+        20,
+        4
+      ],
+      "comment": "(&ga &GG&gr&Ye&ge&Gn &YL&ye&ga&Gf &gP&yi&Yn&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29972,
+        10,
+        0
+      ],
+      "comment": "(&wthe &WMirror &wof &WGaladriel&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29973,
+        10,
+        22
+      ],
+      "comment": "(&WGlass &wof the &WGlow &BWater&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29969,
+        1,
+        29969
+      ],
+      "comment": "(Celeborn)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29902,
+        20,
+        3
+      ],
+      "comment": "(&ga &GG&gr&Ye&ge&Gn &YL&ye&ga&Gf &gP&yi&Yn&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29946,
+        10,
+        29966
+      ],
+      "comment": "(Elven Honor Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29912,
+        50,
+        8
+      ],
+      "comment": "(&gthe &wsilent &GE&glven &YB&yoot&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29900,
+        50,
+        12
+      ],
+      "comment": "(&wAn &WE&wlven &BD&war&Wk C&wape&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29901,
+        50,
+        6
+      ],
+      "comment": "(&YThe &yLorien &YHornet&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29946,
+        10,
+        29966
+      ],
+      "comment": "(Elven Honor Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29912,
+        50,
+        8
+      ],
+      "comment": "(&gthe &wsilent &GE&glven &YB&yoot&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29900,
+        50,
+        12
+      ],
+      "comment": "(&wAn &WE&wlven &BD&war&Wk C&wape&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29901,
+        50,
+        6
+      ],
+      "comment": "(&YThe &yLorien &YHornet&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29946,
+        10,
+        29961
+      ],
+      "comment": "(Elven Honor Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29912,
+        50,
+        8
+      ],
+      "comment": "(&gthe &wsilent &GE&glven &YB&yoot&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29900,
+        50,
+        12
+      ],
+      "comment": "(&wAn &WE&wlven &BD&war&Wk C&wape&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29901,
+        50,
+        6
+      ],
+      "comment": "(&YThe &yLorien &YHornet&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29946,
+        10,
+        29961
+      ],
+      "comment": "(Elven Honor Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29912,
+        50,
+        8
+      ],
+      "comment": "(&gthe &wsilent &GE&glven &YB&yoot&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29900,
+        50,
+        12
+      ],
+      "comment": "(&wAn &WE&wlven &BD&war&Wk C&wape&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29901,
+        50,
+        6
+      ],
+      "comment": "(&YThe &yLorien &YHornet&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29946,
+        10,
+        29946
+      ],
+      "comment": "(Elven Honor Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29912,
+        50,
+        8
+      ],
+      "comment": "(&gthe &wsilent &GE&glven &YB&yoot&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29900,
+        50,
+        12
+      ],
+      "comment": "(&wAn &WE&wlven &BD&war&Wk C&wape&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29901,
+        50,
+        6
+      ],
+      "comment": "(&YThe &yLorien &YHornet&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29946,
+        10,
+        29946
+      ],
+      "comment": "(Elven Honor Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29912,
+        50,
+        8
+      ],
+      "comment": "(&gthe &wsilent &GE&glven &YB&yoot&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29900,
+        50,
+        12
+      ],
+      "comment": "(&wAn &WE&wlven &BD&war&Wk C&wape&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29901,
+        50,
+        6
+      ],
+      "comment": "(&YThe &yLorien &YHornet&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29946,
+        10,
+        29946
+      ],
+      "comment": "(Elven Honor Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29912,
+        50,
+        8
+      ],
+      "comment": "(&gthe &wsilent &GE&glven &YB&yoot&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29900,
+        50,
+        12
+      ],
+      "comment": "(&wAn &WE&wlven &BD&war&Wk C&wape&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29901,
+        50,
+        6
+      ],
+      "comment": "(&YThe &yLorien &YHornet&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29900,
+        10,
+        29946
+      ],
+      "comment": "(Elven Scout)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29934,
+        2,
+        29939
+      ],
+      "comment": "(Angry Elven Man)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29919,
+        50,
+        20
+      ],
+      "comment": "(&ra Angry &RRed &rMask&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29904,
+        50,
+        12
+      ],
+      "comment": "(&wA &GGreen &wand &yBrown &WVest&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29942,
+        1,
+        29942
+      ],
+      "comment": "(Elven Woman )"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29915,
+        50,
+        20
+      ],
+      "comment": "(&wa &WWhite &yFeather &WPendant&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29909,
+        50,
+        12
+      ],
+      "comment": "(&wA &GGreen &wand &yBrown &WDress&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29934,
+        2,
+        29937
+      ],
+      "comment": "(Angry Elven Man)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29919,
+        50,
+        21
+      ],
+      "comment": "(&ra Angry &RRed &rMask&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29904,
+        50,
+        12
+      ],
+      "comment": "(&wA &GGreen &wand &yBrown &WVest&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29933,
+        2,
+        29936
+      ],
+      "comment": "(Happy Elven Man)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29920,
+        50,
+        21
+      ],
+      "comment": "(&ga Happy &GGreen &gMask&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29904,
+        50,
+        12
+      ],
+      "comment": "(&wA &GGreen &wand &yBrown &WVest&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29933,
+        2,
+        29935
+      ],
+      "comment": "(Happy Elven Man)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29920,
+        50,
+        21
+      ],
+      "comment": "(&ga Happy &GGreen &gMask&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29904,
+        50,
+        12
+      ],
+      "comment": "(&wA &GGreen &wand &yBrown &WVest&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29934,
+        2,
+        29933
+      ],
+      "comment": "(Angry Elven Man)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29919,
+        50,
+        21
+      ],
+      "comment": "(&ra Angry &RRed &rMask&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29904,
+        50,
+        12
+      ],
+      "comment": "(&wA &GGreen &wand &yBrown &WVest&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29933,
+        2,
+        29933
+      ],
+      "comment": "(Happy Elven Man)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29920,
+        50,
+        21
+      ],
+      "comment": "(&ga Happy &GGreen &gMask&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29904,
+        50,
+        12
+      ],
+      "comment": "(&wA &GGreen &wand &yBrown &WVest&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29932,
+        3,
+        29932
+      ],
+      "comment": "(Little Elven Boy )"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29918,
+        50,
+        16
+      ],
+      "comment": "(&ga &GMallorn &ySlingshot&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29904,
+        50,
+        12
+      ],
+      "comment": "(&wA &GGreen &wand &yBrown &WVest&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29921,
+        5,
+        29931
+      ],
+      "comment": "(Tense Elf )"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29905,
+        50,
+        16
+      ],
+      "comment": "(&ma &MBe&mau&Wt&mif&Mul &MB&ml&Wa&md&Me&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29904,
+        50,
+        12
+      ],
+      "comment": "(&wA &GGreen &wand &yBrown &WVest&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29929,
+        1,
+        29927
+      ],
+      "comment": "(Elven Healer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29917,
+        50,
+        17
+      ],
+      "comment": "(&ya Wooden Staff&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29916,
+        50,
+        3
+      ],
+      "comment": "(&Gt&Wh&Ge &gN&Ga&Wtu&Gr&ge A&Gm&Wul&Ge&gt&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29913,
+        50,
+        12
+      ],
+      "comment": "(&wA Gray Robe&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29916,
+        5,
+        29925
+      ],
+      "comment": "(Shady Elf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29909,
+        50,
+        12
+      ],
+      "comment": "(&wA &GGreen &wand &yBrown &WDress&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29921,
+        5,
+        29921
+      ],
+      "comment": "(Tense Elf )"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29905,
+        50,
+        16
+      ],
+      "comment": "(&ma &MBe&mau&Wt&mif&Mul &MB&ml&Wa&md&Me&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29904,
+        50,
+        12
+      ],
+      "comment": "(&wA &GGreen &wand &yBrown &WVest&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29924,
+        1,
+        29924
+      ],
+      "comment": "(Female Elf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29915,
+        50,
+        19
+      ],
+      "comment": "(&wa &WWhite &yFeather &WPendant&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29909,
+        50,
+        12
+      ],
+      "comment": "(&wA &GGreen &wand &yBrown &WDress&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29916,
+        5,
+        29923
+      ],
+      "comment": "(Shady Elf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29909,
+        50,
+        12
+      ],
+      "comment": "(&wA &GGreen &wand &yBrown &WDress&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29919,
+        5,
+        29919
+      ],
+      "comment": "(Ancient Elf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29914,
+        20,
+        17
+      ],
+      "comment": "(&ba &BT&bome&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29913,
+        50,
+        12
+      ],
+      "comment": "(&wA Gray Robe&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29917,
+        1,
+        29917
+      ],
+      "comment": "(Deilos)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29912,
+        50,
+        6
+      ],
+      "comment": "(&gthe &wsilent &GE&glven &YB&yoot&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29904,
+        50,
+        12
+      ],
+      "comment": "(&wA &GGreen &wand &yBrown &WVest&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29916,
+        5,
+        29916
+      ],
+      "comment": "(Shady Elf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29909,
+        50,
+        12
+      ],
+      "comment": "(&wA &GGreen &wand &yBrown &WDress&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29901,
+        16,
+        29916
+      ],
+      "comment": "(Elf Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29901,
+        50,
+        6
+      ],
+      "comment": "(&YThe &yLorien &YHornet&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29900,
+        50,
+        12
+      ],
+      "comment": "(&wAn &WE&wlven &BD&war&Wk C&wape&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29907,
+        3,
+        29915
+      ],
+      "comment": "(Shady Elf)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29909,
+        50,
+        12
+      ],
+      "comment": "(&wA &GGreen &wand &yBrown &WDress&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29906,
+        5,
+        29914
+      ],
+      "comment": "(Beautiful Elven Barmaid )"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29909,
+        50,
+        12
+      ],
+      "comment": "(&wA &GGreen &wand &yBrown &WDress&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29905,
+        1,
+        29914
+      ],
+      "comment": "(Elven Minstrel)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29904,
+        50,
+        12
+      ],
+      "comment": "(&wA &GGreen &wand &yBrown &WVest&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29901,
+        10,
+        29913
+      ],
+      "comment": "(Elf Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29901,
+        50,
+        6
+      ],
+      "comment": "(&YThe &yLorien &YHornet&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29900,
+        50,
+        12
+      ],
+      "comment": "(&wAn &WE&wlven &BD&war&Wk C&wape&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29901,
+        10,
+        29913
+      ],
+      "comment": "(Elf Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29901,
+        50,
+        6
+      ],
+      "comment": "(&YThe &yLorien &YHornet&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29900,
+        50,
+        12
+      ],
+      "comment": "(&wAn &WE&wlven &BD&war&Wk C&wape&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29912,
+        1,
+        29912
+      ],
+      "comment": "(Lady Selandance)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29909,
+        50,
+        12
+      ],
+      "comment": "(&wA &GGreen &wand &yBrown &WDress&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29908,
+        50,
+        2
+      ],
+      "comment": "(&ga N&Ga&Wtu&Gr&ge R&Gin&gg&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29909,
+        2,
+        29910
+      ],
+      "comment": "(Elven Baker)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29907,
+        50,
+        16
+      ],
+      "comment": "(&ya Little Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29904,
+        50,
+        12
+      ],
+      "comment": "(&wA &GGreen &wand &yBrown &WVest&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29910,
+        2,
+        29910
+      ],
+      "comment": "(Elven Apprentice)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29907,
+        50,
+        16
+      ],
+      "comment": "(&ya Little Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29904,
+        50,
+        12
+      ],
+      "comment": "(&wA &GGreen &wand &yBrown &WVest&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29901,
+        15,
+        29909
+      ],
+      "comment": "(Elf Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29901,
+        50,
+        6
+      ],
+      "comment": "(&YThe &yLorien &YHornet&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29900,
+        50,
+        12
+      ],
+      "comment": "(&wAn &WE&wlven &BD&war&Wk C&wape&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29904,
+        1,
+        29904
+      ],
+      "comment": "(Young Musician's Apprentice)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29906,
+        50,
+        16
+      ],
+      "comment": "(&ya &YHarp &yof &gElven &YStrings&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29904,
+        50,
+        12
+      ],
+      "comment": "(&wA &GGreen &wand &yBrown &WVest&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29902,
+        5,
+        29902
+      ],
+      "comment": "(Elven)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29905,
+        50,
+        16
+      ],
+      "comment": "(&ma &MBe&mau&Wt&mif&Mul &MB&ml&Wa&md&Me&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29904,
+        50,
+        12
+      ],
+      "comment": "(&wA &GGreen &wand &yBrown &WVest&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29900,
+        10,
+        29900
+      ],
+      "comment": "(Elven Scout)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29900,
+        10,
+        29900
+      ],
+      "comment": "(Elven Scout)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29901,
+        10,
+        29900
+      ],
+      "comment": "(Elf Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29901,
+        50,
+        6
+      ],
+      "comment": "(&YThe &yLorien &YHornet&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29900,
+        50,
+        12
+      ],
+      "comment": "(&wAn &WE&wlven &BD&war&Wk C&wape&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29901,
+        10,
+        29900
+      ],
+      "comment": "(Elf Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29901,
+        50,
+        6
+      ],
+      "comment": "(&YThe &yLorien &YHornet&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29900,
+        50,
+        12
+      ],
+      "comment": "(&wAn &WE&wlven &BD&war&Wk C&wape&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29901,
+        10,
+        29900
+      ],
+      "comment": "(Elf Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29903,
+        50,
+        16
+      ],
+      "comment": "(&ga Elf &yLong Bow&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29901,
+        50,
+        6
+      ],
+      "comment": "(&YThe &yLorien &YHornet&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        29900,
+        50,
+        12
+      ],
+      "comment": "(&wAn &WE&wlven &BD&war&Wk C&wape&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        29900,
+        1,
+        1
+      ],
+      "comment": "(The city guardhouse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29949,
+        1,
+        29949
+      ],
+      "comment": "(Diplomat)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        29962,
+        0,
+        1
+      ],
+      "comment": "(A small bunkroom and kitchen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29961,
+        1,
+        29962
+      ],
+      "comment": "(Cook)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        29963,
+        2,
+        1
+      ],
+      "comment": "(The War Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29967,
+        1,
+        29967
+      ],
+      "comment": "(Argwai)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        29901,
+        15,
+        29918
+      ],
+      "comment": "(Elf Guard)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        29901,
+        3,
+        1
+      ],
+      "comment": "(A small dark armoury)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/299.zon"
+}

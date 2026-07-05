@@ -1,0 +1,29 @@
+{
+  "id": 10016,
+  "zone_id": 100,
+  "name": "A Side Hallway",
+  "description": "You have reached the end of this small hallway.  There is no apparent exit\nin any direction except back west, the way you came.  There is just enough room\nhere for you to turn around.",
+  "header_raw": "100 264 0",
+  "flags_text": "264",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 10021
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10015
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/100.wld"
+}

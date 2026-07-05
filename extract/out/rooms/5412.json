@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Southern Bridge",
   "description": "Walking over the bridge you see the rushing waters of the River\nIshtar.  To the south you see the Southern Gate of New Thalos and\nthe Common Square stretches out to the north",
-  "header_raw": "54 c 1",
-  "flags_text": "c",
+  "header_raw": "54 4 1",
+  "flags_text": "4",
   "sector": 1,
   "exits": [
     {

@@ -1,0 +1,29 @@
+{
+  "id": 9980,
+  "zone_id": 99,
+  "name": "A slimey footpath.",
+  "description": "The slime just keeps getting thicker as you walk along.  There are \nmany dead animals that apparently became bogged down here.  There are \nexits to the North, and East.",
+  "header_raw": "99 1 1",
+  "flags_text": "1",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9981
+    },
+    {
+      "dir": 1,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9979
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 33,
   "name": "A Cave Passageway",
   "description": "You are standing at the southern bend of this passage,\nable to head east and north from here.  The rock around you\nechoes the sound of far-off pounding to you, making the\nplace seem somehow alive, with a heartbeat.  This place\nis fairly eerie, now that you come to think of it.",
-  "header_raw": "33 d 0",
-  "flags_text": "d",
+  "header_raw": "33 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

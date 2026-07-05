@@ -1,0 +1,12 @@
+{
+  "id": 11217,
+  "alias": "insane butcher clegg",
+  "short_desc": "Clegg",
+  "long_desc": "An insane butcher foams at the mouth as he hacks into a slab of meat.",
+  "detailed_desc": "The butcher was never the most stable of people, having a rather\nunhealthy attraction to hacking up carcasses, but something has now\nquite broken what mind he has, and he has become a homicidal maniac.",
+  "flags_raw": "106 0 -400 E",
+  "stats1_raw": "35 -15 -8 1d1+3492 5d7+104",
+  "stats2_raw": "525 238782 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

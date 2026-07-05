@@ -1,0 +1,29 @@
+{
+  "id": 14253,
+  "zone_id": 141,
+  "name": "The Place of Ultimate Evil",
+  "description": "Sounds are very weird in this place.  Some sounds, like shrieks\nand blood-curdling shouts are amplified, and you hear them\nfrequently.  Other's like your own voice, will not travel to\nbeyond a inch from your face.",
+  "header_raw": "141 8257 0",
+  "flags_text": "8257",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14250
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14254
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

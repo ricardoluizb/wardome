@@ -4,9 +4,9 @@
   "short_desc": "the warrior",
   "long_desc": "A tall warrior is here.",
   "detailed_desc": "He seems to know his way with weapons.",
-  "flags_raw": "cfg k -400 S",
-  "stats1_raw": "7 13 5 3d10+80 2d5+0",
-  "stats2_raw": "200 2500",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "108 1024 -400 E",
+  "stats1_raw": "7 17 9 1d1+144 5d1+2",
+  "stats2_raw": "105 3264 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/40.mob"
 }

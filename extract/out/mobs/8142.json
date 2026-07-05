@@ -1,0 +1,12 @@
+{
+  "id": 8142,
+  "alias": "mimic barrel",
+  "short_desc": "the mimic",
+  "long_desc": "A sturdy oaken barrel bound with iron hoops stands in the corner.",
+  "detailed_desc": "This barrel has no tap, but perhaps you could borrow one from the \ngoblins.  No, I doubt it.  Besides, there is something queer about\nthat cask. Did it just move?",
+  "flags_raw": "196618 0 10 E",
+  "stats1_raw": "160 -82 -30 1d1+18552 5d49+174",
+  "stats2_raw": "2400 19779044 11",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

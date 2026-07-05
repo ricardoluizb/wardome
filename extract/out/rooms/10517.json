@@ -1,0 +1,29 @@
+{
+  "id": 10517,
+  "zone_id": 104,
+  "name": "The Office of Big Mouth",
+  "description": "This is the office of Big Mouth, head demon of Hell's Administration.\nThe room is decorated posters of naked women and autographed pictures\nof famous tortured souls. Behind a large oaken desk sleeps Big Mouth.\nThis mouth looks large enough to step into if it were open. You wonder\nwhat this guy eats...",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "You see the hallways of the Mall from Hell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10516
+    },
+    {
+      "dir": 5,
+      "description": "You see Big Mouth's mouth.",
+      "keywords": "mouth big mouth's",
+      "door_flag": 1,
+      "key": -1,
+      "to": 10526
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

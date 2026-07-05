@@ -3,8 +3,8 @@
   "zone_id": 120,
   "name": "The Senate Chambers",
   "description": "This is the working room where elected senators from all over the empire\ngather to advise the Emperor.  An official seal of the Emperor is hanging on\nthe far wall.  There is a wooden door to the north and a bronze door to the\neast and doublehung door to the south.",
-  "header_raw": "120 d 0",
-  "flags_text": "d",
+  "header_raw": "120 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

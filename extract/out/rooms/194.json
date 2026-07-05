@@ -1,0 +1,38 @@
+{
+  "id": 194,
+  "zone_id": 1,
+  "name": "Dark Chamber",
+  "description": "The tunnel opens up into a small chamber.  The polished walls\nreflect the torchlight in an eerie way.  The smell of incense and\nspices hang heavily in the air, stiffling you.  A stone slab sits in\nthe middle of the chamber.  Strange runes adorn the stone slab.  A\nfaded trail of blood upon the slab catches your eye and you follow the\ntrail to the floor.  There you see that you are standing in the middle\nof a pentagram inscribed into the stone floor.  Repressing a feeling\nof dread, you get on your knees to study a small indentation in the\nmiddle of the pentagram....",
+  "header_raw": "1 73 0",
+  "flags_text": "73",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 193
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "pentagram",
+      "door_flag": 1,
+      "key": 0,
+      "to": 195
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "runes",
+      "description": "The runes depict what appears to be the very same stone slab that they\nare inscribed upon.  The runes show a manlike being standing before\nthe runes, the runes glowing fiercely, and then the man gone."
+    },
+    {
+      "keywords": "slab",
+      "description": "It is encrypted with strange runes."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/1.wld"
+}

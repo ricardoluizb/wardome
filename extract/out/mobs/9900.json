@@ -1,0 +1,12 @@
+{
+  "id": 9900,
+  "alias": "shamus wanderer",
+  "short_desc": "Shamus",
+  "long_desc": "Shamus, the wandering liege, wants to protect you from the evil here.",
+  "detailed_desc": "You see a human male, bald of head and thick of frame, wearing a white \nrobe.  He has heard tales of this city of evil, and has come here as a \nmissionary.",
+  "flags_raw": "2074 1184 1000 E",
+  "stats1_raw": "20 8 5 1d1+720 5d3+18",
+  "stats2_raw": "300 45400 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/99.mob"
+}

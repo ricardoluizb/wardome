@@ -1,0 +1,12 @@
+{
+  "id": 11561,
+  "alias": "fisherman fisher man",
+  "short_desc": "a fisherman",
+  "long_desc": "A fisherman is waiting to serve you.",
+  "detailed_desc": "This guy's been around fish so long that he is beginning to look and smell\nlike one.",
+  "flags_raw": "10 1024 0 E",
+  "stats1_raw": "47 -7 0 1d1+2064 5d5+38",
+  "stats2_raw": "705 433985 2",
+  "stats3_raw": "8 8 1 7 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

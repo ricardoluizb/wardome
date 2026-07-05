@@ -1,0 +1,42 @@
+{
+  "id": 340,
+  "zone_id": 3,
+  "name": "Dark smelly tunnels",
+  "description": "You are standing in a gloomy tunnel leading south and west, right under\nthe altar of G'harne.  The walls are covered with a smelly slime and small\nrotting pieces of a meat like substance, fills the air with an unbearable\nstench.  You might be able to force your way up into fresh air from here.",
+  "header_raw": "3 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 341
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 342
+    },
+    {
+      "dir": 4,
+      "description": "You welcome the sight of fresh air.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 339
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "meat rotting slime substance",
+      "description": "You try to examine the substance closer, but must refrain from this\nas all you really want to do is puke.\nYou puke."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/3.wld"
+}

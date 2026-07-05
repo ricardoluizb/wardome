@@ -1,0 +1,12 @@
+{
+  "id": 14106,
+  "alias": "rat",
+  "short_desc": "the giant rat",
+  "long_desc": "A rat is knawing on a book.",
+  "detailed_desc": "This giant rat is smelly and fleas jump up from fur.  The rats\nhave been a great problem in the Library because they eat and\nshred the books.  This rat seems to be rabid, so beware his\nteeth.",
+  "flags_raw": "2152 1024 -1000 E",
+  "stats1_raw": "20 8 5 1d1+720 5d3+18",
+  "stats2_raw": "300 45400 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

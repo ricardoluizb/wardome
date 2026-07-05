@@ -3,8 +3,8 @@
   "zone_id": 50,
   "name": "A Narrow Bend",
   "description": "The tunnel turns to the south and west.",
-  "header_raw": "50 ad 5",
-  "flags_text": "ad",
+  "header_raw": "50 9 5",
+  "flags_text": "9",
   "sector": 5,
   "exits": [
     {

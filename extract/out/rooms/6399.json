@@ -3,8 +3,8 @@
   "zone_id": 63,
   "name": "The Lair Of Arachnos",
   "description": "This is the lair of the Empress Spider, Arachnos.  You can\nsee a lavishly adorned rainbow web, her lair allows her to move\nto any universe she wishes by using her magical strands to the\nPrime Material Plane.  Coffers upon coffers of gold, magical\njewels and gems await.  Unfortunately Arachnos is a baggy spider\ntoo, and webs all her treasures to her beautiful silken body.",
-  "header_raw": "63 g 2",
-  "flags_text": "g",
+  "header_raw": "63 64 2",
+  "flags_text": "64",
   "sector": 2,
   "exits": [
     {

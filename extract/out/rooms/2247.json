@@ -1,0 +1,21 @@
+{
+  "id": 2247,
+  "zone_id": 22,
+  "name": "The Lair",
+  "description": "You have entered a large room dominated by a great witchblight dragon.\nIt growls at you before it attacks.",
+  "header_raw": "22 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2227
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

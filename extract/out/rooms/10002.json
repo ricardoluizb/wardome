@@ -1,0 +1,29 @@
+{
+  "id": 10002,
+  "zone_id": 100,
+  "name": "A Winding Mountain Trail",
+  "description": "The trail heads west and uphill toward the castle above.  You see a large\nturret rising high above the main entrance, it's rounded walls standing out\nfrom the rest of the castle.  You see that the gates are closed, probably\nlocked.  As you look up at the menacing castle above you, a shiver runs through\nyour very soul.  This whole place gives you a very bad feeling.",
+  "header_raw": "100 1 3",
+  "flags_text": "1",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10003
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10001
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/100.wld"
+}

@@ -1,0 +1,1024 @@
+{
+  "id": 34,
+  "name": "The Chapel Catacombs",
+  "header": {
+    "raw": "3475 30 2 1 -1",
+    "min_room": 3475,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3404,
+        1,
+        3460
+      ],
+      "comment": "(the guardian vampire)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3428,
+        3,
+        16
+      ],
+      "comment": "(the pitch-black flaming longsword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3427,
+        10,
+        12
+      ],
+      "comment": "(a dark black cape)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3419,
+        1,
+        17
+      ],
+      "comment": "(key to the coffin)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        3460,
+        5,
+        2
+      ],
+      "comment": "(Den of the Vampire)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3405,
+        1,
+        3405
+      ],
+      "comment": "(the priest)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3430,
+        99,
+        -1
+      ],
+      "comment": "(a silver key)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        3405,
+        5,
+        2
+      ],
+      "comment": "(Inside the Chapel)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        3400,
+        1,
+        3405
+      ],
+      "comment": "(a candlestick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3400,
+        8,
+        3441
+      ],
+      "comment": "(the bony skeleton)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3421,
+        15,
+        16
+      ],
+      "comment": "(a rusty curved scimitar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3400,
+        8,
+        3430
+      ],
+      "comment": "(the bony skeleton)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3421,
+        15,
+        16
+      ],
+      "comment": "(a rusty curved scimitar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3400,
+        8,
+        3410
+      ],
+      "comment": "(the bony skeleton)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3421,
+        15,
+        16
+      ],
+      "comment": "(a rusty curved scimitar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3400,
+        8,
+        3419
+      ],
+      "comment": "(the bony skeleton)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3421,
+        15,
+        16
+      ],
+      "comment": "(a rusty curved scimitar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3401,
+        7,
+        3414
+      ],
+      "comment": "(the undead zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3401,
+        7,
+        3414
+      ],
+      "comment": "(the undead zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3401,
+        7,
+        3414
+      ],
+      "comment": "(the undead zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3401,
+        7,
+        3414
+      ],
+      "comment": "(the undead zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3401,
+        7,
+        3409
+      ],
+      "comment": "(the undead zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3401,
+        7,
+        3409
+      ],
+      "comment": "(the undead zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3401,
+        7,
+        3409
+      ],
+      "comment": "(the undead zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3402,
+        10,
+        3447
+      ],
+      "comment": "(the ghoul)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3402,
+        10,
+        3454
+      ],
+      "comment": "(the ghoul)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3402,
+        10,
+        3462
+      ],
+      "comment": "(the ghoul)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3402,
+        10,
+        3437
+      ],
+      "comment": "(the ghoul)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3402,
+        10,
+        3409
+      ],
+      "comment": "(the ghoul)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3403,
+        1,
+        3411
+      ],
+      "comment": "(the wraith)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3425,
+        3,
+        17
+      ],
+      "comment": "(an auburn-colored orb)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3406,
+        3,
+        3466
+      ],
+      "comment": "(the Mi-Go)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3403,
+        8,
+        5
+      ],
+      "comment": "(disgusting pinkish plasma webbing)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3406,
+        3,
+        3463
+      ],
+      "comment": "(the Mi-Go)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3403,
+        8,
+        5
+      ],
+      "comment": "(disgusting pinkish plasma webbing)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3406,
+        3,
+        3455
+      ],
+      "comment": "(the Mi-Go)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3403,
+        8,
+        5
+      ],
+      "comment": "(disgusting pinkish plasma webbing)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3407,
+        5,
+        3465
+      ],
+      "comment": "(the nightgaunt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3402,
+        5,
+        16
+      ],
+      "comment": "(a nightgaunt's tickler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3407,
+        5,
+        3465
+      ],
+      "comment": "(the nightgaunt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3402,
+        5,
+        16
+      ],
+      "comment": "(a nightgaunt's tickler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3407,
+        5,
+        3457
+      ],
+      "comment": "(the nightgaunt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3402,
+        5,
+        16
+      ],
+      "comment": "(a nightgaunt's tickler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3407,
+        5,
+        3452
+      ],
+      "comment": "(the nightgaunt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3402,
+        5,
+        16
+      ],
+      "comment": "(a nightgaunt's tickler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3407,
+        5,
+        3453
+      ],
+      "comment": "(the nightgaunt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3402,
+        5,
+        16
+      ],
+      "comment": "(a nightgaunt's tickler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3408,
+        1,
+        3471
+      ],
+      "comment": "(the hunting horror)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3425,
+        3,
+        17
+      ],
+      "comment": "(an auburn-colored orb)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3426,
+        10,
+        -1
+      ],
+      "comment": "(&YA bar of gold&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3409,
+        4,
+        3444
+      ],
+      "comment": "(some cave weeds)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3409,
+        4,
+        3444
+      ],
+      "comment": "(some cave weeds)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3409,
+        4,
+        3426
+      ],
+      "comment": "(some cave weeds)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3409,
+        4,
+        3426
+      ],
+      "comment": "(some cave weeds)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3410,
+        1,
+        3449
+      ],
+      "comment": "(Snapper Joe)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3414,
+        10,
+        16
+      ],
+      "comment": "(a whisper thin rapier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3429,
+        5,
+        5
+      ],
+      "comment": "(a worn and dented breast plate)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3411,
+        2,
+        17
+      ],
+      "comment": "(a large black dirty key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3411,
+        1,
+        3434
+      ],
+      "comment": "(the X-ist flesh eater)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3414,
+        10,
+        16
+      ],
+      "comment": "(a whisper thin rapier)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3412,
+        2,
+        -1
+      ],
+      "comment": "(the mummified head of Jubal the Benevolent)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        3413,
+        2,
+        3412
+      ],
+      "comment": "(a black marble ring)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3412,
+        1,
+        3424
+      ],
+      "comment": "(the spirit of King Crotus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3416,
+        1,
+        17
+      ],
+      "comment": "(a heavy iron key)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        3415,
+        1,
+        3424
+      ],
+      "comment": "(a stone sarcophagus)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        3417,
+        5,
+        3415
+      ],
+      "comment": "(a wineflask)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        3418,
+        1,
+        3415
+      ],
+      "comment": "(a mound of coins fit for a dead king)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3413,
+        5,
+        3432
+      ],
+      "comment": "(the rock slug)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3422,
+        10,
+        -1
+      ],
+      "comment": "(a piece of slime)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3413,
+        5,
+        3417
+      ],
+      "comment": "(the rock slug)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3422,
+        10,
+        -1
+      ],
+      "comment": "(a piece of slime)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3413,
+        5,
+        3450
+      ],
+      "comment": "(the rock slug)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3422,
+        10,
+        -1
+      ],
+      "comment": "(a piece of slime)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3413,
+        5,
+        3418
+      ],
+      "comment": "(the rock slug)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3422,
+        10,
+        -1
+      ],
+      "comment": "(a piece of slime)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3413,
+        5,
+        3441
+      ],
+      "comment": "(the rock slug)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3422,
+        10,
+        -1
+      ],
+      "comment": "(a piece of slime)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3414,
+        1,
+        3468
+      ],
+      "comment": "(the mad etcher)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3423,
+        4,
+        5
+      ],
+      "comment": "(&YAn artists smock&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3415,
+        1,
+        3468
+      ],
+      "comment": "(the spectral etcher's wife)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3416,
+        4,
+        3426
+      ],
+      "comment": "(the half-decomposed body)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3416,
+        4,
+        3442
+      ],
+      "comment": "(the half-decomposed body)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3416,
+        4,
+        3448
+      ],
+      "comment": "(the half-decomposed body)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3416,
+        4,
+        3411
+      ],
+      "comment": "(the half-decomposed body)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        3420,
+        1,
+        3448
+      ],
+      "comment": "(a hidden compartment in the room)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        3410,
+        1,
+        3420
+      ],
+      "comment": "(a queerly shaped rod)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        3418,
+        5,
+        1
+      ],
+      "comment": "(The Shrine of Cristis)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        3421,
+        2,
+        1
+      ],
+      "comment": "(Entrance Chamber to the Grand Hall of Kings)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        3422,
+        0,
+        1
+      ],
+      "comment": "(The Grand Hall of Kings)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        3421,
+        4,
+        2
+      ],
+      "comment": "(Entrance Chamber to the Grand Hall of Kings)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        3412,
+        2,
+        1
+      ],
+      "comment": "(The Grand Hall of Kings)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        3413,
+        0,
+        1
+      ],
+      "comment": "(The Shrine of Shohan)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        3422,
+        2,
+        1
+      ],
+      "comment": "(The Grand Hall of Kings)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        3423,
+        0,
+        1
+      ],
+      "comment": "(The Shrine of Crotus)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        3427,
+        2,
+        1
+      ],
+      "comment": "(The Grand Hall of Kings)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        3428,
+        0,
+        1
+      ],
+      "comment": "(The Shrine of Mitnar)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        3437,
+        0,
+        1
+      ],
+      "comment": "(The Grand Hall of Kings)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        3449,
+        1,
+        2
+      ],
+      "comment": "(The Lower Chambers and Tombs of the Undead)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        3408,
+        3,
+        2
+      ],
+      "comment": "(Stairwell into Darkness)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        3475,
+        4,
+        2
+      ],
+      "comment": "(Inside the coffin)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        3464,
+        1,
+        1
+      ],
+      "comment": "(The Catacombs)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/34.zon"
+}

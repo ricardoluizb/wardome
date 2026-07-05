@@ -1,0 +1,29 @@
+{
+  "id": 10143,
+  "zone_id": 101,
+  "name": "The Cave",
+  "description": "You are in a cave, to the south you sense fresh air.  To the north a small\ntunnel continues into the mountain.",
+  "header_raw": "101 13 2",
+  "flags_text": "13",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10144
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10142
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/101.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 17371,
+  "zone_id": 173,
+  "name": "The Feast Hall",
+  "description": "You have arrived in the feast hall of Camelot. You are in luck. A feast is \nin progress. There are many open bench type tables with sevants scurrying \ntoo and fro. Some tables hold knights, while others have ladies. A bards \nsong adds to the festive air of celebration. A huge fire rages in a great \nstone hearth, over which a whole boar is being slowly cooked to perfection. \nExits are north to the court of Camelot, and south to the ladies' chambers.",
+  "header_raw": "173 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the Court of Camelot",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17370
+    },
+    {
+      "dir": 2,
+      "description": "The Ladies Chambers door",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17372
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

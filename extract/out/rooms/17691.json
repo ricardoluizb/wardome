@@ -1,0 +1,29 @@
+{
+  "id": 17691,
+  "zone_id": 176,
+  "name": "A Top Chamber of the Golden Citadel",
+  "description": "You are in one of the top chambers of the Golden Citadel.  The decorations\nof this room looks like a dragon's hoard.  The whole room is carved out of pure\ngold, and gems of all types glitter from the walls, ceiling, even the floor.\nIt is obvious that this room was not meant for you to intrude upon.  A stair-\ncase leads back down, and a doorway leads south.",
+  "header_raw": "176 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17693
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17686
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/176.wld"
+}

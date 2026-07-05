@@ -1,0 +1,12 @@
+{
+  "id": 29504,
+  "alias": "nestor",
+  "short_desc": "King Nestor",
+  "long_desc": "Nestor, king of Pylos, smiles politely at you.",
+  "detailed_desc": "Nestor is ruler of the port of Pylos, who came with a small force to aid\nhis allies Menelaus and Agamemnon. An elderly man, he is one of the few\nto survive the Trojan War and the subsequent journey home.",
+  "flags_raw": "74 128 700 E",
+  "stats1_raw": "135 -55 -16 1d1+8100 5d14+94",
+  "stats2_raw": "2025 8792078 4",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/295.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 14153,
+  "alias": "mourner",
+  "short_desc": "the mourner",
+  "long_desc": "A mourner bows his head over the grave.",
+  "detailed_desc": "A mourner is in tears.  She is crying over the grave of a loved\none.  She is expressing poignant Spirituality.  This gives her\nstrength to persevere.",
+  "flags_raw": "2152 1024 1000 E",
+  "stats1_raw": "175 -69 -17 1d1+6300 5d18+80",
+  "stats2_raw": "2625 17811884 1",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

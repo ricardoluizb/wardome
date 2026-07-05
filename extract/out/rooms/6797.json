@@ -1,0 +1,29 @@
+{
+  "id": 6797,
+  "zone_id": 67,
+  "name": "A path of black grass",
+  "description": "A little trail picks its way among small ill-anchored stones and\npatches of black, wiry grass, that at first site gives the place\na ravaged, charred look. However, the vegetation is living, just\nendowed with a dark hue.",
+  "header_raw": "67 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6796
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6798
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

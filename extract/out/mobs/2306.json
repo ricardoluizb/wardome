@@ -1,0 +1,12 @@
+{
+  "id": 2306,
+  "alias": "oldstyle swamp wraith",
+  "short_desc": "the Swamp Wraith",
+  "long_desc": "A swamp wraith emerges from the mist here.",
+  "detailed_desc": "The swamp wraith is made of mist and is in the image of a great warrior. He\nappears to emerge from the mist. You feel the cold radiating from his form as\nhe nears you.",
+  "flags_raw": "46 0 -1000 E",
+  "stats1_raw": "180 -74 -20 1d1+7920 5d19+92",
+  "stats2_raw": "2700 19598258 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/23.mob"
+}

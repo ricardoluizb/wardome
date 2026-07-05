@@ -4,9 +4,9 @@
   "short_desc": "the farmer's wife",
   "long_desc": "A farmer's wife offers you some vegetables.",
   "detailed_desc": "This woman has many different types of fruits and\nvegetables for you to buy.  She looks bored, though.",
-  "flags_raw": "b 0 500 S",
-  "stats1_raw": "20 1 -40 3d5+245 3d6+6",
-  "stats2_raw": "10000 40000",
-  "stats3_raw": "8 8 2",
+  "flags_raw": "24586 0 500 E",
+  "stats1_raw": "175 -73 -20 1d1+9096 5d18+100",
+  "stats2_raw": "2625 18335763 3",
+  "stats3_raw": "8 8 2 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/33.mob"
 }

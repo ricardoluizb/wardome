@@ -4,9 +4,9 @@
   "short_desc": "Brother John",
   "long_desc": "Brother John, lead singer for the Lokettes stands on stage.",
   "detailed_desc": "You see the lead singer of the Lokettes lip synching to an old Zochan\ntune.",
-  "flags_raw": "bg 0 0 S",
-  "stats1_raw": "15 4 0 3d5+150 2d5+3",
-  "stats2_raw": "21 1350",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "74 0 0 E",
+  "stats1_raw": "30 5 5 1d1+630 5d4+12",
+  "stats2_raw": "450 105901 0",
+  "stats3_raw": "8 8 1 -1 0",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

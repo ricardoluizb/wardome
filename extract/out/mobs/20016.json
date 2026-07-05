@@ -1,0 +1,12 @@
+{
+  "id": 20016,
+  "alias": "chef",
+  "short_desc": "A chef",
+  "long_desc": "A chef struggles to get the food out quickly.",
+  "detailed_desc": "With one hand he fries, with the other he flips the meat over, and with the\nother hand he sprinkles some salt into the other hand which is holding...  \nHey!  Isn't that too many hands?  This guy is good.",
+  "flags_raw": "1204234 1160 -500 E",
+  "stats1_raw": "160 -66 -18 1d1+8316 5d17+94",
+  "stats2_raw": "2400 14127888 3",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/200.mob"
+}

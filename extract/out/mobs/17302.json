@@ -1,0 +1,12 @@
+{
+  "id": 17302,
+  "alias": "squire",
+  "short_desc": "the squire",
+  "long_desc": "A squire is here on an errand for his lord.",
+  "detailed_desc": "A squire stands here on a mission for his lord. He is dressed in rags, \nsmells bad, and looks like he is in a hurry.",
+  "flags_raw": "12 262144 250 E",
+  "stats1_raw": "119 -39 -7 1d1+3324 5d12+46",
+  "stats2_raw": "1785 4801761 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/173.mob"
+}

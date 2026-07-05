@@ -1,0 +1,21 @@
+{
+  "id": 30053,
+  "zone_id": 300,
+  "name": "The Shipwright's Guild",
+  "description": "The guild room of the Shipwrights of the Grey Havens, the most highly regarded\ncraftsmen in all the land.  Here members gather to discuss their plans, design\nships, learn ship building techniques or just to take a break from their\nefforts.  The head of the guild is in fact Cirdan, but he seldom participates\nin its everyday activities.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30052
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

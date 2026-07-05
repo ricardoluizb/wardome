@@ -1,0 +1,29 @@
+{
+  "id": 14342,
+  "zone_id": 143,
+  "name": "Long Hallway",
+  "description": "The passage narrows slightly as an intense musty smell permeates the room.\nNothing is of interest is here except for the strange symbols upon the walls.",
+  "header_raw": "143 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A dim light shines from the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14341
+    },
+    {
+      "dir": 2,
+      "description": "It is too dark to see further.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14343
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

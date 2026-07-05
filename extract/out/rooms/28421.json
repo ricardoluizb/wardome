@@ -1,0 +1,29 @@
+{
+  "id": 28421,
+  "zone_id": 284,
+  "name": "The Guard Post",
+  "description": "The hall here has been built into a guard post of sorts. It appears as      \nthough it would be quite easy to defend in times of emergency. Obviously,      \nsomething important lies beyond. A small hall leads south, while the main hall \ncan be seen to the south.",
+  "header_raw": "284 8 6",
+  "flags_text": "8",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A landing is to your east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28419
+    },
+    {
+      "dir": 2,
+      "description": "The Security refuge  is south of you.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28422
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/284.wld"
+}

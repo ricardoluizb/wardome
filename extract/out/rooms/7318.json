@@ -1,10 +1,10 @@
 {
   "id": 7318,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "The Square Lair",
   "description": "You are standing in the north-east part of the lair.\nYou see a sign on the wall.",
-  "header_raw": "73 ad 1",
-  "flags_text": "ad",
+  "header_raw": "72 9 1",
+  "flags_text": "9",
   "sector": 1,
   "exits": [
     {

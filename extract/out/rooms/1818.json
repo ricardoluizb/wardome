@@ -1,0 +1,42 @@
+{
+  "id": 1818,
+  "zone_id": 18,
+  "name": "The Arboretum",
+  "description": "This is where the gnomes seem to grow their plants.\nThere is a room to the east, while the well paved\npath you walk on goes north.  To the south, there\nis a small room where you can hear chanting.\nThere is a sign here.",
+  "header_raw": "18 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1815
+    },
+    {
+      "dir": 1,
+      "description": "The door reads \"KEEP OUT!\"",
+      "keywords": "door east",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1820
+    },
+    {
+      "dir": 2,
+      "description": "You see the Chanting Room south of here.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1816
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "The sign reads \"Woe to the unwelcomed of\nthis place!\""
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/18.wld"
+}

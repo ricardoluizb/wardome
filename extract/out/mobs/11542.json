@@ -1,0 +1,12 @@
+{
+  "id": 11542,
+  "alias": "security guard",
+  "short_desc": "the Security Guard",
+  "long_desc": "A Security Guard is here, attempting to maintain order.",
+  "detailed_desc": "Not as efficient as a police officer, but then not as expensive either.",
+  "flags_raw": "4168 8 200 E",
+  "stats1_raw": "45 -6 0 1d1+1980 5d5+38",
+  "stats2_raw": "675 385477 2",
+  "stats3_raw": "8 8 1 10 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

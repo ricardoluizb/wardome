@@ -1,0 +1,46 @@
+{
+  "id": 8105,
+  "zone_id": 81,
+  "name": "A Short Tunnel",
+  "description": "This tunnel does not go very far.  Soon it bends again to the south.   \nA strong draft blows from there.  The walls here are no longer \nrippled, but smooth, and covered with writing.  There are many small \ninscriptions, but you can only read three: one in orcish,\nanother in common, and a third, written large by a firm hand,\nin the secret dwarven tongue.\nLooking closer, you see another, in ogrish.",
+  "header_raw": "81 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see a glimmer of daylight, not very far away.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8106
+    },
+    {
+      "dir": 3,
+      "description": "You can go west, to examine that odd inscription.  Or that small cave.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8102
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "orcish inscription",
+      "description": "It says, more or less:\n                    Krsd be al tem blude noms\n                    Krsd be al tem blude dwrvs\n                    Krsd be al tem blude elfs\n                    Krsd be da hobits but tey tasty\n                    Haf ogrs aint bad fokes\n                    Rit by Orfax da orc"
+    },
+    {
+      "keywords": "common",
+      "description": "This is easily read:\n                    O traveler! Beware! \n                    For goblins live near here!"
+    },
+    {
+      "keywords": "dwarvish secret",
+      "description": "Hmm...it's common after all, though it uses the dwarf runes. Good\nfor you, if you are not a dwarf who knows the secret tongue.\nIt says:\n                    Went east from the cave to Sorvecgden town.\n                    Passed this way Monday, fourth of Yule month.\n                    Tell Gloin his wife is cheating on him.            \n                    I know because she cheats with me.\n                              Dorig of the Foehammers."
+    },
+    {
+      "keywords": "ogrish",
+      "description": "Ugh...anyone...anyone pass this way...\n                  Thrash need help...can anyone read this\n                  need to know....where Thrash buy torches... \n                                 ...Ugh...\n                                       Thrash the Ogre"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

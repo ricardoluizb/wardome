@@ -1,0 +1,37 @@
+{
+  "id": 2234,
+  "zone_id": 22,
+  "name": "Tunnel",
+  "description": "This tunnel seems to stretch for miles.  You try to distinguish the end but\nyour eyes soon tire from the strain.  The smell here has increased two fold.\nThe tunnel continues to go to the east.  The wine cellar lies back to the \nwest.",
+  "header_raw": "22 65 2",
+  "flags_text": "65",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A cave opening",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2235
+    },
+    {
+      "dir": 1,
+      "description": "A tunnel",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2236
+    },
+    {
+      "dir": 3,
+      "description": "A tunnel",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2233
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

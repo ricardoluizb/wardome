@@ -1,0 +1,21 @@
+{
+  "id": 30044,
+  "zone_id": 300,
+  "name": "An extensive library",
+  "description": "This is a cozy library in the Grey Havens, perfect for those who wish to read\nabout--and perhaps learn something of--the history of the world.  Great oak\nbookshelves line the walls.  There is a soft couch to sit upon.  It is\ngenerally very quiet in here so all can read in peace.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30043
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

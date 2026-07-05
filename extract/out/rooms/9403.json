@@ -1,0 +1,21 @@
+{
+  "id": 9403,
+  "zone_id": 94,
+  "name": "The &RL&ribrary&n",
+  "description": "Here you stand in a great library.  At your side you see many bookcases with\nmagical and theorical books.  Here is the history of the &YH&welm&Y'&ws\n&YD&weep&n and you can see it looking to the &Wdeeds&n on the wall.  There is\nalso a Board, where you can write to the rest of the fortress.  I'm sure that\nthe comments will be wise.",
+  "header_raw": "94 131268 0",
+  "flags_text": "131268",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9402
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/94.wld"
+}

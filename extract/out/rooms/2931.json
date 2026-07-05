@@ -1,0 +1,21 @@
+{
+  "id": 2931,
+  "zone_id": 29,
+  "name": "The Egg Room",
+  "description": "You are standing in a room that has several dozen piles of eggs.  There is\na chest on the floor also.",
+  "header_raw": "29 13 2",
+  "flags_text": "13",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "You see two large doors.",
+      "keywords": "doors",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2930
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/29.wld"
+}

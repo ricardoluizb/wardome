@@ -1,0 +1,45 @@
+{
+  "id": 3803,
+  "zone_id": 38,
+  "name": "A Dim Hallway",
+  "description": "You are in a dim hallway, deeper into this decrepit place.  You realize that\nthis place used to be a basement of some sort.  This hallway leads north and\nsouth, with doors to the west and east.  There is less and less light coming\nfrom the north, and you can barely see what's south of you.  Hanging on the\nwalls are some torches.",
+  "header_raw": "38 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3802
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3808
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3804
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3807
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

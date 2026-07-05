@@ -1,0 +1,21 @@
+{
+  "id": 17823,
+  "zone_id": 178,
+  "name": "Darker Cave",
+  "description": "The cave gets even darker as your terror grows stronger.  You fear for your\nlife as something emerges out of the shadows.",
+  "header_raw": "178 1 3",
+  "flags_text": "1",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17822
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

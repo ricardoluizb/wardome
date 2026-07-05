@@ -1,0 +1,21 @@
+{
+  "id": 2214,
+  "zone_id": 22,
+  "name": "The Library",
+  "description": "You have entered a huge room, filled with books.  A peaceful man is\nsitting at a table, studying.",
+  "header_raw": "22 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "You see the court.",
+      "keywords": "door black",
+      "door_flag": 1,
+      "key": 2240,
+      "to": 2213
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

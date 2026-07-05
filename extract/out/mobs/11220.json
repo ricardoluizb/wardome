@@ -1,0 +1,12 @@
+{
+  "id": 11220,
+  "alias": "patron",
+  "short_desc": "a patron",
+  "long_desc": "A sober patron sits silently at one of the long tables.",
+  "detailed_desc": "This fellow is seated, as was his wont for years, in the pub, but is\nnot drinking or eating; he just stares into space, as if waiting for\nsomething.",
+  "flags_raw": "74 0 -200 E",
+  "stats1_raw": "35 -15 -8 1d1+3492 5d7+104",
+  "stats2_raw": "525 238782 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

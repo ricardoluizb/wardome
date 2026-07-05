@@ -4,9 +4,9 @@
   "short_desc": "the farmer",
   "long_desc": "A farmer walks around, looking for something to do.",
   "detailed_desc": "This farmer is a resident of Stanneg by the Mountains,\nand as such, is one of the most boring people on earth.",
-  "flags_raw": "bcgh 0 500 S",
-  "stats1_raw": "7 14 4 3d5+83 2d4+1",
-  "stats2_raw": "1000 2250",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "206 0 500 E",
+  "stats1_raw": "180 -76 -21 1d1+9360 5d19+102",
+  "stats2_raw": "2700 19904481 3",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/33.mob"
 }

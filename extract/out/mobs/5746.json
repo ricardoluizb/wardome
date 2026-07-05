@@ -1,0 +1,12 @@
+{
+  "id": 5746,
+  "alias": "old man",
+  "short_desc": "an old man",
+  "long_desc": "An old man clad in a dirty nightrobe welcomes you to his shop.",
+  "detailed_desc": "\"Oh my, a visitor! We don't get much of them these days...\". Despite his\nappearance, this elderly gentleman is more than capable of taking care of \nhimself. He can sell you lighting equipment for the journey ahead.",
+  "flags_raw": "24654 8380 400 E",
+  "stats1_raw": "30 -17 -11 1d1+3480 5d10+122",
+  "stats2_raw": "450 185326 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

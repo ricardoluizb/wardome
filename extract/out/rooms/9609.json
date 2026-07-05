@@ -1,0 +1,21 @@
+{
+  "id": 9609,
+  "zone_id": 96,
+  "name": "Oh -Oou...",
+  "description": "You are already walking at a long time, your legs begin to hurt a lot and\nsuddenly is with one it seems, without you to notice slips for a hole below it\nseems falling her for about 20 seconds.....    \nSORRY...YOU ARE DEAD!!!",
+  "header_raw": "96 6 0",
+  "flags_text": "6",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9608
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/96.wld"
+}

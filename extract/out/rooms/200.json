@@ -1,0 +1,46 @@
+{
+  "id": 200,
+  "zone_id": 2,
+  "name": "The Entrance To The Lizard Lair Safari",
+  "description": "This is the opulent entrance to the exciting Lizard Lair Safari Park.\nAround you stand many other adventurers awaiting their chance to try\ntheir luck in the quest set before them.  And you.\nThis quest consists of the recovery of the Golden treasure in the depths\nof the lair of the lizardmen.  If you wish to test your luck, you can\npush your way through the exit to the south...\nIf not, you can leave the Safari Park to the east.\nThere is a large sign here.\n&RThere is a Board here, type read board to see him.",
+  "header_raw": "2 16777228 4",
+  "flags_text": "16777228",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The Real World is to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": -1
+    },
+    {
+      "dir": 2,
+      "description": "The quest begins to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 201
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6104
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign large",
+      "description": "The sign reads as follows:\n \n   This area is not suggested if your character is less than 15th level\n   since there are several tough aggressive monsters.  There are one or\n   two essential skills to have... either a knock spell or item, or the\n         ability to pick locks.  If you are LUCKY you might find\n                  an item to open locks....\n \n                                                Matrix"
+    },
+    {
+      "keywords": "board",
+      "description": "&RArea Alterada para Remort Alto, cuidado ao entrar."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/2.wld"
+}

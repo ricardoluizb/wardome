@@ -1,0 +1,29 @@
+{
+  "id": 8148,
+  "zone_id": 81,
+  "name": "The Spiral Tunnel",
+  "description": "It is no use counting any more how many times this tunnel has wound\naround.  You do not want to know.  The stench of goblin-caves is \nvery bad here, but bearable.",
+  "header_raw": "81 9 3",
+  "flags_text": "9",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "The endless spiral climbs higher.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8147
+    },
+    {
+      "dir": 5,
+      "description": "The endless spiral plunges still deeper.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8150
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

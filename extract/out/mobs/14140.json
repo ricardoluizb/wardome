@@ -1,0 +1,12 @@
+{
+  "id": 14140,
+  "alias": "tinker",
+  "short_desc": "a tinker",
+  "long_desc": "A tinker is fiddling with one device or another.",
+  "detailed_desc": "The tinker has huge rippling muscles and a scarred skin.  You\nrealize that his great Sacrifice to his craft has led to his\nincredible strength and weaponskill.  This is not one you wish to\nfight.",
+  "flags_raw": "2120 1024 1000 E",
+  "stats1_raw": "160 -62 -15 1d1+5760 5d17+74",
+  "stats2_raw": "2400 13724234 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

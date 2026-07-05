@@ -1,0 +1,12 @@
+{
+  "id": 1119,
+  "alias": "oldstyle grocer",
+  "short_desc": "the grocer",
+  "long_desc": "The grocer offers you the finest breads in all the land.",
+  "detailed_desc": "The grocer is a large, jovial halfling who knows how to enjoy his pipeweed.\nHowever, he also knows that it's worth protecting and so will do everything\nin his power to prevent riff-raff like you from stealing it.",
+  "flags_raw": "24586 0 600 E",
+  "stats1_raw": "90 -29 -6 1d1+3960 5d10+56",
+  "stats2_raw": "1350 2658738 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/11.mob"
+}

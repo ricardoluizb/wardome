@@ -1,0 +1,29 @@
+{
+  "id": 2038,
+  "zone_id": 20,
+  "name": "Under Water in the Moat",
+  "description": "You are under the water in the Moat. Its very dark and you almost choke\nfrom the muck that surrounds you. You have a feeling you should go back \nfrom where you came. If you go down futher you will surely die!",
+  "header_raw": "20 1 8",
+  "flags_text": "1",
+  "sector": 8,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "The Castle Moat",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2035
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2039
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "A Guest Bedroom",
   "description": "You are in a comfortable looking bedroom.  A small globe of magical\nenergy floats overhead, providing light.  A small cot is in one corner\nlooking ever so comfortable, so comfortable in fact... someone is sleeping\nin it.\n   The only apparent exit leads back west to the hallway.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

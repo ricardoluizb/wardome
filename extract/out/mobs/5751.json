@@ -1,0 +1,12 @@
+{
+  "id": 5751,
+  "alias": "ogre",
+  "short_desc": "an Ogre",
+  "long_desc": "An Ogre lumbers about here.",
+  "detailed_desc": "This huge dullard is so big and so dense that he doesn't seem to have even\nregistered your presence. You could easily sneak past and escape his lair\nshould you so wish...",
+  "flags_raw": "78 8192 0 E",
+  "stats1_raw": "20 -12 -9 1d1+2316 5d7+118",
+  "stats2_raw": "300 65430 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

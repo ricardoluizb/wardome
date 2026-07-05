@@ -1,0 +1,29 @@
+{
+  "id": 1807,
+  "zone_id": 18,
+  "name": "The Gnome Outpost",
+  "description": "You see a well-built outpost made of snow\nthat actually seems cozy with a small fire\nin the middle keeping the place warm.  The walls while \nundecorated are clean and well-kempt, though you think \nto yourself \"Who'd want to live out here?\"\nThe only exist you see is to the north.",
+  "header_raw": "18 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1833
+    },
+    {
+      "dir": 5,
+      "description": "You see a poorly-camouflaged door.",
+      "keywords": "secret-door",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1808
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/18.wld"
+}

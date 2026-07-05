@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Long Tunnel",
   "description": "The tunnel seems to be slightly sloped here as it continues in its\neast-west direction.  The tunnel walls are far apart, almost allowing\nfor four people to travel abreast with ease.  The walls do not seem to\nbe very damp, but there is a small rivulet running along the northern\nwall of the tunnel.",
-  "header_raw": "40 ad 3",
-  "flags_text": "ad",
+  "header_raw": "40 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

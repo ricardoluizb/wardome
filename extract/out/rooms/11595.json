@@ -1,0 +1,29 @@
+{
+  "id": 11595,
+  "zone_id": 115,
+  "name": "The Rogues' Bar",
+  "description": "This is a dark room full of shadows, but as a thief, it is just the way you\nlike it.  This is the perfect place to hide from the local authorities or any\nother persons who are after your head!  The Entrance to the Thieves' Guild is\nto the north and the Secret Yard is to the west.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11514
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11596
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

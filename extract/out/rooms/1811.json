@@ -1,0 +1,29 @@
+{
+  "id": 1811,
+  "zone_id": 18,
+  "name": "A Passageway",
+  "description": "Gnomes left, gnomes right, all busy and unminding\nof you.  Their faces seem too happy, their manners\npredictable.  The passage is human-sized, not gnome,\nwith unidentifiable inscriptions on the walls.",
+  "header_raw": "18 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1812
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1810
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/18.wld"
+}

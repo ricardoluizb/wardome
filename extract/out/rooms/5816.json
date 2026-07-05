@@ -1,0 +1,29 @@
+{
+  "id": 5816,
+  "zone_id": 57,
+  "name": "A Shipbuilding Room",
+  "description": "This room is scattered with tools, planks, nails, rivets and sailcloth. You\nsee desks, tables and deck plans for various ships strewn about. Evidently\nthe Warlock is something of a nautical man. This room is usually filled\nwith skeletons busily constructing boats for the Warlock, and occasionally\nthe chief ship-builder will actually be doing his job here.\n\nThere are doors to the north and west.",
+  "header_raw": "57 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a door",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5817
+    },
+    {
+      "dir": 3,
+      "description": "a door",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 5779,
+      "to": 5815
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

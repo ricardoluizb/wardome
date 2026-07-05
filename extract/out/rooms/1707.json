@@ -1,0 +1,29 @@
+{
+  "id": 1707,
+  "zone_id": 16,
+  "name": "Trail in Dark Oak Forest",
+  "description": "The trail here passes through groves of closely knit Black Oak. Some of\nthese trees are of enormous size.  Rustling and other low noises come\nfrom the forest on either side of the trail.  The trail continues on north\nand south.",
+  "header_raw": "16 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the trail continue into thick, dark forest.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1708
+    },
+    {
+      "dir": 2,
+      "description": "The edge of the forest is visible in this direction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1706
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 51,
   "name": "The Main Gate",
   "description": "You are at the entrance to the 1st house of the city.  A large gate,\nalmost as big and elegant as the one at the entrance to the city, stands\nhere.",
-  "header_raw": "51 ad 0",
-  "flags_text": "ad",
+  "header_raw": "51 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

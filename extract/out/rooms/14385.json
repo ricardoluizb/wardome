@@ -1,0 +1,37 @@
+{
+  "id": 14385,
+  "zone_id": 143,
+  "name": "Well Constructed Corridor",
+  "description": "The corridor enlarges a bit here, making walking more comfortable.  A long \nunused passage leads east and the corridor continues north and south.",
+  "header_raw": "143 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The corridor continues north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14391
+    },
+    {
+      "dir": 1,
+      "description": "The little used passage leads east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14386
+    },
+    {
+      "dir": 2,
+      "description": "The corridor continues south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14384
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

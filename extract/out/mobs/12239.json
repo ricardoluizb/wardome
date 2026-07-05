@@ -1,0 +1,12 @@
+{
+  "id": 12239,
+  "alias": "surtur",
+  "short_desc": "Surtur",
+  "long_desc": "A massive fire giant bellows in anger.",
+  "detailed_desc": "Lord of the fire giants of Jotunheim, and sworn enemy of the Aesir,\nSurtur is not a god as much as a giant of incredible stature and strength.\nNevertheless he is a significant foe, such that few amongst the Aesir apart\nfrom Thor would challenge his wrath without ample precaution.",
+  "flags_raw": "10 9384 -1000 E",
+  "stats1_raw": "40 -8 -2 1d1+2400 5d5+56",
+  "stats2_raw": "600 289753 4",
+  "stats3_raw": "8 8 1 2 6",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/122.mob"
+}

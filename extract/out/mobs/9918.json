@@ -1,0 +1,12 @@
+{
+  "id": 9918,
+  "alias": "ghenna avon lady",
+  "short_desc": "the Avon lady",
+  "long_desc": "An old lady (who is obviously lost) is trying to sell you some makeup\nhere.",
+  "detailed_desc": "You see a little old lady, dressed all in pink chiffon.  On her arm\nshe carries a heart shaped box made of crepe paper.",
+  "flags_raw": "16456 1192 1000 E",
+  "stats1_raw": "30 3 4 1d1+1080 5d4+22",
+  "stats2_raw": "450 128594 1",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/99.mob"
+}

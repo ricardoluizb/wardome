@@ -1,0 +1,21 @@
+{
+  "id": 19019,
+  "zone_id": 190,
+  "name": "Trophy room of the Elven King.",
+  "description": "You stand in the trophy room of the King. On the walls of the room \nhunting trophies and gifts of all sorts are hanging.",
+  "header_raw": "190 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 19017
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/190.wld"
+}

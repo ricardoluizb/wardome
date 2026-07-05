@@ -1,0 +1,26 @@
+{
+  "id": 28512,
+  "zone_id": 285,
+  "name": "Atlantis Master of Warrior's Training Room",
+  "description": "This room is full of all sorts of weapons and armours. Pieces of old \ntargets and practice dummies lie all around. The walls are chipped and\nscored from weapon blows. This is obviously the room of an avid warrior. \n  A arena gate leads east.",
+  "header_raw": "285 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "arena",
+      "door_flag": 2,
+      "key": 28502,
+      "to": 28528
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "arena",
+      "description": "It looks like it leads back to the hall."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/285.wld"
+}

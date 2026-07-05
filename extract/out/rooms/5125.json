@@ -3,8 +3,8 @@
   "zone_id": 51,
   "name": "The Throne Room",
   "description": "The throne room is basically similar to the inner courtyard in regards\nto decor.  there is a small throne behind the altar but that is about it.",
-  "header_raw": "51 ad 0",
-  "flags_text": "ad",
+  "header_raw": "51 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

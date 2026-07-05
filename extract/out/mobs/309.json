@@ -1,0 +1,12 @@
+{
+  "id": 309,
+  "alias": "oldstyle rabbit",
+  "short_desc": "the cute rabbit",
+  "long_desc": "A cute rabbit is here.",
+  "detailed_desc": "It is a small, furry creature with long ears and big feet.",
+  "flags_raw": "72 0 0 E",
+  "stats1_raw": "1 20 10 1d1+18 5d1+0",
+  "stats2_raw": "15 196 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/3.mob"
+}

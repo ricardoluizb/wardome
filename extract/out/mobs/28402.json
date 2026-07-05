@@ -1,0 +1,12 @@
+{
+  "id": 28402,
+  "alias": "fossil",
+  "short_desc": "Fossil fish",
+  "long_desc": "A fossil fish just above the waterline is moving straight at you!",
+  "detailed_desc": "You cannot see many details about this monster because he is inside a deep haze\nHe has a black skin, covered with a dark grey mane in the torso.\nHe seems to have a bestial smile upon his evil face.",
+  "flags_raw": "8388616 0 0 E",
+  "stats1_raw": "80 -20 -2 1d1+2232 5d9+32",
+  "stats2_raw": "1200 1547212 0",
+  "stats3_raw": "8 8 0 -1 9",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/284.mob"
+}

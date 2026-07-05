@@ -1,0 +1,21 @@
+{
+  "id": 17617,
+  "zone_id": 176,
+  "name": "Slaughterhouse",
+  "description": "You are in the slaughterhouse, where all the animals are slaughtered so\nthat they can be sold or their skins be tanned.  The scream of dying animals\nmakes your stomach churn.  The exit is to the west.",
+  "header_raw": "176 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "You see the dirt road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17668
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/176.wld"
+}

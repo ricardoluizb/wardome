@@ -1,0 +1,37 @@
+{
+  "id": 11240,
+  "zone_id": 112,
+  "name": "A Landing",
+  "description": "The stairs end at a landing from which two wooden doors, both locked,\nlead. The door to the north appears to have been damaged somehow, and\na makeshift lock has been affixed to it. The door to the west shows signs\nof an attempted forced entry, which obviously failed, as it still holds.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door wooden",
+      "door_flag": 2,
+      "key": 11216,
+      "to": 11242
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door wooden",
+      "door_flag": 2,
+      "key": 11250,
+      "to": 11241
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11239
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

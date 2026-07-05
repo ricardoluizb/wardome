@@ -4,9 +4,9 @@
   "short_desc": "the mountain goat",
   "long_desc": "A mountain goat nibbles at a piece of grass here.",
   "detailed_desc": "This goat is acclimated to the rugged terrain of the \nmountains.  It looks at you and shies away a little.",
-  "flags_raw": "gh k 0 E",
-  "stats1_raw": "8 13 3 3d5+95 2d5+1",
-  "stats2_raw": "0 4000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "200 1024 0 E",
+  "stats1_raw": "108 -44 -13 1d1+7344 5d21+92",
+  "stats2_raw": "1620 4725131 5",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/64.mob"
 }

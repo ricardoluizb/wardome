@@ -1,0 +1,29 @@
+{
+  "id": 10117,
+  "zone_id": 101,
+  "name": "Elrond's eastern porch",
+  "description": "This is a large, open, wooden porch which leads up to the Last Homely House.  \nIt faces the east, overlooking the valley of Rivendell.  You can hear water\nfalling and running, and the faint scent of flowers and trees hangs in the air.\nBlack clouds torment the sky, as a drizzle begins.",
+  "header_raw": "101 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "Door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 10118
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10116
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/101.wld"
+}

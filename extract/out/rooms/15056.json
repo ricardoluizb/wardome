@@ -3,8 +3,8 @@
   "zone_id": 150,
   "name": "The Guard Room",
   "description": "You are at a loss to explain why someone would want to spend all\nday down here.  The only explanation that seems even remotely logical\nto you is that there must be an important prisoner kept in one of the\ncells through the south door.\n   The decorations of the room are sparse, merely a table, a chair,\nand a deck of cards.  A stairwell has been built into the western wall\nand it leads upwards.",
-  "header_raw": "150 d 0",
-  "flags_text": "d",
+  "header_raw": "150 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

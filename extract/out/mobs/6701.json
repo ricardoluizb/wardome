@@ -1,0 +1,12 @@
+{
+  "id": 6701,
+  "alias": "guard sundhaven",
+  "short_desc": "a Sundhaven guard",
+  "long_desc": "A guard of Sundhaven stands watchfully.",
+  "detailed_desc": "His swarthy human face is framed by well-combed dark hair that gazes\nabout with a relaxed, alert air. He wears in his uniform the dark gold\nand black colors of the town banner, and the sword that hangs from\nhis hip looks more than idle decoration.",
+  "flags_raw": "4169 168 0 E",
+  "stats1_raw": "150 -55 -12 1d1+4200 5d16+60",
+  "stats2_raw": "2250 9371548 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/67.mob"
+}

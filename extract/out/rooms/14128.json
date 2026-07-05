@@ -1,0 +1,29 @@
+{
+  "id": 14128,
+  "zone_id": 141,
+  "name": "The Library Moongate",
+  "description": "A blue moongate is here, lighting up the otherwise featureless\nroom.",
+  "header_raw": "141 12 0",
+  "flags_text": "12",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "shelf",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14132
+    },
+    {
+      "dir": 4,
+      "description": "Through the moongate, there is a party.",
+      "keywords": "moongate",
+      "door_flag": 2,
+      "key": 14109,
+      "to": 14137
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

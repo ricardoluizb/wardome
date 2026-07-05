@@ -1,0 +1,12 @@
+{
+  "id": 14102,
+  "alias": "shepherd man",
+  "short_desc": "the shepherd",
+  "long_desc": "A humble shepherd is here looking after his sheep.",
+  "detailed_desc": "The shepherd is a patient old man, who has spent all his days\nlooking after his sheep, and all his nights studying the virtue\nof Humility.  Through his wrinkled face though you can see\nhis proud dignity and begin to sense that he was once a warrior.",
+  "flags_raw": "2120 1024 1000 E",
+  "stats1_raw": "20 8 5 1d1+720 5d3+18",
+  "stats2_raw": "300 45400 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

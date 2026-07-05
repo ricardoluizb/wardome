@@ -1,0 +1,29 @@
+{
+  "id": 3839,
+  "zone_id": 38,
+  "name": "On the Other Side of the Dimensional Portal",
+  "description": "You are on the other side of this dimensional portal!  You look around, and\nsee walls made of a golden substance harder than titanium and atlantium.  A\ndivine light illuminates this room.  To the west, you see the rest of this\nestate, and to the east, you see a small room with a shrine through a hazy\nportal.",
+  "header_raw": "38 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see the small room with the shrine.",
+      "keywords": "portal",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3838
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3840
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

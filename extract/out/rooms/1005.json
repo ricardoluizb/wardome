@@ -1,0 +1,50 @@
+{
+  "id": 1005,
+  "zone_id": 10,
+  "name": "The Worship Hall",
+  "description": "This portion of the cathedral is an open area between the pews and the\naltar.  This would have been the location where many of the worshippers\ntook their offerings.  But now only the decay of years remains.  Looking\naround you spot what appears to be a stain on the ground and another on\nthe wall.  You also seem to hear louder wailings... or was it something\nelse?\n   To the east and west, you can see what appear to be confessionals.\nTo the north there are some more pews, and to the south, you can see the\ndestruction where numerous pews have been strew about.",
+  "header_raw": "10 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Just ahead of you are some more pews, but they are much nicer than\nnormal pews would be.  Just beyond them, you can see what appears\nto be an altar.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1008
+    },
+    {
+      "dir": 1,
+      "description": "There is a curtain hanging across the entrance to the confessional\njust to the east.",
+      "keywords": "curtain",
+      "door_flag": 1,
+      "key": -1,
+      "to": 1007
+    },
+    {
+      "dir": 2,
+      "description": "To the south you can see all of the pews scattered and strewn about\nthe cathedral.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1004
+    },
+    {
+      "dir": 3,
+      "description": "There is a curtain hanging across the entrance to the confessional\njust to the west.",
+      "keywords": "curtain",
+      "door_flag": 1,
+      "key": -1,
+      "to": 1006
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "wall walls floor stain stains",
+      "description": "The stains on the floor and wall look to be relatively recent as compared\nto the destruction that hit the cathedral.  You are uncertain as to what\nthey could be, but they are fairly large."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

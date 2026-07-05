@@ -1,0 +1,29 @@
+{
+  "id": 5832,
+  "zone_id": 57,
+  "name": "A Dragon Cave",
+  "description": "Oh Dear...As you progress, you begin to feel uneasy, due to both the heat and\nsmell, and the huge claw marks on the walls of this downward-sloping passage.\nReaching the bottom, your worst fears are confirmed- you have entered the \nlair of a dragon!\n\nA passage leading to a locked steel door in the south wall offers itself as a \npossible escape route, as does a sloping passage that leads back up.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "a locked steel door",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5833
+    },
+    {
+      "dir": 4,
+      "description": "a junction",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5831
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

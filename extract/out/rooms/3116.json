@@ -3,8 +3,8 @@
   "zone_id": 31,
   "name": "The Eastern Park Entrance",
   "description": "You are standing at the eastern end of the park.  A small path leads west\ninto the park.  Going east through the entrance you will reach Emerald\nAvenue.",
-  "header_raw": "31 c 1",
-  "flags_text": "c",
+  "header_raw": "31 4 1",
+  "flags_text": "4",
   "sector": 1,
   "exits": [
     {

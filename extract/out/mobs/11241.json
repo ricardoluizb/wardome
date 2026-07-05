@@ -1,0 +1,12 @@
+{
+  "id": 11241,
+  "alias": "dark monk",
+  "short_desc": "a dark monk",
+  "long_desc": "A wizened old man shambles through the aisles, searching.",
+  "detailed_desc": "The forces behind the conquest of Hochenyana have brought in the infamous\ndark monks, collectors and translators of ancient unholy texts, some of\nwhich they hope to find in this old library.",
+  "flags_raw": "104 0 -800 E",
+  "stats1_raw": "40 -18 -9 1d1+3996 5d9+106",
+  "stats2_raw": "600 341495 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

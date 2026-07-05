@@ -1,0 +1,29 @@
+{
+  "id": 2329,
+  "zone_id": 23,
+  "name": "The swampy path",
+  "description": "You weave your way through the treacherous swamp. Gas rises all around you and\na damp mist covers the ground, making it impossible to travel safely, without\ncarefully picking your way around obstacles. Large, gnarled trees rise above\nyou. Their moss covered branches block out all traces of the sun. The path\nhere leads east and west.",
+  "header_raw": "23 9 3",
+  "flags_text": "9",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2330
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2328
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

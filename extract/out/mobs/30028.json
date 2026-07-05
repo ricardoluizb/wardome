@@ -1,0 +1,12 @@
+{
+  "id": 30028,
+  "alias": "black cat",
+  "short_desc": "&wBlack Cat&n",
+  "long_desc": "A black cat is slinking around here.",
+  "detailed_desc": "&w &n",
+  "flags_raw": "2120 5288 500 E",
+  "stats1_raw": "80 -28 -8 1d1+4800 5d9+72",
+  "stats2_raw": "1200 1969179 4",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/300.mob"
+}

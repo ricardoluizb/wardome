@@ -1,0 +1,29 @@
+{
+  "id": 2022,
+  "zone_id": 20,
+  "name": "Wine Cellar",
+  "description": "You decend a narrow stairway after opening a thick wooden door with a loud\ncreek.  To the left and right are rooms containing countless bottles of\nvintage wines, sent from all over the country  to stock the King and Queens \ncellar.   In the main central room  you see many rows of huge barrels filled\nwith the most delicious wines of all parts of the realm..and along the far\nwall are shelves holding the countless bottles of various brands of brandy\n.. especially select..for the King. To the right sits the winemaster,\nalways ready to help to choose the right wine for the right occasion..and to\nkeep the supplies in order.",
+  "header_raw": "20 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2024
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2017
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

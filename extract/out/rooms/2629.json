@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "A Corridor",
   "description": "You are at the east end of a long corridor.  Obsidian walls\nengraved with ancient runes of power stretch out before you.\nMagical energies seem to crackle with power all around and\nwhisper in tongues long forgotten, almost as if the corridor\nitself were alive.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

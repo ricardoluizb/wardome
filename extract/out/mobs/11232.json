@@ -1,0 +1,12 @@
+{
+  "id": 11232,
+  "alias": "goblin shaman",
+  "short_desc": "a goblin shaman",
+  "long_desc": "A rather mangy, bedragged goblin covered in white paint screams at the sky.",
+  "detailed_desc": "This cunning shaman took advantage of the helplessness of the townsfolk\nto move his tribe into the mage's tower; accomodations he has long desired.\nHe is dimly aware that something is seriously wrong with the villagers, and\nthat some sort of enchantment is in affect, but ignores it as it has yet ot\naffect him.",
+  "flags_raw": "229434 1090519208 -800 E",
+  "stats1_raw": "40 -18 -9 1d1+3996 5d9+106",
+  "stats2_raw": "600 375644 9",
+  "stats3_raw": "8 8 1 11 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

@@ -1,10 +1,10 @@
 {
   "id": 7309,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "The Hot Room",
   "description": "You are very surprised, as this room for a change are hot instead of\ncold.  To the north it goes downwards into some mud.  There are also an\nexit to the west.",
-  "header_raw": "73 ad 1",
-  "flags_text": "ad",
+  "header_raw": "72 9 1",
+  "flags_text": "9",
   "sector": 1,
   "exits": [
     {

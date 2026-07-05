@@ -1,0 +1,33 @@
+{
+  "id": 3008,
+  "producing": [
+    3012,
+    3013,
+    3014
+  ],
+  "profit_buy": 1.0,
+  "profit_sell": 1.0,
+  "buy_types": [],
+  "messages": [
+    "%s No tengo - try list!",
+    "%s No buying, compadre.",
+    "%s No buying, compadre.",
+    "%s No buying, compadre.",
+    "%s No dinero!  Hit the road!",
+    "%s That'll be %d coins, compadre.",
+    "%s Oops - %d a minor bug - please report."
+  ],
+  "tail": [
+    0,
+    2,
+    3008,
+    0,
+    3056,
+    -1,
+    0,
+    28,
+    0,
+    0
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/30.shp"
+}

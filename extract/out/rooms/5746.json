@@ -1,0 +1,37 @@
+{
+  "id": 5746,
+  "zone_id": 57,
+  "name": "A Junction",
+  "description": "You have reached a T-junction in the passageway, where passages run to the\nwest, east and south. You can hear screaming and what sounds like a whip\ncracking to the west, while the sound of many Orcs slurping and chomping\non their vile food emanates from the east. A variety of sounds come from\nthe south. In the distance, you can hear what sounds like running water.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "another junction",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5748
+    },
+    {
+      "dir": 2,
+      "description": "a corridor",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5744
+    },
+    {
+      "dir": 3,
+      "description": "a westward corridor",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5747
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

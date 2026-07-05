@@ -1,0 +1,2674 @@
+{
+  "id": 112,
+  "name": "Village of Hochenyana",
+  "header": {
+    "raw": "11299 30 2 17 -1",
+    "min_room": 11299,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": 17
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11211,
+        1,
+        11201
+      ],
+      "comment": "(a village guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11209,
+        6,
+        16
+      ],
+      "comment": "(a sturdy oak club)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11210,
+        6,
+        6
+      ],
+      "comment": "(a battered iron helmet)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11211,
+        6,
+        5
+      ],
+      "comment": "(a ring mail coat)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11212,
+        6,
+        11
+      ],
+      "comment": "(a wooden shield)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11232,
+        1,
+        11248
+      ],
+      "comment": "(a goblin shaman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11248,
+        1,
+        20
+      ],
+      "comment": "(the evil eye)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11254,
+        2,
+        17
+      ],
+      "comment": "(the mage's spell book)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        11247,
+        1,
+        11248
+      ],
+      "comment": "(a goblin totem)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11250,
+        3,
+        1
+      ],
+      "comment": "(The Town Gaol)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11228,
+        1,
+        1
+      ],
+      "comment": "(Main Street)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11209,
+        11,
+        11228
+      ],
+      "comment": "(a dazed villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11209,
+        11,
+        11228
+      ],
+      "comment": "(a dazed villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11210,
+        11,
+        11228
+      ],
+      "comment": "(a dazed villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11210,
+        11,
+        11228
+      ],
+      "comment": "(a dazed villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11208,
+        6,
+        11228
+      ],
+      "comment": "(a village dog)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        11242,
+        1,
+        11228
+      ],
+      "comment": "(a weatherbeaten sign)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11251,
+        0,
+        2
+      ],
+      "comment": "(The Gaol )"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11251,
+        1,
+        1
+      ],
+      "comment": "(The Gaol )"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11251,
+        2,
+        2
+      ],
+      "comment": "(The Gaol )"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11251,
+        3,
+        2
+      ],
+      "comment": "(The Gaol )"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        11261,
+        1,
+        11251
+      ],
+      "comment": "(cell keys)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11209,
+        11,
+        11202
+      ],
+      "comment": "(a dazed villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11210,
+        11,
+        11202
+      ],
+      "comment": "(a dazed villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11233,
+        5,
+        11202
+      ],
+      "comment": "(the town guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11209,
+        6,
+        16
+      ],
+      "comment": "(a sturdy oak club)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11210,
+        6,
+        6
+      ],
+      "comment": "(a battered iron helmet)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11211,
+        6,
+        5
+      ],
+      "comment": "(a ring mail coat)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11212,
+        6,
+        11
+      ],
+      "comment": "(a wooden shield)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11233,
+        5,
+        11202
+      ],
+      "comment": "(the town guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11209,
+        6,
+        16
+      ],
+      "comment": "(a sturdy oak club)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11210,
+        6,
+        6
+      ],
+      "comment": "(a battered iron helmet)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11211,
+        6,
+        5
+      ],
+      "comment": "(a ring mail coat)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11212,
+        6,
+        11
+      ],
+      "comment": "(a wooden shield)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11217,
+        1,
+        11204
+      ],
+      "comment": "(Clegg)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11223,
+        1,
+        16
+      ],
+      "comment": "(a bloodstained cleaver)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11224,
+        1,
+        9
+      ],
+      "comment": "(a butcher's glove)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11225,
+        1,
+        5
+      ],
+      "comment": "(a butcher's apron)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11218,
+        1,
+        11205
+      ],
+      "comment": "(Mariah)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11209,
+        11,
+        11206
+      ],
+      "comment": "(a dazed villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11210,
+        11,
+        11206
+      ],
+      "comment": "(a dazed villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11219,
+        1,
+        11207
+      ],
+      "comment": "(a brown bear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11220,
+        1,
+        11208
+      ],
+      "comment": "(a patron)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11221,
+        1,
+        11208
+      ],
+      "comment": "(Silus)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11208,
+        6,
+        11209
+      ],
+      "comment": "(a village dog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11208,
+        6,
+        11209
+      ],
+      "comment": "(a village dog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11222,
+        1,
+        11210
+      ],
+      "comment": "(Maddax)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        11226,
+        1,
+        11211
+      ],
+      "comment": "(a cupboard)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        11229,
+        1,
+        11226
+      ],
+      "comment": "(a diamond earring)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        11228,
+        1,
+        11211
+      ],
+      "comment": "(a tea pot)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        11227,
+        1,
+        11228
+      ],
+      "comment": "(a tiny brass key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11209,
+        11,
+        11212
+      ],
+      "comment": "(a dazed villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11210,
+        11,
+        11212
+      ],
+      "comment": "(a dazed villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11209,
+        11,
+        11212
+      ],
+      "comment": "(a dazed villager)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        11232,
+        1,
+        11212
+      ],
+      "comment": "(a fountain)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        11233,
+        1,
+        11213
+      ],
+      "comment": "(the corpse of the smith)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        11234,
+        1,
+        11233
+      ],
+      "comment": "(a silver hammer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11223,
+        1,
+        11214
+      ],
+      "comment": "(a skeletal horse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11224,
+        1,
+        11217
+      ],
+      "comment": "(an insane merchant)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11235,
+        1,
+        1
+      ],
+      "comment": "(a Merchant's Guild Signet Ring)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11209,
+        11,
+        11218
+      ],
+      "comment": "(a dazed villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11210,
+        11,
+        11218
+      ],
+      "comment": "(a dazed villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11209,
+        11,
+        11218
+      ],
+      "comment": "(a dazed villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11210,
+        11,
+        11218
+      ],
+      "comment": "(a dazed villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11233,
+        5,
+        11218
+      ],
+      "comment": "(the town guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11209,
+        6,
+        16
+      ],
+      "comment": "(a sturdy oak club)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11210,
+        6,
+        6
+      ],
+      "comment": "(a battered iron helmet)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11211,
+        6,
+        5
+      ],
+      "comment": "(a ring mail coat)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11212,
+        6,
+        11
+      ],
+      "comment": "(a wooden shield)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11233,
+        5,
+        11218
+      ],
+      "comment": "(the town guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11209,
+        6,
+        16
+      ],
+      "comment": "(a sturdy oak club)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11210,
+        6,
+        6
+      ],
+      "comment": "(a battered iron helmet)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11211,
+        6,
+        5
+      ],
+      "comment": "(a ring mail coat)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11212,
+        6,
+        11
+      ],
+      "comment": "(a wooden shield)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11225,
+        1,
+        11220
+      ],
+      "comment": "(Edmund)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11222,
+        5,
+        1
+      ],
+      "comment": "(Main Street)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11209,
+        11,
+        11222
+      ],
+      "comment": "(a dazed villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11210,
+        11,
+        11222
+      ],
+      "comment": "(a dazed villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11208,
+        6,
+        11222
+      ],
+      "comment": "(a village dog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11208,
+        6,
+        11222
+      ],
+      "comment": "(a village dog)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        11236,
+        1,
+        11222
+      ],
+      "comment": "(&Ra pile of rubbish&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11227,
+        1,
+        11223
+      ],
+      "comment": "(N)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11228,
+        1,
+        11226
+      ],
+      "comment": "(a giant frog)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        11238,
+        1,
+        11226
+      ],
+      "comment": "(silver greaves)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11229,
+        1,
+        11227
+      ],
+      "comment": "(N)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11239,
+        1,
+        16
+      ],
+      "comment": "(a thieves' dirk)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11240,
+        1,
+        8
+      ],
+      "comment": "(the bladed boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11241,
+        1,
+        12
+      ],
+      "comment": "(a camoflagued cape)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11229,
+        3,
+        2
+      ],
+      "comment": "(The Old Tailor Shop)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11216,
+        1,
+        11229
+      ],
+      "comment": "(the zombie of Badwick)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11221,
+        1,
+        16
+      ],
+      "comment": "(pinking shears)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11222,
+        1,
+        13
+      ],
+      "comment": "(an embroidered belt)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        11217,
+        1,
+        11229
+      ],
+      "comment": "(the shop counter)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11230,
+        1,
+        11230
+      ],
+      "comment": "(a wild boar)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        11243,
+        1,
+        11230
+      ],
+      "comment": "(a foul nest)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        11244,
+        1,
+        11243
+      ],
+      "comment": "(a leather wristband)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11201,
+        1,
+        11232
+      ],
+      "comment": "(an umber hulk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11231,
+        1,
+        11233
+      ],
+      "comment": "(N)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11245,
+        1,
+        16
+      ],
+      "comment": "(a mithril mace)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11246,
+        1,
+        5
+      ],
+      "comment": "(a leather jerkin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11209,
+        11,
+        11235
+      ],
+      "comment": "(a dazed villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11210,
+        11,
+        11235
+      ],
+      "comment": "(a dazed villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11233,
+        5,
+        11235
+      ],
+      "comment": "(the town guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11210,
+        6,
+        6
+      ],
+      "comment": "(a battered iron helmet)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11212,
+        6,
+        11
+      ],
+      "comment": "(a wooden shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11211,
+        6,
+        5
+      ],
+      "comment": "(a ring mail coat)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11209,
+        6,
+        16
+      ],
+      "comment": "(a sturdy oak club)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11236,
+        2,
+        1
+      ],
+      "comment": "(Outside the Mayoral Residence)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11237,
+        0,
+        1
+      ],
+      "comment": "(A Hallway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11238,
+        3,
+        1
+      ],
+      "comment": "(The Reception Area)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11213,
+        1,
+        11238
+      ],
+      "comment": "(the mayor's secretary)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11239,
+        1,
+        1
+      ],
+      "comment": "(The Office of the Mayor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11212,
+        1,
+        11239
+      ],
+      "comment": "(Geoffrey Hiln)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11216,
+        1,
+        -1
+      ],
+      "comment": "(the study key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11213,
+        1,
+        12
+      ],
+      "comment": "(the mayor's robes)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11214,
+        1,
+        16
+      ],
+      "comment": "(a broadsword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11215,
+        1,
+        5
+      ],
+      "comment": "(fine chain mail)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        11249,
+        1,
+        11239
+      ],
+      "comment": "(a stag's head)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        11250,
+        1,
+        11249
+      ],
+      "comment": "(the key to the mayor's bedroom)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11240,
+        0,
+        2
+      ],
+      "comment": "(A Landing)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11240,
+        3,
+        2
+      ],
+      "comment": "(A Landing)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11241,
+        1,
+        2
+      ],
+      "comment": "(The Mayor's Bedroom)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        11251,
+        1,
+        11241
+      ],
+      "comment": "(an iron bound chest)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        11252,
+        1,
+        11251
+      ],
+      "comment": "(the Shield of Douglas)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11242,
+        2,
+        2
+      ],
+      "comment": "(The Real Mayor of Hochenyana)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11215,
+        1,
+        11242
+      ],
+      "comment": "(Geoffrey Hiln)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        11253,
+        1,
+        11242
+      ],
+      "comment": "(a volume of Bethesda's Almanac)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11235,
+        6,
+        11244
+      ],
+      "comment": "(N)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11235,
+        6,
+        11244
+      ],
+      "comment": "(N)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11235,
+        6,
+        11244
+      ],
+      "comment": "(N)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11245,
+        1,
+        1
+      ],
+      "comment": "(The Entrance to the Tower)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11235,
+        6,
+        11245
+      ],
+      "comment": "(N)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11235,
+        6,
+        11245
+      ],
+      "comment": "(N)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11235,
+        6,
+        11245
+      ],
+      "comment": "(N)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11246,
+        3,
+        1
+      ],
+      "comment": "(Inside the Tower)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11234,
+        3,
+        11247
+      ],
+      "comment": "(a grinning goblin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11234,
+        3,
+        11247
+      ],
+      "comment": "(a grinning goblin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11234,
+        3,
+        11247
+      ],
+      "comment": "(a grinning goblin)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11252,
+        1,
+        2
+      ],
+      "comment": "(A Cell)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11239,
+        3,
+        11252
+      ],
+      "comment": "(a wraith)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11253,
+        2,
+        2
+      ],
+      "comment": "(A Cell)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11239,
+        3,
+        11253
+      ],
+      "comment": "(a wraith)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11254,
+        0,
+        2
+      ],
+      "comment": "(A Cell)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11239,
+        3,
+        11254
+      ],
+      "comment": "(a wraith)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11208,
+        6,
+        11255
+      ],
+      "comment": "(a village dog)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11209,
+        11,
+        11255
+      ],
+      "comment": "(a dazed villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11210,
+        11,
+        11255
+      ],
+      "comment": "(a dazed villager)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11210,
+        11,
+        11255
+      ],
+      "comment": "(a dazed villager)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11258,
+        1,
+        1
+      ],
+      "comment": "(The Antechamber)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11258,
+        3,
+        1
+      ],
+      "comment": "(The Antechamber)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11259,
+        1,
+        1
+      ],
+      "comment": "(A Guard Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11244,
+        1,
+        11259
+      ],
+      "comment": "(Devrel)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11260,
+        3,
+        1
+      ],
+      "comment": "(An Empty Chamber)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11245,
+        1,
+        11260
+      ],
+      "comment": "(a shadow)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        11277,
+        1,
+        11260
+      ],
+      "comment": "(shadow cache)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        11276,
+        1,
+        11277
+      ],
+      "comment": "(a shadow ring)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        11278,
+        1,
+        11261
+      ],
+      "comment": "(a towering mound of garbage)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11262,
+        3,
+        1
+      ],
+      "comment": "(A Ravaged Corridor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11246,
+        5,
+        11262
+      ],
+      "comment": "(a Priest of No'ol)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11279,
+        5,
+        3
+      ],
+      "comment": "(a necklace of bones)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11280,
+        5,
+        19
+      ],
+      "comment": "(black opal stud)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11263,
+        1,
+        1
+      ],
+      "comment": "(Offices of the Clergy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11247,
+        1,
+        11263
+      ],
+      "comment": "(an avatar of Asteh)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11282,
+        1,
+        5
+      ],
+      "comment": "(&BPlate of the air&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11281,
+        1,
+        16
+      ],
+      "comment": "(the Mace of Asteh)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11264,
+        3,
+        1
+      ],
+      "comment": "(The Ruined Confessionary)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11248,
+        1,
+        11264
+      ],
+      "comment": "(the ghost of the bishop)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11283,
+        1,
+        3
+      ],
+      "comment": "(rosary beads)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11265,
+        1,
+        1
+      ],
+      "comment": "(A Ravaged Corridor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11246,
+        5,
+        11265
+      ],
+      "comment": "(a Priest of No'ol)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11279,
+        5,
+        3
+      ],
+      "comment": "(a necklace of bones)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11280,
+        5,
+        19
+      ],
+      "comment": "(black opal stud)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11266,
+        0,
+        1
+      ],
+      "comment": "(The Steps of the Library)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11267,
+        1,
+        1
+      ],
+      "comment": "(The Entrance Hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11267,
+        2,
+        1
+      ],
+      "comment": "(The Entrance Hall)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11242,
+        1,
+        11267
+      ],
+      "comment": "(a rogue)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11268,
+        1,
+        16
+      ],
+      "comment": "(an ebony dagger)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11274,
+        1,
+        9
+      ],
+      "comment": "(gloves of thievery)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11240,
+        1,
+        11268
+      ],
+      "comment": "(an illithid scientist)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11264,
+        1,
+        12
+      ],
+      "comment": "(dark robes)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11265,
+        1,
+        6
+      ],
+      "comment": "(a dark cowl)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        11275,
+        1,
+        11268
+      ],
+      "comment": "(the Book of Knowledge)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11241,
+        3,
+        11269
+      ],
+      "comment": "(a dark monk)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11266,
+        3,
+        16
+      ],
+      "comment": "(a shod staff)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11267,
+        3,
+        17
+      ],
+      "comment": "(an unholy tome)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11241,
+        3,
+        11270
+      ],
+      "comment": "(a dark monk)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11266,
+        3,
+        16
+      ],
+      "comment": "(a shod staff)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11267,
+        3,
+        17
+      ],
+      "comment": "(an unholy tome)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11241,
+        3,
+        11271
+      ],
+      "comment": "(a dark monk)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11266,
+        3,
+        16
+      ],
+      "comment": "(a shod staff)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11267,
+        3,
+        17
+      ],
+      "comment": "(an unholy tome)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11272,
+        3,
+        1
+      ],
+      "comment": "(The Librarian's Office)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        11269,
+        1,
+        11272
+      ],
+      "comment": "(a desk)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        11270,
+        1,
+        11272
+      ],
+      "comment": "(a paeg torn from a book)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        11271,
+        1,
+        11272
+      ],
+      "comment": "(a hat stand )"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11246,
+        5,
+        11273
+      ],
+      "comment": "(a Priest of No'ol)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11279,
+        5,
+        3
+      ],
+      "comment": "(a necklace of bones)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11280,
+        5,
+        19
+      ],
+      "comment": "(black opal stud)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11246,
+        5,
+        11273
+      ],
+      "comment": "(a Priest of No'ol)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11280,
+        5,
+        19
+      ],
+      "comment": "(black opal stud)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11279,
+        5,
+        3
+      ],
+      "comment": "(a necklace of bones)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11246,
+        5,
+        11273
+      ],
+      "comment": "(a Priest of No'ol)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11280,
+        5,
+        19
+      ],
+      "comment": "(black opal stud)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11279,
+        5,
+        3
+      ],
+      "comment": "(a necklace of bones)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11238,
+        1,
+        11274
+      ],
+      "comment": "(a minion of No'ol)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11259,
+        1,
+        0
+      ],
+      "comment": "(the Sigil of No'ol)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11260,
+        1,
+        16
+      ],
+      "comment": "(razor whip)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11236,
+        1,
+        11277
+      ],
+      "comment": "(a brass golem)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11278,
+        1,
+        1
+      ],
+      "comment": "(The Arsenel)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        11255,
+        1,
+        11278
+      ],
+      "comment": "(a long metal crate)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        11256,
+        1,
+        11255
+      ],
+      "comment": "(a wand of good health)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        11257,
+        1,
+        11255
+      ],
+      "comment": "(a wand of poor health)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        11258,
+        1,
+        11255
+      ],
+      "comment": "(a wand of perception)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11279,
+        2,
+        1
+      ],
+      "comment": "(Two Doors)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11279,
+        3,
+        1
+      ],
+      "comment": "(Two Doors)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11280,
+        0,
+        1
+      ],
+      "comment": "(The Dungeon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11237,
+        1,
+        11280
+      ],
+      "comment": "(a fire elemental)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11281,
+        4,
+        1
+      ],
+      "comment": "(A Stinking Sewer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11226,
+        1,
+        11281
+      ],
+      "comment": "(an otyugh)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11237,
+        1,
+        -1
+      ],
+      "comment": "(shiny steel leggings)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11243,
+        1,
+        11282
+      ],
+      "comment": "(Xeratzl)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11272,
+        1,
+        17
+      ],
+      "comment": "(the Necronomicon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11249,
+        3,
+        11284
+      ],
+      "comment": "(a mud man)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11285,
+        1,
+        -1
+      ],
+      "comment": "(a black potion)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11249,
+        3,
+        11284
+      ],
+      "comment": "(a mud man)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11285,
+        1,
+        -1
+      ],
+      "comment": "(a black potion)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11249,
+        3,
+        11284
+      ],
+      "comment": "(a mud man)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11285,
+        1,
+        -1
+      ],
+      "comment": "(a black potion)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11250,
+        1,
+        11286
+      ],
+      "comment": "(a giant leech)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11287,
+        2,
+        1
+      ],
+      "comment": "(The End)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        11284,
+        1,
+        11287
+      ],
+      "comment": "(a boulder)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11288,
+        0,
+        1
+      ],
+      "comment": "(A Dusty Storeroom)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11288,
+        5,
+        1
+      ],
+      "comment": "(A Dusty Storeroom)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11214,
+        1,
+        11288
+      ],
+      "comment": "(a giant spider)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        11218,
+        1,
+        11288
+      ],
+      "comment": "(a wine barrel)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        11219,
+        1,
+        11288
+      ],
+      "comment": "(a copper lantern)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11289,
+        3,
+        2
+      ],
+      "comment": "(A Filthy Cell)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11206,
+        1,
+        11289
+      ],
+      "comment": "(a crazed merchant)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11290,
+        0,
+        2
+      ],
+      "comment": "(A Filthy Cell)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11207,
+        3,
+        11290
+      ],
+      "comment": "(a peasant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11207,
+        3,
+        11290
+      ],
+      "comment": "(a peasant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11207,
+        3,
+        11290
+      ],
+      "comment": "(a peasant)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11291,
+        2,
+        2
+      ],
+      "comment": "(A Filthy Cell)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11205,
+        1,
+        11291
+      ],
+      "comment": "(an elven noble)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11292,
+        0,
+        2
+      ],
+      "comment": "(A Miserable Dungeon)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11292,
+        1,
+        2
+      ],
+      "comment": "(A Miserable Dungeon)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11292,
+        2,
+        2
+      ],
+      "comment": "(A Miserable Dungeon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11204,
+        1,
+        11292
+      ],
+      "comment": "(the gaoler)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11206,
+        1,
+        -1
+      ],
+      "comment": "(a gaol key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11204,
+        1,
+        16
+      ],
+      "comment": "(a barbed whip)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11205,
+        1,
+        5
+      ],
+      "comment": "(stained leather armor)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11293,
+        3,
+        1
+      ],
+      "comment": "(A Stone Corridor)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11294,
+        0,
+        1
+      ],
+      "comment": "(A Secret Chamber)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11294,
+        1,
+        1
+      ],
+      "comment": "(A Secret Chamber)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11294,
+        4,
+        1
+      ],
+      "comment": "(A Secret Chamber)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        11220,
+        1,
+        11294
+      ],
+      "comment": "(a shelf laden with empty cans)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        11295,
+        2,
+        1
+      ],
+      "comment": "(A Secret Tunnel)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11202,
+        2,
+        11297
+      ],
+      "comment": "(an illithid mage)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11202,
+        2,
+        5
+      ],
+      "comment": "(purple robes)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11203,
+        2,
+        17
+      ],
+      "comment": "(an adamantium rod)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11202,
+        2,
+        11297
+      ],
+      "comment": "(an illithid mage)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11202,
+        2,
+        5
+      ],
+      "comment": "(purple robes)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        11203,
+        2,
+        17
+      ],
+      "comment": "(an adamantium rod)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11203,
+        1,
+        11298
+      ],
+      "comment": "(a giant two-headed troll)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        11251,
+        1,
+        11299
+      ],
+      "comment": "(Xyrtog)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        11286,
+        1,
+        -1
+      ],
+      "comment": "(the staff of ensorcellment)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/112.zon"
+}

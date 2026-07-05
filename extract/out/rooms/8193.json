@@ -1,0 +1,21 @@
+{
+  "id": 8193,
+  "zone_id": 81,
+  "name": "Up the Cliff We Go",
+  "description": "Every move is sheer torture as you haul yourself up this rough crevasse\nin the cliff-face, but you are nearly to the top!",
+  "header_raw": "81 201 5",
+  "flags_text": "201",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "You can keep climbing up, but you will NEVER do this again!",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8103
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

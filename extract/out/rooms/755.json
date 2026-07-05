@@ -1,0 +1,53 @@
+{
+  "id": 755,
+  "zone_id": 7,
+  "name": "Town Hall--Entrance",
+  "description": "Organized Madness.  There are people going every which way here, up\nacross, over, under, through!  Deliveries, messages, visits,\nappointments, WHEW!  You're suddenly glad you don't work here!\n\n\t   There's a directory sign:\n\t\tUp-Mayor Kell\n\t\tDown-Jails\n\t\tNorth-Courtroom\n\t\tWest-Council Chambers",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 758
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 725
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 759
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 756
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 761
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

@@ -4,9 +4,9 @@
   "short_desc": "the Queen spider",
   "long_desc": "The huge, bulky Queen spider is here.",
   "detailed_desc": "This disgusting creature is at the size of a small elephant.  It has eight\nhuge, hairy legs that would give it a tremendous speed on almost any surface\nif it wasn't so immensely fat.  Its large, bulbous eyes stare back at you.",
-  "flags_raw": "abgjl dfkp -1000 S",
-  "stats1_raw": "15 6 1 1d12+185 2d8+3",
-  "stats2_raw": "0 31000",
-  "stats3_raw": "8 8 2",
+  "flags_raw": "2667 33832 -1000 E",
+  "stats1_raw": "15 13 7 1d1+315 5d2+6",
+  "stats2_raw": "225 18413 0",
+  "stats3_raw": "8 8 2 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/61.mob"
 }

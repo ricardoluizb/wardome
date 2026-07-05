@@ -1,0 +1,12 @@
+{
+  "id": 29544,
+  "alias": "trojan citizen",
+  "short_desc": "A Trojan citizen",
+  "long_desc": "A Trojan citizen hurries by.",
+  "detailed_desc": "These citizens are sick of the war.",
+  "flags_raw": "200 0 0 E",
+  "stats1_raw": "125 -50 -14 1d1+7500 5d13+90",
+  "stats2_raw": "1875 7041107 4",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/295.mob"
+}

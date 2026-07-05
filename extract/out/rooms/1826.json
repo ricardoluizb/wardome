@@ -1,0 +1,29 @@
+{
+  "id": 1826,
+  "zone_id": 18,
+  "name": "The connecting tunnel",
+  "description": "This tunnel is very wide, as if any huge beast\ncould trample through it in a second.  Great\nhowling abounds from behind the great door\nto the north.",
+  "header_raw": "18 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "They must keep it locked for a reason.",
+      "keywords": "door north",
+      "door_flag": 1,
+      "key": -1,
+      "to": 1824
+    },
+    {
+      "dir": 2,
+      "description": "The wall surface looks uneven here.",
+      "keywords": "sliding-door south",
+      "door_flag": 1,
+      "key": -1,
+      "to": 1823
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/18.wld"
+}

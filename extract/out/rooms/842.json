@@ -1,0 +1,29 @@
+{
+  "id": 842,
+  "zone_id": 7,
+  "name": "Dirt Road",
+  "description": "The road continues east and west from here.  To the west you see\nbrightness seeping over and between the mountains.  Eastwards the\nstrange, unnatural night sky spreads over anything, its permanent\nstars lighting the landscape with an eerie glow.",
+  "header_raw": "7 8 2",
+  "flags_text": "8",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 841
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 843
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

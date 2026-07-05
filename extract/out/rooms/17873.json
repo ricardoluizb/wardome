@@ -1,0 +1,45 @@
+{
+  "id": 17873,
+  "zone_id": 178,
+  "name": "Entrance to a Dungeon",
+  "description": "The floor dips slightly as you walk into this dark and nasty place.  Your\nskin crawls as you look at the filth on the walls and see it move.  Most\nof the exits lead into jail cells.",
+  "header_raw": "178 8 2",
+  "flags_text": "8",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the shaft.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17872
+    },
+    {
+      "dir": 1,
+      "description": "You see a cell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17875
+    },
+    {
+      "dir": 2,
+      "description": "You see a dark and nasty room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17874
+    },
+    {
+      "dir": 3,
+      "description": "You see a cell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17879
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

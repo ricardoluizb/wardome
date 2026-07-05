@@ -1,0 +1,21 @@
+{
+  "id": 11241,
+  "zone_id": 112,
+  "name": "The Mayor's Bedroom",
+  "description": "This room has yet to be tampered with by whatever has taken over the\ntown. For whatever reason, the door was securely locked with a pickproof\ndevice that is both rare and expensive. Evidently not much more force\nwas brought to bear by the villains, for the interior remains undamaged,\nincluding a fine iron chest which bears one word- Grandfather's.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 11250,
+      "to": 11240
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 793,
+  "zone_id": 7,
+  "name": "Hallway",
+  "description": "This hallway ends short to allow the fireplace in the kitchen to\nreach the roof.  A single door is set in the east wall, and the hall\nleads north to where the stairwell leads down.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 791
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 794
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

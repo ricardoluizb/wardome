@@ -1,0 +1,21 @@
+{
+  "id": 8245,
+  "zone_id": 82,
+  "name": "A Lyon Cabin",
+  "description": "You are in a small cabin, you see some pictures at the walls, you read some\nof the signatures that says \"Van Gogh\" you dont put any attention  to it. You\nsee some papers in the wood desk, and at the other side you can see a broken\nwindow where the air flows.",
+  "header_raw": "82 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8244
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

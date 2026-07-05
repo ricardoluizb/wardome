@@ -1,0 +1,21 @@
+{
+  "id": 17010,
+  "zone_id": 0,
+  "name": "Cave Bear's Lair",
+  "description": "You enter in a dark place inside the cave. You hear a strange sound. \nThe sound of a hungry bear. You look around and perceive lots of bones. Yes,\nbones of adventurers who tried to go ahead this lair.",
+  "header_raw": "0 1048585 0",
+  "flags_text": "1048585",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "It's so dark to see to this direction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 17009
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/170.wld"
+}

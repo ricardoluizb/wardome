@@ -1,0 +1,12 @@
+{
+  "id": 13101,
+  "alias": "Samurai Apprentice",
+  "short_desc": "a Samurai Apprentice",
+  "long_desc": "An apprentice looking Samurai is meditating here.",
+  "detailed_desc": "You see a samurai apprentice standing before you.  He looks much like a\ntrainee, but you can't quite tell.",
+  "flags_raw": "2122 8 900 E",
+  "stats1_raw": "130 -47 -11 1d1+4680 5d14+62",
+  "stats2_raw": "1950 7522225 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/131.mob"
+}

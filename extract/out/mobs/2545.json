@@ -4,9 +4,9 @@
   "short_desc": "the cloth golem",
   "long_desc": "A cloth golem wanders around here.",
   "detailed_desc": "It looks like a bunch of old rags, quite surprising it can actually walk.",
-  "flags_raw": "bfgmnopqr dk 350 S",
-  "stats1_raw": "8 10 1 8d8+80 3d4+1",
-  "stats2_raw": "0 2100",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "258154 1032 350 E",
+  "stats1_raw": "140 -50 -11 1d1+3912 5d15+56",
+  "stats2_raw": "2100 7674036 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

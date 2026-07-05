@@ -4,9 +4,9 @@
   "short_desc": "the waiter",
   "long_desc": "A waiter is going around from one place to another.",
   "detailed_desc": "A tired looking waiter.",
-  "flags_raw": "bno 0 900 S",
-  "stats1_raw": "23 2 2 6d10+390 1d8+12",
-  "stats2_raw": "2000 80000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "24586 0 900 E",
+  "stats1_raw": "23 9 6 1d1+477 5d3+8",
+  "stats2_raw": "345 53243 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

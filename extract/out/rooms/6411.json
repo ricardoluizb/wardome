@@ -3,8 +3,8 @@
   "zone_id": 64,
   "name": "The Master Bedroom",
   "description": "This is an opulent room, decorated in silks and gold.\nThere is an ebony desk against one wall, cooled lava rock\nspilling over its surface from the window it once looked\nout at.  A nice, spacious closet is filled with clothes\njust cleaned and pressed.",
-  "header_raw": "64 ad 0",
-  "flags_text": "ad",
+  "header_raw": "64 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {
@@ -18,12 +18,12 @@
   ],
   "extra_descriptions": [
     {
-      "keywords": "desk",
-      "description": "The desk is basically uninteresting, as are the papers \non top of it..."
-    },
-    {
       "keywords": "closet",
       "description": "Nice clothes, but not your size at all."
+    },
+    {
+      "keywords": "desk",
+      "description": "The desk is basically uninteresting, as are the papers \non top of it..."
     }
   ],
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/64.wld"

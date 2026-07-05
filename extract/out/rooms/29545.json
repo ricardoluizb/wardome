@@ -1,0 +1,29 @@
+{
+  "id": 29545,
+  "zone_id": 295,
+  "name": "The Battlefield",
+  "description": "You are walking across the battlefield before the walls of Troy, where the\nbesieging army of the Achaeans, led by Agamemnon, have sat encamped for\nyears, the monotony only broken by the occasional battle. Tents lay\neverywhere, housing the many soldiers that currently call this place home.",
+  "header_raw": "295 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29544
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29546
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/295.wld"
+}

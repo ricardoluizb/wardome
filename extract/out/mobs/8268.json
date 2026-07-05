@@ -1,0 +1,12 @@
+{
+  "id": 8268,
+  "alias": "Musketeer guard",
+  "short_desc": "a Musketeer in service",
+  "long_desc": "a Musketeer who suppose to be guarding the door",
+  "detailed_desc": "He doesnt look to be a guard who would give his life for the king, you ask\nhow did he got this job? Well with all the problems there letting anybody\nto became a Musketeer.",
+  "flags_raw": "6154 16416 -25 E",
+  "stats1_raw": "160 -68 -20 1d1+9600 5d17+104",
+  "stats2_raw": "2400 14384759 4",
+  "stats3_raw": "4 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/82.mob"
+}

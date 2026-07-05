@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "The Mine Maze",
   "description": "You have entered the maze of the mines.  To the east you can see\nsome inscriptions, and you can exit to the south.",
-  "header_raw": "65 ad 0",
-  "flags_text": "ad",
+  "header_raw": "65 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

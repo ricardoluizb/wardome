@@ -1,0 +1,21 @@
+{
+  "id": 20127,
+  "zone_id": 201,
+  "name": "A Guest Room",
+  "description": "This room is reserved for the guests who have come to Shaolin to give\ntheir offerings.  A table and some chairs is set in the middle of the room.\nThe bed looks hard and uninviting, and like the rest of the temple,it is\nextremely clean and tidy.",
+  "header_raw": "201 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A side hall.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20126
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/201.wld"
+}

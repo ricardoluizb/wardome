@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Headwaters Of The Dark River",
   "description": "A large natural spring issues forth from the heart of the mountain\nand flows west down the mountain.  It looks like there was a terrible\nearthquake here not too long ago, and a path that leads eastwards\nthrough the mountains is covered with rocks, making passage difficult.",
-  "header_raw": "54 a 7",
-  "flags_text": "a",
+  "header_raw": "54 1 7",
+  "flags_text": "1",
   "sector": 7,
   "exits": [
     {

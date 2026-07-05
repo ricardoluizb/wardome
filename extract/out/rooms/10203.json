@@ -1,0 +1,29 @@
+{
+  "id": 10203,
+  "zone_id": 102,
+  "name": "At the top of the stairs",
+  "description": "At the top of the stair you hear some agony screams. Something\nreally strange seems to be hapenning down there. You can see some\nstrings of blood among the starway. Whatever is down there, it is\nnot a good thing...",
+  "header_raw": "102 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10201
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10204
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2239,
+  "zone_id": 22,
+  "name": "Clearing",
+  "description": "You stand out in a clearing.  Mountains are all around you.  There is a \nwell in the middle of the clearing.  Lying against the well is a sign.  A\npath leads up the mountain.  The small opening is back to the north.",
+  "header_raw": "22 64 2",
+  "flags_text": "64",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "the small opening",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2238
+    },
+    {
+      "dir": 4,
+      "description": "A path",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2240
+    },
+    {
+      "dir": 5,
+      "description": "The well",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2244
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "The sign reads:\n         This is a bottomless pit cleverly disguised as a well.  People have\nfallen in and never been heard from again.  Trust me, you don't want to go \ndown there.\n                        The All Powerful Well Keeper"
+    },
+    {
+      "keywords": "well",
+      "description": "You peer over the side of the well.  It looks VERY, VERY deep.  It appears\nto be ENDLESS."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

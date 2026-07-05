@@ -1,0 +1,12 @@
+{
+  "id": 15108,
+  "alias": "three legged dog",
+  "short_desc": "the three legged dog",
+  "long_desc": "A three legged dog limps by you.",
+  "detailed_desc": "This flea-bitten, beaten-half-to-death-every-day-of-its-life dog looks sadly\nat you and then continues limping along.",
+  "flags_raw": "2568 0 -400 E",
+  "stats1_raw": "95 -29 -5 1d1+3420 5d10+48",
+  "stats2_raw": "1425 3059407 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/151.mob"
+}

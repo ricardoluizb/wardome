@@ -1,0 +1,45 @@
+{
+  "id": 12264,
+  "zone_id": 122,
+  "name": "A Second Path",
+  "description": "At this point the main road is joined by a second path that runs north\ntowards a large lodge house, which is the residence of Thor, god of\nthunder and mightiest of the Aesir warriors. Southwards lies a grove\nof apple trees, tended by Idun, who protects the source of the Aesir's\nimmortality with her life.",
+  "header_raw": "122 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12265
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12213
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12301
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12263
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

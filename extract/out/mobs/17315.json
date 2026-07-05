@@ -1,0 +1,12 @@
+{
+  "id": 17315,
+  "alias": "pellinore king",
+  "short_desc": "King Pellinore",
+  "long_desc": "King Pellinore is here searching for the Questing Beast.",
+  "detailed_desc": "King Pellinore tells you that his family has been searching for the Questing\nBeast for generations and asks if you have seen it. Pelinore is just past \nmiddle age, though he is still a stout fighter.",
+  "flags_raw": "8 32 0 E",
+  "stats1_raw": "140 -50 -11 1d1+3912 5d15+56",
+  "stats2_raw": "2100 7674036 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/173.mob"
+}

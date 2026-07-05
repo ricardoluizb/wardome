@@ -1,0 +1,29 @@
+{
+  "id": 29803,
+  "zone_id": 298,
+  "name": "The Mining Tunnel",
+  "description": "The entire tunnel gradually slopes downward, and the floor is covered with\nsmall rocks from holes in the wall.  It looks like someone have been mining for\nsomething.",
+  "header_raw": "298 9 3",
+  "flags_text": "9",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29804
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29802
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/298.wld"
+}

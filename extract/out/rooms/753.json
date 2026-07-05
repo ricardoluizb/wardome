@@ -1,0 +1,21 @@
+{
+  "id": 753,
+  "zone_id": 7,
+  "name": "The Mages' Library",
+  "description": "The first thing you notice about this room, (other than the\ncountless number of books inside), is the fact that the inside of this\nroom couldn't possible fit into the building.  Hmm, you never can tell\nwith those mages.  The books seem very well organized by the 'Tewey\nTeleportation System', another one of those mage gimmicks.  You wonder\nwhat you'd like to read.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 749
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

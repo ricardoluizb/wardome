@@ -1,0 +1,37 @@
+{
+  "id": 31204,
+  "zone_id": 312,
+  "name": "Kitchen",
+  "description": "Here lies the kitchen of the temple.  Many types of food and drinks can be seen\non the table.",
+  "header_raw": "312 193 0",
+  "flags_text": "193",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 31211
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 31203
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/312.wld"
+}

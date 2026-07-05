@@ -1,0 +1,29 @@
+{
+  "id": 26607,
+  "zone_id": 266,
+  "name": "Pegando coisas no chao",
+  "description": "Nessa sala, existem varios objetos no chao. Para ver os objetos existentes\nnessa sala, digite '&Rlook&n'. Para pegar os objetos basta digitar\n'&Rget Nome do Objeto&n'. Exemplo : '&Rget sunglass&n'\nO objeto ira automaticamente para o seu inventario.\n&w &n\nDigite '&Rn&n' para continuar a sua licao.",
+  "header_raw": "266 1310720 0",
+  "flags_text": "1310720",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26608
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26606
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/266.wld"
+}

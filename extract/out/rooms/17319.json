@@ -1,0 +1,29 @@
+{
+  "id": 17319,
+  "zone_id": 173,
+  "name": "The Chasm",
+  "description": "You stand before a deep chasm. You can see the fettered ends of an \nold rope bridge cut and hanging into the chasm. To the west is a\ndirty trail, and the cut rope bridge leads down",
+  "header_raw": "173 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "A dirty trail",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17313
+    },
+    {
+      "dir": 5,
+      "description": "Down the dangling end of the rope bridge",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17320
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

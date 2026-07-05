@@ -1,0 +1,45 @@
+{
+  "id": 30202,
+  "zone_id": 302,
+  "name": "&ME&mntrance &MR&moom &cof the &BC&bastle&n",
+  "description": "There is much movement in the entrance room of the castle.  The generals and\ntheir captains take plans back and forth.  These plans are about diverse\nthings.  Plans to face malignant legions at far away villages or those ones\nthat involves great cities, are all found here.  Many soldiers pass through\nhere carrying material for the Arsenal, leaving in troops to watch the\noutskirts or preparing their quick horses for private missions.  To the north\nyou can see the throne room, to the west the arsenal of the fort and down the\nstairs you can go to the training area of the Purple Dragons.  The fountain\nlies in front of the stairs.",
+  "header_raw": "302 128 0",
+  "flags_text": "128",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30203
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30201
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30204
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/302.wld"
+}

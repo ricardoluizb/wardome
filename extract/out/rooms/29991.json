@@ -1,0 +1,29 @@
+{
+  "id": 29991,
+  "zone_id": 298,
+  "name": "At the feet of the cliff.",
+  "description": "The way goes now upwards.  If you want to reach the top of this cliff, it is\nbetter be careful.  The rocks down here, are like spears waiting for someone to\nfill in.  It is a hard way!",
+  "header_raw": "298 76 4",
+  "flags_text": "76",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29983
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29992
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

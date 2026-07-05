@@ -1,0 +1,34 @@
+{
+  "id": 6721,
+  "zone_id": 67,
+  "name": "Nightbreak Cafe",
+  "description": "You have entered the infamous Nightbreak Cafe, home by night to those who\nsecret themselves away in hideouts by day. The place is well-known to be\nrun by the local assassins guild, and it is common to witness conversations\nhere spoken in whispers as deals are cut and bounties arranged.\nThe rules of conduct are etched on the back wall.",
+  "header_raw": "67 152 0",
+  "flags_text": "152",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6720
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "trapdoor",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6845
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "rules conduct",
+      "description": "These rules are scrawled by daggerpoint on the wall..\n 1) Don't offer too little.\n 2) Don't point.\n 3) No stealing the tips.\n 4) No honor among thieves.\n\nThe list is, of course, left anonymous."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

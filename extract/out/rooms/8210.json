@@ -1,0 +1,29 @@
+{
+  "id": 8210,
+  "zone_id": 82,
+  "name": "The Waiting Room Of The Cathedral",
+  "description": "You are in a small, cold and dark room, where you see a bench where people is\nseated waiting for the priest to come. From here you can enter the chapel to\nthe east just open the door.",
+  "header_raw": "82 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 8211
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8209
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

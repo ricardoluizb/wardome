@@ -1,0 +1,12 @@
+{
+  "id": 11233,
+  "alias": "guard",
+  "short_desc": "the town guard",
+  "long_desc": "A town guard wanders past in a daze.",
+  "detailed_desc": "This stout, dependable chap was once one of Hochenyana's famed\nmilitia, a sturdy guard who have fended off countless orcish raids.\nBut now he seems more interested in studying a passing fly than in\nwell armed intruders in his village...",
+  "flags_raw": "74 0 -200 E",
+  "stats1_raw": "40 -18 -9 1d1+3996 5d9+106",
+  "stats2_raw": "600 341495 9",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

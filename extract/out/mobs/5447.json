@@ -4,9 +4,9 @@
   "short_desc": "the dirt devil",
   "long_desc": "The wind kicks up some dust.",
   "detailed_desc": "What you see before you is really a baby air elemental.",
-  "flags_raw": "cf 0 -1000 S",
-  "stats1_raw": "1 19 90 2d2+1 2d3+1",
-  "stats2_raw": "1 10",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "44 0 -1000 E",
+  "stats1_raw": "1 20 10 1d1+18 5d1+0",
+  "stats2_raw": "15 196 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

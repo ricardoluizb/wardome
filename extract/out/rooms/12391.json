@@ -1,0 +1,29 @@
+{
+  "id": 12391,
+  "zone_id": 122,
+  "name": "Niflheim",
+  "description": "The earth hardens here, forcing you out as it compresses into a hard,\nstony substance that yields little underfoot. A dank, dusty odor fills\nthe air, though the area is devoid of corpses; only blank stone walls\nare visible, stretching far to the south. The odor from the pit to the\neast makes you keen to press on. More bodies can be seen to the south;\nthe respite was only brief.",
+  "header_raw": "122 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12390
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12394
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

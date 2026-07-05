@@ -1,0 +1,29 @@
+{
+  "id": 8213,
+  "zone_id": 82,
+  "name": "A Small Room",
+  "description": "You are in a small room with not much light, it is very dirty and it looks\nlike if nobody has enter in a long time. To the north there is a room with a\nladder, that sends you to the second floor of the cathedral.",
+  "header_raw": "82 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8214
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 8212
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

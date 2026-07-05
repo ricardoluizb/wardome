@@ -1,0 +1,29 @@
+{
+  "id": 28435,
+  "zone_id": 284,
+  "name": "To live is To die",
+  "description": "Say what?\nIS THE KRA...KRAKEN!",
+  "header_raw": "284 9 6",
+  "flags_text": "9",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28436
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 2,
+      "key": 28425,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/284.wld"
+}

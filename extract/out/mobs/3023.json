@@ -4,9 +4,9 @@
   "short_desc": "the fighters' guildmaster",
   "long_desc": "Your guildmaster is standing here sharpening an axe.",
   "detailed_desc": "This is your master. Big and strong with bulging muscles. Several scars\nacross his body proves that he was using arms before you were born. He\nhas a calm look on his face.",
-  "flags_raw": "abelnop 0 1000 S",
-  "stats1_raw": "34 0 -10 6d10+740 1d8+34",
-  "stats2_raw": "18794 100000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "59418 0 1000 E",
+  "stats1_raw": "34 3 4 1d1+711 5d4+12",
+  "stats2_raw": "510 147376 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/30.mob"
 }

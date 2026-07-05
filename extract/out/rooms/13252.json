@@ -1,0 +1,21 @@
+{
+  "id": 13252,
+  "zone_id": 132,
+  "name": "The Northeast Tower",
+  "description": "From here the guards can see approaching attacks from the mountain range\nto the east.  To the north you see the mountain sloping down to meet the bottom\nof the city wall.  From these towers it appears that the city is made up of\nperfect squares and rectangles.",
+  "header_raw": "132 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "back to the village",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13251
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2241,
+  "zone_id": 22,
+  "name": "A cave opening",
+  "description": "You stand before a huge cave opening.  You hearing heavy breathing from\nwithin the cave.  There are a few skeletons lying about.  The cave lies to \nthe south.  The path is back to the east.",
+  "header_raw": "22 64 2",
+  "flags_text": "64",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "the path",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2240
+    },
+    {
+      "dir": 2,
+      "description": "A lair",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2221
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

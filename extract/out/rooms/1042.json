@@ -1,0 +1,38 @@
+{
+  "id": 1042,
+  "zone_id": 10,
+  "name": "The Inner Crypt",
+  "description": "You continue to wander through this inner crypt.  From past\nexperience, you know that this is often where the nobility of\nthe realm would be laid to rest after the elaborate ceremonies\ntook place upstairs in the cathedral proper.\n   The only direction that the crypt leads is to the east.  The\nfloor is rather worn down in a track leading from the eastern\npassage to the northern wall.",
+  "header_raw": "10 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Looking carefully at the northern wall, you notice that something\nis quite out of place in it.  Staring at the worn down track in\nthe floor where it meets the wall, you trace your eyes upwards,\nwhere they discover a well hidden door handle.",
+      "keywords": "handle",
+      "door_flag": 2,
+      "key": 1011,
+      "to": 1041
+    },
+    {
+      "dir": 1,
+      "description": "The crypt continues off to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1043
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "wall",
+      "description": "Looking carefully at the northern wall, you notice that something\nis quite out of place in it.  Staring at the worn down track in\nthe floor where it meets the wall, you trace your eyes upwards,\nwhere they discover a well hidden door handle."
+    },
+    {
+      "keywords": "floor track",
+      "description": "The worn down track in the floor leads to the north wall.  It certainly\nseems to take a lot of hints to get this fact through to you, doesn't it?"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 186,
   "name": "A Nexus",
   "description": "Well... you've reached an intersection of two passages, to the north\nand east, the passage brightens, while the darker hallway continues to\nthe south.",
-  "header_raw": "186 d 0",
-  "flags_text": "d",
+  "header_raw": "186 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

@@ -1,0 +1,42 @@
+{
+  "id": 8103,
+  "producing": [
+    8139,
+    8138,
+    8135,
+    8134,
+    8133,
+    3021,
+    8137,
+    8130,
+    3024
+  ],
+  "profit_buy": 1.5,
+  "profit_sell": 1.0,
+  "buy_types": [
+    "5",
+    "9"
+  ],
+  "messages": [
+    "%s Nope. Don't make that here.",
+    "%s Maybe I'd buy it, but you don't have it.",
+    "%s Keep it. I have no use for it.",
+    "%s I am sorry, but I have bought too much already.",
+    "%s You need to pay for that, my friend.",
+    "%s All right. That'll be %d coins.",
+    "%s Fine. Here are %d crowns."
+  ],
+  "tail": [
+    1,
+    3,
+    8103,
+    2,
+    8119,
+    -1,
+    5,
+    18,
+    0,
+    0
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/81.shp"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 29955,
+  "zone_id": 298,
+  "name": "A Balcony Above the Forest",
+  "description": "The balcony carries on round the tree in both directions, well-worn boards\nindicating that many have come here over the ages to enjoy the views afforded\nby such a vantage point.  You glance outwards and catch sight of a fountain\nplaying merrily in the distance, blissfully unaware of the despair pervading\nthe air.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29956
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29954
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

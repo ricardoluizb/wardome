@@ -1,0 +1,29 @@
+{
+  "id": 9142,
+  "zone_id": 91,
+  "name": "Suspicious little raincloud.",
+  "description": "On second glance, this cloud doesn't seem much like a raincloud.\nA balloon sticks out of the top and you think you hear it humming\nsomething like, 'Tut, tut!  It looks like rain!'",
+  "header_raw": "91 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9143
+    },
+    {
+      "dir": 1,
+      "description": "A bashful little cloud that tries to avoid your notice.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9132
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

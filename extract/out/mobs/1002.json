@@ -1,0 +1,12 @@
+{
+  "id": 1002,
+  "alias": "ghoul corpse-like being",
+  "short_desc": "the ghoul",
+  "long_desc": "A strange corpse-like being is plodding towards the woman!",
+  "detailed_desc": "This being looks like a long dead and dessicated human corpse.  Its\nneat translucent skin is taut about its bones and you think you can\nsee strange little white movements underneath it.",
+  "flags_raw": "78 136 700 E",
+  "stats1_raw": "40 -20 -11 1d1+4320 5d13+116",
+  "stats2_raw": "600 364261 10",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/10.mob"
+}

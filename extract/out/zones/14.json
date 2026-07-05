@@ -1,0 +1,124 @@
+{
+  "id": 14,
+  "name": "Wardome -  Quest Zone",
+  "header": {
+    "raw": "1499 0 0 1 -1",
+    "min_room": 1499,
+    "top_room": 0,
+    "lifespan": 0,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1448,
+        1,
+        17
+      ],
+      "comment": "(&WQuannta Desrruptor&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1460,
+        1,
+        17
+      ],
+      "comment": "(Space Key)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1455,
+        1,
+        17
+      ],
+      "comment": "(6# Free passage)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1458,
+        1,
+        17
+      ],
+      "comment": "(9# Free passage)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1457,
+        1,
+        17
+      ],
+      "comment": "(8# Free passage)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1456,
+        1,
+        17
+      ],
+      "comment": "(7# Free passage)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1454,
+        1,
+        17
+      ],
+      "comment": "(5# Free passage)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1453,
+        1,
+        17
+      ],
+      "comment": "(4# Free passage)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1452,
+        1,
+        17
+      ],
+      "comment": "(3# Free passage)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1451,
+        1,
+        17
+      ],
+      "comment": "(2# Free passage)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1450,
+        1,
+        17
+      ],
+      "comment": "(1# Free passage)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/14.zon"
+}

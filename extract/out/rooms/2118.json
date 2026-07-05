@@ -1,0 +1,29 @@
+{
+  "id": 2118,
+  "zone_id": 21,
+  "name": "The Cliff Wall",
+  "description": "You inch your way upwards, hand over hand, searching out more footholds.  \nSweat stings your eyes, and your breathing becomes ragged.  You can still drop\nsafely to the forest floor, or madly continue upwards.",
+  "header_raw": "21 4 5",
+  "flags_text": "4",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2119
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2115
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/21.wld"
+}

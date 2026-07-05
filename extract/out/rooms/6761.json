@@ -1,0 +1,37 @@
+{
+  "id": 6761,
+  "zone_id": 67,
+  "name": "A silvery-lit landing",
+  "description": "Your steps echo in a hollow stairwell of naked stone. The air hangs\nlight and silent about you as a curtain of falling snow, though there\nis a chanting taking place, seemingly miles away, in the chamber to\nthe west. Lamps mounted on the walls give off a silver glow reminiscent\nof saints and martyrs, whether they died for the cause of good, or for\nevil.",
+  "header_raw": "67 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6762
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6703
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6870
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

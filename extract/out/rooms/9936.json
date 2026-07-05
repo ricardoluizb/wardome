@@ -1,0 +1,29 @@
+{
+  "id": 9936,
+  "zone_id": 99,
+  "name": "Lair entrance.",
+  "description": "This is an arched cavern of great size - it looks like the Houston \nastrodome.  a great ledge of rock juts out above your head, showering \nyou with a steady gush of blood and entrails.  A raucous sound of \ncrunching viscera, intermingled with a slurp here and there, turns \nyour stomach.  Then you hear it... an encouraging voice which keeps \nrepeating \"Yes, yes, thats it... just a few steps more...You're almost \nthere.\"",
+  "header_raw": "99 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9935
+    },
+    {
+      "dir": 4,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9937
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

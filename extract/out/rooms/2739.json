@@ -1,0 +1,21 @@
+{
+  "id": 2739,
+  "zone_id": 27,
+  "name": "Pippin's Home",
+  "description": "The home of Pippin.  A tough hobbit who has been on many adventures.  You have\nheard rumours about this guy.  People say he is a mean and strong hobbit, just\nlike his cousin Merry.  Maybe you should leave before he find you here.  \nHobbit Road to the east may be your only salvation.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2729
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

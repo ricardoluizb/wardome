@@ -1,0 +1,29 @@
+{
+  "id": 1144,
+  "zone_id": 11,
+  "name": "The Green Dragon",
+  "description": "Welcome to the Green Dragon, the undisputed leader in the art of\ninnkeeping.  A rather charming and friendly hostess stands to the side,\nready to offer you food and drink.  While most of the patrons are halfling\nlocals, you spy an occasional human or two.  As you listen more closely\nto the conversations that fill the inn, you hear the tales of great and\nseasoned adventurers as well as the usual gossip.  You feel as if you've\nfound your second home in the Green Dragon.  You see a stairway leading\nupwards.",
+  "header_raw": "11 152 0",
+  "flags_text": "152",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "You see Delving Lane.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1132
+    },
+    {
+      "dir": 4,
+      "description": "You see the reception.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1157
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

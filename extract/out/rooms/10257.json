@@ -1,0 +1,29 @@
+{
+  "id": 10257,
+  "zone_id": 102,
+  "name": "A Long Hallway",
+  "description": "Walking by the corridor you reach a long hallway. From here to the\nnorth you can see a plataform. The carpet seems to be ripped off here,\nsomething with claws probably did it.",
+  "header_raw": "102 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10258
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10254
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

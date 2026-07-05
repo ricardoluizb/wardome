@@ -1,0 +1,12 @@
+{
+  "id": 9220,
+  "alias": "oldstyle lava elemental",
+  "short_desc": "a lava beast",
+  "long_desc": "A lava beast spews from place to place.",
+  "detailed_desc": "The magical lava beast is a cross between fire and earth.",
+  "flags_raw": "4194378 0 0 E",
+  "stats1_raw": "150 -55 -12 1d1+4200 5d16+60",
+  "stats2_raw": "2250 9371548 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/92.mob"
+}

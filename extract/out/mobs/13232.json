@@ -1,0 +1,12 @@
+{
+  "id": 13232,
+  "alias": "Dracolich Gimp",
+  "short_desc": "the dracolich of Gimp",
+  "long_desc": "The dracolich of Gimp rears his head to attack.",
+  "detailed_desc": "It is the un-dead transformation of Gimp in his true dragon form that was \nonly observed when he was in a state of extreme anger.",
+  "flags_raw": "8296 168 -1000 E",
+  "stats1_raw": "30 -11 -6 1d1+2760 5d7+92",
+  "stats2_raw": "450 151287 8",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

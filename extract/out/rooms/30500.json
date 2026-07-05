@@ -1,0 +1,21 @@
+{
+  "id": 30500,
+  "zone_id": 305,
+  "name": "Uma escura caverna",
+  "description": "Voce esta andando em um completo silencio e escuridao, o unico barulho que\nvoce pode ouvir sao pingos de agua que caem das rochas do teto.  A caverna\ncontinua ao norte, e voce pode sair dela ao sul.",
+  "header_raw": "305 429 0",
+  "flags_text": "429",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30501
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/305.wld"
+}

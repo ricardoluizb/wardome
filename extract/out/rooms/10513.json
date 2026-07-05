@@ -1,0 +1,29 @@
+{
+  "id": 10513,
+  "zone_id": 104,
+  "name": "Office of Complaints",
+  "description": "This is a relatively small office. There is a large hole in the wall where a \nclerk usually sits and takes complaints about Hell. As you peek behind\nthe counter you see a large paper shredder and alot of shredded complaints.\na sign over the clerks desk reads, 'Hours: 12:00am - 12:01am'\nTo the west is a lawyers office.\nTo the north you see the Halls of Judgement.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the Halls of Judgement.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10503
+    },
+    {
+      "dir": 3,
+      "description": "You see a lawyers office",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10512
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

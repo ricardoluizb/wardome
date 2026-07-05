@@ -1,0 +1,21 @@
+{
+  "id": 20243,
+  "zone_id": 202,
+  "name": "A hut made of willow branches and thatch",
+  "description": "You crouch down and crawl into a little domed hut built entirely from gnarled\nwillow branches and thatch.  Pots and pans hang from the crude thatch walls.  \nA pile of matted grass fills one corner of the tiny house.  A foul stench\npermeates the air.",
+  "header_raw": "202 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20242
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/202.wld"
+}

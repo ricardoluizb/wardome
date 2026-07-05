@@ -3,8 +3,8 @@
   "zone_id": 30,
   "name": "The Mages' Bar",
   "description": "The bar is one of the weirdest in the land.  Mystical images float around\nthe air.  Illusions of fine furniture appear all around the room.",
-  "header_raw": "30 cdh 0",
-  "flags_text": "cdh",
+  "header_raw": "30 140 0",
+  "flags_text": "140",
   "sector": 0,
   "exits": [
     {

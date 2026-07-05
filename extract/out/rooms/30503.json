@@ -1,0 +1,21 @@
+{
+  "id": 30503,
+  "zone_id": 305,
+  "name": "Uma escura caverna",
+  "description": "Este e' o fim da caverna que apareceu no meio do nada, as paredes e o teto\ncontinuam da mesma forma.  A saida e' ao sul.",
+  "header_raw": "305 492 0",
+  "flags_text": "492",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30502
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/305.wld"
+}

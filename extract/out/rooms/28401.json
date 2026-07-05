@@ -1,0 +1,29 @@
+{
+  "id": 28401,
+  "zone_id": 284,
+  "name": "The Bermude s Triangle",
+  "description": "You are swiming by a large hole in the floor, a ladder leads down into the  \ndarkness and you feel frightened.",
+  "header_raw": "284 16777369 6",
+  "flags_text": "16777369",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "Above you see a little more light.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28400
+    },
+    {
+      "dir": 5,
+      "description": "Below will take you closer to the ground. . . it looks safer.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28402
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/284.wld"
+}

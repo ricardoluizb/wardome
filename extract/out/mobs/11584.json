@@ -1,0 +1,12 @@
+{
+  "id": 11584,
+  "alias": "fido beastly",
+  "short_desc": "the beastly fido",
+  "long_desc": "A beastly fido is here.",
+  "detailed_desc": "A fido is a small dog that has a foul smell and pieces of rotted meat\nhanging around its teeth.",
+  "flags_raw": "200 0 0 E",
+  "stats1_raw": "30 1 2 1d1+1320 5d4+32",
+  "stats2_raw": "450 130339 2",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

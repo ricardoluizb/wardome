@@ -4,9 +4,9 @@
   "short_desc": "Arachnos",
   "long_desc": "Arachnos the Empress of Spiders welcomes you with an evil smile.",
   "detailed_desc": "She is a very attractive spider with an ornate gown.  She tempts you\ninto being one of her many slaves.  She does not possess the venomous\nfangs of normal spiders, but then, as you realize, she does not need\nthem.",
-  "flags_raw": "abcjnolq dfhkp -1000 S",
-  "stats1_raw": "26 0 -2 6d10+650 1d8+25",
-  "stats2_raw": "30000 155000",
-  "stats3_raw": "8 8 2",
+  "flags_raw": "92719 33960 -1000 E",
+  "stats1_raw": "126 -43 -8 1d1+3528 5d13+50",
+  "stats2_raw": "1890 5660819 0",
+  "stats3_raw": "8 8 2 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/63.mob"
 }

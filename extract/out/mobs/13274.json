@@ -1,0 +1,12 @@
+{
+  "id": 13274,
+  "alias": "sorcerer",
+  "short_desc": "a sorcerer",
+  "long_desc": "A sorcerer of Barnok.",
+  "detailed_desc": "This half-minotaur mage is one of Barnok's favorites.  Knowing that only the\nmost powerful mages may become one of his personal sorcerers, you think twice\nabout attacking.",
+  "flags_raw": "401416 65568 -500 E",
+  "stats1_raw": "50 -21 -9 1d1+4596 5d11+100",
+  "stats2_raw": "750 596679 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

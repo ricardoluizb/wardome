@@ -1,0 +1,29 @@
+{
+  "id": 12369,
+  "zone_id": 122,
+  "name": "The Realm of Fire",
+  "description": "As the tunnel approaches the bright cave it widens, to a point where\nsix giants could walk abreast. It is frightening to consider the sheer\nvolume of lava it would take to fashion this tunnel, as it melted its\nway through the softer rock, before erupting onto the surface, there\nto add a new layer to the mountain. The master of this realm cannot be\nfar from here now.",
+  "header_raw": "122 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12370
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12368
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

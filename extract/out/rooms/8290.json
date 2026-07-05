@@ -1,0 +1,29 @@
+{
+  "id": 8290,
+  "zone_id": 82,
+  "name": "A Corridor In The Dungeon",
+  "description": "You are in a tretch corridor that is made out of stone so the prisoners\ndont scape, but you have only seen big rats, and some ugly cocrochs, this\nplace is so cold that you thing that nobody could survive for more than\na few hours. You have notice that this place absorbs your words, and that\nis why you havent hear any prisoner shouting or any other noice.",
+  "header_raw": "82 161 0",
+  "flags_text": "161",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8289
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8291
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

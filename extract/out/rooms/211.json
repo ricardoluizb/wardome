@@ -1,0 +1,34 @@
+{
+  "id": 211,
+  "zone_id": 2,
+  "name": "The Throne Room Annex",
+  "description": "This is the entrance to the Throne room which lies to the east.  A hall\nleads off to the west.  The room is lavishly decorated but there is not\nmuch to see.",
+  "header_raw": "2 9 6",
+  "flags_text": "9",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The Throne Room looms to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 212
+    },
+    {
+      "dir": 3,
+      "description": "A hall looms to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 209
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "loom",
+      "description": "What a descriptive word that is.  Loom."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/2.wld"
+}

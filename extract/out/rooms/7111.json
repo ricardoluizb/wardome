@@ -3,8 +3,8 @@
   "zone_id": 71,
   "name": "The Southwestern Corner Of The Ledge",
   "description": "This seems like a ledge that is a little broader than the one just to\nthe north of here.  The ledge seems to lead around some sort of Abyss of\ntotal darkness.  The ledge seems to have an odd-looking edge here.",
-  "header_raw": "71 acd 5",
-  "flags_text": "acd",
+  "header_raw": "71 13 5",
+  "flags_text": "13",
   "sector": 5,
   "exits": [
     {
@@ -42,16 +42,16 @@
   ],
   "extra_descriptions": [
     {
-      "keywords": "edge odd-looking",
-      "description": "This is truly a weird piece of craftsmanship in your eyes.  The edge seems to\nform a step leading down, but WHAT a STEP DOWN.  The Abyss opens down there \nleading to seemingly total destruction."
+      "keywords": "rock",
+      "description": "It looks as if it can be opened in a door-like fashion.  Maybe this will lead\nthe way down."
     },
     {
       "keywords": "step",
       "description": "A small rock sticks out right under it, otherwise the way is DOWN, DOWN, and\nSPLAT!!!"
     },
     {
-      "keywords": "rock",
-      "description": "It looks as if it can be opened in a door-like fashion.  Maybe this will lead\nthe way down."
+      "keywords": "edge odd-looking",
+      "description": "This is truly a weird piece of craftsmanship in your eyes.  The edge seems to\nform a step leading down, but WHAT a STEP DOWN.  The Abyss opens down there \nleading to seemingly total destruction."
     }
   ],
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/71.wld"

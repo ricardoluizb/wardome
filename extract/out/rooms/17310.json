@@ -1,0 +1,37 @@
+{
+  "id": 17310,
+  "zone_id": 173,
+  "name": "Deep Woods",
+  "description": "You are in a deeply wooded section of the forest Arden.Shadows lengthen \nand play in the breeze. The trail continues north, east, and west.",
+  "header_raw": "173 1 3",
+  "flags_text": "1",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A dirty trail",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17311
+    },
+    {
+      "dir": 1,
+      "description": "A dirty trail",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17312
+    },
+    {
+      "dir": 3,
+      "description": "A dirty trail",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17306
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

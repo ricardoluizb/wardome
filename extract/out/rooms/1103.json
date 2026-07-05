@@ -1,0 +1,45 @@
+{
+  "id": 1103,
+  "zone_id": 11,
+  "name": "Entrance to the Shire",
+  "description": "You stand at the entrance to the Shire.  You see halflings, no more than\nwee tall, every which way you look. Bywater Road leads east and west.",
+  "header_raw": "11 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1178
+    },
+    {
+      "dir": 1,
+      "description": "To the east runs Bywater Road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1104
+    },
+    {
+      "dir": 2,
+      "description": "To the south you see a dimly lit path which leads to a dense forest.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1102
+    },
+    {
+      "dir": 3,
+      "description": "To the west runs Bywater Road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1118
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

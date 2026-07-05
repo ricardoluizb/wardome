@@ -1,0 +1,29 @@
+{
+  "id": 5802,
+  "zone_id": 57,
+  "name": "A Short Corridor",
+  "description": "A short, unremarkable corrdior that terminates to the north at a pear-shaped\nroom and to the south at a solid oak door.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a pear-shaped room",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5769
+    },
+    {
+      "dir": 2,
+      "description": "a gallery",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5767
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

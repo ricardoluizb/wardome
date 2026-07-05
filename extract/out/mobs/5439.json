@@ -4,9 +4,9 @@
   "short_desc": "Chulainn",
   "long_desc": "Chulainn the Knight stands here.",
   "detailed_desc": "This large man does not seem to be surprised at your approach and\nlooks at you quizically.",
-  "flags_raw": "chlm dk 800 S",
-  "stats1_raw": "15 0 -10 4d1+231 2d8+5",
-  "stats2_raw": "650 8700",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "6284 1032 800 E",
+  "stats1_raw": "15 13 7 1d1+315 5d2+6",
+  "stats2_raw": "225 18413 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

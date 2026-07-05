@@ -1,0 +1,12 @@
+{
+  "id": 581,
+  "alias": "gandalf mage",
+  "short_desc": "Gandalf the Grey",
+  "long_desc": "Gandalf the Grey",
+  "detailed_desc": "Gandalf is here to teach you how to learn spells or skills as fast as\npossible!!!",
+  "flags_raw": "90207 190 0 E",
+  "stats1_raw": "0 0 0 0d0+1000 200d-80+-20",
+  "stats2_raw": "1 1 5592",
+  "stats3_raw": "5 23 88 -28 -13",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/5.mob"
+}

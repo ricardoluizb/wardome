@@ -1,0 +1,29 @@
+{
+  "id": 9134,
+  "zone_id": 91,
+  "name": "Dopey little cloud.",
+  "description": "This cloud is too busy daydreaming to watch where its going.  It\ndoesn't even notice you landing on it.  It looks like it couldn't\nfigure its way out of an open box.",
+  "header_raw": "91 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see a very scientific cloud.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9135
+    },
+    {
+      "dir": 3,
+      "description": "The cloud sneezes!  Yuck.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9133
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

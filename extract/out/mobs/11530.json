@@ -1,0 +1,12 @@
+{
+  "id": 11530,
+  "alias": "human warrior receiver",
+  "short_desc": "the Human receiver",
+  "long_desc": "A Warriors' receiver is here running a pattern.",
+  "detailed_desc": "This is one of the Warriors' skilled receiver.  He is quick, but not very\npowerful.",
+  "flags_raw": "72 0 100 E",
+  "stats1_raw": "40 -4 1 1d1+1752 5d5+36",
+  "stats2_raw": "600 280201 2",
+  "stats3_raw": "8 8 1 -1 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

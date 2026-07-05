@@ -4,9 +4,9 @@
   "short_desc": "the orc",
   "long_desc": "A large orc is here, looking really mean.",
   "detailed_desc": "He looks dreadful.",
-  "flags_raw": "cg k -500 S",
-  "stats1_raw": "7 11 2 3d20+75 2d6+2",
-  "stats2_raw": "200 3000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "76 1024 -500 E",
+  "stats1_raw": "9 16 8 1d1+189 5d1+2",
+  "stats2_raw": "135 5626 0",
+  "stats3_raw": "8 8 1 -1 5",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/40.mob"
 }

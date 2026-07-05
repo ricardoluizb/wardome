@@ -1,0 +1,21 @@
+{
+  "id": 9252,
+  "zone_id": 92,
+  "name": "Lightning Chamber",
+  "description": "There is some sort of control panel here. Apparently the Lightning Ruler\nobserves and controls electric forces from here.  A set of steps carved into\nthe hill lead down to a causeway.",
+  "header_raw": "92 8 6",
+  "flags_text": "8",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9251
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/92.wld"
+}

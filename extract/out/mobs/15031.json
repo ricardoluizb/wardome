@@ -4,9 +4,9 @@
   "short_desc": "the skeleton",
   "long_desc": "A skeleton is moving about with a loud clatter here, climbing over corpses.",
   "detailed_desc": "It is entirely possible that this skeleton was once one of the villagers\nof Townsbridge who has been brought to an undead life by a fuelling desire\nfor revenge.",
-  "flags_raw": "befnpr dfk 0 S",
-  "stats1_raw": "10 8 3 4d4+80 2d3+6",
-  "stats2_raw": "0 8000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "172090 1064 0 E",
+  "stats1_raw": "115 -37 -7 1d1+3216 5d12+46",
+  "stats2_raw": "1725 4352286 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/150.mob"
 }

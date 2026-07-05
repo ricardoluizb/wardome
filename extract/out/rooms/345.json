@@ -1,0 +1,12 @@
+{
+  "id": 345,
+  "zone_id": 3,
+  "name": "Steep slope",
+  "description": "You try to climb down the slope.\n>\nYou slip!\nYou fall and tumble.\nYou hit your head HARD.\nYou die.\n\nYou've fallen, and you can't get up!",
+  "header_raw": "3 6 2",
+  "flags_text": "6",
+  "sector": 2,
+  "exits": [],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/3.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "A Hallway",
   "description": "You are in a long hallway leading north and south.  The walls emit a\nfaint magical glow which provides enough light to see by.\n   The sharp sound of metal on metal can be heard to the west.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

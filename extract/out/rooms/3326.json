@@ -3,8 +3,8 @@
   "zone_id": 33,
   "name": "A Cave Passageway",
   "description": "You can head north and west through the cave passageways\nhere, both ways dimly lit by the ever-present sconces on \nthe walls.  The echoes you heard earlier seem to be getting\nlouder, and seem to be coming from the northern passage.  \nYou feeled a bit chilled from the cooled cave air and \nshiver a bit in the faint whisper of a breeze.  This place \nis a little too eerie and dark to be comfortable in.",
-  "header_raw": "33 d 0",
-  "flags_text": "d",
+  "header_raw": "33 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

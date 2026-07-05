@@ -1,0 +1,12 @@
+{
+  "id": 1720,
+  "alias": "displacer beast",
+  "short_desc": "a displacer beast",
+  "long_desc": "A displacer beast is grazing nearby.",
+  "detailed_desc": "As you watch this strange creature, its position seems to flicker and shift.",
+  "flags_raw": "136 0 0 E",
+  "stats1_raw": "187 -93 -47 1d1+20196 5d55+174",
+  "stats2_raw": "2805 28476536 10",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/16.mob"
+}

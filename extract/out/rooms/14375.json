@@ -1,0 +1,29 @@
+{
+  "id": 14375,
+  "zone_id": 143,
+  "name": "The Stairwell",
+  "description": "An exetremely large wicker basket has been tipped over in the corner. Several\nlarge round compacted balls of crushed human bones lie against the wall. A\nstaircase coated with gold leads up through a dark hole in the ceiling.",
+  "header_raw": "143 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "It is very dark there.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14372
+    },
+    {
+      "dir": 4,
+      "description": "The stairs lead up into the darkness.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14378
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

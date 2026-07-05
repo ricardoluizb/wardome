@@ -3,8 +3,8 @@
   "zone_id": 33,
   "name": "A Cave Passageway",
   "description": "The passageway switches directions again in the dark \ngloom of the mountain, heading to the north and east from \nhere.  As you round the corner, a trick of the acoustics \nmake the deep thrumming and pounding you've been hearing \nsound as if its coming from two feet away!  Very unsettling.",
-  "header_raw": "33 ad 0",
-  "flags_text": "ad",
+  "header_raw": "33 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

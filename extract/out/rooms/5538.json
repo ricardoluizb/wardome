@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "Smuggler's Inn",
   "description": "You are inside a filthy inn, that seemingly has been cleaned in\ndecades.  Poker tables line the walls and everyone stares at you as\nyou walk in, you don't feel very welcome.  The bar has numerous\nknife holes in it and the bartender leans over waiting for your\norder.",
-  "header_raw": "54 d 0",
-  "flags_text": "d",
+  "header_raw": "54 152 0",
+  "flags_text": "152",
   "sector": 0,
   "exits": [
     {

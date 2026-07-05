@@ -1,0 +1,29 @@
+{
+  "id": 4783,
+  "zone_id": 47,
+  "name": "Up the hill",
+  "description": "You continue to climb this hill as sweat breaks out upon your forehead.  It\nlooks like you are close to the plateau.  Down is the relative comfort of\nground again, but you are SO close to the top!",
+  "header_raw": "47 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "You see rocks.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 4782
+    },
+    {
+      "dir": 5,
+      "description": "You see the floor again!",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 4784
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

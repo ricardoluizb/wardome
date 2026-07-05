@@ -1,0 +1,21 @@
+{
+  "id": 9123,
+  "zone_id": 91,
+  "name": "Absolutely disgusting lair.",
+  "description": "The stench in here is quite foul.  There are feathers, bones and\nrotting carcasses everywhere.  This place is absolutely gross and\nyou have to strain yourself not to lose your lunch.",
+  "header_raw": "91 9 5",
+  "flags_text": "9",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Your only hope to keep your lunch down is to head this way...",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9122
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

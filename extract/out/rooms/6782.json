@@ -1,0 +1,21 @@
+{
+  "id": 6782,
+  "zone_id": 67,
+  "name": "A home carved into the rock",
+  "description": "A cave-like dwelling, home to only a few spiders and hidden bats, is\ndark as pitch and smells of dank moss and the fecal remains of animals.\nWith some work, however, it might even make a decent abode.",
+  "header_raw": "67 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6781
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

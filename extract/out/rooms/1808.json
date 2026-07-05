@@ -1,0 +1,29 @@
+{
+  "id": 1808,
+  "zone_id": 18,
+  "name": "The Tight Passage",
+  "description": "This is place is very cozy for someone under four feet,\nbut not for you.  You find that the passage goes\ndown further, with bits of droppings forming\nsnug places for you to hang on too.  Yuck!",
+  "header_raw": "18 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "You see a poorly-camouflaged door.",
+      "keywords": "secret-door",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1807
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1809
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/18.wld"
+}

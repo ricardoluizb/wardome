@@ -1,0 +1,29 @@
+{
+  "id": 4707,
+  "zone_id": 47,
+  "name": "Turn in the Mine",
+  "description": "The small shaft travels east and south here, the masterful mining skills that\nmade this turn possible are evidently by the smooth cuts in the walls.  Almost\nas if a hot knife made its way through some warm butter.",
+  "header_raw": "47 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4706
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4708
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

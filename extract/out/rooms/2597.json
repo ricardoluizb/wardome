@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Animal Pens",
   "description": "You are in the animal pens.  Many caged animals are here looking unhappy.\nObviously they are destined to be enslaved, or used in some cruel magical\nexperimentation.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

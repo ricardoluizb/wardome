@@ -1,0 +1,12 @@
+{
+  "id": 17615,
+  "alias": "oldstyle horse young",
+  "short_desc": "the young horse",
+  "long_desc": "A young horse is here, grazing.",
+  "detailed_desc": "The horse whinnies at you, then runs around you a few times, then just goes\nback to grazing.",
+  "flags_raw": "168 0 0 E",
+  "stats1_raw": "20 10 7 1d1+414 5d3+8",
+  "stats2_raw": "300 37388 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/176.mob"
+}

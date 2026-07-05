@@ -1,0 +1,12 @@
+{
+  "id": 14139,
+  "alias": "gazer eyeball",
+  "short_desc": "the gazer",
+  "long_desc": "A floating eyeball glares at you.",
+  "detailed_desc": "This creature is comprised of one main eyeball and several\nauxiliary eyeballs coming of the main.  The eyeballs draw you in,\nmaking you forget who you are....",
+  "flags_raw": "2120 1024 -1000 E",
+  "stats1_raw": "150 -57 -14 1d1+5400 5d16+70",
+  "stats2_raw": "2250 11379737 1",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

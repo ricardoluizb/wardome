@@ -1,0 +1,21 @@
+{
+  "id": 3921,
+  "zone_id": 39,
+  "name": "Mage's Lab",
+  "description": "You were warned...  When you come in you feel the hatred of thousands...  \nBut can't see a thing...  It's all dark...  You don't fell your body, such a\nnice feeling now you think.",
+  "header_raw": "39 11 9",
+  "flags_text": "11",
+  "sector": 9,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3920
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/39.wld"
+}

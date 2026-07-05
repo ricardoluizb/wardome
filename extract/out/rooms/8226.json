@@ -1,0 +1,21 @@
+{
+  "id": 8226,
+  "zone_id": 82,
+  "name": "The Cathedral Steeple",
+  "description": "You are in the Notre Dame steeple, you see a docen of bronze belts, with all\nthe noice that can make, you can not imagine how can you find here some bats\nand birds. You feel the cold air that is caming from the east, you look and\ncan belive what you eyes see, this city is beautiful.",
+  "header_raw": "82 64 0",
+  "flags_text": "64",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "trapdoor",
+      "door_flag": 1,
+      "key": 0,
+      "to": 8225
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

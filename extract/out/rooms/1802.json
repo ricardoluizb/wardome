@@ -1,0 +1,29 @@
+{
+  "id": 1802,
+  "zone_id": 18,
+  "name": "The Big, Blue Ocean",
+  "description": "The currents are strong here, guiding you south.  They whisk\nyou off in a most magical nature.",
+  "header_raw": "18 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1803
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28400
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/18.wld"
+}

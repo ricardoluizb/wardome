@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Maze",
   "description": "You stand in yet another small and damp tunnel.  The ceiling hangs\nquite low overhead and the passage twists off into darkness.  The only\nexits from here look to be off to the east and west.",
-  "header_raw": "40 ad 3",
-  "flags_text": "ad",
+  "header_raw": "40 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

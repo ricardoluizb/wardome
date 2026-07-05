@@ -1,0 +1,46 @@
+{
+  "id": 8102,
+  "zone_id": 81,
+  "name": "A Tunnel in the Mountains",
+  "description": "What a lovely place!  It is not wide here - your shoulders fit, with\nlittle room for company.  You judge the cavern roof to be at least 70\nfeet above your head.  Crystal formations in the rippled walls split \ntorchlight into countless sparks of flame, reflected from the\nquartz veins which embroider the stone in a timeless brocade. The\nwalls are mainly vertical, but taper outwards enough to support a block\nof breakdown, hanging like Damocles' sword, fifteen feet up. I doubt \nit will fall, however.  The tunnel is lower but wider to the north.\nA small stream trickles from a tiny hole, high up on the wall, to exit \nthrough a small tunnel to the south.  To the east, a larger cave\ncontinues to a bend.  That boulder troubles you.  Anxiously you examine \nits support, and notice some writing on the wall.\nThere is a NEWLY CARVED SIGN here. Read it!",
+  "header_raw": "81 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The tunnel widens and lowers to the north, seemingly to a dead end.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8101
+    },
+    {
+      "dir": 1,
+      "description": "Your light shows a bend, close by to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8105
+    },
+    {
+      "dir": 2,
+      "description": "The small stream trickles south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8103
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "writing wall",
+      "description": "The runes are of a well-known mode, but you know not the tongue.\nThey say something like this:\n                         Tuo sdael lennut nretsae.\n                         Retsasid ot sdael lennut htuos.\n                         Ekat ot eno eht si nretsae eht\n                         Htaed ylrae na diova ot tnaw uoy fi.\n                                     Nam Mooreeffoc Eht Morf.\nWhat could it mean?"
+    },
+    {
+      "keywords": "new sign",
+      "description": "Notice!\n                    The eastern tunnel\n                    Has been repaired.\n                    It is now safe ;so\n                    Thrash and Pippin \n                    Won't die here again."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

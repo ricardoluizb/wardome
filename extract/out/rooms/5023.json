@@ -3,8 +3,8 @@
   "zone_id": 50,
   "name": "A Sloping Passage",
   "description": "You are on a path that gently slopes up from the underground pool.",
-  "header_raw": "50 ad 5",
-  "flags_text": "ad",
+  "header_raw": "50 9 5",
+  "flags_text": "9",
   "sector": 5,
   "exits": [
     {

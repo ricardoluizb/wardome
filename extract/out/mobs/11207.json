@@ -1,0 +1,12 @@
+{
+  "id": 11207,
+  "alias": "peasant",
+  "short_desc": "a peasant",
+  "long_desc": "A peasant grimly awaits his fate.",
+  "detailed_desc": "This fellow was unfortunate enough to be made of sterner stuff than\nmost of his neighbours, and resisted the enthrallment of the evil\npowers who subverted Hochenyana. Thus he has been imprisoned here, and\ndecreed to serve as their next meal...",
+  "flags_raw": "74 0 400 E",
+  "stats1_raw": "35 -15 -8 1d1+3492 5d7+104",
+  "stats2_raw": "525 238782 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

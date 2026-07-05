@@ -1,0 +1,34 @@
+{
+  "id": 17305,
+  "zone_id": 173,
+  "name": "A Hut in Forest Arden",
+  "description": "You stand before a weathered thatch hut. There are weeds everywhere-\nobviously this place has been abandoned for some time. The door to the \nhut lies to the west and a dirty trail leads south.",
+  "header_raw": "173 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "A dirty trail",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17302
+    },
+    {
+      "dir": 3,
+      "description": "Hut",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 17336,
+      "to": 17308
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "weeds",
+      "description": "You get down on your hands and knees and examine the weeds. Most of them \nare herbs of one variety or another, and there is a tremendous variety of \nthem."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 8153,
+  "zone_id": 81,
+  "name": "A Dark Hall in Goblin-Town",
+  "description": "This hall is deadly dangerous.  The goblins try to chase you into a\ncorner, but you dart from shadow to shadow.  You must escape!",
+  "header_raw": "81 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The hallway leads north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8151
+    },
+    {
+      "dir": 1,
+      "description": "There is a black door to the east.",
+      "keywords": "door black",
+      "door_flag": 2,
+      "key": 8105,
+      "to": 8154
+    },
+    {
+      "dir": 2,
+      "description": "The hallway runs south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8155
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

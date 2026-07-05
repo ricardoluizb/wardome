@@ -4,9 +4,9 @@
   "short_desc": "the old man",
   "long_desc": "An old man sits here playing chess.",
   "detailed_desc": "He seems intent on winning.",
-  "flags_raw": "h 0 200 S",
-  "stats1_raw": "4 17 80 2d3+1 1d3+1",
-  "stats2_raw": "1 20",
-  "stats3_raw": "6 6 1",
+  "flags_raw": "136 0 200 E",
+  "stats1_raw": "4 18 9 1d1+81 5d1+0",
+  "stats2_raw": "60 1089 0",
+  "stats3_raw": "6 6 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

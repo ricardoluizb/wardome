@@ -1,0 +1,21 @@
+{
+  "id": 30002,
+  "zone_id": 300,
+  "name": "A quiet memorial site",
+  "description": "This enchanting garden has been set aside for memorials to some of the more\nfamous sindar adventurers to hail originally from the Grey Havens.  The lawn is\nclosely cropped and brilliantly, almost magically, green.  There are numerous\ntrees and flowering bushes here each seems to be dedicated to one of the fallen\nexplorers.  A sindar minstrel walks about the site, telling all who ask the\ntales of those who are remembered at this memorial garden.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30001
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

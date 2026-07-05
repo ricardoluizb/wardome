@@ -1,0 +1,12 @@
+{
+  "id": 6757,
+  "alias": "basilisk guard guardian",
+  "short_desc": "a guardian basilisk",
+  "long_desc": "A basilisk summoned from the ether guards a doorway.",
+  "detailed_desc": "The guardian stands motionless with eyes of stone fixed on the far\nwall. Nonetheless, this reptile, a figure born of a cold wisdom,\nknows well enough if you are worthy to pass into the guild of\npriests.",
+  "flags_raw": "75050 168 900 E",
+  "stats1_raw": "155 -57 -13 1d1+4332 5d16+62",
+  "stats2_raw": "2325 10306835 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/67.mob"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 5744,
+  "zone_id": 57,
+  "name": "A Corridor",
+  "description": "You are advancing down a long north-south corridor lined by several wooden\ndoors to the west. The corridor is unlit- evidently it is either rarely\nused or the occupants of this place have no need for light...\n\nYou hear loud raucous drunken singing coming from behind the door nearest you.\n\nThere is a junction to the north of here.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a corridor",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5746
+    },
+    {
+      "dir": 2,
+      "description": "a corridor",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5742
+    },
+    {
+      "dir": 3,
+      "description": "a door",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5745
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

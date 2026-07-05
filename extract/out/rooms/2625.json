@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Necromancer's Lair",
   "description": "You are in the lair of the evil Necromancer.  Undead minions of all\ntypes, human and otherwise stand here waiting to do their master's bidding.\nSome glowing arcane sigils have been etched into walls and floor, no doubt\nto protect the evil master from his own ungodly creations.",
-  "header_raw": "25 adg 0",
-  "flags_text": "adg",
+  "header_raw": "25 73 0",
+  "flags_text": "73",
   "sector": 0,
   "exits": [
     {

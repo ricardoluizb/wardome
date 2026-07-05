@@ -1,0 +1,29 @@
+{
+  "id": 28433,
+  "zone_id": 284,
+  "name": "SeaGora Prison",
+  "description": "Sign:\n       You better keep out! This is a SeaGora Prison.",
+  "header_raw": "284 9 6",
+  "flags_text": "9",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A landing is to your east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28431
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 2,
+      "key": 28418,
+      "to": 28434
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/284.wld"
+}

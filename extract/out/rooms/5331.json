@@ -3,8 +3,8 @@
   "zone_id": 53,
   "name": "A Raised Dais",
   "description": "You are at the southern end of the ancient hall, the dust and darkness\nabsorbing your light so that you cannot see past the steps of the dais.\nA low pedestal rests here.  You see something written into the face of it.",
-  "header_raw": "53 ad 0",
-  "flags_text": "ad",
+  "header_raw": "53 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

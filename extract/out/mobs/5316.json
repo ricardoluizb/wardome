@@ -4,9 +4,9 @@
   "short_desc": "the great sphinx",
   "long_desc": "A mighty sphinx rests here in the sand, dormant now for centuries.",
   "detailed_desc": "The great sphinx towers tens of feet above you, resting here in a state of \ndormancy.  It has become almost indistinguishable from the sand that surrounds\nit, although you can still make out the features of the handsome face that once\nadvised many rulers.",
-  "flags_raw": "abelnopqr dhkp 500 S",
-  "stats1_raw": "41 -21 -20 41d41+410 5d10+25",
-  "stats2_raw": "125000 1500000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "256027 33928 500 E",
+  "stats1_raw": "141 -50 -11 1d1+3948 5d15+56",
+  "stats2_raw": "2115 7833718 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/53.mob"
 }

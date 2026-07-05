@@ -3,8 +3,8 @@
   "zone_id": 61,
   "name": "A Junction In The Deep, Dark Forest",
   "description": "You are by a junction where three paths meet.  Ancient, grey trees seem\nto observe you silently you from all sides.  Paths lead north, east and west.",
-  "header_raw": "61 ad 3",
-  "flags_text": "ad",
+  "header_raw": "61 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

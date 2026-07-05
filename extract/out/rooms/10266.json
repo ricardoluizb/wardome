@@ -1,0 +1,21 @@
+{
+  "id": 10266,
+  "zone_id": 102,
+  "name": "A torture room",
+  "description": "Now, the cells and the secret passageway wasnt enough. This is the\nmost strange thing to be inside a holy place, well, not so holy, you\nrealize now... A torture room. There is lots of stains of blood on\nthe floor, guts, eyes even brains... The cathedral went from holy\nto unholy ground in the moment that you entered this room.",
+  "header_raw": "102 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10265
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

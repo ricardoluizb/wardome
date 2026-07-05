@@ -1,0 +1,37 @@
+{
+  "id": 786,
+  "zone_id": 7,
+  "name": "Hallway",
+  "description": "This hallway was once tapestried in beautiful colors, and well-\nilluminated by the lamps on the walls.  Now the tapestries are\nthread-worn and moth-eaten and most the lamps have disappeared,\nleaving dark holes in the walls.  There is a door to your left and one\nto your right, both slightly ajar.  A window to your north looks out\nto an alley behind a gambling parlor, and to the south is the main\nroom of the mansion.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 787
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 780
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 788
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

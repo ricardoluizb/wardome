@@ -4,9 +4,9 @@
   "short_desc": "the jester",
   "long_desc": "A mad, drunken jester is sitting here, lost in his deepening stupor.",
   "detailed_desc": "He is dimly aware of your gaze.  Chuckling softly, you hear him mutter\nsomething obscure: dragons, the temple, the falling of great empires.\nHe laughs at you and takes another drink.",
-  "flags_raw": "b 0 -300 S",
-  "stats1_raw": "13 6 1 10d2+180 2d8+2",
-  "stats2_raw": "3450 21000",
-  "stats3_raw": "6 6 1",
+  "flags_raw": "10 0 -300 E",
+  "stats1_raw": "155 -69 -22 1d1+11772 5d31+122",
+  "stats2_raw": "2325 15116691 6",
+  "stats3_raw": "6 6 1 1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/15.mob"
 }

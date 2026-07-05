@@ -1,0 +1,54 @@
+{
+  "id": 8105,
+  "producing": [
+    8146,
+    8145,
+    8144,
+    8142,
+    3009,
+    3037,
+    3032,
+    3031
+  ],
+  "profit_buy": 3.5,
+  "profit_sell": 0.1,
+  "buy_types": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "8",
+    "9",
+    "10",
+    "12",
+    "15",
+    "16",
+    "17",
+    "19",
+    "21",
+    "22"
+  ],
+  "messages": [
+    "%s Don't have one. Get lost!",
+    "%s Take a look in your pack again, Sherlock!",
+    "%s No. Don't buy it!",
+    "%s Not enough cash! Go soak your head!",
+    "%s Sorry, but NO CREDIT!",
+    "%s Gimme %d coins!",
+    "%s I'll give you a whole %d coins for that."
+  ],
+  "tail": [
+    1,
+    3,
+    8105,
+    0,
+    8120,
+    -1,
+    9,
+    17,
+    0,
+    0
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/81.shp"
+}

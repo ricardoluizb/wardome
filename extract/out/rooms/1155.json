@@ -1,0 +1,21 @@
+{
+  "id": 1155,
+  "zone_id": 11,
+  "name": "A halfling hole",
+  "description": "You stand inside a rather crudely built halfling hole.  The many passageways\nand winding paths remind you of a rodent's lair.  The air is musty and damp\nand you feel the need for fresh air.",
+  "header_raw": "11 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see a dark tunnel.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1152
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

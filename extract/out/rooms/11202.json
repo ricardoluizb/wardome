@@ -1,0 +1,37 @@
+{
+  "id": 11202,
+  "zone_id": 112,
+  "name": "Main Street",
+  "description": "You pass into Hochenyana, and arrive at Main Street, the quadrangle\nof avenues off of which all of the principal businesses and residences\nof the thriving community rest. Normally the street would be abuzz with\nactivity, but today you see only a few emaciated townsfolk, staggering in\na daze up and down the street. Turning to greet some of them, you are taken\naback when they utterly ignore you.",
+  "header_raw": "112 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11201
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11219
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11203
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 10461,
+  "zone_id": 104,
+  "name": "Fire Mural",
+  "description": "Apon all the walls of this room is an enormous mural. Pictures of burning\nbodies and tortured souls seem to be the main theme of the art. Bright reds\nand hot blues are enphasized throughout the mural. As you stare at it the\ncharacters within it seem to move and struggle in pain. The hot air around\nyou smells of sulfur and methane. To the south you see a stone hallway.\nHot air blows in at you from the doorway. The air stirs up the methane and\nsteals your breath. You choke and gag...",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see a stone hallway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10471
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

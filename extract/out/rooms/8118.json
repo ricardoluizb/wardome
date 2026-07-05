@@ -1,0 +1,21 @@
+{
+  "id": 8118,
+  "zone_id": 81,
+  "name": "The Church of St. John Nepomucene.",
+  "description": "It is small, but adequate, and defensible. This last is the most\nimportant in these dangerous times.  You find no idols here, the\nOfintines are a Christian nation.",
+  "header_raw": "81 152 0",
+  "flags_text": "152",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You can leave and go to the town square.",
+      "keywords": "churchdoor",
+      "door_flag": 1,
+      "key": -1,
+      "to": 8110
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

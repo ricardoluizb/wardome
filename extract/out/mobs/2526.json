@@ -4,9 +4,9 @@
   "short_desc": "the young mage",
   "long_desc": "A young mage is here learning hand to hand combat.",
   "detailed_desc": "This young fellow looks quite confident in his abilities to defend\nhimself.",
-  "flags_raw": "abcgh dk 300 S",
-  "stats1_raw": "9 11 -1 9d9+90 2d4+8",
-  "stats2_raw": "695 3800",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "207 1032 300 E",
+  "stats1_raw": "140 -50 -11 1d1+3912 5d15+56",
+  "stats2_raw": "2100 7674036 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

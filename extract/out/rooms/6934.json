@@ -1,0 +1,21 @@
+{
+  "id": 6934,
+  "zone_id": 69,
+  "name": "A Secret Room",
+  "description": "This must be a secret room!  You pushed back the bookshelf, and it revealed\nthis room.  There is nothing in here actually, except for a pile of coins in\nthe corner which will be nice in their new home: your pocket.  Everything else\nis just plain.",
+  "header_raw": "69 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "bookshelf",
+      "door_flag": 1,
+      "key": 0,
+      "to": 6932
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/69.wld"
+}

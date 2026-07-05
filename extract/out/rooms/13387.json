@@ -1,0 +1,21 @@
+{
+  "id": 13387,
+  "zone_id": 132,
+  "name": "The Treasure Room",
+  "description": "The cavern is shining with a golden light!  There is so much treasure and\ngold here that the reflection makes the rock appear to be made of gold!  But,\nalas, your entrance has not gone unnoticed.",
+  "header_raw": "132 8 5",
+  "flags_text": "8",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "the cavern",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13386
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

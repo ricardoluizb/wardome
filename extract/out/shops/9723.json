@@ -1,0 +1,41 @@
+{
+  "id": 9723,
+  "producing": [
+    9721,
+    9720,
+    9719,
+    9718,
+    9714
+  ],
+  "profit_buy": 2.0,
+  "profit_sell": 1.0,
+  "buy_types": [
+    "19",
+    "15",
+    "13",
+    "8",
+    "1"
+  ],
+  "messages": [
+    "%s Text 1",
+    "%s Text 2",
+    "%s Text 4",
+    "%s Text 5",
+    "%s Text 3",
+    "%s Text 6",
+    "%s Text 7"
+  ],
+  "tail": [
+    0,
+    0,
+    9714,
+    0,
+    9723,
+    -1,
+    0,
+    23,
+    0,
+    0
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/97.shp"
+}

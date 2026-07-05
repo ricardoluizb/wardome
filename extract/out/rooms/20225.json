@@ -1,0 +1,37 @@
+{
+  "id": 20225,
+  "zone_id": 202,
+  "name": "The common room of a small house",
+  "description": "You stand in the common room of a small, square house.  A partition separates\nthis room from the only other in the house, which appears to be a sleeping\narea.  This room is used primarily for meals: a pot sits on a grate over the\nfire pit.",
+  "header_raw": "202 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20226
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20227
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20224
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/202.wld"
+}

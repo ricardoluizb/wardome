@@ -1,0 +1,12 @@
+{
+  "id": 2016,
+  "alias": "gateguard",
+  "short_desc": "a Gateguard",
+  "long_desc": "You see a Gateguard standing here waiting for orders.",
+  "detailed_desc": "The Gate Guard looks quite like a small knight without his powerful steed.\nHis armor is shiny and black.  He stands ready to give his life for the\nCrown.",
+  "flags_raw": "72 8 -400 E",
+  "stats1_raw": "61 -10 1 1d1+1278 5d7+24",
+  "stats2_raw": "915 723420 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/20.mob"
+}

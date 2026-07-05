@@ -1,0 +1,1094 @@
+{
+  "id": 300,
+  "name": "Wardome - The Lord of Rings I",
+  "header": {
+    "raw": "30099 45 2 25 -1",
+    "min_room": 30099,
+    "top_room": 45,
+    "lifespan": 2,
+    "reset_mode": 25
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30007,
+        1,
+        30009
+      ],
+      "comment": "(Amorphorn)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30006,
+        40,
+        9
+      ],
+      "comment": "(&BA&bmorphorn's &WG&wloves &gof &wM&bi&Wgh&bt&wy&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        10112,
+        250,
+        -1
+      ],
+      "comment": "(a lembas)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3009,
+        100,
+        -1
+      ],
+      "comment": "(a waybread)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3010,
+        100,
+        -1
+      ],
+      "comment": "(a bread)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3104,
+        100,
+        -1
+      ],
+      "comment": "(a canteen)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3000,
+        100,
+        -1
+      ],
+      "comment": "(a barrel)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        30006,
+        40,
+        -1
+      ],
+      "comment": "(&BA&bmorphorn's &WG&wloves &gof &wM&bi&Wgh&bt&wy&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30025,
+        1,
+        30057
+      ],
+      "comment": "(Gelmir)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30023,
+        40,
+        16
+      ],
+      "comment": "(&gThe &YBow &gof &GA&gccuracy&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30024,
+        40,
+        11
+      ],
+      "comment": "(&YG&yelmir's &WS&whield&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30012,
+        5,
+        30040
+      ],
+      "comment": "(Elven Artisan)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30010,
+        40,
+        17
+      ],
+      "comment": "(&ya Rasp&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30015,
+        5,
+        30035
+      ],
+      "comment": "(Elven Musician)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30013,
+        30,
+        17
+      ],
+      "comment": "(&gThe &YHarp &gof &GElves&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30014,
+        1,
+        30035
+      ],
+      "comment": "(Pedoran)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30011,
+        40,
+        22
+      ],
+      "comment": "(&ma &MBe&mau&Wt&mif&Mul &MF&ma&Wi&mr&My&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30012,
+        40,
+        20
+      ],
+      "comment": "(&MPe&mdo&Wr&man&M's &MEa&mr&Wr&mi&Mng&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30012,
+        40,
+        19
+      ],
+      "comment": "(&MPe&mdo&Wr&man&M's &MEa&mr&Wr&mi&Mng&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30008,
+        5,
+        30035
+      ],
+      "comment": "(Elven Dancer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30007,
+        40,
+        8
+      ],
+      "comment": "(&MD&mance&YS&yhoes&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30013,
+        5,
+        30033
+      ],
+      "comment": "(Elven Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30001,
+        40,
+        12
+      ],
+      "comment": "(&wa &WG&wrey &ccape&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30000,
+        40,
+        16
+      ],
+      "comment": "(an &GElvish &WS&wword&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30013,
+        5,
+        30033
+      ],
+      "comment": "(Elven Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30000,
+        40,
+        16
+      ],
+      "comment": "(an &GElvish &WS&wword&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30001,
+        40,
+        12
+      ],
+      "comment": "(&wa &WG&wrey &ccape&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30030,
+        1,
+        30075
+      ],
+      "comment": "(Ramil)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30028,
+        40,
+        1
+      ],
+      "comment": "(&Wa &wDark &Wand &BBlue &gRing&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30026,
+        40,
+        5
+      ],
+      "comment": "(&GElvish &YP&ylatemail&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30010,
+        10,
+        30069
+      ],
+      "comment": "(Lovely Maiden )"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30009,
+        40,
+        5
+      ],
+      "comment": "(&gan &WWomen &gArch&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30012,
+        10,
+        30070
+      ],
+      "comment": "(Elven Artisan)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30010,
+        40,
+        17
+      ],
+      "comment": "(&ya Rasp&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30028,
+        5,
+        30080
+      ],
+      "comment": "(&wBlack Cat&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30027,
+        40,
+        4
+      ],
+      "comment": "(&wa &YPet &wCat &WCollar&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30027,
+        1,
+        30053
+      ],
+      "comment": "(Germon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30026,
+        40,
+        5
+      ],
+      "comment": "(&GElvish &YP&ylatemail&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30026,
+        1,
+        30053
+      ],
+      "comment": "(Haldir)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30023,
+        40,
+        17
+      ],
+      "comment": "(&gThe &YBow &gof &GA&gccuracy&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30025,
+        40,
+        13
+      ],
+      "comment": "(&YH&yaldir's &WS&wcabbard&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30020,
+        1,
+        30048
+      ],
+      "comment": "(Cirdan)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30029,
+        40,
+        6
+      ],
+      "comment": "(&YC&yirdan's &YH&yorned &WH&welm&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30021,
+        40,
+        10
+      ],
+      "comment": "(&gThe &YS&yleeves &gof &GA&ggility&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30019,
+        1,
+        30048
+      ],
+      "comment": "(Galdor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30018,
+        40,
+        10
+      ],
+      "comment": "(&gThe &YS&yleeves &gof &BK&bnowledge&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30020,
+        40,
+        9
+      ],
+      "comment": "(&YG&yaldor's &WG&wloves&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30009,
+        5,
+        30062
+      ],
+      "comment": "(Elven Mariner)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30008,
+        40,
+        0
+      ],
+      "comment": "(&wa &WSpo&wtli&Wght&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30009,
+        5,
+        30060
+      ],
+      "comment": "(Elven Mariner)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30008,
+        40,
+        0
+      ],
+      "comment": "(&wa &WSpo&wtli&Wght&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30009,
+        5,
+        30051
+      ],
+      "comment": "(Elven Mariner)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30008,
+        40,
+        0
+      ],
+      "comment": "(&wa &WSpo&wtli&Wght&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30021,
+        1,
+        30047
+      ],
+      "comment": "(Denesgal)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30022,
+        40,
+        14
+      ],
+      "comment": "(&WI&wron &WB&wracers&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30022,
+        40,
+        15
+      ],
+      "comment": "(&WI&wron &WB&wracers&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30012,
+        5,
+        30042
+      ],
+      "comment": "(Elven Artisan)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30010,
+        40,
+        17
+      ],
+      "comment": "(&ya Rasp&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30017,
+        1,
+        30038
+      ],
+      "comment": "(Aeron)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30016,
+        40,
+        21
+      ],
+      "comment": "(&ga &ML&Ba&cu&Wg&Ch&bi&wn&Yg &cMask&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30015,
+        40,
+        3
+      ],
+      "comment": "(an &GElvish &WC&wollar&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30018,
+        5,
+        30037
+      ],
+      "comment": "(Elven Lad)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30017,
+        40,
+        11
+      ],
+      "comment": "(&wa &WMirror &wShield&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30016,
+        1,
+        30036
+      ],
+      "comment": "(Experienced Cook)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30014,
+        40,
+        17
+      ],
+      "comment": "(&ya &YCo&yo&Wkb&yo&Yok&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30010,
+        3,
+        30020
+      ],
+      "comment": "(Lovely Maiden )"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30009,
+        40,
+        6
+      ],
+      "comment": "(&gan &WWomen &gArch&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30012,
+        5,
+        30018
+      ],
+      "comment": "(Elven Artisan)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30010,
+        40,
+        17
+      ],
+      "comment": "(&ya Rasp&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30010,
+        3,
+        30013
+      ],
+      "comment": "(Lovely Maiden )"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30009,
+        40,
+        6
+      ],
+      "comment": "(&gan &WWomen &gArch&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30009,
+        6,
+        30013
+      ],
+      "comment": "(Elven Mariner)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30008,
+        40,
+        0
+      ],
+      "comment": "(&wa &WSpo&wtli&Wght&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30008,
+        5,
+        30010
+      ],
+      "comment": "(Elven Dancer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30007,
+        40,
+        8
+      ],
+      "comment": "(&MD&mance&YS&yhoes&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30005,
+        10,
+        30010
+      ],
+      "comment": "(Elven Youth)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30005,
+        10,
+        30005
+      ],
+      "comment": "(Elven Youth)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30005,
+        10,
+        30005
+      ],
+      "comment": "(Elven Youth)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30006,
+        1,
+        30005
+      ],
+      "comment": "(Majestic Statue of Gil-Galad)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30005,
+        5,
+        16
+      ],
+      "comment": "(&CT&Wh&Ce &CA&ce&Wgl&co&Cs &CS&cp&We&ca&Cr&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30001,
+        1,
+        30004
+      ],
+      "comment": "(&WAsfaloth&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30002,
+        40,
+        8
+      ],
+      "comment": "(&gThe &yHorseshoes &gof &WAsfaloth&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30004,
+        1,
+        30004
+      ],
+      "comment": "(Almon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30004,
+        40,
+        16
+      ],
+      "comment": "(&YA&ylmon's &WB&wow&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30002,
+        1,
+        30002
+      ],
+      "comment": "(Elven Minstrel)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30003,
+        40,
+        5
+      ],
+      "comment": "(&WS&whiny &GElvish &WM&wail&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30000,
+        2,
+        30000
+      ],
+      "comment": "(Elven Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30001,
+        40,
+        12
+      ],
+      "comment": "(&wa &WG&wrey &ccape&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30000,
+        40,
+        16
+      ],
+      "comment": "(an &GElvish &WS&wword&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30000,
+        2,
+        30000
+      ],
+      "comment": "(Elven Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30001,
+        40,
+        12
+      ],
+      "comment": "(&wa &WG&wrey &ccape&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        30000,
+        40,
+        16
+      ],
+      "comment": "(an &GElvish &WS&wword&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3010,
+        3,
+        30079
+      ],
+      "comment": "(the postmaster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30010,
+        10,
+        30077
+      ],
+      "comment": "(Lovely Maiden )"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30029,
+        5,
+        30083
+      ],
+      "comment": "(Sparrow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30024,
+        5,
+        30030
+      ],
+      "comment": "(Hermit Crab)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30022,
+        5,
+        30030
+      ],
+      "comment": "(Barnacled Lobster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30024,
+        5,
+        30029
+      ],
+      "comment": "(Hermit Crab)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30024,
+        5,
+        30028
+      ],
+      "comment": "(Hermit Crab)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30023,
+        5,
+        30025
+      ],
+      "comment": "(Scuttling Crab)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30022,
+        5,
+        30025
+      ],
+      "comment": "(Barnacled Lobster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30023,
+        5,
+        30024
+      ],
+      "comment": "(Scuttling Crab)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30022,
+        5,
+        30027
+      ],
+      "comment": "(Barnacled Lobster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30022,
+        5,
+        30023
+      ],
+      "comment": "(Barnacled Lobster)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        30019,
+        1,
+        30019
+      ],
+      "comment": "(fountain water)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30011,
+        2,
+        30014
+      ],
+      "comment": "(Injured Seagull)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30005,
+        10,
+        30011
+      ],
+      "comment": "(Elven Youth)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        30003,
+        5,
+        30003
+      ],
+      "comment": "(Helpful Elven Bard)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/300.zon"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 13204,
+  "alias": "lieutenant dragon",
+  "short_desc": "a dragon lieutenant",
+  "long_desc": "A lieutenant is surveying the troops",
+  "detailed_desc": "Although most dragons with human blood are usually discriminated against, this\nhalf-human has risen quickly through the ranks.",
+  "flags_raw": "8264 40 -375 E",
+  "stats1_raw": "10 -1 -3 1d1+912 5d3+84",
+  "stats2_raw": "150 10180 8",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

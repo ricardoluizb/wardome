@@ -1,0 +1,37 @@
+{
+  "id": 11715,
+  "zone_id": 117,
+  "name": "The end of the cemetery road.",
+  "description": "This is the end of the road leadding to the cemetery.  Here lies the entrance\nof the last resting place of some great heros that fought brave for the good of\nhumans.  Here is suposed to be the last sleep chamber of the great time\nwarrior.  If you continue to walk south you will be inside the cemetery soon.",
+  "header_raw": "117 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11712
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11717
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11716
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/117.wld"
+}

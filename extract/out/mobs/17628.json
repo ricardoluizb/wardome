@@ -1,0 +1,12 @@
+{
+  "id": 17628,
+  "alias": "oldstyle priestess",
+  "short_desc": "the Priestess of Ofcol",
+  "long_desc": "The Priestess of Ofcol is here, blessing you",
+  "detailed_desc": "The Priestess of Ofcol is an old woman, perfectly at peace with herself and \nwith the world.  She devotes all her time to help teach you the ways of her\ngod, Bahamut.  The dragon symbol around her neck looks almost alive.",
+  "flags_raw": "516122 536879234 1000 E",
+  "stats1_raw": "38 1 4 1d1+792 5d4+14",
+  "stats2_raw": "570 198330 0",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/176.mob"
+}

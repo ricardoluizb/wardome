@@ -1,0 +1,29 @@
+{
+  "id": 14337,
+  "zone_id": 143,
+  "name": "The Antechamber",
+  "description": "This dark chamber is bare except for a large bed and a small table with\nchairs. However, I large dark man rises from the corner and says, 'STOP!\nI shall protect Cleopatra from all intruders!'",
+  "header_raw": "143 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "To the west lies the courtyard.",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 14322,
+      "to": 14334
+    },
+    {
+      "dir": 3,
+      "description": "Your view is obstructed by silk curtains hanging from ceiling to floor.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14338
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

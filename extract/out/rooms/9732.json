@@ -1,0 +1,21 @@
+{
+  "id": 9732,
+  "zone_id": 97,
+  "name": "Stable",
+  "description": "You are in the stable of the castle.  Rather than the horses which you\nexpected to find, it is filled with a wide variety of creatures which you\nthought were mythical.  Obviously, you were wrong.",
+  "header_raw": "97 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9716
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/97.wld"
+}

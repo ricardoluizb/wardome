@@ -1,0 +1,21 @@
+{
+  "id": 11232,
+  "zone_id": 112,
+  "name": "The Source of the Carnage",
+  "description": "As you enter this corpse-strewn dwelling you realize that whatever it\nwas that lay waste to the villagers who resisted the ensorcellment of their\nhome now dwells here, occasionally dragging in bodies from outside to feast\nupon. The walls are deeply scored, as by the claws of some mammoth beast,\ndoubtless the one that now lives here.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11231
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

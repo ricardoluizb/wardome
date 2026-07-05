@@ -1,0 +1,38 @@
+{
+  "id": 6721,
+  "producing": [
+    6716,
+    6717,
+    6718,
+    6719,
+    6720,
+    6721,
+    6722,
+    6724
+  ],
+  "profit_buy": 1.0,
+  "profit_sell": 1.0,
+  "buy_types": [],
+  "messages": [
+    "%s I never palmed that thing, try list.",
+    "%s That seems to be absent from your belongings.",
+    "%s How about if I just steal it instead?",
+    "%s You beggar! You can't afford that.",
+    "%s I don't buy, I accept charity. Fork it over!",
+    "%s Here ye go, pal. That'll be %d coins.",
+    "%s I don't buy."
+  ],
+  "tail": [
+    2,
+    1,
+    6721,
+    1,
+    6721,
+    -1,
+    0,
+    28,
+    0,
+    0
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/67.shp"
+}

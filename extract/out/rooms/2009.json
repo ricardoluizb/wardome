@@ -1,0 +1,37 @@
+{
+  "id": 2009,
+  "zone_id": 20,
+  "name": "Catacombs",
+  "description": "Walking among the catacombs is quite disorienting. One dark corridor looks\nlike another : dry and dusty. You would become forever lost should your\ntorch falter. The darkness could possibly be the deadliest thing down here.\nThe catacombs are rumored to lead to many things, including the Wizard's den.\nYou chuckle at the thought of following the echos of incantations bouncing\nfrom hall to hall. You also deduce that the lowest part of the stle's\ndomain must hold the dungeon. Perhaps you should keep the draft in your face so\nas you do not accidentally wander into the dungeon. who knows what wanders\nin that area. If you are lucky you might be able to find a exit leading to\none of the Castle's rooms.",
+  "header_raw": "20 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2011
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2008
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2010
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

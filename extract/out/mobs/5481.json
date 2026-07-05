@@ -4,9 +4,9 @@
   "short_desc": "the high priest",
   "long_desc": "The high priest rests here meditating, well he WAS meditating.",
   "detailed_desc": "He does NOT look real happy that you have disturbed him.",
-  "flags_raw": "bgh dhk 1000 S",
-  "stats1_raw": "8 2 0 10d5+1200 2d8+5",
-  "stats2_raw": "15000 35000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "202 1160 1000 E",
+  "stats1_raw": "8 16 8 1d1+162 5d1+2",
+  "stats2_raw": "120 4344 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

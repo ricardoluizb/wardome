@@ -1,0 +1,62 @@
+{
+  "id": 17366,
+  "zone_id": 173,
+  "name": "Noble's Quarters",
+  "description": "You are inside the quarters in which visiting nobleman reside.\nThere is a courtyard with a fountain where you stand, and there are several \nindividual chambers shooting off of the courtyard.",
+  "header_raw": "173 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Noble Chamber",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17378
+    },
+    {
+      "dir": 1,
+      "description": "Noble Chamber",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17379
+    },
+    {
+      "dir": 2,
+      "description": "Noble Road at the South Gate",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17361
+    },
+    {
+      "dir": 3,
+      "description": "Noble Chamber",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 17338,
+      "to": 17380
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "fountain",
+      "description": "The fountain has has flowing water from a statue of a girl holding an urn.\nThe water drops into a tile lined pool, where fish swim. Some coins have \nbeen tossed in the fountain."
+    },
+    {
+      "keywords": "fish",
+      "description": "The fish are small minnow like fish, mostly bottom feeders."
+    },
+    {
+      "keywords": "coins",
+      "description": "You really dont want to bother getting the coins out. It would be in poor \ntaste."
+    },
+    {
+      "keywords": "girl statue",
+      "description": "The statue depicts a girl in a tunic-like dress. She is chubby and has \nshoulder length hair."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

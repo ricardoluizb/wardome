@@ -1,0 +1,54 @@
+{
+  "id": 28653,
+  "zone_id": 286,
+  "name": "Hydra Lair",
+  "description": "You have entered a large lair with bones strewn about the ground.  You\nnotice the source of these as you come face to face with a rather large \nHydra.  It growls at you before it attacks.",
+  "header_raw": "286 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The grey cobblestones continue.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28654
+    },
+    {
+      "dir": 1,
+      "description": "You see a small stone building with a wooden door.",
+      "keywords": "door wooden",
+      "door_flag": 1,
+      "key": -1,
+      "to": 28662
+    },
+    {
+      "dir": 2,
+      "description": "The grey cobblestones continue.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28652
+    },
+    {
+      "dir": 3,
+      "description": "An iron door blocks your entrance into a large stone building.",
+      "keywords": "door iron",
+      "door_flag": 1,
+      "key": -1,
+      "to": 28669
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "door wooden",
+      "description": "The door is thick, made from a knotted and twisted greyish wood."
+    },
+    {
+      "keywords": "door iron",
+      "description": "The door is fashioned from many iron plates and set deep into the stone wall."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/286.wld"
+}

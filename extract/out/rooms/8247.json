@@ -1,0 +1,34 @@
+{
+  "id": 8247,
+  "zone_id": 82,
+  "name": "Carriage Station",
+  "description": "You notice something diferent from the rest of the street and of the city,\nand is that it has some white metal benches, where some people can rest\nwhile their wait for a carriage to pass. You notice a small sign, maybe\nyou should read it. From here you can go back north, or enter in a small\nstreech, and dark tunnel that is at the east.",
+  "header_raw": "82 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8244
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8248
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "read sign",
+      "description": "PRICES FOR SERVISES\nTo the down town of Lyon       $50 gold coins\nTo the down town of Paris      $85 gold coins"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

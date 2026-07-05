@@ -4,9 +4,9 @@
   "short_desc": "the mimic",
   "long_desc": "A few wooden planks lie stacked on a low shelf.",
   "detailed_desc": "The fact that these planks still rest on this shelf leads you to believe\nthat someone has been here before you...",
-  "flags_raw": "bqr 0 0 S",
-  "stats1_raw": "11 9 0 1d12+110 4d3+1",
-  "stats2_raw": "0 12000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "131082 0 0 E",
+  "stats1_raw": "130 -49 -12 1d1+5712 5d14+72",
+  "stats2_raw": "1950 7624337 2",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/52.mob"
 }

@@ -1,0 +1,29 @@
+{
+  "id": 14185,
+  "zone_id": 141,
+  "name": "Dungeon Entrance",
+  "description": "There is a huge maw of an entrance to one of the terrible\nDungeons.  After the Age of Enlightenment only 8 sources of evil\nstill survive in the world.  These are the eight Dungeons.  Now\nthey are being cleaned out.",
+  "header_raw": "141 68 3",
+  "flags_text": "68",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "A cold draft pours out of the dungeon.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14187
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "moongate",
+      "door_flag": 2,
+      "key": 14111,
+      "to": 14184
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 845,
+  "zone_id": 7,
+  "name": "Mountain Pass",
+  "description": "You are standing at the apex of the mountain pass, the normal\nsky to your west, and the strange night sky to your east.  The edge\nof the night is clearly delineated above you...a sharp edge separating\nnight from normal, as it were.  Very odd...you wonder what could be\ncausing this unnatural darkness.",
+  "header_raw": "7 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 844
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 846
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

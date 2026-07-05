@@ -1,0 +1,21 @@
+{
+  "id": 544,
+  "zone_id": 5,
+  "name": "&YPriest's House&n",
+  "description": "As you enter this Log House you feel taken by a calm sensation, actually\nthis is the place where you should be if you're wounded, you can see lots of\nwounded people. You can also see an old man, plancing his hand on a dying\nwarrior and suddenly, it's AMAZING, he is totally healed.",
+  "header_raw": "5 1048604 0",
+  "flags_text": "1048604",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 540
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

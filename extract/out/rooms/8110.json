@@ -1,0 +1,50 @@
+{
+  "id": 8110,
+  "zone_id": 81,
+  "name": "A Small Square",
+  "description": "Once this small park was a restful place to spend a Sunday afternoon;\nnow that almost all Ofintines have either left or taken up arms to \ndefend their town, the only folk seen here are off-duty guards and\nthose who come to draw water.  A shed stands to the south, and a \ntiny church to the north.",
+  "header_raw": "81 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The church has a large sign hanging on its front wall.",
+      "keywords": "churchdoor",
+      "door_flag": 1,
+      "key": -1,
+      "to": 8118
+    },
+    {
+      "dir": 1,
+      "description": "King's Way runs a little farther east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8111
+    },
+    {
+      "dir": 2,
+      "description": "There is a torn sign on the shed which says \"Z. Rykalp, Sheriff\"",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8127
+    },
+    {
+      "dir": 3,
+      "description": "What? Leaving town already?",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8109
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "church sign",
+      "description": "It says:\n                 St. John Nepomucene Church\n                     Today's Sermon:\n                 Ogres and the Gospel:\n                        Can they be saved?"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "Atop The Stairway",
   "description": "You are atop a stairway.  The halls here look quite a bit less used than\nthose below.  Obviously access to these magic filled corridors is limited\nto those of the upper echelon of mages.  The walls here emit a faint blue\nmagical aura which provides some light.\n   The hallway leads west from here and the stairs go down.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

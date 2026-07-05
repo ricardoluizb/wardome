@@ -4,9 +4,9 @@
   "short_desc": "the sewer rat",
   "long_desc": "The huge hungry-looking sewer rat sits here.",
   "detailed_desc": "This creature is fairly large for a rat, but not so big that it could\nbe called a giant rat.  Sewer water drips off of its grey fur as it\nlooks at you with black glistening eyes.",
-  "flags_raw": "f k -1000 S",
-  "stats1_raw": "5 16 5 1d12+48 2d4+0",
-  "stats2_raw": "30 1000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "40 1024 -1000 E",
+  "stats1_raw": "10 15 8 1d1+207 5d2+4",
+  "stats2_raw": "150 7126 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/70.mob"
 }

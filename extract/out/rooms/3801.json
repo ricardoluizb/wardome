@@ -1,0 +1,29 @@
+{
+  "id": 3801,
+  "zone_id": 38,
+  "name": "Below a Dark Stairway",
+  "description": "You are beneath a dark stairway.  Little light filters through from above,\nallowing you to see only a dim passage leading to the south.  You see around\nyou decaying wood, and a musty smell assails your nostrils.  You look down and\nrealize you are stepping on some type of feces.",
+  "header_raw": "38 16777228 0",
+  "flags_text": "16777228",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see the dim passage leading south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3802
+    },
+    {
+      "dir": 4,
+      "description": "You see your way out of this dark hole.",
+      "keywords": "grate",
+      "door_flag": 1,
+      "key": -1,
+      "to": 561
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

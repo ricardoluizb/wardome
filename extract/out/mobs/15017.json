@@ -4,9 +4,9 @@
   "short_desc": "the Cleaning Woman",
   "long_desc": "There is a Cleaning Woman here, trying not be noticed.",
   "detailed_desc": "Although she has a menial job, she seems to like it.",
-  "flags_raw": "ag 0 800 S",
-  "stats1_raw": "1 20 9 4d6+1 1d5+0",
-  "stats2_raw": "10 100",
-  "stats3_raw": "8 8 2",
+  "flags_raw": "73 0 800 E",
+  "stats1_raw": "100 -30 -5 1d1+2796 5d11+40",
+  "stats2_raw": "1500 2916487 0",
+  "stats3_raw": "8 8 2 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/150.mob"
 }

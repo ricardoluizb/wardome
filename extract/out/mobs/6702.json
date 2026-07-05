@@ -1,0 +1,12 @@
+{
+  "id": 6702,
+  "alias": "hangman executioner",
+  "short_desc": "the town hangman",
+  "long_desc": "The town hangman is here, idly swinging a noose.",
+  "detailed_desc": "This brawny, placid fellow is garbed in loose black garments and an\neyepatch, from his days as a pirate along the northern coast. He has,\nof course, since seen the light and sticks to legal murder.",
+  "flags_raw": "2059 136 0 E",
+  "stats1_raw": "135 -47 -10 1d1+3780 5d14+54",
+  "stats2_raw": "2025 6908061 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/67.mob"
+}

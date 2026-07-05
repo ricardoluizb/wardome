@@ -1,0 +1,12 @@
+{
+  "id": 13267,
+  "alias": "peddler",
+  "short_desc": "a peddler",
+  "long_desc": "A shady looking peddler is in the corner.",
+  "detailed_desc": "The peddler is wearing a dark brown cloak.  The hood is pulled over it's head\nand only two large red eyes can be seen in the shadows.  The peddler cackles\nquietly.",
+  "flags_raw": "24584 40 0 E",
+  "stats1_raw": "45 -18 -8 1d1+4140 5d9+98",
+  "stats2_raw": "675 447429 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

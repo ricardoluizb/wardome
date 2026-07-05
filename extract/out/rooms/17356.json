@@ -1,0 +1,29 @@
+{
+  "id": 17356,
+  "zone_id": 173,
+  "name": "The Great Northern Gate of Camelot",
+  "description": "You stand before the great northern gate of Camelot. A dirt road winds \ndown the hill upon which Camelot rests into the rolling grass hills of \nthe north. To the south is Squire's Run.",
+  "header_raw": "173 4 1",
+  "flags_text": "4",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A winding dirt road",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17382
+    },
+    {
+      "dir": 2,
+      "description": "Squire's Run",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17355
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

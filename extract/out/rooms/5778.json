@@ -1,0 +1,21 @@
+{
+  "id": 5778,
+  "zone_id": 57,
+  "name": "The River",
+  "description": "You are sailing along the mighty underground river that cuts through the\ndungeons of Firetop Mountain. To the west you can see a rickety bridge, \nwhile to the east the river down a narrow crevice and is impassable.",
+  "header_raw": "57 9 7",
+  "flags_text": "9",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "bridge",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5773
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5800,
+  "zone_id": 57,
+  "name": "The Orc Kitchen",
+  "description": "It is here that the Orcs prepare their meals and partake of them, seated at\nlong filthy benches deeply scarred and stained. Pots and pans bubble and fry\natop a wood-burning cast-iron stove, and from it an Orc occasionally serves\nhimself some rat stew and grits. The Orcs in here seem far too engrossed in\ntheir gastronomic acitivities to notice your presence, though doubtless they\nwould react strongly were you to disturb their meals.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "outside the kitchen",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5749
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

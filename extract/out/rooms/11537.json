@@ -1,0 +1,29 @@
+{
+  "id": 11537,
+  "zone_id": 115,
+  "name": "Northwest Corner Of The WarDome",
+  "description": "You are in perhaps the most quiet, desolate place in WarDome.  Seldom does\none come back here, except for the players and WarDome staff.  The West Stands\nare to the south and to the east is WarVision, the stadium's extensive\nscoreboard.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11538
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11536
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

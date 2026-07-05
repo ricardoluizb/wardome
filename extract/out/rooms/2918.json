@@ -1,0 +1,29 @@
+{
+  "id": 2918,
+  "zone_id": 29,
+  "name": "Bend in the tunnel",
+  "description": "You are standing in a dark tunnel.",
+  "header_raw": "29 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The tunnel continues into the dark.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2919
+    },
+    {
+      "dir": 2,
+      "description": "You see that the tunnel leads back.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2917
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/29.wld"
+}

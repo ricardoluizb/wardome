@@ -1,0 +1,21 @@
+{
+  "id": 787,
+  "zone_id": 7,
+  "name": "Sitting Room",
+  "description": "Lots of extremely old, plush chairs sit about here.  A few tables\ncovered with doilies are scattered about, and a large hutch filled\nwith ancient cracked china stands against the north wall.  This looks\nlike one of those rooms that are just for show and not for everyday\nuse.  However, the thick layer of dust covering everything belies the\nneatness of the arrangement of furniture.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 786
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

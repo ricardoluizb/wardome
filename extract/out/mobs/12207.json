@@ -1,0 +1,12 @@
+{
+  "id": 12207,
+  "alias": "hel",
+  "short_desc": "Hel",
+  "long_desc": "A woman whose face is a visage of youth and decrepitude glares at you.",
+  "detailed_desc": "One side of Hel's face is that of a comely, attractive maiden who eyes\nyou with obvious lust (regardless of your gender or race); the other half\nis of a withered old crone who glares balefully at all.",
+  "flags_raw": "10 1192 -200 E",
+  "stats1_raw": "10 7 2 1d1+600 5d2+44",
+  "stats2_raw": "150 9977 4",
+  "stats3_raw": "8 8 2 8 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/122.mob"
+}

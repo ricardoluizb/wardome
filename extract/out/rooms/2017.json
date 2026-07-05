@@ -1,0 +1,37 @@
+{
+  "id": 2017,
+  "zone_id": 20,
+  "name": "Ballroom",
+  "description": "You stand in a room with octagonal marble floor tiles.  Looking up, you see\na ceiling covered with glass mirrors, reflecting the dance. Along the\ncenter of the ceiling of this enormous room are three large, silver \ncandlabras,housing hundreds of delicate white candles. Tall glass doors, covered by billowing white curtains lead outside to small marble balconies, where\npeople may talk privately and enjoy the view.  The left side of the room is\ncovered by a thin white curtain concealing the twenty piece orchestra, as they\nplay concertos and waltzes. To the right is a mural of a ball from ages\npast. Forest green love seats line the walls, for those wishing to relax and\nlisten to the music.",
+  "header_raw": "20 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2022
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2013
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2018
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

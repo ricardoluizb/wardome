@@ -1,0 +1,37 @@
+{
+  "id": 2307,
+  "zone_id": 23,
+  "name": "The bloody intersection",
+  "description": "This is a small intersection. Paths lead east, west, and south. You are struck\nby the carnage here when you enter the clearing. There appears to have been a\ngreat battle here. Blood is everywhere and the ground is all torn up. Pieces\nof beaten armour and broken blades lie all around. Examining the tracks here\nlead you to believe that the dead and wounded were dragged off in two \ndirections, south and east.",
+  "header_raw": "23 1 4",
+  "flags_text": "1",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2306
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2310
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2308
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 512,
+  "zone_id": 5,
+  "name": "&BThe Temple of the Sea Elves&n",
+  "description": "You are in the Temple of the Sea Elfs, a very beautiful place with \ncorals, reefs and fish everywhere.  It is not difficult to discover\nthe God they worship because you see his image everywhere.  His name\nis Taerom, the son of Poseidon.\n   The exit to the Temple Street is to the South.",
+  "header_raw": "5 1048596 0",
+  "flags_text": "1048596",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 505
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

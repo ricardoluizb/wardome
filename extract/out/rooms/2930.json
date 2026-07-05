@@ -1,0 +1,29 @@
+{
+  "id": 2930,
+  "zone_id": 29,
+  "name": "The room before the doors",
+  "description": "You are standing before a pair of huge doors.",
+  "header_raw": "29 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see two large doors.",
+      "keywords": "doors",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2931
+    },
+    {
+      "dir": 4,
+      "description": "You see the inside of the temple.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2929
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/29.wld"
+}

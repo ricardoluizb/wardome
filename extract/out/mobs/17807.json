@@ -1,0 +1,12 @@
+{
+  "id": 17807,
+  "alias": "mouse field",
+  "short_desc": "a field mouse",
+  "long_desc": "A small mouse runs across your foot.",
+  "detailed_desc": "The Mouse is a cute little creature.",
+  "flags_raw": "14 0 100 E",
+  "stats1_raw": "40 0 4 1d1+837 5d5+16",
+  "stats2_raw": "600 227663 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/178.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 28500,
+  "alias": "citizen Atlantis",
+  "short_desc": "the Atlantis Citizen",
+  "long_desc": "A Atlantis citizen is here, hurrying through streets.",
+  "detailed_desc": "You see a rather ragged Atlantis. It appears that it is\nin too much of a hurry to stop and chat.",
+  "flags_raw": "8388616 0 0 E",
+  "stats1_raw": "105 -32 -5 1d1+2940 5d11+42",
+  "stats2_raw": "1575 3353024 0",
+  "stats3_raw": "8 8 0 -1 10",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/285.mob"
+}

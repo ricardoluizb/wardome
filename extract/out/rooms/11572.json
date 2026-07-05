@@ -1,0 +1,21 @@
+{
+  "id": 11572,
+  "zone_id": 115,
+  "name": "The Museum Of National History",
+  "description": "You are standing in the cavernous lobby of the Museum of National History.\nDuring your examination of the lobby, you are startled by the museum curator.\nThe curator whines to you about how the museum is still under renovations and\nhow the lack of funds from the city is slowing the the museum's progress.  \nAfter a long and boring story, you jump at the chance to make a polite exit and\nquickly make your departure.  Broadway is to the west.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11571
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

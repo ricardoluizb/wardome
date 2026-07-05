@@ -4,9 +4,9 @@
   "short_desc": "the centipede",
   "long_desc": "A small harmless centipede is here.",
   "detailed_desc": "Well it doesn't seem to pay any attention to you.",
-  "flags_raw": "b 0 300 S",
-  "stats1_raw": "6 15 4 3d10+50 1d8+1",
-  "stats2_raw": "0 1500",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "10 0 300 E",
+  "stats1_raw": "15 13 7 1d1+315 5d2+6",
+  "stats2_raw": "225 18413 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/40.mob"
 }

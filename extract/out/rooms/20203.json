@@ -1,0 +1,37 @@
+{
+  "id": 20203,
+  "zone_id": 202,
+  "name": "The waiting hall",
+  "description": "This hall is a huge chamber, decorated in a lavish way.  Twin rows of big\nmarble pillars support the roof.  A big carpet covers the marble floor, many\npaintings hang on the walls.  Some tables accompanied by numerous chairs stand\nscattered around the room.",
+  "header_raw": "202 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20202
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 20203,
+      "to": 20204
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20205
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/202.wld"
+}

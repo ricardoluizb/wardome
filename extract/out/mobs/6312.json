@@ -4,9 +4,9 @@
   "short_desc": "the Donjonkeeper",
   "long_desc": "The Donjonkeeper eyes you and wonders how pure your soul is.",
   "detailed_desc": "He delves deeper into you as you stare at him.  Only those free of taint\nwill be allowed to remain here safely.",
-  "flags_raw": "abcil dk 1000 S",
-  "stats1_raw": "25 0 -1 1d12+600 2d8+8",
-  "stats2_raw": "16000 125000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "2351 1032 1000 E",
+  "stats1_raw": "125 -42 -8 1d1+3492 5d13+50",
+  "stats2_raw": "1875 5532299 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/63.mob"
 }

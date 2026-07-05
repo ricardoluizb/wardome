@@ -1,0 +1,12 @@
+{
+  "id": 5763,
+  "alias": "vampire",
+  "short_desc": "an evil Vampire",
+  "long_desc": "An evil Vampire attempts to drink your blood!",
+  "detailed_desc": "Rising from its coffin like Bela Lugosi in Dracula, the Vampire floats\ntowards you, attempting to make eye contact with you, so that it can charm\nyou and then feat upon you at its leisure.",
+  "flags_raw": "110 1192 -1000 E",
+  "stats1_raw": "40 -22 -12 1d1+4632 5d13+126",
+  "stats2_raw": "600 398410 11",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

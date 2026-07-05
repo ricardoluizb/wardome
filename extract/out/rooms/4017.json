@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Large Cave",
   "description": "You move along the cave to the west end of it and find that there\nappears to be no other exit from here.  The walls are fairly smooth\nand look to have been naturally carved out of the rock by the passage\nof water.",
-  "header_raw": "40 ad 2",
-  "flags_text": "ad",
+  "header_raw": "40 9 2",
+  "flags_text": "9",
   "sector": 2,
   "exits": [
     {

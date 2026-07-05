@@ -1,0 +1,45 @@
+{
+  "id": 510,
+  "zone_id": 5,
+  "name": "&cEast end of Temple Street&n",
+  "description": "&n   You've reached the east end of the &cTemple Street&n. To the north, you see &BThe\nTemple of the Humans&n, while to the south is &BThe Temple of the Gnomes&n, and at\nlast but not least, to the east is &BThe Temple if the Advanced Races&n. This one\nradiates a somewhat different, superior aura... weird thing.",
+  "header_raw": "5 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 516
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 567
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 522
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 509
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

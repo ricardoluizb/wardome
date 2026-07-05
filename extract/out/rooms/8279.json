@@ -1,0 +1,37 @@
+{
+  "id": 8279,
+  "zone_id": 82,
+  "name": "Another Hall In The H.Q.",
+  "description": "You are in another hall of the Musketeers H.Q. you see a metal door to the \nnorth, probably will take to the dungeon where there are jailed many thiefs\nand revolutioner. To the east and west you see some intersections to some\ncorridors or passages.",
+  "header_raw": "82 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 8280
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8275
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8281
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

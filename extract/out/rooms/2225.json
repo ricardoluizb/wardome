@@ -1,0 +1,29 @@
+{
+  "id": 2225,
+  "zone_id": 22,
+  "name": "A Narrow Passageway",
+  "description": "This Passageway branches off from the main hall and leads somewhere ... where?",
+  "header_raw": "22 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a large Lair.  It looks dangerous.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2226
+    },
+    {
+      "dir": 2,
+      "description": "You see the great hall.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2224
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

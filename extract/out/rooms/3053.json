@@ -1,19 +1,19 @@
 {
   "id": 3053,
   "zone_id": 30,
-  "name": "Outside The East Gate Of Midgaard",
-  "description": "You are by two small towers that have been built into the city wall and\nconnected with a footbridge across the heavy wooden gate.  To the east the\nplains stretch out in the distance.",
+  "name": "Outside The East Gate Of dead Midgaard",
+  "description": "You are by two small towers that have been built into the city wall and\nconnected with a footbridge across the heavy wooden gate.",
   "header_raw": "30 0 1",
   "flags_text": "0",
   "sector": 1,
   "exits": [
     {
-      "dir": 1,
-      "description": "You see the plains.",
+      "dir": 2,
+      "description": "",
       "keywords": "",
       "door_flag": 0,
-      "key": -1,
-      "to": 3503
+      "key": 0,
+      "to": 3071
     },
     {
       "dir": 3,

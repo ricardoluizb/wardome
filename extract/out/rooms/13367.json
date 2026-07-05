@@ -1,0 +1,29 @@
+{
+  "id": 13367,
+  "zone_id": 132,
+  "name": "A Winding Cavern",
+  "description": "The walls are covered with all kinds of raw gems, diamonds, and precious\nmetals.  There are even treasures hidden in the nooks and crannies.  There is\nan unusual number of stalactites on the ceiling.  You hear a very loud \nsnoring to the west.",
+  "header_raw": "132 9 5",
+  "flags_text": "9",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "a cavern",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13366
+    },
+    {
+      "dir": 3,
+      "description": "a chamber",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13368
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

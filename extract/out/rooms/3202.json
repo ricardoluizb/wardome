@@ -1,29 +1,34 @@
 {
   "id": 3202,
-  "zone_id": 31,
-  "name": "On The River",
-  "description": "North of here you see the dump.  The river flows from east to west.  The\nriverbanks are too steep to climb.",
-  "header_raw": "31 0 7",
+  "zone_id": 32,
+  "name": "Under the Arch",
+  "description": "Your eyes slowly adjust to the level of darkness under the protective shade\nof the arch.  To the north is a great marble door, which seems to be the best\nway to get inside the temple.  \"Why the;heck to I want to go in there ?\", you\nthink to yourself.  You shrug your shoulders and suddenly get the feeling that\nyou are being watched.",
+  "header_raw": "32 0 0",
   "flags_text": "0",
-  "sector": 7,
+  "sector": 0,
   "exits": [
     {
-      "dir": 1,
+      "dir": 0,
       "description": "",
-      "keywords": "",
-      "door_flag": 0,
-      "key": -1,
-      "to": 3203
+      "keywords": "marble door",
+      "door_flag": 1,
+      "key": 3205,
+      "to": 3204
     },
     {
-      "dir": 3,
+      "dir": 2,
       "description": "",
       "keywords": "",
       "door_flag": 0,
-      "key": -1,
+      "key": 0,
       "to": 3201
     }
   ],
-  "extra_descriptions": [],
-  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/31.wld"
+  "extra_descriptions": [
+    {
+      "keywords": "marble",
+      "description": "It is a remarkably well polished marble door."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/32.wld"
 }

@@ -1,0 +1,12 @@
+{
+  "id": 30026,
+  "alias": "Haldir shipwright",
+  "short_desc": "Haldir",
+  "long_desc": "Haldir, a shipwright stands here.",
+  "detailed_desc": "&w &n",
+  "flags_raw": "2122 16782504 750 E",
+  "stats1_raw": "120 -48 -14 1d1+7200 5d13+88",
+  "stats2_raw": "1800 6260242 4",
+  "stats3_raw": "8 8 1 -1 3",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/300.mob"
+}

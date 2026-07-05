@@ -1,0 +1,21 @@
+{
+  "id": 20415,
+  "zone_id": 204,
+  "name": "The Dormitory",
+  "description": "Ligths go out and the silence domains here. Its not a good idea do something to wake te ants, they look dangerous when waked suddenly.\nTo get out of here you need to find the door latch.",
+  "header_raw": "204 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20414
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/204.wld"
+}

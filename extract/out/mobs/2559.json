@@ -4,9 +4,9 @@
   "short_desc": "the Master of the Black Robes",
   "long_desc": "The Master of the Black Robes is here plotting vile deeds.",
   "detailed_desc": "The Master glares at you.",
-  "flags_raw": "abcgjkl dkh -1000 S",
-  "stats1_raw": "30 -10 -20 30d30+300 2d5+20",
-  "stats2_raw": "22100 150000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "3695 1160 -1000 E",
+  "stats1_raw": "130 -45 -9 1d1+3636 5d14+52",
+  "stats2_raw": "1950 6194774 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

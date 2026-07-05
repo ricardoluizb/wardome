@@ -1,0 +1,4054 @@
+{
+  "id": 132,
+  "name": "The Cloudy Mountain",
+  "header": {
+    "raw": "13398 60 2 25 -1",
+    "min_room": 13398,
+    "top_room": 60,
+    "lifespan": 2,
+    "reset_mode": 25
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13209,
+        1,
+        13205
+      ],
+      "comment": "(a gateguard)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        13205,
+        0,
+        1
+      ],
+      "comment": "(Before the City of Cloudy Mountain)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13277,
+        5,
+        13291
+      ],
+      "comment": "(a cleric)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13280,
+        2,
+        13291
+      ],
+      "comment": "(a monk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13280,
+        2,
+        13291
+      ],
+      "comment": "(a monk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13278,
+        2,
+        13292
+      ],
+      "comment": "(a priest)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13278,
+        2,
+        13292
+      ],
+      "comment": "(a priest)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13250,
+        1,
+        13292
+      ],
+      "comment": "(Nara Saan)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13229,
+        1,
+        1
+      ],
+      "comment": "(&ga &BC&beric's &yGuild &YRing&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13352,
+        4,
+        1
+      ],
+      "comment": "(A Cavern)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        13242,
+        5,
+        1
+      ],
+      "comment": "(A Secret Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13200,
+        5,
+        13231
+      ],
+      "comment": "(a Palace Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13222,
+        25,
+        5
+      ],
+      "comment": "(Guard Armor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13231,
+        35,
+        16
+      ],
+      "comment": "(a guard's sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13223,
+        30,
+        10
+      ],
+      "comment": "(Bracer of Elite Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13214,
+        40,
+        8
+      ],
+      "comment": "(a boots)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13200,
+        5,
+        13231
+      ],
+      "comment": "(a Palace Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13222,
+        25,
+        5
+      ],
+      "comment": "(Guard Armor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13231,
+        35,
+        16
+      ],
+      "comment": "(a guard's sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13223,
+        30,
+        10
+      ],
+      "comment": "(Bracer of Elite Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13214,
+        40,
+        8
+      ],
+      "comment": "(a boots)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13200,
+        5,
+        13234
+      ],
+      "comment": "(a Palace Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13222,
+        25,
+        5
+      ],
+      "comment": "(Guard Armor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13231,
+        35,
+        16
+      ],
+      "comment": "(a guard's sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13223,
+        30,
+        10
+      ],
+      "comment": "(Bracer of Elite Guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13200,
+        5,
+        13234
+      ],
+      "comment": "(a Palace Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13222,
+        25,
+        5
+      ],
+      "comment": "(Guard Armor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13231,
+        35,
+        16
+      ],
+      "comment": "(a guard's sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13223,
+        30,
+        10
+      ],
+      "comment": "(Bracer of Elite Guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13200,
+        5,
+        13237
+      ],
+      "comment": "(a Palace Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13231,
+        35,
+        16
+      ],
+      "comment": "(a guard's sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13222,
+        25,
+        5
+      ],
+      "comment": "(Guard Armor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13223,
+        30,
+        10
+      ],
+      "comment": "(Bracer of Elite Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13214,
+        40,
+        8
+      ],
+      "comment": "(a boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13210,
+        10,
+        3
+      ],
+      "comment": "(neckguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13201,
+        4,
+        13239
+      ],
+      "comment": "(the King's Bodyguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13231,
+        35,
+        16
+      ],
+      "comment": "(a guard's sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13201,
+        4,
+        13240
+      ],
+      "comment": "(the King's Bodyguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13201,
+        4,
+        13240
+      ],
+      "comment": "(the King's Bodyguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13201,
+        4,
+        13241
+      ],
+      "comment": "(the King's Bodyguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13202,
+        16,
+        13206
+      ],
+      "comment": "(an Elite guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13231,
+        35,
+        16
+      ],
+      "comment": "(a guard's sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13222,
+        25,
+        5
+      ],
+      "comment": "(Guard Armor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13223,
+        30,
+        10
+      ],
+      "comment": "(Bracer of Elite Guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13202,
+        16,
+        13208
+      ],
+      "comment": "(an Elite guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13231,
+        35,
+        16
+      ],
+      "comment": "(a guard's sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13222,
+        25,
+        5
+      ],
+      "comment": "(Guard Armor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13223,
+        30,
+        10
+      ],
+      "comment": "(Bracer of Elite Guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13202,
+        16,
+        13232
+      ],
+      "comment": "(an Elite guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13231,
+        35,
+        16
+      ],
+      "comment": "(a guard's sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13222,
+        25,
+        5
+      ],
+      "comment": "(Guard Armor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13223,
+        30,
+        10
+      ],
+      "comment": "(Bracer of Elite Guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13202,
+        16,
+        13230
+      ],
+      "comment": "(an Elite guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13231,
+        35,
+        16
+      ],
+      "comment": "(a guard's sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13222,
+        25,
+        5
+      ],
+      "comment": "(Guard Armor)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13223,
+        30,
+        10
+      ],
+      "comment": "(Bracer of Elite Guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13202,
+        16,
+        13251
+      ],
+      "comment": "(an Elite guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13231,
+        35,
+        16
+      ],
+      "comment": "(a guard's sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13223,
+        30,
+        10
+      ],
+      "comment": "(Bracer of Elite Guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13202,
+        16,
+        13252
+      ],
+      "comment": "(an Elite guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13250,
+        8,
+        16
+      ],
+      "comment": "(a crossbow)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13210,
+        10,
+        3
+      ],
+      "comment": "(neckguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13202,
+        16,
+        13256
+      ],
+      "comment": "(an Elite guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13231,
+        35,
+        16
+      ],
+      "comment": "(a guard's sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13223,
+        30,
+        10
+      ],
+      "comment": "(Bracer of Elite Guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13202,
+        16,
+        13261
+      ],
+      "comment": "(an Elite guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13231,
+        35,
+        16
+      ],
+      "comment": "(a guard's sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13223,
+        30,
+        10
+      ],
+      "comment": "(Bracer of Elite Guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13202,
+        16,
+        13261
+      ],
+      "comment": "(an Elite guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13250,
+        8,
+        16
+      ],
+      "comment": "(a crossbow)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13210,
+        10,
+        3
+      ],
+      "comment": "(neckguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13202,
+        16,
+        13270
+      ],
+      "comment": "(an Elite guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13223,
+        30,
+        10
+      ],
+      "comment": "(Bracer of Elite Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13214,
+        40,
+        8
+      ],
+      "comment": "(a boots)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13202,
+        16,
+        13304
+      ],
+      "comment": "(an Elite guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13231,
+        35,
+        16
+      ],
+      "comment": "(a guard's sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13223,
+        30,
+        10
+      ],
+      "comment": "(Bracer of Elite Guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13202,
+        16,
+        13305
+      ],
+      "comment": "(an Elite guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13250,
+        8,
+        16
+      ],
+      "comment": "(a crossbow)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13210,
+        10,
+        3
+      ],
+      "comment": "(neckguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13202,
+        16,
+        13309
+      ],
+      "comment": "(an Elite guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13231,
+        35,
+        16
+      ],
+      "comment": "(a guard's sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13223,
+        30,
+        10
+      ],
+      "comment": "(Bracer of Elite Guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13202,
+        16,
+        13313
+      ],
+      "comment": "(an Elite guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13231,
+        35,
+        16
+      ],
+      "comment": "(a guard's sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13223,
+        30,
+        10
+      ],
+      "comment": "(Bracer of Elite Guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13202,
+        16,
+        13314
+      ],
+      "comment": "(an Elite guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13250,
+        8,
+        16
+      ],
+      "comment": "(a crossbow)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13210,
+        10,
+        3
+      ],
+      "comment": "(neckguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13202,
+        16,
+        13321
+      ],
+      "comment": "(an Elite guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13223,
+        30,
+        10
+      ],
+      "comment": "(Bracer of Elite Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13214,
+        40,
+        8
+      ],
+      "comment": "(a boots)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13204,
+        4,
+        13213
+      ],
+      "comment": "(a dragon lieutenant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13204,
+        4,
+        13213
+      ],
+      "comment": "(a dragon lieutenant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13203,
+        5,
+        13218
+      ],
+      "comment": "(a dragon lieutenant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13203,
+        5,
+        13220
+      ],
+      "comment": "(a dragon lieutenant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13204,
+        4,
+        13298
+      ],
+      "comment": "(a dragon lieutenant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13203,
+        5,
+        13350
+      ],
+      "comment": "(a dragon lieutenant)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13214,
+        40,
+        8
+      ],
+      "comment": "(a boots)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13205,
+        10,
+        13207
+      ],
+      "comment": "(a dragon guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13210,
+        10,
+        3
+      ],
+      "comment": "(neckguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13206,
+        10,
+        13207
+      ],
+      "comment": "(a dragon guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13231,
+        35,
+        16
+      ],
+      "comment": "(a guard's sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13206,
+        10,
+        13224
+      ],
+      "comment": "(a dragon guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13205,
+        10,
+        13226
+      ],
+      "comment": "(a dragon guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13205,
+        10,
+        13228
+      ],
+      "comment": "(a dragon guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13214,
+        40,
+        8
+      ],
+      "comment": "(a boots)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13205,
+        10,
+        13248
+      ],
+      "comment": "(a dragon guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13205,
+        10,
+        13266
+      ],
+      "comment": "(a dragon guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13205,
+        10,
+        13273
+      ],
+      "comment": "(a dragon guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13205,
+        10,
+        13280
+      ],
+      "comment": "(a dragon guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13205,
+        10,
+        13287
+      ],
+      "comment": "(a dragon guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13205,
+        10,
+        13293
+      ],
+      "comment": "(a dragon guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13206,
+        10,
+        13301
+      ],
+      "comment": "(a dragon guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13210,
+        10,
+        3
+      ],
+      "comment": "(neckguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13206,
+        10,
+        13307
+      ],
+      "comment": "(a dragon guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13206,
+        10,
+        13311
+      ],
+      "comment": "(a dragon guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13206,
+        10,
+        13318
+      ],
+      "comment": "(a dragon guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13206,
+        10,
+        13325
+      ],
+      "comment": "(a dragon guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13206,
+        10,
+        13331
+      ],
+      "comment": "(a dragon guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13206,
+        10,
+        13339
+      ],
+      "comment": "(a dragon guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13206,
+        10,
+        13346
+      ],
+      "comment": "(a dragon guard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13207,
+        20,
+        13202
+      ],
+      "comment": "(a dragon soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13208,
+        20,
+        13209
+      ],
+      "comment": "(a dragon soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13207,
+        20,
+        13211
+      ],
+      "comment": "(a dragon soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13207,
+        20,
+        13213
+      ],
+      "comment": "(a dragon soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13207,
+        20,
+        13213
+      ],
+      "comment": "(a dragon soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13208,
+        20,
+        13213
+      ],
+      "comment": "(a dragon soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13208,
+        20,
+        13213
+      ],
+      "comment": "(a dragon soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13208,
+        20,
+        13215
+      ],
+      "comment": "(a dragon soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13207,
+        20,
+        13217
+      ],
+      "comment": "(a dragon soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13208,
+        20,
+        13218
+      ],
+      "comment": "(a dragon soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13208,
+        20,
+        13218
+      ],
+      "comment": "(a dragon soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13207,
+        20,
+        13219
+      ],
+      "comment": "(a dragon soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13207,
+        20,
+        13219
+      ],
+      "comment": "(a dragon soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13208,
+        20,
+        13219
+      ],
+      "comment": "(a dragon soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13208,
+        20,
+        13219
+      ],
+      "comment": "(a dragon soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13207,
+        20,
+        13220
+      ],
+      "comment": "(a dragon soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13207,
+        20,
+        13220
+      ],
+      "comment": "(a dragon soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13208,
+        20,
+        13222
+      ],
+      "comment": "(a dragon soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13207,
+        20,
+        13247
+      ],
+      "comment": "(a dragon soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13207,
+        20,
+        13263
+      ],
+      "comment": "(a dragon soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13207,
+        20,
+        13271
+      ],
+      "comment": "(a dragon soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13207,
+        20,
+        13283
+      ],
+      "comment": "(a dragon soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13208,
+        20,
+        13315
+      ],
+      "comment": "(a dragon soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13208,
+        20,
+        13334
+      ],
+      "comment": "(a dragon soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13208,
+        20,
+        13349
+      ],
+      "comment": "(a dragon soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13210,
+        2,
+        13368
+      ],
+      "comment": "(the winged dragon)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13233,
+        2,
+        -1
+      ],
+      "comment": "(a half to the Crown of Queens)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13210,
+        2,
+        13387
+      ],
+      "comment": "(the winged dragon)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13234,
+        2,
+        -1
+      ],
+      "comment": "(a half to the Crown of Kings)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        13238,
+        1,
+        13387
+      ],
+      "comment": "(a treasure chest)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        13248,
+        1,
+        13238
+      ],
+      "comment": "(&YGold&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        13239,
+        1,
+        13368
+      ],
+      "comment": "(a treasure chest)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        13248,
+        1,
+        13239
+      ],
+      "comment": "(&YGold&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13211,
+        3,
+        13364
+      ],
+      "comment": "(a mountain dragon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13211,
+        3,
+        13380
+      ],
+      "comment": "(a mountain dragon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13211,
+        3,
+        13383
+      ],
+      "comment": "(a mountain dragon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13212,
+        2,
+        13361
+      ],
+      "comment": "(a giant snake)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13212,
+        2,
+        13377
+      ],
+      "comment": "(a giant snake)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13213,
+        1,
+        13371
+      ],
+      "comment": "(a demon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13214,
+        2,
+        13355
+      ],
+      "comment": "(a cave rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13214,
+        2,
+        13375
+      ],
+      "comment": "(a cave rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13215,
+        7,
+        13357
+      ],
+      "comment": "(a bat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13215,
+        7,
+        13359
+      ],
+      "comment": "(a bat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13215,
+        7,
+        13366
+      ],
+      "comment": "(a bat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13215,
+        7,
+        13369
+      ],
+      "comment": "(a bat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13215,
+        7,
+        13378
+      ],
+      "comment": "(a bat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13215,
+        7,
+        13386
+      ],
+      "comment": "(a bat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13216,
+        3,
+        13363
+      ],
+      "comment": "(a giant spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13216,
+        3,
+        13379
+      ],
+      "comment": "(a giant spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13216,
+        3,
+        13384
+      ],
+      "comment": "(a giant spider)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13217,
+        1,
+        13358
+      ],
+      "comment": "(the blob)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13218,
+        5,
+        13214
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13218,
+        5,
+        13245
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13218,
+        5,
+        13271
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13219,
+        5,
+        13282
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13219,
+        5,
+        13286
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13219,
+        5,
+        13278
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13220,
+        5,
+        13254
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13220,
+        5,
+        13260
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13220,
+        5,
+        13258
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13221,
+        5,
+        13223
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13221,
+        5,
+        13210
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13221,
+        5,
+        13208
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13222,
+        5,
+        13221
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13222,
+        5,
+        13212
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13222,
+        5,
+        13216
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13223,
+        5,
+        13300
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13223,
+        5,
+        13344
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13223,
+        5,
+        13348
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13224,
+        5,
+        13302
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13224,
+        5,
+        13338
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13224,
+        5,
+        13316
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13225,
+        5,
+        13306
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13225,
+        5,
+        13308
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13225,
+        5,
+        13310
+      ],
+      "comment": "(a citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13226,
+        8,
+        13312
+      ],
+      "comment": "(a dragon citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13226,
+        8,
+        13335
+      ],
+      "comment": "(a dragon citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13226,
+        8,
+        13322
+      ],
+      "comment": "(a dragon citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13226,
+        8,
+        13224
+      ],
+      "comment": "(a dragon citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13226,
+        8,
+        13232
+      ],
+      "comment": "(a dragon citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13226,
+        8,
+        13267
+      ],
+      "comment": "(a dragon citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13226,
+        8,
+        13390
+      ],
+      "comment": "(a dragon citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13226,
+        8,
+        13253
+      ],
+      "comment": "(a dragon citizen)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13227,
+        5,
+        13338
+      ],
+      "comment": "(a thief)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13227,
+        5,
+        13341
+      ],
+      "comment": "(a thief)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13227,
+        5,
+        13341
+      ],
+      "comment": "(a thief)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13228,
+        7,
+        13339
+      ],
+      "comment": "(a rogue)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13228,
+        7,
+        13345
+      ],
+      "comment": "(a rogue)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13228,
+        7,
+        13340
+      ],
+      "comment": "(a rogue)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13228,
+        7,
+        13340
+      ],
+      "comment": "(a rogue)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13228,
+        7,
+        13340
+      ],
+      "comment": "(a rogue)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13228,
+        7,
+        13341
+      ],
+      "comment": "(a rogue)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13229,
+        5,
+        13340
+      ],
+      "comment": "(the assassin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13229,
+        5,
+        13340
+      ],
+      "comment": "(the assassin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13229,
+        5,
+        13342
+      ],
+      "comment": "(the assassin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13229,
+        5,
+        13342
+      ],
+      "comment": "(the assassin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13229,
+        5,
+        13342
+      ],
+      "comment": "(the assassin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13231,
+        35,
+        16
+      ],
+      "comment": "(a guard's sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13230,
+        11,
+        13227
+      ],
+      "comment": "(a Dragon of Anarchy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13230,
+        11,
+        13303
+      ],
+      "comment": "(a Dragon of Anarchy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13230,
+        11,
+        13323
+      ],
+      "comment": "(a Dragon of Anarchy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13230,
+        11,
+        13326
+      ],
+      "comment": "(a Dragon of Anarchy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13230,
+        11,
+        13329
+      ],
+      "comment": "(a Dragon of Anarchy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13230,
+        11,
+        13336
+      ],
+      "comment": "(a Dragon of Anarchy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13230,
+        11,
+        13336
+      ],
+      "comment": "(a Dragon of Anarchy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13230,
+        11,
+        13338
+      ],
+      "comment": "(a Dragon of Anarchy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13230,
+        11,
+        13341
+      ],
+      "comment": "(a Dragon of Anarchy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13230,
+        11,
+        13349
+      ],
+      "comment": "(a Dragon of Anarchy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13231,
+        11,
+        13217
+      ],
+      "comment": "(a Dragon of Virtue)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13231,
+        11,
+        13223
+      ],
+      "comment": "(a Dragon of Virtue)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13231,
+        11,
+        13232
+      ],
+      "comment": "(a Dragon of Virtue)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13231,
+        11,
+        13249
+      ],
+      "comment": "(a Dragon of Virtue)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13231,
+        11,
+        13275
+      ],
+      "comment": "(a Dragon of Virtue)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13231,
+        11,
+        13268
+      ],
+      "comment": "(a Dragon of Virtue)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13231,
+        11,
+        13265
+      ],
+      "comment": "(a Dragon of Virtue)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13231,
+        11,
+        13271
+      ],
+      "comment": "(a Dragon of Virtue)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13231,
+        11,
+        13294
+      ],
+      "comment": "(a Dragon of Virtue)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13231,
+        11,
+        13284
+      ],
+      "comment": "(a Dragon of Virtue)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13243,
+        9,
+        13309
+      ],
+      "comment": "(a Dragon of Anarchy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13243,
+        9,
+        13336
+      ],
+      "comment": "(a Dragon of Anarchy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13243,
+        9,
+        13310
+      ],
+      "comment": "(a Dragon of Anarchy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13243,
+        9,
+        13298
+      ],
+      "comment": "(a Dragon of Anarchy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13243,
+        9,
+        13317
+      ],
+      "comment": "(a Dragon of Anarchy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13243,
+        9,
+        13345
+      ],
+      "comment": "(a Dragon of Anarchy)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13244,
+        9,
+        13284
+      ],
+      "comment": "(a Dragon of Virtue)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13244,
+        9,
+        13259
+      ],
+      "comment": "(a Dragon of Virtue)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13244,
+        9,
+        13390
+      ],
+      "comment": "(a Dragon of Virtue)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13244,
+        9,
+        13284
+      ],
+      "comment": "(a Dragon of Virtue)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13244,
+        9,
+        13296
+      ],
+      "comment": "(a Dragon of Virtue)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13244,
+        9,
+        13297
+      ],
+      "comment": "(a Dragon of Virtue)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13244,
+        9,
+        13279
+      ],
+      "comment": "(a Dragon of Virtue)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13232,
+        1,
+        13353
+      ],
+      "comment": "(the dracolich of Gimp)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13200,
+        2,
+        9
+      ],
+      "comment": "(drout)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13233,
+        1,
+        13244
+      ],
+      "comment": "(Lag)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13225,
+        3,
+        6
+      ],
+      "comment": "(a hat that says \"I killed the lag monster!\")"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        13224,
+        10,
+        13244
+      ],
+      "comment": "(a shirt that says \"I survived the lag monster\")"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13234,
+        1,
+        13360
+      ],
+      "comment": "(a cloaker)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13235,
+        3,
+        13365
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13235,
+        3,
+        13367
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13235,
+        3,
+        13385
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13235,
+        20,
+        13365
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13239,
+        20,
+        13366
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13239,
+        20,
+        13367
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13239,
+        20,
+        13367
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13239,
+        20,
+        13384
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13239,
+        20,
+        13385
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13239,
+        20,
+        13385
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13239,
+        20,
+        13386
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13239,
+        20,
+        13386
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13236,
+        3,
+        13367
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13236,
+        3,
+        13384
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13236,
+        3,
+        13385
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13240,
+        20,
+        13365
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13240,
+        20,
+        13366
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13240,
+        20,
+        13367
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13240,
+        20,
+        13367
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13240,
+        20,
+        13384
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13240,
+        20,
+        13385
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13240,
+        20,
+        13385
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13240,
+        20,
+        13386
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13240,
+        20,
+        13386
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13237,
+        3,
+        13365
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13237,
+        3,
+        13366
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13237,
+        3,
+        13386
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13241,
+        20,
+        13365
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13241,
+        20,
+        13366
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13241,
+        20,
+        13366
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13241,
+        20,
+        13367
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13241,
+        20,
+        13367
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13241,
+        20,
+        13384
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13241,
+        20,
+        13385
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13241,
+        20,
+        13386
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13241,
+        20,
+        13386
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13238,
+        3,
+        13367
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13238,
+        3,
+        13384
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13238,
+        3,
+        13385
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13242,
+        20,
+        13365
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13242,
+        20,
+        13366
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13242,
+        20,
+        13367
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13242,
+        20,
+        13367
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13242,
+        20,
+        13384
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13242,
+        20,
+        13384
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13242,
+        20,
+        13385
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13242,
+        20,
+        13386
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13242,
+        20,
+        13386
+      ],
+      "comment": "(a piercer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13245,
+        1,
+        13225
+      ],
+      "comment": "(Drakknar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13207,
+        3,
+        2
+      ],
+      "comment": "(a ring)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13246,
+        1,
+        13337
+      ],
+      "comment": "(Kringe)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13205,
+        15,
+        16
+      ],
+      "comment": "(the Liquidator)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13218,
+        8,
+        3
+      ],
+      "comment": "(&WWi&wnt&Wer&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13247,
+        1,
+        13285
+      ],
+      "comment": "(Maaklan)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13206,
+        15,
+        16
+      ],
+      "comment": "(Resurgence)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13217,
+        8,
+        3
+      ],
+      "comment": "(&YSu&ymm&Yer&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13248,
+        1,
+        13277
+      ],
+      "comment": "(Bazarnog)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13227,
+        5,
+        2
+      ],
+      "comment": "(&ga &RW&rarrior's &yGuild &YRing&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13249,
+        1,
+        13330
+      ],
+      "comment": "(Barnok)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13228,
+        5,
+        2
+      ],
+      "comment": "(&ga &CM&cage's &yGuild &YRing&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13251,
+        1,
+        13342
+      ],
+      "comment": "(Gringle)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13230,
+        5,
+        2
+      ],
+      "comment": "(&ga &YT&yhief's &yGuild &YRing&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13252,
+        1,
+        13343
+      ],
+      "comment": "(Ghanekar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13216,
+        10,
+        10
+      ],
+      "comment": "(&mA&ru&yt&bu&cm&gn&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13221,
+        15,
+        6
+      ],
+      "comment": "(&CI&Wc&Ce&YS&yt&Wo&yr&Ym&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13253,
+        1,
+        13281
+      ],
+      "comment": "(Arnog)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13215,
+        10,
+        3
+      ],
+      "comment": "(&MS&Rp&Yr&Bi&Cn&Gg&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13220,
+        15,
+        13
+      ],
+      "comment": "(&CC&Blou&CdB&Burs&Ct&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13254,
+        1,
+        13218
+      ],
+      "comment": "(Commander Gauzrah)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13212,
+        18,
+        17
+      ],
+      "comment": "(&RF&rir&Re&YS&yt&Wo&yr&Ym&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13255,
+        1,
+        13220
+      ],
+      "comment": "(Raechalin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13213,
+        18,
+        17
+      ],
+      "comment": "(&WAur&Bora B&Worea&Blis&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13256,
+        1,
+        13219
+      ],
+      "comment": "(the captain)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13211,
+        15,
+        12
+      ],
+      "comment": "(&WW&wi&Wn&wd&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13223,
+        30,
+        10
+      ],
+      "comment": "(Bracer of Elite Guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13231,
+        35,
+        16
+      ],
+      "comment": "(a guard's sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13257,
+        1,
+        13239
+      ],
+      "comment": "(the King)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13208,
+        10,
+        17
+      ],
+      "comment": "(a spectre)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13209,
+        50,
+        11
+      ],
+      "comment": "(the King's Shield)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13258,
+        4,
+        13269
+      ],
+      "comment": "(a dragon noble)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13258,
+        4,
+        13299
+      ],
+      "comment": "(a dragon noble)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13258,
+        4,
+        13333
+      ],
+      "comment": "(a dragon noble)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13259,
+        1,
+        13238
+      ],
+      "comment": "(Zilch)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13203,
+        3,
+        16
+      ],
+      "comment": "(&YS&yp&Ya&yr&Yk&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13260,
+        1,
+        13236
+      ],
+      "comment": "(Zonk)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13201,
+        3,
+        16
+      ],
+      "comment": "(&CF&Wr&Co&Ws&Ct&WB&Ci&Wt&Ce&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13261,
+        1,
+        13233
+      ],
+      "comment": "(Narz)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13204,
+        3,
+        16
+      ],
+      "comment": "(&RV&ro&Rl&rc&Ra&rn&Ro&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13262,
+        1,
+        13235
+      ],
+      "comment": "(Fred)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13202,
+        3,
+        16
+      ],
+      "comment": "(singe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13263,
+        2,
+        13278
+      ],
+      "comment": "(a hatchling)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13264,
+        1,
+        13322
+      ],
+      "comment": "(a very young dragon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13265,
+        2,
+        13258
+      ],
+      "comment": "(a young dragon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13265,
+        2,
+        13278
+      ],
+      "comment": "(a young dragon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13266,
+        1,
+        13258
+      ],
+      "comment": "(a juvenile dragon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13267,
+        2,
+        13272
+      ],
+      "comment": "(a peddler)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13245,
+        3,
+        -1
+      ],
+      "comment": "(a pine needle)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13246,
+        3,
+        -1
+      ],
+      "comment": "(a gold watch)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13247,
+        3,
+        -1
+      ],
+      "comment": "(a grail)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13267,
+        2,
+        13327
+      ],
+      "comment": "(a peddler)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13240,
+        3,
+        -1
+      ],
+      "comment": "(human flesh)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13241,
+        3,
+        -1
+      ],
+      "comment": "(dwarf Donuts)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13242,
+        3,
+        -1
+      ],
+      "comment": "(an orc omelet)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        13243,
+        3,
+        -1
+      ],
+      "comment": "(elf ears)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13268,
+        3,
+        13274
+      ],
+      "comment": "(a warrior)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13268,
+        3,
+        13276
+      ],
+      "comment": "(a warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13210,
+        10,
+        3
+      ],
+      "comment": "(neckguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13269,
+        3,
+        13324
+      ],
+      "comment": "(a warrior)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13269,
+        3,
+        13320
+      ],
+      "comment": "(a warrior)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13270,
+        8,
+        13327
+      ],
+      "comment": "(a mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13270,
+        8,
+        13328
+      ],
+      "comment": "(a mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13270,
+        8,
+        13328
+      ],
+      "comment": "(a mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13270,
+        8,
+        13329
+      ],
+      "comment": "(a mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13270,
+        8,
+        13329
+      ],
+      "comment": "(a mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13270,
+        8,
+        13330
+      ],
+      "comment": "(a mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13270,
+        8,
+        13332
+      ],
+      "comment": "(a mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13271,
+        4,
+        13208
+      ],
+      "comment": "(a mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13271,
+        4,
+        13270
+      ],
+      "comment": "(a mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13271,
+        4,
+        13246
+      ],
+      "comment": "(a mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13272,
+        3,
+        13276
+      ],
+      "comment": "(a knight)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13272,
+        3,
+        13279
+      ],
+      "comment": "(a knight)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13273,
+        3,
+        13339
+      ],
+      "comment": "(a knight)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13273,
+        3,
+        13313
+      ],
+      "comment": "(a knight)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13274,
+        3,
+        13330
+      ],
+      "comment": "(a sorcerer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13274,
+        3,
+        13327
+      ],
+      "comment": "(a sorcerer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13275,
+        2,
+        13275
+      ],
+      "comment": "(a samurai warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13251,
+        20,
+        16
+      ],
+      "comment": "(samurai sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13275,
+        2,
+        13275
+      ],
+      "comment": "(a samurai warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        13251,
+        20,
+        16
+      ],
+      "comment": "(samurai sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13276,
+        2,
+        13274
+      ],
+      "comment": "(a ranger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13276,
+        2,
+        13275
+      ],
+      "comment": "(a ranger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13277,
+        5,
+        13288
+      ],
+      "comment": "(a cleric)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13277,
+        5,
+        13289
+      ],
+      "comment": "(a cleric)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13277,
+        5,
+        13290
+      ],
+      "comment": "(a cleric)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13277,
+        5,
+        13293
+      ],
+      "comment": "(a cleric)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        13226,
+        6,
+        13371
+      ],
+      "comment": "(an old boat)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        13232,
+        7,
+        13377
+      ],
+      "comment": "(a snake-skin axe)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        13280,
+        1,
+        13388
+      ],
+      "comment": "(a monk)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        13235,
+        2,
+        13389
+      ],
+      "comment": "(happiness)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        13236,
+        2,
+        13389
+      ],
+      "comment": "(aesirian Battle Armor)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        13237,
+        2,
+        13389
+      ],
+      "comment": "(katyusha Boots of Stompin')"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        13249,
+        4,
+        13389
+      ],
+      "comment": "(a pair of Blizzard(TM) Skis)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        13207,
+        2,
+        1
+      ],
+      "comment": "(The Court)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        13228,
+        5,
+        1
+      ],
+      "comment": "(The Court)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        13341,
+        3,
+        1
+      ],
+      "comment": "(The Thief Guild)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/132.zon"
+}

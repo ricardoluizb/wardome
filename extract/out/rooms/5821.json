@@ -1,0 +1,29 @@
+{
+  "id": 5821,
+  "zone_id": 57,
+  "name": "A Door",
+  "description": "You are standing outside a huge studded metal door, set firmly into the\nsouth wall. It has a massive golden keyhole. You know just by looking at it\nthat you have scant hopes of forcing it down.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "loot room",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 5806,
+      "to": 5822
+    },
+    {
+      "dir": 3,
+      "description": "a junction",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5820
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

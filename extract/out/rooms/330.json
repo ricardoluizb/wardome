@@ -1,0 +1,45 @@
+{
+  "id": 330,
+  "zone_id": 3,
+  "name": "In front of hut in foothills",
+  "description": "You are standing in the foothills. To the west, well hidden among the small\nfoothills and pines, you see a small hut. To the north you can see\nthe foothills, and some pineforrest. Further on mountain peaks are visible.",
+  "header_raw": "3 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The steep foothills seems hard to climb",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 323
+    },
+    {
+      "dir": 1,
+      "description": "The foothills extend far to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 322
+    },
+    {
+      "dir": 2,
+      "description": "To the south the foothills extend into plains far to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 319
+    },
+    {
+      "dir": 3,
+      "description": "You see a small crumbled hut here, must be a hermit living here.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 331
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/3.wld"
+}

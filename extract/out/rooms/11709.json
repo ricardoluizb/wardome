@@ -1,0 +1,29 @@
+{
+  "id": 11709,
+  "zone_id": 117,
+  "name": "Beggining of the present street.",
+  "description": "You are walking over a long road with great stones on the floor.  Heading\ntowards west you can see a great central city filled with people and maybe you\ncan find some interesting shops there.",
+  "header_raw": "117 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11701
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11710
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/117.wld"
+}

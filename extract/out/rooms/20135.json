@@ -1,0 +1,21 @@
+{
+  "id": 20135,
+  "zone_id": 201,
+  "name": "A female prison cell",
+  "description": "Hmmm.. Female prisoners here in Shaolin? You wonder what crimes they could\nhave committed. The sight of blood and shreds of torn clothing on the floor\ntells you everything.  At least now you don't regret killing those monks.",
+  "header_raw": "201 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The guard room.",
+      "keywords": "cell",
+      "door_flag": 1,
+      "key": 20131,
+      "to": 20131
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/201.wld"
+}

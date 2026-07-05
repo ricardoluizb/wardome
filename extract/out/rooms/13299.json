@@ -1,0 +1,21 @@
+{
+  "id": 13299,
+  "zone_id": 132,
+  "name": "A Noble's Home",
+  "description": "You are in a home with more room than anyone could possibly need.",
+  "header_raw": "132 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "along wall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13298
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

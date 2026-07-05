@@ -1,0 +1,29 @@
+{
+  "id": 11234,
+  "zone_id": 112,
+  "name": "Heroes' Walk",
+  "description": "Normally this broad tree-lined thoroughfare would be abuzz with activity;\nthe townsfolk rushing to and fro on various errands. But now nary a soul\nstirs, and those that do seem to be in a deep trance, from which even harsh\nwords and strong blows cannot awaken them. The buildings to either side\nappear to be ones of importance, especially the residence of the Mayor to\nthe southwest of here. To the southeast, a large white tower rises from the\nhuddle of dwellings.",
+  "header_raw": "112 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11218
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11235
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

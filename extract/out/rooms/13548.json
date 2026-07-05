@@ -1,0 +1,29 @@
+{
+  "id": 13548,
+  "zone_id": 135,
+  "name": "The Temple Of Death",
+  "description": "You are in a small shrine in honor of the 'Pale Priest of the Mute\nPeople'.  Here, Hell's Grim Tyrant is sought as a source of\ninspiration and wisdom by the Guildmembers.  The chamber walls open to\nexits heading down and east.",
+  "header_raw": "135 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13547
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13552
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

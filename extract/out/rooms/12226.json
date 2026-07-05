@@ -1,0 +1,29 @@
+{
+  "id": 12226,
+  "zone_id": 122,
+  "name": "A Side Street",
+  "description": "This narrow cobbled lane leads north towards a small shrine, where the\nAesir may spend time in quiet contemplation, a rare occurence for the\nnaturally boisterous gods.",
+  "header_raw": "122 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12227
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12213
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

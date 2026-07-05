@@ -1,10 +1,10 @@
 {
   "id": 7324,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "The Circular Hall",
   "description": "You are standing in round hall.  To the north, east and south you can see\na stone head hanging on the walls.",
-  "header_raw": "73 ad 1",
-  "flags_text": "ad",
+  "header_raw": "72 9 1",
+  "flags_text": "9",
   "sector": 1,
   "exits": [
     {
@@ -42,20 +42,20 @@
   ],
   "extra_descriptions": [
     {
-      "keywords": "head heads",
-      "description": "When you study the faces of the heads you see that they are faces of dragons.\nThe face to the north is red, the face to the east is green, and the face to\nthe south is blue."
-    },
-    {
-      "keywords": "green",
-      "description": "This looks like an evil dragon."
+      "keywords": "blue",
+      "description": "This looks like a good dragon."
     },
     {
       "keywords": "red",
       "description": "This looks like a neutral dragon."
     },
     {
-      "keywords": "blue",
-      "description": "This looks like a good dragon."
+      "keywords": "green",
+      "description": "This looks like an evil dragon."
+    },
+    {
+      "keywords": "head heads",
+      "description": "When you study the faces of the heads you see that they are faces of dragons.\nThe face to the north is red, the face to the east is green, and the face to\nthe south is blue."
     }
   ],
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/72.wld"

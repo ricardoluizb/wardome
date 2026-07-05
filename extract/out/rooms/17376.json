@@ -1,0 +1,34 @@
+{
+  "id": 17376,
+  "zone_id": 173,
+  "name": "The Round Table",
+  "description": "You have entered the Round Table, where warcouncil is held between Arthur \nand his companions. The Round Table is 30' in diameter, and made of polished \ncherry. Around it are 50 chairs. The room which houses the table is also \nround and far above you see the domed ceiling. Light streams down in long \nrays to hit the gold and crystal candelabra, where it is broken into a \nbrilliant prismatic spray. A door leads west to the court of Camelot, and \na staircase winds upward.",
+  "header_raw": "173 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "You see the Court of Camelot",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17370
+    },
+    {
+      "dir": 4,
+      "description": "A staircase winding upward",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17377
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "candelabra crystal gold",
+      "description": "You consider lifting the candelabra but decide against it, as you probably \nwould get very tired fast, and attract every knight in the kingdom."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

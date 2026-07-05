@@ -1,0 +1,37 @@
+{
+  "id": 10180,
+  "zone_id": 101,
+  "name": "The light cave",
+  "description": "You are in a cave, to south from you there is a large fire that lights the\nentire cave, to the east and west tunnels leads off.",
+  "header_raw": "101 73 2",
+  "flags_text": "73",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10181
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29885
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10182
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/101.wld"
+}

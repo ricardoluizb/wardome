@@ -1,0 +1,38 @@
+{
+  "id": 17301,
+  "zone_id": 173,
+  "name": "Before the Forest Arden",
+  "description": "Before you stretches the vast forest Arden, consisting of towering oaks\nand unknown wildlife. A path leads northwards into the forest. There is a\npiece parchment nailed to an old oak, and a guilded plaque is affixed to a boulder",
+  "header_raw": "173 16777220 3",
+  "flags_text": "16777220",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A dirty trail",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17302
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6216
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "Parchment",
+      "description": "The parchment reads:\n\nLet it be known that Arthur, King of the Britains seeks to form the company \nof the Round Table. All knights of valor and virtue are summoned to this \naugust company in Camelot."
+    },
+    {
+      "keywords": "Plaque",
+      "description": "Camelot 1994 by Lok- There are lots of extras, so be sure to look at \nkeywords in rooms and at your objects to get the full picture of the \narea. As with all bards of the round table, I have altered story elements \nto suit my whim."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

@@ -3,8 +3,8 @@
   "zone_id": 15,
   "name": "A Road Leading From The Bank",
   "description": "You find yourself on a small road leading away from the edge\nof the River of Lost Souls.  The dark waters of the River can\nbe seen and heard just south of here.  Looking to the east and\nwest, you see only the walls of the rocky cliffs.  Off to the\nnorth a strange path seems to lead straight into the depths of\nthe mountain.",
-  "header_raw": "15 c 4",
-  "flags_text": "c",
+  "header_raw": "15 4 4",
+  "flags_text": "4",
   "sector": 4,
   "exits": [
     {

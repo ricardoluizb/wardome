@@ -1,0 +1,12 @@
+{
+  "id": 21500,
+  "alias": "small Night claw",
+  "short_desc": "Nightclaw",
+  "long_desc": "a small creature with a spikes imbuied on the shoulders stands in front of you.",
+  "detailed_desc": "It looks unfinished.",
+  "flags_raw": "43016 1064 0 E",
+  "stats1_raw": "15 7 3 1d1+780 5d2+36",
+  "stats2_raw": "225 25318 3",
+  "stats3_raw": "8 8 0 0 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/215.mob"
+}

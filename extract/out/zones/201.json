@@ -1,0 +1,954 @@
+{
+  "id": 201,
+  "name": "Shaolin Temple",
+  "header": {
+    "raw": "20137 35 2 17 -1",
+    "min_room": 20137,
+    "top_room": 35,
+    "lifespan": 2,
+    "reset_mode": 17
+  },
+  "commands": [
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20111,
+        2,
+        1
+      ],
+      "comment": "(The Monks' Bunk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20109,
+        3,
+        20111
+      ],
+      "comment": "(the monk warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20120,
+        50,
+        5
+      ],
+      "comment": "(&wa &WCane &wArmor&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20118,
+        50,
+        8
+      ],
+      "comment": "(&yMonk's &WGarters&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20119,
+        50,
+        12
+      ],
+      "comment": "(&wa &yMonk's &WRobe&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20125,
+        50,
+        11
+      ],
+      "comment": "(&wa &WCane &wShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20114,
+        50,
+        16
+      ],
+      "comment": "(&wa Chain &yWhip&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        20106,
+        3,
+        -1
+      ],
+      "comment": "(a steaming hot bun)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20126,
+        50,
+        2
+      ],
+      "comment": "(a &WCane &wRing)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20137,
+        3,
+        2
+      ],
+      "comment": "(A Workshop)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        20137,
+        1,
+        20137
+      ],
+      "comment": "(the mortal shell of Boom)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        20108,
+        25,
+        20137
+      ],
+      "comment": "(&rthe &rF&Rl&Wa&Rm&re of M&Re&Wr&Rc&ry&n)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        20107,
+        2,
+        20137
+      ],
+      "comment": "(&Ya huge treasure&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20136,
+        1,
+        2
+      ],
+      "comment": "(A Mysterious Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20116,
+        1,
+        20136
+      ],
+      "comment": "(the Jinshen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20112,
+        50,
+        16
+      ],
+      "comment": "(&gthe &gD&Gr&Wag&Go&gn &wSa&Wb&wre&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        20115,
+        50,
+        -1
+      ],
+      "comment": "(a bronze key)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20132,
+        1,
+        2
+      ],
+      "comment": "(A prison cell)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20107,
+        2,
+        20132
+      ],
+      "comment": "(an evil monk)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20119,
+        50,
+        12
+      ],
+      "comment": "(&wa &yMonk's &WRobe&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20131,
+        4,
+        1
+      ],
+      "comment": "(The Dungeons)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20131,
+        0,
+        2
+      ],
+      "comment": "(The Dungeons)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20131,
+        1,
+        2
+      ],
+      "comment": "(The Dungeons)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20131,
+        2,
+        2
+      ],
+      "comment": "(The Dungeons)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20131,
+        3,
+        2
+      ],
+      "comment": "(The Dungeons)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20105,
+        5,
+        20131
+      ],
+      "comment": "(a monk guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20120,
+        50,
+        5
+      ],
+      "comment": "(&wa &WCane &wArmor&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20125,
+        50,
+        11
+      ],
+      "comment": "(&wa &WCane &wShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20113,
+        50,
+        16
+      ],
+      "comment": "(&wa &wHalf-&WMoon &wKnife&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20105,
+        1,
+        20131
+      ],
+      "comment": "(a monk guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20120,
+        50,
+        8
+      ],
+      "comment": "(&wa &WCane &wArmor&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20125,
+        50,
+        11
+      ],
+      "comment": "(&wa &WCane &wShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20113,
+        50,
+        16
+      ],
+      "comment": "(&wa &wHalf-&WMoon &wKnife&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        20131,
+        50,
+        -1
+      ],
+      "comment": "(a chain of keys)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20117,
+        5,
+        20127
+      ],
+      "comment": "(the visiting guest)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        20106,
+        3,
+        -1
+      ],
+      "comment": "(a steaming hot bun)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20124,
+        1,
+        2
+      ],
+      "comment": "(The Library)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20112,
+        1,
+        20124
+      ],
+      "comment": "(the Master of Books)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20118,
+        50,
+        7
+      ],
+      "comment": "(&yMonk's &WGarters&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20119,
+        50,
+        12
+      ],
+      "comment": "(&wa &yMonk's &WRobe&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20101,
+        50,
+        0
+      ],
+      "comment": "(&ya &yLi&Yg&Wh&Yt&yed &yC&Ya&Wnd&Yl&ye&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        20111,
+        1,
+        -1
+      ],
+      "comment": "(a Yijinjing manual)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20114,
+        1,
+        20122
+      ],
+      "comment": "(the Master Trainer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20118,
+        50,
+        7
+      ],
+      "comment": "(&yMonk's &WGarters&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20119,
+        50,
+        12
+      ],
+      "comment": "(&wa &yMonk's &WRobe&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20125,
+        50,
+        11
+      ],
+      "comment": "(&wa &WCane &wShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20114,
+        50,
+        16
+      ],
+      "comment": "(&wa Chain &yWhip&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20102,
+        50,
+        0
+      ],
+      "comment": "(&ya &yL&Yig&Wh&Yte&yd &yC&Ya&Wnd&Yl&ye&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20113,
+        1,
+        20121
+      ],
+      "comment": "(the Drunken Master)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20118,
+        50,
+        7
+      ],
+      "comment": "(&yMonk's &WGarters&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20119,
+        50,
+        12
+      ],
+      "comment": "(&wa &yMonk's &WRobe&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        20109,
+        1,
+        -1
+      ],
+      "comment": "(a Jiuyangzhenjing manual)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20102,
+        50,
+        0
+      ],
+      "comment": "(&ya &yL&Yig&Wh&Yte&yd &yC&Ya&Wnd&Yl&ye&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20104,
+        5,
+        20117
+      ],
+      "comment": "(a monk)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20116,
+        50,
+        16
+      ],
+      "comment": "(&ya &wHorse &ySpear&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20104,
+        5,
+        20117
+      ],
+      "comment": "(a monk)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20116,
+        50,
+        16
+      ],
+      "comment": "(&ya &wHorse &ySpear&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20115,
+        5,
+        2
+      ],
+      "comment": "(The Luohan Chamber)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20110,
+        2,
+        20115
+      ],
+      "comment": "(the Luohan)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        20115,
+        50,
+        -1
+      ],
+      "comment": "(a bronze key)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20105,
+        1,
+        1
+      ],
+      "comment": "(A dark cave)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20106,
+        5,
+        20105
+      ],
+      "comment": "(Your own inner demon)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20104,
+        3,
+        1
+      ],
+      "comment": "(Mountain shrine)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20108,
+        0,
+        1
+      ],
+      "comment": "(A Side Court)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20108,
+        2,
+        1
+      ],
+      "comment": "(A Side Court)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20108,
+        3,
+        1
+      ],
+      "comment": "(A Side Court)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20109,
+        1,
+        1
+      ],
+      "comment": "(The Dining Hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20112,
+        0,
+        1
+      ],
+      "comment": "(The Disciples' Bunk)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20113,
+        1,
+        1
+      ],
+      "comment": "(A Side Court)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20119,
+        5,
+        1
+      ],
+      "comment": "(The Grand Hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20126,
+        5,
+        1
+      ],
+      "comment": "(A Side Hall)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20125,
+        3,
+        2
+      ],
+      "comment": "(A Secret Chamber)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20133,
+        3,
+        2
+      ],
+      "comment": "(An empty prison)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20134,
+        0,
+        2
+      ],
+      "comment": "(Cell of Wuhua)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        20135,
+        2,
+        2
+      ],
+      "comment": "(A female prison cell)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20115,
+        1,
+        20123
+      ],
+      "comment": "(the Abbot of Shaolin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20121,
+        1,
+        12
+      ],
+      "comment": "(&mAbbot's &MJiasha&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20122,
+        1,
+        4
+      ],
+      "comment": "(&babbot's &Bfozhu&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20123,
+        1,
+        17
+      ],
+      "comment": "(&wthe &yStaff &wof &yAbbot&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        20102,
+        8,
+        20123
+      ],
+      "comment": "(&ya &yL&Yig&Wh&Yte&yd &yC&Ya&Wnd&Yl&ye&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        20102,
+        8,
+        20128
+      ],
+      "comment": "(&ya &yL&Yig&Wh&Yte&yd &yC&Ya&Wnd&Yl&ye&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        20136,
+        8,
+        20129
+      ],
+      "comment": "(a lighted candle)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        20102,
+        8,
+        20130
+      ],
+      "comment": "(&ya &yL&Yig&Wh&Yte&yd &yC&Ya&Wnd&Yl&ye&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        20107,
+        2,
+        20125
+      ],
+      "comment": "(&Ya huge treasure&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        20110,
+        1,
+        20125
+      ],
+      "comment": "(a Jiuyingzhenjing manual)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        20106,
+        3,
+        20110
+      ],
+      "comment": "(a steaming hot bun)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20103,
+        3,
+        20118
+      ],
+      "comment": "(a disciple)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20108,
+        2,
+        20114
+      ],
+      "comment": "(the wooden man)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20111,
+        1,
+        20134
+      ],
+      "comment": "(Wuhua)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        20117,
+        1,
+        17
+      ],
+      "comment": "(a Kamasutra)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20101,
+        2,
+        20109
+      ],
+      "comment": "(a monk child)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20101,
+        2,
+        20128
+      ],
+      "comment": "(a monk child)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        20102,
+        3,
+        20135
+      ],
+      "comment": "(an imprisoned nun)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        20124,
+        1,
+        -1
+      ],
+      "comment": "(a lock of nun's hair)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/201.zon"
+}

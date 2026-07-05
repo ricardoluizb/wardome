@@ -1,0 +1,29 @@
+{
+  "id": 30015,
+  "zone_id": 300,
+  "name": "A wooded area",
+  "description": "Not exactly a forest but still a fairly vast wooded area.  Tall trees surround\nyou.  It is obvious that these trees have been hand planted and tended since\nthey are aligned in rows and are perfectly spaced.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30016
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30014
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

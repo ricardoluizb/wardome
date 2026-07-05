@@ -1,0 +1,29 @@
+{
+  "id": 9138,
+  "zone_id": 91,
+  "name": "Mysterious rock outcropping.",
+  "description": "This rock outcropping just seems to hang in midair.  To the north\nyou see a house and if you ease yourself down, you can land on a\nrather damp, dismal cloud.  The door to the house is closed.",
+  "header_raw": "91 5 0",
+  "flags_text": "5",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Eerie looking house.",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 9139
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9137
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

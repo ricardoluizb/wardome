@@ -1,0 +1,29 @@
+{
+  "id": 12224,
+  "zone_id": 122,
+  "name": "The Lodge of Frey and Freya",
+  "description": "The interior of this long wooden lodge is filled with all manner of\ntrappings, from pelts taken from wild animals slain in the hunt to\na range of trophies sequestered away from their giant and orcish owners,\nwhom where all slain or driven away by Frey and his pets. A series of\ncrossed spears topped by boarhide shields line a narrow ledge set three\nfeet below the ceiling signifies this as the home of a norse god, who\ndespite his peaceful demeanour and surrounds is quite capable of performing\nadmirably alongside his peers when battling enemies of Asgard.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12225
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12220
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

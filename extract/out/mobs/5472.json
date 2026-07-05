@@ -4,9 +4,9 @@
   "short_desc": "the death dog",
   "long_desc": "The death dog stands here.",
   "detailed_desc": "A large two-headed hound barks at you vicously.",
-  "flags_raw": "fgl k 0 S",
-  "stats1_raw": "4 19 7 1d15+76 1d10+1",
-  "stats2_raw": "0 900",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "2152 1024 0 E",
+  "stats1_raw": "4 18 9 1d1+81 5d1+0",
+  "stats2_raw": "60 1089 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

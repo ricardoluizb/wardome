@@ -1,0 +1,21 @@
+{
+  "id": 1028,
+  "zone_id": 10,
+  "name": "A Nun's Room",
+  "description": "This once beautiful room has obviously been completely and utterly\ndestroyed at some time in the past.  At least, everything between its\nfour walls has.  Remenants of various articles of clothing and whatnot\nlie scattered around the room, all collecting mould.  There is a wide\nopen doorway to the east where a wooden door once hung upon brass hinges.\n'How did you know this?' you ask yourself... and then notice the wooden\nshards lying around the doorway and the remains of brass hinges sitting\nin the doorframe.",
+  "header_raw": "10 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The cloistered hallway lies just to the east through the open doorway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1026
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

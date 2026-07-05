@@ -1,0 +1,45 @@
+{
+  "id": 9960,
+  "zone_id": 99,
+  "name": "A city street in Ghenna.",
+  "description": "There is so much crap in the street here, that you have to walk in \na zigzag around it.  The outline of a doorframe is all that remains \nof the building to the South.  The building to the North, however, \nlooks a bit more intact.  The street ends towards the East, near a \nmountain of rubble.  To the West, the street goes on for some distance.",
+  "header_raw": "99 1 1",
+  "flags_text": "1",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9961
+    },
+    {
+      "dir": 1,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9966
+    },
+    {
+      "dir": 2,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9962
+    },
+    {
+      "dir": 3,
+      "description": "Too dark to tell",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9959
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

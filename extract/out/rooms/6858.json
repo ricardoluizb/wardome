@@ -1,0 +1,30 @@
+{
+  "id": 6858,
+  "zone_id": 67,
+  "name": "The town treasury",
+  "description": "With the exception of a few portraits of the founders of you-don't-\nknow-what, the room is quite drab, and could benefit from some fresh\nair. A huge pile of the town's wealth lies on the tile floor, guarded\nfrom your meddling by a protective amber shield.",
+  "header_raw": "67 12 0",
+  "flags_text": "12",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6738
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "pile",
+      "description": "You can't get near it. On attempting to reach in and partake of\nthe wealth, a protective amber shield balks your hand as if it\nwere a wall of steel. \nHowever, you can create your own account by depositing some money.\nIf you want to know your balance, typing balance will do the job.\nIf you'd care to see it again, type withdraw (amount).\nThen please put it back again. Your support is appreciated,\nwe know the town's security rests with you. Have a nice day."
+    },
+    {
+      "keywords": "gold",
+      "description": "You can't get near it. On attempting to reach in and partake of\nthe wealth, a protective amber shield balks your hand as if it\nwere a wall of steel.\nHowever, you can create your own account by depositing some money.\nIf you want to know your balance, typing balance will do the job.\nIf you'd care to see it again, type withdraw (amount).\nThen please put it back again. Your support is appreciated,\nwe know the town's security rests with you. Have a nice day."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

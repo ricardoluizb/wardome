@@ -1,0 +1,29 @@
+{
+  "id": 11287,
+  "zone_id": 112,
+  "name": "The End",
+  "description": "The sludge stops here, as the ground rises sharply, and the tunnel ends\nat a large boulder, which is wedged into a hole in the south wall, which\nleads into the basement of one of the many houses on Main Street. No sound\ncomes from the far side.",
+  "header_raw": "112 13 0",
+  "flags_text": "13",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11286
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "boulder",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11288
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

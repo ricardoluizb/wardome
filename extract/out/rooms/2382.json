@@ -1,0 +1,37 @@
+{
+  "id": 2382,
+  "zone_id": 23,
+  "name": "The Great Hall",
+  "description": "You stand in the great hall of the keep. Huge pillars rise up to the vaulted\nceiling and torch light glimmers off the marble floor here. You are amazed at\nthe sheer size of the hall. The hall itself leads north and east. You notice a\nsmaller hall leading south, deeper into the keep.",
+  "header_raw": "23 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2381
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2384
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2387
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

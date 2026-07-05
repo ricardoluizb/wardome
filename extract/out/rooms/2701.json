@@ -1,0 +1,45 @@
+{
+  "id": 2701,
+  "zone_id": 27,
+  "name": "Entrance of The &gMaze &cof &rDeath&n",
+  "description": "You have walked into a high ground and from here it's possible to see what\nawaits for you just ahead a maze...  Yes you will have to cross it...  Yes it\nwill be difficult, but what kind of hero would be you if you couldn't cross a\nmaze ? Enought talking, go now and face you destiny, face THE MAZE",
+  "header_raw": "27 73 3",
+  "flags_text": "73",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2701
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2701
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2700
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2703
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

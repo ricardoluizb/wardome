@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Entrance To The Guild of Clerics",
   "description": "This hall pales in comparison to that of the main hall, but is\nbeautiful in its own right.  Shaven heads and brown robes can be\nseen milling about quitely talking to each other.  North is back\ninside the temple proper, and south is the entrance to the clerics'\nbar.",
-  "header_raw": "54 deh 0",
-  "flags_text": "deh",
+  "header_raw": "54 152 0",
+  "flags_text": "152",
   "sector": 0,
   "exits": [
     {

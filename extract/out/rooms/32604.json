@@ -1,0 +1,37 @@
+{
+  "id": 32604,
+  "zone_id": 326,
+  "name": "The forest",
+  "description": "What's a strange place is it? There are trees everywhere. To the north you can see something that looks like a cave. To the east you can see... An open field?!?!?!?!?!? How much strange this could be?",
+  "header_raw": "326 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 32605
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 32602
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "0",
+      "door_flag": 0,
+      "key": 0,
+      "to": 32606
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/326.wld"
+}

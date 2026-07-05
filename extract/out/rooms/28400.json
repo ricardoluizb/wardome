@@ -1,0 +1,29 @@
+{
+  "id": 28400,
+  "zone_id": 284,
+  "name": "Swiming...",
+  "description": "You are swiming about 15 meters above the surface.\nYou see a cave over down.The water is so cold...",
+  "header_raw": "284 8 6",
+  "flags_text": "8",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1803
+    },
+    {
+      "dir": 5,
+      "description": "Below you see a big hole in the floor.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28401
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/284.wld"
+}

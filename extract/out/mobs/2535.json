@@ -4,9 +4,9 @@
   "short_desc": "the dancing sword",
   "long_desc": "A well crafted sword lies on the work table here.",
   "detailed_desc": "It looks quite sharp.",
-  "flags_raw": "bfhlnopqr dk -500 S",
-  "stats1_raw": "10 1 -10 10d10+100 3d5+5",
-  "stats2_raw": "0 4000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "256170 1032 -500 E",
+  "stats1_raw": "140 -50 -11 1d1+3912 5d15+56",
+  "stats2_raw": "2100 7674036 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

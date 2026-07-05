@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Altar",
   "description": "You are in a small chapel designed around a beautifully crafted golden\naltar.  Many icons to lesser deities line the room, but it is obvious by\none glance at the symbols on the altar, that this room was designed for\nthe worship of Mystra, the goddess of magic.",
-  "header_raw": "25 dg 0",
-  "flags_text": "dg",
+  "header_raw": "25 72 0",
+  "flags_text": "72",
   "sector": 0,
   "exits": [
     {

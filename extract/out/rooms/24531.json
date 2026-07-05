@@ -1,0 +1,29 @@
+{
+  "id": 24531,
+  "zone_id": 245,
+  "name": "The plagued lands",
+  "description": "You walk through the wreteched, fetid wreak of the plagued lands.\nOnce fine tall grass has withered into a lifeless desert. About you\nflies lay eggs in the rotting flesh of the plagued.",
+  "header_raw": "245 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The  plagued lands",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24517
+    },
+    {
+      "dir": 3,
+      "description": "The plagued lands",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24530
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/245.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 2020,
+  "zone_id": 20,
+  "name": "Bedroom",
+  "description": "This cozy bedroom is tucked away from prying eyes; small, yet wonderful in\nits capacity. Dimmed lighting set into the floors gives your eyes just\nenough to move around by, as you notice the enormous king-sized bed taking up\nmuch of floor space. Complete with black satin sheets, you and your lover\nrest comfortably on its surface, the water-filled mattress relaxing you. The\nmellifluous sound of breakers rumbling and crashing against the shore seeps\nfrom hidden speakers, you and your lover's chests rising and falling in\nsync. A pair of elegant black orchids rest in an onyx vase upon the small\nnight table next to you. From all around, a dozen airy voices whisper, \"Set me\nafire with your touch, my love, and quench me with your kiss ...\"",
+  "header_raw": "20 156 0",
+  "flags_text": "156",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2034
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2019
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2033
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/20.wld"
+}

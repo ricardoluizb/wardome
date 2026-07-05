@@ -1,0 +1,29 @@
+{
+  "id": 8285,
+  "zone_id": 82,
+  "name": "The Western Passage",
+  "description": "You continue in the western passage, there is nothing intresting or important\nin this corridor. To the west you see the central fountain that is inside the\nH.Q., but there is a cahin that doesnt let you go, besides you dont feel like\ngoing to the patio of this building.",
+  "header_raw": "82 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8281
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8286
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

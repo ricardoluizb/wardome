@@ -1,0 +1,12 @@
+{
+  "id": 618,
+  "alias": "priest cleric",
+  "short_desc": "the priest of Hatchet",
+  "long_desc": "The priest of Hatchet is ready to help you practice.",
+  "detailed_desc": "He is big and bad.  Don't mess with him.",
+  "flags_raw": "1098 136 0 E",
+  "stats1_raw": "1000 30 6 5d1+1 630d10+4",
+  "stats2_raw": "12 450 105901",
+  "stats3_raw": "0 8 0 1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/6.mob"
+}

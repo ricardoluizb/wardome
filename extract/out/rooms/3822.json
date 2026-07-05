@@ -1,0 +1,21 @@
+{
+  "id": 3822,
+  "zone_id": 38,
+  "name": "A Bedroom",
+  "description": "You are in a makeshift bedroom.  All you can see in this room is a bed made of\nrags and a shabbily built stool in the corner.  The exit is to the west.",
+  "header_raw": "38 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 3814
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/38.wld"
+}

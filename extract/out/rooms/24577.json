@@ -1,0 +1,45 @@
+{
+  "id": 24577,
+  "zone_id": 245,
+  "name": "Armageddon",
+  "description": "You stand in the vast plain of Armageddon. About you angels\nsound trumpets and cut through sinners with sickles. The sun\nhas been swallowed by blackness, and the blood red light of\nthe moon flickers across the battlefield.",
+  "header_raw": "245 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Armageddon",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24591
+    },
+    {
+      "dir": 1,
+      "description": "Armageddon",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24578
+    },
+    {
+      "dir": 2,
+      "description": "Armageddon",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24563
+    },
+    {
+      "dir": 3,
+      "description": "Armageddon",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 24576
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/245.wld"
+}

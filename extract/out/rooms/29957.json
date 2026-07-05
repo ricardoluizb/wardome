@@ -1,0 +1,29 @@
+{
+  "id": 29957,
+  "zone_id": 298,
+  "name": "Above the Forest",
+  "description": "The forest looks so peaceful from up here.  The wars that are going on down\nbelow are almost forgotten to you.  From here, you can't see the elves fighting\nto save this city.  Your attention is on the sky and the trees.  From this\nheight everything looks like a painting.  If it wasn't for the arrow that\nalmost just struck you down, this would be the most peaceful place you've ever\nbeen to.",
+  "header_raw": "298 72 3",
+  "flags_text": "72",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29956
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29958
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

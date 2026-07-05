@@ -1,0 +1,37 @@
+{
+  "id": 6783,
+  "zone_id": 67,
+  "name": "A narrow ledge",
+  "description": "Rocks tumble over the eastern side of the cliff as you traverse the\nthread-thin trail. Over the edge, you can see the rooftops of the town.\nThe mages tower rises prominently on a northern cliff parallel to yours.",
+  "header_raw": "67 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6784
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6781
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6785
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

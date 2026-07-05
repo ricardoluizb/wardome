@@ -1,0 +1,21 @@
+{
+  "id": 8131,
+  "zone_id": 81,
+  "name": "Marya Luzarna's Bakery",
+  "description": "The aroma of freshly baked wheat bread fills this store, mingled with\nthe sharper smell of sourdough rye.  No bakers anywhere in Midgaard, \nThalos, or Rome can equal Marya Luzarna, who comes from a long line of\nbakers.  Her great-great-great-grandfather Ogann baked the great Rye\nLoaf of Ofingia, which could be carried in a pocket, and yet fed an \narmy of Ofintines for thirty days.",
+  "header_raw": "81 152 0",
+  "flags_text": "152",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "You can inhale deeply and leave west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8122
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

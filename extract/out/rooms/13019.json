@@ -1,0 +1,45 @@
+{
+  "id": 13019,
+  "zone_id": 130,
+  "name": "First Avenue's Center",
+  "description": "Here is the center of the First Avenue, a big and rich road.\nThis road represents the glory of this city.\nYou can go to the Second Avenue to the South, continue in \nthe First Avenue to east and west or goto to a uncommon place\nto the North.",
+  "header_raw": "130 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13020
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13027
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13002
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13031
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

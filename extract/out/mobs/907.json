@@ -4,9 +4,9 @@
   "short_desc": "King Minos the Minotaur",
   "long_desc": "King Minos the Minotaur is ready and waiting to gore you to death.",
   "detailed_desc": "He smells something awful.",
-  "flags_raw": "bflmnoq dfhkp -1000 S",
-  "stats1_raw": "26 0 -2 12d8+590 4d6+10",
-  "stats2_raw": "0 160000",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "96298 33960 -1000 E",
+  "stats1_raw": "30 -9 -5 1d1+2520 5d7+82",
+  "stats2_raw": "450 145613 7",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/9.mob"
 }

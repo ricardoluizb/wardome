@@ -1,0 +1,45 @@
+{
+  "id": 29983,
+  "zone_id": 298,
+  "name": "A little bay inside the valley",
+  "description": "This is a good place to rope your boat and check out the bay of both sides of\nthis enalarged point of the river inside the valley.  To the west you see some\nkind of forest, and to the east, you can climb a arduous cliff to reach Emyn\nMuil.",
+  "header_raw": "298 4 3",
+  "flags_text": "4",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29982
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29991
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29984
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29985
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

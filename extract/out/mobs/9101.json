@@ -1,0 +1,12 @@
+{
+  "id": 9101,
+  "alias": "oldstyle harpy",
+  "short_desc": "the screaming, filthy harpy",
+  "long_desc": "The screaming, filthy harpy claws madly at your face!",
+  "detailed_desc": "The harpy looks at you with blood in her eyes.  Her entire body is\ncaked in filth and grime and she stinks to high heaven.  Her razor-\nsharp talons flex as she considers you for her dinner.",
+  "flags_raw": "44 262184 -500 E",
+  "stats1_raw": "10 15 8 1d1+207 5d2+4",
+  "stats2_raw": "150 7126 0",
+  "stats3_raw": "8 8 2 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/91.mob"
+}

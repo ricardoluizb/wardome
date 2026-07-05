@@ -1,0 +1,21 @@
+{
+  "id": 10224,
+  "zone_id": 102,
+  "name": "A mercenary Shelter",
+  "description": "The Army's Quarter. This place is a common accommodation for the\nmercenary army of guardia. There seems to be a medium number of soldiers\nmost of the beds are empty, they must be facing a huge war against\nanother great kingdom.",
+  "header_raw": "102 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10223
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

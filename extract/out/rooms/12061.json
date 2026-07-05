@@ -3,8 +3,8 @@
   "zone_id": 120,
   "name": "The Torture Chamber",
   "description": "You are standing in a very small room in which there are many tools\ndesigned specifically for inflicting pain and suffering.  Some of them\nare familiar, such as the rack and the iron maidens.  Others, you have\nnever seen before and they make you wonder about the kind of sadistic\nmind that dreamt them up.  The only exit is to the west.",
-  "header_raw": "120 d 0",
-  "flags_text": "d",
+  "header_raw": "120 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

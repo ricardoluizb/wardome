@@ -3,8 +3,8 @@
   "zone_id": 33,
   "name": "A Cave Passageway",
   "description": "The passageway makes a U-turn here, heading north and\nwestwards to the other side of the 'U'.  The air seems\nhumid and hard to breathe.  Some algae grows near the\nfloor in the slick spots, giving a definite subtle smell\nof rot to the air.",
-  "header_raw": "33 d 0",
-  "flags_text": "d",
+  "header_raw": "33 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

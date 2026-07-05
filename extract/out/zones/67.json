@@ -1,0 +1,3614 @@
+{
+  "id": 67,
+  "name": "Sundhaven",
+  "header": {
+    "raw": "6885 30 2 1",
+    "min_room": 6885,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6721,
+        5,
+        1
+      ],
+      "comment": "(Nightbreak Cafe)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6715,
+        1,
+        6721
+      ],
+      "comment": "(a coffee brewer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6721,
+        1,
+        6721
+      ],
+      "comment": "(a retired thief)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6718,
+        1,
+        -1
+      ],
+      "comment": "(an irish cream latte)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6717,
+        1,
+        -1
+      ],
+      "comment": "(an iced cappuccino)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        6720,
+        1,
+        6721
+      ],
+      "comment": "(the bartender)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        6721,
+        1,
+        6721
+      ],
+      "comment": "(a retired thief)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6744,
+        1,
+        2
+      ],
+      "comment": "(The east gate of Sundhaven)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6749,
+        4,
+        6744
+      ],
+      "comment": "(the gate watchman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6773,
+        4,
+        16
+      ],
+      "comment": "(a stone-hilted sword)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6709,
+        0,
+        1
+      ],
+      "comment": "(The gate at the cliffs)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6749,
+        4,
+        6709
+      ],
+      "comment": "(the gate watchman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6773,
+        4,
+        16
+      ],
+      "comment": "(a stone-hilted sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6739,
+        6,
+        6709
+      ],
+      "comment": "(a dark-haired girl)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6749,
+        8,
+        6
+      ],
+      "comment": "(a velvet ribbon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6706,
+        15,
+        6764
+      ],
+      "comment": "(a smoke rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6714,
+        5,
+        6764
+      ],
+      "comment": "(a gypsy minstrel)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6787,
+        10,
+        7
+      ],
+      "comment": "(a colorful gypsy skirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6788,
+        10,
+        5
+      ],
+      "comment": "(a blood red blouse)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6745,
+        3,
+        2
+      ],
+      "comment": "(The west gate of Sundhaven)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6749,
+        4,
+        6745
+      ],
+      "comment": "(the gate watchman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6773,
+        4,
+        16
+      ],
+      "comment": "(a stone-hilted sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6709,
+        3,
+        6745
+      ],
+      "comment": "(a peddler)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6721,
+        1,
+        6725
+      ],
+      "comment": "(a rogue's brew)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6746,
+        4,
+        6725
+      ],
+      "comment": "(a grey cat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6748,
+        1,
+        6742
+      ],
+      "comment": "(the butcher)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6775,
+        1,
+        -1
+      ],
+      "comment": "(a leg of mutton)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6776,
+        1,
+        -1
+      ],
+      "comment": "(a wild boar heart)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6777,
+        1,
+        -1
+      ],
+      "comment": "(a bowl of little dragon wings)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6778,
+        1,
+        -1
+      ],
+      "comment": "(a grilled troll sandwich)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6738,
+        2,
+        6733
+      ],
+      "comment": "(a mischievious boy)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6747,
+        1,
+        -1
+      ],
+      "comment": "(&Wa set of &mmarbles&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6738,
+        2,
+        6739
+      ],
+      "comment": "(a mischievious boy)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6747,
+        1,
+        -1
+      ],
+      "comment": "(&Wa set of &mmarbles&n)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6752,
+        1,
+        6719
+      ],
+      "comment": "(the gallows platform)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6760,
+        1,
+        6719
+      ],
+      "comment": "(the Lord of the Black Watch)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6785,
+        8,
+        12
+      ],
+      "comment": "(a handsome black and gold cloak)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6782,
+        15,
+        16
+      ],
+      "comment": "(a sword of the Black Watch)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6783,
+        15,
+        17
+      ],
+      "comment": "(an iron blade)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6786,
+        20,
+        -1
+      ],
+      "comment": "(a glass of scotch on the rocks)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6706,
+        15,
+        6719
+      ],
+      "comment": "(a smoke rat)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6711,
+        1,
+        6700
+      ],
+      "comment": "(a black marble fountain)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6705,
+        3099,
+        -1
+      ],
+      "comment": "(a bulletin board)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        3099,
+        7,
+        6705
+      ],
+      "comment": "(a bulletin board)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6758,
+        2,
+        1
+      ],
+      "comment": "(Standing at the brink)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6821,
+        1,
+        1
+      ],
+      "comment": "(A wide cart path)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6828,
+        0,
+        1
+      ],
+      "comment": "(The black orchard gate)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6829,
+        2,
+        1
+      ],
+      "comment": "(The blackberry orchard)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6765,
+        1,
+        1
+      ],
+      "comment": "(A windy cliffside lane)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6845,
+        4,
+        2
+      ],
+      "comment": "(Slippery stone steps)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6841,
+        5,
+        2
+      ],
+      "comment": "(A hall in the Assassins Guild)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6843,
+        4,
+        2
+      ],
+      "comment": "(A secret hideaway)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6841,
+        3,
+        1
+      ],
+      "comment": "(A hall in the Assassins Guild)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6840,
+        1,
+        1
+      ],
+      "comment": "(A doorway hung with daggers)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6836,
+        4,
+        1
+      ],
+      "comment": "(A foul staircase)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6833,
+        5,
+        1
+      ],
+      "comment": "(The southern path)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6834,
+        4,
+        1
+      ],
+      "comment": "(The House of Witches)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6860,
+        3,
+        1
+      ],
+      "comment": "(A stone path)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6874,
+        0,
+        2
+      ],
+      "comment": "(A dark corridor)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6884,
+        2,
+        2
+      ],
+      "comment": "(A crawlspace)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6883,
+        0,
+        1
+      ],
+      "comment": "(A cobblestone road)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6835,
+        2,
+        1
+      ],
+      "comment": "(The southern gate)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6710,
+        1,
+        6701
+      ],
+      "comment": "(a candelabra)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6713,
+        1,
+        6858
+      ],
+      "comment": "(a huge pile of gold)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6711,
+        1,
+        6876
+      ],
+      "comment": "(a black marble fountain)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6712,
+        20,
+        6711
+      ],
+      "comment": "(the axe of severance)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6769,
+        20,
+        6843
+      ],
+      "comment": "(a black lounger)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6770,
+        20,
+        6843
+      ],
+      "comment": "(the Rogue's book of bartending)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6716,
+        1,
+        6706
+      ],
+      "comment": "(a golden rose with black leaves and stem)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6754,
+        1,
+        6703
+      ],
+      "comment": "(an altar carved from amber)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6753,
+        1,
+        6720
+      ],
+      "comment": "(a cracked stone fountain)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6748,
+        1,
+        6760
+      ],
+      "comment": "(a glass chessboard)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6715,
+        1,
+        6884
+      ],
+      "comment": "(a coffee brewer)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6714,
+        3,
+        6715
+      ],
+      "comment": "(a quesadilla)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6774,
+        1,
+        6881
+      ],
+      "comment": "(the cartographer's disclaimer)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6720,
+        1,
+        6761
+      ],
+      "comment": "(a hot cup)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6764,
+        1,
+        6757
+      ],
+      "comment": "(a disgruntled courier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6733,
+        1,
+        6746
+      ],
+      "comment": "(The weaponsmaster)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6739,
+        1,
+        -1
+      ],
+      "comment": "(a sword of quartz hilt)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6740,
+        1,
+        -1
+      ],
+      "comment": "(a mithril dagger)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6741,
+        1,
+        -1
+      ],
+      "comment": "(a fire-headed mace)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6742,
+        1,
+        -1
+      ],
+      "comment": "(a rock crystal staff)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6732,
+        1,
+        6747
+      ],
+      "comment": "(the armourer)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6763,
+        1,
+        -1
+      ],
+      "comment": "(a suit of chain mail)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6764,
+        1,
+        -1
+      ],
+      "comment": "(a bright helm)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6765,
+        1,
+        -1
+      ],
+      "comment": "(silver bracers)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6766,
+        1,
+        -1
+      ],
+      "comment": "(a pair of sharp-toed boots)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6767,
+        1,
+        -1
+      ],
+      "comment": "(a scale shield)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6749,
+        4,
+        6835
+      ],
+      "comment": "(the gate watchman)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6773,
+        4,
+        16
+      ],
+      "comment": "(a stone-hilted sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6720,
+        1,
+        6748
+      ],
+      "comment": "(the bartender)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6727,
+        1,
+        -1
+      ],
+      "comment": "(a leather flask)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6728,
+        1,
+        -1
+      ],
+      "comment": "(a rabbit roast)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6729,
+        1,
+        -1
+      ],
+      "comment": "(a pot of dragon stew)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6711,
+        1,
+        6749
+      ],
+      "comment": "(a knight in bright armor)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6712,
+        1,
+        6749
+      ],
+      "comment": "(a squire)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6713,
+        1,
+        6749
+      ],
+      "comment": "(a foreign princess)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6718,
+        1,
+        6752
+      ],
+      "comment": "(the Knightmaster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6765,
+        4,
+        6704
+      ],
+      "comment": "(a Sundhaven noble)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6713,
+        7,
+        16
+      ],
+      "comment": "(a huge pile of gold)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6716,
+        7,
+        12
+      ],
+      "comment": "(a golden rose with black leaves and stem)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6765,
+        4,
+        6706
+      ],
+      "comment": "(a Sundhaven noble)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6713,
+        7,
+        16
+      ],
+      "comment": "(a huge pile of gold)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6716,
+        7,
+        12
+      ],
+      "comment": "(a golden rose with black leaves and stem)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6765,
+        4,
+        6707
+      ],
+      "comment": "(a Sundhaven noble)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6713,
+        7,
+        16
+      ],
+      "comment": "(a huge pile of gold)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6716,
+        7,
+        12
+      ],
+      "comment": "(a golden rose with black leaves and stem)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6765,
+        4,
+        6708
+      ],
+      "comment": "(a Sundhaven noble)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6713,
+        7,
+        16
+      ],
+      "comment": "(a huge pile of gold)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6716,
+        7,
+        12
+      ],
+      "comment": "(a golden rose with black leaves and stem)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6731,
+        1,
+        6750
+      ],
+      "comment": "(Mekala)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6733,
+        1,
+        -1
+      ],
+      "comment": "(a dish of pad tai)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6717,
+        1,
+        -1
+      ],
+      "comment": "(an iced cappuccino)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6728,
+        1,
+        6753
+      ],
+      "comment": "(the hobbit pastry chef)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6730,
+        1,
+        -1
+      ],
+      "comment": "(a rye bread)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6731,
+        1,
+        -1
+      ],
+      "comment": "(a cake baked from wild saffron)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6732,
+        1,
+        -1
+      ],
+      "comment": "(a blackberry pastry)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6703,
+        1,
+        6701
+      ],
+      "comment": "(a black-robed priest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6702,
+        15,
+        0
+      ],
+      "comment": "(a kaleidoscope)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6701,
+        11,
+        6708
+      ],
+      "comment": "(a Sundhaven guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6743,
+        30,
+        11
+      ],
+      "comment": "(a black sandstone shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6744,
+        30,
+        5
+      ],
+      "comment": "(A guard's golden tunic)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6745,
+        30,
+        8
+      ],
+      "comment": "(sturdy black boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6746,
+        30,
+        16
+      ],
+      "comment": "(a silver broadsword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6779,
+        1,
+        17
+      ],
+      "comment": "(a black and gold key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6701,
+        11,
+        6734
+      ],
+      "comment": "(a Sundhaven guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6743,
+        30,
+        11
+      ],
+      "comment": "(a black sandstone shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6744,
+        30,
+        5
+      ],
+      "comment": "(A guard's golden tunic)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6745,
+        30,
+        8
+      ],
+      "comment": "(sturdy black boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6746,
+        30,
+        16
+      ],
+      "comment": "(a silver broadsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6701,
+        11,
+        6728
+      ],
+      "comment": "(a Sundhaven guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6743,
+        30,
+        11
+      ],
+      "comment": "(a black sandstone shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6744,
+        30,
+        5
+      ],
+      "comment": "(A guard's golden tunic)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6745,
+        30,
+        8
+      ],
+      "comment": "(sturdy black boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6746,
+        30,
+        16
+      ],
+      "comment": "(a silver broadsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6701,
+        11,
+        6741
+      ],
+      "comment": "(a Sundhaven guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6743,
+        30,
+        11
+      ],
+      "comment": "(a black sandstone shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6744,
+        30,
+        5
+      ],
+      "comment": "(A guard's golden tunic)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6745,
+        30,
+        8
+      ],
+      "comment": "(sturdy black boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6746,
+        30,
+        16
+      ],
+      "comment": "(a silver broadsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6701,
+        11,
+        6713
+      ],
+      "comment": "(a Sundhaven guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6743,
+        30,
+        11
+      ],
+      "comment": "(a black sandstone shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6744,
+        30,
+        5
+      ],
+      "comment": "(A guard's golden tunic)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6745,
+        30,
+        8
+      ],
+      "comment": "(sturdy black boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6746,
+        30,
+        16
+      ],
+      "comment": "(a silver broadsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6701,
+        11,
+        6708
+      ],
+      "comment": "(a Sundhaven guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6743,
+        30,
+        11
+      ],
+      "comment": "(a black sandstone shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6744,
+        30,
+        5
+      ],
+      "comment": "(A guard's golden tunic)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6745,
+        30,
+        8
+      ],
+      "comment": "(sturdy black boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6746,
+        30,
+        16
+      ],
+      "comment": "(a silver broadsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6701,
+        11,
+        6713
+      ],
+      "comment": "(a Sundhaven guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6743,
+        30,
+        11
+      ],
+      "comment": "(a black sandstone shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6744,
+        30,
+        5
+      ],
+      "comment": "(A guard's golden tunic)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6745,
+        30,
+        8
+      ],
+      "comment": "(sturdy black boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6746,
+        30,
+        16
+      ],
+      "comment": "(a silver broadsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6701,
+        11,
+        6738
+      ],
+      "comment": "(a Sundhaven guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6743,
+        30,
+        11
+      ],
+      "comment": "(a black sandstone shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6744,
+        30,
+        5
+      ],
+      "comment": "(A guard's golden tunic)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6745,
+        30,
+        8
+      ],
+      "comment": "(sturdy black boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6746,
+        30,
+        16
+      ],
+      "comment": "(a silver broadsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6701,
+        11,
+        6734
+      ],
+      "comment": "(a Sundhaven guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6743,
+        30,
+        11
+      ],
+      "comment": "(a black sandstone shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6744,
+        30,
+        5
+      ],
+      "comment": "(A guard's golden tunic)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6745,
+        30,
+        8
+      ],
+      "comment": "(sturdy black boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6746,
+        30,
+        16
+      ],
+      "comment": "(a silver broadsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6701,
+        11,
+        6732
+      ],
+      "comment": "(a Sundhaven guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6743,
+        30,
+        11
+      ],
+      "comment": "(a black sandstone shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6744,
+        30,
+        5
+      ],
+      "comment": "(A guard's golden tunic)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6745,
+        30,
+        8
+      ],
+      "comment": "(sturdy black boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6746,
+        30,
+        16
+      ],
+      "comment": "(a silver broadsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6701,
+        11,
+        6728
+      ],
+      "comment": "(a Sundhaven guard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6743,
+        30,
+        11
+      ],
+      "comment": "(a black sandstone shield)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6744,
+        30,
+        5
+      ],
+      "comment": "(A guard's golden tunic)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6745,
+        30,
+        8
+      ],
+      "comment": "(sturdy black boots)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6746,
+        30,
+        16
+      ],
+      "comment": "(a silver broadsword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6734,
+        1,
+        6882
+      ],
+      "comment": "(a little old lady)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6734,
+        1,
+        -1
+      ],
+      "comment": "(a sack of deer leather)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6735,
+        1,
+        -1
+      ],
+      "comment": "(a torch)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6736,
+        1,
+        -1
+      ],
+      "comment": "(a black feather quill)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6737,
+        1,
+        -1
+      ],
+      "comment": "(a piece of paper)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6738,
+        1,
+        -1
+      ],
+      "comment": "(a copper lamp)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6768,
+        1,
+        -1
+      ],
+      "comment": "(a waterskin)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6759,
+        8,
+        6740
+      ],
+      "comment": "(a warrior of the Black Watch)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6784,
+        20,
+        5
+      ],
+      "comment": "(a plate of black steel)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6782,
+        15,
+        16
+      ],
+      "comment": "(a sword of the Black Watch)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6783,
+        15,
+        17
+      ],
+      "comment": "(an iron blade)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6759,
+        8,
+        6713
+      ],
+      "comment": "(a warrior of the Black Watch)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6784,
+        20,
+        5
+      ],
+      "comment": "(a plate of black steel)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6782,
+        15,
+        16
+      ],
+      "comment": "(a sword of the Black Watch)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6783,
+        15,
+        17
+      ],
+      "comment": "(an iron blade)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6759,
+        8,
+        6765
+      ],
+      "comment": "(a warrior of the Black Watch)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6784,
+        20,
+        5
+      ],
+      "comment": "(a plate of black steel)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6782,
+        15,
+        16
+      ],
+      "comment": "(a sword of the Black Watch)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6783,
+        15,
+        17
+      ],
+      "comment": "(an iron blade)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6759,
+        8,
+        6708
+      ],
+      "comment": "(a warrior of the Black Watch)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6784,
+        20,
+        5
+      ],
+      "comment": "(a plate of black steel)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6782,
+        15,
+        16
+      ],
+      "comment": "(a sword of the Black Watch)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6783,
+        15,
+        17
+      ],
+      "comment": "(an iron blade)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6759,
+        8,
+        6748
+      ],
+      "comment": "(a warrior of the Black Watch)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6784,
+        20,
+        5
+      ],
+      "comment": "(a plate of black steel)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6782,
+        15,
+        16
+      ],
+      "comment": "(a sword of the Black Watch)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6783,
+        15,
+        17
+      ],
+      "comment": "(an iron blade)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6759,
+        8,
+        6730
+      ],
+      "comment": "(a warrior of the Black Watch)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6784,
+        20,
+        5
+      ],
+      "comment": "(a plate of black steel)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6782,
+        15,
+        16
+      ],
+      "comment": "(a sword of the Black Watch)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6783,
+        15,
+        17
+      ],
+      "comment": "(an iron blade)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6759,
+        8,
+        6835
+      ],
+      "comment": "(a warrior of the Black Watch)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6784,
+        20,
+        5
+      ],
+      "comment": "(a plate of black steel)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6782,
+        15,
+        16
+      ],
+      "comment": "(a sword of the Black Watch)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6783,
+        15,
+        17
+      ],
+      "comment": "(an iron blade)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6759,
+        8,
+        6727
+      ],
+      "comment": "(a warrior of the Black Watch)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6784,
+        20,
+        5
+      ],
+      "comment": "(a plate of black steel)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6782,
+        15,
+        16
+      ],
+      "comment": "(a sword of the Black Watch)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6783,
+        15,
+        17
+      ],
+      "comment": "(an iron blade)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6706,
+        15,
+        6736
+      ],
+      "comment": "(a smoke rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6706,
+        15,
+        6728
+      ],
+      "comment": "(a smoke rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6706,
+        15,
+        6838
+      ],
+      "comment": "(a smoke rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6706,
+        15,
+        6726
+      ],
+      "comment": "(a smoke rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6706,
+        15,
+        6731
+      ],
+      "comment": "(a smoke rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6706,
+        15,
+        6863
+      ],
+      "comment": "(a smoke rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6706,
+        15,
+        6726
+      ],
+      "comment": "(a smoke rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6706,
+        15,
+        6837
+      ],
+      "comment": "(a smoke rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6706,
+        15,
+        6740
+      ],
+      "comment": "(a smoke rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6706,
+        15,
+        6740
+      ],
+      "comment": "(a smoke rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6706,
+        15,
+        6713
+      ],
+      "comment": "(a smoke rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6706,
+        15,
+        6707
+      ],
+      "comment": "(a smoke rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6706,
+        15,
+        6730
+      ],
+      "comment": "(a smoke rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6761,
+        1,
+        6826
+      ],
+      "comment": "(an old blind mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6705,
+        3,
+        6831
+      ],
+      "comment": "(a raven)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6705,
+        3,
+        6831
+      ],
+      "comment": "(a raven)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6762,
+        10,
+        6880
+      ],
+      "comment": "(a black lamprey)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6762,
+        10,
+        6880
+      ],
+      "comment": "(a black lamprey)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6762,
+        10,
+        6880
+      ],
+      "comment": "(a black lamprey)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6762,
+        10,
+        6878
+      ],
+      "comment": "(a black lamprey)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6762,
+        10,
+        6878
+      ],
+      "comment": "(a black lamprey)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6762,
+        10,
+        6878
+      ],
+      "comment": "(a black lamprey)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6762,
+        10,
+        6878
+      ],
+      "comment": "(a black lamprey)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6762,
+        10,
+        6879
+      ],
+      "comment": "(a black lamprey)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6762,
+        10,
+        6879
+      ],
+      "comment": "(a black lamprey)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6762,
+        10,
+        6879
+      ],
+      "comment": "(a black lamprey)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6763,
+        3,
+        6865
+      ],
+      "comment": "(a moth)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6763,
+        3,
+        6866
+      ],
+      "comment": "(a moth)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6763,
+        3,
+        6865
+      ],
+      "comment": "(a moth)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6753,
+        1,
+        6849
+      ],
+      "comment": "(Athos)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6726,
+        5,
+        16
+      ],
+      "comment": "(a cold mug)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6725,
+        5,
+        17
+      ],
+      "comment": "(a black mug filled with leaping flames)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6766,
+        1,
+        6708
+      ],
+      "comment": "(Stu)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6739,
+        6,
+        6704
+      ],
+      "comment": "(a dark-haired girl)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6749,
+        8,
+        6
+      ],
+      "comment": "(a velvet ribbon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6739,
+        6,
+        6704
+      ],
+      "comment": "(a dark-haired girl)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6749,
+        8,
+        6
+      ],
+      "comment": "(a velvet ribbon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6739,
+        6,
+        6707
+      ],
+      "comment": "(a dark-haired girl)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6749,
+        8,
+        6
+      ],
+      "comment": "(a velvet ribbon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6739,
+        6,
+        6707
+      ],
+      "comment": "(a dark-haired girl)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6749,
+        8,
+        6
+      ],
+      "comment": "(a velvet ribbon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6739,
+        6,
+        6708
+      ],
+      "comment": "(a dark-haired girl)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6749,
+        8,
+        6
+      ],
+      "comment": "(a velvet ribbon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6707,
+        1,
+        6738
+      ],
+      "comment": "(a thief)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6715,
+        1,
+        6728
+      ],
+      "comment": "(the village idiot)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6756,
+        1,
+        6857
+      ],
+      "comment": "(a guardian gryphon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6742,
+        1,
+        6752
+      ],
+      "comment": "(a young warrior)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6725,
+        1,
+        6754
+      ],
+      "comment": "(the blacksmith)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6722,
+        1,
+        6755
+      ],
+      "comment": "(the falconer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6747,
+        2,
+        6706
+      ],
+      "comment": "(a large white cat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6757,
+        1,
+        6761
+      ],
+      "comment": "(a guardian basilisk)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6746,
+        4,
+        6740
+      ],
+      "comment": "(a grey cat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6746,
+        4,
+        6707
+      ],
+      "comment": "(a grey cat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6746,
+        4,
+        6726
+      ],
+      "comment": "(a grey cat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6724,
+        1,
+        6858
+      ],
+      "comment": "(the town treasurer)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6740,
+        1,
+        6715
+      ],
+      "comment": "(a tabby cat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6758,
+        1,
+        6716
+      ],
+      "comment": "(a guardian imp)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6755,
+        1,
+        6840
+      ],
+      "comment": "(a black naga guardian)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6717,
+        1,
+        6844
+      ],
+      "comment": "(the Mistress of Assassins)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6743,
+        1,
+        6843
+      ],
+      "comment": "(a wanted thief)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6723,
+        1,
+        6881
+      ],
+      "comment": "(the cartographer)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6707,
+        1,
+        -1
+      ],
+      "comment": "(a gnarled staff)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6729,
+        1,
+        6711
+      ],
+      "comment": "(the old alchemist)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6708,
+        1,
+        -1
+      ],
+      "comment": "(an iron mace)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6722,
+        1,
+        -1
+      ],
+      "comment": "(the black adder special)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6723,
+        1,
+        -1
+      ],
+      "comment": "(a shot)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6730,
+        1,
+        6712
+      ],
+      "comment": "(the magess)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6724,
+        1,
+        -1
+      ],
+      "comment": "(a victim sandwich)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6726,
+        1,
+        6859
+      ],
+      "comment": "(the jeweller)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6756,
+        1,
+        -1
+      ],
+      "comment": "(an amber stone)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6757,
+        1,
+        -1
+      ],
+      "comment": "(an amethyst)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6758,
+        1,
+        -1
+      ],
+      "comment": "(a diamond)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6759,
+        1,
+        -1
+      ],
+      "comment": "(a sunstone)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6760,
+        1,
+        -1
+      ],
+      "comment": "(a necklace of tiger eyes)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6761,
+        1,
+        -1
+      ],
+      "comment": "(a black agate ring)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6762,
+        1,
+        -1
+      ],
+      "comment": "(a shard of snowflake obsidian)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6736,
+        1,
+        6708
+      ],
+      "comment": "(a paranoid adventurer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6750,
+        5,
+        16
+      ],
+      "comment": "(a shattered dagger)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6751,
+        5,
+        17
+      ],
+      "comment": "(a curse of ill luck)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6750,
+        1,
+        6756
+      ],
+      "comment": "(a little sparrow)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6751,
+        1,
+        6756
+      ],
+      "comment": "(a blackbird)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6752,
+        1,
+        6756
+      ],
+      "comment": "(a giant kestrel)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6714,
+        5,
+        6731
+      ],
+      "comment": "(a gypsy minstrel)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6787,
+        10,
+        7
+      ],
+      "comment": "(a colorful gypsy skirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6788,
+        10,
+        5
+      ],
+      "comment": "(a blood red blouse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6714,
+        5,
+        6727
+      ],
+      "comment": "(a gypsy minstrel)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6787,
+        10,
+        7
+      ],
+      "comment": "(a colorful gypsy skirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6788,
+        10,
+        5
+      ],
+      "comment": "(a blood red blouse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6714,
+        5,
+        6720
+      ],
+      "comment": "(a gypsy minstrel)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6787,
+        10,
+        7
+      ],
+      "comment": "(a colorful gypsy skirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6788,
+        10,
+        5
+      ],
+      "comment": "(a blood red blouse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6714,
+        5,
+        6720
+      ],
+      "comment": "(a gypsy minstrel)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6787,
+        10,
+        7
+      ],
+      "comment": "(a colorful gypsy skirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6788,
+        10,
+        5
+      ],
+      "comment": "(a blood red blouse)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6737,
+        3,
+        6848
+      ],
+      "comment": "(a silk trader)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6706,
+        10,
+        17
+      ],
+      "comment": "(a small black dagger)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6703,
+        5,
+        -1
+      ],
+      "comment": "(a frayed golden tunic)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6704,
+        5,
+        -1
+      ],
+      "comment": "(a pair of black leggings)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6705,
+        5,
+        -1
+      ],
+      "comment": "(old leather boots)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6737,
+        3,
+        6862
+      ],
+      "comment": "(a silk trader)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6706,
+        10,
+        17
+      ],
+      "comment": "(a small black dagger)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6703,
+        5,
+        -1
+      ],
+      "comment": "(a frayed golden tunic)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6704,
+        5,
+        -1
+      ],
+      "comment": "(a pair of black leggings)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6705,
+        5,
+        -1
+      ],
+      "comment": "(old leather boots)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6737,
+        3,
+        6833
+      ],
+      "comment": "(a silk trader)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6706,
+        10,
+        17
+      ],
+      "comment": "(a small black dagger)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6703,
+        5,
+        -1
+      ],
+      "comment": "(a frayed golden tunic)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6704,
+        5,
+        -1
+      ],
+      "comment": "(a pair of black leggings)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6705,
+        5,
+        -1
+      ],
+      "comment": "(old leather boots)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6708,
+        4,
+        6847
+      ],
+      "comment": "(a blackberry picker)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6718,
+        10,
+        17
+      ],
+      "comment": "(an irish cream latte)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6719,
+        10,
+        6718
+      ],
+      "comment": "(a black cup)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6719,
+        10,
+        6718
+      ],
+      "comment": "(a black cup)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6708,
+        4,
+        6847
+      ],
+      "comment": "(a blackberry picker)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6718,
+        10,
+        17
+      ],
+      "comment": "(an irish cream latte)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6719,
+        10,
+        6718
+      ],
+      "comment": "(a black cup)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6719,
+        10,
+        6718
+      ],
+      "comment": "(a black cup)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6709,
+        3,
+        6722
+      ],
+      "comment": "(a peddler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6709,
+        3,
+        6833
+      ],
+      "comment": "(a peddler)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6705,
+        3,
+        6847
+      ],
+      "comment": "(a raven)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6708,
+        4,
+        6829
+      ],
+      "comment": "(a blackberry picker)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6718,
+        10,
+        17
+      ],
+      "comment": "(an irish cream latte)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6719,
+        10,
+        6718
+      ],
+      "comment": "(a black cup)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6719,
+        10,
+        6718
+      ],
+      "comment": "(a black cup)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6708,
+        4,
+        6831
+      ],
+      "comment": "(a blackberry picker)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6718,
+        10,
+        17
+      ],
+      "comment": "(an irish cream latte)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6719,
+        10,
+        6718
+      ],
+      "comment": "(a black cup)"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6719,
+        10,
+        6718
+      ],
+      "comment": "(a black cup)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6710,
+        3,
+        6724
+      ],
+      "comment": "(a mendicant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6710,
+        3,
+        6724
+      ],
+      "comment": "(a mendicant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6710,
+        3,
+        6724
+      ],
+      "comment": "(a mendicant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6735,
+        2,
+        6714
+      ],
+      "comment": "(a mockingbird)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6735,
+        2,
+        6714
+      ],
+      "comment": "(a mockingbird)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6700,
+        1,
+        6713
+      ],
+      "comment": "(the Earl of Sundhaven)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6772,
+        5,
+        13
+      ],
+      "comment": "(a silver scabbard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6771,
+        5,
+        16
+      ],
+      "comment": "(a gilded fencing sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6747,
+        2,
+        6741
+      ],
+      "comment": "(a large white cat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6719,
+        1,
+        6718
+      ],
+      "comment": "(the Archmage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6741,
+        2,
+        6760
+      ],
+      "comment": "(an old mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6741,
+        2,
+        6760
+      ],
+      "comment": "(an old mage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6727,
+        1,
+        6834
+      ],
+      "comment": "(Phadela)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6780,
+        1,
+        -1
+      ],
+      "comment": "(a voodoo doll)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6704,
+        1,
+        6703
+      ],
+      "comment": "(a black-robed priestess)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6744,
+        1,
+        6763
+      ],
+      "comment": "(a sacrificial priestess)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6745,
+        1,
+        6763
+      ],
+      "comment": "(a black animal)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6716,
+        1,
+        6762
+      ],
+      "comment": "(the Priestess of the Ministry)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/67.zon"
+}

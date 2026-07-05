@@ -1,0 +1,45 @@
+{
+  "id": 825,
+  "zone_id": 7,
+  "name": "Trial of Persistence",
+  "description": "In this plain, square room, there are four doors, each at a corner\nof the compass.  They all look exactly the same, and for a moment you\nfeel confused.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "north",
+      "door_flag": 1,
+      "key": -1,
+      "to": 827
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "east",
+      "door_flag": 1,
+      "key": -1,
+      "to": 826
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "south",
+      "door_flag": 1,
+      "key": -1,
+      "to": 826
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "west",
+      "door_flag": 1,
+      "key": -1,
+      "to": 826
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

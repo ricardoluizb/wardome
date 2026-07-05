@@ -1,10 +1,10 @@
 {
   "id": 7338,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "The South-Eastern Part Of The Basilisk's Cave",
   "description": "There is a very small hole in wall from which the smoke is coming from. \nOtherwise it is pitch black.  Exits are north and west.",
-  "header_raw": "73 ad 2",
-  "flags_text": "ad",
+  "header_raw": "72 9 2",
+  "flags_text": "9",
   "sector": 2,
   "exits": [
     {

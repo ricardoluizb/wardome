@@ -1,0 +1,26 @@
+{
+  "id": 8127,
+  "zone_id": 81,
+  "name": "The Sheriff Office",
+  "description": "The Sheriff of Brocdenborough has moved his office here, in a shed\nJoel the carpenter built of scrap on hand, after the goblins forced \nhim to leave Brocdenborough.  In fact, many of the former citizens of \nthat village now live here, or in Venango.  The Sheriff has not\nretired his post; no, he moved here because from here he now commands\na small band of guards who go out hunting goblins, intending to \nfree the countryside eventually.  A tattered sign and a newly printed\nposter hang on the inside wall of this shed.",
+  "header_raw": "81 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You can only leave to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8110
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "tattered sign",
+      "description": "W A N T E D !\n                    \n                    Dead or Alive\n                   Thrash the Ogre \n                          &\n                  Pippin the Hobbit\n                         for\n                 Disturbing the Peace\n                   Inciting a Riot\n                          &\n                   Killing Dwarves\n                 in the Dwarven Village."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

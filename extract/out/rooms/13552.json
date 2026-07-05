@@ -1,0 +1,37 @@
+{
+  "id": 13552,
+  "zone_id": 135,
+  "name": "The Guildhall",
+  "description": "This is the largest chamber cut from Ancalador's pancreas.  A long\nfeasting table made of coffins lashed together fills the length of the\nroom.  On the wall, in the dried ichor that passes for blood in\ndemons, is written, 'A debt we must all pay.'  A set of double\ncoffin-lid doors is to the west, and other exits are to the north and\nup.",
+  "header_raw": "135 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13549
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door doors coffin",
+      "door_flag": 1,
+      "key": -1,
+      "to": 13553
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13548
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

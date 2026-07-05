@@ -1,0 +1,29 @@
+{
+  "id": 18649,
+  "zone_id": 186,
+  "name": "The newbie dense forest",
+  "description": "Here it is a continuation of the forest where we can find some creatures\nstrange and brave but remember if you are afraid it is better to return.\nTo west is the exit.",
+  "header_raw": "186 65 3",
+  "flags_text": "65",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 18650
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 18648
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/186.wld"
+}

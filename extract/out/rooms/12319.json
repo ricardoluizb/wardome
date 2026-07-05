@@ -1,0 +1,21 @@
+{
+  "id": 12319,
+  "zone_id": 122,
+  "name": "The Mines",
+  "description": "This point marks the limit of Durin excavation; the wall to the south\nshows signs of having been dug at, though not extensively as there is\nsufficient to keep the miners occupied in the veins already unearthed.\nPiles of metal awaiting refinement lie next to several carts, ready to\nbe taken to the smith.",
+  "header_raw": "122 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12318
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

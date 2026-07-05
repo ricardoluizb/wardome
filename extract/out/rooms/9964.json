@@ -1,0 +1,29 @@
+{
+  "id": 9964,
+  "zone_id": 99,
+  "name": "A child's room.",
+  "description": "This was evidently a child's room.  Toys (most of them broken) lie \nscattered around the place.  A mattress leans against the far wall, \ncompletely slashed down the middle, its stuffing in a heap on the \nfloor.  One of the dolls here seems strangely lifelike... Bizarre!",
+  "header_raw": "99 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9963
+    },
+    {
+      "dir": 3,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9965
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

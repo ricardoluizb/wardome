@@ -4,9 +4,9 @@
   "short_desc": "the black cat",
   "long_desc": "A black cat with its fur up hisses at you.",
   "detailed_desc": "It looks both mean and dangerous.  Petting seems to be completely out of\nthe question.",
-  "flags_raw": "bg dks -800 S",
-  "stats1_raw": "16 5 -4 16d16+160 3d7+3",
-  "stats2_raw": "0 19950",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "74 263176 -800 E",
+  "stats1_raw": "148 -54 -12 1d1+4140 5d15+58",
+  "stats2_raw": "2220 9013866 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

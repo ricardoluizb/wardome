@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Burnt Room",
   "description": "You are in what looks to have once been a guest bed room.  The walls\nare blackened and burnt by what you could only imagine to be magical fire.\nThere is no sign of the previous occupant, undoubtedly he left in a hurry.\n   The only exit leads back west to the hallway.",
-  "header_raw": "25 adg 0",
-  "flags_text": "adg",
+  "header_raw": "25 73 0",
+  "flags_text": "73",
   "sector": 0,
   "exits": [
     {

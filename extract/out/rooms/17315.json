@@ -1,0 +1,42 @@
+{
+  "id": 17315,
+  "zone_id": 173,
+  "name": "Battleplain of Arden",
+  "description": "Before you stretches the grizzly battleplain of Arden. Countless centuries\nof war have littered the plain with bones and broken weapons of its \ncombattants. There are signs of a recent carnage with several knights\nand their steeds lying in twisted heaps. A dirty trail continues to the \nwest and east, and a winding road heads north.",
+  "header_raw": "173 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A winding road",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17316
+    },
+    {
+      "dir": 1,
+      "description": "A dirty trail",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17314
+    },
+    {
+      "dir": 3,
+      "description": "A dirty trail",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17317
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "heaps knights steeds bones",
+      "description": "The sight sickens you."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

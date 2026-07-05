@@ -1,0 +1,42 @@
+{
+  "id": 8151,
+  "zone_id": 81,
+  "name": "Upper Goblin-Town",
+  "description": "You reach the first level of the goblin city. Now you must fight for\nyour life, adventurer! Draw your weapon and stay on your guard!",
+  "header_raw": "81 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "A hallway leads south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8153
+    },
+    {
+      "dir": 3,
+      "description": "An iron door stands to the west.  It has an inscription.",
+      "keywords": "door iron",
+      "door_flag": 2,
+      "key": 8105,
+      "to": 8152
+    },
+    {
+      "dir": 4,
+      "description": "A ladder leads up through a hole in the ceiling.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8150
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "inscription",
+      "description": "Let the fate of he whose arms rest here     \n             Warn the fool who follows him to Goblin Town"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

@@ -1,10 +1,10 @@
 {
   "id": 7313,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "The Spongy Room",
   "description": "You definitely do NOT like this area.  It is very dank, and most of the\nroom is wet.",
-  "header_raw": "73 cd 3",
-  "flags_text": "cd",
+  "header_raw": "72 12 3",
+  "flags_text": "12",
   "sector": 3,
   "exits": [
     {

@@ -1,0 +1,29 @@
+{
+  "id": 15152,
+  "zone_id": 150,
+  "name": "Mordecai's Home",
+  "description": "This is the home of the Great Mordecai?  One cot, one wash basin (dry\nand;apparently unused for the most part), and a wardrobe on the east wall are\nall that occupy this place.  One would think a man of Mordecai's stature would\nhave just a bit more in the way of luxuries.",
+  "header_raw": "150 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "wardrobe",
+      "door_flag": 2,
+      "key": 15112,
+      "to": 15154
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 15148
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/151.wld"
+}

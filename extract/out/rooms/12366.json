@@ -1,0 +1,21 @@
+{
+  "id": 12366,
+  "zone_id": 122,
+  "name": "The Realm of Fire",
+  "description": "The tunnel ends in a dead end here, in a cavern used to store various\nsupplies taken by the giants when they emerge from their lair to make\nwar on Asgard or the Durin. Occasionally a giant force will travel as\nfar as Midgaard, to aid their cousins there, though if truth be known\nthe giants of your realm are more advanced than these barbaric tribes\nmen.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12365
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

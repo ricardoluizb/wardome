@@ -1,0 +1,12 @@
+{
+  "id": 17305,
+  "alias": "benlad knight green",
+  "short_desc": "Sir Benlad de Haudtesert (the green knight)",
+  "long_desc": "Sir Benlad slaps you with his gauntlet and challenges you!",
+  "detailed_desc": "Sir Benlad is clad in his renowned green armor, rumored to be impervious \nto normal weaponry. He bears a huge battle axe.",
+  "flags_raw": "40 128 250 E",
+  "stats1_raw": "130 -45 -9 1d1+3636 5d14+52",
+  "stats2_raw": "1950 6194774 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/173.mob"
+}

@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "On The Dark River",
   "description": "The river flows down the mountain through a large crevasse to the west\nand up into the mountains east.",
-  "header_raw": "54 a 7",
-  "flags_text": "a",
+  "header_raw": "54 1 7",
+  "flags_text": "1",
   "sector": 7,
   "exits": [
     {

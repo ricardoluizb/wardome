@@ -1,0 +1,29 @@
+{
+  "id": 9176,
+  "zone_id": 91,
+  "name": "Bottom of the stairs.",
+  "description": "You stand at the bottom of a long staircase leading up to the main\nhouse.  To the south you can barely make out the accumulated\nclutter gathered throughout the years.",
+  "header_raw": "91 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9175
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9177
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

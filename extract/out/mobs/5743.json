@@ -1,0 +1,12 @@
+{
+  "id": 5743,
+  "alias": "goblin torturer",
+  "short_desc": "a Goblin torturer",
+  "long_desc": "A Goblin torturer is angry that his victim has suddenly died.",
+  "detailed_desc": "This sadistic creature was busy torturing a captured Dwarf when you entered,\nand the Dwarf died moments later. The creature is angered, and blames you \nfor the Dwarf's premature death!",
+  "flags_raw": "110 1024 -600 E",
+  "stats1_raw": "30 -17 -11 1d1+3480 5d10+122",
+  "stats2_raw": "450 185326 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/57.mob"
+}

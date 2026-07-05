@@ -1,0 +1,21 @@
+{
+  "id": 29538,
+  "zone_id": 295,
+  "name": "Nestor's Tent",
+  "description": "This is the tent of King Nestor, leader of the contingent from Pylos. He\nis one of the older generals here, and one of the more wiser. However,\nhe is not one of the more influential.",
+  "header_raw": "295 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 29537
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/295.wld"
+}

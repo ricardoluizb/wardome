@@ -1,0 +1,21 @@
+{
+  "id": 1179,
+  "zone_id": 11,
+  "name": "&RDiplomat Orson's HeadQuarter&n",
+  "description": "This is The HeadQuarter of Diplomat Orson, where all the battles\nare planned and celebrated. Now this headquarter is the house\nand headquarter of DiplomatHero Noahk, The Orson's Son.'&n",
+  "header_raw": "11 2560 0",
+  "flags_text": "2560",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1104
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

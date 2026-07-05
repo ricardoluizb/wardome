@@ -1,0 +1,45 @@
+{
+  "id": 30402,
+  "zone_id": 304,
+  "name": "&RS&wi&Rt&wh&n &RT&re&Wm&wp&Rl&re&n &wM&Wa&wi&Wn&n &RH&ra&Rl&rl&n",
+  "description": "This is the main room of the temple, when you look around you see that \nin despite of its size there aren't many men inside. The walls are \nblack, and the light is dim, you REALLY don't feel confortable here.",
+  "header_raw": "304 139264 0",
+  "flags_text": "139264",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30404
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30401
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30405
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30403
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/304.wld"
+}

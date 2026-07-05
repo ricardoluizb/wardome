@@ -1,0 +1,29 @@
+{
+  "id": 533,
+  "zone_id": 5,
+  "name": "&YMagic Shop&n",
+  "description": "Behind the counter you see various items, neatly placed in racks,\npresumably most of them are magic.",
+  "header_raw": "5 152 0",
+  "flags_text": "152",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 524
+    },
+    {
+      "dir": 4,
+      "description": "You see nothing special.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1127
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/5.wld"
+}

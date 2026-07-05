@@ -1,0 +1,29 @@
+{
+  "id": 11513,
+  "zone_id": 115,
+  "name": "Harry's Pharmacy",
+  "description": "As you enter the room, you are overcome by the smell of incense.  In the\nbackground, you can faintly hear the singing of religious ballads.  As you walk\ntowards the counter, you realize you will have to deal with a Hare Krishna\n(almost as bad as those guys who go door to door).  A small price to pay for\nthe goods you may obtain here.  The entrance to the Clerics' Guild is to the\nwest.  Broadway is to the east.",
+  "header_raw": "115 144 1",
+  "flags_text": "144",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11506
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11519
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

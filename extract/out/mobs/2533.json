@@ -4,9 +4,9 @@
   "short_desc": "the scribe's assistant",
   "long_desc": "The scribe's assistant is here folding parchments.",
   "detailed_desc": "You can tell that he isn't trusted with the more important documents,\nsince those ones are rolled and sealed with wax.",
-  "flags_raw": "abfgh dk 100 S",
-  "stats1_raw": "16 6 -2 16d16+160 3d4+6",
-  "stats2_raw": "1050 21300",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "235 1032 100 E",
+  "stats1_raw": "130 -45 -9 1d1+3636 5d14+52",
+  "stats2_raw": "1950 6194774 0",
+  "stats3_raw": "8 8 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

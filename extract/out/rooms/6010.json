@@ -3,8 +3,8 @@
   "zone_id": 60,
   "name": "Inside The Cabin",
   "description": "You are inside a small one-room cabin made entirely from heavy logs.\nIt is very sparsely furnished, containing only the most basic housekeeping\nequipment, such as a bed, a chair and a table.",
-  "header_raw": "60 d 0",
-  "flags_text": "d",
+  "header_raw": "60 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

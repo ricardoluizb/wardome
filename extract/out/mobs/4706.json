@@ -1,0 +1,12 @@
+{
+  "id": 4706,
+  "alias": "grimdale king dwarf",
+  "short_desc": "Grimdale the ancient king",
+  "long_desc": "A ancient and partially decayed dwarf lies here ever so silent.",
+  "detailed_desc": "The ancient king of the dwarves lies here.  Forgotten over the past decades\nhis once cherished body has fallen into utter decay.  His once cheery face has\nturned into a crude scowl as you can feel that his soul is not at ease.",
+  "flags_raw": "10 40 -999 E",
+  "stats1_raw": "70 -23 -6 1d1+4200 5d8+68",
+  "stats2_raw": "1050 1352209 4",
+  "stats3_raw": "8 0 1 3 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/47.mob"
+}

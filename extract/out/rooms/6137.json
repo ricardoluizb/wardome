@@ -3,8 +3,8 @@
   "zone_id": 61,
   "name": "At The End Of The Trail Through The Deep, Dark Forest",
   "description": "You are on a dusty trail leading through the deep, dark forest.  Ancient\ngrey trees loom all around you.  A small trail leads northwards and the only\nother exit is east, along the main trail.",
-  "header_raw": "61 ad 3",
-  "flags_text": "ad",
+  "header_raw": "61 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

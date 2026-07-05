@@ -1,0 +1,21 @@
+{
+  "id": 5806,
+  "zone_id": 57,
+  "name": "Pantry",
+  "description": "This well-stocked larder is full of jars of preserved foods and jacks of ale,\nbut most of it looks inedible. There are a couple of jars, however, that\nseem to contain palatable foodstuffs.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "the shipbuilder's quarters",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5805
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

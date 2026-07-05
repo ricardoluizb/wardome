@@ -26,12 +26,12 @@
   ],
   "extra_descriptions": [
     {
-      "keywords": "tree trees vegetation",
-      "description": "All of the vegetation is lush, green and in full bloom.  You wish that you \ncould take the time to stop and enjoy it properly."
-    },
-    {
       "keywords": "trail path",
       "description": "The path is a little muddy, possibly due to a recent thundershower."
+    },
+    {
+      "keywords": "tree trees vegetation",
+      "description": "All of the vegetation is lush, green and in full bloom.  You wish that you \ncould take the time to stop and enjoy it properly."
     }
   ],
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/120.wld"

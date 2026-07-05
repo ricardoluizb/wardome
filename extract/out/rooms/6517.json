@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "The Path To The North Of The Shop",
   "description": "You are on a path to the north of the Hide & Tooth shop.  The path \ncontinues to the north, and there is Granite Head's bakery to the west.",
-  "header_raw": "65 d 0",
-  "flags_text": "d",
+  "header_raw": "65 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

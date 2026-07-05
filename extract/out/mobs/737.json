@@ -1,0 +1,12 @@
+{
+  "id": 737,
+  "alias": "guardian wisp",
+  "short_desc": "the Guardian Wisp",
+  "long_desc": "Some guardian wisps here attack!",
+  "detailed_desc": "The wisp is made up of clammy, misty air, and a bad attitude.",
+  "flags_raw": "42 1048704 0 E",
+  "stats1_raw": "100 -40 -12 1d1+6792 5d21+90",
+  "stats2_raw": "1500 3791433 5",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/7.mob"
+}

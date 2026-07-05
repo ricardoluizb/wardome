@@ -1,0 +1,21 @@
+{
+  "id": 19006,
+  "zone_id": 190,
+  "name": "On the platform.",
+  "description": "You are standing on a wooden platform above the entrance of \nthe elven forest. From here you can see as far as Thewston.",
+  "header_raw": "190 4 5",
+  "flags_text": "4",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 19002
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/190.wld"
+}

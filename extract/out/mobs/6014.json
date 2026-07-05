@@ -4,9 +4,9 @@
   "short_desc": "the large black crow",
   "long_desc": "A large black bird flits about here, picking at bits of carrion.",
   "detailed_desc": "The bird eyes you warily, but continues with its meal.",
-  "flags_raw": "bch 0 -20 S",
-  "stats1_raw": "2 19 8 1d12+22 1d5+1",
-  "stats2_raw": "3 200",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "142 0 -20 E",
+  "stats1_raw": "3 19 9 1d1+63 5d1+0",
+  "stats2_raw": "45 669 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/60.mob"
 }

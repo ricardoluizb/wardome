@@ -1,0 +1,29 @@
+{
+  "id": 17834,
+  "zone_id": 178,
+  "name": "A Small Unused Room",
+  "description": "You stand in a small room in an unused section of the fortress.  The whole\nroom is coated with dust and cobwebs.  The ladder leads back up, and\na rusty door is to the east.",
+  "header_raw": "178 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see a rusty door.",
+      "keywords": "rusty door",
+      "door_flag": 1,
+      "key": 17800,
+      "to": 17835
+    },
+    {
+      "dir": 4,
+      "description": "You see a small room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17833
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

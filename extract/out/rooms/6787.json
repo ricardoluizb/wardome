@@ -1,0 +1,21 @@
+{
+  "id": 6787,
+  "zone_id": 67,
+  "name": "A dwelling among strange rock formations",
+  "description": "You stand in a narrow dwelling among the bluff-scattered homes of\nSundhaven. Out of rectangular-etched windows you can make out\nodd Stonehenge-style formations of stone, giving the place an eerie\nfeel. It could make an excellent home, with enough gold to pay the\nprice of the lot.",
+  "header_raw": "67 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6785
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

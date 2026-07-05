@@ -1,0 +1,21 @@
+{
+  "id": 20137,
+  "zone_id": 201,
+  "name": "A Workshop",
+  "description": "A long working table stands in one corner of the room. Bottles of strange\nlooking potions and pieces of gold flakes are strewn all over the table.",
+  "header_raw": "201 521 0",
+  "flags_text": "521",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "A mysterious room.",
+      "keywords": "workshop",
+      "door_flag": 2,
+      "key": 20136,
+      "to": 20136
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/201.wld"
+}

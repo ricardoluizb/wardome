@@ -1,0 +1,29 @@
+{
+  "id": 849,
+  "zone_id": 7,
+  "name": "Graveyard",
+  "description": "This path leads through the graveyard south and west.  You notice\nseveral graves have been disturbed here, and one grave has been entirely\ndug up.  The bones of a dead dwarf lie exposed at the bottom of the \ngrave, its hands seemingly to clutch at the sky.  The tombstone at\nthe head of the grave is completely unreadable.",
+  "header_raw": "7 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 850
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 848
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

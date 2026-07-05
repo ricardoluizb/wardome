@@ -1,0 +1,29 @@
+{
+  "id": 806,
+  "zone_id": 7,
+  "name": "Passageway",
+  "description": "Once again you find yourself up against a normal-seeming door in\nthe north wall.  The passageway leads a little way south, and then\nruns up against a dead end.  One way to go, again.",
+  "header_raw": "7 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 807
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 805
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

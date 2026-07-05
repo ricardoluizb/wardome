@@ -1,0 +1,12 @@
+{
+  "id": 13512,
+  "alias": "warden petrified",
+  "short_desc": "the Petrified Warden",
+  "long_desc": "The Petrified Warden guards the way.",
+  "detailed_desc": "It wears the sneer of cold command upon its stony visage.",
+  "flags_raw": "10 0 -700 E",
+  "stats1_raw": "25 -10 -7 1d1+2496 5d5+100",
+  "stats2_raw": "375 98889 9",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/135.mob"
+}

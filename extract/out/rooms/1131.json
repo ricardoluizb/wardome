@@ -1,0 +1,29 @@
+{
+  "id": 1131,
+  "zone_id": 11,
+  "name": "Brandywine Bridge",
+  "description": "You stand on a solidly built bridge.  As you look down you spy gaily\ncolored fish swimming with the current of Brandywine River.  The cool water\nlooks invitingly refreshing and you get a sudden urge to strip and bathe in\nthe river, but you hear the laughter of women nearby and so resist the urge.\nDelving Lane extends to the north while Bywater Road can be seen to the south.",
+  "header_raw": "11 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see Delving Lane.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1132
+    },
+    {
+      "dir": 2,
+      "description": "To the south runs Bywater Road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1120
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

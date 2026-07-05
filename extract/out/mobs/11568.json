@@ -1,0 +1,12 @@
+{
+  "id": 11568,
+  "alias": "knight templar guildguard",
+  "short_desc": "the knight templar",
+  "long_desc": "A knight templar is guarding the entrance.",
+  "detailed_desc": "He is a specially trained warrior belonging to the military order of the\nFaith.  His duty is to protect the faithful from persecution and infidel\nattacks and his religious devotion combined with his superior skill makes him a\ndeadly opponent.",
+  "flags_raw": "4106 1024 0 E",
+  "stats1_raw": "50 -9 0 1d1+2196 5d6+40",
+  "stats2_raw": "750 514062 2",
+  "stats3_raw": "8 8 1 10 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

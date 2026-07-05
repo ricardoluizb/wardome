@@ -1,0 +1,29 @@
+{
+  "id": 13550,
+  "zone_id": 135,
+  "name": "The Kennel Of The Demised",
+  "description": "This chamber of hard stone is empty save for a sturdy iron ring set\nin the floor.  A large, heavy chain with collar at one end is attached\nto the ring.  Small print on the collar reads, 'Quietus.'",
+  "header_raw": "135 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13551
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13545
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

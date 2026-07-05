@@ -1,0 +1,29 @@
+{
+  "id": 14202,
+  "zone_id": 141,
+  "name": "Minoc",
+  "description": "The moongate has lead to the ocean side city of Minoc.  To the\nnorth, there is the sea; and to the south there is the town of\nMinoc.",
+  "header_raw": "141 4 0",
+  "flags_text": "4",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14215
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14204
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

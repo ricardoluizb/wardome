@@ -1,0 +1,854 @@
+{
+  "id": 13,
+  "name": "Wardome - Wax Museum",
+  "header": {
+    "raw": "1399 240 0 2 -1",
+    "min_room": 1399,
+    "top_room": 240,
+    "lifespan": 0,
+    "reset_mode": 2
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1258,
+        1,
+        1394
+      ],
+      "comment": "(Death Master)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1532,
+        1,
+        16
+      ],
+      "comment": "(&rScythe &Rof &rDeath&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1241,
+        1,
+        1393
+      ],
+      "comment": "(Rash)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1531,
+        1,
+        17
+      ],
+      "comment": "(Tail of Pisces)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        1393,
+        4,
+        2
+      ],
+      "comment": "(Evil Sanctuary of Holy Old Heroes from Wardome)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1242,
+        1,
+        1392
+      ],
+      "comment": "(Phoenix)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1530,
+        1,
+        17
+      ],
+      "comment": "(Vessel)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        1392,
+        4,
+        2
+      ],
+      "comment": "(Evil Sanctuary of Holy Old Heroes from Wardome)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1244,
+        1,
+        1391
+      ],
+      "comment": "(Drauglin)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1529,
+        1,
+        17
+      ],
+      "comment": "(Horns of Capricornio)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        1391,
+        4,
+        2
+      ],
+      "comment": "(Evil Sanctuary of Holy Old Heroes from Wardome)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1246,
+        1,
+        1390
+      ],
+      "comment": "(Mutante)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1528,
+        1,
+        17
+      ],
+      "comment": "(Arrow of Sagittarius)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        1390,
+        4,
+        2
+      ],
+      "comment": "(Evil Sanctuary of Holy Old Heroes from Wardome)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1243,
+        1,
+        1389
+      ],
+      "comment": "(Goga)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1527,
+        1,
+        17
+      ],
+      "comment": "(Sting of Scorpion)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        1389,
+        4,
+        2
+      ],
+      "comment": "(Evil Sanctuary of Holy Old Heroes from Wardome)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1245,
+        1,
+        1387
+      ],
+      "comment": "(Argrim)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1526,
+        1,
+        17
+      ],
+      "comment": "(Equilibrium)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        1387,
+        4,
+        2
+      ],
+      "comment": "(Evil Sanctuary of Holy Old Heroes from Wardome)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1249,
+        1,
+        1385
+      ],
+      "comment": "(Borgon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1525,
+        1,
+        17
+      ],
+      "comment": "(Bloody Dagger of Virgos)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        1385,
+        4,
+        2
+      ],
+      "comment": "(Evil Sanctuary of Holy Old Heroes from Wardome)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1248,
+        1,
+        1384
+      ],
+      "comment": "(Melvus)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1524,
+        1,
+        17
+      ],
+      "comment": "(Nemean Lion Skin)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        1384,
+        4,
+        2
+      ],
+      "comment": "(Evil Sanctuary of Holy Old Heroes from Wardome)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1247,
+        1,
+        1383
+      ],
+      "comment": "(MasK)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1523,
+        1,
+        17
+      ],
+      "comment": "(Shell of Cancer)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        1383,
+        4,
+        2
+      ],
+      "comment": "(Evil Sanctuary of Holy Old Heroes from Wardome)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1255,
+        1,
+        1382
+      ],
+      "comment": "(Beowulf)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        1256,
+        1,
+        1382
+      ],
+      "comment": "(Morlock)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1522,
+        1,
+        17
+      ],
+      "comment": "(Mask of Gemini)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        1382,
+        4,
+        2
+      ],
+      "comment": "(Evil Sanctuary of Holy Old Heroes from Wardome)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1254,
+        1,
+        1381
+      ],
+      "comment": "(Pharn)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1521,
+        1,
+        17
+      ],
+      "comment": "(Hoof of Taurus)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        1381,
+        4,
+        2
+      ],
+      "comment": "(Evil Sanctuary of Holy Old Heroes from Wardome)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1253,
+        1,
+        1380
+      ],
+      "comment": "(Ark)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1520,
+        1,
+        17
+      ],
+      "comment": "(Horns of Aries)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        1380,
+        4,
+        2
+      ],
+      "comment": "(Evil Sanctuary of Holy Old Heroes from Wardome)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6710,
+        1,
+        1340
+      ],
+      "comment": "(a mendicant)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1359,
+        0,
+        2
+      ],
+      "comment": "(Dark Temple X)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1359,
+        2,
+        2
+      ],
+      "comment": "(Dark Temple X)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        61,
+        1,
+        1359
+      ],
+      "comment": "(Diagoras \"My heart bleeds for you\" [Clan \"Do'Urden\"])"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1399,
+        1,
+        -1
+      ],
+      "comment": "(10# Free passage)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1297,
+        1,
+        16
+      ],
+      "comment": "(&GFlaming Bow&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1358,
+        5,
+        2
+      ],
+      "comment": "(Dark Temple IX)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        52,
+        1,
+        1358
+      ],
+      "comment": "(Vierna The Rieper [Clan \"Do'Urden\"])"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1398,
+        1,
+        -1
+      ],
+      "comment": "(9# Free passage)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1292,
+        1,
+        16
+      ],
+      "comment": "(&GThe Giant Axe named &rCut Life&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        58,
+        1,
+        1356
+      ],
+      "comment": "(undefined)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1298,
+        10,
+        5
+      ],
+      "comment": "(&GThe Green Cap with a D on it&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1396,
+        1,
+        -1
+      ],
+      "comment": "(7# Free passage)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1356,
+        5,
+        2
+      ],
+      "comment": "(Dark Temple VII)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        54,
+        1,
+        1355
+      ],
+      "comment": "(Belwar \"Dissengulp\" [Clan \"Do'Urden\"])"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1295,
+        10,
+        5
+      ],
+      "comment": "(&GThe Green Plate with a encarved D on it&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1395,
+        1,
+        -1
+      ],
+      "comment": "(6# Free passage)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1355,
+        5,
+        2
+      ],
+      "comment": "(Dark Temple VI)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        55,
+        1,
+        1354
+      ],
+      "comment": "(Clacker The Crazy [Clan \"Do'Urden\"])"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1295,
+        10,
+        5
+      ],
+      "comment": "(&GThe Green Plate with a encarved D on it&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1394,
+        1,
+        -1
+      ],
+      "comment": "(5# Free passage)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1354,
+        5,
+        2
+      ],
+      "comment": "(Dark Temple V)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        57,
+        1,
+        1353
+      ],
+      "comment": "(Lady Alustriel \"Kiss of Death\" [Clan \"Do'Urden\"])"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1295,
+        10,
+        5
+      ],
+      "comment": "(&GThe Green Plate with a encarved D on it&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1393,
+        1,
+        -1
+      ],
+      "comment": "(4# Free passage)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1353,
+        5,
+        2
+      ],
+      "comment": "(Dark Temple IV)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        59,
+        1,
+        1352
+      ],
+      "comment": "(Bruenor Battlehammer \"The Large Thing\" [Clan \"Do'Urden\"])"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1392,
+        1,
+        -1
+      ],
+      "comment": "(3# Free passage)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1295,
+        10,
+        5
+      ],
+      "comment": "(&GThe Green Plate with a encarved D on it&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        1352,
+        5,
+        2
+      ],
+      "comment": "(Dark Temple III)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1296,
+        1,
+        16
+      ],
+      "comment": "(&GBrutal Morning Star&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        80,
+        1,
+        1360
+      ],
+      "comment": "(Vishnu The Supreme Avatar Os Generais Divinos de Dehva)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1360,
+        3,
+        2
+      ],
+      "comment": "(Prision Chamber)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        1357,
+        5,
+        2
+      ],
+      "comment": "(Dark Temple VIII)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        53,
+        1,
+        1357
+      ],
+      "comment": "(Guenhwyvar The Immortal [Clan \"Do'Urden\"])"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1397,
+        1,
+        -1
+      ],
+      "comment": "(8# Free passage)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        60,
+        1,
+        1351
+      ],
+      "comment": "(Repturs The Lizzard [Clan \"Do'Urden\"])"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1391,
+        1,
+        -1
+      ],
+      "comment": "(2# Free passage)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1294,
+        1,
+        21
+      ],
+      "comment": "(&GPoisoned tongue&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1295,
+        1,
+        5
+      ],
+      "comment": "(&GThe Green Plate with a encarved D on it&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        1351,
+        5,
+        2
+      ],
+      "comment": "(Dark Temple II)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        56,
+        1,
+        1350
+      ],
+      "comment": "(Montolio The Blind [Clan \"Do'Urden\"])"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        1298,
+        1,
+        12
+      ],
+      "comment": "(&GThe Green Cap with a D on it&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        1350,
+        5,
+        2
+      ],
+      "comment": "(Dark Temple I)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        1390,
+        1,
+        -1
+      ],
+      "comment": "(1# Free passage)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/13.zon"
+}

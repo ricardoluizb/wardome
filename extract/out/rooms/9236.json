@@ -1,0 +1,21 @@
+{
+  "id": 9236,
+  "zone_id": 92,
+  "name": "Water Chamber",
+  "description": "This chamber was magically created here on the floor of the bay.  It looks\nlike it's been here for a long, long time.  Though you are 'under water' there\nis no difficulty breathing normally, and oddly you do not feel the pressure of\nthe water above you.",
+  "header_raw": "92 8 6",
+  "flags_text": "8",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9235
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/92.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1112,
+  "alias": "oldstyle thain",
+  "short_desc": "the Thain",
+  "long_desc": "The Thain commands respect from all Shire folk.",
+  "detailed_desc": "A personable yet serious halfling, the Thain looks at you and yells a\ndeep 'Hullo'.  He walks about comfortably, secure in the knowledge that\nas long as he's in office, the Shire will always remain a safe haven for\nShire folk.",
+  "flags_raw": "74 0 400 E",
+  "stats1_raw": "90 -29 -6 1d1+3960 5d10+56",
+  "stats2_raw": "1350 2658738 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/11.mob"
+}

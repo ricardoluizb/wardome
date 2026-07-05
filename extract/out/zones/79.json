@@ -2,11 +2,11 @@
   "id": 79,
   "name": "Redferne's Residence",
   "header": {
-    "raw": "7900 7999 50 2",
-    "min_room": 7900,
-    "top_room": 7999,
-    "lifespan": 50,
-    "reset_mode": 2
+    "raw": "7999 50 2 1",
+    "min_room": 7999,
+    "top_room": 50,
+    "lifespan": 2,
+    "reset_mode": 1
   },
   "commands": [
     {
@@ -17,7 +17,7 @@
         1,
         7900
       ],
-      "comment": "Grand Knight of Paladins"
+      "comment": "(the Grand Knight of Paladins)"
     },
     {
       "cmd": "E",
@@ -27,7 +27,7 @@
         4,
         17
       ],
-      "comment": "Copper Key"
+      "comment": "(a copper key)"
     },
     {
       "cmd": "E",
@@ -37,7 +37,7 @@
         2,
         16
       ],
-      "comment": "Bastard Sword"
+      "comment": "(a huge bastard sword)"
     },
     {
       "cmd": "E",
@@ -47,7 +47,7 @@
         2,
         5
       ],
-      "comment": "Silvery Breast-Plate"
+      "comment": "(a silvery breast plate)"
     },
     {
       "cmd": "E",
@@ -57,7 +57,7 @@
         2,
         7
       ],
-      "comment": "Silvery Leg Plates"
+      "comment": "(some silvery leg plates)"
     },
     {
       "cmd": "E",
@@ -67,7 +67,7 @@
         2,
         9
       ],
-      "comment": "Silvery Gloves"
+      "comment": "(a pair of silvery gloves)"
     },
     {
       "cmd": "E",
@@ -77,7 +77,7 @@
         2,
         6
       ],
-      "comment": "Silvery Helmet"
+      "comment": "(a silvery helmet)"
     },
     {
       "cmd": "E",
@@ -87,7 +87,7 @@
         2,
         11
       ],
-      "comment": "Shield of the Rose"
+      "comment": "(the shield of the rose)"
     },
     {
       "cmd": "E",
@@ -97,7 +97,7 @@
         2,
         8
       ],
-      "comment": "Heavy Boots"
+      "comment": "(a pair of heavy plated boots)"
     },
     {
       "cmd": "E",
@@ -107,7 +107,17 @@
         2,
         10
       ],
-      "comment": "Silvery Arm Plates"
+      "comment": "(some silvery arm plates)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7900,
+        0,
+        2
+      ],
+      "comment": "(Outside Redferne's Residence)"
     },
     {
       "cmd": "M",
@@ -117,16 +127,17 @@
         2,
         7907
       ],
-      "comment": "Rat"
+      "comment": "(the large rat)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         7900,
-        1
+        1,
+        -1
       ],
-      "comment": "Brass Key"
+      "comment": "(a large key)"
     },
     {
       "cmd": "M",
@@ -136,7 +147,7 @@
         2,
         7907
       ],
-      "comment": "Rat"
+      "comment": "(the large rat)"
     },
     {
       "cmd": "M",
@@ -146,7 +157,7 @@
         1,
         7913
       ],
-      "comment": "The Cleaver"
+      "comment": "(the Cleaver)"
     },
     {
       "cmd": "E",
@@ -156,7 +167,7 @@
         6,
         14
       ],
-      "comment": "Spiked Bracelet"
+      "comment": "(a large spiked bracelet)"
     },
     {
       "cmd": "E",
@@ -166,7 +177,7 @@
         6,
         15
       ],
-      "comment": "Spiked Bracelet"
+      "comment": "(a large spiked bracelet)"
     },
     {
       "cmd": "E",
@@ -176,25 +187,27 @@
         2,
         6
       ],
-      "comment": "Large Helmet"
+      "comment": "(a large helmet)"
     },
     {
       "cmd": "G",
       "args": [
         1,
         7902,
-        1
+        1,
+        -1
       ],
-      "comment": "Steel Key"
+      "comment": "(a small brass key)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         7907,
-        7908
+        7908,
+        -1
       ],
-      "comment": ""
+      "comment": "(a waybread)"
     },
     {
       "cmd": "O",
@@ -204,16 +217,17 @@
         40,
         7907
       ],
-      "comment": "Waybread"
+      "comment": "(a waybread)"
     },
     {
       "cmd": "R",
       "args": [
         0,
         7908,
-        7921
+        7921,
+        -1
       ],
-      "comment": ""
+      "comment": "(a barrel)"
     },
     {
       "cmd": "O",
@@ -223,16 +237,7 @@
         10,
         7908
       ],
-      "comment": "Water Barrel"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        7903,
-        7904
-      ],
-      "comment": ""
+      "comment": "(a barrel)"
     },
     {
       "cmd": "O",
@@ -242,7 +247,7 @@
         1,
         7903
       ],
-      "comment": "Chest"
+      "comment": "(a wooden chest)"
     },
     {
       "cmd": "P",
@@ -252,7 +257,7 @@
         1,
         7904
       ],
-      "comment": "Money"
+      "comment": "(a huge treasure)"
     },
     {
       "cmd": "P",
@@ -262,16 +267,7 @@
         4,
         7904
       ],
-      "comment": "Golden Ring"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        7913,
-        7905
-      ],
-      "comment": ""
+      "comment": "(a golden ring)"
     },
     {
       "cmd": "O",
@@ -281,7 +277,7 @@
         1,
         7913
       ],
-      "comment": "Chest"
+      "comment": "(a chest)"
     },
     {
       "cmd": "P",
@@ -291,7 +287,7 @@
         5,
         7905
       ],
-      "comment": ""
+      "comment": "(a plain dagger)"
     },
     {
       "cmd": "P",
@@ -301,7 +297,7 @@
         3,
         7905
       ],
-      "comment": "Chaos Helmet"
+      "comment": "(a chaos helmet)"
     },
     {
       "cmd": "P",
@@ -311,17 +307,7 @@
         2,
         7905
       ],
-      "comment": "Two-Handed Sword"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        7900,
-        0,
-        2
-      ],
-      "comment": "Residence Door"
+      "comment": "(a two-handed sword)"
     },
     {
       "cmd": "D",
@@ -331,7 +317,7 @@
         2,
         2
       ],
-      "comment": ""
+      "comment": "(The Southern End Of The Hall)"
     },
     {
       "cmd": "D",
@@ -341,7 +327,7 @@
         1,
         1
       ],
-      "comment": "Treasure Room Door"
+      "comment": "(The Southern End Of The Hall)"
     },
     {
       "cmd": "D",
@@ -351,7 +337,7 @@
         3,
         1
       ],
-      "comment": ""
+      "comment": "(The Treasure Room)"
     },
     {
       "cmd": "D",
@@ -361,7 +347,7 @@
         3,
         1
       ],
-      "comment": "Library Door"
+      "comment": "(The Southern End Of The Hall)"
     },
     {
       "cmd": "D",
@@ -371,7 +357,7 @@
         1,
         1
       ],
-      "comment": ""
+      "comment": "(Redferne's Library)"
     },
     {
       "cmd": "D",
@@ -381,7 +367,7 @@
         1,
         2
       ],
-      "comment": "Safe Entrance"
+      "comment": "(The Treasure Room)"
     },
     {
       "cmd": "D",
@@ -391,7 +377,7 @@
         3,
         2
       ],
-      "comment": ""
+      "comment": "(The Artifact Room Of Naris)"
     },
     {
       "cmd": "D",
@@ -401,7 +387,7 @@
         1,
         1
       ],
-      "comment": "Monster Pen Door"
+      "comment": "(The Northern End Of The Hall)"
     },
     {
       "cmd": "D",
@@ -411,7 +397,7 @@
         3,
         1
       ],
-      "comment": ""
+      "comment": "(The Monster Pen)"
     },
     {
       "cmd": "D",
@@ -421,7 +407,7 @@
         3,
         1
       ],
-      "comment": "Sitting Room Door"
+      "comment": "(The Northern End Of The Hall)"
     },
     {
       "cmd": "D",
@@ -431,7 +417,7 @@
         1,
         1
       ],
-      "comment": ""
+      "comment": "(The Sitting Room Of Naris)"
     },
     {
       "cmd": "D",
@@ -441,7 +427,7 @@
         0,
         1
       ],
-      "comment": "Larder Door"
+      "comment": "(The Kitchen Of Naris)"
     },
     {
       "cmd": "D",
@@ -451,7 +437,7 @@
         2,
         1
       ],
-      "comment": ""
+      "comment": "(The Larder)"
     },
     {
       "cmd": "D",
@@ -461,7 +447,7 @@
         1,
         1
       ],
-      "comment": "Fridge Door"
+      "comment": "(The Kitchen Of Naris)"
     },
     {
       "cmd": "D",
@@ -471,7 +457,7 @@
         3,
         1
       ],
-      "comment": ""
+      "comment": "(The Fridge)"
     },
     {
       "cmd": "D",
@@ -481,7 +467,7 @@
         2,
         1
       ],
-      "comment": "Balcony Doors"
+      "comment": "(Redferne's Bedroom)"
     },
     {
       "cmd": "D",
@@ -491,8 +477,8 @@
         0,
         1
       ],
-      "comment": ""
+      "comment": "(Redferne's Balcony)"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/79.zon"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/79.zon"
 }

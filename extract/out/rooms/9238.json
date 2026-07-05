@@ -1,0 +1,29 @@
+{
+  "id": 9238,
+  "zone_id": 92,
+  "name": "A Fiery Pathway",
+  "description": "You tread carefully along a path which dips and turns among pits of fire and\nbeds of coals.  A garden to the west glows with an everlasting fire.",
+  "header_raw": "92 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9237
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9242
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/92.wld"
+}

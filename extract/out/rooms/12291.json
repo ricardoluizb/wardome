@@ -1,0 +1,29 @@
+{
+  "id": 12291,
+  "zone_id": 122,
+  "name": "The Entrance Hall",
+  "description": "The gates open onto a long hallway, lit by guttering torches that belch\nforth volumes of smoke from their metal sconces set in the wood support\nbeams of the walls. Bearskins line the stone floor, and various weapons\nline the walls, interspersed by other trophies and ornaments; most notably\nvarious artifacts of the giants, taken in war by Odin or his legions.",
+  "header_raw": "122 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12299
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 1,
+      "key": -1,
+      "to": 12290
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

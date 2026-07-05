@@ -1,0 +1,29 @@
+{
+  "id": 5830,
+  "zone_id": 57,
+  "name": "A Bend",
+  "description": "You are standing at a bend in the corridor, where you can head north to a\njunction or east to another junction.\n\nYou fancy you can smell brimstone...",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a junction",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5826
+    },
+    {
+      "dir": 1,
+      "description": "a junction",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5831
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

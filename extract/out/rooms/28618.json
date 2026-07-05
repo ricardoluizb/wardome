@@ -1,0 +1,61 @@
+{
+  "id": 28618,
+  "zone_id": 286,
+  "name": "Wandering the Dragon Village .",
+  "description": "You find yourself floating in a field of blackness, filled with tiny\ntendrils of silvery light and insubstantial shining motes of dust.  The\nweightlessness of this environment is highly disorienting. Nearby you see a\nlarge silvery strand of light.\n   Most exits lead off into the Dragon Village field.",
+  "header_raw": "286 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The Dragon Village field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28609
+    },
+    {
+      "dir": 1,
+      "description": "The Dragon Village field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28614
+    },
+    {
+      "dir": 2,
+      "description": "The Dragon Village field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28613
+    },
+    {
+      "dir": 3,
+      "description": "The Dragon Village field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28626
+    },
+    {
+      "dir": 4,
+      "description": "The Dragon Village field leads off into infinity.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28633
+    },
+    {
+      "dir": 5,
+      "description": "You see a tangible strand of silvery light.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28636
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/286.wld"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 20107,
+  "zone_id": 201,
+  "name": "The Main Court",
+  "description": "Large pieces of stone slabs cover\nPots of plants and flowers line the sides of the court.  This place\nlooks simple, and well-maintained.  Exits leads to all directions.",
+  "header_raw": "201 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Grand Hall.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20119
+    },
+    {
+      "dir": 1,
+      "description": "A side court.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20113
+    },
+    {
+      "dir": 2,
+      "description": "Entrance to temple.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20106
+    },
+    {
+      "dir": 3,
+      "description": "A side court.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20108
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/201.wld"
+}

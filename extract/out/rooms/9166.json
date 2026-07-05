@@ -1,0 +1,45 @@
+{
+  "id": 9166,
+  "zone_id": 91,
+  "name": "Front door",
+  "description": "You stand at the front door of an immense, sprawling mansion made\nof granite and marble.  The door is at least 10 feet high and is\nmade of oak.",
+  "header_raw": "91 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9173
+    },
+    {
+      "dir": 2,
+      "description": "You see an ornate oak door.",
+      "keywords": "oak door",
+      "door_flag": 2,
+      "key": -1,
+      "to": 9177
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9167
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9165
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

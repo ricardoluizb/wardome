@@ -1,0 +1,26 @@
+{
+  "id": 17378,
+  "zone_id": 173,
+  "name": "Noble's Chambers",
+  "description": "You are tresspassing in a Nobles chamber. He negligently forgot to lock his \ndoor, relying upon the honor of all within Camelot to protect his posessions.\nThe chambers consist of a common room, several bed chambers, and a servant \narea.",
+  "header_raw": "173 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "Noble's Quarters",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 17338,
+      "to": 17366
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "possessions",
+      "description": "Nothing here you really need."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

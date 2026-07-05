@@ -1,0 +1,29 @@
+{
+  "id": 10524,
+  "zone_id": 104,
+  "name": "Stanley's Magical Steeds",
+  "description": "This is the shop of Stanly. He used to be an old mage selling cursed\ntrinkets at the town of Solace. He has recently set up shop in Hell selling\nmagical figurines. Each figurine is in the shape of some sort of steed.\nSome are recognizable and some are not. Rumor has it that Stanley made\na deal with a devil....so I guess his lease is up in seven years.....\nA courtyard is to the west.\nTo the south you see the Mall from Hell.",
+  "header_raw": "104 153 0",
+  "flags_text": "153",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see a hallway of the Mall from Hell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10534
+    },
+    {
+      "dir": 3,
+      "description": "You see an abandon courtyard.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10523
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

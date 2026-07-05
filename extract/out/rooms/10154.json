@@ -1,0 +1,21 @@
+{
+  "id": 10154,
+  "zone_id": 101,
+  "name": "The large cave",
+  "description": "You are in the east end of the large cave.",
+  "header_raw": "101 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10153
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/101.wld"
+}

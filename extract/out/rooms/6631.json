@@ -1,0 +1,21 @@
+{
+  "id": 6631,
+  "zone_id": 66,
+  "name": "Baltazar Secret Room",
+  "description": "You are in Baltazar secret room, it is very small and dark, only a undead\nlike him could leave here.",
+  "header_raw": "66 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6628
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/66.wld"
+}

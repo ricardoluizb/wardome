@@ -1,0 +1,29 @@
+{
+  "id": 400,
+  "zone_id": 4,
+  "name": "&YT&yhe &YL&yegendary &YC&yastle of &YT&yhe &YG&yods&n",
+  "description": "&n   You stand at the entrance of an awesome castle... then, you realize that it\nmust be the &YLegendary Castle of the &BMighty Gods of &RWardome&n! It sure is the most\nwonderful building you've ever saw...\n&n   You may enter the castle by going north of here, or you may return to the\n&RNew Market Square&n by going down.",
+  "header_raw": "4 240 0",
+  "flags_text": "240",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "0",
+      "door_flag": 0,
+      "key": 0,
+      "to": 401
+    },
+    {
+      "dir": 5,
+      "description": "This exit will take you to New Market Square.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 525
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/4.wld"
+}

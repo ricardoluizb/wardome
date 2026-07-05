@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "Entrance To The Thieves' Guild",
   "description": "This small, dark room has a single torch mounted in the wall for\nlight. There is a small wooden bench and a book lying on it.  The\nassassin guarding the entrance from 'outsiders' stands as you walk\nin.",
-  "header_raw": "54 adeh 0",
-  "flags_text": "adeh",
+  "header_raw": "54 153 0",
+  "flags_text": "153",
   "sector": 0,
   "exits": [
     {

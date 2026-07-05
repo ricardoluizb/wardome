@@ -1,29 +1,29 @@
 {
   "id": 3205,
-  "zone_id": 31,
-  "name": "On The River",
-  "description": "The river enters from a hole in the eastern city wall.  The hole has been\nblocked by several vertically positioned iron bars set into the wall.",
-  "header_raw": "31 0 7",
+  "zone_id": 32,
+  "name": "The Temple",
+  "description": "The echo of your footsteps reverberates through the temple.  Everything is\nwhite, the tiled floor, the walls, the ceiling.....",
+  "header_raw": "32 0 0",
   "flags_text": "0",
-  "sector": 7,
+  "sector": 0,
   "exits": [
     {
-      "dir": 1,
-      "description": "The iron bars make it difficult to pass through the hole in the wall.\nBeyond the bars you see that the river leads into a cavern below the\nmountain range to the east.",
+      "dir": 0,
+      "description": "",
       "keywords": "",
       "door_flag": 0,
-      "key": -1,
-      "to": 5001
+      "key": 0,
+      "to": 3208
     },
     {
       "dir": 3,
       "description": "",
       "keywords": "",
       "door_flag": 0,
-      "key": -1,
+      "key": 0,
       "to": 3204
     }
   ],
   "extra_descriptions": [],
-  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/31.wld"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/32.wld"
 }

@@ -3,8 +3,8 @@
   "zone_id": 72,
   "name": "Under Water In The Sewer",
   "description": "You are swimming in some dirty water and are holding your breath.  You'd\nbetter continue onwards before you drown.  It is a good thing that you can\nhold your light above the water-level.",
-  "header_raw": "72 ad 6",
-  "flags_text": "ad",
+  "header_raw": "72 9 6",
+  "flags_text": "9",
   "sector": 6,
   "exits": [
     {

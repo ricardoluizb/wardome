@@ -4,9 +4,9 @@
   "short_desc": "the Ki-Rin",
   "long_desc": "The Ki-Rin smiles good-naturedly to you.",
   "detailed_desc": "She is the last bastion of good in this realm.  Her mission is to\nsomeday free the slaves of the Empress.  She has been trapped here for\ntime eternal, and now the evil power of Arachnos feeds upon her intense\nmagical energies.  She will never give up here fight against evil,\nthough, and will continue her work in whatever manner presents itself.",
-  "flags_raw": "abcilno dk 1000 S",
-  "stats1_raw": "26 0 -4 10d8+2500 4d4+22",
-  "stats2_raw": "15000 170000",
-  "stats3_raw": "8 8 2",
+  "flags_raw": "26927 1032 1000 E",
+  "stats1_raw": "126 -43 -8 1d1+3528 5d13+50",
+  "stats2_raw": "1890 5660819 0",
+  "stats3_raw": "8 8 2 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/63.mob"
 }

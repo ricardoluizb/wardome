@@ -1,0 +1,21 @@
+{
+  "id": 2751,
+  "zone_id": 27,
+  "name": "Post Office",
+  "description": "This is the local Post Office of Bri. You can 'register' for a box so you can\nsend and receive mail here. A heavyset, slightly balding man, sweating\nprofusely sits on a chair behind a counter sorting mail.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2748
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 25021,
+  "zone_id": 250,
+  "name": "Darker Caves",
+  "description": "You can barely see your way even with a light source.  The rocks of the cave\nare even darker than the darkness.  You hear a powerful humming all around you.\nCave paths go south and east roughly, its hard to tell exactly when you can't\nsee where you are going.",
+  "header_raw": "250 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 25022
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 25023
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 25020
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/250.wld"
+}

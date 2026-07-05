@@ -1,0 +1,21 @@
+{
+  "id": 1720,
+  "zone_id": 16,
+  "name": "Eastern Path in Dark Forest",
+  "description": "You are on an east-west path through extremely old growths of oak.  The path\nis fairly faint here.  Undergrowth closes in so closely that little can\nbe seen in any direction.",
+  "header_raw": "16 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "The path continues west through thick forest.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1708
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

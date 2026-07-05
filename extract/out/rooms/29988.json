@@ -1,0 +1,29 @@
+{
+  "id": 29988,
+  "zone_id": 298,
+  "name": "Road through the plains",
+  "description": "These are the plains that will lead you to Rohan with a long travel westwards.\nYou can also reach the Fangorn Forest to traveling a while to the north.  \nThere is a vast vision of all the plain in this elevated place you are.",
+  "header_raw": "298 76 3",
+  "flags_text": "76",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29989
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29986
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/299.wld"
+}

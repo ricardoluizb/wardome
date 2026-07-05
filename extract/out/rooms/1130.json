@@ -1,0 +1,45 @@
+{
+  "id": 1130,
+  "zone_id": 11,
+  "name": "Western end of grassy field",
+  "description": "You stand in a grassy field--nothing to get too excited about.  The field\nextends every which way but west.",
+  "header_raw": "11 16785408 2",
+  "flags_text": "16785408",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1185
+    },
+    {
+      "dir": 1,
+      "description": "You see a grassy field.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1128
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1193
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 15003
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

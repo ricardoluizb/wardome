@@ -1,0 +1,1674 @@
+{
+  "id": 77,
+  "name": "The Astral Universe",
+  "header": {
+    "raw": "7799 50 1 9 -1",
+    "min_room": 7799,
+    "top_room": 50,
+    "lifespan": 1,
+    "reset_mode": 9
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7707,
+        8,
+        7751
+      ],
+      "comment": "(a githyanki guardian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7708,
+        20,
+        16
+      ],
+      "comment": "(an extremely sharp and thin sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7715,
+        20,
+        5
+      ],
+      "comment": "(a splint mail vest)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7707,
+        8,
+        7751
+      ],
+      "comment": "(a githyanki guardian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7715,
+        20,
+        5
+      ],
+      "comment": "(a splint mail vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7708,
+        20,
+        16
+      ],
+      "comment": "(an extremely sharp and thin sword)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7751,
+        1,
+        1
+      ],
+      "comment": "(A guard station)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7751,
+        3,
+        1
+      ],
+      "comment": "(A guard station)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7751,
+        2,
+        1
+      ],
+      "comment": "(A guard station)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7716,
+        2,
+        7772
+      ],
+      "comment": "(an imprisoned githzerai)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7772,
+        0,
+        1
+      ],
+      "comment": "(A tiny cell)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7770,
+        0,
+        1
+      ],
+      "comment": "(The cellblock)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7770,
+        2,
+        1
+      ],
+      "comment": "(The cellblock)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7717,
+        2,
+        7771
+      ],
+      "comment": "(a tortured mindflayer prisoner)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7771,
+        2,
+        1
+      ],
+      "comment": "(A cramped cell)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7711,
+        10,
+        7753
+      ],
+      "comment": "(an evil gish)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7706,
+        10,
+        16
+      ],
+      "comment": "(a silvery knife)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7753,
+        1,
+        1
+      ],
+      "comment": "(A grey road)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7753,
+        3,
+        1
+      ],
+      "comment": "(A grey road)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7711,
+        10,
+        7762
+      ],
+      "comment": "(an evil gish)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7706,
+        10,
+        16
+      ],
+      "comment": "(a silvery knife)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7722,
+        4,
+        -1
+      ],
+      "comment": "(a silvery-colored potion)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7762,
+        3,
+        1
+      ],
+      "comment": "(A small building)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7750,
+        0,
+        1
+      ],
+      "comment": "(Inside the Githyanki Keep)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7761,
+        0,
+        1
+      ],
+      "comment": "(A grey road)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7711,
+        10,
+        7763
+      ],
+      "comment": "(an evil gish)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7706,
+        10,
+        16
+      ],
+      "comment": "(a silvery knife)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7722,
+        4,
+        -1
+      ],
+      "comment": "(a silvery-colored potion)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7763,
+        2,
+        1
+      ],
+      "comment": "(A small building)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7707,
+        8,
+        7765
+      ],
+      "comment": "(a githyanki guardian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7715,
+        20,
+        5
+      ],
+      "comment": "(a splint mail vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7708,
+        20,
+        16
+      ],
+      "comment": "(an extremely sharp and thin sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7707,
+        8,
+        7765
+      ],
+      "comment": "(a githyanki guardian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7708,
+        20,
+        16
+      ],
+      "comment": "(an extremely sharp and thin sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7715,
+        20,
+        5
+      ],
+      "comment": "(a splint mail vest)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7765,
+        3,
+        1
+      ],
+      "comment": "(The Githyanki Weaponry)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7760,
+        1,
+        1
+      ],
+      "comment": "(A grey road)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7718,
+        1,
+        7768
+      ],
+      "comment": "(the enslaved red dragon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7713,
+        2,
+        0
+      ],
+      "comment": "(a brightly flaming stone)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7719,
+        5,
+        7768
+      ],
+      "comment": "(a massive blast of fire)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7719,
+        5,
+        7768
+      ],
+      "comment": "(a massive blast of fire)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7719,
+        5,
+        7768
+      ],
+      "comment": "(a massive blast of fire)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7719,
+        5,
+        7768
+      ],
+      "comment": "(a massive blast of fire)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7719,
+        5,
+        7768
+      ],
+      "comment": "(a massive blast of fire)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7768,
+        3,
+        1
+      ],
+      "comment": "(Inside the furnace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7707,
+        8,
+        7767
+      ],
+      "comment": "(a githyanki guardian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7715,
+        20,
+        5
+      ],
+      "comment": "(a splint mail vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7708,
+        20,
+        16
+      ],
+      "comment": "(an extremely sharp and thin sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7707,
+        8,
+        7767
+      ],
+      "comment": "(a githyanki guardian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7708,
+        20,
+        16
+      ],
+      "comment": "(an extremely sharp and thin sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7715,
+        20,
+        5
+      ],
+      "comment": "(a splint mail vest)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7767,
+        3,
+        1
+      ],
+      "comment": "(The Githyanki Armoury)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7758,
+        1,
+        1
+      ],
+      "comment": "(A grey road)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7757,
+        0,
+        1
+      ],
+      "comment": "(A grey road)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7712,
+        5,
+        7773
+      ],
+      "comment": "(a warlock of the Gith)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7710,
+        5,
+        16
+      ],
+      "comment": "(a silvery sword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7703,
+        4,
+        -1
+      ],
+      "comment": "(a scroll with githyanki writings on it)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7773,
+        2,
+        1
+      ],
+      "comment": "(A large dwelling)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7712,
+        5,
+        7764
+      ],
+      "comment": "(a warlock of the Gith)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7710,
+        5,
+        16
+      ],
+      "comment": "(a silvery sword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7703,
+        4,
+        -1
+      ],
+      "comment": "(a scroll with githyanki writings on it)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7764,
+        0,
+        1
+      ],
+      "comment": "(A large dwelling)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7756,
+        2,
+        1
+      ],
+      "comment": "(A grey road)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7709,
+        2,
+        7776
+      ],
+      "comment": "(a githyanki protector)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7709,
+        20,
+        16
+      ],
+      "comment": "(a thin two-handed sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7715,
+        20,
+        5
+      ],
+      "comment": "(a splint mail vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7716,
+        20,
+        7
+      ],
+      "comment": "(a splint mail skirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7717,
+        20,
+        10
+      ],
+      "comment": "(a pair of splint mail sleeves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7718,
+        10,
+        9
+      ],
+      "comment": "(a pair of ornately designed gauntlets)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7709,
+        2,
+        7776
+      ],
+      "comment": "(a githyanki protector)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7709,
+        20,
+        16
+      ],
+      "comment": "(a thin two-handed sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7715,
+        20,
+        5
+      ],
+      "comment": "(a splint mail vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7716,
+        20,
+        7
+      ],
+      "comment": "(a splint mail skirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7717,
+        20,
+        10
+      ],
+      "comment": "(a pair of splint mail sleeves)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7718,
+        10,
+        9
+      ],
+      "comment": "(a pair of ornately designed gauntlets)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7776,
+        2,
+        1
+      ],
+      "comment": "(The Altar Chamber)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7775,
+        0,
+        1
+      ],
+      "comment": "(North End of the Hall)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7712,
+        5,
+        7774
+      ],
+      "comment": "(a warlock of the Gith)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7710,
+        5,
+        16
+      ],
+      "comment": "(a silvery sword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7703,
+        4,
+        -1
+      ],
+      "comment": "(a scroll with githyanki writings on it)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7712,
+        5,
+        7774
+      ],
+      "comment": "(a warlock of the Gith)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7710,
+        5,
+        16
+      ],
+      "comment": "(a silvery sword)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7703,
+        4,
+        -1
+      ],
+      "comment": "(a scroll with githyanki writings on it)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7774,
+        2,
+        1
+      ],
+      "comment": "(South End of the Hall)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7708,
+        2,
+        7755
+      ],
+      "comment": "(a githyanki knight)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7709,
+        20,
+        16
+      ],
+      "comment": "(a thin two-handed sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7715,
+        20,
+        5
+      ],
+      "comment": "(a splint mail vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7716,
+        20,
+        7
+      ],
+      "comment": "(a splint mail skirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7717,
+        20,
+        10
+      ],
+      "comment": "(a pair of splint mail sleeves)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7755,
+        0,
+        1
+      ],
+      "comment": "(A grey road)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7714,
+        1,
+        7779
+      ],
+      "comment": "(Lord Gith)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7712,
+        2,
+        16
+      ],
+      "comment": "(the unholy sword of the githyanki)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7719,
+        2,
+        5
+      ],
+      "comment": "(a decaying vest made from cracked leather)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7725,
+        2,
+        -1
+      ],
+      "comment": "(a rotting pouch)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7777,
+        5,
+        1
+      ],
+      "comment": "(Before the Altar)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7713,
+        1,
+        7777
+      ],
+      "comment": "(the lich-queen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7711,
+        2,
+        16
+      ],
+      "comment": "(an iron barbed flail)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7724,
+        1,
+        -1
+      ],
+      "comment": "(a black pentagram)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7702,
+        3,
+        -1
+      ],
+      "comment": "(a black etched tablet)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7711,
+        10,
+        7759
+      ],
+      "comment": "(an evil gish)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7706,
+        10,
+        16
+      ],
+      "comment": "(a silvery knife)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7707,
+        8,
+        7769
+      ],
+      "comment": "(a githyanki guardian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7708,
+        20,
+        16
+      ],
+      "comment": "(an extremely sharp and thin sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7715,
+        20,
+        5
+      ],
+      "comment": "(a splint mail vest)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7707,
+        8,
+        7769
+      ],
+      "comment": "(a githyanki guardian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7708,
+        20,
+        16
+      ],
+      "comment": "(an extremely sharp and thin sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7715,
+        20,
+        5
+      ],
+      "comment": "(a splint mail vest)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7703,
+        5,
+        7730
+      ],
+      "comment": "(an invisible stalker)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7714,
+        5,
+        -1
+      ],
+      "comment": "(some astral powder)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7708,
+        2,
+        7730
+      ],
+      "comment": "(a githyanki knight)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7709,
+        20,
+        16
+      ],
+      "comment": "(a thin two-handed sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7715,
+        20,
+        5
+      ],
+      "comment": "(a splint mail vest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7716,
+        20,
+        7
+      ],
+      "comment": "(a splint mail skirt)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7717,
+        20,
+        10
+      ],
+      "comment": "(a pair of splint mail sleeves)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7706,
+        4,
+        7727
+      ],
+      "comment": "(a githyanki warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7708,
+        20,
+        16
+      ],
+      "comment": "(an extremely sharp and thin sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7715,
+        20,
+        5
+      ],
+      "comment": "(a splint mail vest)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7706,
+        3,
+        7723
+      ],
+      "comment": "(a githyanki warrior)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7708,
+        20,
+        16
+      ],
+      "comment": "(an extremely sharp and thin sword)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7715,
+        20,
+        5
+      ],
+      "comment": "(a splint mail vest)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7778,
+        5,
+        2
+      ],
+      "comment": "(A Gateway to the Underworld)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        10537,
+        1,
+        7778
+      ],
+      "comment": "(pentagram)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7710,
+        10,
+        7731
+      ],
+      "comment": "(an evil gish)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7706,
+        10,
+        16
+      ],
+      "comment": "(a silvery knife)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7710,
+        10,
+        7729
+      ],
+      "comment": "(an evil gish)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7706,
+        10,
+        16
+      ],
+      "comment": "(a silvery knife)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7715,
+        3,
+        7749
+      ],
+      "comment": "(an insubstantial ghost)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7721,
+        10,
+        -1
+      ],
+      "comment": "(a vial of murky fluid)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7715,
+        3,
+        7747
+      ],
+      "comment": "(an insubstantial ghost)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7721,
+        10,
+        -1
+      ],
+      "comment": "(a vial of murky fluid)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7715,
+        3,
+        7745
+      ],
+      "comment": "(an insubstantial ghost)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7721,
+        10,
+        -1
+      ],
+      "comment": "(a vial of murky fluid)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7703,
+        5,
+        7724
+      ],
+      "comment": "(an invisible stalker)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7714,
+        5,
+        -1
+      ],
+      "comment": "(some astral powder)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7705,
+        4,
+        7724
+      ],
+      "comment": "(a githyanki hunter)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7707,
+        4,
+        16
+      ],
+      "comment": "(a silvery dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7704,
+        10,
+        7722
+      ],
+      "comment": "(a poor soulless being)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7705,
+        4,
+        7722
+      ],
+      "comment": "(a githyanki hunter)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7707,
+        4,
+        16
+      ],
+      "comment": "(a silvery dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7703,
+        5,
+        7720
+      ],
+      "comment": "(an invisible stalker)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7714,
+        5,
+        -1
+      ],
+      "comment": "(some astral powder)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7704,
+        10,
+        7720
+      ],
+      "comment": "(a poor soulless being)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7705,
+        4,
+        7720
+      ],
+      "comment": "(a githyanki hunter)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7707,
+        4,
+        16
+      ],
+      "comment": "(a silvery dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7704,
+        10,
+        7718
+      ],
+      "comment": "(a poor soulless being)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7705,
+        4,
+        7718
+      ],
+      "comment": "(a githyanki hunter)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7707,
+        4,
+        16
+      ],
+      "comment": "(a silvery dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7704,
+        10,
+        7721
+      ],
+      "comment": "(a poor soulless being)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7704,
+        10,
+        7719
+      ],
+      "comment": "(a poor soulless being)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7704,
+        10,
+        7717
+      ],
+      "comment": "(a poor soulless being)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7704,
+        10,
+        7714
+      ],
+      "comment": "(a poor soulless being)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7704,
+        10,
+        7716
+      ],
+      "comment": "(a poor soulless being)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7704,
+        10,
+        7715
+      ],
+      "comment": "(a poor soulless being)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7704,
+        6,
+        7713
+      ],
+      "comment": "(a poor soulless being)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7703,
+        5,
+        7726
+      ],
+      "comment": "(an invisible stalker)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7714,
+        5,
+        -1
+      ],
+      "comment": "(some astral powder)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7702,
+        2,
+        7746
+      ],
+      "comment": "(an evil night hag)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7705,
+        2,
+        -1
+      ],
+      "comment": "(a devilish talisman)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7701,
+        2,
+        7734
+      ],
+      "comment": "(a pitch-black nightmare)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7704,
+        2,
+        -1
+      ],
+      "comment": "(a small demon's amulet)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7701,
+        2,
+        7733
+      ],
+      "comment": "(a pitch-black nightmare)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7704,
+        2,
+        -1
+      ],
+      "comment": "(a small demon's amulet)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7707,
+        2,
+        1
+      ],
+      "comment": "(Into the Astral Plane)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7700,
+        1,
+        7706
+      ],
+      "comment": "(the Astral Guardian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7700,
+        2,
+        16
+      ],
+      "comment": "(a massive slate-grey sledgehammer)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7706,
+        0,
+        1
+      ],
+      "comment": "(The Astral Gate)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/77.zon"
+}

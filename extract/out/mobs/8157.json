@@ -1,0 +1,12 @@
+{
+  "id": 8157,
+  "alias": "goblin blacksmith",
+  "short_desc": "the goblin blacksmith",
+  "long_desc": "Wielding two great hammers, the goblin smith toils at his forge.",
+  "detailed_desc": "His knotted, iron-hard muscles attest to long hours at the anvil.",
+  "flags_raw": "6250 1024 -800 E",
+  "stats1_raw": "162 -83 -30 1d1+18792 5d49+174",
+  "stats2_raw": "2430 20506103 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

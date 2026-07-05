@@ -1,0 +1,414 @@
+{
+  "id": 98,
+  "name": "Wardome - Shalyzaar Temple",
+  "header": {
+    "raw": "9899 30 2 25 -1",
+    "min_room": 9899,
+    "top_room": 30,
+    "lifespan": 2,
+    "reset_mode": 25
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9803,
+        4,
+        9819
+      ],
+      "comment": "(Servant)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9801,
+        1,
+        9801
+      ],
+      "comment": "(Temple Guardian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9802,
+        10,
+        5
+      ],
+      "comment": "(&WHoly Armor&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9803,
+        15,
+        16
+      ],
+      "comment": "(&WHoly Sword&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9810,
+        1,
+        -1
+      ],
+      "comment": "(Temple Key)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9801,
+        0,
+        2
+      ],
+      "comment": "(Entrace of Shalyzaar temple.)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9802,
+        8,
+        9802
+      ],
+      "comment": "(Priest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9801,
+        10,
+        16
+      ],
+      "comment": "(&WHoly Mace&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9802,
+        2,
+        2
+      ],
+      "comment": "(Main Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9802,
+        8,
+        9809
+      ],
+      "comment": "(Priest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9801,
+        10,
+        16
+      ],
+      "comment": "(&WHoly Mace&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9805,
+        15,
+        9812
+      ],
+      "comment": "(Temple soldier)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9802,
+        10,
+        5
+      ],
+      "comment": "(&WHoly Armor&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9803,
+        15,
+        16
+      ],
+      "comment": "(&WHoly Sword&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9802,
+        8,
+        9816
+      ],
+      "comment": "(Priest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9801,
+        10,
+        16
+      ],
+      "comment": "(&WHoly Mace&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9808,
+        1,
+        9820
+      ],
+      "comment": "(Supreme Priest)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9804,
+        10,
+        12
+      ],
+      "comment": "(&GS&ginister &GR&gobe&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9805,
+        10,
+        7
+      ],
+      "comment": "(&GS&ginister &GL&geg&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9806,
+        10,
+        9
+      ],
+      "comment": "(&GS&ginister &GG&gauntlets&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        9805,
+        15,
+        9820
+      ],
+      "comment": "(Temple soldier)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        9809,
+        1,
+        9821
+      ],
+      "comment": "(Shalyzaar)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9807,
+        10,
+        0
+      ],
+      "comment": "(&CS&cceptre of &CS&chalyzaar&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9808,
+        10,
+        16
+      ],
+      "comment": "(&WUltimate &RM&rac&Re &wof &rD&Restructio&rn&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        9809,
+        10,
+        15
+      ],
+      "comment": "(&CDragon Bracer&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        9811,
+        1,
+        -1
+      ],
+      "comment": "(Secret key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        9805,
+        15,
+        9821
+      ],
+      "comment": "(Temple soldier)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        9821,
+        4,
+        2
+      ],
+      "comment": "(Shalyzaar's Room)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9823,
+        0,
+        1
+      ],
+      "comment": "(Choose your destination)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9823,
+        2,
+        1
+      ],
+      "comment": "(Choose your destination)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9823,
+        3,
+        1
+      ],
+      "comment": "(Choose your destination)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9824,
+        0,
+        1
+      ],
+      "comment": "(Choose your destination)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9824,
+        2,
+        1
+      ],
+      "comment": "(Choose your destination)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9824,
+        3,
+        1
+      ],
+      "comment": "(Choose your destination)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9825,
+        1,
+        1
+      ],
+      "comment": "(Choose your destination)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9825,
+        4,
+        1
+      ],
+      "comment": "(Choose your destination)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9825,
+        5,
+        1
+      ],
+      "comment": "(Choose your destination)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9826,
+        0,
+        1
+      ],
+      "comment": "(Choose your destination)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9826,
+        1,
+        1
+      ],
+      "comment": "(Choose your destination)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        9826,
+        2,
+        1
+      ],
+      "comment": "(Choose your destination)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/98.zon"
+}

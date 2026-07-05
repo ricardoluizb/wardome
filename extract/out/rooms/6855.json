@@ -1,0 +1,29 @@
+{
+  "id": 6855,
+  "zone_id": 67,
+  "name": "The Den of Sorcery",
+  "description": "The den of sorcery for mages and witches and wizards is a comfortable\nplace, well-lit by magical rose and violet faerie fires for the reading\nof tomes. There is a rug in guild colors of blue and violet which spans\nthe stone floor, and hammocks hang in rows along the walls, where the\nmages take their repose. A series of bookshelves provide ample guild\nliterature, and an oak coffee table before a couch dominates the room.",
+  "header_raw": "67 24 0",
+  "flags_text": "24",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6718
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6856
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

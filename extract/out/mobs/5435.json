@@ -4,9 +4,9 @@
   "short_desc": "the skinny kid",
   "long_desc": "A skinny kid wanders around.",
   "detailed_desc": "This small child sees you looking at him and quickly looks away.",
-  "flags_raw": "ch 0 100 S",
-  "stats1_raw": "7 12 1 14d1+1 2d5+1",
-  "stats2_raw": "1 100",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "140 0 100 E",
+  "stats1_raw": "15 13 7 1d1+315 5d2+6",
+  "stats2_raw": "225 18413 0",
+  "stats3_raw": "8 8 1 -1 0",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/54.mob"
 }

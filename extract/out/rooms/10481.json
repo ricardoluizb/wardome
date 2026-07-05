@@ -1,0 +1,21 @@
+{
+  "id": 10481,
+  "zone_id": 104,
+  "name": "Refrigerator Room",
+  "description": "This room is filled with giant refrigerators. All of them have no doors and\ntheir contents have spilled onto the floor.\nThe only exit is east.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see a room of ice.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10482
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

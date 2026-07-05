@@ -1,0 +1,21 @@
+{
+  "id": 3475,
+  "zone_id": 34,
+  "name": "Inside the coffin",
+  "description": "You are inside a coffin.  It seems rather cramped in here.  You can climb\nup out of the coffin, or you can wait for here the real occupant to join you.",
+  "header_raw": "34 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "lid coffin",
+      "door_flag": 1,
+      "key": 3419,
+      "to": 3460
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/34.wld"
+}

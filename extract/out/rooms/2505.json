@@ -3,8 +3,8 @@
   "zone_id": 25,
   "name": "The Shadow Grove",
   "description": "You are inside the shadow grove.  Giant trees seem to glare at you\nfrom all sides.  The shadowy mist obscures most of your vision.  Strange\nsounds of moaning and growling come from all directions.\n   All exits lead into shadows, you are very confused.",
-  "header_raw": "25 acfg 3",
-  "flags_text": "acfg",
+  "header_raw": "25 101 3",
+  "flags_text": "101",
   "sector": 3,
   "exits": [
     {

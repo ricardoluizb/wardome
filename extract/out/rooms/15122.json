@@ -1,0 +1,21 @@
+{
+  "id": 15122,
+  "zone_id": 150,
+  "name": "Pasture",
+  "description": "This small but lush and open plot of land provides food for the cows which\ngraze here at this time.  Fenced in, this pasture's only exit is south into the\nStinky Barn.",
+  "header_raw": "150 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 15121
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/151.wld"
+}

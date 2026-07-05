@@ -1,8 +1,8 @@
 {
   "id": 3040,
   "zone_id": 30,
-  "name": "Inside The West Gate Of Midgaard",
-  "description": "You are by two small towers that have been built into the city wall and\nconnected with a footbridge across the heavy wooden gate.  Main Street leads\neast and Wall Road leads south from here.",
+  "name": "Inside The West Gate Of dead Midgaard",
+  "description": "You are by two small towers that have been built into the city wall and\nconnected with a footbridge across the heavy wooden gate.  Main Street leads\neast and Wall Road leads south from here. Dead bodies everywhere.....",
   "header_raw": "30 0 1",
   "flags_text": "0",
   "sector": 1,
@@ -30,6 +30,14 @@
       "door_flag": 1,
       "key": 3112,
       "to": 3052
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
     }
   ],
   "extra_descriptions": [

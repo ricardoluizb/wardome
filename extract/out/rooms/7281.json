@@ -3,8 +3,8 @@
   "zone_id": 72,
   "name": "The Corridor",
   "description": "The corridor is glowing oppressively in a red hue.  You can hear wailing\nthrough an open black hole to the east.  To the south there is a round door.",
-  "header_raw": "72 d 1",
-  "flags_text": "d",
+  "header_raw": "72 8 1",
+  "flags_text": "8",
   "sector": 1,
   "exits": [
     {
@@ -26,16 +26,16 @@
   ],
   "extra_descriptions": [
     {
-      "keywords": "small round door",
-      "description": "The door is completely round without a keyhole."
+      "keywords": "walls",
+      "description": "The walls look alive."
     },
     {
       "keywords": "red light",
       "description": "The red light glows from the walls."
     },
     {
-      "keywords": "walls",
-      "description": "The walls look alive."
+      "keywords": "small round door",
+      "description": "The door is completely round without a keyhole."
     }
   ],
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/72.wld"

@@ -1,0 +1,12 @@
+{
+  "id": 17331,
+  "alias": "merchant",
+  "short_desc": "a merchant",
+  "long_desc": "A brightly clothed merchant hawks his goods to you!",
+  "detailed_desc": "The merchant wears a bright tunic to draw attention and signify his wares.",
+  "flags_raw": "140 0 0 E",
+  "stats1_raw": "110 -35 -6 1d1+3072 5d12+44",
+  "stats2_raw": "1650 3830999 0",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/173.mob"
+}

@@ -4,9 +4,9 @@
   "short_desc": "Ezmerelda",
   "long_desc": "Ezmerelda the cook is here stirring a large pot of something.",
   "detailed_desc": "She does not look like the typical cook you would find in a kitchen,\nbut she certainly fits what you would expect in a tower fulls of\nmages.",
-  "flags_raw": "ab dk -500 S",
-  "stats1_raw": "20 6 -1 20d20+200 3d4+8",
-  "stats2_raw": "1092 31300",
-  "stats3_raw": "8 8 2",
+  "flags_raw": "11 1032 -500 E",
+  "stats1_raw": "142 -51 -11 1d1+3972 5d15+56",
+  "stats2_raw": "2130 7995598 0",
+  "stats3_raw": "8 8 2 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/25.mob"
 }

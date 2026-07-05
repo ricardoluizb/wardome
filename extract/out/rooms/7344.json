@@ -1,10 +1,10 @@
 {
   "id": 7344,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "The South End Of The Pool",
   "description": "You standing in water up to your neck!  You can only see water.",
-  "header_raw": "73 d 5",
-  "flags_text": "d",
+  "header_raw": "72 8 5",
+  "flags_text": "8",
   "sector": 5,
   "exits": [
     {

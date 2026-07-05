@@ -1,0 +1,12 @@
+{
+  "id": 1810,
+  "alias": "thief",
+  "short_desc": "the thief",
+  "long_desc": "A thief is here, sneaking between the shadows.",
+  "detailed_desc": "He REALLY likes your money!",
+  "flags_raw": "136 32768 -500 E",
+  "stats1_raw": "107 -33 -5 1d1+2988 5d11+42",
+  "stats2_raw": "1605 3539136 0",
+  "stats3_raw": "8 0 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/18.mob"
+}

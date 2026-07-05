@@ -1,0 +1,45 @@
+{
+  "id": 8163,
+  "zone_id": 81,
+  "name": "A Pale-Glowing Hall in Goblin-Town",
+  "description": "The walls flash here a little, where metal veins come to the surface.\nThis is very unnerving, and it does not help that you are dodging \ngoblins left and right.",
+  "header_raw": "81 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "There is a bronze door to the north.",
+      "keywords": "door bronze",
+      "door_flag": 1,
+      "key": 8100,
+      "to": 8164
+    },
+    {
+      "dir": 1,
+      "description": "The hall continues east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8161
+    },
+    {
+      "dir": 2,
+      "description": "There is a bronze door to the south.",
+      "keywords": "door bronze",
+      "door_flag": 1,
+      "key": 8100,
+      "to": 8173
+    },
+    {
+      "dir": 3,
+      "description": "The hall glows to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8165
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

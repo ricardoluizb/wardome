@@ -1,0 +1,38 @@
+{
+  "id": 8133,
+  "zone_id": 81,
+  "name": "The Dog-Leg",
+  "description": "This is a very odd cave.  It only ran west about twelve yards, smack \nagainst a flat stone wall.  Of all things, there is a DOOR in the west\nwall - what is that doing in a water-carved cave? It has a sign on it\nthat might explain who would put a door here.  The floor is quite flat,\nand the sand which covers it everywhere else is absent here.  Maybe it\ndeserves a second look.",
+  "header_raw": "81 9 2",
+  "flags_text": "9",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You may go back east. What a boring place.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8101
+    },
+    {
+      "dir": 5,
+      "description": "Maybe you better have a really close look at that stone floor.",
+      "keywords": "floor",
+      "door_flag": 1,
+      "key": -1,
+      "to": 8134
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "stone floor",
+      "description": "It is certainly not natural. There is a peculiar square crack, and you\nsuspect it opens up.  Only one way to find out!"
+    },
+    {
+      "keywords": "sign",
+      "description": "It is carved into the door.\nThe sign says:\n                      A gnotiyen na purxe Grob."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

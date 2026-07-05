@@ -1,0 +1,12 @@
+{
+  "id": 1126,
+  "alias": "oldstyle trainee",
+  "short_desc": "a trainee",
+  "long_desc": "A trainee screams a death cry as he delivers the fatal blow to a dummy.",
+  "detailed_desc": "The trainee smiles smugly, aware of your interest in him.  He's a little\nfresh, but his enthusiasm and desire to please more than make up for what\nhe lacks in skill.",
+  "flags_raw": "10 0 0 E",
+  "stats1_raw": "84 -26 -5 1d1+3696 5d9+52",
+  "stats2_raw": "1260 2186076 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/11.mob"
+}

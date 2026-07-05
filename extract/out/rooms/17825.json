@@ -1,0 +1,29 @@
+{
+  "id": 17825,
+  "zone_id": 178,
+  "name": "The Iron Gateway",
+  "description": "You stand at the entrance to the gnome fortress.  The place seems to be\nwell fortified.",
+  "header_raw": "178 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see a small path.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17824
+    },
+    {
+      "dir": 3,
+      "description": "You see a long hallway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17826
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

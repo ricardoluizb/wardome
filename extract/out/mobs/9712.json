@@ -1,0 +1,12 @@
+{
+  "id": 9712,
+  "alias": "oldstyle hound dog war",
+  "short_desc": "a hound of war",
+  "long_desc": "A large hound snarls at you.",
+  "detailed_desc": "This great beast can barely be called a dog.  It has been bred to cause fear\non the battle field, and you have no doubt that it does its job well.",
+  "flags_raw": "46 170 -600 E",
+  "stats1_raw": "185 -72 -17 1d1+5172 5d19+74",
+  "stats2_raw": "2775 17248122 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/97.mob"
+}

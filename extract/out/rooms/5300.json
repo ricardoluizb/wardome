@@ -3,8 +3,8 @@
   "zone_id": 53,
   "name": "The Great Eastern Desert",
   "description": "A vast desert stretches for miles, the sands constantly shifting around\nyou.  Rising out of the sand to the north you see a mighty pyramid.",
-  "header_raw": "53 0 2",
-  "flags_text": "0",
+  "header_raw": "53 32768 2",
+  "flags_text": "32768",
   "sector": 2,
   "exits": [
     {

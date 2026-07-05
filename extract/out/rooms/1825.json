@@ -1,0 +1,21 @@
+{
+  "id": 1825,
+  "zone_id": 18,
+  "name": "The Blue Dragon's Lair",
+  "description": "What's this?  Another dragon's lair?  Just how powerful\nis this Snow Queen you wonder?  The air in here\nis cold, dry, desert evening-like with a few\neggs cracked open, as if a hatching just occured.\nThe only exit is the crawlway down.",
+  "header_raw": "18 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1822
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/18.wld"
+}

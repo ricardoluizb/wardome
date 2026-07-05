@@ -1,0 +1,12 @@
+{
+  "id": 11244,
+  "alias": "devrel paladin",
+  "short_desc": "Devrel",
+  "long_desc": "A naked man has been tossed into a corner of this room like so much garbage.",
+  "detailed_desc": "Once the finest Paladin of Asteh, Devrel is now a quivering wreck, his\nmind destroyed by the usurpers. However, the rigors did not affect his\nphysical form, and he can still defend himself on an animal like\ninstinctive level.",
+  "flags_raw": "10 8224 1000 E",
+  "stats1_raw": "45 -20 -10 1d1+4500 5d9+108",
+  "stats2_raw": "675 469801 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

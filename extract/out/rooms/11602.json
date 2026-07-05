@@ -1,0 +1,21 @@
+{
+  "id": 11602,
+  "zone_id": 115,
+  "name": "Fire Marshall Bob's Office",
+  "description": "Small fires are scattered about the office as well as various highly\nflammable chemicals.  The Fire Marshall is obviously not very competent.  The\nFire Station is to the north.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11601
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

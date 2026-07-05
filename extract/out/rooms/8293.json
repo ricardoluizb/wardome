@@ -1,0 +1,21 @@
+{
+  "id": 8293,
+  "zone_id": 82,
+  "name": "A Cell Which Will Be Your Cript",
+  "description": "This is a dungeon of maximum security, the door has closed behind you. You \ncant hear anything but your heard beathing faster and faster. The walls seem\nto absorb all the sounds around.",
+  "header_raw": "82 129 0",
+  "flags_text": "129",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": 0,
+      "to": 8291
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

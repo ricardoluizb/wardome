@@ -1,0 +1,21 @@
+{
+  "id": 30530,
+  "zone_id": 305,
+  "name": "The Sewer",
+  "description": "You are in an unfinished room.  This dark and dirty sewer continues south\nand north.  Here you can find some famous heroes to murder.",
+  "header_raw": "305 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30529
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/305.wld"
+}

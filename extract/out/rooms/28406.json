@@ -1,0 +1,29 @@
+{
+  "id": 28406,
+  "zone_id": 284,
+  "name": "The Cave Entrance",
+  "description": "You see a large cave filled with stalagmites and stalagtites immersed\nbelow. A big rock close this way.\n  You can diving to a corridor to the south. You get no more light!",
+  "header_raw": "284 9 6",
+  "flags_text": "9",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "To the south go back.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28405
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "rock",
+      "door_flag": 1,
+      "key": -1,
+      "to": 28407
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/284.wld"
+}

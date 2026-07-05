@@ -1,0 +1,21 @@
+{
+  "id": 30513,
+  "zone_id": 305,
+  "name": "&BO Templo dos Homens-Lagarto&n",
+  "description": "Voce esta' na terra dos Homens-Lagarto, um lugar nem um pouco encantador,\nvoce sente um terrivel odor que provavelmente vem das paredes, suas botas estao\nsubmersas em uma densa lama que cobre o templo inteiro.  Com certeza apenas os\nHomens-Lagarto sao cap A saida a Estrada dos Templos e' ao norte.",
+  "header_raw": "305 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30505
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/305.wld"
+}

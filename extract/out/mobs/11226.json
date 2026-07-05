@@ -1,0 +1,12 @@
+{
+  "id": 11226,
+  "alias": "otyugh",
+  "short_desc": "an otyugh",
+  "long_desc": "A horrid, tentacled blob arises from the muck.",
+  "detailed_desc": "Lurking in this sewer is a horrid otyugh, not at all common to this\nregion, and undoubtledly released here by the infiltrators of the city\nto dispose of unwanted waste. This foul mobile garbage devouring monster\nhas ultra keen senses, with which it can detect hidden or concealed foes,\nthough magical invisibility still confounds it.",
+  "flags_raw": "46 32 -400 E",
+  "stats1_raw": "40 -18 -9 1d1+3996 5d9+106",
+  "stats2_raw": "600 341495 9",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

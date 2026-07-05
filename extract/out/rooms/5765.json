@@ -1,0 +1,29 @@
+{
+  "id": 5765,
+  "zone_id": 57,
+  "name": "A Barbarian!",
+  "description": "You have entered the quarters of an insane barbarian, who by now is attacking\nyou if he has not already been slain by another adventurer before you. There\nis little of interest in this dingy room.\n\nA passage runs from here to another door to the north.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a short passage",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5801
+    },
+    {
+      "dir": 2,
+      "description": "a door",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5759
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

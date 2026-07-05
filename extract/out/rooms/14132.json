@@ -1,0 +1,42 @@
+{
+  "id": 14132,
+  "zone_id": 141,
+  "name": "Library",
+  "description": "The Library continues here, with exits to the east and west..",
+  "header_raw": "141 72 0",
+  "flags_text": "72",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14131
+    },
+    {
+      "dir": 2,
+      "description": "Hinges on a shelf?",
+      "keywords": "Shelf",
+      "door_flag": 1,
+      "key": -1,
+      "to": 14128
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14133
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "book books shelves",
+      "description": "'Secret Door: The Shelf' is on the shelf."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

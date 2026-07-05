@@ -1,0 +1,29 @@
+{
+  "id": 13020,
+  "zone_id": 130,
+  "name": "Cave's Entrance",
+  "description": "You are in front of a enormous and invulnerable rock,\nmaybe the end of this city...\nYou can go to the Fist Avenue to the South.",
+  "header_raw": "130 128 1",
+  "flags_text": "128",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "Rock",
+      "door_flag": 2,
+      "key": 13019,
+      "to": 13021
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13019
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

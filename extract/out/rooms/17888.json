@@ -1,0 +1,21 @@
+{
+  "id": 17888,
+  "zone_id": 178,
+  "name": "A Hole",
+  "description": "You are in a hole.",
+  "header_raw": "178 8 3",
+  "flags_text": "8",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "You see a small mine shaft.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17886
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/178.wld"
+}

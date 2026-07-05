@@ -1,0 +1,21 @@
+{
+  "id": 10221,
+  "zone_id": 102,
+  "name": "Guardia's Army Armor Rack",
+  "description": "You are in the armor rack. Hundreds of pieces of armors, from leather\nto the mighty full plate warriors are placed in the rooms. There is 3\nracks covering the whole room, and it seems to be getting smaller. You\ncan see lots of empty slots in the rack, but it is still a large quantity\nof equipment.",
+  "header_raw": "102 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10218
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

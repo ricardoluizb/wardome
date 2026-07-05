@@ -1,0 +1,12 @@
+{
+  "id": 2316,
+  "alias": "oldstyle guard minotaur",
+  "short_desc": "the Minotaur Guard",
+  "long_desc": "A minotaur guard catches you trespassing and attacks!",
+  "detailed_desc": "The minotaur is clad in heavy furs. Beneath these furs, you see the gleam of\nhis armor.",
+  "flags_raw": "110 0 -330 E",
+  "stats1_raw": "185 -76 -20 1d1+8136 5d19+94",
+  "stats2_raw": "2775 21228458 2",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/23.mob"
+}

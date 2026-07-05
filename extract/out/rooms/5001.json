@@ -3,8 +3,8 @@
   "zone_id": 50,
   "name": "A Long Tunnel",
   "description": "You encounter some rapids as you enter this tunnel cut out of\nthe mountains by the river.",
-  "header_raw": "50 ad 7",
-  "flags_text": "ad",
+  "header_raw": "50 9 7",
+  "flags_text": "9",
   "sector": 7,
   "exits": [
     {
@@ -21,7 +21,7 @@
       "keywords": "",
       "door_flag": 0,
       "key": -1,
-      "to": 3205
+      "to": 552
     }
   ],
   "extra_descriptions": [],

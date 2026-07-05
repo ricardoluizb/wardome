@@ -1,0 +1,29 @@
+{
+  "id": 9154,
+  "zone_id": 91,
+  "name": "Mountainside.",
+  "description": "You find yourself on the side of a huge granite mountain.  The air\nis quite thin so you know you are at a very high altitude.  There\nis no plant life beyond moss and lichen in this lonely, barren\nplace.",
+  "header_raw": "91 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9153
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9155
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/91.wld"
+}

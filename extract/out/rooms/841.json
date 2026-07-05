@@ -1,0 +1,37 @@
+{
+  "id": 841,
+  "zone_id": 7,
+  "name": "Dirt Road",
+  "description": "The road you stand on forks several directions here, one leading to\nthe north out of sight in the starlit sky, one leading up a hill to\nthe east, and towards the mountains to the west.\n   It seems very quiet and peaceful here.  A breeze caresses your face.",
+  "header_raw": "7 8 2",
+  "flags_text": "8",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 836
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 834
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 842
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

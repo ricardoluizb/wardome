@@ -1,0 +1,26 @@
+{
+  "id": 2404,
+  "zone_id": 24,
+  "name": "The &yD&Yr&wu&Wn&wk&Ye&yn &cValhala&n",
+  "description": "It seems quite strange for a stronghold to have a tavern, but the strength\nof the army, the warriors and blacksmiths of the kingdom, justifys the\nexistence of such estabeleciment.  Mages, Rangers, Paladins, and the majoroty\nof fighters wich proudly shouts out loud their battle conquest and feats.  The\nmajor function of this tavern, actually, in equal level of providing fun and\ndrinks to the warriors is to inform and argue through a board the vital\nfunctions changes and urgent matters of the kingdom.    \n\n\n&rThe third banner is here, type read banner to see.&n",
+  "header_raw": "24 196 0",
+  "flags_text": "196",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2402
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "banner",
+      "description": "Warriors Prayer\n\nIt Was My Thirteenth Year On A Cold Winter's\nDay, As I Walked Through The Enchanted Forest,\nI Heard The Sounds Of Horses And Men At Arms.\nI Felt Compelled To Walk On And Find The Place\nOf These Sounds. And When The Forest Did Clear\nI Was Standing On A Hill. Before Me There Was\nA Great Plane, Atoned The Armies Of The World,\nStanding, Waiting. I Thought To Myself, For\nWhom Or For What Are They Waiting ?\nSuddenly A Gust Of Wind Come Up From The North\nThere Appeared A Lone Rider, Holding A Sword Of\nSteel. Then From The South Came Another, Bearing\nA Battle Axe. From The East Came A Third,\nHolding A Spiked Club, And Finally, From The\nWest A Rider Who Wielded A Great Hammer Of War.\nWith Them Came Their Soldiers Of Death, Followed\nBy An Army Of Immortals. They Were Few In\nNumber, But The Look In Their Eyes Told All\nWho Beheld Them That They Would Leave This\nDay Only In Victory Or Death. And There Was\nA Great Silence...\n\nMy Heart Began To Pound, Storm Clouds Filled\nThe Sky With Darkness. Rain Came And Four\nWinds Blew With Such Anger That I Held Fast To\nA Tree. I Watched The Four Riders Raise Their\nWeapons Into The Air. Without Warning, Screaming\nTheir War Cry They Led The Attack. Down To The\nBattle They Ride. They Met The Armies Of The\nWorld With A Mighty Clash! I Could Feel The\nGroundshake, The Earth Drank Much Blood That Day.\nEach Of The Four, Was Into Himself A Whirlwind\nOf Doom !!!\n\nWhen The Smoke Did Clear, Many Thousands Were\nDead. There Was Much Blood And Gore. Their\nBodies Lay Broken And Scattered Across The\nBattle Field, Like Brown Leaves Blown By The\nWind. And I Saw The For Ride Together To The\nTop Of The Hill, While Below Them The Soldiers\nOf Death Assembled All Those Who Would Now\nSwear Allegiance To Them.\nAnd The Four Spoke The Words Of The\nWarriors Prayer.\n- Gods Of War I Call You, My Sword Is By My Side.\nI Seek A Life Of Honor Free From All False Pride.\nI Will Crack The Whip With A Bold Mighty Hail.\nCover Me With Death If I Should Ever Fail.\nGlory, Majesty, Unity - Hail, Hail, Hail\n\nAnd As I Stood And Looked On, I Heard The Armies\nOf The World Hail Them Without End, And Their\nVoices Of Victory Carried Long And Fat Throughout\nThe Land!"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/24.wld"
+}

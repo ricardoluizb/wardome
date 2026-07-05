@@ -1,0 +1,12 @@
+{
+  "id": 9103,
+  "alias": "oldstyle air elemental",
+  "short_desc": "the ghostly air elemental",
+  "long_desc": "The ghostly air elemental.",
+  "detailed_desc": "The air elemental is hard to see.  You know that it is there\nbecause objects behind it seem to waver and are slightly blurred.",
+  "flags_raw": "44 786472 0 E",
+  "stats1_raw": "10 15 8 1d1+207 5d2+4",
+  "stats2_raw": "150 7126 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/91.mob"
+}

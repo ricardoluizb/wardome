@@ -4,9 +4,9 @@
   "short_desc": "the elven child",
   "long_desc": "An elven child casts his fishing pole into the river.",
   "detailed_desc": "He looks young and innocent.  You wonder what he is doing here.",
-  "flags_raw": "b k 600 S",
-  "stats1_raw": "3 18 60 3d5+35 2d4+0",
-  "stats2_raw": "0 400",
-  "stats3_raw": "8 8 1",
+  "flags_raw": "10 1024 600 E",
+  "stats1_raw": "70 -15 0 1d1+1956 5d8+28",
+  "stats2_raw": "1050 1062450 0",
+  "stats3_raw": "8 8 1 2 3",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/62.mob"
 }

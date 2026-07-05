@@ -1,0 +1,21 @@
+{
+  "id": 30041,
+  "zone_id": 300,
+  "name": "Servants' quarters",
+  "description": "Being the servants' quarters, these rooms are obviously not the most lavishly\ndecorated but they are still fairly comfortable.  A few tidy beds, some\ndressers and some personal items are all that these quarters contain.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30040
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

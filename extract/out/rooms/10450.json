@@ -1,0 +1,29 @@
+{
+  "id": 10450,
+  "zone_id": 104,
+  "name": "Hot Stairs",
+  "description": "You are standing on a long stairway. The air around you is heavy and hot.\nThe stone walls are hot to the touch and your sweat sizzles as it hits the\nground. Cool air flows out from a crack in the wall to the east.\nThe smell of brimstone and smoke is all around you.\nThe stairs continue down.",
+  "header_raw": "104 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "It is too dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10439
+    },
+    {
+      "dir": 5,
+      "description": "It is too dark to see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 10461
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/104.wld"
+}

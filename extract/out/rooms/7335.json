@@ -1,10 +1,10 @@
 {
   "id": 7335,
-  "zone_id": 73,
+  "zone_id": 72,
   "name": "A Dark Tunnel",
   "description": "You are standing in a dark tunnel.  It continues to the north and to the\nsouth.  Bones are spread on the floor.",
-  "header_raw": "73 ad 1",
-  "flags_text": "ad",
+  "header_raw": "72 9 1",
+  "flags_text": "9",
   "sector": 1,
   "exits": [
     {

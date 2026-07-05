@@ -1,0 +1,29 @@
+{
+  "id": 28642,
+  "zone_id": 286,
+  "name": "Walking the Silvery Strand",
+  "description": "You are standing atop a silvery strand of light that twists and turns\nthrough the Dragon Village field.",
+  "header_raw": "286 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The strand of light twists and turns out of sight.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28643
+    },
+    {
+      "dir": 1,
+      "description": "You see the infinite expanse of the Dragon Village field.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/286.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 26605,
+  "zone_id": 266,
+  "name": "PORRADA!!!!",
+  "description": "Vc aprendera a lutar agora. Nessa sala, existe um monstro chamado Galahar.\nVc deve ter visto o monstro quando entrou na sala. De qualquer forma, digite\n'&Rlook&n' para examinar a sala. Voce notara que existe um monstro chamado Galahar.\nAntes de travar combate. Digite '&Rwimpy 5&n'. Sendo assim, seu personagem vai\nfugir da briga, caso o HP(energia de vida) esteja a baixo de 5. Esse comando\neh muito util para evitar mortes estupidas. Quando estiver preparado para lutar,\ndigite '&Rkill galahar&n'.\n&w &n\nDigite '&Ru&n' depois que o combate terminar.",
+  "header_raw": "266 1310720 0",
+  "flags_text": "1310720",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26606
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 26604
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/266.wld"
+}

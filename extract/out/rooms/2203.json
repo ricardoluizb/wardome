@@ -1,0 +1,29 @@
+{
+  "id": 2203,
+  "zone_id": 22,
+  "name": "Hallway",
+  "description": "This hallway seems to stretch on forever.  You notice a stairway in  \nthe distance.",
+  "header_raw": "22 72 0",
+  "flags_text": "72",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The hall continues.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2204
+    },
+    {
+      "dir": 2,
+      "description": "You see the foyer.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2202
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

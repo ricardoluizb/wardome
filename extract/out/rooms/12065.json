@@ -3,8 +3,8 @@
   "zone_id": 120,
   "name": "Clay Road",
   "description": "You travel upon an East-West road wide enough for 30 men to march\nabreast.  It is packed hard through heavy use.  To the west, your eyes\ncatch the splendors of a mighty city.",
-  "header_raw": "120 d 1",
-  "flags_text": "d",
+  "header_raw": "120 8 1",
+  "flags_text": "8",
   "sector": 1,
   "exits": [
     {

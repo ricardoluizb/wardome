@@ -1,0 +1,12 @@
+{
+  "id": 14123,
+  "alias": "druid",
+  "short_desc": "the forest druid",
+  "long_desc": "A chanting druid walks the woods.",
+  "detailed_desc": "Dressed in long robes that obscure his face, the druid is softly\nchanting words and traveling through the woods.  He is one that\nis secure in his sense of Justice, and enlightened in the ways of\njudging others.  Through his communion with nature, he has gained\npower.",
+  "flags_raw": "2248 1024 1000 E",
+  "stats1_raw": "70 -17 -2 1d1+2520 5d8+38",
+  "stats2_raw": "1050 1290118 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

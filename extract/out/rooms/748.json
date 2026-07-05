@@ -1,0 +1,21 @@
+{
+  "id": 748,
+  "zone_id": 7,
+  "name": "Thieves Guild",
+  "description": "The open hidden panel behind you seems to shed no light in here,\nand you find yourself in complete darkness.  You feel the presence of\nsomeone in the room with you--was that a finger on your purse?!?\nQuick!  Make a light!",
+  "header_raw": "7 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "bookcase",
+      "door_flag": 1,
+      "key": 724,
+      "to": 747
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

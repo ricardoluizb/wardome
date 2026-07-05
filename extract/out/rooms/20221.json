@@ -1,0 +1,21 @@
+{
+  "id": 20221,
+  "zone_id": 202,
+  "name": "A fortified bank",
+  "description": "This building is one of the few that remain open in this besieged city.  From\nthe layout, you can tell that it is the bank for the citizens who have chosen\nto entrust their valuables to the King's guard.  The man sitting behind the\nhighly fortified counter is the only one brave enough to work here.  A large\nbrass sign is mounted on the wall to the right of the man.",
+  "header_raw": "202 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20219
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/202.wld"
+}

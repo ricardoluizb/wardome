@@ -1,0 +1,29 @@
+{
+  "id": 14305,
+  "zone_id": 143,
+  "name": "At the Gate",
+  "description": "You have reached the gate of a city of considerable size. The doors are\nmade of heavy wood, and the wall around the city stands 20 feet high. Over\nthe wall you can see the point of an immense pyramid!",
+  "header_raw": "143 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The desert expands to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14304
+    },
+    {
+      "dir": 2,
+      "description": "Inside the gate you see a crowded city street.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14306
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/143.wld"
+}

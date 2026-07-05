@@ -1,0 +1,12 @@
+{
+  "id": 1715,
+  "alias": "centaur guard",
+  "short_desc": "a centaur guard",
+  "long_desc": "A strong centaur is standing guard here.",
+  "detailed_desc": "He appears to be blocking entrance to the next room.",
+  "flags_raw": "10 2 200 E",
+  "stats1_raw": "185 -92 -47 1d1+19980 5d55+174",
+  "stats2_raw": "2775 27596996 10",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/16.mob"
+}

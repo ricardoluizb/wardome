@@ -1,0 +1,12 @@
+{
+  "id": 2240,
+  "alias": "oldstyle zombie draconian",
+  "short_desc": "a Draconian zombie",
+  "long_desc": "A Draconian zombie is here, staring at nothing in particular.",
+  "detailed_desc": "This used to be one of the warriors of this tribe.  He was denied his final\nrest, however, and now guards this corridor tirelessly as a zombie.",
+  "flags_raw": "14 8389800 -400 E",
+  "stats1_raw": "165 -78 -26 1d1+15180 5d33+146",
+  "stats2_raw": "2475 17656925 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/22.mob"
+}

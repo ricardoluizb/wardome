@@ -1,0 +1,45 @@
+{
+  "id": 11258,
+  "zone_id": 112,
+  "name": "The Antechamber",
+  "description": "Nary a whisper can be heard as you pass into the vaulted halls of\nAsteh; it takes a while for you to realize that some sort of magical\nenchantment is in place, cast here by the clerics of old to subdue\nboisterous worshippers as they entered. You must admit one soon loses\nthe desire to be noisy when one cannot hear the result! The walls are\nbare here, starkly white with faint traces of silvery runes, which mark\ntwo barely visible doors to the east and west. To the south lies the\ncentral worship area, while the open entrance of the temple lies to the\nnorth.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11257
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11260
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 11261
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11259
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}

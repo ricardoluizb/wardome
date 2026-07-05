@@ -1,0 +1,21 @@
+{
+  "id": 15104,
+  "zone_id": 150,
+  "name": "A Holding Cell",
+  "description": "Much like your own, this cell offers no comfort whatsoever.  In fact, this\ncell is MUCH more uncomfortable than yours was.  Sitting close enough for you\nto reach through the bars and touch it is an outhouse.  Actually, all you know\nfor sure is that it is a small square building that smells like something out\nof a cheap 'B' horror movie.  Just the same, you assume it's an outhouse.  \nAnother clue to the small building's capacity is the tepid trail, a mini\nstream, of urine which runs downhill right through the middle of this cell -\nEWWWWWW!",
+  "header_raw": "150 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door cell",
+      "door_flag": 1,
+      "key": -1,
+      "to": 15103
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/151.wld"
+}

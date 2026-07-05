@@ -1,0 +1,29 @@
+{
+  "id": 12215,
+  "zone_id": 122,
+  "name": "Entering Alfheim",
+  "description": "Towering trees, their branches heavy with snow, loom to either side of\na narrow dirt track that bears the imprints of many pairs of booted\nfeet and animal hooves. The air here is sharp, and fresh, and you inhale\ngreat gusts with pleasure. Small songbirds chirp loudly as they flutter\nabout the massive oaks, pines and aspens of Alfheim, realm of the elves\nand their ruler, Frey.",
+  "header_raw": "122 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12214
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12216
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

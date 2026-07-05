@@ -1,0 +1,37 @@
+{
+  "id": 5770,
+  "zone_id": 57,
+  "name": "A Corridor",
+  "description": "You are marching along a long north-south corridor, which ends near a \nfountain to the south, and a small door to the north. A second door is in the \neastern wall near you.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a door",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5803
+    },
+    {
+      "dir": 1,
+      "description": "a door",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5771
+    },
+    {
+      "dir": 2,
+      "description": "a fountain",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5768
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

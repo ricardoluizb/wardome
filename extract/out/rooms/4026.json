@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Many Tunnels",
   "description": "You find yourself standing in the midst of an intersection\nof numerous tunnels.  There is a musty smell emanating from the\ntunnel to the north, whilst the one to the west appears to open\nup almost immediately into a cave.  The tunnels to the south and\neast are totally shrouded in darkness.",
-  "header_raw": "40 ad 3",
-  "flags_text": "ad",
+  "header_raw": "40 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
     {

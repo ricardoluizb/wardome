@@ -1,0 +1,17 @@
+{
+  "id": 3409,
+  "zone_id": 34,
+  "name": "The Acolyte's Bedroom",
+  "description": "This is why you were not welcomed at the entrance by the tomb's faithful\nservants ... blood and gore is ankle deep in here.\nOh NO! the door shut behind you!  It's a trap!\nA bloodied corpse of an acolyte is lying here ...\nA bloodied corpse of an acolyte is lying here ...\nA bloodied corpse of an acolyte is lying here ...",
+  "header_raw": "34 13 0",
+  "flags_text": "13",
+  "sector": 0,
+  "exits": [],
+  "extra_descriptions": [
+    {
+      "keywords": "corpse corpses",
+      "description": "Mauled and torn apart ... throats were ripped out and guts spilled on the\nfloor ... you slip and land, planting yourself firmly in the slick wetness\nand splattering yourself with offal."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/34.wld"
+}

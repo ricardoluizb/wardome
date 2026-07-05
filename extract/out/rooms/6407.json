@@ -3,8 +3,8 @@
   "zone_id": 64,
   "name": "A Stairwell",
   "description": "This small room is the top of a stairwell leading down\ndeep into the tower.  A small trapdoor overhead leaks\nthe light of day around its edges.  To the south is a \nwooden door, preserved through the ages by means \nunknown.  To the west is a short hall.",
-  "header_raw": "64 ad 0",
-  "flags_text": "ad",
+  "header_raw": "64 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

@@ -1,0 +1,29 @@
+{
+  "id": 11543,
+  "zone_id": 115,
+  "name": "The Blue Seats",
+  "description": "Ahh, the infamous Blue Seats.  These unrestricted stands are inhabited by\nthe most loyal, die-hard fans you'll ever want to not meet.  Vile, sweaty,\nlewd, rude, crude, and usually drunk -- this is not the place to be for the\nfaint of heart.  The Blue Seats continue to the east, to the west is the exit\nfrom WarDome.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11544
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11531
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

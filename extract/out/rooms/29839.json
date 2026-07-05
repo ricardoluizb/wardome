@@ -1,0 +1,45 @@
+{
+  "id": 29839,
+  "zone_id": 298,
+  "name": "On the narrow stone bridge",
+  "description": "You are standing on a narrow stone bridge.  It looks very slippery and wet.  \nYou better be carefull because it's a long way down.  You can continue east and\nwest into the abyss or south and north to the cave.",
+  "header_raw": "298 13 2",
+  "flags_text": "13",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29842
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29838
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29835
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29840
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/298.wld"
+}

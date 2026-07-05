@@ -1,0 +1,12 @@
+{
+  "id": 9002,
+  "alias": "rabid fox",
+  "short_desc": "the rabid fox",
+  "long_desc": "A rabid fox is here, drooling heavily.",
+  "detailed_desc": "The rabid fox seems almost putrid.",
+  "flags_raw": "41003 1024 0 E",
+  "stats1_raw": "160 -78 -27 1d1+15996 5d33+154",
+  "stats2_raw": "2400 16953466 9",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/90.mob"
+}

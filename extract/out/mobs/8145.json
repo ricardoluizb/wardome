@@ -1,0 +1,12 @@
+{
+  "id": 8145,
+  "alias": "goblin",
+  "short_desc": "the goblin",
+  "long_desc": "A drunken goblin staggers around.",
+  "detailed_desc": "You don't want to THINK about what he's been drinking.",
+  "flags_raw": "6248 1024 -250 E",
+  "stats1_raw": "151 -77 -29 1d1+17508 5d46+170",
+  "stats2_raw": "2265 16719291 11",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/81.mob"
+}

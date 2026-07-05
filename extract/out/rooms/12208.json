@@ -1,0 +1,45 @@
+{
+  "id": 12208,
+  "zone_id": 122,
+  "name": "The Icy Wastes",
+  "description": "The blizzard is less fierce at this point, and as you peer through the\nblinding snow you think you can make out a glittering bridge in the\ndistance. But no matter how much you try to reach it, it always seems\nto be too far away. At a loss, you wander aimlessly, not knowing what\nto do.",
+  "header_raw": "122 4 1",
+  "flags_text": "4",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12209
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12206
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12208
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12208
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

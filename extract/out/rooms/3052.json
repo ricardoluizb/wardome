@@ -1,27 +1,35 @@
 {
   "id": 3052,
   "zone_id": 30,
-  "name": "Outside The West Gate Of Midgaard",
-  "description": "You are by two small towers that have been built into the city wall and\nconnected with a footbridge across the heavy wooden gate.  To the west you\ncan see the edge of a big forest.",
-  "header_raw": "30 0 1",
-  "flags_text": "0",
+  "name": "Outside The West Gate Of dead Midgaard",
+  "description": "You are by two small towers that have been built into the city wall and\nconnected with a footbridge across the heavy wooden gate.",
+  "header_raw": "30 16777216 1",
+  "flags_text": "16777216",
   "sector": 1,
   "exits": [
     {
       "dir": 1,
       "description": "The city gate is to the east.",
-      "keywords": "gate",
-      "door_flag": 1,
-      "key": 3112,
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
       "to": 3040
     },
     {
       "dir": 3,
-      "description": "The forest edge is to the west.",
+      "description": "",
       "keywords": "",
       "door_flag": 0,
-      "key": -1,
-      "to": 6092
+      "key": 0,
+      "to": 15069
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3095
     }
   ],
   "extra_descriptions": [

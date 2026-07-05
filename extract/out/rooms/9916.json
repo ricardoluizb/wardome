@@ -1,0 +1,29 @@
+{
+  "id": 9916,
+  "zone_id": 99,
+  "name": "At the undead bar.",
+  "description": "A long bar stands here constructed of God only knows what.  It \nappears to be made of human flesh sewn together with the hair of \nvarious beasts.  Although sturdy, the bar is very pliant to the \ntouch, and it seems to be MOVING ever so slightly, as if it were \nALIVE!\n  A stairwell is here, leading upwards into blackness.",
+  "header_raw": "99 1 1",
+  "flags_text": "1",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9915
+    },
+    {
+      "dir": 4,
+      "description": "Too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9918
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/99.wld"
+}

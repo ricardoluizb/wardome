@@ -1,0 +1,12 @@
+{
+  "id": 14303,
+  "alias": "mob Rez shopkeeper",
+  "short_desc": "Rez",
+  "long_desc": "Rez the weaponsmith is standing here, looking you up and down.",
+  "detailed_desc": "Rez is a short, grey-haired man with wide shoulders. He continues to stare at\nyou as you look through his shop, and you get the general feeling that he does\nnot trust his clientel.",
+  "flags_raw": "24586 168 0 E",
+  "stats1_raw": "80 -38 -15 1d1+7992 5d17+122",
+  "stats2_raw": "1200 2320818 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/143.mob"
+}

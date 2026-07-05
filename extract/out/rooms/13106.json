@@ -1,0 +1,29 @@
+{
+  "id": 13106,
+  "zone_id": 131,
+  "name": "Shogun of Jin",
+  "description": "You find yourself in a peaceful abode.  Before you stands the Shogun of Jin.\nAlthough you don't know exactly what Jin means, you feel that this man can\nteach you much about people.  Stairs lead upward to the next level.",
+  "header_raw": "131 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "To the south lies the hospital.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13105
+    },
+    {
+      "dir": 4,
+      "description": "A golden stairway leads you ever upward.",
+      "keywords": "forcefield",
+      "door_flag": 1,
+      "key": 13100,
+      "to": 13107
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/131.wld"
+}

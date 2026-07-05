@@ -1,0 +1,29 @@
+{
+  "id": 5807,
+  "zone_id": 57,
+  "name": "A Short Dark Corridor",
+  "description": "You are heading along a short dark corridor with doors at either end.",
+  "header_raw": "57 13 0",
+  "flags_text": "13",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "a zombie room",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5808
+    },
+    {
+      "dir": 2,
+      "description": "a junction on the north bank near a bridge",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 0,
+      "to": 5798
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

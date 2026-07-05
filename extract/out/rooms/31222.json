@@ -1,0 +1,29 @@
+{
+  "id": 31222,
+  "zone_id": 312,
+  "name": "Confession Temple",
+  "description": "This room stinks the rottenness, it is here where Shalyzaar makes your\nconfessions to the God Shalynon, he sintting in your throne in the form of the\nTitan.",
+  "header_raw": "312 196 0",
+  "flags_text": "196",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "a small passage n the floor.",
+      "keywords": "passage",
+      "door_flag": 0,
+      "key": 31299,
+      "to": -1
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 31212
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/312.wld"
+}

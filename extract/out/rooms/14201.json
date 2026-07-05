@@ -1,0 +1,29 @@
+{
+  "id": 14201,
+  "zone_id": 141,
+  "name": "The Dungeon Moongate",
+  "description": "You feel safe within the blue glow of the moongate.",
+  "header_raw": "141 68 0",
+  "flags_text": "68",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 14200
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "moongate gate moon",
+      "door_flag": 2,
+      "key": 14112,
+      "to": 14202
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

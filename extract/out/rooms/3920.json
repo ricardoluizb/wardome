@@ -1,0 +1,29 @@
+{
+  "id": 3920,
+  "zone_id": 39,
+  "name": "The office",
+  "description": "This room is really busy lots of people here...  Beside that is quite\nintersting, marble smooth walls and some chairs, nice and colorfull objects are\nall around in golden bookcases, near which you see a BIG sign.  A big person\nwith very fin robes stands here, trying to keep the order.",
+  "header_raw": "39 262176 9",
+  "flags_text": "262176",
+  "sector": 9,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3921
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 3919
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/39.wld"
+}

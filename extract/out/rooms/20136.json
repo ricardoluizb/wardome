@@ -1,0 +1,29 @@
+{
+  "id": 20136,
+  "zone_id": 201,
+  "name": "A Mysterious Room",
+  "description": "The door above you closes and effectively seals off your exit. The walls \nof this strange room glow and hum as if it is alive. This is where the \nbody of the high monks are kept after they attain enlightenment. These\nbodies are embalmed and preserved using gold, hence they are sometimes \nreferred to as \"Jinshen\". A stairway leads down.",
+  "header_raw": "201 521 0",
+  "flags_text": "521",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "workshop wall",
+      "door_flag": 1,
+      "key": 20136,
+      "to": 20137
+    },
+    {
+      "dir": 5,
+      "description": "The stairway leads down",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 20116
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/201.wld"
+}

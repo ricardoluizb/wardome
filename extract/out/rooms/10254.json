@@ -1,0 +1,37 @@
+{
+  "id": 10254,
+  "zone_id": 102,
+  "name": "The Cathedral Hidden Floor",
+  "description": "Indeed it is a secret passageway, after climbing some stairs you are\nnow in a second floor of the secret passageway. Your suspects that this\nactually is a fleing route are increasing. The reason? The carpet\nis filled with blood stains.",
+  "header_raw": "102 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10255
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10257
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10253
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

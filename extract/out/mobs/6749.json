@@ -1,0 +1,12 @@
+{
+  "id": 6749,
+  "alias": "watchman watch guard gate",
+  "short_desc": "the gate watchman",
+  "long_desc": "The gate watchman stares glass-eyed at the horizon.",
+  "detailed_desc": "He was apparently chosen for his inability to blink. He is a brawny\nfellow, but doesnt strike you as having the froth-mouthed drive to fight\nas seen in the town guards.",
+  "flags_raw": "2314 8 0 E",
+  "stats1_raw": "145 -52 -11 1d1+4056 5d15+58",
+  "stats2_raw": "2175 8494573 0",
+  "stats3_raw": "8 8 1 7 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/67.mob"
+}

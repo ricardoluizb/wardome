@@ -1,0 +1,21 @@
+{
+  "id": 8198,
+  "zone_id": 81,
+  "name": "The Goblin Treasury",
+  "description": "Well! I don't know how you got the key, but you have broken into\nthis vault at last.  Now you may plunder the gold, gems, and wonderful\nweapons which the goblins have stolen over these many years.",
+  "header_raw": "81 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Have you gathered it all? Then leave through the door of adamant.",
+      "keywords": "door adamant",
+      "door_flag": 2,
+      "key": 8105,
+      "to": 8194
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

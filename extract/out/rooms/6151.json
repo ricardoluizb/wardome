@@ -3,10 +3,18 @@
   "zone_id": 61,
   "name": "The Narrow Trail",
   "description": "This area of the trail is also very peculiar.  You can see no signs of\nanimal life what so ever.  The structure of the surrounding trees forces\nthe path to make a sharp turn to the east.",
-  "header_raw": "61 ad 3",
-  "flags_text": "ad",
+  "header_raw": "61 9 3",
+  "flags_text": "9",
   "sector": 3,
   "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 9400
+    },
     {
       "dir": 1,
       "description": "The trail bends east.",
@@ -22,6 +30,14 @@
       "door_flag": 0,
       "key": -1,
       "to": 6150
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13000
     }
   ],
   "extra_descriptions": [],

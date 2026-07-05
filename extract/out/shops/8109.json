@@ -1,0 +1,40 @@
+{
+  "id": 8109,
+  "producing": [
+    8160,
+    8159,
+    8158,
+    8157,
+    3052,
+    3050
+  ],
+  "profit_buy": 1.5,
+  "profit_sell": 0.5,
+  "buy_types": [
+    "2",
+    "16",
+    "21"
+  ],
+  "messages": [
+    "%s The goblins must have stolen that.",
+    "%s Sorry, you don't have that to sell.",
+    "%s This is a library, not a general store.",
+    "%s Would you donate it?",
+    "%s I'm sorry, but you can't afford that.",
+    "%s That'll be %d crowns.",
+    "%s Here are %d crowns. Thank you very much."
+  ],
+  "tail": [
+    2,
+    3,
+    8109,
+    2,
+    8124,
+    -1,
+    5,
+    19,
+    0,
+    0
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/81.shp"
+}

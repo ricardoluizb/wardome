@@ -3,8 +3,8 @@
   "zone_id": 33,
   "name": "A Cave Passageway",
   "description": "This area darker than the rest of the passageway, due\nto the fact that the sconces along the walls stop abruptly\nhere.  The way to the south is completely dark, in direct\ncontrast to the tunnels to the west.  You peer hard to the\nsouth, but can make out nothing in the impenetrable \ndarkness.  And still that distant thumping impinges on \nyour consciousness...",
-  "header_raw": "33 d 0",
-  "flags_text": "d",
+  "header_raw": "33 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

@@ -3,8 +3,8 @@
   "zone_id": 36,
   "name": "The Black Treasury",
   "description": "You are standing in the treasury of the Black Court.  Hopefully no one \nhas looted the Crown's treasure.",
-  "header_raw": "36 adj 0",
-  "flags_text": "adj",
+  "header_raw": "36 521 0",
+  "flags_text": "521",
   "sector": 0,
   "exits": [
     {

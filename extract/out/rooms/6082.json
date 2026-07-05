@@ -3,8 +3,8 @@
   "zone_id": 60,
   "name": "In The Dense Forest Between The Hills",
   "description": "You are standing among tightly packed trees on a medium sized hill. The\ndense forest spreads out all around you, and the crowns of the old trees leave\nthe hills in an unreal twilight illumination.",
-  "header_raw": "60 c 4",
-  "flags_text": "c",
+  "header_raw": "60 4 4",
+  "flags_text": "4",
   "sector": 4,
   "exits": [
     {

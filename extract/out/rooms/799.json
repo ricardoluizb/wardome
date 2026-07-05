@@ -1,0 +1,21 @@
+{
+  "id": 799,
+  "zone_id": 7,
+  "name": "Bedroom",
+  "description": "Something smells quite dead here.\n   There is a queen-sized bed taking up most of this small attic\nroom. Some clothes are spread about in disorder and the bed isn't\nmade.  A single chair is pulled up to a writing desk, where it looks\nlike someone works frequently.  Up here it is very chill, much colder\nthan it is outside.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 798
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

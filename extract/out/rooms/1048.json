@@ -1,0 +1,30 @@
+{
+  "id": 1048,
+  "zone_id": 10,
+  "name": "The Tomb Of Princess Evalynn",
+  "description": "This is the tomb in which the legendary Princess Evalynn has been\nentombed for years and years.  Looking about this tomb, you notice\nthe numerous candles yet burning about an ebony coffin.  The room\nsmells of flowers, roses and carnations to be precise.  A slight\nbreeze makes the candles flicker momentarily.  The walls have been\npainted with a multitude of small paintings and designs, probably\nabout the life of Princess Evalynn.",
+  "header_raw": "10 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A large stone door stands just to the east, blocking all entrance into\nthis wonderous place.",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 1010,
+      "to": 1047
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "coffin",
+      "description": "The coffin seems to be made of ebony and seems to be very much closed."
+    },
+    {
+      "keywords": "walls wall painting paintings",
+      "description": "The paintings on the walls show various events in Princess Evalynn's\nlife.  One shows her ill-fated wedding day, when the wedding party\nwas attacked shortly before the ceremony and Prince Michael was\ncarried off by a large golden dragon.  Another shows her donning a\nsuit of emerald armour in preparation of war.  She was forced to\ntake the kingdom in hand and defend it against many attacks over the\nyears by those who thought that Gildoria would fall easily without\nany solid male leadership."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/10.wld"
+}

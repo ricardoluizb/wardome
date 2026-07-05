@@ -3,8 +3,8 @@
   "zone_id": 9,
   "name": "The Third Trial Of Minos",
   "description": "You go inside a red room.  Very red.  As if the Minos King used\nthem to disembowel his guests.  The path continues eastward.  You\nsee blue lights in that direction.",
-  "header_raw": "9 ad 0",
-  "flags_text": "ad",
+  "header_raw": "9 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

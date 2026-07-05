@@ -1,0 +1,29 @@
+{
+  "id": 6828,
+  "zone_id": 67,
+  "name": "The black orchard gate",
+  "description": "A small gate wrought with black iron flowers and arches swings loosely\nin the shallow wind. Beyond, rows of brambles are stretching past the\nrange of your vision.",
+  "header_raw": "67 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "gate",
+      "door_flag": 0,
+      "key": 6779,
+      "to": 6829
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6827
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

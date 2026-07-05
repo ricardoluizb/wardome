@@ -1,0 +1,29 @@
+{
+  "id": 30025,
+  "zone_id": 300,
+  "name": "The grey shores",
+  "description": "These are the cold grey shores where the ocean meets the land.  Waves crash\nendlessly upon the beach leaving a film of foam upon the sand.  To the south\nyou can see a tremendous pier reaching way out into the ocean.  Just to your\neast are huge stone walls.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30024
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30026
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

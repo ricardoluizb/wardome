@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Mage's Laboratory",
   "description": "You stand in the top of an old stone tower.  Along the walls hundreds\nof potions, scroll, and wands lie in disaray.  The man you see before you\nsits hunched over a small wooden table with two beakers of bubbling liquid\nin front of him.  He looks up as you enter and smiles broadly.",
-  "header_raw": "54 deh 0",
-  "flags_text": "deh",
+  "header_raw": "54 152 0",
+  "flags_text": "152",
   "sector": 0,
   "exits": [
     {

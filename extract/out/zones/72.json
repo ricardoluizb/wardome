@@ -2,52 +2,13 @@
   "id": 72,
   "name": "The Sewer Maze",
   "header": {
-    "raw": "7200 7299 25 2",
-    "min_room": 7200,
-    "top_room": 7299,
-    "lifespan": 25,
-    "reset_mode": 2
+    "raw": "7399 25 2 1 -1",
+    "min_room": 7399,
+    "top_room": 25,
+    "lifespan": 2,
+    "reset_mode": 1
   },
   "commands": [
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        7200,
-        1,
-        7201
-      ],
-      "comment": "Master Mindflayer"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        7200,
-        1,
-        16
-      ],
-      "comment": "Devil Rod"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        7203,
-        1,
-        3
-      ],
-      "comment": "Cloak"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        7205,
-        1
-      ],
-      "comment": "Key"
-    },
     {
       "cmd": "O",
       "args": [
@@ -56,7 +17,7 @@
         6,
         7200
       ],
-      "comment": "Neon Blue Potion"
+      "comment": "(a neon blue potion)"
     },
     {
       "cmd": "O",
@@ -66,374 +27,7 @@
         1,
         7200
       ],
-      "comment": "Treasure"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        7201,
-        1,
-        7203
-      ],
-      "comment": "Senior Mindflayer"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        7201,
-        4,
-        16
-      ],
-      "comment": "Large Mace"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        7202,
-        2,
-        7205
-      ],
-      "comment": "Junior Mindflayer"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        7202,
-        8,
-        16
-      ],
-      "comment": "Small Mace"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        7202,
-        2,
-        7207
-      ],
-      "comment": "Junior Mindflayer"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        7202,
-        8,
-        16
-      ],
-      "comment": "Small Mace"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        7203,
-        10,
-        7214
-      ],
-      "comment": "Wererat"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        7211,
-        16,
-        16
-      ],
-      "comment": "Short Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        7203,
-        10,
-        7213
-      ],
-      "comment": "Wererat"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        7211,
-        16,
-        16
-      ],
-      "comment": "Short Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        7203,
-        10,
-        7215
-      ],
-      "comment": "Wererat"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        7211,
-        16,
-        16
-      ],
-      "comment": "Short Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        7203,
-        10,
-        7217
-      ],
-      "comment": "Wererat"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        7211,
-        16,
-        16
-      ],
-      "comment": "Short Sword"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        7203,
-        10,
-        7219
-      ],
-      "comment": "Wererat"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        7203,
-        10,
-        7221
-      ],
-      "comment": "Wererat"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        7203,
-        10,
-        7223
-      ],
-      "comment": "Wererat"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        7203,
-        10,
-        7225
-      ],
-      "comment": "Wererat"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        7203,
-        10,
-        7233
-      ],
-      "comment": "Wererat"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        7203,
-        10,
-        7233
-      ],
-      "comment": "Wererat"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        7204,
-        1,
-        7234
-      ],
-      "comment": "Gigantic Rat"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        7002,
-        5,
-        7285
-      ],
-      "comment": "The Sewer Rat"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        7002,
-        5,
-        7285
-      ],
-      "comment": "The Sewer Rat"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        7190,
-        2,
-        2
-      ],
-      "comment": "Silver Ring"
-    },
-    {
-      "cmd": "E",
-      "args": [
-        1,
-        7209,
-        4,
-        8
-      ],
-      "comment": "Muddy Boots"
-    },
-    {
-      "cmd": "G",
-      "args": [
-        1,
-        7208,
-        20
-      ],
-      "comment": "Light Stick"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        7002,
-        5,
-        7285
-      ],
-      "comment": "The Sewer Rat"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        7000,
-        8,
-        7286
-      ],
-      "comment": "The Horrifying Mudmonster"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        7000,
-        8,
-        7286
-      ],
-      "comment": "The Horrifying Mudmonster"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        7000,
-        8,
-        7281
-      ],
-      "comment": "The Horrifying Mudmonster"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        7000,
-        8,
-        7281
-      ],
-      "comment": "The Horrifying Mudmonster"
-    },
-    {
-      "cmd": "M",
-      "args": [
-        0,
-        7000,
-        8,
-        7280
-      ],
-      "comment": "The Horrifying Mudmonster"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        7206,
-        7206
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        7206,
-        4,
-        7206
-      ],
-      "comment": "Skull"
-    },
-    {
-      "cmd": "R",
-      "args": [
-        0,
-        7211,
-        7208
-      ],
-      "comment": ""
-    },
-    {
-      "cmd": "O",
-      "args": [
-        0,
-        7208,
-        20,
-        7211
-      ],
-      "comment": "Light Stick"
-    },
-    {
-      "cmd": "D",
-      "args": [
-        0,
-        7201,
-        3,
-        2
-      ],
-      "comment": "Treasury Door"
+      "comment": "(a huge treasure)"
     },
     {
       "cmd": "D",
@@ -443,7 +37,417 @@
         1,
         2
       ],
-      "comment": ""
+      "comment": "(The Treasury)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7200,
+        1,
+        7201
+      ],
+      "comment": "(the master mindflayer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7200,
+        1,
+        16
+      ],
+      "comment": "(the devil rod)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7203,
+        1,
+        3
+      ],
+      "comment": "(a purple cloak)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7205,
+        1,
+        -1
+      ],
+      "comment": "(a black key)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7201,
+        1,
+        7203
+      ],
+      "comment": "(the senior mindflayer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7201,
+        4,
+        16
+      ],
+      "comment": "(the large mace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7202,
+        2,
+        7205
+      ],
+      "comment": "(the junior mindflayer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7202,
+        8,
+        16
+      ],
+      "comment": "(the small mace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7202,
+        2,
+        7207
+      ],
+      "comment": "(the junior mindflayer)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7202,
+        8,
+        16
+      ],
+      "comment": "(the small mace)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7203,
+        10,
+        7214
+      ],
+      "comment": "(the ugly wererat)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7211,
+        16,
+        16
+      ],
+      "comment": "(a short sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7203,
+        10,
+        7213
+      ],
+      "comment": "(the ugly wererat)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7211,
+        16,
+        16
+      ],
+      "comment": "(a short sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7203,
+        10,
+        7215
+      ],
+      "comment": "(the ugly wererat)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7211,
+        16,
+        16
+      ],
+      "comment": "(a short sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7203,
+        10,
+        7217
+      ],
+      "comment": "(the ugly wererat)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7211,
+        16,
+        16
+      ],
+      "comment": "(a short sword)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7203,
+        10,
+        7219
+      ],
+      "comment": "(the ugly wererat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7203,
+        10,
+        7221
+      ],
+      "comment": "(the ugly wererat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7203,
+        10,
+        7223
+      ],
+      "comment": "(the ugly wererat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7203,
+        10,
+        7225
+      ],
+      "comment": "(the ugly wererat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7203,
+        10,
+        7233
+      ],
+      "comment": "(the ugly wererat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7203,
+        10,
+        7233
+      ],
+      "comment": "(the ugly wererat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7204,
+        1,
+        7234
+      ],
+      "comment": "(the gigantic rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7002,
+        5,
+        7285
+      ],
+      "comment": "(the sewer rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7002,
+        5,
+        7285
+      ],
+      "comment": "(the sewer rat)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7190,
+        2,
+        2
+      ],
+      "comment": "(a glinting silver ring)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7209,
+        4,
+        8
+      ],
+      "comment": "(a pair of muddy boots)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7208,
+        20,
+        -1
+      ],
+      "comment": "(a small stick)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7002,
+        5,
+        7285
+      ],
+      "comment": "(the sewer rat)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7000,
+        8,
+        7286
+      ],
+      "comment": "(the horrifying Mudmonster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7000,
+        8,
+        7286
+      ],
+      "comment": "(the horrifying Mudmonster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7000,
+        8,
+        7281
+      ],
+      "comment": "(the horrifying Mudmonster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7000,
+        8,
+        7281
+      ],
+      "comment": "(the horrifying Mudmonster)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7000,
+        8,
+        7280
+      ],
+      "comment": "(the horrifying Mudmonster)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        7206,
+        7206,
+        -1
+      ],
+      "comment": "(a strange white skull)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        7206,
+        4,
+        7206
+      ],
+      "comment": "(a strange white skull)"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        7211,
+        7208,
+        -1
+      ],
+      "comment": "(a small stick)"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        7208,
+        20,
+        7211
+      ],
+      "comment": "(a small stick)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7201,
+        3,
+        2
+      ],
+      "comment": "(The Inner Lair)"
     },
     {
       "cmd": "D",
@@ -453,7 +457,7 @@
         0,
         1
       ],
-      "comment": "Inner Lair Door"
+      "comment": "(The Lair)"
     },
     {
       "cmd": "D",
@@ -463,7 +467,7 @@
         2,
         1
       ],
-      "comment": ""
+      "comment": "(The Inner Lair)"
     },
     {
       "cmd": "D",
@@ -473,7 +477,7 @@
         0,
         1
       ],
-      "comment": "Lair Door"
+      "comment": "(The Lair Entrance)"
     },
     {
       "cmd": "D",
@@ -483,7 +487,7 @@
         2,
         1
       ],
-      "comment": ""
+      "comment": "(The Lair)"
     },
     {
       "cmd": "D",
@@ -493,7 +497,7 @@
         2,
         1
       ],
-      "comment": "Entrance Door"
+      "comment": "(The Corridor)"
     },
     {
       "cmd": "D",
@@ -503,7 +507,7 @@
         0,
         1
       ],
-      "comment": ""
+      "comment": "(The Entrance)"
     },
     {
       "cmd": "D",
@@ -513,7 +517,7 @@
         0,
         1
       ],
-      "comment": "Torture Room Door"
+      "comment": "(The Hell Yard)"
     },
     {
       "cmd": "D",
@@ -523,8 +527,8 @@
         2,
         1
       ],
-      "comment": ""
+      "comment": "(The Torture Room)"
     }
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/72.zon"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/72.zon"
 }

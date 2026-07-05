@@ -1,0 +1,29 @@
+{
+  "id": 30401,
+  "zone_id": 304,
+  "name": "&REn&Wtr&ran&wce&n Of &WThe &RS&wi&Rt&wh &RT&re&Wm&wp&Rl&re&n",
+  "description": "You see a huge black pyramid with a strange red triangle pointing down, \nencarved near its top. Right in front of you is the main gate of this \nmonstruousstructure, you feel a strange power flowing within this \nbuilding, and without knowing why you are taken by a deep fear.",
+  "header_raw": "304 192 0",
+  "flags_text": "192",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30402
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6124
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/304.wld"
+}

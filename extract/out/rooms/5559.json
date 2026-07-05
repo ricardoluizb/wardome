@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Northwest Tower",
   "description": "You stand on one of the four towers guarding the city.  The view from\nhere is great!  To the west you see the tall mountains that make up the\ndivide between here and Midgaard.  The River Ishtar slowly flows from that\ndirection.  South you can see the entire city of New Thalos and the Great\nEastern Desert to the south.",
-  "header_raw": "54 d 0",
-  "flags_text": "d",
+  "header_raw": "54 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

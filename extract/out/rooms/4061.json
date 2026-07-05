@@ -3,8 +3,8 @@
   "zone_id": 40,
   "name": "The Light Cave",
   "description": "The cave you stand in now is lit by an eerie flickering light,\nwhich probably comes from the enormous fire which is burning a\nshort distance to the north in what looks to be the middle of\nthe cave.  The flickering light creates some really strange and\nalmost frightening shadows on the walls, almost hiding the two\ntunnels that lead away from here, one to the west and one to the\nsouth.",
-  "header_raw": "40 d 2",
-  "flags_text": "d",
+  "header_raw": "40 8 2",
+  "flags_text": "8",
   "sector": 2,
   "exits": [
     {

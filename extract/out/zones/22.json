@@ -1,0 +1,1274 @@
+{
+  "id": 22,
+  "name": "The Dragon Tower",
+  "header": {
+    "raw": "2299 30 1 17 -1",
+    "min_room": 2299,
+    "top_room": 30,
+    "lifespan": 1,
+    "reset_mode": 17
+  },
+  "commands": [
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2231,
+        2,
+        0
+      ],
+      "comment": "(The End...)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2244,
+        1,
+        2231
+      ],
+      "comment": "(Tiamat)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2221,
+        10,
+        12
+      ],
+      "comment": "(&wa &bPlain &wBlack &cRobe&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2224,
+        10,
+        2
+      ],
+      "comment": "(&wa &CD&Wi&Ca&Wm&Co&Wn&Cd &WRing&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2224,
+        10,
+        1
+      ],
+      "comment": "(&wa &CD&Wi&Ca&Wm&Co&Wn&Cd &WRing&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        2231,
+        4,
+        2
+      ],
+      "comment": "(The End...)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2232,
+        1,
+        1
+      ],
+      "comment": "(Stairwell)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2240,
+        8,
+        2232
+      ],
+      "comment": "(a Draconian zombie)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        2222,
+        3,
+        1
+      ],
+      "comment": "(The Crypt Ends)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2202,
+        1,
+        2222
+      ],
+      "comment": "(the dragon master)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2202,
+        3,
+        16
+      ],
+      "comment": "(&ga &GD&gragon's &WTooth &rKnife&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2281,
+        3,
+        10
+      ],
+      "comment": "(&ga set of &GD&gragon &YS&ycale &YS&yleeves&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2271,
+        3,
+        9
+      ],
+      "comment": "(&ga pair of &GD&gragon Skin &YG&yloves&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2208,
+        1,
+        2246
+      ],
+      "comment": "(the Great Flying Drake)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2208,
+        15,
+        0
+      ],
+      "comment": "(&RF&rir&Ye&yd&Yr&rak&Re &YScepter&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2209,
+        1,
+        2247
+      ],
+      "comment": "(the Great Witchblight)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2207,
+        15,
+        8
+      ],
+      "comment": "(&ga pair of &GD&gragon &YS&ycale &YB&yoots&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2210,
+        1,
+        2248
+      ],
+      "comment": "(the Great Rhyr'Arack)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2206,
+        15,
+        19
+      ],
+      "comment": "(&YE&yarring &gof &GD&gragon &RR&rhyr'Arack&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2211,
+        1,
+        2249
+      ],
+      "comment": "(the Great Syrax Bloodbane)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2205,
+        20,
+        21
+      ],
+      "comment": "(&GD&gragons &YF&yace&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2219,
+        1,
+        2245
+      ],
+      "comment": "(&wBlack head&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2217,
+        1,
+        2245
+      ],
+      "comment": "(&BBlue head&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2220,
+        1,
+        2245
+      ],
+      "comment": "(&RRed Head&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2216,
+        1,
+        2245
+      ],
+      "comment": "(&GGreen head&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2218,
+        1,
+        2245
+      ],
+      "comment": "(&WWhite head&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2200,
+        12,
+        2201
+      ],
+      "comment": "(the dragon hatchling)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2231,
+        5,
+        -1
+      ],
+      "comment": "(&wa Steel &YKey&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        2201,
+        0,
+        2
+      ],
+      "comment": "(The Tower Gates)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2243,
+        1,
+        2217
+      ],
+      "comment": "(the Draconian Queen)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2203,
+        3,
+        14
+      ],
+      "comment": "(&ga &GD&gragon Skin &yBracelet&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2204,
+        5,
+        13
+      ],
+      "comment": "(&wa Black &WSilk &YBelt&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2201,
+        10,
+        16
+      ],
+      "comment": "(a silver dagger)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2227,
+        5,
+        2217
+      ],
+      "comment": "(a human slave)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2227,
+        5,
+        2217
+      ],
+      "comment": "(a human slave)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2241,
+        2,
+        2217
+      ],
+      "comment": "(the phase dragon)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2205,
+        1,
+        2216
+      ],
+      "comment": "(the Draconian King)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2222,
+        8,
+        16
+      ],
+      "comment": "(&GE&gm&Ge&gr&Ga&gl&Gd &WS&wword&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2276,
+        3,
+        12
+      ],
+      "comment": "(&wa &WFur &cCloak&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2242,
+        3,
+        11
+      ],
+      "comment": "(&wa &WCrested &yShield&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2254,
+        3,
+        9
+      ],
+      "comment": "(&ya pair of &YS&ypiked &YG&yauntlets&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2232,
+        2,
+        -1
+      ],
+      "comment": "(&wa &RRuby &YKey&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2207,
+        20,
+        2216
+      ],
+      "comment": "(a bodyguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2207,
+        20,
+        2216
+      ],
+      "comment": "(a bodyguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2207,
+        20,
+        2216
+      ],
+      "comment": "(a bodyguard)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2242,
+        5,
+        2216
+      ],
+      "comment": "(the draconian fool)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2242,
+        5,
+        2216
+      ],
+      "comment": "(the draconian fool)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2207,
+        20,
+        2211
+      ],
+      "comment": "(a bodyguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2286,
+        20,
+        16
+      ],
+      "comment": "(&wa &yC&Yo&yp&Yp&ye&Yr &yHammer&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2207,
+        20,
+        2211
+      ],
+      "comment": "(a bodyguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2260,
+        10,
+        16
+      ],
+      "comment": "(&wa &YGolden &WScimitar&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2203,
+        1,
+        2214
+      ],
+      "comment": "(a powerful mage)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2223,
+        10,
+        12
+      ],
+      "comment": "(&wa &yStone Club&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2250,
+        10,
+        17
+      ],
+      "comment": "(&wa &wBlack &WStaff&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2261,
+        3,
+        3
+      ],
+      "comment": "(&wa &CD&Wi&Ca&Wm&Co&Wn&Cd &WBrooch&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2251,
+        10,
+        -1
+      ],
+      "comment": "(&wa &CCyan &cPotion&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2242,
+        5,
+        2214
+      ],
+      "comment": "(the draconian fool)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2204,
+        1,
+        2214
+      ],
+      "comment": "(the holy Draconian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2220,
+        2,
+        3
+      ],
+      "comment": "(&wa &CH&coly &WS&wymbol&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2211,
+        10,
+        14
+      ],
+      "comment": "(&wa P&Wl&wa&Wt&wi&Wn&wu&Wm &yBracelet&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2210,
+        10,
+        13
+      ],
+      "comment": "(&wa &WWhite Silk &YBelt&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2270,
+        10,
+        -1
+      ],
+      "comment": "(&wa &YR&yuned &wScroll&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2252,
+        10,
+        -1
+      ],
+      "comment": "(&wa &Mmagenta &mpotion&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2200,
+        12,
+        2241
+      ],
+      "comment": "(the dragon hatchling)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2200,
+        12,
+        2239
+      ],
+      "comment": "(the dragon hatchling)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2200,
+        12,
+        2202
+      ],
+      "comment": "(the dragon hatchling)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2200,
+        12,
+        2203
+      ],
+      "comment": "(the dragon hatchling)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2200,
+        12,
+        2203
+      ],
+      "comment": "(the dragon hatchling)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2200,
+        12,
+        2205
+      ],
+      "comment": "(the dragon hatchling)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2200,
+        12,
+        2205
+      ],
+      "comment": "(the dragon hatchling)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2200,
+        12,
+        2205
+      ],
+      "comment": "(the dragon hatchling)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2200,
+        12,
+        2205
+      ],
+      "comment": "(the dragon hatchling)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2201,
+        7,
+        2203
+      ],
+      "comment": "(the Draconian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2200,
+        20,
+        16
+      ],
+      "comment": "(a jagged spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2201,
+        7,
+        2204
+      ],
+      "comment": "(the Draconian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2200,
+        20,
+        16
+      ],
+      "comment": "(a jagged spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2201,
+        7,
+        2204
+      ],
+      "comment": "(the Draconian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2200,
+        20,
+        16
+      ],
+      "comment": "(a jagged spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2201,
+        7,
+        2204
+      ],
+      "comment": "(the Draconian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2200,
+        20,
+        16
+      ],
+      "comment": "(a jagged spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2200,
+        12,
+        2207
+      ],
+      "comment": "(the dragon hatchling)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2227,
+        5,
+        2207
+      ],
+      "comment": "(a human slave)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2200,
+        12,
+        2206
+      ],
+      "comment": "(the dragon hatchling)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2226,
+        1,
+        2208
+      ],
+      "comment": "(a large hydra)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2244,
+        5,
+        17
+      ],
+      "comment": "(&wa Silver &WStaff&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2234,
+        1,
+        -1
+      ],
+      "comment": "(&wa &wGrey &YKey&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2243,
+        9,
+        -1
+      ],
+      "comment": "(&wa &YGolden &WStaff&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2223,
+        20,
+        -1
+      ],
+      "comment": "(&wa &yStone Club&n)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        2230,
+        3,
+        2
+      ],
+      "comment": "(THE Lair)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        2218,
+        1,
+        2
+      ],
+      "comment": "(Entrance to the Crypt)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        2229,
+        1,
+        2
+      ],
+      "comment": "(The Great Hall Ends.)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        2243,
+        0,
+        2
+      ],
+      "comment": "(The top of the mountain)"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        2209,
+        3,
+        2
+      ],
+      "comment": "(The Treasure Room)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2201,
+        7,
+        2210
+      ],
+      "comment": "(the Draconian)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2200,
+        20,
+        16
+      ],
+      "comment": "(a jagged spear)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2207,
+        20,
+        2210
+      ],
+      "comment": "(a bodyguard)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2286,
+        20,
+        16
+      ],
+      "comment": "(&wa &yC&Yo&yp&Yp&ye&Yr &yHammer&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2206,
+        5,
+        2212
+      ],
+      "comment": "(a concubine)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2287,
+        10,
+        16
+      ],
+      "comment": "(&wa Silver &yDagger&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2206,
+        5,
+        2212
+      ],
+      "comment": "(a concubine)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2287,
+        10,
+        16
+      ],
+      "comment": "(&wa Silver &yDagger&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2233,
+        2,
+        -1
+      ],
+      "comment": "(&wa &WWhite &YKey&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2206,
+        5,
+        2212
+      ],
+      "comment": "(a concubine)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2287,
+        10,
+        16
+      ],
+      "comment": "(&wa Silver &yDagger&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2240,
+        2,
+        -1
+      ],
+      "comment": "(&wa &wBlack &YKey&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2206,
+        5,
+        2212
+      ],
+      "comment": "(a concubine)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2287,
+        10,
+        16
+      ],
+      "comment": "(&wa Silver &yDagger&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2240,
+        8,
+        2218
+      ],
+      "comment": "(a Draconian zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2240,
+        8,
+        2218
+      ],
+      "comment": "(a Draconian zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2240,
+        8,
+        2219
+      ],
+      "comment": "(a Draconian zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2240,
+        8,
+        2219
+      ],
+      "comment": "(a Draconian zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2240,
+        8,
+        2233
+      ],
+      "comment": "(a Draconian zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2240,
+        8,
+        2234
+      ],
+      "comment": "(a Draconian zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2240,
+        8,
+        2236
+      ],
+      "comment": "(a Draconian zombie)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2223,
+        1,
+        2220
+      ],
+      "comment": "(the Great White Dragon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2246,
+        10,
+        5
+      ],
+      "comment": "(&GD&gragon &YS&ycale &WM&wail&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2222,
+        1,
+        2221
+      ],
+      "comment": "(the Great Black Dragon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2280,
+        10,
+        7
+      ],
+      "comment": "(&ga pair of &GD&gragon &YS&ycale &YL&yeggings&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2221,
+        1,
+        2226
+      ],
+      "comment": "(the Great Red Dragon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2275,
+        5,
+        6
+      ],
+      "comment": "(&ga &YH&yelm &gof &GD&gragon &YKind&n)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2245,
+        5,
+        17
+      ],
+      "comment": "(&wthe &WStaff &wof &BBahamut&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2299,
+        2,
+        -1
+      ],
+      "comment": "(&wa &YT&yarnished &YGold Key&n)"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        2225,
+        1,
+        2230
+      ],
+      "comment": "(the Ancient Green Dragon)"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        2261,
+        3,
+        3
+      ],
+      "comment": "(&wa &CD&Wi&Ca&Wm&Co&Wn&Cd &WBrooch&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2241,
+        2,
+        -1
+      ],
+      "comment": "(&wa &wP&Wl&wa&Wt&wi&Wn&wu&Wm &YKey&n)"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        2285,
+        5,
+        -1
+      ],
+      "comment": "(&ga &GD&gragon &YT&yailed &YW&yhip&n)"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/zon/22.zon"
+}

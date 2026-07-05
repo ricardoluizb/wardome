@@ -1,0 +1,12 @@
+{
+  "id": 11221,
+  "alias": "silus bartender",
+  "short_desc": "Silus",
+  "long_desc": "A slender elf, the proprieter of this establishment, stares blankly at you.",
+  "detailed_desc": "Silus is the proprieter of what was once a happy and prosperous pub,\nbut now being here makes you depressed and uneasy. He and his patrons\njust sit and stare into space, no expression gracing their faces. Even\nslapping and shaking them provokes only the briefest response.",
+  "flags_raw": "10 0 0 E",
+  "stats1_raw": "35 -15 -8 1d1+3492 5d7+104",
+  "stats2_raw": "525 238782 9",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/112.mob"
+}

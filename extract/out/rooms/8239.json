@@ -1,0 +1,45 @@
+{
+  "id": 8239,
+  "zone_id": 82,
+  "name": "The Principal Street Of Lyon",
+  "description": "You have enter to the city of Lyon, you see some small buy cute houses to\nyour left and a little park to the west. You see some people doing their\ndaily work, walking from one side to another. From here you can enter to\nthe park by going west, to a house by east, go deeper in the city by south\nor go back to Paris by going north.",
+  "header_raw": "82 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8238
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8240
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8242
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8241
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

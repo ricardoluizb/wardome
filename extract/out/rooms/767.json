@@ -1,0 +1,29 @@
+{
+  "id": 767,
+  "zone_id": 7,
+  "name": "Whoops...",
+  "description": "Accelerating at 9.81 m/s2 is usually not a good idea unless you\nhave a...  SSSSSSPPPPPPPLLLLLLAAAAAAAAATTTTTTTTT!!!!!\n\n(ewww!)  (you're dead, R.I.P.)",
+  "header_raw": "7 2 0",
+  "flags_text": "2",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 710
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 709
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

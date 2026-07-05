@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "The Mine Crossroad",
   "description": "You are at a crossroad in the mine.  There is a door to the north,\nand the path continues to the south, east, and west.",
-  "header_raw": "65 ad 0",
-  "flags_text": "ad",
+  "header_raw": "65 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

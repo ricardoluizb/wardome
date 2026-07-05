@@ -1,0 +1,12 @@
+{
+  "id": 14143,
+  "alias": "sandtrap tentacle",
+  "short_desc": "the sandtrap",
+  "long_desc": "A tentacle reaches out of the sand, and latches onto your leg.",
+  "detailed_desc": "The Sandtrap burrows around under the stand, and comes onto\ntravellers hidden.  No one is really sure what the Sandtrap looks\nlike, but it is a dangerous foe.",
+  "flags_raw": "2252 33920 -1000 E",
+  "stats1_raw": "170 -67 -17 1d1+6120 5d18+78",
+  "stats2_raw": "2550 16370177 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

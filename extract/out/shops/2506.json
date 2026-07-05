@@ -8,10 +8,10 @@
   "profit_buy": 2.5,
   "profit_sell": 0.3,
   "buy_types": [
-    "SCROLL",
-    "WAND",
-    "STAFF",
-    "POTION"
+    "2",
+    "3",
+    "4",
+    "10"
   ],
   "messages": [
     "%s Say again?",
@@ -34,5 +34,5 @@
     0,
     0
   ],
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/shp/25.shp"
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/shp/25.shp"
 }

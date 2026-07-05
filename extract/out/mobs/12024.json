@@ -4,9 +4,9 @@
   "short_desc": "the slimeball",
   "long_desc": "A green ball of slime is hanging over you, oozing downward.",
   "detailed_desc": "There is a green 'ball' of slime oozing from the coating on the walls.",
-  "flags_raw": "bcfqr dfk -500 E",
-  "stats1_raw": "12 9 2 3d4+145 2d6+2",
-  "stats2_raw": "0 13000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "196654 1064 -500 E",
+  "stats1_raw": "20 10 7 1d1+414 5d3+8",
+  "stats2_raw": "300 37388 0",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/120.mob"
 }

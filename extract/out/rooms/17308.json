@@ -1,0 +1,42 @@
+{
+  "id": 17308,
+  "zone_id": 173,
+  "name": "Inside a Hut",
+  "description": "You stand inside an old, abandonned hut. The ceiling is low, and the \nrafters are covered in soot. There is a workbench and an old fireplace.",
+  "header_raw": "173 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A wooden door",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 17336,
+      "to": 17305
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "Workbench",
+      "description": "The workbench is covered in glass tubing and vials of various colored \nliquids. Maybe you should leave it alone."
+    },
+    {
+      "keywords": "fireplace fire",
+      "description": "The fire has long since died out. All you see are old scraps of paper and \nwood in the fireplace."
+    },
+    {
+      "keywords": "paper scraps old",
+      "description": "You pull out a torn scrap of paper. It says: Merlin, my love for Tristram \nis bountiless, yet my father forbids him to see me. Is there anything you \ncan do?\n\nIsolde"
+    },
+    {
+      "keywords": "rafters",
+      "description": "The rafters are darkened by smoke and strange yellow stains."
+    },
+    {
+      "keywords": "yellow stains strange",
+      "description": "You examine the yellow stains. They smell of sulfur."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

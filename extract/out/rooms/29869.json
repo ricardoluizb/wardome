@@ -1,0 +1,37 @@
+{
+  "id": 29869,
+  "zone_id": 298,
+  "name": "Inside Caras Galadon",
+  "description": "You slowly walk around the city, still a bit surprised to be within a place of\nsuch peace and beauty.  You walk under a small wooden eve and finally arrive\njust beyond the wall itself.  The city of Caras Galadon lies before you in all\nits glory!  Sounds of the bustling city float past you, as you pause to take in\nthe sights.  A small flet is in the tree directly in front of you, standing by\nitself.",
+  "header_raw": "298 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29902
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "<NONE>",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29868
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 29900
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/298.wld"
+}

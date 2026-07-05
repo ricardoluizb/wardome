@@ -1,0 +1,12 @@
+{
+  "id": 13233,
+  "alias": "lag monster",
+  "short_desc": "Lag",
+  "long_desc": "OH NO! IT'S THE HORRIBLE LAG MONSTER!!!!!!",
+  "detailed_desc": "It can't be killed, it kills players slowly by rendering them helpless with\nit's lag spell.  Everyone from the clueless newbie to the experienced hero\nfalls victim to the lag monster.",
+  "flags_raw": "8302 0 -1000 E",
+  "stats1_raw": "30 -11 -6 1d1+2760 5d7+92",
+  "stats2_raw": "450 151287 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

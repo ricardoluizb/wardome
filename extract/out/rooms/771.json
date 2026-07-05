@@ -1,0 +1,29 @@
+{
+  "id": 771,
+  "zone_id": 7,
+  "name": "Recruiting Office",
+  "description": "This office is clean and spacious.  A big desk faces the door, with\na grizzled sergeant behind it.  He turns the paperwork in front of him\naround for you... 'Name, Race, Sex, Age, Address...'.  Behind him you\nsee the office of the Captain of the Guard.",
+  "header_raw": "7 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 772
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 735
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

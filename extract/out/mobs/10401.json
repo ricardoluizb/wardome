@@ -1,0 +1,12 @@
+{
+  "id": 10401,
+  "alias": "oldstyle Guardian guard",
+  "short_desc": "the Guardian of Hell",
+  "long_desc": "A Guardian of Hell stands here, keeping you the Hell out.",
+  "detailed_desc": "The guardian is a stone devil, a hideous creation from the dark laboratories\nof Hell.  Its black eyes stare into your soul with a hunger that makes you\nshiver.  The guardian stands motionless before you.  Its rough grey skin\nlooks impervious to normal weapons.",
+  "flags_raw": "42 8389800 -900 E",
+  "stats1_raw": "100 -32 -6 1d1+3600 5d11+50",
+  "stats2_raw": "1500 3541448 1",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/104.mob"
+}

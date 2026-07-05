@@ -1,0 +1,12 @@
+{
+  "id": 605,
+  "alias": "monster wimpy aggressive",
+  "short_desc": "the wimpy aggressive monster",
+  "long_desc": "There is a wimpy aggressive monster leashed here.",
+  "detailed_desc": "He looks mean, but you feel comfortable that you can kill him, especially since\nhe is leashed up, and you are not.",
+  "flags_raw": "170 0 0 E",
+  "stats1_raw": "0 1 20 10d1+1 18d10+1",
+  "stats2_raw": "0 15 196",
+  "stats3_raw": "0 8 0 0 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/6.mob"
+}

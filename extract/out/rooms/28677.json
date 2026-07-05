@@ -1,0 +1,42 @@
+{
+  "id": 28677,
+  "zone_id": 286,
+  "name": "Dracolich Queen Room",
+  "description": "You have climbed the mighty steps of the altar chamber and stand before a\nhuge altar use to pay tribute to Evil, long-dead ruler of the Golden Dragon.\nThe altar is covered in blood and radiates unspeakable power that is absorbed\nby the horrible presence which stands before you.",
+  "header_raw": "286 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The steps lie to the south, leading back down to the altar chamber floor.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 28676
+    },
+    {
+      "dir": 5,
+      "description": "The floor of the altar is pockmarked with small holes, draining blood.",
+      "keywords": "hole",
+      "door_flag": 1,
+      "key": -1,
+      "to": 28678
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "altar",
+      "description": "The altar is a huge sacrificial altar covered in bloodstains."
+    },
+    {
+      "keywords": "blood bloodstains stains",
+      "description": "The stains of blood run down off the altar towards your feet, oozing quietly."
+    },
+    {
+      "keywords": "hole holes",
+      "description": "The holes have passed countless amounts of blood down below the altar."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/286.wld"
+}

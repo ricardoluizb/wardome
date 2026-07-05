@@ -4,9 +4,9 @@
   "short_desc": "the small boy",
   "long_desc": "A small boy sits here, licking his wounds.",
   "detailed_desc": "The poor boy has numerous cuts and scratches, but appears to be all right.\nHe is apparently the only survivor of the ambush.",
-  "flags_raw": "bh 0 500 S",
-  "stats1_raw": "4 17 6 1d12+47 1d8+0",
-  "stats2_raw": "0 600",
-  "stats3_raw": "5 5 1",
+  "flags_raw": "138 0 500 E",
+  "stats1_raw": "20 10 7 1d1+414 5d3+8",
+  "stats2_raw": "300 37388 0",
+  "stats3_raw": "5 5 1 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/35.mob"
 }

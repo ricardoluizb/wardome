@@ -1,0 +1,21 @@
+{
+  "id": 1633,
+  "zone_id": 16,
+  "name": "Servant's Quarters",
+  "description": "You are in what once was the servant's quarters, as evidenced by the shabby\nbelongings and decor. What little remains is rotting and of little value\nanyway.  The only exit is north.",
+  "header_raw": "16 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 1631
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/16.wld"
+}

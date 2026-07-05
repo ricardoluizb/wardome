@@ -1,0 +1,29 @@
+{
+  "id": 20013,
+  "zone_id": 200,
+  "name": "Main Room",
+  "description": "The bar runs south here all along the western wall.  A few smaller tables here\nare set up with various board games, ready to play.  There's also a shelf along\nthe wall, lined with a few popular books light reading all of them.  The\npatrons here seem to be a bit quieter than the rowdy bunch in the rest of the\nbuilding.",
+  "header_raw": "200 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20014
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 20020
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/200.wld"
+}

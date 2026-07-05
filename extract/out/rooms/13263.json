@@ -1,0 +1,29 @@
+{
+  "id": 13263,
+  "zone_id": 132,
+  "name": "The South Wall",
+  "description": "You are on a road following the south wall.  The wall towers over you to \nthe south, with blue sky above it.  Homes are north and the southeast corner\nis east.  The road continues west.",
+  "header_raw": "132 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The southeast corner",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13261
+    },
+    {
+      "dir": 3,
+      "description": "The south wall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13264
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

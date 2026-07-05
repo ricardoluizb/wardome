@@ -1,0 +1,12 @@
+{
+  "id": 13208,
+  "alias": "soldier dragon",
+  "short_desc": "a dragon soldier",
+  "long_desc": "A soldier of Cloudy Mountain is here.",
+  "detailed_desc": "This fierce warrior is not only strong, but well trained in battle and in \nstrategy.  This combination makes this army one of the finest and most feared\nin the land.",
+  "flags_raw": "8264 40 -375 E",
+  "stats1_raw": "15 -3 -4 1d1+1380 5d3+86",
+  "stats2_raw": "225 26305 8",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/132.mob"
+}

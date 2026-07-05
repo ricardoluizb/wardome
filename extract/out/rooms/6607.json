@@ -1,0 +1,29 @@
+{
+  "id": 6607,
+  "zone_id": 66,
+  "name": "In the entrance of the Mansion",
+  "description": "You are in front of the door of the Mansion, the fear begins to invade\nyour body and your soul, you badly have idea than it can happen with you\nwhen crossing this door. You still has the chance to return to the south\nor to proceed to the north.",
+  "header_raw": "66 64 0",
+  "flags_text": "64",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 2,
+      "key": 6607,
+      "to": 6612
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6604
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/66.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 14282,
+  "zone_id": 141,
+  "name": "In the Warp",
+  "description": "You seem to be in a castle.  But there are torture devices here,\nand an angry King.",
+  "header_raw": "141 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "The Time Warp sputters and crackles.",
+      "keywords": "warp",
+      "door_flag": 2,
+      "key": 14116,
+      "to": 14283
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/141.wld"
+}

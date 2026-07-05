@@ -1,0 +1,21 @@
+{
+  "id": 13277,
+  "zone_id": 132,
+  "name": "Baz Chamber",
+  "description": "",
+  "header_raw": "132 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "Warrior guild",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13276
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/132.wld"
+}

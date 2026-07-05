@@ -1,0 +1,12 @@
+{
+  "id": 11504,
+  "alias": "cope",
+  "short_desc": "the cop",
+  "long_desc": "A cop is wandering around looking for doughnuts.",
+  "detailed_desc": "You can see that this guy does not concentrate very much on his job and\ntends to look the other way.  He seems to be more interested in filling his\nbelly with doughnuts than in protecting the city.",
+  "flags_raw": "4168 1024 200 E",
+  "stats1_raw": "35 -1 1 1d1+1536 5d4+34",
+  "stats2_raw": "525 195924 2",
+  "stats3_raw": "8 8 1 3 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/115.mob"
+}

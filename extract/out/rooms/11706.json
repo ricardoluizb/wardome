@@ -1,0 +1,21 @@
+{
+  "id": 11706,
+  "zone_id": 117,
+  "name": "A small house.",
+  "description": "This is just a common small house that you could find in any place over the\nworld just with a small diference.  THIS house makes you feel nostalgic somehow\nand you can rest here without minds.",
+  "header_raw": "117 136 0",
+  "flags_text": "136",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "small door",
+      "keywords": "red door",
+      "door_flag": 2,
+      "key": 11704,
+      "to": 11703
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/117.wld"
+}

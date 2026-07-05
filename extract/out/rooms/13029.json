@@ -1,0 +1,29 @@
+{
+  "id": 13029,
+  "zone_id": 130,
+  "name": "First Avenue",
+  "description": "You are in the Eastern side of the First Avenue,\nhere the Fist Avenue finishes. To the North there is\na good place to relax, the first avenue continues to\nthe west side.",
+  "header_raw": "130 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13030
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13027
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

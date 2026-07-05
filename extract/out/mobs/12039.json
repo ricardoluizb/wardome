@@ -1,0 +1,12 @@
+{
+  "id": 12039,
+  "alias": "gladiator",
+  "short_desc": "the gladiator",
+  "long_desc": "A very muscle gladiator is standing here.",
+  "detailed_desc": "A well muscled man who is very heavily armored and armed to the teeth.  He\nlives for combat.",
+  "flags_raw": "6154 32 -250 E",
+  "stats1_raw": "26 7 6 1d1+540 5d3+10",
+  "stats2_raw": "390 72946 0",
+  "stats3_raw": "8 8 1 10 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/120.mob"
+}

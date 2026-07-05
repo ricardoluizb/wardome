@@ -3,8 +3,8 @@
   "zone_id": 30,
   "name": "The Tournament And Practice Yard",
   "description": "This is the practice yard of the fighters.  To the north is the bar.\nA well leads down into darkness.",
-  "header_raw": "30 cd 0",
-  "flags_text": "cd",
+  "header_raw": "30 12 0",
+  "flags_text": "12",
   "sector": 0,
   "exits": [
     {

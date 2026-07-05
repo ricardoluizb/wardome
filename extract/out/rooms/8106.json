@@ -1,0 +1,34 @@
+{
+  "id": 8106,
+  "zone_id": 81,
+  "name": "The Tunnel's Entrance",
+  "description": "O traveler from Midgard, your journey has not ended, but begun! You are\njust inside a cave entrance.  It stretches far into mountain-darkness.\nJust to your east, an underground stream leaves a lower cave.  If the\nthe same water flows inside the cave, it must have passed under your \nfeet at a lower level, for it is in a gorge seventy or more feet deep.\nTo your south you see the smooth line of a road cutting the woods.\nA sign is carved into the stone here.",
+  "header_raw": "81 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You may go further into the dark cave.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8105
+    },
+    {
+      "dir": 2,
+      "description": "The road looks like a good place to take a pleasant walk.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 8107
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "___________________________\n                        |This Cave in the Mountain|\n                        |         -------         |\n                        |  Was Delved by Pippin   |\n                        |  Year of Our Lord 1997  |\n                        |_________________________|"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/81.wld"
+}

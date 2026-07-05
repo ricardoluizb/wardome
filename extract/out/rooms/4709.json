@@ -1,0 +1,37 @@
+{
+  "id": 4709,
+  "zone_id": 47,
+  "name": "Dwarven mine",
+  "description": "The walls of this mine are chipped and cut to perfection.  Workmanship of\nthis type could only have been done by the masterful Dwarven race.  Tunnels\ncontinue to the south and east, and the tunnel travels upward to the north.",
+  "header_raw": "47 9 1",
+  "flags_text": "9",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4708
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4724
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4710
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/47.wld"
+}

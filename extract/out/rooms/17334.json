@@ -1,0 +1,37 @@
+{
+  "id": 17334,
+  "zone_id": 173,
+  "name": "Inside the Curtain Wall",
+  "description": "You stand on a road inside the curtain wall of Blackmoor. Stairs lead up \nto the northeastern tower of Blackmoor. The road continues to the south \nand west, where the entrance to the keep proper is located.",
+  "header_raw": "173 1 1",
+  "flags_text": "1",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "Inside the Curtain Wall",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17335
+    },
+    {
+      "dir": 3,
+      "description": "Entrance to the Keep Proper",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17333
+    },
+    {
+      "dir": 4,
+      "description": "The Northeast Tower",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17337
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

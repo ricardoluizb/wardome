@@ -1,0 +1,45 @@
+{
+  "id": 13522,
+  "zone_id": 135,
+  "name": "The Acid Forest",
+  "description": "The stalagmites here are large and rainbow-hued, like giants in\njester's garb.  Puddles of weak stomach acid are pooled on the floor.\nA steep climb up leads to a large plateau at the end of the cavern.",
+  "header_raw": "135 8 4",
+  "flags_text": "8",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13519
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13525
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 13521
+    },
+    {
+      "dir": 4,
+      "description": "Apparently it is too steep a climb to go back up.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/135.wld"
+}

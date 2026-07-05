@@ -1,0 +1,12 @@
+{
+  "id": 9001,
+  "alias": "demon horse",
+  "short_desc": "The demon horse",
+  "long_desc": "A demon horse is here.",
+  "detailed_desc": "The demon horse widens its nostrils and fire burns in its\neyes.",
+  "flags_raw": "1546 1024 -1000 E",
+  "stats1_raw": "185 -90 -31 1d1+18492 5d37+164",
+  "stats2_raw": "2775 25872184 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/90.mob"
+}

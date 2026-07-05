@@ -1,0 +1,29 @@
+{
+  "id": 28415,
+  "zone_id": 284,
+  "name": "A new awesome ambient",
+  "description": "You have come down into a new plane. The cold here isnt so intense.\nA huge coral wall with strange symbols is to the south.\n  It seems to radiate light from itself.",
+  "header_raw": "284 8 6",
+  "flags_text": "8",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see a radiate light from itself.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28416
+    },
+    {
+      "dir": 4,
+      "description": "Back to tunel.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 28414
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/284.wld"
+}

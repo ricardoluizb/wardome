@@ -1,0 +1,42 @@
+{
+  "id": 6728,
+  "zone_id": 67,
+  "name": "A black sand road",
+  "description": "The black sand of the road absorbs heat and feels pleasant to those\nwithout coverings on their feet, attracting all sorts of loafers and\nsiteseers who come on days off to relax and watch the festivities at\nthe gallows.\nA bloody trail leads into a building to the south.",
+  "header_raw": "67 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6730
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6742
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6719
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "trail bloody",
+      "description": "Sand has been shuffled over most of it, but it is obviously from a\nrecent kill. The sign on the building reads 'The House of the Butcher\nand Friends'. It appears the fellow has a quirky sense of humor."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

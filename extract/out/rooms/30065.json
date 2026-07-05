@@ -1,0 +1,29 @@
+{
+  "id": 30065,
+  "zone_id": 300,
+  "name": "An elven home",
+  "description": "This is the main room of a Grey Havens home.  It is a large open area\ncontaining a dining table with chairs as well as a place where the householders\ncan sit down and relax.  The walls have been painted sky blue and a soft sea\nbreeze filters through the open window.  It almost feels like you are standing\noutside.",
+  "header_raw": "300 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30066
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 30064
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/300.wld"
+}

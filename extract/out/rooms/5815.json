@@ -1,0 +1,29 @@
+{
+  "id": 5815,
+  "zone_id": 57,
+  "name": "A Door",
+  "description": "You have reached a securely-locked door. Through a small hole in the door,\nyou can see a group of skeletons industriously working on a large boat,\nmoving about with practiced efficiency as they hammer, saw and sand the\nboat into shape.",
+  "header_raw": "57 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "a shipbuilding room",
+      "keywords": "",
+      "door_flag": 1,
+      "key": 5779,
+      "to": 5816
+    },
+    {
+      "dir": 3,
+      "description": "a junction on the north bank near a bridge",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5798
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/57.wld"
+}

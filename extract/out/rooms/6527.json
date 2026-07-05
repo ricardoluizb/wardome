@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "The Wine Cellar",
   "description": "This room smells like wine, and you can only assume it used to be\na wine cellar at one time.",
-  "header_raw": "65 ad 0",
-  "flags_text": "ad",
+  "header_raw": "65 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

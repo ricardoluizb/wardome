@@ -1,0 +1,21 @@
+{
+  "id": 6630,
+  "zone_id": 66,
+  "name": "Ragon's room",
+  "description": "You are in a huge room, you can see a big throne in the center and some\nghosts passing the walls.",
+  "header_raw": "66 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6629
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/66.wld"
+}

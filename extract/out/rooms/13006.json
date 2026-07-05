@@ -1,0 +1,29 @@
+{
+  "id": 13006,
+  "zone_id": 130,
+  "name": "Cemitery's Gate",
+  "description": "You see a big and old gate, it is the gate of the Cemitery.\nYou can enter in the cemitery, or go to the Second Avenue \nin the East side.",
+  "header_raw": "130 20 0",
+  "flags_text": "20",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 13004
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "Cemitery's Gate",
+      "door_flag": 1,
+      "key": 0,
+      "to": 13007
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/130.wld"
+}

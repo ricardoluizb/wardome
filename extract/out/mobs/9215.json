@@ -1,0 +1,12 @@
+{
+  "id": 9215,
+  "alias": "oldstyle fire flame elemental",
+  "short_desc": "a flame",
+  "long_desc": "A small flickering flame elemental.",
+  "detailed_desc": "It smolders along the grass aimlessly.",
+  "flags_raw": "4194378 0 0 E",
+  "stats1_raw": "120 -40 -8 1d1+3360 5d13+48",
+  "stats2_raw": "1800 4918761 0",
+  "stats3_raw": "8 8 0 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/92.mob"
+}

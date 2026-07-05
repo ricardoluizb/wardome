@@ -1,0 +1,29 @@
+{
+  "id": 2208,
+  "zone_id": 22,
+  "name": "Guardian's Room",
+  "description": "You climb down the rickety stairs and find yourself face to face with a \ngargantuan hydra.  How fast can you climb UP stairs?",
+  "header_raw": "22 72 1",
+  "flags_text": "72",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "A large grey door.",
+      "keywords": "grey",
+      "door_flag": 1,
+      "key": 2234,
+      "to": 2209
+    },
+    {
+      "dir": 4,
+      "description": "You see the storage room.",
+      "keywords": "door trap trapdoor",
+      "door_flag": 1,
+      "key": -1,
+      "to": 2206
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/22.wld"
+}

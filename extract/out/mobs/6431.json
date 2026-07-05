@@ -1,0 +1,12 @@
+{
+  "id": 6431,
+  "alias": "mob unfinished",
+  "short_desc": "the Matron Mother",
+  "long_desc": "The Matron Mother of the house is standing here.",
+  "detailed_desc": "She looks really and truly annoyed that you have found your way here.",
+  "flags_raw": "2059 33928 0 E",
+  "stats1_raw": "40 -10 -3 1d1+2712 5d9+66",
+  "stats2_raw": "600 325558 5",
+  "stats3_raw": "8 8 2 0 1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/64.mob"
+}

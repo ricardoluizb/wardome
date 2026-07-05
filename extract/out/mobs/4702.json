@@ -1,0 +1,12 @@
+{
+  "id": 4702,
+  "alias": "dwarf guard",
+  "short_desc": "the dwarf guard",
+  "long_desc": "A small dwarf is here, dressed in a makeshift suit of armor.",
+  "detailed_desc": "This small dwarf is the militia of the Dwarven Kingdom it watches over.  The\nsmall body is strong which makes him a match for any foe.  The armor of the\ndwarf is of no use to anyone but him, but provides adequate defense.",
+  "flags_raw": "10 0 700 E",
+  "stats1_raw": "75 -25 -7 1d1+4500 5d8+70",
+  "stats2_raw": "1125 1641484 4",
+  "stats3_raw": "8 0 1 3 2",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/47.mob"
+}

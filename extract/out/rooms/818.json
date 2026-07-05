@@ -1,0 +1,29 @@
+{
+  "id": 818,
+  "zone_id": 7,
+  "name": "Passageway",
+  "description": "Here is a door to the north.  A plaque next to it reads, 'The Trial of\nDefense!'.  You get a BAD feeling about this room ahead.",
+  "header_raw": "7 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 819
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 817
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

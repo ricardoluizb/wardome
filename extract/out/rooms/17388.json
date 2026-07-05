@@ -1,0 +1,21 @@
+{
+  "id": 17388,
+  "zone_id": 173,
+  "name": "An Outpost",
+  "description": "You are in the outpost for the wall. It is a stone keep, with little in the \nway of creatur comforts. There are barracks and a main hall. Guards are \nposted along the wall. Your arrival has been a source of great interest, \nas these bordermen don't see many people.",
+  "header_raw": "173 0 0",
+  "flags_text": "0",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "At the gate door",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17385
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

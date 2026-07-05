@@ -1,0 +1,26 @@
+{
+  "id": 17311,
+  "zone_id": 173,
+  "name": "Cursed Glade",
+  "description": "You have entered a glade where all the vegetation is dead. There is no \nsounds of wildlife, and no light reaches here from above. There are bones \nfrom previous visitors scattered about the glade.Maybe you should rest for a while",
+  "header_raw": "173 8388673 3",
+  "flags_text": "8388673",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "the trees",
+      "keywords": "",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17312
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "bones",
+      "description": "Maybe you should rest a while..."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 723,
+  "zone_id": 7,
+  "name": "Business Road, North",
+  "description": "A lovely smell wafts across the street here, coming from the open\ndoors of the herbalist's shop to your east.  A variety of plants are\narrayed outside its doors under heavy lamplight, and a sign proclaims\nassorted types of herbs on special today.\n   Business Road continues north and south.",
+  "header_raw": "7 8 1",
+  "flags_text": "8",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 722
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 754
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 724
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/7.wld"
+}

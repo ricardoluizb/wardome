@@ -1,0 +1,45 @@
+{
+  "id": 2321,
+  "zone_id": 23,
+  "name": "The rocky shoreline",
+  "description": "You are on a rocky shore that borders a vast sea. A stiff wind blows here and\nwhistles among the rocks. You see an altar of some sort built on the shore to\nthe south. The shore itself leads east and west. Looking up, you see foothills\nand rocky crags.",
+  "header_raw": "23 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2322
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2324
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2320
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2318
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/23.wld"
+}

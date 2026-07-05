@@ -3,8 +3,8 @@
   "zone_id": 65,
   "name": "The Narrow Path",
   "description": "This is a narrow path leading to the Dwarven Kingdom.  It looks less\ntravelled than the others, and it is very creepy.  The path opens up to \nthe south, and continues to the north.",
-  "header_raw": "65 d 0",
-  "flags_text": "d",
+  "header_raw": "65 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

@@ -1,0 +1,12 @@
+{
+  "id": 12218,
+  "alias": "valkyrie",
+  "short_desc": "a valkyrie",
+  "long_desc": "A muscular woman clad in glowing armor glares at you.",
+  "detailed_desc": "These are the chosen servants of Odin and Frigga, who escort the souls\nof those slain in battle to Valhalla, where they become members of the\nEinheriar.",
+  "flags_raw": "10 795818 1000 E",
+  "stats1_raw": "20 2 1 1d1+1200 5d3+48",
+  "stats2_raw": "300 52343 4",
+  "stats3_raw": "8 8 2 9 3",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/122.mob"
+}

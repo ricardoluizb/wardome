@@ -1,0 +1,34 @@
+{
+  "id": 7701,
+  "zone_id": 77,
+  "name": "On the Rainbow",
+  "description": "You are standing on the rainbow, surrounded by many beams of multicoloured\nlight.  Through the bottom of the rainbow you can barely make out the Temple\nof Midgaard, which is now quite far away.",
+  "header_raw": "77 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "The rainbow extends far above you, slowly fading into darkness.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7702
+    },
+    {
+      "dir": 5,
+      "description": "The rainbow extends below you towards Midgaard.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7700
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "rainbow",
+      "description": "The rainbow softly glows with beams of light, in colours that defie \ndescription."
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/77.wld"
+}

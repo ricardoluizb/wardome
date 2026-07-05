@@ -3,8 +3,8 @@
   "zone_id": 64,
   "name": "The Doorway",
   "description": "This was the entrance to the tower.  Now lava has blocked\nit up completely.  However:\n   It seems when the lava came down a man was outside the\ndoors.  He was blasted into the doors, and died instantly,\nbut his skeleton still clutches a staff in perfect \ncondition...",
-  "header_raw": "64 ad 0",
-  "flags_text": "ad",
+  "header_raw": "64 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

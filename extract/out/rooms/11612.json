@@ -1,0 +1,29 @@
+{
+  "id": 11612,
+  "zone_id": 115,
+  "name": "The Entrance To Goethe's Garden",
+  "description": "This is the entrance to Goethe's Garden, the public park of New Sparta.  \nThe park is named after the famous martyr and generous donor of the land which\nNew Sparta is built upon, Goethe.  To the north is the Statue of Goethe, and to\nthe south is Broadway.",
+  "header_raw": "115 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11613
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 11580
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/115.wld"
+}

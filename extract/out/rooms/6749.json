@@ -1,0 +1,29 @@
+{
+  "id": 6749,
+  "zone_id": 67,
+  "name": "Along the bar counter",
+  "description": "You have entered a loud and boisterous corner in the alehouse,\nwhere adventurers tell their tales of fact and fable.. Perhaps\nthere are things to be learned here of the lands beyond the\nthin walls of the city.",
+  "header_raw": "67 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6748
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6849
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/67.wld"
+}

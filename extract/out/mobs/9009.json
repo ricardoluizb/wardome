@@ -1,0 +1,12 @@
+{
+  "id": 9009,
+  "alias": "ice troll",
+  "short_desc": "the ice troll",
+  "long_desc": "An ice troll mutters about.",
+  "detailed_desc": "It is covered with a thick ice armor.  And it certainly looks\nready for battle.",
+  "flags_raw": "46 557064 -1000 E",
+  "stats1_raw": "195 -95 -32 1d1+19500 5d39+168",
+  "stats2_raw": "2925 30170077 9",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/90.mob"
+}

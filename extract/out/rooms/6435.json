@@ -3,8 +3,8 @@
   "zone_id": 64,
   "name": "The Entranceway",
   "description": "This is a grand chamber with giant double-doors to the\nwest.  To the east is the main floor of the tower.  This\nroom is arranged highly attractively and very impressively,\nwith sculptures and tapistries everywhere.  The doors seem\nimpenetrable... you don't think you'd be able to get through\nthem if you really had to...",
-  "header_raw": "64 ad 0",
-  "flags_text": "ad",
+  "header_raw": "64 9 0",
+  "flags_text": "9",
   "sector": 0,
   "exits": [
     {

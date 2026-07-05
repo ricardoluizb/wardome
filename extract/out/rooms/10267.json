@@ -1,0 +1,29 @@
+{
+  "id": 10267,
+  "zone_id": 102,
+  "name": "The Left Path",
+  "description": "The right path seems to be a little darker. Pushed against the walls\nyou see a big Gargoyle statue, the tappestry is all ripped of and there\nis a huge pool of blood coming from the next room to the corridor.",
+  "header_raw": "102 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10268
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 10264
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/102.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2772,
+  "zone_id": 27,
+  "name": "Prancing Pony Hobbit Room",
+  "description": "You are in a room with small beds, and you guess that they are for hobbits.  \nThe sheets and pillows are ripped apart, as if someone or something has hacked\nat it with a sword.  The room is a mess, with the window broken and broken bits\nof bed everywhere.  You pity the person that was sleeping here when this\nhappened.",
+  "header_raw": "27 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 2771
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/27.wld"
+}

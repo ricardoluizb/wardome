@@ -1,0 +1,12 @@
+{
+  "id": 444,
+  "alias": "inquisitor lana",
+  "short_desc": "Inquisitor Lana",
+  "long_desc": "An Inquisitor stands here.",
+  "detailed_desc": "She is an Inquisitor of Helm.",
+  "flags_raw": "8 128 0 E",
+  "stats1_raw": "100 -30 -5 1d1+7300 10d11+50",
+  "stats2_raw": "0 555 3",
+  "stats3_raw": "8 8 2 3 0",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/4.mob"
+}

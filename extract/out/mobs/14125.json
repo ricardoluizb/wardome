@@ -1,0 +1,12 @@
+{
+  "id": 14125,
+  "alias": "judge",
+  "short_desc": "the Judge",
+  "long_desc": "The Judge sits here.",
+  "detailed_desc": "You cannot help but shiver as you see the Judge sit here\nsilently.  His eyes pierce into your soul, and he knows.  He\nknows your faults.  He knows your virtues.  He knows if you've\nbeen bad or good.... so be good.  This ultimate purveyor of\nJustice, sends criminals to jail everyday, sometimes with his\nbare hands.",
+  "flags_raw": "2120 1073742976 1000 E",
+  "stats1_raw": "100 -32 -6 1d1+3600 5d11+50",
+  "stats2_raw": "1500 3541448 1",
+  "stats3_raw": "8 8 1 -1 -1",
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/141.mob"
+}

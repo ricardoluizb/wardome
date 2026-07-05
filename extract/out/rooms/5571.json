@@ -3,8 +3,8 @@
   "zone_id": 54,
   "name": "The Grand Dining Hall",
   "description": "A long oaken table, coverd with silverware, plates, and a table cloth\nwith gold trim, dominates the room.  Although no diners occupy the room\nas of yet, servants sprint about setting the table and placing condiments.\n   The kitchen entrance is to the east, and two huge double doors open\ninto the hallway north.",
-  "header_raw": "54 d 0",
-  "flags_text": "d",
+  "header_raw": "54 8 0",
+  "flags_text": "8",
   "sector": 0,
   "exits": [
     {

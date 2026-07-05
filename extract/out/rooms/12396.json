@@ -1,0 +1,29 @@
+{
+  "id": 12396,
+  "zone_id": 122,
+  "name": "Yggdrasil",
+  "description": "The tree continues, the myriad of branches twisting and weaving their\nway through the fabric of time and space, allowing access to various\nplanes, including the homes of the Aesir, the Vanir and other lesser\nraces. A foul stench arises from the branches below you, which are all\ntwisted and blackened, and soaked with blood.",
+  "header_raw": "122 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12395
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12379
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/122.wld"
+}

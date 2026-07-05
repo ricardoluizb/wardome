@@ -4,9 +4,9 @@
   "short_desc": "the Black Rook",
   "long_desc": "In the corner you see a large, black, stone castle on wheels.",
   "detailed_desc": "The Black Rook is a very large man-made tomb on wheels.  Just\nfrom the looks of it, it will probably be YOUR tomb.",
-  "flags_raw": "bpqr d -600 S",
-  "stats1_raw": "27 11 1 2d6+500 3d8+5",
-  "stats2_raw": "5000 85000",
-  "stats3_raw": "8 8 0",
+  "flags_raw": "229386 168 -600 E",
+  "stats1_raw": "180 -84 -27 1d1+15120 5d37+142",
+  "stats2_raw": "2700 21894929 7",
+  "stats3_raw": "8 8 0 -1 -1",
   "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/mob/36.mob"
 }

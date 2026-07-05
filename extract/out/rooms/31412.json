@@ -1,0 +1,29 @@
+{
+  "id": 31412,
+  "zone_id": 314,
+  "name": "Soldiers' Dormitory",
+  "description": "The noise of running waters can be heard in this room.  The noise comes from\nthe ground.  Beneath one of the many beds in this room, there is a hole.",
+  "header_raw": "314 1 0",
+  "flags_text": "1",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 31411
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 31413
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/314.wld"
+}

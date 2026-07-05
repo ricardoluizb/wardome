@@ -1,0 +1,29 @@
+{
+  "id": 1150,
+  "zone_id": 11,
+  "name": "End of a dark tunnel",
+  "description": "You stand at the end of a dark tunnel.  The underground tunnel continues\nto the west.  From a trapdoor in the ceiling you can hear the din of\nadventurers.",
+  "header_raw": "11 9 0",
+  "flags_text": "9",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "You see a dark tunnel.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1149
+    },
+    {
+      "dir": 4,
+      "description": "You hear the din of adventurers.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/11.wld"
+}

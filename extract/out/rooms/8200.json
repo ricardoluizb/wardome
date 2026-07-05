@@ -1,0 +1,45 @@
+{
+  "id": 8200,
+  "zone_id": 82,
+  "name": "The Entrance To France",
+  "description": "You are in a large street of France, with hight lamps using as light some\ncandles. You can feel the romantic mood from the atmosphere of the city of\nlight. There is a sign here that says \"Dont forget to visit the cathedral\nof Paris.\" From here you can continue in this street by going east, go to\nthe town of Lyon by going south, or enter to the Champs Elyses at north.",
+  "header_raw": "82 16777220 1",
+  "flags_text": "16777220",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8250
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8201
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 8237
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": 6078
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/82.wld"
+}

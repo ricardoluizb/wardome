@@ -1,0 +1,46 @@
+{
+  "id": 17385,
+  "zone_id": 173,
+  "name": "The Highlands",
+  "description": "You have spent the day travelling in the highlands, and you are very tired.\nYou stand at an old Wall that runs east and west through the hills. Not \nmany trees grow here, as all has been cleared north of the wall. South of \nthe wall stretches a winding road. North of the wall is the untamed Scottish \nhighlands. There is an outpost to the east.",
+  "header_raw": "173 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The Scottish highlands",
+      "keywords": "gate",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17387
+    },
+    {
+      "dir": 1,
+      "description": "An outpost",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 17388
+    },
+    {
+      "dir": 3,
+      "description": "A winding road",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 17383
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "wall",
+      "description": "You look at the wall. There is lettering on it."
+    },
+    {
+      "keywords": "lettering",
+      "description": "The lettering says: HADRIANUS"
+    }
+  ],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/173.wld"
+}

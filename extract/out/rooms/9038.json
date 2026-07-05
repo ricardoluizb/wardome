@@ -1,0 +1,29 @@
+{
+  "id": 9038,
+  "zone_id": 90,
+  "name": "The Wasteland Hills",
+  "description": "You are surrounded by smooth hills right in the middle of \nabsolute nowhere.",
+  "header_raw": "90 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9031
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 9039
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/90.wld"
+}

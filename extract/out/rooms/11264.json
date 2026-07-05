@@ -1,0 +1,29 @@
+{
+  "id": 11264,
+  "zone_id": 112,
+  "name": "The Ruined Confessionary",
+  "description": "A horrid fate befell the kindly bishop of Asteh in this place, evidenced\nby the mutilated body slumped over a badly damaged oak chair. Several arrows\nand daggers protrude from the corpse, further indication of the poor soul's\nviolent and messy fate.",
+  "header_raw": "112 8 0",
+  "flags_text": "8",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": 0,
+      "to": -1
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door",
+      "door_flag": 1,
+      "key": -1,
+      "to": 11265
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/Users/ricardobussacro/Documents/Wardome/wdii/lib/world/wld/112.wld"
+}
