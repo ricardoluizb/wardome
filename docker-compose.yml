@@ -7,3 +7,5 @@ services:
     container_name: wardome-server
     ports:
       - "4000:4000"
+    ulimits:
+      core: -1

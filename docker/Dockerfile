@@ -10,4 +10,4 @@ RUN mkdir -p /wardome/bin && cd /wardome/src && make
 
 WORKDIR /wardome
 EXPOSE 4000
-CMD ["./bin/circle", "-q", "4000"]
+CMD ["sh", "-c", "ulimit -c unlimited && exec ./bin/circle -q 4000"]
