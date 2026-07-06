@@ -374,10 +374,10 @@ void stop_fighting(struct char_data * ch)
  * already pointer-compares against the prototype before freeing, so
  * this cannot double-free or leak the prototype's shared string.
  */
-void roll_item_rarity(struct obj_data * obj)
+void roll_item_rarity(struct obj_data * obj, int mob_level)
 {
-  int i, roll, variance, has_affect = FALSE;
-  const char *tag;
+  int i, roll, variance, has_affect = FALSE, all_maxed = FALSE;
+  const char *color, *letter;
   char newbuf[MAX_STRING_LENGTH];
 
   for (i = 0; i < MAX_OBJ_AFFECT; i++)
@@ -388,38 +388,50 @@ void roll_item_rarity(struct obj_data * obj)
     return;
 
   roll = number(1, 100);
+  if (mob_level < 100 && roll > 85)
+    roll = number(61, 85);
+
   if (roll <= 60) {
     variance = 0;
-    tag = NULL;
+    color = NULL;
+    letter = NULL;
   } else if (roll <= 85) {
     variance = 1;
-    tag = "&B[I]&n ";
+    color = "&B";
+    letter = "I";
   } else if (roll <= 97) {
     variance = 2;
-    tag = "&Y[R]&n ";
+    color = "&Y";
+    letter = "R";
   } else {
     variance = 3;
-    tag = "&R[L]&n ";
+    color = "&R";
+    letter = "L";
   }
 
+  all_maxed = (variance > 0);
   if (variance > 0) {
     for (i = 0; i < MAX_OBJ_AFFECT; i++) {
+      int shift;
       if (obj->affected[i].location == APPLY_NONE || obj->affected[i].modifier == 0)
         continue;
+      shift = number(-variance, variance);
+      if (shift != variance)
+        all_maxed = FALSE;
       if (obj->affected[i].modifier > 0) {
-        obj->affected[i].modifier += number(-variance, variance);
+        obj->affected[i].modifier += shift;
         if (obj->affected[i].modifier < 1)
           obj->affected[i].modifier = 1;
       } else {
-        obj->affected[i].modifier -= number(-variance, variance);
+        obj->affected[i].modifier -= shift;
         if (obj->affected[i].modifier > -1)
           obj->affected[i].modifier = -1;
       }
     }
   }
 
-  if (tag != NULL) {
-    sprintf(newbuf, "%s%s", tag, obj->short_description);
+  if (letter != NULL) {
+    sprintf(newbuf, "%s[%s]%s&n %s", color, letter, (all_maxed ? "+" : ""), obj->short_description);
     obj->short_description = str_dup(newbuf);
   }
 }
@@ -499,7 +511,7 @@ void make_corpse(struct char_data * ch)
      	for (o = corpse->contains; o != NULL; o = o->next_content) {
              o->in_obj = corpse;
              if (IS_NPC(ch))
-               roll_item_rarity(o);
+               roll_item_rarity(o, GET_LEVEL(ch));
         }
              object_list_new_owner(corpse, NULL);
 
@@ -508,7 +520,7 @@ void make_corpse(struct char_data * ch)
              if (GET_EQ(ch, i)) {
                struct obj_data *unequipped = unequip_char(ch, i);
                if (IS_NPC(ch))
-                 roll_item_rarity(unequipped);
+                 roll_item_rarity(unequipped, GET_LEVEL(ch));
                obj_to_obj(unequipped, corpse);
              }
         }
@@ -1245,7 +1257,7 @@ int damage(struct char_data * ch, struct char_data * victim, int dam, int attack
     }
 
      oxgasto = 1 ;
-  // gastar oxigenação
+  // gastar oxigenaï¿½ï¿½o
     if(!IS_NPC(ch) && GET_LEVEL(ch) < LVL_IMMORT && GET_LEVEL(ch) > 5){
      if (GET_OXI(ch) <= 5){
         send_to_char("&CYou can't hit anymore. &WYou are out of gas, take a break!&n\r\n", ch);
