@@ -1023,20 +1023,11 @@ ACMD(do_use)
 {
   struct obj_data *mag_item;
  // struct obj_data *object;
-  int equipped = 1, i, spellnum, level, remort;
-	
+  int equipped = 1, i, spellnum;
+
 	if (IS_NPC(ch))
 	return;
-	
-  level = (GET_OBJ_LEVEL(mag_item)-((LVL_IMMORT - 1)*(GET_OBJ_LEVEL(mag_item)/(LVL_IMMORT - 1))));
-    if ((level == 0) && (GET_OBJ_LEVEL(mag_item) > 0)){
-     level = (LVL_IMMORT - 1);
-     remort = (GET_OBJ_LEVEL(mag_item)/(LVL_IMMORT - 1)) - 1;
-    }
-    else{
-     remort = (GET_OBJ_LEVEL(mag_item)/(LVL_IMMORT - 1));
-    }
-  
+
   half_chop(argument, arg, buf);
   if (!*arg) {
     sprintf(buf2, "What do you want to %s?\r\n", CMD_NAME);
