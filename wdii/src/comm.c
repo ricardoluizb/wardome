@@ -1234,11 +1234,11 @@ char *make_prompt(struct descriptor_data *d)
         char slot_piece[16];
         if (eq_obj != NULL) {
           vnum = GET_OBJ_VNUM(eq_obj);
-          if (!strncmp(eq_obj->short_description, "&B[I]&n ", 8))
+          if (!strncmp(eq_obj->short_description, "&B[I]", 5))
             tier = 1;
-          else if (!strncmp(eq_obj->short_description, "&Y[R]&n ", 8))
+          else if (!strncmp(eq_obj->short_description, "&Y[R]", 5))
             tier = 2;
-          else if (!strncmp(eq_obj->short_description, "&R[L]&n ", 8))
+          else if (!strncmp(eq_obj->short_description, "&R[L]", 5))
             tier = 3;
         }
         snprintf(slot_piece, sizeof(slot_piece), "%s%d:%d", (w == 0 ? "" : "|"), vnum, tier);
