@@ -254,7 +254,7 @@ void auto_equip(struct char_data *ch, struct obj_data *obj, int location)
 	 * Check the characters's alignment to prevent them from being
 	 * zapped through the auto-equipping.
          */
-         if (invalid_align(ch, obj) || invalid_class(ch, obj))
+         if (invalid_align(ch, obj) || (invalid_class(ch, obj) && GET_LEVEL(ch) < LVL_GOD))
           location = LOC_INVENTORY;
         else
           equip_char(ch, obj, j);
