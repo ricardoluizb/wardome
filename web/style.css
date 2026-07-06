@@ -520,3 +520,42 @@ body {
 .automation-echo.automation-warn {
   color: #e05252;
 }
+
+#affects-list {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-height: 0;
+}
+
+.affect-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.affect-icon {
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+  border-radius: 3px;
+  border: 1px solid var(--gold-dim);
+  flex-shrink: 0;
+}
+
+.affect-name {
+  flex: 1;
+  font-size: 10px;
+  letter-spacing: 0.5px;
+  color: #c9a869;
+  text-transform: uppercase;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.affect-duration {
+  font-size: 10px;
+  color: #999;
+  flex-shrink: 0;
+}

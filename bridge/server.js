@@ -10,6 +10,7 @@ const ROOM_TAG_RE = /\$\$ROOM:(\d+)\|(.+?)\$\$\r?\n?/g;
 const STATS_TAG_RE = /\$\$STATS:(-?\d+)\/(\d+)\/(-?\d+)\/(\d+)\/(-?\d+)\/(\d+)\/(-?\d+)\/(-?\d+)\/(\d+)\/(\d+)\$\$\r?\n?/g;
 const MOB_TAG_RE = /\$\$MOB:(-?\d+)\$\$\r?\n?/g;
 const EQUIP_TAG_RE = /\$\$EQUIP:([^$]+)\$\$\r?\n?/g;
+const AFFECTS_TAG_RE = /\$\$AFFECTS:([^$]*)\$\$\r?\n?/g;
 const ECHO_OFF_RE = /\xFF\xFB\x01/g;
 const ECHO_ON_RE = /\xFF\xFC\x01\r?\n?/g;
 
@@ -66,6 +67,16 @@ wss.on('connection', (ws) => {
           return { vnum, tier };
         });
         ws.send(JSON.stringify({ type: 'equip', slots }));
+      }
+    });
+
+    cleaned = extractTag(cleaned, AFFECTS_TAG_RE, (match) => {
+      if (ws.readyState === WebSocket.OPEN) {
+        const affects = match[1].length === 0 ? [] : match[1].split('|').map((pair) => {
+          const idx = pair.lastIndexOf(':');
+          return { name: pair.slice(0, idx), duration: parseInt(pair.slice(idx + 1), 10) };
+        });
+        ws.send(JSON.stringify({ type: 'affects', affects }));
       }
     });
 

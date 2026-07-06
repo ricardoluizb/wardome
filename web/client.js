@@ -13,6 +13,7 @@ const xpBarFillEl = document.getElementById('xp-bar-fill');
 const xpTextEl = document.getElementById('xp-text');
 const xpPercentEl = document.getElementById('xp-percent');
 const goldTextEl = document.getElementById('gold-text');
+const affectsListEl = document.getElementById('affects-list');
 const sidePanelEl = document.getElementById('side-panel');
 const levelUpFlashEl = document.getElementById('level-up-flash');
 const equipmentToggleEl = document.getElementById('equipment-toggle');
@@ -161,6 +162,46 @@ function setStats(stats) {
   goldTextEl.textContent = stats.gold;
 }
 
+// Matches the sanitization gen-affect-icons.js applies when naming files --
+// strips anything that isn't filename-safe (e.g. wdii/src/constants.c's
+// "!TRACK" entry has a leading "!").
+function affectFileName(name) {
+  return name.replace(/[^A-Za-z0-9_-]/g, '');
+}
+
+function affectIconPath(name) {
+  return `assets/affects/${affectFileName(name)}.jpg`;
+}
+
+function setAffects(msg) {
+  affectsListEl.innerHTML = '';
+  msg.affects.forEach((a) => {
+    const row = document.createElement('div');
+    row.className = 'affect-row';
+
+    const img = document.createElement('img');
+    img.className = 'affect-icon';
+    img.src = affectIconPath(a.name);
+    img.onerror = () => {
+      img.onerror = null;
+      img.src = 'assets/affects/placeholder.jpg';
+    };
+
+    const label = document.createElement('span');
+    label.className = 'affect-name';
+    label.textContent = a.name;
+
+    const dur = document.createElement('span');
+    dur.className = 'affect-duration';
+    dur.textContent = a.duration < 0 ? '∞' : `${a.duration}t`;
+
+    row.appendChild(img);
+    row.appendChild(label);
+    row.appendChild(dur);
+    affectsListEl.appendChild(row);
+  });
+}
+
 // Maps the 8 base ANSI foreground color codes used by wdii/src/screen.h
 // (KRED=31, KGRN=32, ... KWHT=37, both normal "0;NN" and bold "1;NN" forms)
 // to colors that stay readable on this terminal's dark background.
@@ -254,6 +295,8 @@ ws.addEventListener('message', (event) => {
     setStats(msg);
   } else if (msg.type === 'equip') {
     setEquip(msg);
+  } else if (msg.type === 'affects') {
+    setAffects(msg);
   } else if (msg.type === 'echo') {
     input.type = msg.on ? 'text' : 'password';
   }
