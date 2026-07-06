@@ -15,6 +15,7 @@
       <div id="level-up-flash">LEVEL UP!</div>
       <h1 id="game-title">WARDOME II - REBORN</h1>
       <button id="equipment-toggle" type="button">Equipment</button>
+      <button id="automation-toggle" type="button">Automation</button>
       <img id="room-art" src="assets/rooms/placeholder.jpg" alt="Room illustration">
       <h2>Room</h2>
       <div id="room-id">—</div>
@@ -77,6 +78,16 @@
         <div class="equip-slot" data-label="Light" style="grid-area: light;"><div class="equip-icon-box"><img id="equip-icon-light" class="equip-icon"></div></div>
         <div class="equip-slot" data-label="Float" style="grid-area: float;"><div class="equip-icon-box"><img id="equip-icon-float" class="equip-icon"></div></div>
       </div>
+    </div>
+    <div id="automation-overlay" class="ornate-frame">
+      <button id="automation-close" type="button">&times;</button>
+      <h2 id="automation-title">Automation</h2>
+      <div id="automation-master-row">
+        <span>Enabled</span>
+        <input id="automation-master-toggle" type="checkbox" checked>
+      </div>
+      <div id="automation-list"></div>
+      <div id="automation-hint">Define with: <code>#alias</code>, <code>#trigger name "pat" cmd</code>, <code>#timer name 30 cmd</code>, <code>#delay 30 cmd</code>. Manage with <code>#list</code>, <code>#del name</code>, <code>#on</code>/<code>#off name</code>.</div>
     </div>
     <div id="terminal-panel" class="ornate-frame">
       <pre id="output"></pre>

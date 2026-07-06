@@ -18,6 +18,11 @@ const levelUpFlashEl = document.getElementById('level-up-flash');
 const equipmentToggleEl = document.getElementById('equipment-toggle');
 const equipmentOverlayEl = document.getElementById('equipment-overlay');
 const equipmentCloseEl = document.getElementById('equipment-close');
+const automationToggleEl = document.getElementById('automation-toggle');
+const automationOverlayEl = document.getElementById('automation-overlay');
+const automationCloseEl = document.getElementById('automation-close');
+const automationListEl = document.getElementById('automation-list');
+const automationMasterToggleEl = document.getElementById('automation-master-toggle');
 const form = document.getElementById('input-form');
 const input = document.getElementById('command-input');
 
@@ -239,6 +244,7 @@ ws.addEventListener('message', (event) => {
   if (msg.type === 'text') {
     output.insertAdjacentHTML('beforeend', ansiToHtml(msg.data));
     output.scrollTop = output.scrollHeight;
+    processTriggersForText(msg.data);
   } else if (msg.type === 'room') {
     roomIdEl.textContent = msg.name;
     setRoomArt(msg.id);
@@ -264,13 +270,449 @@ ws.addEventListener('error', () => {
 const commandHistory = [];
 let historyIndex = -1;
 
+// --- Automation: aliases, triggers, timers -------------------------------
+// Everything here is client-side only (localStorage), driven by "#"-prefixed
+// commands typed into the same input field. CircleMUD has no player command
+// starting with "#", so anything beginning with "#" is safely intercepted
+// and never sent to the server.
+
+const AUTOMATION_KEY = 'wardome_automation_v1';
+const MAX_ALIASES = 50;
+const MAX_TRIGGERS = 50;
+const MAX_TIMERS = 10;
+const MIN_TIMER_SECONDS = 5;
+const TRIGGER_MIN_PATTERN_LEN = 3;
+const TRIGGER_COOLDOWN_MS = 1000;
+const TRIGGER_STORM_WINDOW_MS = 10000;
+const TRIGGER_STORM_LIMIT = 20;
+
+function loadAutomationState() {
+  try {
+    const raw = localStorage.getItem(AUTOMATION_KEY);
+    if (raw) {
+      const parsed = JSON.parse(raw);
+      return {
+        aliases: parsed.aliases || {},
+        triggers: parsed.triggers || {},
+        timers: parsed.timers || {},
+        masterOn: parsed.masterOn !== false,
+      };
+    }
+  } catch (e) {
+    // corrupt/old data, start fresh
+  }
+  return { aliases: {}, triggers: {}, timers: {}, masterOn: true };
+}
+
+const automationState = loadAutomationState();
+const timerHandles = {}; // name -> setInterval/setTimeout handle (not persisted)
+let triggerFireLog = []; // timestamps of recent trigger fires, for the storm breaker
+let triggerLineBuffer = '';
+
+function saveAutomationState() {
+  const persist = {
+    aliases: automationState.aliases,
+    triggers: automationState.triggers,
+    timers: {},
+    masterOn: automationState.masterOn,
+  };
+  for (const [name, t] of Object.entries(automationState.timers)) {
+    if (!t.oneShot) persist.timers[name] = { seconds: t.seconds, body: t.body, enabled: t.enabled, oneShot: false };
+  }
+  localStorage.setItem(AUTOMATION_KEY, JSON.stringify(persist));
+}
+
+function echoLocal(text, cls) {
+  const span = cls ? `<span class="automation-echo ${cls}">${escapeHtml(text)}</span>` : `<span class="automation-echo">${escapeHtml(text)}</span>`;
+  output.insertAdjacentHTML('beforeend', span + '\n');
+  output.scrollTop = output.scrollHeight;
+}
+
+function findEntryKind(name) {
+  const key = name.toLowerCase();
+  if (automationState.aliases[key]) return 'aliases';
+  if (automationState.triggers[key]) return 'triggers';
+  if (automationState.timers[key]) return 'timers';
+  return null;
+}
+
+function expandAlias(part) {
+  const trimmed = part.trim();
+  if (!trimmed) return [];
+  const spaceIdx = trimmed.indexOf(' ');
+  const firstWord = (spaceIdx === -1 ? trimmed : trimmed.slice(0, spaceIdx)).toLowerCase();
+  const rest = spaceIdx === -1 ? '' : trimmed.slice(spaceIdx + 1);
+  const alias = automationState.masterOn ? automationState.aliases[firstWord] : null;
+  if (!alias || alias.enabled === false) return [trimmed];
+  const params = rest.split(/\s+/).filter(Boolean);
+  let body = alias.body;
+  if (body.includes('$')) {
+    body = body.replace(/\$\*/g, rest);
+    body = body.replace(/\$(\d+)/g, (m, n) => params[parseInt(n, 10) - 1] || '');
+  } else if (rest) {
+    body = `${body} ${rest}`;
+  }
+  return body.split(';').map((s) => s.trim()).filter(Boolean);
+}
+
+function sendCommand(part) {
+  expandAlias(part).forEach((finalCmd) => {
+    if (ws.readyState === WebSocket.OPEN) {
+      ws.send(JSON.stringify({ type: 'cmd', data: finalCmd }));
+    }
+  });
+}
+
+function stripAnsi(text) {
+  return text.replace(/\x1b\[[0-9;]*[A-Za-z]/g, '');
+}
+
+function wildcardToRegex(pattern) {
+  const escaped = pattern.replace(/[.+?^${}()|[\]\\]/g, '\\$&').replace(/\*/g, '(.*)');
+  return new RegExp(escaped, 'i');
+}
+
+function matchTrigger(trigger, line) {
+  if (trigger.isRegex) {
+    try {
+      const m = line.match(new RegExp(trigger.pattern, 'i'));
+      return m ? m.slice(1) : null;
+    } catch (e) {
+      return null;
+    }
+  }
+  if (trigger.pattern.includes('*')) {
+    const m = line.match(wildcardToRegex(trigger.pattern));
+    return m ? m.slice(1) : null;
+  }
+  return line.toLowerCase().includes(trigger.pattern.toLowerCase()) ? [] : null;
+}
+
+function checkTriggers(line) {
+  if (!automationState.masterOn || !line) return;
+  const now = Date.now();
+  for (const [name, trigger] of Object.entries(automationState.triggers)) {
+    if (trigger.enabled === false) continue;
+    if (trigger.lastFired && now - trigger.lastFired < TRIGGER_COOLDOWN_MS) continue;
+    const captures = matchTrigger(trigger, line);
+    if (captures === null) continue;
+    trigger.lastFired = now;
+    triggerFireLog.push(now);
+    triggerFireLog = triggerFireLog.filter((t) => now - t < TRIGGER_STORM_WINDOW_MS);
+    if (triggerFireLog.length > TRIGGER_STORM_LIMIT) {
+      automationState.masterOn = false;
+      saveAutomationState();
+      echoLocal('[automation disabled: trigger storm detected -- check your triggers, then #on all]', 'automation-warn');
+      renderAutomationPanel();
+      return;
+    }
+    echoLocal(`[trigger "${name}" fired]`, 'automation-fired');
+    let body = trigger.body;
+    if (body.includes('$') && captures.length > 0) {
+      body = body.replace(/\$(\d+)/g, (m, n) => captures[parseInt(n, 10) - 1] || '');
+    }
+    body.split(';').map((s) => s.trim()).filter(Boolean).forEach(sendCommand);
+    renderAutomationPanel();
+  }
+}
+
+function processTriggersForText(rawText) {
+  triggerLineBuffer += stripAnsi(rawText);
+  const lines = triggerLineBuffer.split('\n');
+  triggerLineBuffer = lines.pop();
+  for (const line of lines) checkTriggers(line);
+}
+
+function clearTimerHandle(name) {
+  if (timerHandles[name] !== undefined) {
+    clearInterval(timerHandles[name]);
+    clearTimeout(timerHandles[name]);
+    delete timerHandles[name];
+  }
+}
+
+function fireTimer(name) {
+  const t = automationState.timers[name];
+  if (!t) return;
+  if (!automationState.masterOn || t.enabled === false || input.type === 'password' || ws.readyState !== WebSocket.OPEN) {
+    if (t.oneShot) {
+      delete automationState.timers[name];
+      clearTimerHandle(name);
+      saveAutomationState();
+      renderAutomationPanel();
+    }
+    return;
+  }
+  echoLocal(`[timer "${name}" fired]`, 'automation-fired');
+  t.body.split(';').map((s) => s.trim()).filter(Boolean).forEach(sendCommand);
+  if (t.oneShot) {
+    delete automationState.timers[name];
+    clearTimerHandle(name);
+    saveAutomationState();
+  }
+  renderAutomationPanel();
+}
+
+function startTimer(name) {
+  const t = automationState.timers[name];
+  if (!t) return;
+  clearTimerHandle(name);
+  if (t.oneShot) {
+    timerHandles[name] = setTimeout(() => fireTimer(name), t.seconds * 1000);
+  } else {
+    timerHandles[name] = setInterval(() => fireTimer(name), t.seconds * 1000);
+  }
+}
+
+function startAllTimers() {
+  Object.keys(automationState.timers).forEach(startTimer);
+}
+
+function parseQuoted(text) {
+  const trimmed = text.trim();
+  if (!trimmed.startsWith('"')) return null;
+  const end = trimmed.indexOf('"', 1);
+  if (end === -1) return null;
+  return { value: trimmed.slice(1, end), rest: trimmed.slice(end + 1).trim() };
+}
+
+function handleAutomationCommand(raw) {
+  const withoutHash = raw.slice(1);
+  const spaceIdx = withoutHash.indexOf(' ');
+  const cmd = (spaceIdx === -1 ? withoutHash : withoutHash.slice(0, spaceIdx)).toLowerCase();
+  const rest = spaceIdx === -1 ? '' : withoutHash.slice(spaceIdx + 1).trim();
+
+  if (cmd === 'alias') {
+    if (!rest) return listKind('aliases');
+    const sp = rest.indexOf(' ');
+    if (sp === -1) return echoLocal('Usage: #alias <name> <command;command;...>', 'automation-warn');
+    const name = rest.slice(0, sp).toLowerCase();
+    const body = rest.slice(sp + 1).trim();
+    if (!body) return echoLocal('Usage: #alias <name> <command;command;...>', 'automation-warn');
+    if (!automationState.aliases[name] && Object.keys(automationState.aliases).length >= MAX_ALIASES) {
+      return echoLocal('[alias limit reached]', 'automation-warn');
+    }
+    automationState.aliases[name] = { body, enabled: true };
+    saveAutomationState();
+    renderAutomationPanel();
+    echoLocal(`[alias "${name}" saved]`);
+    return;
+  }
+
+  if (cmd === 'trigger') {
+    if (!rest) return listKind('triggers');
+    const sp = rest.indexOf(' ');
+    if (sp === -1) return echoLocal('Usage: #trigger <name> "<pattern>" <command>', 'automation-warn');
+    const name = rest.slice(0, sp).toLowerCase();
+    const afterName = rest.slice(sp + 1).trim();
+    let pattern, isRegex, body;
+    if (afterName.startsWith('/')) {
+      const end = afterName.indexOf('/', 1);
+      if (end === -1) return echoLocal('Usage: #trigger <name> /regex/ <command>', 'automation-warn');
+      pattern = afterName.slice(1, end);
+      isRegex = true;
+      body = afterName.slice(end + 1).trim();
+    } else {
+      const q = parseQuoted(afterName);
+      if (!q) return echoLocal('Usage: #trigger <name> "<pattern>" <command>', 'automation-warn');
+      pattern = q.value;
+      isRegex = false;
+      body = q.rest;
+    }
+    return saveTrigger(name, pattern, isRegex, body);
+  }
+
+  if (cmd === 'timer') {
+    if (!rest) return listKind('timers');
+    const m = rest.match(/^(\S+)\s+(\S+)\s+([\s\S]+)$/);
+    if (!m) return echoLocal('Usage: #timer <name> <seconds> <command;command;...>', 'automation-warn');
+    const name = m[1].toLowerCase();
+    const seconds = parseInt(m[2], 10);
+    const body = m[3].trim();
+    if (isNaN(seconds) || seconds < MIN_TIMER_SECONDS) {
+      return echoLocal(`[timer interval must be at least ${MIN_TIMER_SECONDS}s]`, 'automation-warn');
+    }
+    if (!automationState.timers[name] && Object.keys(automationState.timers).length >= MAX_TIMERS) {
+      return echoLocal('[timer limit reached]', 'automation-warn');
+    }
+    automationState.timers[name] = { seconds, body, enabled: true, oneShot: false };
+    saveAutomationState();
+    startTimer(name);
+    renderAutomationPanel();
+    echoLocal(`[timer "${name}" saved]`);
+    return;
+  }
+
+  if (cmd === 'delay') {
+    const m = rest.match(/^(\S+)\s+([\s\S]+)$/);
+    if (!m) return echoLocal('Usage: #delay <seconds> <command;command;...>', 'automation-warn');
+    const seconds = parseInt(m[1], 10);
+    const body = m[2].trim();
+    if (isNaN(seconds) || seconds <= 0) return echoLocal('[delay seconds must be a positive number]', 'automation-warn');
+    const name = `delay${Date.now()}`;
+    automationState.timers[name] = { seconds, body, enabled: true, oneShot: true };
+    startTimer(name);
+    renderAutomationPanel();
+    echoLocal(`[delay set for ${seconds}s]`);
+    return;
+  }
+
+  if (cmd === 'del') {
+    const name = rest.toLowerCase();
+    const kind = findEntryKind(name);
+    if (!kind) return echoLocal(`[no automation entry named "${name}"]`, 'automation-warn');
+    if (kind === 'timers') clearTimerHandle(name);
+    delete automationState[kind][name];
+    saveAutomationState();
+    renderAutomationPanel();
+    echoLocal(`["${name}" deleted]`);
+    return;
+  }
+
+  if (cmd === 'on' || cmd === 'off') {
+    const enable = cmd === 'on';
+    const name = rest.toLowerCase();
+    if (name === 'all') {
+      automationState.masterOn = enable;
+      saveAutomationState();
+      renderAutomationPanel();
+      echoLocal(`[automation ${enable ? 'enabled' : 'disabled'}]`);
+      return;
+    }
+    const kind = findEntryKind(name);
+    if (!kind) return echoLocal(`[no automation entry named "${name}"]`, 'automation-warn');
+    automationState[kind][name].enabled = enable;
+    saveAutomationState();
+    renderAutomationPanel();
+    echoLocal(`["${name}" ${enable ? 'enabled' : 'disabled'}]`);
+    return;
+  }
+
+  if (cmd === 'list') {
+    listKind('aliases');
+    listKind('triggers');
+    listKind('timers');
+    return;
+  }
+
+  echoLocal(`[unknown automation command "#${cmd}"]`, 'automation-warn');
+}
+
+function saveTrigger(name, pattern, isRegex, body) {
+  if (!name || !body) return echoLocal('Usage: #trigger <name> "<pattern>" <command>', 'automation-warn');
+  if (pattern.length < TRIGGER_MIN_PATTERN_LEN) {
+    return echoLocal(`[trigger pattern must be at least ${TRIGGER_MIN_PATTERN_LEN} characters]`, 'automation-warn');
+  }
+  const key = name.toLowerCase();
+  if (!automationState.triggers[key] && Object.keys(automationState.triggers).length >= MAX_TRIGGERS) {
+    return echoLocal('[trigger limit reached]', 'automation-warn');
+  }
+  automationState.triggers[key] = { pattern, isRegex, body, enabled: true, lastFired: 0 };
+  saveAutomationState();
+  renderAutomationPanel();
+  echoLocal(`[trigger "${key}" saved]`);
+}
+
+function listKind(kind) {
+  const entries = Object.entries(automationState[kind]);
+  if (entries.length === 0) return;
+  echoLocal(`-- ${kind} --`);
+  entries.forEach(([name, e]) => {
+    const state = e.enabled === false ? ' (off)' : '';
+    if (kind === 'aliases') echoLocal(`  ${name} -> ${e.body}${state}`);
+    else if (kind === 'triggers') echoLocal(`  ${name}  "${e.pattern}" -> ${e.body}${state}`);
+    else echoLocal(`  ${name}  every ${e.seconds}s -> ${e.body}${state}`);
+  });
+}
+
+function renderAutomationPanel() {
+  if (!automationListEl || !automationMasterToggleEl) return;
+  automationMasterToggleEl.checked = automationState.masterOn;
+  automationListEl.innerHTML = '';
+
+  const buildSection = (title, kind, formatBody) => {
+    const entries = Object.entries(automationState[kind]);
+    const section = document.createElement('div');
+    section.className = 'automation-section';
+    section.innerHTML = `<h3>${title}</h3>`;
+    if (entries.length === 0) {
+      const empty = document.createElement('div');
+      empty.className = 'automation-empty';
+      empty.textContent = 'none defined';
+      section.appendChild(empty);
+    }
+    entries.forEach(([name, e]) => {
+      const row = document.createElement('div');
+      row.className = 'automation-row';
+      const label = document.createElement('span');
+      label.className = 'automation-row-label';
+      label.textContent = `${name}  ${formatBody(e)}`;
+      label.title = 'Click to edit in the command line';
+      label.addEventListener('click', () => {
+        input.value = editLineFor(kind, name, e);
+        input.focus();
+      });
+      const toggle = document.createElement('input');
+      toggle.type = 'checkbox';
+      toggle.checked = e.enabled !== false;
+      toggle.addEventListener('change', () => {
+        e.enabled = toggle.checked;
+        if (kind === 'timers') {
+          if (toggle.checked) startTimer(name);
+          else clearTimerHandle(name);
+        }
+        saveAutomationState();
+      });
+      const del = document.createElement('button');
+      del.type = 'button';
+      del.className = 'automation-del';
+      del.textContent = '×';
+      del.addEventListener('click', () => {
+        if (kind === 'timers') clearTimerHandle(name);
+        delete automationState[kind][name];
+        saveAutomationState();
+        renderAutomationPanel();
+      });
+      row.appendChild(toggle);
+      row.appendChild(label);
+      row.appendChild(del);
+      section.appendChild(row);
+    });
+    automationListEl.appendChild(section);
+  };
+
+  buildSection('Aliases', 'aliases', (e) => `→ ${e.body}`);
+  buildSection('Triggers', 'triggers', (e) => `"${e.pattern}" → ${e.body}`);
+  buildSection('Timers', 'timers', (e) => `every ${e.seconds}s → ${e.body}`);
+}
+
+function editLineFor(kind, name, e) {
+  if (kind === 'aliases') return `#alias ${name} ${e.body}`;
+  if (kind === 'triggers') return e.isRegex ? `#trigger ${name} /${e.pattern}/ ${e.body}` : `#trigger ${name} "${e.pattern}" ${e.body}`;
+  return `#timer ${name} ${e.seconds} ${e.body}`;
+}
+
+startAllTimers();
+
 form.addEventListener('submit', (e) => {
   e.preventDefault();
   const command = input.value;
+  const isPasswordMode = input.type === 'password';
+
+  if (!isPasswordMode && command.trim().startsWith('#')) {
+    handleAutomationCommand(command.trim());
+    if (command.length > 0) commandHistory.push(command);
+    historyIndex = commandHistory.length;
+    input.value = '';
+    return;
+  }
+
   if (ws.readyState === WebSocket.OPEN) {
-    command.split(';').map((part) => part.trim()).filter((part) => part.length > 0).forEach((part) => {
-      ws.send(JSON.stringify({ type: 'cmd', data: part }));
-    });
+    if (isPasswordMode) {
+      ws.send(JSON.stringify({ type: 'cmd', data: command }));
+    } else {
+      command.split(';').map((part) => part.trim()).filter((part) => part.length > 0).forEach(sendCommand);
+    }
   }
   if (command.length > 0) {
     commandHistory.push(command);
@@ -305,3 +747,18 @@ equipmentToggleEl.addEventListener('click', () => {
 equipmentCloseEl.addEventListener('click', () => {
   equipmentOverlayEl.classList.remove('open');
 });
+
+automationToggleEl.addEventListener('click', () => {
+  automationOverlayEl.classList.toggle('open');
+});
+
+automationCloseEl.addEventListener('click', () => {
+  automationOverlayEl.classList.remove('open');
+});
+
+automationMasterToggleEl.addEventListener('change', () => {
+  automationState.masterOn = automationMasterToggleEl.checked;
+  saveAutomationState();
+});
+
+renderAutomationPanel();

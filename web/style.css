@@ -273,7 +273,8 @@ body {
   border-color: #d4af37;
 }
 
-#equipment-toggle {
+#equipment-toggle,
+#automation-toggle {
   display: block;
   width: 100%;
   margin: 0 0 12px 0;
@@ -289,7 +290,8 @@ body {
   cursor: pointer;
 }
 
-#equipment-toggle:hover {
+#equipment-toggle:hover,
+#automation-toggle:hover {
   background: rgba(212, 175, 55, 0.15);
 }
 
@@ -395,4 +397,126 @@ body {
 .equip-icon.is-placeholder {
   opacity: 0.22;
   filter: grayscale(1) brightness(0.75);
+}
+
+#automation-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 300px;
+  height: 100vh;
+  z-index: 50;
+  padding: 24px;
+  overflow-y: auto;
+}
+
+#automation-overlay.open {
+  display: block;
+}
+
+#automation-close {
+  position: absolute;
+  top: 12px;
+  right: 16px;
+  background: none;
+  border: none;
+  color: var(--gold);
+  font-size: 22px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+#automation-title {
+  font-family: 'Cinzel', serif;
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--gold);
+  text-align: center;
+  margin: 0 0 16px 0;
+}
+
+#automation-master-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 12px;
+  color: #c9a869;
+  margin-bottom: 16px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--gold-dim);
+}
+
+.automation-section h3 {
+  font-family: 'Cinzel', serif;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #c9a869;
+  margin: 12px 0 6px 0;
+}
+
+.automation-empty {
+  font-size: 11px;
+  color: #666;
+  font-style: italic;
+  margin-bottom: 6px;
+}
+
+.automation-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11px;
+  padding: 4px 0;
+  border-bottom: 1px solid rgba(138, 113, 40, 0.25);
+}
+
+.automation-row-label {
+  flex: 1;
+  color: #ccc;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.automation-row-label:hover {
+  color: var(--gold);
+}
+
+.automation-del {
+  background: none;
+  border: none;
+  color: #e05252;
+  font-size: 14px;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0 2px;
+}
+
+#automation-hint {
+  margin-top: 16px;
+  padding-top: 12px;
+  border-top: 1px solid var(--gold-dim);
+  font-size: 10px;
+  color: #888;
+  line-height: 1.5;
+}
+
+#automation-hint code {
+  color: #c9a869;
+}
+
+.automation-echo {
+  color: #888;
+}
+
+.automation-echo.automation-fired {
+  color: var(--gold-dim);
+}
+
+.automation-echo.automation-warn {
+  color: #e05252;
 }
