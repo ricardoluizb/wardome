@@ -63,6 +63,36 @@ const TIER_BORDER_COLORS = ['var(--gold-dim)', '#4a90d9', '#d4af37', '#e05252'];
 
 const equipIconEls = EQUIP_SLOTS.map((def) => document.getElementById(`equip-icon-${def.area}`));
 const lastEquipVnums = new Array(EQUIP_SLOTS.length).fill(undefined);
+const lastEquipSlotData = new Array(EQUIP_SLOTS.length).fill(null);
+
+const itemTooltipEl = document.getElementById('item-tooltip');
+const TIER_NAMES = ['Common', 'Uncommon', 'Rare', 'Legendary'];
+// Index matches wdii/src/structs.h's APPLY_* constants exactly (0=APPLY_NONE).
+const APPLY_NAMES = [
+  null, 'STR', 'DEX', 'INT', 'WIS', 'CON', 'CHA', 'CLASS', 'LEVEL', 'AGE',
+  'WEIGHT', 'HEIGHT', 'MANA', 'HP', 'MOVE', 'GOLD', 'EXP', 'AC', 'HITROLL',
+  'DAMROLL', 'SAVE-PARA', 'SAVE-ROD', 'SAVE-PETRI', 'SAVE-BREATH', 'SAVE-SPELL',
+];
+
+let itemsMeta = {};
+fetch('assets/items-meta.json')
+  .then((r) => r.json())
+  .then((data) => { itemsMeta = data; })
+  .catch(() => {});
+
+function buildTooltipHtml(slot) {
+  if (!slot || slot.vnum === -1) return null;
+  const name = itemsMeta[String(slot.vnum)] || `item #${slot.vnum}`;
+  const parts = [];
+  parts.push(`<div class="tooltip-name">${escapeHtml(name)}</div>`);
+  parts.push(`<div class="tooltip-tier">${TIER_NAMES[slot.tier] || 'Common'}</div>`);
+  (slot.affects || []).forEach((aff) => {
+    const label = APPLY_NAMES[aff.location] || `#${aff.location}`;
+    const sign = aff.modifier > 0 ? '+' : '';
+    parts.push(`<div class="tooltip-affect">${sign}${aff.modifier} ${label}</div>`);
+  });
+  return parts.join('');
+}
 
 function slotPlaceholderPath(type) {
   return `assets/items/slots/${type}.jpg`;
@@ -79,11 +109,27 @@ function initEquipSlots() {
       img.classList.add('is-placeholder');
     };
     img.parentElement.style.borderColor = TIER_BORDER_COLORS[0];
+
+    const box = img.parentElement;
+    box.addEventListener('mouseenter', () => {
+      const html = buildTooltipHtml(lastEquipSlotData[i]);
+      if (!html) return;
+      itemTooltipEl.innerHTML = html;
+      itemTooltipEl.classList.add('show');
+    });
+    box.addEventListener('mousemove', (e) => {
+      itemTooltipEl.style.left = `${e.clientX + 14}px`;
+      itemTooltipEl.style.top = `${e.clientY + 14}px`;
+    });
+    box.addEventListener('mouseleave', () => {
+      itemTooltipEl.classList.remove('show');
+    });
   });
 }
 
 function setEquip(msg) {
   msg.slots.forEach((slot, i) => {
+    lastEquipSlotData[i] = slot;
     if (lastEquipVnums[i] === slot.vnum) return;
     lastEquipVnums[i] = slot.vnum;
     const def = EQUIP_SLOTS[i];

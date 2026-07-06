@@ -62,9 +62,17 @@ wss.on('connection', (ws) => {
 
     cleaned = extractTag(cleaned, EQUIP_TAG_RE, (match) => {
       if (ws.readyState === WebSocket.OPEN) {
-        const slots = match[1].split('|').map((pair) => {
-          const [vnum, tier] = pair.split(':').map((n) => parseInt(n, 10));
-          return { vnum, tier };
+        const slots = match[1].split('|').map((piece) => {
+          const parts = piece.split(':');
+          const vnum = parseInt(parts[0], 10);
+          const tier = parseInt(parts[1], 10);
+          const affStr = parts[2] || '';
+          const nums = affStr.length === 0 ? [] : affStr.split(',').map((n) => parseInt(n, 10));
+          const affects = [];
+          for (let i = 0; i < nums.length; i += 2) {
+            affects.push({ location: nums[i], modifier: nums[i + 1] });
+          }
+          return { vnum, tier, affects };
         });
         ws.send(JSON.stringify({ type: 'equip', slots }));
       }
