@@ -97,6 +97,31 @@ struct obj_data *Obj_from_store(struct obj_file_elem object, int *location)
     for (j = 0; j < MAX_OBJ_AFFECT; j++)
       obj->affected[j] = object.affected[j];
 
+    /* rarity_tier/rarity_maxed are plain numeric fields (safe to persist
+       through this fixed-size struct, unlike the tag baked into
+       short_description as text). read_object() above returned a fresh,
+       untagged short_description straight from the prototype -- rebuild
+       the same "&color[letter]+&n " prefix roll_item_rarity() would have
+       produced, using the same color/letter table, so a rolled item's
+       rarity tag survives a save/load cycle instead of silently reverting
+       to plain/Common-looking text. */
+    obj->rarity_tier = object.rarity_tier;
+    obj->rarity_maxed = object.rarity_maxed;
+    if (object.rarity_tier > 0) {
+      char rarity_buf[MAX_STRING_LENGTH];
+      const char *color, *letter;
+      switch (object.rarity_tier) {
+        case 1: color = "&B"; letter = "I"; break;
+        case 2: color = "&Y"; letter = "R"; break;
+        case 3: color = "&R"; letter = "L"; break;
+        default: color = NULL; letter = NULL; break;
+      }
+      if (letter != NULL) {
+        sprintf(rarity_buf, "%s[%s]%s&n %s", color, letter, (object.rarity_maxed ? "+" : ""), obj->short_description);
+        obj->short_description = str_dup(rarity_buf);
+      }
+    }
+
     return (obj);
   } else
     return (NULL);
@@ -125,6 +150,9 @@ int Obj_to_store(struct obj_data * obj, FILE * fl, int location)
   
   for (j = 0; j < MAX_OBJ_AFFECT; j++)
     object.affected[j] = obj->affected[j];
+
+  object.rarity_tier = obj->rarity_tier;
+  object.rarity_maxed = obj->rarity_maxed;
 
   if (fwrite(&object, sizeof(struct obj_file_elem), 1, fl) < 1) {
     perror("SYSERR: error writing object in Obj_to_store");

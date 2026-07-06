@@ -813,6 +813,8 @@ struct obj_data {
 
    struct obj_flag_data obj_flags;/* Object information               */
    struct obj_affected_type affected[MAX_OBJ_AFFECT];  /* affects */
+   int rarity_tier;               /* 0=Common,1=Uncommon,2=Rare,3=Legendary; set by roll_item_rarity() */
+   int rarity_maxed;              /* perfect-roll "+" flag; set by roll_item_rarity() */
 
    char *name;                    /* Title of object :get etc.        */
    char *description;             /* When in room                     */
@@ -856,6 +858,8 @@ struct obj_file_elem {
    long bitvector;
    int cond;
    struct obj_affected_type affected[MAX_OBJ_AFFECT];
+   int rarity_tier;
+   int rarity_maxed;
 
 };
 

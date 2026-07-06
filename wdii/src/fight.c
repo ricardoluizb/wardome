@@ -430,6 +430,9 @@ void roll_item_rarity(struct obj_data * obj, int mob_level)
     }
   }
 
+  obj->rarity_tier = variance;
+  obj->rarity_maxed = all_maxed;
+
   if (letter != NULL) {
     sprintf(newbuf, "%s[%s]%s&n %s", color, letter, (all_maxed ? "+" : ""), obj->short_description);
     obj->short_description = str_dup(newbuf);
@@ -543,8 +546,20 @@ void make_corpse(struct char_data * ch)
         for (i = 0; i < NUM_WEARS; i++) { // transfer character's equipment to the corpse
              if (GET_EQ(ch, i)) {
                struct obj_data *unequipped = unequip_char(ch, i);
-               if (IS_NPC(ch))
-                 roll_item_rarity(unequipped, GET_LEVEL(ch));
+               if (IS_NPC(ch)) {
+                 /* vnum 4000 (the Moria orc's yellow and green ring) is
+                    fixed at Uncommon rarity always -- skip the normal roll
+                    so its tier and +1 STR / -5 AC stay constant. */
+                 if (GET_OBJ_VNUM(unequipped) == 4000) {
+                   char fixed_buf[MAX_STRING_LENGTH];
+                   sprintf(fixed_buf, "&B[I]&n %s", unequipped->short_description);
+                   unequipped->short_description = str_dup(fixed_buf);
+                   unequipped->rarity_tier = 1;
+                   unequipped->rarity_maxed = FALSE;
+                 } else {
+                   roll_item_rarity(unequipped, GET_LEVEL(ch));
+                 }
+               }
                obj_to_obj(unequipped, corpse);
              }
         }
