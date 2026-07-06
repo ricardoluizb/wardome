@@ -811,4 +811,17 @@ automationMasterToggleEl.addEventListener('change', () => {
   saveAutomationState();
 });
 
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape') {
+    equipmentOverlayEl.classList.remove('open');
+    automationOverlayEl.classList.remove('open');
+  }
+});
+
+// Clicking anywhere in the terminal panel (not just the tiny input box)
+// focuses the command input, so the player doesn't have to aim precisely.
+document.getElementById('terminal-panel').addEventListener('click', () => {
+  input.focus();
+});
+
 renderAutomationPanel();
