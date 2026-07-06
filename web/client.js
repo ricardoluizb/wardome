@@ -407,11 +407,18 @@ function checkTriggers(line) {
       return;
     }
     echoLocal(`[trigger "${name}" fired]`, 'automation-fired');
-    let body = trigger.body;
-    if (body.includes('$') && captures.length > 0) {
-      body = body.replace(/\$(\d+)/g, (m, n) => captures[parseInt(n, 10) - 1] || '');
-    }
-    body.split(';').map((s) => s.trim()).filter(Boolean).forEach(sendCommand);
+    // Split on ';' BEFORE substituting captures, using only the trigger's own
+    // static definition -- captured text comes from the game server (which
+    // relays other players' chat/emotes) and must never be able to inject an
+    // extra ';'-separated command segment that the trigger's author didn't
+    // define. Any ';' inside a captured value is stripped, not treated as a
+    // segment boundary.
+    trigger.body.split(';').map((s) => s.trim()).filter(Boolean).forEach((segment) => {
+      const cmd = captures.length > 0
+        ? segment.replace(/\$(\d+)/g, (m, n) => (captures[parseInt(n, 10) - 1] || '').replace(/;/g, ''))
+        : segment;
+      sendCommand(cmd);
+    });
     renderAutomationPanel();
   }
 }
