@@ -436,6 +436,30 @@ void roll_item_rarity(struct obj_data * obj, int mob_level)
   }
 }
 
+struct signature_drop_entry {
+  int mob_vnum;
+  int item_vnum;
+  int drop_pct;
+};
+
+static struct signature_drop_entry SIGNATURE_DROPS[] = {
+  { 20504, 20599, 30 },  /* Termites King -> a chitinous crown, 30% */
+  { -1, -1, -1 }
+};
+
+struct obj_data *roll_signature_drop(int mob_vnum)
+{
+  int i;
+  for (i = 0; SIGNATURE_DROPS[i].mob_vnum != -1; i++) {
+    if (SIGNATURE_DROPS[i].mob_vnum == mob_vnum) {
+      if (number(1, 100) <= SIGNATURE_DROPS[i].drop_pct)
+        return read_object(SIGNATURE_DROPS[i].item_vnum, VIRTUAL);
+      return NULL;
+    }
+  }
+  return NULL;
+}
+
 void make_corpse(struct char_data * ch)
 {
   struct obj_data *corpse, *o;
@@ -535,6 +559,16 @@ void make_corpse(struct char_data * ch)
        }
        GET_GOLD(ch) = 0;
      }
+
+        if (IS_NPC(ch)) {
+          struct obj_data *sig_drop = roll_signature_drop(GET_MOB_VNUM(ch));
+          if (sig_drop != NULL) {
+            roll_item_rarity(sig_drop, GET_LEVEL(ch));
+            if (GET_OBJ_VNUM(sig_drop) == 20599 && !strncmp(sig_drop->short_description, "&Y[R]", 5))
+              GET_OBJ_PERM(sig_drop) |= AFF_SANCTUARY;
+            obj_to_obj(sig_drop, corpse);
+          }
+        }
        ch->carrying = NULL;
        IS_CARRYING_N(ch) = 0;
        IS_CARRYING_W(ch) = 0;
