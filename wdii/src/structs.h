@@ -228,6 +228,8 @@
 #define PLR_MSP         (1 << 21) //toca som
 #define PLR_SECPLAYER  (1 << 22) //O player eh um second player
 
+#define PLR2_NEWBIE_BOOTS_DONE  (1 << 0)  /* Already got the newbie boots reward */
+
 /* Mobile flags: used by char_data.char_specials.act */
 #define MOB_SPEC         (1 << 0)  /* Mob has a callable spec-proc      */
 #define MOB_SENTINEL     (1 << 1)  /* Mob should not move               */

@@ -24,6 +24,8 @@
 extern room_rnum donation_room_1;
 extern struct room_data *world;
 extern struct obj_data *obj_proto;
+extern struct index_data *mob_index;
+extern struct index_data *obj_index;
 
 #if 0
 extern room_rnum donation_room_2;  /* uncomment if needed! */
@@ -630,6 +632,26 @@ void perform_give(struct char_data *ch, struct char_data *vict,
   act("You give $p to $N.", FALSE, ch, obj, vict, TO_CHAR);
   act("$n gives you $p.", FALSE, ch, obj, vict, TO_VICT);
   act("$n gives $p to $N.", TRUE, ch, obj, vict, TO_NOTVICT);
+
+  /* Newbie boots fetch quest: giving the dusty newbie letter (18631)
+     to the clueless newbie (18612) swaps it for a pair of newbie
+     boots (18630), once per player. This codebase's DG script
+     give/receive hooks (give_otrigger/receive_mtrigger in
+     dg_triggers.c) are compiled in but never called from do_give
+     anywhere, so this one-off swap is a small hardcoded special case
+     instead, matching the pattern already used for the Moria ring
+     and the chitinous crown. */
+  if (!IS_NPC(ch) && IS_NPC(vict) && GET_MOB_VNUM(vict) == 18612 &&
+      GET_OBJ_VNUM(obj) == 18631 &&
+      !IS_SET(PLR2_FLAGS(ch), PLR2_NEWBIE_BOOTS_DONE)) {
+    struct obj_data *boots;
+    extract_obj(obj);
+    boots = read_object(18630, VIRTUAL);
+    obj_to_char(boots, ch);
+    SET_BIT(PLR2_FLAGS(ch), PLR2_NEWBIE_BOOTS_DONE);
+    act("$N thanks you and hands you a pair of newbie boots!", FALSE, ch, 0, vict, TO_CHAR);
+    act("$n thanks $N and hands over a pair of boots.", TRUE, ch, 0, vict, TO_NOTVICT);
+  }
 }
 
 /* utility function for give */
