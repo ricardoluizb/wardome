@@ -460,14 +460,15 @@ ASPELL(spell_rigid_thinking)
 }
 
 
-ASPELL(spell_identify)
+void print_obj_identify(struct char_data *ch, struct obj_data *obj)
 {
+  char buf[MAX_STRING_LENGTH], buf2[MAX_STRING_LENGTH];
   int i;
   int found;
   int remort, obj_level;
   double peso;
-  
-  if (obj) {
+
+  {
     send_to_char("You feel informed:\r\n", ch);
     sprintf(buf, "Object '%s', Item type: ", obj->short_description);
     sprinttype(GET_OBJ_TYPE(obj), item_types, buf2);
@@ -550,6 +551,15 @@ ASPELL(spell_identify)
         send_to_char(buf, ch);
       }
     }
+  }
+}
+
+ASPELL(spell_identify)
+{
+  char buf[MAX_STRING_LENGTH];
+
+  if (obj) {
+    print_obj_identify(ch, obj);
   } else if (victim) {          /* victim */
     sprintf(buf, "Name: %s\r\n", GET_NAME(victim));
     send_to_char(buf, ch);

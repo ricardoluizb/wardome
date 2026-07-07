@@ -1599,6 +1599,8 @@ ACMD(do_examine)
                       FIND_OBJ_EQUIP, ch, &tmp_char, &tmp_object);
 
   if (tmp_object) {
+    print_obj_identify(ch, tmp_object);
+
     if ((GET_OBJ_TYPE(tmp_object) == ITEM_DRINKCON) ||
         (GET_OBJ_TYPE(tmp_object) == ITEM_FOUNTAIN) ||
         (GET_OBJ_TYPE(tmp_object) == ITEM_CONTAINER)) {
