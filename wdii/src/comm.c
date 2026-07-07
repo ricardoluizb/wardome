@@ -96,6 +96,7 @@ extern struct room_data *world; /* In db.c */
 extern int top_of_world;        /* In db.c */
 extern struct index_data *obj_index; /* In db.c */
 extern const char *affected_bits[]; /* In constants.c, 31 real entries then "\n" */
+extern const char *skill_name(int num); /* In spell_parser.c */
 extern struct time_info_data time_info;         /* In db.c */
 extern char *help;
 extern struct zone_data *zone_table;
@@ -1261,26 +1262,47 @@ char *make_prompt(struct descriptor_data *d)
     }
 
     {
-      char affects_tag_buf[512];
-      char affects_body[440];
-      char piece[48];
+      char affects_tag_buf[1024];
+      char affects_body[900];
+      char piece[64];
       long shown_bits = 0;
-      int i;
+      int shown_types[64];
+      int shown_types_count = 0;
+      int i, j, already_shown;
       struct affected_type *af;
+      const char *spell_nm;
 
       affects_body[0] = '\0';
 
-      /* Timed (spell-cast) affects: real duration counting down. */
+      /* Timed (spell-cast) affects: real duration counting down. Most
+         buffs here (Bless, Armor, Aura Sight, Extend Spells, etc) are pure
+         stat modifiers with bitvector == 0 -- they only exist as entries
+         in ch->affected, keyed by spell type, not as an AFF_* flag. Key on
+         af->type via skill_name() instead, deduping multi-affect spells
+         (e.g. Bless writes 2 affected_type entries) down to one row. */
       for (af = d->character->affected; af; af = af->next) {
-        if (!af->bitvector)
-          continue;
-        for (i = 0; i < 31; i++) {
-          if (IS_SET(af->bitvector, (1 << i)) && !IS_SET(shown_bits, (1 << i))) {
-            shown_bits |= (1 << i);
-            snprintf(piece, sizeof(piece), "%s%s:%d", (affects_body[0] ? "|" : ""), affected_bits[i], af->duration);
-            strncat(affects_body, piece, sizeof(affects_body) - strlen(affects_body) - 1);
+        already_shown = 0;
+        for (j = 0; j < shown_types_count; j++) {
+          if (shown_types[j] == af->type) {
+            already_shown = 1;
+            break;
           }
         }
+        if (already_shown)
+          continue;
+        if (shown_types_count < 64)
+          shown_types[shown_types_count++] = af->type;
+
+        if (af->bitvector) {
+          for (i = 0; i < 31; i++) {
+            if (IS_SET(af->bitvector, (1 << i)))
+              shown_bits |= (1 << i);
+          }
+        }
+
+        spell_nm = skill_name(af->type);
+        snprintf(piece, sizeof(piece), "%s%s:%d", (affects_body[0] ? "|" : ""), spell_nm, af->duration);
+        strncat(affects_body, piece, sizeof(affects_body) - strlen(affects_body) - 1);
       }
 
       /* Permanent (gear-granted) affects with no timed entry: duration -1. */
