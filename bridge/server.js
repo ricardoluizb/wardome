@@ -14,6 +14,13 @@ const AFFECTS_TAG_RE = /\$\$AFFECTS:([^$]*)\$\$\r?\n?/g;
 const ECHO_OFF_RE = /\xFF\xFB\x01/g;
 const ECHO_ON_RE = /\xFF\xFC\x01\r?\n?/g;
 
+// Each $$TAG:...$$ is written to the socket in its own write_to_descriptor()
+// call (comm.c), separate from the game's normal buffered output -- so a tag
+// can legitimately land split across two TCP reads. If a chunk ends with an
+// unterminated "$$TAGNAME:..." (no closing "$$" yet), hold that suffix back
+// and prepend it to the next chunk instead of emitting it as literal text.
+const PENDING_TAG_RE = /\$\$(?:ROOM|STATS|MOB|EQUIP|AFFECTS):[^$]*$/;
+
 const wss = new WebSocket.Server({ port: BRIDGE_PORT });
 
 function extractTag(text, re, onMatch) {
@@ -32,9 +39,11 @@ function extractTag(text, re, onMatch) {
 
 wss.on('connection', (ws) => {
   const tcp = net.createConnection({ host: GAME_HOST, port: GAME_PORT });
+  let pending = '';
 
   tcp.on('data', (chunk) => {
-    const text = chunk.toString('binary');
+    const text = pending + chunk.toString('binary');
+    pending = '';
 
     let cleaned = extractTag(text, ROOM_TAG_RE, (match) => {
       if (ws.readyState === WebSocket.OPEN) {
@@ -105,6 +114,12 @@ wss.on('connection', (ws) => {
         ws.send(JSON.stringify({ type: 'echo', on: true }));
       }
     });
+
+    const partial = cleaned.match(PENDING_TAG_RE);
+    if (partial) {
+      pending = partial[0];
+      cleaned = cleaned.slice(0, partial.index);
+    }
 
     if (cleaned.length > 0 && ws.readyState === WebSocket.OPEN) {
       ws.send(JSON.stringify({ type: 'text', data: cleaned }));
