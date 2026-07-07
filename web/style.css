@@ -524,7 +524,7 @@ body {
 #affects-list {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 4px 8px;
+  gap: 4px 16px;
   min-height: 0;
 }
 
@@ -533,6 +533,11 @@ body {
   align-items: center;
   gap: 6px;
   min-width: 0;
+}
+
+.affect-row:nth-child(2n) {
+  padding-left: 16px;
+  border-left: 1px solid var(--gold-dim);
 }
 
 .affect-icon {
