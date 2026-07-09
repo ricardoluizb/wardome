@@ -447,6 +447,7 @@ struct signature_drop_entry {
 
 static struct signature_drop_entry SIGNATURE_DROPS[] = {
   { 20504, 20599, 30 },  /* Termites King -> a chitinous crown, 30% */
+  { 17818, 17832, 30 },  /* King of the Hobgoblins -> the Greatclub, 30% */
   { -1, -1, -1 }
 };
 
