@@ -138,7 +138,7 @@ file edited this session.
   10 150 0
   #17832
   greatclub hobgoblin king~
-  the Hobgoblin King's Greatclub~
+  the &RHobgoblin King's&n &YGreatclub&n~
   The massive greatclub of the Hobgoblin King lies here, radiating brutal power.~
   ~
   5 0 8193
@@ -173,7 +173,13 @@ file edited this session.
   - `17832`: same weapon fields, damage `5d8`. Two affects: `18 2`
     (`APPLY_HITROLL +2`), `19 2` (`APPLY_DAMROLL +2`) — these are what
     `roll_item_rarity()` (Task 3's mechanism) will vary per the tier it
-    rolls when this item drops.
+    rolls when this item drops. Its `short_description` uses this
+    project's `&X` ANSI-color markup convention (already used for the
+    Moria ring's "yellow and green" name) — `&R` (red) on "Hobgoblin
+    King's" and `&Y` (gold) on "Greatclub", each followed by `&n` to
+    reset — so the item's name itself renders in color in-game, distinct
+    from the separate rarity-tier bracket tag (`[I]`/`[R]`/`[L]`) that
+    `roll_item_rarity()` prepends on top of this at drop time.
   - `17833`: type `9` (`ITEM_ARMOR`), wear `9` (`TAKE+BODY`). `val0=0`.
     Affect `17 -5` (`APPLY_AC -5`).
 
