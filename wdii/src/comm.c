@@ -995,8 +995,11 @@ void heartbeat(int pulse)
   void auction_update();
   void process_events(void);
   void process_program_output(void);
-	
+  void prep_room_check(void);
+
   process_program_output();
+
+  prep_room_check();
 
   /* Clear out all the global buffers now in case someone forgot. */
  /* if (!(pulse % PULSE_BUFFER))

@@ -1227,8 +1227,11 @@ struct char_data {
    struct script_memory *memory;       /* for mob memory triggers         */
 
    int current_quest;			/* vnum of current quest          */
+   int prep_room_timer;                /* pulses spent in room 500, for
+                                           race-temple auto-routing --
+                                           runtime only, not saved     */
 
-   struct char_data *next_in_room;      /* For room->people - list         
+   struct char_data *next_in_room;      /* For room->people - list
 */
    struct char_data *next;              /* For either monster or ppl-list  
 */

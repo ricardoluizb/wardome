@@ -286,7 +286,61 @@ void mental_update(void)
     if (GET_POS(i) >= POS_STUNNED)
       GET_MENTAL(i) = MIN(GET_MENTAL(i) + mental_gain(i), GET_MAX_MENTAL(i));
     if (GET_POS(i) < POS_INCAP)
-      update_pos(i);  
+      update_pos(i);
+  }
+}
+
+void prep_room_check(void)
+{
+  struct char_data *i, *next_char;
+  int prep_room, dest_room;
+
+  prep_room = real_room(500);
+  if (prep_room < 0)
+    return;
+
+  for (i = character_list; i; i = next_char) {
+    next_char = i->next;
+
+    if (IS_NPC(i))
+      continue;
+
+    if (IN_ROOM(i) != prep_room) {
+      i->prep_room_timer = 0;
+      continue;
+    }
+
+    i->prep_room_timer++;
+    if (i->prep_room_timer < 15)
+      continue;
+
+    i->prep_room_timer = 0;
+
+    switch (GET_RACE(i)) {
+      case RACE_VAMPIRE:    dest_room = real_room(516); break;
+      case RACE_DROW:       dest_room = real_room(517); break;
+      case RACE_DWARF:      dest_room = real_room(518); break;
+      case RACE_ELF:        dest_room = real_room(513); break;
+      case RACE_OGRE:       dest_room = real_room(520); break;
+      case RACE_ORC:        dest_room = real_room(514); break;
+      case RACE_TROLL:      dest_room = real_room(515); break;
+      case RACE_GITH:       dest_room = real_room(521); break;
+      case RACE_GNOME:      dest_room = real_room(522); break;
+      case RACE_LIZARDMAN:  dest_room = real_room(519); break;
+      case RACE_SEA_ELF:    dest_room = real_room(512); break;
+      case RACE_GORAK:      dest_room = real_room(511); break;
+      default:              dest_room = real_room(567); break;
+    }
+
+    if (dest_room < 0)
+      continue;
+
+    send_to_char("&WYou feel a divine pull guiding you toward your homeland...&n\r\n", i);
+    act("$n fades away in a shimmer of divine light.", TRUE, i, 0, 0, TO_ROOM);
+    char_from_room(i);
+    char_to_room(i, dest_room);
+    act("$n appears in a shimmer of divine light.", TRUE, i, 0, 0, TO_ROOM);
+    look_at_room(i, 0);
   }
 }
 
