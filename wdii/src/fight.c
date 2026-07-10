@@ -558,6 +558,27 @@ void make_corpse(struct char_data * ch)
                    unequipped->short_description = str_dup(fixed_buf);
                    unequipped->rarity_tier = 1;
                    unequipped->rarity_maxed = FALSE;
+                 } else if (GET_OBJ_VNUM(unequipped) == 18628) {
+                   /* The Emperor Newbie's Sword: always at least Uncommon
+                      (never rolls down to Common), with a 15% chance to
+                      come out Rare instead, which additionally grants
+                      +100 HP on top of its normal +1 hitroll -- a bonus
+                      the Uncommon version doesn't have. */
+                   int j, is_rare = (number(1, 100) <= 15);
+                   char fixed_buf[MAX_STRING_LENGTH];
+                   sprintf(fixed_buf, "%s&n %s", is_rare ? "&Y[R]" : "&B[I]", unequipped->short_description);
+                   unequipped->short_description = str_dup(fixed_buf);
+                   unequipped->rarity_tier = is_rare ? 2 : 1;
+                   unequipped->rarity_maxed = FALSE;
+                   if (is_rare) {
+                     for (j = 0; j < MAX_OBJ_AFFECT; j++) {
+                       if (unequipped->affected[j].location == APPLY_NONE) {
+                         unequipped->affected[j].location = APPLY_HIT;
+                         unequipped->affected[j].modifier = 100;
+                         break;
+                       }
+                     }
+                   }
                  } else {
                    roll_item_rarity(unequipped, GET_LEVEL(ch));
                  }
