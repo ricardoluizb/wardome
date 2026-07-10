@@ -809,7 +809,11 @@ form.addEventListener('submit', (e) => {
     } else if (command.trim().length === 0) {
       // An empty Enter should still submit a blank line (e.g. to page
       // through a "-- MORE --" prompt), not be silently swallowed.
-      sendCommand('');
+      // Sent directly, bypassing sendCommand()/expandAlias() -- the
+      // latter explicitly returns [] for blank input since aliases
+      // don't apply to an empty line, which meant this branch never
+      // actually reached the WebSocket before this fix.
+      ws.send(JSON.stringify({ type: 'cmd', data: '' }));
     } else {
       command.split(';').map((part) => part.trim()).filter((part) => part.length > 0).forEach(sendCommand);
     }
