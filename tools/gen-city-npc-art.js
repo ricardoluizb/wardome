@@ -25,29 +25,14 @@ const STYLE_SUFFIX =
 // archetype (Gandalf) and move through related roles so the style stays
 // coherent (city guards together, shopkeepers together, animals together,
 // oddities/faceless mobs last).
+//
+// NOTE: vnums 581, 500-514, 559-564 (22 total) already succeeded in an
+// earlier run (committed) before the OpenAI account hit its billing hard
+// limit -- trimmed from this array so a re-run only spends money on the
+// remaining vnums. The first entry below chains continuity from 564.jpg
+// (the last successful portrait), same as any other reference-chained
+// entry.
 const MOBS = [
-  { vnum: 581, prompt: "Gandalf the Grey, an aged wizard with a long grey beard, wide-brimmed pointed hat, and a grey robe, leaning on a gnarled wooden staff, standing in a plaza teaching would-be adventurers, wise and slightly weary expression." },
-  { vnum: 500, prompt: "the Spirit of WarDome, a translucent glowing ghostly humanoid figure hovering just above the ground, faint ethereal blue-white light radiating from within, ancient and watchful, guarding the city's heart." },
-  { vnum: 501, prompt: "the Chaos Guardian, a hulking armored sentinel wreathed in crackling chaotic energy, cracked and scorched heavy plate armor, glowing unstable runes etched into the metal, an imposing city defender." },
-  { vnum: 502, prompt: "a city archer, lightly armored in leather and a hooded cloak, quiver of arrows on the back, longbow in hand, alert stance atop a city wall or rooftop." },
-  { vnum: 503, prompt: "the mayor of Wardome City, a portly middle-aged man in fine velvet robes trimmed with fur, a gold chain of office around his neck, standing with self-important posture inside a city hall." },
-  { vnum: 504, prompt: "the Wardome Sheriff, a grizzled lawman in worn leather armor with a tin star badge, a hand resting on the hilt of a sword, stern and watchful expression, patrolling the city streets." },
-  { vnum: 505, prompt: "the Questmaster Ashlandar, a mysterious robed figure with an ornate ledger and quill, standing before a great notice board covered in quest parchments, an air of ancient authority." },
-  { vnum: 506, prompt: "Hazaard, a roguish, sharp-featured man with a knowing smirk, dressed in dark practical traveling clothes, leaning against a city wall." },
-  { vnum: 507, prompt: "Hazaard, a second incarnation -- similar roguish sharp-featured man in dark practical traveling clothes, standing watchfully in a different part of the city." },
-  { vnum: 508, prompt: "the Powerful General, a battle-scarred military commander in ornate plate armor with a flowing cape, a ceremonial sword at the hip, commanding presence, standing before city troops." },
-  { vnum: 509, prompt: "Wardome House Maker, a craftsman in a leather apron surrounded by tools and half-built wooden structures, measuring tape and hammer in hand, practical and industrious." },
-  { vnum: 510, prompt: "an alley cat, a scrawny street cat with matted fur, perched on a crate in a dim city alley, wary yellow eyes, tail flicking." },
-  { vnum: 511, prompt: "a female prostitute, a world-weary woman in worn, faded finery, leaning in a shadowed doorway of the city at dusk, painted in a tasteful, non-explicit dark-fantasy noir style." },
-  { vnum: 512, prompt: "the Cyber Man, a strange anachronistic figure part-flesh part-machine, exposed brass gears and glowing wires beneath tattered clothing, an unsettling fusion of technology and dark fantasy." },
-  { vnum: 513, prompt: "an oracle, a serene blindfolded seer in flowing pale robes, faint golden light emanating from around them, standing before a reflecting pool or brazier of incense smoke." },
-  { vnum: 514, prompt: "the casino master, a slick, sharply-dressed figure in a fine dark suit and slicked-back hair, a deck of cards fanned in one hand, standing in a dim, richly decorated casino interior." },
-  { vnum: 559, prompt: "the Peacekeeper, a stern city guard in polished ceremonial armor bearing a city crest, a long spear held upright, standing sentinel at a gate." },
-  { vnum: 560, prompt: "the Wardome Guard, an armored city soldier in practical plate and chainmail, sword and shield ready, standing watch at a city checkpoint." },
-  { vnum: 561, prompt: "a janitor, a tired middle-aged man in simple worn clothes, mop and bucket in hand, sweeping the steps of a grand city building." },
-  { vnum: 562, prompt: "the beastly fido, a mangy, oversized feral dog with matted fur and bared teeth, prowling a dark city alley, unsettling and dangerous." },
-  { vnum: 563, prompt: "the mercenary, a hardened sellsword in mismatched scavenged armor, an assortment of weapons strapped to the back, scarred face, leaning against a tavern wall." },
-  { vnum: 564, prompt: "the drunk, a disheveled man slumped against a barrel outside a tavern, bottle loosely in hand, unfocused eyes, tattered clothes." },
   { vnum: 565, prompt: "the beggar, a gaunt, hunched figure in tattered rags, a worn cup extended for coins, sitting on the cobblestones outside a grand building." },
   { vnum: 566, prompt: "the Cyber Man, a second sighting -- part-flesh part-machine figure with exposed brass gears and glowing wires beneath tattered clothing, standing in a different city district." },
   { vnum: 567, prompt: "the Wardome Gateguard, a heavily armored sentinel standing at the towering city gates, halberd in hand, city crest emblazoned on the chestplate." },
@@ -122,7 +107,8 @@ async function main() {
   if (!apiKey) throw new Error('OPENAI_API_KEY not set in environment');
   fs.mkdirSync(MOBS_OUT, { recursive: true });
 
-  let prevPath = null;
+  const carryOverRef = outPath(564);
+  let prevPath = fs.existsSync(carryOverRef) ? carryOverRef : null;
   for (let i = 0; i < MOBS.length; i++) {
     const { vnum, prompt } = MOBS[i];
     const out = outPath(vnum);
