@@ -35,6 +35,7 @@ extern struct char_data *mob_proto;
 extern struct obj_data *obj_proto;
 extern struct room_data *world;
 extern struct time_info_data time_info;
+extern struct obj_data *object_list;
 extern char *drinks[];
 extern char *item_types[];
 extern char *extra_bits[];
@@ -506,6 +507,21 @@ void shopping_buy(char *arg, struct char_data * ch,
   }
   if (!(obj = get_purchase_obj(ch, arg, keeper, shop_nr, TRUE)))
     return;
+
+  /* Dragon's Barrel (vnum 17690) is capped at 1 copy in the world at a
+     time -- unlike a normal producing-shop item, which reinstantiates
+     freely on every purchase, this one refuses to sell again once a
+     copy already exists anywhere, until the next server boot. */
+  if (GET_OBJ_VNUM(obj) == 17690) {
+    struct obj_data *o;
+    for (o = object_list; o; o = o->next) {
+      if (GET_OBJ_VNUM(o) == 17690) {
+        sprintf(buf, "%s I'm fresh out of those -- someone already claimed the only one.", GET_NAME(ch));
+        do_tell(keeper, buf, cmd_tell, 0);
+        return;
+      }
+    }
+  }
 
   if ((buy_price(obj, shop_nr) > GET_GOLD(ch)) && !IS_GOD(ch)) {
     sprintf(buf, shop_index[shop_nr].missing_cash2, GET_NAME(ch));
