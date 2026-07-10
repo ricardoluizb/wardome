@@ -399,6 +399,35 @@ body {
   filter: grayscale(1) brightness(0.75);
 }
 
+/* Clan-artifact highlight (e.g. the Army of Immortals Scepter): a slow
+   rotating gold sheen behind the icon plus a soft breathing glow, to mark
+   the slot as holding something rarer than the usual rarity-tier border. */
+.equip-slot.is-clan-artifact {
+  animation: clan-artifact-pulse 2.6s ease-in-out infinite;
+  border-radius: 4px;
+}
+
+.equip-slot.is-clan-artifact::after {
+  content: '';
+  position: absolute;
+  inset: -3px;
+  border-radius: 6px;
+  background: conic-gradient(from 0deg, transparent 0%, rgba(212, 175, 55, 0.9) 12%, transparent 28%);
+  filter: blur(2px);
+  animation: clan-artifact-spin 3.5s linear infinite;
+  pointer-events: none;
+  z-index: -1;
+}
+
+@keyframes clan-artifact-pulse {
+  0%, 100% { filter: drop-shadow(0 0 3px rgba(212, 175, 55, 0.45)); }
+  50% { filter: drop-shadow(0 0 10px rgba(212, 175, 55, 0.95)); }
+}
+
+@keyframes clan-artifact-spin {
+  to { transform: rotate(360deg); }
+}
+
 #automation-overlay {
   display: none;
   position: fixed;

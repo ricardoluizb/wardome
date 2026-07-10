@@ -60,6 +60,9 @@ const EQUIP_SLOTS = [
 ];
 
 const TIER_BORDER_COLORS = ['var(--gold-dim)', '#4a90d9', '#d4af37', '#e05252'];
+// Clan-only artifacts get the extra rotating-glow highlight regardless of
+// their rarity tier -- vnum 2404 is the Army of Immortals Scepter.
+const CLAN_ARTIFACT_VNUMS = new Set([2404]);
 
 const equipIconEls = EQUIP_SLOTS.map((def) => document.getElementById(`equip-icon-${def.area}`));
 const lastEquipVnums = new Array(EQUIP_SLOTS.length).fill(undefined);
@@ -140,11 +143,13 @@ function setEquip(msg) {
     lastEquipVnums[i] = slot.vnum;
     const def = EQUIP_SLOTS[i];
     const img = equipIconEls[i];
+    const slotEl = img.parentElement.parentElement;
     if (slot.vnum === -1) {
       img.onerror = null;
       img.src = slotPlaceholderPath(def.type);
       img.classList.add('is-placeholder');
       img.parentElement.style.borderColor = TIER_BORDER_COLORS[0];
+      slotEl.classList.remove('is-clan-artifact');
     } else {
       img.onerror = () => {
         img.onerror = null;
@@ -154,6 +159,7 @@ function setEquip(msg) {
       img.classList.remove('is-placeholder');
       img.src = `assets/items/${slot.vnum}.jpg`;
       img.parentElement.style.borderColor = TIER_BORDER_COLORS[slot.tier] || TIER_BORDER_COLORS[0];
+      slotEl.classList.toggle('is-clan-artifact', CLAN_ARTIFACT_VNUMS.has(slot.vnum));
     }
   });
 }
