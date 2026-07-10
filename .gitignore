@@ -3,6 +3,9 @@
 *.ko
 *.obj
 *.elf
+# ...except this MUD's own world-data object files, which just happen to
+# share the .obj extension with compiled C object files.
+!wdii/lib/world/obj/*.obj
 
 # Precompiled Headers
 *.gch
