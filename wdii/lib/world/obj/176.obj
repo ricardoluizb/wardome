@@ -1,3 +1,167 @@
+#17600
+axe hand~
+a hand axe~
+A hand axe is lying here.~
+~
+5 0 8193
+0 1 6 11
+6 50 0
+#17601
+cleaver meat~
+a meat cleaver~
+A meat cleaver is lying here.~
+~
+5 0 8193
+0 1 6 11
+5 40 0
+#17602
+beef side~
+a side of beef~
+A side of beef is lying here.~
+~
+19 0 1
+4 0 0 0
+1 10 0
+#17603
+pork side~
+a side of pork~
+A side of pork is lying here.~
+~
+19 0 1
+4 0 0 0
+1 10 0
+#17604
+horse side~
+a side of horse~
+A side of horse is lying here.~
+~
+19 0 1
+4 0 0 0
+1 10 0
+#17605
+chicken defeathered~
+a defeathered chicken~
+A defeathered chicken is lying here.~
+~
+19 0 1
+4 0 0 0
+1 10 0
+#17606
+ring emerald~
+an emerald ring~
+An emerald ring is lying here.~
+~
+9 0 3
+0 0 0 0
+1 300 0
+A
+6 1
+#17607
+trinket glass~
+a glass trinket~
+A glass trinket is lying here.~
+~
+8 0 1
+0 0 0 0
+1 150 0
+#17608
+necklace golden~
+a golden necklace~
+A golden necklace is lying here.~
+~
+9 0 5
+0 0 0 0
+1 350 0
+A
+6 1
+#17609
+cabbage head~
+a head of cabbage~
+A head of cabbage is lying here.~
+~
+19 0 1
+4 0 0 0
+1 10 0
+#17610
+lettuce head~
+a head of lettuce~
+A head of lettuce is lying here.~
+~
+19 0 1
+4 0 0 0
+1 10 0
+#17611
+milk bottle~
+a bottle of milk~
+A bottle of milk is lying here.~
+~
+19 0 1
+4 0 0 0
+1 10 0
+#17612
+apple~
+an apple~
+An apple is lying here.~
+~
+19 0 1
+4 0 0 0
+1 10 0
+#17613
+corn ear~
+an ear of corn~
+An ear of corn is lying here.~
+~
+19 0 1
+4 0 0 0
+1 10 0
+#17615
+pitchfork~
+a pitchfork~
+A pitchfork is leaning against the wall here.~
+~
+5 0 8193
+0 1 6 11
+7 35 0
+#17616
+vest leather~
+a leather vest~
+A leather vest is lying here.~
+~
+9 0 9
+0 0 0 0
+6 80 0
+A
+17 -1
+#17617
+sleeves leather~
+some leather sleeves~
+Some leather sleeves are lying here.~
+~
+9 0 257
+0 0 0 0
+3 60 0
+A
+17 -1
+#17618
+leggings leather~
+some leather leggings~
+Some leather leggings are lying here.~
+~
+9 0 33
+0 0 0 0
+4 60 0
+A
+17 -1
+#17619
+boots leather~
+some leather boots~
+Some leather boots are lying here.~
+~
+9 0 65
+0 0 0 0
+3 60 0
+A
+17 -1
 #17620
 ring signet ofcol~
 an Ofcol signet ring~
@@ -188,16 +352,6 @@ The silver girth is lying here.~
 4 300 0
 A
 17 -2
-#17653
-ranseur~
-a ranseur~
-A ranseur is leaning against the wall here.~
-~
-5 0 8193
-0 3 6 11
-18 900 0
-A
-18 1
 #17639
 plate platinum~
 Platinum plate~
@@ -294,6 +448,58 @@ A
 18 2
 A
 19 2
+#17648
+shot whiskey~
+a shot of whiskey~
+A shot of whiskey is sitting here.~
+~
+17 0 1
+1 1 5 0
+1 15 5
+#17649
+quart ale~
+a quart of ale~
+A quart of ale is sitting here.~
+~
+17 0 1
+4 4 3 0
+2 20 5
+#17650
+quart port brew~
+a quart of port brew~
+A quart of port brew is sitting here.~
+~
+17 0 1
+4 4 8 0
+2 20 5
+#17651
+key citadel~
+the citadel key~
+The citadel key is lying here.~
+~
+18 0 1
+0 0 0 0
+1 0 0
+#17652
+symbol holy bahamut~
+&WThe Holy &rSymbol &Wof &rBahamut&n~
+A holy symbol of Bahamut, the platinum dragon god, rests here.~
+~
+9 0 5
+0 0 0 0
+1 1200 0
+A
+24 -2
+#17653
+ranseur~
+a ranseur~
+A ranseur is leaning against the wall here.~
+~
+5 0 8193
+0 3 6 11
+18 900 0
+A
+18 1
 #17654
 torso golden dragonscale~
 &Ya golden &gd&Gr&ga&Gg&go&Gn&gs&Gc&ga&Gl&ge &Ytorso&n~
@@ -374,30 +580,6 @@ A golden claw-shaped blade is lying here.~
 10 4000 0
 A
 18 1
-#17669
-claw golden~
-the golden claw~
-A large golden claw-shaped blade is lying here.~
-~
-5 0 8193
-0 5 6 11
-12 6000 0
-A
-18 2
-A
-19 1
-#17668
-claw golden~
-&Rthe&n &YGolden&n &RClaw&n~
-The Golden Claw, the Ancient Gold Dragon's own weapon, is lying here.~
-~
-5 0 8193
-0 5 8 11
-14 10000 0
-A
-18 2
-A
-19 2
 #17663
 orb gold dragon~
 the Gold Dragon Orb~
@@ -410,16 +592,6 @@ A
 12 20
 A
 4 1
-#17652
-symbol holy bahamut~
-&WThe Holy &rSymbol &Wof &rBahamut&n~
-A holy symbol of Bahamut, the platinum dragon god, rests here.~
-~
-9 0 5
-0 0 0 0
-1 1200 0
-A
-24 -2
 #17664
 robe golden~
 a golden robe~
@@ -430,202 +602,6 @@ A golden robe is lying here.~
 4 300 0
 A
 17 -2
-#17600
-axe hand~
-a hand axe~
-A hand axe is lying here.~
-~
-5 0 8193
-0 1 6 11
-6 50 0
-#17601
-cleaver meat~
-a meat cleaver~
-A meat cleaver is lying here.~
-~
-5 0 8193
-0 1 6 11
-5 40 0
-#17615
-pitchfork~
-a pitchfork~
-A pitchfork is leaning against the wall here.~
-~
-5 0 8193
-0 1 6 11
-7 35 0
-#17616
-vest leather~
-a leather vest~
-A leather vest is lying here.~
-~
-9 0 9
-0 0 0 0
-6 80 0
-A
-17 -1
-#17617
-sleeves leather~
-some leather sleeves~
-Some leather sleeves are lying here.~
-~
-9 0 257
-0 0 0 0
-3 60 0
-A
-17 -1
-#17618
-leggings leather~
-some leather leggings~
-Some leather leggings are lying here.~
-~
-9 0 33
-0 0 0 0
-4 60 0
-A
-17 -1
-#17619
-boots leather~
-some leather boots~
-Some leather boots are lying here.~
-~
-9 0 65
-0 0 0 0
-3 60 0
-A
-17 -1
-#17602
-beef side~
-a side of beef~
-A side of beef is lying here.~
-~
-19 0 1
-4 0 0 0
-1 10 0
-#17603
-pork side~
-a side of pork~
-A side of pork is lying here.~
-~
-19 0 1
-4 0 0 0
-1 10 0
-#17604
-horse side~
-a side of horse~
-A side of horse is lying here.~
-~
-19 0 1
-4 0 0 0
-1 10 0
-#17605
-chicken defeathered~
-a defeathered chicken~
-A defeathered chicken is lying here.~
-~
-19 0 1
-4 0 0 0
-1 10 0
-#17609
-cabbage head~
-a head of cabbage~
-A head of cabbage is lying here.~
-~
-19 0 1
-4 0 0 0
-1 10 0
-#17610
-lettuce head~
-a head of lettuce~
-A head of lettuce is lying here.~
-~
-19 0 1
-4 0 0 0
-1 10 0
-#17611
-milk bottle~
-a bottle of milk~
-A bottle of milk is lying here.~
-~
-19 0 1
-4 0 0 0
-1 10 0
-#17612
-apple~
-an apple~
-An apple is lying here.~
-~
-19 0 1
-4 0 0 0
-1 10 0
-#17613
-corn ear~
-an ear of corn~
-An ear of corn is lying here.~
-~
-19 0 1
-4 0 0 0
-1 10 0
-#17648
-shot whiskey~
-a shot of whiskey~
-A shot of whiskey is sitting here.~
-~
-17 0 1
-1 1 5 0
-1 15 5
-#17649
-quart ale~
-a quart of ale~
-A quart of ale is sitting here.~
-~
-17 0 1
-4 4 3 0
-2 20 5
-#17650
-quart port brew~
-a quart of port brew~
-A quart of port brew is sitting here.~
-~
-17 0 1
-4 4 8 0
-2 20 5
-#17606
-ring emerald~
-an emerald ring~
-An emerald ring is lying here.~
-~
-9 0 3
-0 0 0 0
-1 300 0
-A
-6 1
-#17608
-necklace golden~
-a golden necklace~
-A golden necklace is lying here.~
-~
-9 0 5
-0 0 0 0
-1 350 0
-A
-6 1
-#17607
-trinket glass~
-a glass trinket~
-A glass trinket is lying here.~
-~
-8 0 1
-0 0 0 0
-1 150 0
-#17651
-key citadel~
-the citadel key~
-The citadel key is lying here.~
-~
-18 0 1
-0 0 0 0
-1 0 0
 #17665
 key house~
 a house key~
@@ -650,6 +626,30 @@ A chest sits here.~
 15 0 1
 50 0 0 0
 10 200 0
+#17668
+claw golden~
+&Rthe&n &YGolden&n &RClaw&n~
+The Golden Claw, the Ancient Gold Dragon's own weapon, is lying here.~
+~
+5 0 8193
+0 5 8 11
+14 10000 0
+A
+18 2
+A
+19 2
+#17669
+claw golden~
+the golden claw~
+A large golden claw-shaped blade is lying here.~
+~
+5 0 8193
+0 5 6 11
+12 6000 0
+A
+18 2
+A
+19 1
 #17690
 barrel dragon water~
 &GDragon&n&Y'&n&Gs&n&W Barrel&n~
