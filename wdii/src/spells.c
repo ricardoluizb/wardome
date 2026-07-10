@@ -1012,6 +1012,10 @@ ASPELL(spell_death_scythe)
 	}
 
 	  obj = read_object(99, VIRTUAL); // !rent
+	  if (!obj) {
+	    send_to_char("Something went wrong conjuring the scythe.\r\n", ch);
+	    return;
+	  }
 	  GET_OBJ_WEIGHT(obj) = 1 ;
 	  GET_OBJ_VAL(obj, 2) = (GET_LEVEL(ch) + (GET_REMORT(ch) * 7)); 
 	  GET_OBJ_VAL(obj, 1) = 2;
