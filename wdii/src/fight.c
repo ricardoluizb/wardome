@@ -1631,14 +1631,14 @@ int damage(struct char_data * ch, struct char_data * victim, int dam, int attack
     if (IS_NPC(victim) && !IS_NPC(ch) && PRF_FLAGGED(ch, PRF_AUTOLOOT)) {
       send_to_char("\r\n", ch);
       gb = GET_GOLD(ch);
-//      do_get(ch,"all corpse",0,0);
+      do_get(ch,"all corpse",0,0);
       ga = GET_GOLD(ch);
     }
     if (IS_NPC(victim) && !IS_NPC(ch) && PRF_FLAGGED(ch, PRF_AUTOGOLD) &&
        (local_gold > 0) && !PRF_FLAGGED(ch, PRF_AUTOLOOT)) {
       send_to_char("\r\n", ch);
       gb = GET_GOLD(ch);
-//      do_get(ch,"all.gold corpse",0,0);
+      do_get(ch,"all.gold corpse",0,0);
       ga = GET_GOLD(ch);
     }
     if (!IS_NPC(ch) && IS_AFFECTED(ch, AFF_GROUP) && (local_gold > 0) &&
