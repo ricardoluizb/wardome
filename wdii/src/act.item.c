@@ -899,7 +899,8 @@ ACMD(do_drink)
     snprintf(buf, sizeof(buf), "$n drinks %s from $p.", drinks[GET_OBJ_VAL(temp, 2)]);
     act(buf, TRUE, ch, temp, 0, TO_ROOM);
 
-    send_to_char("You drink the drinks[GET_OBJ_VAL(temp, 2)].\r\n", ch);
+    snprintf(buf, sizeof(buf), "You drink the %s.\r\n", drinks[GET_OBJ_VAL(temp, 2)]);
+    send_to_char(buf, ch);
 
     if (drink_aff[GET_OBJ_VAL(temp, 2)][DRUNK] > 0)
       amount = (25 - GET_COND(ch, THIRST)) / drink_aff[GET_OBJ_VAL(temp, 2)][DRUNK];
@@ -907,8 +908,11 @@ ACMD(do_drink)
       amount = rand_number(3, 10);
 
   } else {
+    char buf[MAX_STRING_LENGTH];
+
     act("$n sips from $p.", TRUE, ch, temp, 0, TO_ROOM);
-    send_to_char("It tastes like drinks[GET_OBJ_VAL(temp, 2)].\r\n", ch);
+    snprintf(buf, sizeof(buf), "It tastes like %s.\r\n", drinks[GET_OBJ_VAL(temp, 2)]);
+    send_to_char(buf, ch);
     amount = 1;
   }
 
@@ -1119,8 +1123,12 @@ ACMD(do_pour)
     send_to_char("There is no room for more.\r\n", ch);
     return;
   }
-  if (subcmd == SCMD_POUR)
-    send_to_char("You pour the drinks[GET_OBJ_VAL(from_obj, 2)] into the arg2.", ch);
+  if (subcmd == SCMD_POUR) {
+    char buf[MAX_STRING_LENGTH];
+
+    snprintf(buf, sizeof(buf), "You pour the %s into $P.", drinks[GET_OBJ_VAL(from_obj, 2)]);
+    act(buf, FALSE, ch, 0, to_obj, TO_CHAR);
+  }
 
   if (subcmd == SCMD_FILL) {
     act("You gently fill $p from $P.", FALSE, ch, to_obj, from_obj, TO_CHAR);
