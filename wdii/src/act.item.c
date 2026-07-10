@@ -1155,6 +1155,13 @@ ACMD(do_pour)
     GET_OBJ_VAL(from_obj, 2) = 0;
     GET_OBJ_VAL(from_obj, 3) = 0;
   }
+  if (GET_OBJ_TYPE(from_obj) == ITEM_FOUNTAIN) {
+    /* Fountains are an inexhaustible water source -- restore full
+       capacity regardless of how much was just poured/filled, and make
+       sure the destination container always ends up completely full. */
+    GET_OBJ_VAL(from_obj, 1) = GET_OBJ_VAL(from_obj, 0);
+    GET_OBJ_VAL(to_obj, 1) = GET_OBJ_VAL(to_obj, 0);
+  }
   /* Then the poison boogie */
   GET_OBJ_VAL(to_obj, 3) =
     (GET_OBJ_VAL(to_obj, 3) || GET_OBJ_VAL(from_obj, 3));
