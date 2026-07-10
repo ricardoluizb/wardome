@@ -376,8 +376,8 @@ void assign_objects(void)
   //ASSIGNOBJ(98, gen_board);
   //ASSIGNOBJ(1300, gen_board);  /*questbook board*/
   //ASSIGNOBJ(9403, gen_board);  /* Viking clan */
-  //ASSIGNOBJ(3034, bank);        /* atm */
-  //ASSIGNOBJ(3036, bank);        /* cashcard */
+  ASSIGNOBJ(3034, bank);        /* atm */
+  ASSIGNOBJ(3036, bank);        /* cashcard */
   //ASSIGNOBJ(6747, marbles);        /* marbles */
   //ASSIGNOBJ(10113, espada_fica_azul);
   //ASSIGNOBJ(1901, gen_board); //Warlords Clan
