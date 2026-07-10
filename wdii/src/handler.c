@@ -448,8 +448,19 @@ void affect_join(struct char_data * ch, struct affected_type * af,
   for (hjp = ch->affected; !found && hjp; hjp = hjp->next) {
 
     if ((hjp->type == af->type) && (hjp->location == af->location)) {
-      if (add_dur)
+      if (add_dur) {
         af->duration += hjp->duration;
+        /* duration is a signed 16-bit sh_int (max 32767) -- repeatedly
+           recasting an accum_duration spell before it expires keeps
+           adding the old remaining duration to the new one, growing
+           roughly exponentially with each recast. Left uncapped this
+           overflows the sh_int into a corrupted value that cascades
+           into memory corruption downstream (root-caused via gdb on a
+           live crash reproduced by recasting "superior invisibility"
+           repeatedly). Clamp well below the overflow point. */
+        if (af->duration > 30000)
+          af->duration = 30000;
+      }
       if (avg_dur)
         af->duration /= 2;
 
