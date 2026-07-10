@@ -598,6 +598,12 @@ body {
   margin-bottom: 4px;
 }
 
+.tooltip-damage {
+  font-size: 11px;
+  color: #e0a868;
+  margin-bottom: 2px;
+}
+
 .tooltip-affect {
   font-size: 11px;
   color: #ccc;

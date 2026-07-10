@@ -1228,20 +1228,26 @@ char *make_prompt(struct descriptor_data *d)
     }
 
     {
-      char equip_tag_buf[1024];
-      char equip_body[960];
+      char equip_tag_buf[1536];
+      char equip_body[1400];
       int w;
       equip_body[0] = '\0';
       for (w = 0; w < NUM_WEARS; w++) {
         struct obj_data *eq_obj = GET_EQ(d->character, w);
         int vnum = -1;
         int tier = 0;
-        char slot_piece[128];
+        int otype = 0;
+        int v0 = 0, v1 = 0, v2 = 0;
+        char slot_piece[160];
         char aff_piece[96];
         int a;
         aff_piece[0] = '\0';
         if (eq_obj != NULL) {
           vnum = GET_OBJ_VNUM(eq_obj);
+          otype = GET_OBJ_TYPE(eq_obj);
+          v0 = GET_OBJ_VAL(eq_obj, 0);
+          v1 = GET_OBJ_VAL(eq_obj, 1);
+          v2 = GET_OBJ_VAL(eq_obj, 2);
           if (!strncmp(eq_obj->short_description, "&B[I]", 5))
             tier = 1;
           else if (!strncmp(eq_obj->short_description, "&Y[R]", 5))
@@ -1257,7 +1263,8 @@ char *make_prompt(struct descriptor_data *d)
             }
           }
         }
-        snprintf(slot_piece, sizeof(slot_piece), "%s%d:%d:%s", (w == 0 ? "" : "|"), vnum, tier, aff_piece);
+        snprintf(slot_piece, sizeof(slot_piece), "%s%d:%d:%d:%d,%d,%d:%s",
+          (w == 0 ? "" : "|"), vnum, tier, otype, v0, v1, v2, aff_piece);
         strncat(equip_body, slot_piece, sizeof(equip_body) - strlen(equip_body) - 1);
       }
       snprintf(equip_tag_buf, sizeof(equip_tag_buf), "$$EQUIP:%s$$\r\n", equip_body);

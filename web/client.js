@@ -67,6 +67,8 @@ const lastEquipSlotData = new Array(EQUIP_SLOTS.length).fill(null);
 
 const itemTooltipEl = document.getElementById('item-tooltip');
 const TIER_NAMES = ['Common', 'Uncommon', 'Rare', 'Legendary'];
+// Matches wdii/src/structs.h's ITEM_* type constants.
+const ITEM_WEAPON = 5;
 // Index matches wdii/src/structs.h's APPLY_* constants exactly (0=APPLY_NONE).
 const APPLY_NAMES = [
   null, 'STR', 'DEX', 'INT', 'WIS', 'CON', 'CHA', 'CLASS', 'LEVEL', 'AGE',
@@ -86,6 +88,10 @@ function buildTooltipHtml(slot) {
   const parts = [];
   parts.push(`<div class="tooltip-name">${escapeHtml(name)}</div>`);
   parts.push(`<div class="tooltip-tier">${TIER_NAMES[slot.tier] || 'Common'}</div>`);
+  if (slot.itemType === ITEM_WEAPON && slot.val1 > 0 && slot.val2 > 0) {
+    const avg = ((slot.val2 + 1) / 2) * slot.val1;
+    parts.push(`<div class="tooltip-damage">Damage: ${slot.val1}d${slot.val2} (avg ${avg.toFixed(1)})</div>`);
+  }
   (slot.affects || []).forEach((aff) => {
     const label = APPLY_NAMES[aff.location] || `#${aff.location}`;
     const sign = aff.modifier > 0 ? '+' : '';

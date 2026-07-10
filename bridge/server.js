@@ -75,13 +75,16 @@ wss.on('connection', (ws) => {
           const parts = piece.split(':');
           const vnum = parseInt(parts[0], 10);
           const tier = parseInt(parts[1], 10);
-          const affStr = parts[2] || '';
+          const itemType = parseInt(parts[2], 10);
+          const valStr = parts[3] || '0,0,0';
+          const [val0, val1, val2] = valStr.split(',').map((n) => parseInt(n, 10));
+          const affStr = parts[4] || '';
           const nums = affStr.length === 0 ? [] : affStr.split(',').map((n) => parseInt(n, 10));
           const affects = [];
           for (let i = 0; i < nums.length; i += 2) {
             affects.push({ location: nums[i], modifier: nums[i + 1] });
           }
-          return { vnum, tier, affects };
+          return { vnum, tier, itemType, val0, val1, val2, affects };
         });
         ws.send(JSON.stringify({ type: 'equip', slots }));
       }
