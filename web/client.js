@@ -143,13 +143,12 @@ function setEquip(msg) {
     lastEquipVnums[i] = slot.vnum;
     const def = EQUIP_SLOTS[i];
     const img = equipIconEls[i];
-    const slotEl = img.parentElement.parentElement;
     if (slot.vnum === -1) {
       img.onerror = null;
       img.src = slotPlaceholderPath(def.type);
       img.classList.add('is-placeholder');
       img.parentElement.style.borderColor = TIER_BORDER_COLORS[0];
-      slotEl.classList.remove('is-clan-artifact');
+      img.parentElement.classList.remove('is-clan-artifact');
     } else {
       img.onerror = () => {
         img.onerror = null;
@@ -159,7 +158,7 @@ function setEquip(msg) {
       img.classList.remove('is-placeholder');
       img.src = `assets/items/${slot.vnum}.jpg`;
       img.parentElement.style.borderColor = TIER_BORDER_COLORS[slot.tier] || TIER_BORDER_COLORS[0];
-      slotEl.classList.toggle('is-clan-artifact', CLAN_ARTIFACT_VNUMS.has(slot.vnum));
+      img.parentElement.classList.toggle('is-clan-artifact', CLAN_ARTIFACT_VNUMS.has(slot.vnum));
     }
   });
 }
