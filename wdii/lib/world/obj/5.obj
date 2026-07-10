@@ -1,3 +1,19 @@
+#500
+board common~
+a common board~
+A plain wooden board is mounted on a wall here.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+E
+board~
+If you can read this, the board is not working.
+~
+E
+common~
+Use 'look board' to read the board.
+~
 #501
 fountain water crystal crystalspring~
 &Cthe Crystalspring&n &bFountain&n~
@@ -6,4 +22,25 @@ A wonderful marble fountain stands here, gushing an endless stream of crystal-cl
 23 0 0
 100000 100000 15 0
 5000 0 0
+#502
+key city wardome~
+Wardome's City key~
+Wardome's City key lies here, its bow stamped with the city crest.~
+~
+18 0 1
+0 0 0 0
+1 0 0
+#513
+book holy punishment~
+a holy book of punishment~
+A holy book of punishment rests here, its cover bound in cracked leather.~
+~
+12 0 1
+0 0 0 0
+2 0 0
+E
+book holy punishment~
+The book lists, in exhausting detail, the fates awaiting those who abuse
+their power.
+~
 $

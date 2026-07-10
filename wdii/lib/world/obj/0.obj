@@ -15,6 +15,19 @@ A pair of wings is sitting here.~
 9 0 17
 6 0 0 0
 0 0 200
+#2
+guide help wardome~
+&bthe &bw&Ba&br&Bd&bo&Bm&be help guide&n~
+A small guide to the wardome lies here, its pages worn from handling.~
+~
+12 0 1
+0 0 0 0
+1 0 0
+E
+guide help~
+The guide covers the basics: movement, combat, and where to find help
+in-game.  Type 'help' followed by a topic to learn more.
+~
 #10
 waybread bread~
 a waybread~
@@ -27,6 +40,38 @@ E
 waybread bread~
 The waybread is the traditional feed of elves when travelling, they
 call it lembas.  It is said to refresh the weary traveler greatly.
+~
+#97
+board suggestions~
+the Suggestions Board~
+The Suggestions Board is mounted here.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+E
+board~
+If you can read this, the board is not working.
+~
+E
+suggestions~
+Use 'look board' to read the board.
+~
+#98
+board builders~
+the Builder's board~
+The Builder's board is mounted here.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+E
+board~
+If you can read this, the board is not working.
+~
+E
+builders~
+Use 'look board' to read the board.
 ~
 #99
 scythe death spectral~
