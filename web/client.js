@@ -806,6 +806,10 @@ form.addEventListener('submit', (e) => {
   if (ws.readyState === WebSocket.OPEN) {
     if (isPasswordMode) {
       ws.send(JSON.stringify({ type: 'cmd', data: command }));
+    } else if (command.trim().length === 0) {
+      // An empty Enter should still submit a blank line (e.g. to page
+      // through a "-- MORE --" prompt), not be silently swallowed.
+      sendCommand('');
     } else {
       command.split(';').map((part) => part.trim()).filter((part) => part.length > 0).forEach(sendCommand);
     }
