@@ -212,8 +212,11 @@ void get_check_money(struct char_data *ch, struct obj_data *obj)
 
   if (value == 1)
     send_to_char("There was 1 coin.\r\n", ch);
-  else
-    send_to_char("There were SOMETHING coins.\r\n", ch);
+  else {
+    char buf[128];
+    snprintf(buf, sizeof(buf), "There were %d coins.\r\n", value);
+    send_to_char(buf, ch);
+  }
 }
 
 
@@ -1250,7 +1253,8 @@ void perform_wear(struct char_data *ch, struct obj_data *obj, int where)
     ITEM_WEAR_NECK, ITEM_WEAR_BODY, ITEM_WEAR_HEAD, ITEM_WEAR_LEGS,
     ITEM_WEAR_FEET, ITEM_WEAR_HANDS, ITEM_WEAR_ARMS, ITEM_WEAR_SHIELD,
     ITEM_WEAR_ABOUT, ITEM_WEAR_WAIST, ITEM_WEAR_WRIST, ITEM_WEAR_WRIST,
-    ITEM_WEAR_WIELD, ITEM_WEAR_TAKE
+    ITEM_WEAR_WIELD, ITEM_WEAR_TAKE, ITEM_WEAR_WIELD, ITEM_WEAR_EAR,
+    ITEM_WEAR_EAR, ITEM_WEAR_FACE, ITEM_WEAR_FLOAT
   };
 
   const char *already_wearing[] = {
@@ -1271,7 +1275,12 @@ void perform_wear(struct char_data *ch, struct obj_data *obj, int where)
     "YOU SHOULD NEVER SEE THIS MESSAGE.  PLEASE REPORT.\r\n",
     "You're already wearing something around both of your wrists.\r\n",
     "You're already wielding a weapon.\r\n",
-    "You're already holding something.\r\n"
+    "You're already holding something.\r\n",
+    "You're already dual wielding a second weapon.\r\n",
+    "You're already wearing something on both of your ears.\r\n",
+    "YOU SHOULD NEVER SEE THIS MESSAGE.  PLEASE REPORT.\r\n",
+    "You're already wearing something on your face.\r\n",
+    "You're already wearing something floating in the air.\r\n"
   };
 
   /* first, make sure that the wear position is valid. */
@@ -1279,8 +1288,9 @@ void perform_wear(struct char_data *ch, struct obj_data *obj, int where)
     act("You can't wear $p there.", FALSE, ch, obj, 0, TO_CHAR);
     return;
   }
-  /* for neck, finger, and wrist, try pos 2 if pos 1 is already full */
-  if ((where == WEAR_FINGER_R) || (where == WEAR_NECK_1) || (where == WEAR_WRIST_R))
+  /* for neck, finger, wrist, and ear, try pos 2 if pos 1 is already full */
+  if ((where == WEAR_FINGER_R) || (where == WEAR_NECK_1) ||
+      (where == WEAR_WRIST_R) || (where == WEAR_EAR_R))
     if (GET_EQ(ch, where))
       where++;
 
@@ -1319,6 +1329,10 @@ int find_eq_pos(struct char_data *ch, struct obj_data *obj, char *arg)
     "!RESERVED!",
     "!RESERVED!",
     "!RESERVED!",
+    "ear",
+    "ear",
+    "face",
+    "float",
     "\n"
   };
 
@@ -1335,6 +1349,9 @@ int find_eq_pos(struct char_data *ch, struct obj_data *obj, char *arg)
     if (CAN_WEAR(obj, ITEM_WEAR_ABOUT))       where = WEAR_ABOUT;
     if (CAN_WEAR(obj, ITEM_WEAR_WAIST))       where = WEAR_WAIST;
     if (CAN_WEAR(obj, ITEM_WEAR_WRIST))       where = WEAR_WRIST_R;
+    if (CAN_WEAR(obj, ITEM_WEAR_EAR))         where = WEAR_EAR_R;
+    if (CAN_WEAR(obj, ITEM_WEAR_FACE))        where = WEAR_FACE;
+    if (CAN_WEAR(obj, ITEM_WEAR_FLOAT))       where = WEAR_FLOAT;
   } else if ((where = search_block(arg, keywords, FALSE)) < 0)
     send_to_char("'arg'?  What part of your body is THAT?\r\n", ch);
 
@@ -1418,6 +1435,8 @@ ACMD(do_wield)
       send_to_char("You can't wield that.\r\n", ch);
     else if (GET_OBJ_WEIGHT(obj) > str_app[STRENGTH_APPLY_INDEX(ch)].wield_w)
       send_to_char("It's too heavy for you to use.\r\n", ch);
+    else if (GET_EQ(ch, WEAR_WIELD))
+      perform_wear(ch, obj, WEAR_DWIELD);
     else
       perform_wear(ch, obj, WEAR_WIELD);
   }
