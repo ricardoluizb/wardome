@@ -5,7 +5,7 @@ A pair of winged boots lies here, feathers rustling as if in a breeze.~
 ~
 9 0 65
 2 0 0 0
-4 8000 2000
+4 8000 2000 10
 A
 14 8
 A
@@ -17,7 +17,7 @@ A carved bronze bracer lies here, etched with feathered wings.~
 ~
 9 0 4097
 1 0 0 0
-3 6000 1500
+3 6000 1500 10
 A
 1 1
 #9103
@@ -27,7 +27,7 @@ An ornate brooch lies here, set with a single dark feather.~
 ~
 11 0 1025
 0 0 0 0
-1 9000 2000
+1 9000 2000 10
 A
 6 1
 #9104
@@ -37,7 +37,7 @@ A magenta potion sits here, fizzing faintly.~
 ~
 10 0 1
 10 16 -1 -1
-1 400 100
+1 400 100 10
 #9105
 parchment ancient illustrated~
 an ancient illustrated parchment~
@@ -45,5 +45,5 @@ An ancient illustrated parchment lies here, its edges crumbling.~
 ~
 2 0 16385
 10 501 -1 -1
-1 1500 500
+1 1500 500 10
 $
