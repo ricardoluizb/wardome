@@ -751,7 +751,7 @@ void list_obj_to_char(struct obj_data * list, struct char_data * ch, int mode, i
 	  }
 	else if (j->item_number==i->item_number) num++;
 
-      if ((CAN_SEE_OBJ(ch, i) || (GET_OBJ_TYPE(i) == ITEM_LIGHT)) && !is_abbrev(i->description, "Undefined")) {
+      if ((CAN_SEE_OBJ(ch, i) || (GET_OBJ_TYPE(i) == ITEM_LIGHT)) && i->description && !is_abbrev(i->description, "Undefined")) {
 	  if (num!=1) {
 		sprintf(buf,"&g(&G%d&g) ",num);
 		send_to_char(buf,ch);
@@ -759,7 +759,7 @@ void list_obj_to_char(struct obj_data * list, struct char_data * ch, int mode, i
 		sprintf(buf,"&g");
 		send_to_char(buf,ch);
 	  }
-	if(!is_abbrev(i->description, "Undefined")){
+	if(i->description && !is_abbrev(i->description, "Undefined")){
 	  show_obj_to_char(i, ch, mode);
 	  found = TRUE;
 	} else
