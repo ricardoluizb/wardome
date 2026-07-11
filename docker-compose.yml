@@ -14,6 +14,30 @@ services:
       - wardome_pfiles:/wardome/lib/pfiles
       - wardome_plrobjs:/wardome/lib/plrobjs
 
+  bridge:
+    build:
+      context: .
+      dockerfile: docker/bridge.Dockerfile
+    image: wardome-bridge
+    container_name: wardome-bridge
+    environment:
+      - GAME_HOST=game
+      - GAME_PORT=4000
+      - BRIDGE_PORT=8080
+    depends_on:
+      - game
+
+  web:
+    build:
+      context: .
+      dockerfile: docker/web.Dockerfile
+    image: wardome-web
+    container_name: wardome-web
+    ports:
+      - "80:80"
+    depends_on:
+      - bridge
+
 volumes:
   wardome_etc:
   wardome_pfiles:
