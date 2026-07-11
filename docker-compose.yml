@@ -9,3 +9,12 @@ services:
       - "4000:4000"
     ulimits:
       core: -1
+    volumes:
+      - wardome_etc:/wardome/lib/etc
+      - wardome_pfiles:/wardome/lib/pfiles
+      - wardome_plrobjs:/wardome/lib/plrobjs
+
+volumes:
+  wardome_etc:
+  wardome_pfiles:
+  wardome_plrobjs:

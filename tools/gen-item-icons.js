@@ -83,8 +83,12 @@ async function generateItems() {
   const prompts = JSON.parse(fs.readFileSync(PROMPTS_FILE, 'utf8'));
   const vnums = Object.keys(prompts);
   for (const vnum of vnums) {
-    const prompt = `${prompts[vnum]}, ${STYLE_SUFFIX}`;
     const outPath = path.join(ITEMS_OUT, `${vnum}.jpg`);
+    if (fs.existsSync(outPath)) {
+      console.log(`[gen-item-icons] skipping ${outPath} (already exists)`);
+      continue;
+    }
+    const prompt = `${prompts[vnum]}, ${STYLE_SUFFIX}`;
     await fetchAndSave(pollinationsUrl(prompt, parseInt(vnum, 10)), outPath);
   }
 }
