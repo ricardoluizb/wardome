@@ -5,6 +5,7 @@ services:
       dockerfile: docker/Dockerfile
     image: wardome-server
     container_name: wardome-server
+    restart: unless-stopped
     ports:
       - "4000:4000"
     ulimits:
@@ -20,6 +21,7 @@ services:
       dockerfile: docker/bridge.Dockerfile
     image: wardome-bridge
     container_name: wardome-bridge
+    restart: unless-stopped
     environment:
       - GAME_HOST=game
       - GAME_PORT=4000
@@ -33,6 +35,7 @@ services:
       dockerfile: docker/web.Dockerfile
     image: wardome-web
     container_name: wardome-web
+    restart: unless-stopped
     ports:
       - "80:80"
     depends_on:
