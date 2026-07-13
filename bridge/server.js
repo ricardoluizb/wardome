@@ -63,10 +63,21 @@ wss.on('connection', (ws) => {
     pending = '';
 
     let cleaned = extractTag(text, USER_TAG_RE, (match) => {
-      const isNew = characterName !== match[1];
-      characterName = match[1];
-      if (isNew && ws.readyState === WebSocket.OPEN) {
-        ws.send(JSON.stringify({ type: 'user', name: characterName }));
+      // Bind identity from the FIRST $$USER$$ tag only, then ignore all
+      // later matches for this connection. The tag is emitted by
+      // make_prompt() on every prompt, but this regex has no way to tell
+      // that apart from the same literal bytes showing up because a player
+      // echoed it back to themselves (e.g. `say $$USER:Darth$$`, which
+      // act() relays straight back to the speaker's own screen unescaped).
+      // Locking after the first legitimate tag -- which always arrives
+      // right at the CON_PLAYING transition, before the player has typed
+      // any command that could echo attacker text -- closes that spoof
+      // window without needing engine-side output sanitization.
+      if (characterName === null) {
+        characterName = match[1];
+        if (ws.readyState === WebSocket.OPEN) {
+          ws.send(JSON.stringify({ type: 'user', name: characterName }));
+        }
       }
     });
 
