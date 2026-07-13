@@ -1231,7 +1231,22 @@ void wear_message(struct char_data *ch, struct obj_data *obj, int where)
     "You wield $p."},
 
     {"$n grabs $p.",
-    "You grab $p."}
+    "You grab $p."},
+
+    {"$n wields $p in $s off hand.",
+    "You wield $p in your off hand."},
+
+    {"$n hangs $p on $s right ear.",
+    "You hang $p on your right ear."},
+
+    {"$n hangs $p on $s left ear.",
+    "You hang $p on your left ear."},
+
+    {"$n puts $p on $s face.",
+    "You put $p on your face."},
+
+    {"$n releases $p, and it floats beside $m.",
+    "You release $p, and it floats beside you."}
   };
 
   act(wear_messages[where][0], TRUE, ch, obj, 0, TO_ROOM);
