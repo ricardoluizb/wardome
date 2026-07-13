@@ -440,19 +440,6 @@ E
 staff metal~
 The staff is made of metals unknown to you.
 ~
-#3056
-scroll remove curse~
-a scroll of remove curse~
-A scroll has carelessly been left here.~
-~
-2 g 16385
-10 35 -1 -1
-1 1800 10
-E
-scroll remove curse~
-The scroll bears a soft blue sigil that seems to unravel dark magic
-at a glance.
-~
 #3060
 raft~
 a raft~
@@ -541,6 +528,19 @@ A pair of leather sleeves is lying on the ground.~
 9 0 257
 2 0 0 0
 4 75 10
+#3090
+scroll remove curse~
+&Wa &Ms&Rcroll &Wof &Mr&Remove &Mc&Rurse&n~
+A scroll has carelessly been left here.~
+~
+2 g 16385
+10 35 -1 -1
+1 1800 10
+E
+scroll remove curse~
+The scroll bears a soft blue sigil that seems to unravel dark magic
+at a glance.
+~
 #3096
 board social bulletin~
 a social bulletin board~
