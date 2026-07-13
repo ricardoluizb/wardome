@@ -1,25 +1,41 @@
 // bridge/server.js
 const WebSocket = require('ws');
 const net = require('net');
+const fs = require('fs');
+const path = require('path');
 
 const GAME_HOST = process.env.GAME_HOST || 'localhost';
 const GAME_PORT = parseInt(process.env.GAME_PORT || '4000', 10);
 const BRIDGE_PORT = parseInt(process.env.BRIDGE_PORT || '8080', 10);
+const AUTOMATION_DIR = process.env.AUTOMATION_DIR || '/data/automation';
+const AUTOMATION_MAX_BYTES = 64 * 1024; // 64KB per character is generous for aliases/triggers/timers
+
+fs.mkdirSync(AUTOMATION_DIR, { recursive: true });
 
 const ROOM_TAG_RE = /\$\$ROOM:(\d+)\|(.+?)\$\$\r?\n?/g;
 const STATS_TAG_RE = /\$\$STATS:(-?\d+)\/(\d+)\/(-?\d+)\/(\d+)\/(-?\d+)\/(\d+)\/(-?\d+)\/(-?\d+)\/(\d+)\/(\d+)\$\$\r?\n?/g;
 const MOB_TAG_RE = /\$\$MOB:(-?\d+)\$\$\r?\n?/g;
 const EQUIP_TAG_RE = /\$\$EQUIP:([^$]+)\$\$\r?\n?/g;
 const AFFECTS_TAG_RE = /\$\$AFFECTS:([^$]*)\$\$\r?\n?/g;
+const USER_TAG_RE = /\$\$USER:([^$]+)\$\$\r?\n?/g;
 const ECHO_OFF_RE = /\xFF\xFB\x01/g;
 const ECHO_ON_RE = /\xFF\xFC\x01\r?\n?/g;
+
+// Character names are alnum in this codebase (no spaces/specials allowed at
+// creation) -- reject anything else so it can't be used as a path component.
+const SAFE_NAME_RE = /^[A-Za-z0-9_-]{1,32}$/;
+
+function automationPath(name) {
+  if (!SAFE_NAME_RE.test(name)) return null;
+  return path.join(AUTOMATION_DIR, `${name.toLowerCase()}.json`);
+}
 
 // Each $$TAG:...$$ is written to the socket in its own write_to_descriptor()
 // call (comm.c), separate from the game's normal buffered output -- so a tag
 // can legitimately land split across two TCP reads. If a chunk ends with an
 // unterminated "$$TAGNAME:..." (no closing "$$" yet), hold that suffix back
 // and prepend it to the next chunk instead of emitting it as literal text.
-const PENDING_TAG_RE = /\$\$(?:ROOM|STATS|MOB|EQUIP|AFFECTS):[^$]*$/;
+const PENDING_TAG_RE = /\$\$(?:ROOM|STATS|MOB|EQUIP|AFFECTS|USER):[^$]*$/;
 
 const wss = new WebSocket.Server({ port: BRIDGE_PORT });
 
@@ -40,12 +56,21 @@ function extractTag(text, re, onMatch) {
 wss.on('connection', (ws) => {
   const tcp = net.createConnection({ host: GAME_HOST, port: GAME_PORT });
   let pending = '';
+  let characterName = null;
 
   tcp.on('data', (chunk) => {
     const text = pending + chunk.toString('binary');
     pending = '';
 
-    let cleaned = extractTag(text, ROOM_TAG_RE, (match) => {
+    let cleaned = extractTag(text, USER_TAG_RE, (match) => {
+      const isNew = characterName !== match[1];
+      characterName = match[1];
+      if (isNew && ws.readyState === WebSocket.OPEN) {
+        ws.send(JSON.stringify({ type: 'user', name: characterName }));
+      }
+    });
+
+    cleaned = extractTag(cleaned, ROOM_TAG_RE, (match) => {
       if (ws.readyState === WebSocket.OPEN) {
         ws.send(JSON.stringify({ type: 'room', id: parseInt(match[1], 10), name: match[2] }));
       }
@@ -149,6 +174,44 @@ wss.on('connection', (ws) => {
     }
     if (parsed.type === 'cmd' && tcp.writable) {
       tcp.write(parsed.data + '\r\n', 'binary');
+    } else if (parsed.type === 'automation_save') {
+      if (!characterName) {
+        ws.send(JSON.stringify({ type: 'automation_error', error: 'not logged in yet' }));
+        return;
+      }
+      const filePath = automationPath(characterName);
+      if (!filePath) return;
+      const body = JSON.stringify(parsed.data ?? {});
+      if (Buffer.byteLength(body, 'utf8') > AUTOMATION_MAX_BYTES) {
+        ws.send(JSON.stringify({ type: 'automation_error', error: 'automation config too large' }));
+        return;
+      }
+      fs.writeFile(filePath, body, 'utf8', (err) => {
+        if (err) {
+          ws.send(JSON.stringify({ type: 'automation_error', error: 'save failed' }));
+        } else if (ws.readyState === WebSocket.OPEN) {
+          ws.send(JSON.stringify({ type: 'automation_saved' }));
+        }
+      });
+    } else if (parsed.type === 'automation_load') {
+      if (!characterName) {
+        ws.send(JSON.stringify({ type: 'automation_error', error: 'not logged in yet' }));
+        return;
+      }
+      const filePath = automationPath(characterName);
+      if (!filePath) return;
+      fs.readFile(filePath, 'utf8', (err, data) => {
+        if (ws.readyState !== WebSocket.OPEN) return;
+        if (err) {
+          ws.send(JSON.stringify({ type: 'automation_loaded', data: null }));
+          return;
+        }
+        try {
+          ws.send(JSON.stringify({ type: 'automation_loaded', data: JSON.parse(data) }));
+        } catch (e) {
+          ws.send(JSON.stringify({ type: 'automation_loaded', data: null }));
+        }
+      });
     }
   });
 

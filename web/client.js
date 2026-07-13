@@ -356,6 +356,10 @@ ws.addEventListener('message', (event) => {
     setAffects(msg);
   } else if (msg.type === 'echo') {
     input.type = msg.on ? 'text' : 'password';
+  } else if (msg.type === 'user') {
+    onCharacterIdentified(msg.name);
+  } else if (msg.type === 'automation_loaded') {
+    applyServerAutomationState(msg.data);
   }
 });
 
@@ -409,7 +413,7 @@ const timerHandles = {}; // name -> setInterval/setTimeout handle (not persisted
 let triggerFireLog = []; // timestamps of recent trigger fires, for the storm breaker
 let triggerLineBuffer = '';
 
-function saveAutomationState() {
+function buildAutomationPersistPayload() {
   const persist = {
     aliases: automationState.aliases,
     triggers: automationState.triggers,
@@ -419,7 +423,50 @@ function saveAutomationState() {
   for (const [name, t] of Object.entries(automationState.timers)) {
     if (!t.oneShot) persist.timers[name] = { seconds: t.seconds, body: t.body, enabled: t.enabled, oneShot: false };
   }
+  return persist;
+}
+
+function saveAutomationState() {
+  const persist = buildAutomationPersistPayload();
   localStorage.setItem(AUTOMATION_KEY, JSON.stringify(persist));
+  if (loggedInCharacterName && ws.readyState === WebSocket.OPEN) {
+    ws.send(JSON.stringify({ type: 'automation_save', data: persist }));
+  }
+}
+
+// Set once the server confirms who's logged in (see the 'user' WS message).
+// Triggers a one-time pull of that character's saved automation config from
+// the bridge, which takes priority over whatever's cached in localStorage
+// (localStorage is just an instant-paint fallback for before the server
+// round-trip completes, and for the small window before login).
+let loggedInCharacterName = null;
+let hasLoadedServerAutomation = false;
+
+function onCharacterIdentified(name) {
+  loggedInCharacterName = name;
+  if (hasLoadedServerAutomation) return;
+  hasLoadedServerAutomation = true;
+  if (ws.readyState === WebSocket.OPEN) {
+    ws.send(JSON.stringify({ type: 'automation_load' }));
+  }
+}
+
+function applyServerAutomationState(data) {
+  if (!data) return; // character has no saved config on the server yet
+  automationState.aliases = data.aliases || {};
+  automationState.triggers = data.triggers || {};
+  automationState.masterOn = data.masterOn !== false;
+  for (const [name, t] of Object.entries(automationState.timers)) {
+    if (t.oneShot) continue; // leave in-flight one-shot timers alone
+    clearTimerHandle(name);
+  }
+  automationState.timers = {};
+  for (const [name, t] of Object.entries(data.timers || {})) {
+    automationState.timers[name] = { ...t, oneShot: false };
+    if (t.enabled !== false) startTimer(name);
+  }
+  localStorage.setItem(AUTOMATION_KEY, JSON.stringify(buildAutomationPersistPayload()));
+  renderAutomationPanel();
 }
 
 function echoLocal(text, cls) {

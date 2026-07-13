@@ -26,6 +26,9 @@ services:
       - GAME_HOST=game
       - GAME_PORT=4000
       - BRIDGE_PORT=8080
+      - AUTOMATION_DIR=/data/automation
+    volumes:
+      - wardome_automation:/data/automation
     depends_on:
       - game
 
@@ -45,3 +48,4 @@ volumes:
   wardome_etc:
   wardome_pfiles:
   wardome_plrobjs:
+  wardome_automation:

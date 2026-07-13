@@ -1214,6 +1214,13 @@ char *make_prompt(struct descriptor_data *d)
   else if (STATE(d) == CON_PLAYING && !IS_NPC(d->character)) {
 
     {
+      char user_tag_buf[128];
+      snprintf(user_tag_buf, sizeof(user_tag_buf), "$$USER:%s$$\r\n",
+        GET_NAME(d->character));
+      write_to_descriptor(d->descriptor, user_tag_buf);
+    }
+
+    {
       char stats_tag_buf[160];
       int exp_to_level = (GET_LEVEL(d->character) >= LVL_IMMORT) ? 0 :
         level_exp(GET_REMORT(d->character), GET_LEVEL(d->character) + 1);
