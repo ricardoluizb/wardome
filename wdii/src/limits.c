@@ -34,6 +34,7 @@ extern int free_rent;
 extern int trans_aff[][10];
 
 int destransformar(struct char_data *ch, int trans);
+void actualize_splskl(struct char_data *ch);
 
 int godmana[9] = {50,150,25,100,0,55,50,90,150};
 int maxgodmana[9] ={100,200,100,150,0,100,200,150,200 } ;
@@ -453,6 +454,7 @@ void gain_exp(struct char_data * ch, int gain)
       GET_LEVEL(ch) += 1;
       num_levels++;
       advance_level(ch);
+      actualize_splskl(ch);
       is_altered = TRUE;
     }
 
@@ -492,6 +494,7 @@ void gain_exp_regardless(struct char_data * ch, int gain)
     while(gain--) {
       GET_LEVEL(ch) += 1;
       advance_level(ch);
+      actualize_splskl(ch);
     }
 //      set_title(ch, NULL);
       check_autowiz(ch);

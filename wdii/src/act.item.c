@@ -1450,9 +1450,12 @@ ACMD(do_wield)
       send_to_char("You can't wield that.\r\n", ch);
     else if (GET_OBJ_WEIGHT(obj) > str_app[STRENGTH_APPLY_INDEX(ch)].wield_w)
       send_to_char("It's too heavy for you to use.\r\n", ch);
-    else if (GET_EQ(ch, WEAR_WIELD))
-      perform_wear(ch, obj, WEAR_DWIELD);
-    else
+    else if (GET_EQ(ch, WEAR_WIELD)) {
+      if (!IS_NPC(ch) && GET_SKILL(ch, SKILL_DUAL_WIELD) == 0)
+        send_to_char("You don't know how to fight with two weapons.\r\n", ch);
+      else
+        perform_wear(ch, obj, WEAR_DWIELD);
+    } else
       perform_wear(ch, obj, WEAR_WIELD);
   }
 }
