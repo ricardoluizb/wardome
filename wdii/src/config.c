@@ -138,8 +138,12 @@ int crash_file_timeout = 10;
 /* Lifetime of normal rent files in days */
 int rent_file_timeout = 30;
 
-/* Do you want to automatically wipe players who've been gone too long? */
-int auto_pwipe = TRUE;
+/* Do you want to automatically wipe players who've been gone too long?
+ * Off: this is a small revival community, every character matters more
+ * than disk space, and the pre-existing player_table/pfile level-sync
+ * bug (see save_player_index()) already caused one real character to
+ * get auto-deleted while still very much in use. */
+int auto_pwipe = FALSE;
 
 /* Autowipe deletion criteria
    This struct holds information used to determine which players to wipe

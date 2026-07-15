@@ -3110,8 +3110,8 @@ void save_char(struct char_data * ch, room_rnum load_room)
       SET_BIT(player_table[id].flags, PINDEX_NODELETE);
     else
       REMOVE_BIT(player_table[id].flags, PINDEX_NODELETE);
-    /*if(player_table[id].flags != i || save_index)
-      save_player_index();*/
+    if(player_table[id].flags != i || save_index)
+      save_player_index();
   }
 }
 
