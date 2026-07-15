@@ -230,6 +230,18 @@ body {
   font-size: 11px;
 }
 
+#target-name {
+  width: 60px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  color: #d97575;
+}
+
+.target-bar-fill {
+  background-color: #c0392b;
+}
+
 #gold-line {
   font-family: 'Cinzel', serif;
   margin-top: 8px;

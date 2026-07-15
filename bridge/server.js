@@ -18,6 +18,7 @@ const MOB_TAG_RE = /\$\$MOB:(-?\d+)\$\$\r?\n?/g;
 const EQUIP_TAG_RE = /\$\$EQUIP:([^$]+)\$\$\r?\n?/g;
 const AFFECTS_TAG_RE = /\$\$AFFECTS:([^$]*)\$\$\r?\n?/g;
 const USER_TAG_RE = /\$\$USER:([^$]+)\$\$\r?\n?/g;
+const FIGHT_TAG_RE = /\$\$FIGHT:([^$]+)\$\$\r?\n?/g;
 const ECHO_OFF_RE = /\xFF\xFB\x01/g;
 const ECHO_ON_RE = /\xFF\xFC\x01\r?\n?/g;
 
@@ -35,7 +36,7 @@ function automationPath(name) {
 // can legitimately land split across two TCP reads. If a chunk ends with an
 // unterminated "$$TAGNAME:..." (no closing "$$" yet), hold that suffix back
 // and prepend it to the next chunk instead of emitting it as literal text.
-const PENDING_TAG_RE = /\$\$(?:ROOM|STATS|MOB|EQUIP|AFFECTS|USER):[^$]*$/;
+const PENDING_TAG_RE = /\$\$(?:ROOM|STATS|MOB|EQUIP|AFFECTS|USER|FIGHT):[^$]*$/;
 
 const wss = new WebSocket.Server({ port: BRIDGE_PORT });
 
@@ -134,6 +135,18 @@ wss.on('connection', (ws) => {
         });
         ws.send(JSON.stringify({ type: 'affects', affects }));
       }
+    });
+
+    cleaned = extractTag(cleaned, FIGHT_TAG_RE, (match) => {
+      if (ws.readyState !== WebSocket.OPEN) return;
+      if (match[1] === '-1') {
+        ws.send(JSON.stringify({ type: 'fight', active: false }));
+        return;
+      }
+      const idx = match[1].lastIndexOf('|');
+      const name = match[1].slice(0, idx);
+      const pct = parseInt(match[1].slice(idx + 1), 10);
+      ws.send(JSON.stringify({ type: 'fight', active: true, name, pct }));
     });
 
     cleaned = extractTag(cleaned, MOB_TAG_RE, (match) => {

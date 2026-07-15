@@ -1235,6 +1235,21 @@ char *make_prompt(struct descriptor_data *d)
     }
 
     {
+      char fight_tag_buf[192];
+      struct char_data *opponent = FIGHTING(d->character);
+      if (opponent && GET_MAX_HIT(opponent) > 0) {
+        int pct = (100 * GET_HIT(opponent)) / GET_MAX_HIT(opponent);
+        if (pct < 0) pct = 0;
+        if (pct > 100) pct = 100;
+        snprintf(fight_tag_buf, sizeof(fight_tag_buf), "$$FIGHT:%s|%d$$\r\n",
+          GET_NAME(opponent), pct);
+      } else {
+        snprintf(fight_tag_buf, sizeof(fight_tag_buf), "$$FIGHT:-1$$\r\n");
+      }
+      write_to_descriptor(d->descriptor, fight_tag_buf);
+    }
+
+    {
       char equip_tag_buf[1536];
       char equip_body[1400];
       int w;

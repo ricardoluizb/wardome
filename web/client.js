@@ -14,6 +14,10 @@ const xpTextEl = document.getElementById('xp-text');
 const xpPercentEl = document.getElementById('xp-percent');
 const goldTextEl = document.getElementById('gold-text');
 const affectsListEl = document.getElementById('affects-list');
+const targetPanelEl = document.getElementById('target-panel');
+const targetNameEl = document.getElementById('target-name');
+const targetBarFillEl = document.getElementById('target-bar-fill');
+const targetTextEl = document.getElementById('target-text');
 const sidePanelEl = document.getElementById('side-panel');
 const levelUpFlashEl = document.getElementById('level-up-flash');
 const equipmentToggleEl = document.getElementById('equipment-toggle');
@@ -188,6 +192,19 @@ function setBar(fillEl, textEl, current, max, color) {
   textEl.textContent = `${current}/${max}`;
 }
 
+function setTargetFight(msg) {
+  if (!msg.active) {
+    targetPanelEl.style.display = 'none';
+    return;
+  }
+  targetPanelEl.style.display = '';
+  targetNameEl.textContent = msg.name;
+  targetNameEl.title = msg.name;
+  const pct = Math.max(0, Math.min(100, msg.pct));
+  targetBarFillEl.style.width = `${pct}%`;
+  targetTextEl.textContent = `${pct}%`;
+}
+
 let lastLevel = null;
 
 function triggerLevelUp() {
@@ -360,6 +377,8 @@ ws.addEventListener('message', (event) => {
     onCharacterIdentified(msg.name);
   } else if (msg.type === 'automation_loaded') {
     applyServerAutomationState(msg.data);
+  } else if (msg.type === 'fight') {
+    setTargetFight(msg);
   }
 });
 
