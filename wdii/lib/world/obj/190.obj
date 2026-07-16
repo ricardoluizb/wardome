@@ -4,42 +4,42 @@ a diamond-edged sword~
 A diamond-edged sword lies here, catching every glint of light.~
 ~
 5 ag 8193
-0 2 8 11
-4 5000 1000 15
+0 3 8 11
+4 5000 1000 80
 A
-19 2
+19 3
 #19001
 sword longsword fine~
 a fine Longsword~
 A fine Longsword has been left here.~
 ~
 5 0 8193
-0 1 8 11
-5 150 20 8
+0 2 6 11
+5 150 20 60
 #19002
 chainmail elven~
 an Elven chainmail~
 An Elven chainmail is lying here.~
 ~
 9 0 9
-4 0 0 0
-10 300 40 10
+5 0 0 0
+10 300 40 55
 #19003
 chainmail mithril~
 a Mithril chainmail~
 A Mithril chainmail rests here, shining faintly.~
 ~
 9 a 9
-6 0 0 0
-8 800 100 12
+7 0 0 0
+8 800 100 65
 #19004
 sword twohanded mithril two-handed~
 a Two-handed Mithril Sword~
 A Two-handed Mithril Sword rests here, gleaming silver.~
 ~
 5 a 8193
-0 2 8 11
-12 1000 150 12
+0 3 6 11
+12 1000 150 65
 #19005
 telescope~
 a Telescope~
@@ -54,48 +54,48 @@ an Elven hunting bow~
 An Elven hunting bow lies here, strung and ready.~
 ~
 5 0 8193
-0 1 6 11
-3 200 25 8
+0 2 6 11
+3 200 25 55
 #19007
 chaincoif elven coif~
 an Elven Chaincoif~
 An Elven Chaincoif has been left here.~
 ~
 9 0 17
-2 0 0 0
-3 150 20 8
+3 0 0 0
+3 150 20 55
 #19008
 leggings chain elven~
 a pair of Elven Chain leggings~
 A pair of Elven Chain leggings is lying here.~
 ~
 9 0 33
-3 0 0 0
-5 200 25 8
+4 0 0 0
+5 200 25 55
 #19009
 potion leaf green~
 a Leaf-green potion~
 A Leaf-green potion has carelessly been left here.~
 ~
 10 g 16385
-8 16 -1 -1
-1 300 30 8
+50 16 -1 -1
+1 300 30 50
 #19010
 staff oak branch~
 an oak branch staff~
 An oak branch staff leans against the wall here.~
 ~
 4 g 16385
-8 3 3 50
-2 400 50 8
+50 3 3 50
+2 400 50 55
 #19011
 potion ocean blue~
 an Ocean-blue potion~
 An Ocean-blue potion has carelessly been left here.~
 ~
 10 g 16385
-10 39 -1 -1
-1 350 35 10
+50 39 -1 -1
+1 350 35 50
 #19012
 flute mithril~
 a Mithril flute~
@@ -176,10 +176,10 @@ a warm woolen cape~
 A warm woolen cape has been left here, still holding some warmth.~
 ~
 9 0 1025
-2 0 0 0
-3 120 15 5
+3 0 0 0
+3 120 15 65
 A
-5 1
+5 2
 #19022
 ring fire opal small~
 a small fire-opal ring~
@@ -187,29 +187,29 @@ A small fire-opal ring smoulders faintly on the ground.~
 ~
 9 ag 3
 0 0 0 0
-1 2000 250 20
+1 2000 250 75
 A
-19 2
+19 3
 A
-23 2
+23 3
 #19023
 eyelets tiger~
 Eyelets of the Tiger~
 The Eyelets of the Tiger rest here, striped fur still clinging to the rim.~
 ~
 9 0 65537
-1 0 0 0
-1 400 50 10
+2 0 0 0
+1 400 50 65
 A
-2 1
+2 2
 #19024
 pendant bear skin~
 Bear's skin pendant~
 Bear's skin pendant lies here, coarse fur bristling.~
 ~
 9 0 32769
-1 0 0 0
-1 400 50 10
+2 0 0 0
+1 400 50 65
 A
-5 1
+5 2
 $~
