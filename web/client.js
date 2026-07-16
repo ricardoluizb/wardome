@@ -30,6 +30,9 @@ const goldTextEl = document.getElementById('gold-text');
 const affectsListEl = document.getElementById('affects-list');
 const targetPanelEl = document.getElementById('target-panel');
 const targetNameEl = document.getElementById('target-name');
+const targetLevelEl = document.getElementById('target-level');
+const targetPortraitEl = document.getElementById('target-portrait');
+const targetAffectsListEl = document.getElementById('target-affects-list');
 const targetBarFillEl = document.getElementById('target-bar-fill');
 const targetTextEl = document.getElementById('target-text');
 const sidePanelEl = document.getElementById('side-panel');
@@ -206,17 +209,52 @@ function setBar(fillEl, textEl, current, max, color) {
   textEl.textContent = `${current}/${max}`;
 }
 
+let lastTargetKey = null;
+let lastTargetPct = null;
+
 function setTargetFight(msg) {
   if (!msg.active) {
     targetPanelEl.style.display = 'none';
+    lastTargetKey = null;
+    lastTargetPct = null;
     return;
   }
   targetPanelEl.style.display = '';
   targetNameEl.textContent = msg.name;
   targetNameEl.title = msg.name;
+  targetLevelEl.textContent = Number.isFinite(msg.level) ? `Lv ${msg.level}` : '';
+
   const pct = Math.max(0, Math.min(100, msg.pct));
   targetBarFillEl.style.width = `${pct}%`;
   targetTextEl.textContent = `${pct}%`;
+
+  targetPortraitEl.onerror = () => {
+    targetPortraitEl.onerror = null;
+    targetPortraitEl.src = 'assets/mobs/placeholder.jpg';
+  };
+  targetPortraitEl.src = msg.isNpc && msg.vnum >= 0 ? `assets/mobs/${msg.vnum}.jpg` : 'assets/mobs/placeholder.jpg';
+
+  targetPanelEl.classList.remove('danger-easy', 'danger-even', 'danger-hard');
+  if (Number.isFinite(msg.level) && lastLevel !== null) {
+    const diff = msg.level - lastLevel;
+    if (diff <= -5) targetPanelEl.classList.add('danger-easy');
+    else if (diff >= 5) targetPanelEl.classList.add('danger-hard');
+    else targetPanelEl.classList.add('danger-even');
+  }
+
+  const targetKey = `${msg.name}:${msg.vnum}`;
+  if (targetKey === lastTargetKey && lastTargetPct !== null && pct < lastTargetPct) {
+    targetPanelEl.classList.remove('hit-flash');
+    void targetPanelEl.offsetWidth;
+    targetPanelEl.classList.add('hit-flash');
+  }
+  lastTargetKey = targetKey;
+  lastTargetPct = pct;
+
+  targetAffectsListEl.innerHTML = '';
+  (msg.affects || []).forEach((a) => {
+    targetAffectsListEl.appendChild(renderAffectRow(a.name, a.duration));
+  });
 }
 
 let lastLevel = null;
@@ -261,32 +299,36 @@ function affectIconPath(name) {
   return `assets/affects/${affectFileName(name)}.jpg`;
 }
 
+function renderAffectRow(name, duration) {
+  const row = document.createElement('div');
+  row.className = 'affect-row';
+
+  const img = document.createElement('img');
+  img.className = 'affect-icon';
+  img.src = affectIconPath(name);
+  img.onerror = () => {
+    img.onerror = null;
+    img.src = 'assets/affects/placeholder.jpg';
+  };
+
+  const label = document.createElement('span');
+  label.className = 'affect-name';
+  label.textContent = name;
+
+  const dur = document.createElement('span');
+  dur.className = 'affect-duration';
+  dur.textContent = duration < 0 ? '∞' : `${duration}t`;
+
+  row.appendChild(img);
+  row.appendChild(label);
+  row.appendChild(dur);
+  return row;
+}
+
 function setAffects(msg) {
   affectsListEl.innerHTML = '';
   msg.affects.forEach((a) => {
-    const row = document.createElement('div');
-    row.className = 'affect-row';
-
-    const img = document.createElement('img');
-    img.className = 'affect-icon';
-    img.src = affectIconPath(a.name);
-    img.onerror = () => {
-      img.onerror = null;
-      img.src = 'assets/affects/placeholder.jpg';
-    };
-
-    const label = document.createElement('span');
-    label.className = 'affect-name';
-    label.textContent = a.name;
-
-    const dur = document.createElement('span');
-    dur.className = 'affect-duration';
-    dur.textContent = a.duration < 0 ? '∞' : `${a.duration}t`;
-
-    row.appendChild(img);
-    row.appendChild(label);
-    row.appendChild(dur);
-    affectsListEl.appendChild(row);
+    affectsListEl.appendChild(renderAffectRow(a.name, a.duration));
   });
 }
 

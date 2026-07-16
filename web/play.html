@@ -37,10 +37,21 @@
           <div class="stat-bar"><div id="move-bar-fill" class="stat-bar-fill"></div></div>
           <span id="move-text" class="stat-value">—/—</span>
         </div>
-        <div id="target-panel" class="stat-bar-row" style="display:none;">
-          <span id="target-name" class="stat-label">Alvo</span>
-          <div class="stat-bar"><div id="target-bar-fill" class="stat-bar-fill target-bar-fill"></div></div>
-          <span id="target-text" class="stat-value">—%</span>
+        <div id="target-panel" style="display:none;">
+          <div id="target-header">
+            <img id="target-portrait" src="assets/mobs/placeholder.jpg" alt="">
+            <div id="target-header-text">
+              <div id="target-name-row">
+                <span id="target-name"></span>
+                <span id="target-level"></span>
+              </div>
+              <div class="stat-bar-row">
+                <div class="stat-bar"><div id="target-bar-fill" class="stat-bar-fill target-bar-fill"></div></div>
+                <span id="target-text" class="stat-value">—%</span>
+              </div>
+            </div>
+          </div>
+          <div id="target-affects-list"></div>
         </div>
         <hr class="hud-divider">
         <div id="affects-list"></div>

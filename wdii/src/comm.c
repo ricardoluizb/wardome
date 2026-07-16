@@ -62,6 +62,8 @@
 #include "teleport.h"
 #include "clan.h"
 
+extern struct index_data *mob_index;
+
 #ifdef HAVE_ARPA_TELNET_H
 #include <arpa/telnet.h>
 #else
@@ -1235,14 +1237,57 @@ char *make_prompt(struct descriptor_data *d)
     }
 
     {
-      char fight_tag_buf[192];
+      char fight_tag_buf[1024];
       struct char_data *opponent = FIGHTING(d->character);
       if (opponent && GET_MAX_HIT(opponent) > 0) {
+        char opp_aff_body[700];
+        char opp_piece[64];
+        long opp_shown_bits = 0;
+        int opp_shown_types[64];
+        int opp_shown_types_count = 0;
+        int i, j, already_shown;
+        struct affected_type *af;
+        const char *spell_nm;
         int pct = (100 * GET_HIT(opponent)) / GET_MAX_HIT(opponent);
+        int vnum = IS_NPC(opponent) ? GET_MOB_VNUM(opponent) : -1;
+
         if (pct < 0) pct = 0;
         if (pct > 100) pct = 100;
-        snprintf(fight_tag_buf, sizeof(fight_tag_buf), "$$FIGHT:%s|%d$$\r\n",
-          GET_NAME(opponent), pct);
+
+        opp_aff_body[0] = '\0';
+        for (af = opponent->affected; af; af = af->next) {
+          already_shown = 0;
+          for (j = 0; j < opp_shown_types_count; j++) {
+            if (opp_shown_types[j] == af->type) {
+              already_shown = 1;
+              break;
+            }
+          }
+          if (already_shown)
+            continue;
+          if (opp_shown_types_count < 64)
+            opp_shown_types[opp_shown_types_count++] = af->type;
+
+          if (af->bitvector) {
+            for (i = 0; i < 31; i++) {
+              if (IS_SET(af->bitvector, (1 << i)))
+                opp_shown_bits |= (1 << i);
+            }
+          }
+
+          spell_nm = skill_name(af->type);
+          snprintf(opp_piece, sizeof(opp_piece), "%s%s:%d", (opp_aff_body[0] ? "," : ""), spell_nm, af->duration);
+          strncat(opp_aff_body, opp_piece, sizeof(opp_aff_body) - strlen(opp_aff_body) - 1);
+        }
+        for (i = 0; i < 31; i++) {
+          if (IS_SET(AFF_FLAGS(opponent), (1 << i)) && !IS_SET(opp_shown_bits, (1 << i))) {
+            snprintf(opp_piece, sizeof(opp_piece), "%s%s:-1", (opp_aff_body[0] ? "," : ""), affected_bits[i]);
+            strncat(opp_aff_body, opp_piece, sizeof(opp_aff_body) - strlen(opp_aff_body) - 1);
+          }
+        }
+
+        snprintf(fight_tag_buf, sizeof(fight_tag_buf), "$$FIGHT:%s|%d|%d|%d|%d|%s$$\r\n",
+          GET_NAME(opponent), pct, GET_LEVEL(opponent), vnum, IS_NPC(opponent) ? 1 : 0, opp_aff_body);
       } else {
         snprintf(fight_tag_buf, sizeof(fight_tag_buf), "$$FIGHT:-1$$\r\n");
       }

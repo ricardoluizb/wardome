@@ -143,10 +143,22 @@ wss.on('connection', (ws) => {
         ws.send(JSON.stringify({ type: 'fight', active: false }));
         return;
       }
-      const idx = match[1].lastIndexOf('|');
-      const name = match[1].slice(0, idx);
-      const pct = parseInt(match[1].slice(idx + 1), 10);
-      ws.send(JSON.stringify({ type: 'fight', active: true, name, pct }));
+      const parts = match[1].split('|');
+      const [name, pctStr, levelStr, vnumStr, isNpcStr, affBody] = parts;
+      const affects = (affBody || '').split(',').filter(Boolean).map((piece) => {
+        const idx = piece.lastIndexOf(':');
+        return { name: piece.slice(0, idx), duration: parseInt(piece.slice(idx + 1), 10) };
+      });
+      ws.send(JSON.stringify({
+        type: 'fight',
+        active: true,
+        name,
+        pct: parseInt(pctStr, 10),
+        level: parseInt(levelStr, 10),
+        vnum: parseInt(vnumStr, 10),
+        isNpc: isNpcStr === '1',
+        affects,
+      }));
     });
 
     cleaned = extractTag(cleaned, MOB_TAG_RE, (match) => {
