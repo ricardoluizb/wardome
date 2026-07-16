@@ -1,5 +1,19 @@
 // web/client.js
 const output = document.getElementById('output');
+
+// Long sessions otherwise grow the output <pre> unbounded, which makes
+// every scrollTop-triggered reflow slower over time (the "typing lag that
+// a relog fixes" symptom). Trim in batches so this stays O(1) amortized.
+const MAX_OUTPUT_NODES = 4000;
+const TRIM_TO_NODES = 2000;
+function trimOutput() {
+  if (output.childNodes.length > MAX_OUTPUT_NODES) {
+    const removeCount = output.childNodes.length - TRIM_TO_NODES;
+    for (let i = 0; i < removeCount; i++) {
+      output.removeChild(output.firstChild);
+    }
+  }
+}
 const roomIdEl = document.getElementById('room-id');
 const roomArtEl = document.getElementById('room-art');
 const hpBarFillEl = document.getElementById('hp-bar-fill');
@@ -358,6 +372,7 @@ ws.addEventListener('message', (event) => {
   const msg = JSON.parse(event.data);
   if (msg.type === 'text') {
     output.insertAdjacentHTML('beforeend', ansiToHtml(msg.data));
+    trimOutput();
     output.scrollTop = output.scrollHeight;
     processTriggersForText(msg.data);
   } else if (msg.type === 'room') {
@@ -491,6 +506,7 @@ function applyServerAutomationState(data) {
 function echoLocal(text, cls) {
   const span = cls ? `<span class="automation-echo ${cls}">${escapeHtml(text)}</span>` : `<span class="automation-echo">${escapeHtml(text)}</span>`;
   output.insertAdjacentHTML('beforeend', span + '\n');
+  trimOutput();
   output.scrollTop = output.scrollHeight;
 }
 
