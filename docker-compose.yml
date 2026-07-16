@@ -14,6 +14,7 @@ services:
       - wardome_etc:/wardome/lib/etc
       - wardome_pfiles:/wardome/lib/pfiles
       - wardome_plrobjs:/wardome/lib/plrobjs
+      - wardome_alias:/wardome/lib/alias
 
   bridge:
     build:
@@ -48,4 +49,5 @@ volumes:
   wardome_etc:
   wardome_pfiles:
   wardome_plrobjs:
+  wardome_alias:
   wardome_automation:
