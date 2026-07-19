@@ -4,7 +4,7 @@ some Black Pawn Armour~
 A pile of black armour is here.~
 ~
 9 j 9
-1 0 0 0
+13 0 0 0
 13 300 1
 #3601
 armour white pawn~
@@ -12,7 +12,7 @@ some White Pawn Armour~
 A pile of white armour is here.~
 ~
 9 k 9
-1 0 0 0
+13 0 0 0
 13 300 1
 #3602
 sword black pawn~
@@ -20,16 +20,20 @@ a Black Pawn's Sword~
 The sword of a Black Pawn lies here.~
 ~
 5 j 8193
-0 3 4 3
+0 38 10 3
 10 100 1
+A
+19 39
 #3603
 sword white pawn~
 a White Pawn's Sword~
 The sword of a White Pawn lies here.~
 ~
 5 k 8193
-0 3 4 3
+0 38 10 3
 10 100 1
+A
+19 39
 #3604
 armour black rook~
 some Black Rook Armour~
@@ -60,10 +64,10 @@ the Lance of the Black Knight~
 The Lance of the Black Knight lies here, waiting to rust.~
 ~
 5 bgj 8193
-0 3 6 6
+0 38 10 6
 18 10000 3
 A
-19  2
+19 39
 A
 23  5
 #3607
@@ -72,10 +76,10 @@ the Lance of the White Knight~
 The Lance of the White Knight lies here, waiting to rust.~
 ~
 5 bgk 8193
-0 3 6 6
+0 38 10 6
 18 10000 3
 A
-19  2
+19 39
 A
 23  5
 #3608

@@ -70,7 +70,7 @@ a halberd~
 A runed halberd lies on the ground here.~
 ~
 5 g 8193
-0 1 12 3
+0 33 10 3
 16 10000 3000
 A 
 18 5
@@ -79,6 +79,8 @@ halberd~
 The runes glow with a bright light, making you
 think that this might be a pretty decent weapon.
 ~
+A
+19 34
 #3306
 potion protection dun vial~
 a potion of protection~
@@ -147,7 +149,7 @@ a knife~
 An exquisitely crafted knife rests here.~
 ~
 5 dn 24577
-0 3 5 11
+0 33 10 11
 8 1000000 20000
 E
 knife~
@@ -160,13 +162,15 @@ A
 18 3
 A
 2 2
+A
+19 34
 #3312
 sword long~
 a long sword~
 A superb long sword sticks in the earth.~
 ~
 5 dmn 24577
-0 2 7 3
+0 33 10 3
 15 750000 15000
 E
 sword long~
@@ -179,13 +183,15 @@ A
 18 2
 A
 1 1
+A
+19 34
 #3313
 sword short~
 a short sword~
 A short sword lies here... a work of art!~
 ~
 5 adimn 24577
-0 4 6 3
+0 33 10 3
 10 10000000 30000
 E
 sword short~
@@ -197,6 +203,8 @@ A
 18 4
 A
 2 3
+A
+19 34
 #3314
 corpse~
 a dismembered and burnt corpse~
@@ -216,12 +224,14 @@ a scimitar~
 A scimitar as long as your arm lies here.~
 ~
 5 0 8193
-0 1 7 3
+0 33 10 3
 10 500 50
 E
 scimitar~
 This weapon really isn't of too high a quality.
 ~
+A
+19 34
 #3316
 crate~
 a crate~
@@ -240,7 +250,7 @@ a hunting bow~
 A hunting bow lies here, unwanted~
 ~
 5 0 8193
-0 1 5 11
+0 33 10 11
 6 400 40
 E
 bow hunting~
@@ -249,7 +259,7 @@ some deer or rabbits, but not the type you'd take
 into battle...
 ~
 A
-19 1
+19 34
 #3318
 vest leather~
 a leather vest~

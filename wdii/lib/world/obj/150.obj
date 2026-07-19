@@ -4,7 +4,7 @@ Sapowox's Universal Nothingness~
 You are quite unable to perceive Sapowox's Universal Nothingness here.~
 ~
 5 bcg 8193
-0 6 4 1
+0 13 10 1
 40 0 200000
 E
 nothingness universal~
@@ -21,7 +21,7 @@ Not very enlightening, is it?
 A
 18 2
 A
-19 2
+19 13
 #15001
 gold coins~
 the gold~
@@ -81,10 +81,12 @@ a training sword~
 A training sword with blunt edges is leaned against a wall.~
 ~
 5 0 8193
-0 1 4 3
+0 13 10 3
 7 300 5
 A
 18 -2
+A
+19 13
 #15007
 key huge~
 a huge key~
@@ -99,13 +101,15 @@ Verminator~
 A strange looking sword is lying upon the ground here.~
 ~
 5 adjmnoq 8193
-0 3 4 11
+0 13 10 11
 2 1 4000
 E
 verminator sword~
 This strange sword seems to be made of black metal, an eerie green glow
 surrounds the blade.
 ~
+A
+19 13
 #15009
 key butlers butler~
 the Butler's key~
@@ -190,8 +194,10 @@ a large broadsword~
 There is a large broadsword lying here.~
 ~
 5 0 8193
-0 2 6 3
+0 13 10 3
 14 1300 3000
+A
+19 13
 #15017
 key cell~
 the cell key~

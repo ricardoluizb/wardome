@@ -36,8 +36,10 @@ a dwarven hammer~
 There is a dwarven hammer lying here.~
 ~
 5 0 8193
-0 2 6 7
+0 5 10 7
 13 5500 1000
+A
+19 5
 #6505
 plate dwarven mail~
 the dwarven plate mail~
@@ -68,20 +70,24 @@ a dwarven club~
 There is a dwarven club lying here.~
 ~
 5 0 8193
-0 2 3 3
+0 5 10 3
 12 3000 300
+A
+19 5
 #6509
 axe two-handed dwarven~
 a two-handed dwarven axe~
 A two-handed dwarven axe is here.~
 ~
 5 g 8193
-0 2 7 3
+0 5 10 3
 14 5000 3000
 A
 18 2
 A
 1 2
+A
+19 5
 #6510
 helmet dwarven~
 a dwarven helmet~
@@ -128,12 +134,14 @@ a mining pick~
 There is a mining pick here.~
 ~
 5 i 8193
-0 2 3 11
+0 5 10 11
 9 300 10
 E
 pick mining~
 It looks almost blessed!
 ~
+A
+19 5
 #6515
 key deep green~
 a deep green key~

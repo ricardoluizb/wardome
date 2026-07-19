@@ -14,12 +14,12 @@ spear blood~
 The Blood Spear lies here, its shaft slick and dark.~
 ~
 5 0 8193
-0 4 8 11
+0 38 10 11
 20 50000 10000 200
 A
 18 2
 A
-19 4
+19 39
 #28602
 hoofs dragon~
 &gHoofs &wof &gDragon&n~
@@ -38,12 +38,12 @@ sword dragon slayer killer~
 Dragon Slayer lies here, its edge unnaturally keen.~
 ~
 5 65 8193
-0 4 10 11
+0 38 10 11
 25 0 0 200
 A
 18 5
 A
-19 5
+19 39
 #28604
 heart dragon~
 &gDragon &RHeart&n~
@@ -62,12 +62,12 @@ dragonlance~
 A Dragonlance stands upright here, its length wrapped in dragonhide.~
 ~
 5 65 8193
-0 5 8 11
+0 38 10 11
 28 70000 14000 200
 A
 18 4
 A
-19 4
+19 39
 #28606
 ring king dragons~
 &yThe King &wof &gDragons &yRing&n~
@@ -152,8 +152,10 @@ Big rusty shovel~
 A big rusty shovel leans against the wall here.~
 ~
 5 0 8193
-0 2 4 7
+0 38 10 7
 10 500 100
+A
+19 39
 #28615
 corpse harold undertaker~
 the corpse of Harold the undertaker~
@@ -192,7 +194,7 @@ bloody blue jeans~
 A pair of bloody blue jeans lies here.~
 ~
 9 0 33
-1 0 0 0
+13 0 0 0
 3 50 10 200
 #28620
 shirt bloody~
@@ -200,7 +202,7 @@ bloody shirt~
 A bloody shirt lies here, torn and stained.~
 ~
 9 0 9
-1 0 0 0
+13 0 0 0
 2 50 10 200
 #28621
 shoes bloody~
@@ -208,7 +210,7 @@ bloody shoes~
 A pair of bloody shoes lies here.~
 ~
 9 0 65
-1 0 0 0
+13 0 0 0
 2 50 10 200
 #28622
 torch extinguished~

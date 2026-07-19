@@ -64,10 +64,10 @@ a flail~
 A flail has been carelessly left here.~
 ~
 5 fgh 8193
-0 3 4 7
+0 7 10 7
 8 5000 3500
 A
-19 2
+19 7
 #906
 coins gold treasure~
 a great pile of treasure~
@@ -82,17 +82,17 @@ a heavy spear~
 A heavy spear has been tossed on the ground here.~
 ~
 5 0 8193
-0 1 7 11
+0 7 10 11
 8 450 200
 A
-19 1
+19 7
 #908
 trident~
 a trident~
 There is a warrior's trident here.~
 ~
 5 0 8193
-0 2 4 11
+0 7 10 11
 8 350 200
 E
 trident~
@@ -100,6 +100,8 @@ This is a common trident, often used by gladiators or mermen.  It has
 three sharp prongs jutting from the business end and a smooth wooden
 handle with two comfortable grip points.
 ~
+A
+19 7
 #909
 boots boat~
 a pair of boots~
@@ -121,7 +123,7 @@ the edge amulet~
 The edge amulet lies here, its surface honed razor-thin.~
 ~
 9 0 5
-0 0 0 0
+5 0 0 0
 1 250 0 27
 A
 18 1
@@ -179,7 +181,7 @@ the lizard bracer~
 The lizard bracer lies here, still faintly scaled.~
 ~
 9 0 4097
-0 0 0 0
+5 0 0 0
 1 220 0 27
 A
 2 1
@@ -189,7 +191,7 @@ the lizard waist~
 The lizard waist belt lies here, tough and leathery.~
 ~
 9 0 2049
-0 0 0 0
+5 0 0 0
 2 220 0 27
 A
 5 1
@@ -199,7 +201,7 @@ the general earlobe~
 The general's earlobe lies here, grim proof of a great victory.~
 ~
 9 0 32769
-0 0 0 0
+5 0 0 0
 1 280 0 27
 A
 18 1

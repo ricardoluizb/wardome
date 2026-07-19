@@ -14,69 +14,73 @@ frostbite~
 FrostBite lies here, rimed with frost.~
 ~
 5 65 8193
-0 2 6 3
+0 8 10 3
 6 400 0 27
 A
-19 2
+19 9
 #13202
 singe~
 singe~
 Singe lies here, warm to the touch.~
 ~
 5 65 8193
-0 2 6 5
+0 8 10 5
 6 400 0 27
 A
-19 2
+19 9
 #13203
 spark~
 &YS&yp&Ya&yr&Yk&n~
 Spark lies here, crackling faintly.~
 ~
 5 65 8193
-0 2 6 3
+0 8 10 3
 5 400 0 27
 A
 18 2
+A
+19 9
 #13204
 volcano~
 &RV&ro&Rl&rc&Ra&rn&Ro&n~
 Volcano lies here, radiating heat.~
 ~
 5 65 8193
-0 2 8 6
+0 8 10 6
 9 400 0 27
 A
-19 2
+19 9
 #13205
 liquidator~
 the Liquidator~
 The Liquidator lies here, dripping steadily.~
 ~
 5 65 8193
-0 2 6 2
+0 8 10 2
 6 350 0 27
 A
 18 1
 A
-19 1
+19 9
 #13206
 resurgence~
 Resurgence~
 Resurgence lies here, humming with quiet vitality.~
 ~
 5 65 8193
-0 2 6 3
+0 8 10 3
 6 350 0 27
 A
 13 15
+A
+19 9
 #13207
 ring~
 a ring~
 A ring lies here, plain and unadorned.~
 ~
 9 0 2
-0 0 0 0
+6 0 0 0
 1 60 0 27
 #13208
 spectre~
@@ -150,7 +154,7 @@ spring~
 Spring lies here, smelling faintly of blossoms.~
 ~
 9 65 5
-0 0 0 0
+6 0 0 0
 1 280 0 27
 A
 5 1
@@ -160,7 +164,7 @@ autumn~
 Autumn lies here, rustling like dry leaves.~
 ~
 9 65 257
-0 0 0 0
+6 0 0 0
 2 280 0 27
 A
 1 1
@@ -170,7 +174,7 @@ summer~
 Summer lies here, warm as midday sun.~
 ~
 9 65 5
-0 0 0 0
+6 0 0 0
 1 280 0 27
 A
 6 1
@@ -180,7 +184,7 @@ winter~
 Winter lies here, cold to the touch.~
 ~
 9 65 5
-0 0 0 0
+6 0 0 0
 1 280 0 27
 A
 4 1
@@ -230,7 +234,7 @@ a shirt that says 'I survived the lag monster'~
 A shirt lies here, proudly proclaiming survival against all odds.~
 ~
 9 0 9
-0 0 0 0
+6 0 0 0
 1 25 0
 #13225
 hat lag monster~
@@ -238,7 +242,7 @@ a hat that says "I killed the lag monster!"~
 A hat lies here, boasting of a battle against latency itself.~
 ~
 9 0 17
-0 0 0 0
+6 0 0 0
 1 25 0
 #13226
 boat old~
@@ -254,7 +258,7 @@ a Warrior's Guild Ring~
 &ga &RW&rarrior's &yGuild &YRing&n lies here, engraved with crossed blades.~
 ~
 9 65 2
-0 0 0 0
+6 0 0 0
 1 250 0 27
 A
 19 1
@@ -264,7 +268,7 @@ a Mage's Guild Ring~
 &ga &CM&cage's &yGuild &YRing&n lies here, engraved with arcane sigils.~
 ~
 9 65 2
-0 0 0 0
+6 0 0 0
 1 250 0 27
 A
 12 10
@@ -274,7 +278,7 @@ a Ceric's Guild Ring~
 &ga &BC&beric's &yGuild &YRing&n lies here, engraved with a holy sigil.~
 ~
 9 65 1
-0 0 0 0
+6 0 0 0
 1 250 0 27
 A
 12 10
@@ -284,7 +288,7 @@ a Thief's Guild Ring~
 &ga &YT&yhief's &yGuild &YRing&n lies here, engraved with a lockpick.~
 ~
 9 65 2
-0 0 0 0
+6 0 0 0
 1 250 0 27
 A
 2 1
@@ -294,20 +298,20 @@ a guard's sword~
 A guard's sword has been left here.~
 ~
 5 0 8193
-0 2 6 3
+0 8 10 3
 6 100 0 27
 A
-19 1
+19 9
 #13232
 axe snake skin~
 a snake-skin axe~
 A snake-skin axe lies here, its haft wrapped in scaled hide.~
 ~
 5 0 8193
-0 2 6 6
+0 8 10 6
 7 150 0 27
 A
-19 1
+19 9
 #13233
 half crown queens~
 a half to the Crown of Queens~
@@ -448,20 +452,20 @@ a crossbow~
 A crossbow has been left here, still strung.~
 ~
 5 0 8193
-0 2 4 11
+0 8 10 11
 5 120 0 27
 A
-19 1
+19 9
 #13251
 sword samurai~
 samurai sword~
 A samurai sword has been left here, its edge immaculate.~
 ~
 5 0 8193
-0 2 6 3
+0 8 10 3
 5 200 0 27
 A
 18 1
 A
-19 1
+19 9
 $

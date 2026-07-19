@@ -4,12 +4,14 @@ an egyptian mace~
 A hierogylph-engraved mace has been left here.~
 ~
 5 0 8193
-0 2 6 7
+0 11 10 7
 10 800 50
 E
 mace egyptian~
 The mace is formed from solid brass, and engraved in strange hieroglyphs.
 ~
+A
+19 12
 #5301
 robe sand~
 some sand-colored robes~
@@ -30,7 +32,7 @@ an obsidian dirk~
 A flat dirk made of chipped obsidian lies here.~
 ~
 5 g 8193
-0 3 3 11
+0 11 10 11
 8 1000 100
 A
 2 1
@@ -40,6 +42,8 @@ E
 dirk obsidian~
 The blade of the dirk is black, glassy obsidian, chipped razor sharp.
 ~
+A
+19 12
 #5303
 turban cloth~
 a dirty cloth turban~
@@ -115,12 +119,12 @@ a stone scimitar~
 A curved scimitar made of stone rests on the ground.~
 ~
 5 bgmno 8193
-0 4 3 3
+0 11 10 3
 18 10000 750
 A
 18 2
 A
-19 3
+19 12
 E
 scimitar stone~
 The scimitar is formed from solid stone, chipped and carved to perfection,
@@ -236,7 +240,7 @@ a lion's paw~
 The mighty paw of a lion-like creature has been dropped here.~
 ~
 5 g 8193
-0 1 14 5
+0 11 10 5
 20 18000 600
 A
 5 1
@@ -248,6 +252,8 @@ The massive paw has straps on it formed of bronze, so that it will
 fit snugly over your hand.  As you put it on, it melds with your hand,
 becoming an extension of your arm.
 ~
+A
+19 12
 #5317
 parchment answer~
 the answer~

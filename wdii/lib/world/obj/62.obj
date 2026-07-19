@@ -16,7 +16,7 @@ a set of manacles~
 A set of iron manacles lie here.~
 ~
 9 h 129
-0 0 0 0
+5 0 0 0
 20 100 20
 E
 manacles~
@@ -30,7 +30,7 @@ a set of shackles~
 A set of shackles sit here, discarded.~
 ~
 9 h 65
-0 0 0 0
+5 0 0 0
 20 100 20
 E
 shackles~
@@ -59,19 +59,21 @@ a club~
 A crude wooden club sits here.~
 ~
 5 0 8193
-0 2 2 7
+0 7 10 7
 12 10 2
 E
 club~
 It is a big, wooden club.
 ~
+A
+19 7
 #6205
 Starkblade knife dagger blade~
 Starkblade~
 A knife hums with eternal energy here.~
 ~
 5 bp 8193
-0 3 7 3
+0 7 10 3
 1 100000 20000
 E
 starkblade knife dagger blade~
@@ -83,5 +85,6 @@ A
 12 10
 A
 13 -20
+A
+19 7
 $
-

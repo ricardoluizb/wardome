@@ -46,6 +46,36 @@ A key made of a dull metal is lying on the ground here.~
 18 cdq 16385
 3005 0 0 0
 1 0 0
+#3006
+quarter staff~
+a quarter staff~
+A quarter staff lies here, waiting to be claimed.~
+~
+5 a 8193
+0 17 10 5
+14 1940 242 180
+A
+19 18
+#3007
+bastard sword~
+a bastard sword~
+A bastard sword lies here, waiting to be claimed.~
+~
+5 a 8193
+0 17 10 3
+14 1940 242 180
+A
+19 18
+#3008
+two handed sword~
+a two-handed sword~
+A two-handed sword lies here, waiting to be claimed.~
+~
+5 a 8193
+0 17 10 3
+14 1940 242 180
+A
+19 18
 #3009
 waybread bread~
 a waybread~
@@ -118,21 +148,61 @@ just are not sure of its origins.  You doubt that a hunter would drop a
 side of venison or rabbit meat... what in the world could this meat have
 come from, you wonder...
 ~
+#3016
+sling~
+a sling~
+A sling lies here, waiting to be claimed.~
+~
+8 0 1
+0 0 0 0
+1 806 81
+#3017
+short bow~
+a short bow~
+A short bow lies here, waiting to be claimed.~
+~
+5 a 8193
+0 17 10 11
+14 1940 242 180
+A
+19 18
+#3018
+long bow~
+a long bow~
+A long bow lies here, waiting to be claimed.~
+~
+5 a 8193
+0 17 10 11
+14 1940 242 180
+A
+19 18
+#3019
+composite long bow~
+a composite long bow~
+A composite long bow lies here, waiting to be claimed.~
+~
+5 a 8193
+0 17 10 11
+14 1940 242 180
+A
+19 18
 #3020
 dagger~
 a dagger~
 A dagger with a long thin blade is here.~
 ~
 5 n 8193
-0 1 4 11
+0 17 10 11
 1 10 10
+A
+19 18
 #3021
 sword small~
 a small sword~
 A small sword lies here.~
 ~
 5 n 8193
-0 1 6 11
+0 17 10 11
 3 60 10
 E
 sword small~
@@ -142,38 +212,88 @@ E
 inscription~
 It says: 'May this sword be a good companion.'
 ~
+A
+19 18
 #3022
 sword long~
 a long sword~
 A long sword has been left here.~
 ~
 5 n 8193
-0 1 8 3
+0 17 10 3
 8 600 10
+A
+19 18
 #3023
 club wooden~
 a wooden club~
 A simple looking wooden club is here.~
 ~
 5 0 8193
-0 1 3 7
+0 17 10 7
 3 12 10
+A
+19 18
 #3024
 warhammer hammer~
 a warhammer~
 A medium sized warhammer is here.~
 ~
 5 0 8193
-0 1 5 7
+0 17 10 7
 6 50 10
+A
+19 18
 #3025
 flail large~
 a flail~
 A large flail is here.~
 ~
 5 0 8193
-0 2 4 7
+0 17 10 7
 6 625 10
+A
+19 18
+#3026
+light crossbow~
+a light crossbow~
+A light crossbow lies here, waiting to be claimed.~
+~
+5 a 8193
+0 17 10 11
+14 1940 242 180
+A
+19 18
+#3027
+battle axe~
+a battle axe~
+A battle axe lies here, waiting to be claimed.~
+~
+5 a 8193
+0 17 10 8
+14 1940 242 180
+A
+19 18
+#3028
+mace~
+a mace~
+A mace lies here, waiting to be claimed.~
+~
+5 a 8193
+0 17 10 5
+14 1940 242 180
+A
+19 18
+#3029
+spear~
+a spear~
+A spear lies here, waiting to be claimed.~
+~
+5 a 8193
+0 17 10 11
+14 1940 242 180
+A
+19 18
 #3030
 torch~
 a torch~
@@ -271,12 +391,14 @@ a nail~
 A penny nail lies in the dust.~
 ~
 5 0 8193
-0 1 1 11
+0 17 10 11
 1 5 1
 E
 nail~
 Its a common iron nail, used for carpentry work.
 ~
+A
+19 18
 #3039
 pot~
 a pot~
@@ -464,6 +586,24 @@ E
 canoe~
 The canoe is fairly light.
 ~
+#3066
+black dragon scale~
+a black dragon scale~
+A black dragon scale lies here, waiting to be claimed.~
+~
+9 a 9
+15 0 0 0
+9 1893 237 180
+#3067
+magic mana sword~
+the magic mana sword~
+The magic mana sword lies here, waiting to be claimed.~
+~
+5 a 8193
+0 23 10 3
+14 3544 443 180
+A
+19 24
 #3070
 gauntlets bronze~
 a pair of bronze gauntlets~
@@ -528,6 +668,22 @@ A pair of leather sleeves is lying on the ground.~
 9 0 257
 2 0 0 0
 4 75 10
+#3087
+potion mana shield~
+a potion of mana shield~
+A potion of mana shield lies here, waiting to be claimed.~
+~
+9 a 513
+11 0 0 0
+20 1300 162 180
+#3088
+potion mana~
+potion of mana~
+Potion of mana lies here, waiting to be claimed.~
+~
+10 g 16385
+180 16 -1 -1
+1 950 95
 #3090
 scroll remove curse~
 &Wa &Ms&Rcroll &Wof &Mr&Remove &Mc&Rurse&n~
@@ -605,146 +761,4 @@ E
 bulletin~
 Use 'look board' to read the board.
 ~
-#3006
-quarter staff~
-a quarter staff~
-A quarter staff lies here, waiting to be claimed.~
-~
-5 a 8193
-0 17 10 5
-14 1940 242 180
-A
-19 18
-#3007
-bastard sword~
-a bastard sword~
-A bastard sword lies here, waiting to be claimed.~
-~
-5 a 8193
-0 17 10 3
-14 1940 242 180
-A
-19 18
-#3008
-two handed sword~
-a two-handed sword~
-A two-handed sword lies here, waiting to be claimed.~
-~
-5 a 8193
-0 17 10 3
-14 1940 242 180
-A
-19 18
-#3016
-sling~
-a sling~
-A sling lies here, waiting to be claimed.~
-~
-8 0 1
-0 0 0 0
-1 806 81
-#3017
-short bow~
-a short bow~
-A short bow lies here, waiting to be claimed.~
-~
-5 a 8193
-0 17 10 11
-14 1940 242 180
-A
-19 18
-#3018
-long bow~
-a long bow~
-A long bow lies here, waiting to be claimed.~
-~
-5 a 8193
-0 17 10 11
-14 1940 242 180
-A
-19 18
-#3019
-composite long bow~
-a composite long bow~
-A composite long bow lies here, waiting to be claimed.~
-~
-5 a 8193
-0 17 10 11
-14 1940 242 180
-A
-19 18
-#3026
-light crossbow~
-a light crossbow~
-A light crossbow lies here, waiting to be claimed.~
-~
-5 a 8193
-0 17 10 11
-14 1940 242 180
-A
-19 18
-#3027
-battle axe~
-a battle axe~
-A battle axe lies here, waiting to be claimed.~
-~
-5 a 8193
-0 17 10 8
-14 1940 242 180
-A
-19 18
-#3028
-mace~
-a mace~
-A mace lies here, waiting to be claimed.~
-~
-5 a 8193
-0 17 10 5
-14 1940 242 180
-A
-19 18
-#3029
-spear~
-a spear~
-A spear lies here, waiting to be claimed.~
-~
-5 a 8193
-0 17 10 11
-14 1940 242 180
-A
-19 18
-#3066
-black dragon scale~
-a black dragon scale~
-A black dragon scale lies here, waiting to be claimed.~
-~
-9 a 9
-15 0 0 0
-9 1893 237 180
-#3067
-magic mana sword~
-the magic mana sword~
-The magic mana sword lies here, waiting to be claimed.~
-~
-5 a 8193
-0 23 10 3
-14 3544 443 180
-A
-19 24
-#3087
-potion mana shield~
-a potion of mana shield~
-A potion of mana shield lies here, waiting to be claimed.~
-~
-9 a 513
-11 0 0 0
-20 1300 162 180
-#3088
-potion mana~
-potion of mana~
-Potion of mana lies here, waiting to be claimed.~
-~
-10 g 16385
-180 16 -1 -1
-1 950 95
 $~

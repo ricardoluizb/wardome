@@ -120,12 +120,14 @@ a mithril hammer~
 a mithril hammer has been left here~
 ~
 5 g 8193
-0 2 6 7
+0 14 10 7
 19 10000 1000
 A
 18 2
 A
 1 1
+A
+19 15
 #2514
 chest~
 a chest~
@@ -148,42 +150,46 @@ a long sword~
 A long sword has been left here.~
 ~
 5 0 8193
-0 1 8 3
+0 14 10 3
 8 10000 1000
 A
 18 1
 A
-19 2
+19 15
 #2517
 dagger silver~
 a silver dagger~
 A finely crafted dagger made of silver is on the ground here.~
 ~
 5 0 8193
-0 3 3 11
+0 14 10 11
 5 15000 1200
 A
 18 2
 A
-19 2
+19 15
 #2518
 scimitar~
 a curved scimitar~
 A curved scimitar is here in a jewel-covered sheath.~
 ~
 5 0 8193
-0 2 7 3
+0 14 10 3
 10 17500 1950
 A
 13 3
+A
+19 15
 #2519
 staff wooden~
 a wooden staff~
 A wooden staff is against the wall here.~
 ~
 5 0 8193
-0 1 4 8
+0 14 10 8
 6 10 5
+A
+19 15
 #2520
 cabinet silver~
 a silver chased cabinet~
@@ -302,7 +308,7 @@ a pair of spectacles~
 A pair of wire-rimmed spectacles has been left here.~
 ~
 9 g 17
-0 0 0 0
+10 0 0 0
 4 10000 5000
 A
 3 1
@@ -322,7 +328,7 @@ a heart shaped medallion~
 A heart shaped medallion is here.~
 ~
 9 bdei 5
-0 0 0 0
+10 0 0 0
 3 10000 1000
 A
 4 2
@@ -384,7 +390,7 @@ a pair of old boots~
 A pair of old boots is here, they look very comfortable.~
 ~
 9 g 65
-0 0 0 0
+10 0 0 0
 2 3500 900
 A
 14 15
@@ -426,8 +432,10 @@ a meat cleaver~
 A meat cleaver is sticking in the wall here.~
 ~
 5 0 8193
-0 3 4 1
+0 14 10 1
 8 600 100
+A
+19 15
 #2548
 shackles chain~
 some chain shackles~
@@ -446,10 +454,12 @@ a silvery dagger~
 A long dagger that seems to be made of silver is here.~
 ~
 5 g 8193
-0 2 4 11
+0 14 10 11
 5 1200 500
 A
 18 1
+A
+19 15
 #2550
 scroll~
 a scroll~
@@ -602,10 +612,12 @@ a runed chisel~
 A runed chisel is here.~
 ~
 5 ag 8193
-0 2 3 11
+0 14 10 11
 6 1500 500
 A
 2 1
+A
+19 15
 #2568
 pouch belt beltpouch~
 a beltpouch~
@@ -648,8 +660,10 @@ a huge spiked club~
 A huge spiked club has been left here.~
 ~
 5 0 8193
-0 3 5 8
+0 14 10 8
 29 750 200
+A
+19 15
 #2573
 robe grey~
 a grey robe~
@@ -690,10 +704,12 @@ an iron shod staff~
 A grey piece of wood shod in iron has been left here.~
 ~
 5 gjk 8193
-0 2 7 8
+0 14 10 8
 7 9000 3000
 A
 18 3
+A
+19 15
 #2577
 minor ward cube clear~
 a ward minor~
@@ -722,7 +738,7 @@ an onyx bracelet~
 A hoop of black onyx is here.~
 ~
 9 gjl 4097
-0 0 0 0
+10 0 0 0
 6 8500 850
 A
 19 2
@@ -744,10 +760,10 @@ a sharp shard of obsidian~
 A piece of black glass is here.~
 ~
 5 gjl 8193
-0 2 7 1
+0 14 10 1
 8 12000 2000
 A
-19 3
+19 15
 #2582
 robe white~
 a white robe~
@@ -766,7 +782,7 @@ a white gold bracelet~
 A hoop of silvery metal is here.~
 ~
 9 gkl 4097
-0 0 0 0
+10 0 0 0
 5 5000 1000
 A
 18 2
@@ -788,12 +804,12 @@ an ivory hilted dagger~
 An ivory hilted dagger has been left here~
 ~
 5 gikl 8193
-0 2 6 11
+0 14 10 11
 8 12000 1500
 A
 18 1
 A
-19 2
+19 15
 #2586
 collar spiked~
 a spiked collar~
@@ -824,7 +840,7 @@ a small emerald ring~
 A small ring with a green gemstone is here.~
 ~
 9 g 3
-0 0 0 0
+10 0 0 0
 5 50000 10000
 A
 12 20
@@ -858,12 +874,12 @@ the ebony kris~
 A wavy bladed knife made of ebony is here.~
 ~
 5 g 8193
-0 3 4 11
+0 14 10 11
 9 60000 5000
 A
 2 2
 A
-19 5
+19 15
 #2592
 green scale shirt~
 a tight fitting green dragon scale shirt~
