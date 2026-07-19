@@ -4,25 +4,27 @@ a diamond-edged sword~
 A diamond-edged sword lies here, catching every glint of light.~
 ~
 5 ag 8193
-0 3 8 11
+0 4 10 11
 4 5000 1000 80
 A
-19 3
+19 4
 #19001
 sword longsword fine~
 a fine Longsword~
 A fine Longsword has been left here.~
 ~
 5 0 8193
-0 2 6 11
+0 4 10 11
 5 150 20 60
+A
+19 4
 #19002
 chainmail elven~
 an Elven chainmail~
 An Elven chainmail is lying here.~
 ~
 9 0 9
-5 0 0 0
+8 0 0 0
 10 300 40 55
 #19003
 chainmail mithril~
@@ -30,7 +32,7 @@ a Mithril chainmail~
 A Mithril chainmail rests here, shining faintly.~
 ~
 9 a 9
-7 0 0 0
+11 0 0 0
 8 800 100 65
 #19004
 sword twohanded mithril two-handed~
@@ -38,8 +40,10 @@ a Two-handed Mithril Sword~
 A Two-handed Mithril Sword rests here, gleaming silver.~
 ~
 5 a 8193
-0 3 6 11
+0 4 10 11
 12 1000 150 65
+A
+19 4
 #19005
 telescope~
 a Telescope~
@@ -54,15 +58,17 @@ an Elven hunting bow~
 An Elven hunting bow lies here, strung and ready.~
 ~
 5 0 8193
-0 2 6 11
+0 8 10 11
 3 200 25 55
+A
+19 8
 #19007
 chaincoif elven coif~
 an Elven Chaincoif~
 An Elven Chaincoif has been left here.~
 ~
 9 0 17
-3 0 0 0
+5 0 0 0
 3 150 20 55
 #19008
 leggings chain elven~
@@ -70,7 +76,7 @@ a pair of Elven Chain leggings~
 A pair of Elven Chain leggings is lying here.~
 ~
 9 0 33
-4 0 0 0
+6 0 0 0
 5 200 25 55
 #19009
 potion leaf green~
@@ -176,10 +182,10 @@ a warm woolen cape~
 A warm woolen cape has been left here, still holding some warmth.~
 ~
 9 0 1025
-3 0 0 0
+5 0 0 0
 3 120 15 65
 A
-5 2
+5 3
 #19022
 ring fire opal small~
 a small fire-opal ring~
@@ -189,27 +195,27 @@ A small fire-opal ring smoulders faintly on the ground.~
 0 0 0 0
 1 2000 250 75
 A
-19 3
+19 5
 A
-23 3
+23 5
 #19023
 eyelets tiger~
 Eyelets of the Tiger~
 The Eyelets of the Tiger rest here, striped fur still clinging to the rim.~
 ~
 9 0 65537
-2 0 0 0
+3 0 0 0
 1 400 50 65
 A
-2 2
+2 3
 #19024
 pendant bear skin~
 Bear's skin pendant~
 Bear's skin pendant lies here, coarse fur bristling.~
 ~
 9 0 32769
-2 0 0 0
+3 0 0 0
 1 400 50 65
 A
-5 2
+5 3
 $~
