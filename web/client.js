@@ -1,17 +1,70 @@
 // web/client.js
 const output = document.getElementById('output');
+const chatLogEl = document.getElementById('chat-log');
 
-// Long sessions otherwise grow the output <pre> unbounded, which makes
-// every scrollTop-triggered reflow slower over time (the "typing lag that
-// a relog fixes" symptom). Trim in batches so this stays O(1) amortized.
+// Long sessions otherwise grow a <pre> unbounded, which makes every
+// scrollTop-triggered reflow slower over time (the "typing lag that a
+// relog fixes" symptom). Trim in batches so this stays O(1) amortized.
 const MAX_OUTPUT_NODES = 4000;
 const TRIM_TO_NODES = 2000;
-function trimOutput() {
-  if (output.childNodes.length > MAX_OUTPUT_NODES) {
-    const removeCount = output.childNodes.length - TRIM_TO_NODES;
+function trimLog(el) {
+  if (el.childNodes.length > MAX_OUTPUT_NODES) {
+    const removeCount = el.childNodes.length - TRIM_TO_NODES;
     for (let i = 0; i < removeCount; i++) {
-      output.removeChild(output.firstChild);
+      el.removeChild(el.firstChild);
     }
+  }
+}
+function trimOutput() {
+  trimLog(output);
+}
+
+// Classifies raw server text lines into chat/main so channel chatter can
+// be routed to its own panel instead of interleaved with everything
+// else. act.comm.c emits two distinct forms per verb: the broadcast
+// others see ("$n gossips, '...'" -- third person, verb+s) and the
+// sender's own echo ("You gossip, '...'", or "You tell $N, '...'" /
+// "$n tells you, '...'" for the separate do_tell path, or "$n tells
+// the group, '...'" for gsay) -- both forms must match every verb, or
+// a solo player testing a channel with no one else online sees nothing
+// routed (only their own echo exists). Covers say/ask/exclaim/mutter
+// (do_say's punctuation-triggered variants), tell/reply, gsay, and
+// every do_gen_comm channel (gossip/auction/shout/ooc/congrat/chat/
+// newbie chat).
+const ANSI_RE = /\x1b\[[0-9;]*[A-Za-z]/g;
+const CHAT_VERBS = 'say|ask|exclaim|mutter|tell|gossip|auction|shout|ooc|congrat|chat|newbie chat';
+const CHAT_LINE_RE = new RegExp(
+  "tells you,|tells the group,|" +
+  `\\bYou (?:${CHAT_VERBS})\\b[^\\n]*,\\s*'|` +
+  `\\b(?:says|asks|exclaims|mutters|gossips|auctions|shouts|oocs|congrats|chats|newbie chats),`,
+  'i'
+);
+
+function classifyLine(line) {
+  const plain = line.replace(ANSI_RE, '');
+  if (!plain.trim()) return 'main';
+  if (CHAT_LINE_RE.test(plain)) return 'chat';
+  return 'main';
+}
+
+function routeText(rawText) {
+  const lines = rawText.split('\n');
+  let mainBuf = '';
+  lines.forEach((line, i) => {
+    const withNewline = line + (i < lines.length - 1 ? '\n' : '');
+    const category = classifyLine(line);
+    if (category === 'chat') {
+      chatLogEl.insertAdjacentHTML('beforeend', ansiToHtml(withNewline));
+      trimLog(chatLogEl);
+      chatLogEl.scrollTop = chatLogEl.scrollHeight;
+    } else {
+      mainBuf += withNewline;
+    }
+  });
+  if (mainBuf) {
+    output.insertAdjacentHTML('beforeend', ansiToHtml(mainBuf));
+    trimOutput();
+    output.scrollTop = output.scrollHeight;
   }
 }
 const roomIdEl = document.getElementById('room-id');
@@ -40,11 +93,20 @@ const levelUpFlashEl = document.getElementById('level-up-flash');
 const equipmentToggleEl = document.getElementById('equipment-toggle');
 const equipmentOverlayEl = document.getElementById('equipment-overlay');
 const equipmentCloseEl = document.getElementById('equipment-close');
+const inventoryToggleEl = document.getElementById('inventory-toggle');
+const inventoryOverlayEl = document.getElementById('inventory-overlay');
+const inventoryCloseEl = document.getElementById('inventory-close');
+const inventoryListEl = document.getElementById('inventory-list');
 const automationToggleEl = document.getElementById('automation-toggle');
 const automationOverlayEl = document.getElementById('automation-overlay');
 const automationCloseEl = document.getElementById('automation-close');
 const automationListEl = document.getElementById('automation-list');
 const automationMasterToggleEl = document.getElementById('automation-master-toggle');
+const guideToggleEl = document.getElementById('guide-toggle');
+const guideOverlayEl = document.getElementById('guide-overlay');
+const guideCloseEl = document.getElementById('guide-close');
+const guideTabsEl = document.getElementById('guide-tabs');
+const guideSearchEl = document.getElementById('guide-search');
 const form = document.getElementById('input-form');
 const input = document.getElementById('command-input');
 
@@ -93,6 +155,24 @@ const itemTooltipEl = document.getElementById('item-tooltip');
 const TIER_NAMES = ['Common', 'Uncommon', 'Rare', 'Legendary'];
 // Matches wdii/src/structs.h's ITEM_* type constants.
 const ITEM_WEAPON = 5;
+// Groups the inventory panel into labeled sections instead of one flat
+// list -- a full backpack easily has 20-30+ distinct items (weapons,
+// worn-but-unequipped armor, potions, keys, quest junk) and a plain
+// scroll became unreadable. Order here is also the display order.
+const INV_CATEGORIES = [
+  { key: 'weapons', label: 'Weapons', types: [5] },
+  { key: 'armor', label: 'Armor', types: [9, 11] },
+  { key: 'consumables', label: 'Consumables', types: [2, 10, 17, 19, 26] },
+  { key: 'magic', label: 'Magic Items', types: [1, 3, 4, 24] },
+  { key: 'containers', label: 'Containers & Keys', types: [15, 18, 22, 23] },
+  { key: 'misc', label: 'Misc', types: [] }, // catch-all: everything else
+];
+function categoryForType(itemType) {
+  for (const cat of INV_CATEGORIES) {
+    if (cat.types.includes(itemType)) return cat.key;
+  }
+  return 'misc';
+}
 // Index matches wdii/src/structs.h's APPLY_* constants exactly (0=APPLY_NONE).
 const APPLY_NAMES = [
   null, 'STR', 'DEX', 'INT', 'WIS', 'CON', 'CHA', 'CLASS', 'LEVEL', 'AGE',
@@ -154,6 +234,76 @@ function initEquipSlots() {
     box.addEventListener('mouseleave', () => {
       itemTooltipEl.classList.remove('show');
     });
+  });
+}
+
+const INV_TIER_NAMES = { 0: 'common', 1: 'tier-1', 2: 'tier-2', 3: 'tier-3' };
+
+function setInventory(msg) {
+  inventoryListEl.innerHTML = '';
+  const items = msg.items || [];
+  if (!items.length) {
+    const empty = document.createElement('div');
+    empty.className = 'inventory-empty';
+    empty.textContent = 'Nothing carried.';
+    inventoryListEl.appendChild(empty);
+    return;
+  }
+
+  // Stack identical vnum+tier instances into one row with a count, and
+  // bucket into labeled sections -- a flat unstacked list of everything
+  // carried gets unreadable past a couple dozen items.
+  const stacks = new Map(); // "vnum:tier" -> { vnum, tier, itemType, count }
+  items.forEach((item) => {
+    const key = `${item.vnum}:${item.tier}`;
+    if (stacks.has(key)) {
+      stacks.get(key).count++;
+    } else {
+      stacks.set(key, { vnum: item.vnum, tier: item.tier, itemType: item.itemType, count: 1 });
+    }
+  });
+
+  const byCategory = {};
+  INV_CATEGORIES.forEach((cat) => { byCategory[cat.key] = []; });
+  stacks.forEach((stack) => {
+    byCategory[categoryForType(stack.itemType)].push(stack);
+  });
+
+  INV_CATEGORIES.forEach((cat) => {
+    const stacksInCat = byCategory[cat.key];
+    if (!stacksInCat.length) return;
+
+    const heading = document.createElement('h4');
+    heading.className = 'inventory-section-heading';
+    heading.textContent = `${cat.label} (${stacksInCat.length})`;
+    inventoryListEl.appendChild(heading);
+
+    stacksInCat
+      .sort((a, b) => b.tier - a.tier)
+      .forEach((stack) => {
+        const row = document.createElement('div');
+        row.className = `inventory-row ${INV_TIER_NAMES[stack.tier] || 'common'}`;
+
+        const iconBox = document.createElement('div');
+        iconBox.className = 'inventory-icon-box';
+        const img = document.createElement('img');
+        img.className = 'inventory-icon';
+        img.src = `assets/items/${stack.vnum}.jpg`;
+        img.onerror = () => {
+          img.onerror = null;
+          img.src = 'assets/items/slots/hold.jpg';
+        };
+        iconBox.appendChild(img);
+
+        const name = document.createElement('span');
+        name.className = 'inventory-name';
+        const label = itemsMeta[String(stack.vnum)] || `item #${stack.vnum}`;
+        name.textContent = stack.count > 1 ? `${label} (x${stack.count})` : label;
+
+        row.appendChild(iconBox);
+        row.appendChild(name);
+        inventoryListEl.appendChild(row);
+      });
   });
 }
 
@@ -413,9 +563,7 @@ ws.addEventListener('open', () => {
 ws.addEventListener('message', (event) => {
   const msg = JSON.parse(event.data);
   if (msg.type === 'text') {
-    output.insertAdjacentHTML('beforeend', ansiToHtml(msg.data));
-    trimOutput();
-    output.scrollTop = output.scrollHeight;
+    routeText(msg.data);
     processTriggersForText(msg.data);
   } else if (msg.type === 'room') {
     roomIdEl.textContent = msg.name;
@@ -426,6 +574,8 @@ ws.addEventListener('message', (event) => {
     setStats(msg);
   } else if (msg.type === 'equip') {
     setEquip(msg);
+  } else if (msg.type === 'inventory') {
+    setInventory(msg);
   } else if (msg.type === 'affects') {
     setAffects(msg);
   } else if (msg.type === 'echo') {
@@ -987,6 +1137,14 @@ equipmentCloseEl.addEventListener('click', () => {
   equipmentOverlayEl.classList.remove('open');
 });
 
+inventoryToggleEl.addEventListener('click', () => {
+  inventoryOverlayEl.classList.toggle('open');
+});
+
+inventoryCloseEl.addEventListener('click', () => {
+  inventoryOverlayEl.classList.remove('open');
+});
+
 automationToggleEl.addEventListener('click', () => {
   automationOverlayEl.classList.toggle('open');
 });
@@ -1003,8 +1161,205 @@ automationMasterToggleEl.addEventListener('change', () => {
 document.addEventListener('keydown', (e) => {
   if (e.key === 'Escape') {
     equipmentOverlayEl.classList.remove('open');
+    inventoryOverlayEl.classList.remove('open');
     automationOverlayEl.classList.remove('open');
+    guideOverlayEl.classList.remove('open');
   }
+});
+
+// --- Guide overlay: Paths / Meta / Comandos / Áreas / Raças / Classes / Raridade ---
+
+const guideData = {}; // tab name -> loaded data (fetched lazily, cached)
+let guideActiveTab = 'paths';
+
+const RARITY_TIERS = [
+  { tag: '(sem tag)', color: '#aaa', desc: 'Common — item sem variação, estatísticas padrão do design original.' },
+  { tag: '[I]', color: '#5b9bd5', desc: 'Uncommon — variância de ±1 nos atributos existentes do item.' },
+  { tag: '[R]', color: '#e0c040', desc: 'Rare — variância de ±2 nos atributos existentes do item.' },
+  { tag: '[L]', color: '#d43f3f', desc: 'Legendary — variância de ±3 nos atributos existentes do item. Tier mais raro (3% de chance no drop).' },
+];
+
+function guideEl(tab) {
+  return document.getElementById(`guide-panel-${tab}`);
+}
+
+async function loadGuideData(tab) {
+  if (guideData[tab]) return guideData[tab];
+  const fileMap = {
+    paths: 'paths.json',
+    areas: 'areas.json',
+    meta: 'meta.json',
+    commands: 'help.json',
+    races: 'races.json',
+    classes: 'classes.json',
+  };
+  if (!fileMap[tab]) return null;
+  const res = await fetch(`assets/data/${fileMap[tab]}`);
+  const data = await res.json();
+  guideData[tab] = data;
+  return data;
+}
+
+function renderAttribTable(rows) {
+  const cols = ['str', 'dex', 'con', 'int', 'wis', 'cha'];
+  let html = '<table class="guide-table"><thead><tr><th>Nome</th>';
+  cols.forEach((c) => { html += `<th class="num">${c.toUpperCase()}</th>`; });
+  html += '</tr></thead><tbody>';
+  rows.forEach((r) => {
+    html += `<tr><td>${escapeHtml(r.name)}</td>`;
+    cols.forEach((c) => {
+      const v = r[c];
+      html += `<td class="num">${v > 0 ? '+' + v : v}</td>`;
+    });
+    html += '</tr>';
+  });
+  html += '</tbody></table>';
+  return html;
+}
+
+async function renderGuidePaths(filter) {
+  const data = await loadGuideData('paths');
+  const rows = Object.entries(data)
+    .map(([vnum, info]) => ({ vnum: parseInt(vnum, 10), ...info }))
+    .filter((r) => !filter || r.name.toLowerCase().includes(filter))
+    .sort((a, b) => a.name.localeCompare(b.name));
+  if (!rows.length) {
+    guideEl('paths').innerHTML = '<div class="guide-empty">Nenhuma área encontrada.</div>';
+    return;
+  }
+  let html = '<table class="guide-table"><thead><tr><th>Área</th><th class="num">Passos</th><th>Caminho (da Market Square)</th></tr></thead><tbody>';
+  rows.forEach((r) => {
+    html += `<tr><td>${escapeHtml(r.name)}</td><td class="num">${r.steps}</td><td class="guide-path-cmd">${escapeHtml(r.path)}</td></tr>`;
+  });
+  html += '</tbody></table>';
+  html += '<div class="guide-meta-note" style="margin-top:8px;">Direções: n/e/s/w/u/d. Ex: "2n1e" = anda 2x norte, 1x leste. Algumas áreas de remort alto só têm acesso por teleporte/quest, não aparecem aqui.</div>';
+  guideEl('paths').innerHTML = html;
+}
+
+async function renderGuideAreas(filter) {
+  const data = await loadGuideData('areas');
+  const rows = data
+    .filter((r) => !filter || r.name.toLowerCase().includes(filter) || String(r.vnum).includes(filter))
+    .sort((a, b) => (a.remort - b.remort) || a.vnum - b.vnum);
+  if (!rows.length) {
+    guideEl('areas').innerHTML = '<div class="guide-empty">Nenhuma área encontrada.</div>';
+    return;
+  }
+  let html = '<table class="guide-table"><thead><tr><th class="num">Vnum</th><th>Área</th><th class="num">Level</th><th class="num">Remort</th></tr></thead><tbody>';
+  rows.forEach((r) => {
+    html += `<tr><td class="num">${r.vnum}</td><td>${escapeHtml(r.name)}</td><td class="num">${escapeHtml(String(r.level))}</td><td class="num">${r.remort}</td></tr>`;
+  });
+  html += '</tbody></table>';
+  guideEl('areas').innerHTML = html;
+}
+
+async function renderGuideMeta() {
+  const data = await loadGuideData('meta');
+  const renderBlock = (block) => {
+    let html = `<div class="guide-meta-block"><h3>${escapeHtml(block.label)} — <span class="guide-meta-note">${escapeHtml(block.command)}</span></h3>`;
+    html += '<table class="guide-table"><thead><tr><th>Campo</th><th>Custo</th><th>Ganho</th><th>Obs</th></tr></thead><tbody>';
+    block.fields.forEach((f) => {
+      html += `<tr><td>${escapeHtml(f.field)}</td><td>${escapeHtml(f.cost)}</td><td>${escapeHtml(f.gain)}</td><td class="guide-meta-note">${escapeHtml(f.note || '')}</td></tr>`;
+    });
+    html += '</tbody></table></div>';
+    return html;
+  };
+  let html = renderBlock(data.gym) + renderBlock(data.temple);
+  if (data.notes && data.notes.length) {
+    html += '<ul class="guide-notes-list">' + data.notes.map((n) => `<li>${escapeHtml(n)}</li>`).join('') + '</ul>';
+  }
+  guideEl('meta').innerHTML = html;
+}
+
+async function renderGuideCommands(filter) {
+  const data = await loadGuideData('commands');
+  const rows = data.filter((r) => {
+    if (!filter) return true;
+    const kw = r.keywords.join(' ').toLowerCase();
+    return kw.includes(filter) || r.body.toLowerCase().includes(filter);
+  });
+  if (!rows.length) {
+    guideEl('commands').innerHTML = '<div class="guide-empty">Nenhum comando encontrado.</div>';
+    return;
+  }
+  const shown = rows.slice(0, 150);
+  let html = shown.map((r) => `
+    <div class="guide-cmd-entry">
+      <div class="guide-cmd-keywords">${escapeHtml(r.keywords.join(', '))}</div>
+      <div class="guide-cmd-body">${escapeHtml(r.body)}</div>
+    </div>
+  `).join('');
+  if (rows.length > shown.length) {
+    html += `<div class="guide-meta-note" style="padding:8px;">... e mais ${rows.length - shown.length} resultados. Refine a busca.</div>`;
+  }
+  guideEl('commands').innerHTML = html;
+}
+
+async function renderGuideRaces(filter) {
+  const data = await loadGuideData('races');
+  const rows = data.filter((r) => !filter || r.name.toLowerCase().includes(filter));
+  guideEl('races').innerHTML = rows.length
+    ? renderAttribTable(rows) + '<div class="guide-meta-note" style="margin-top:8px;">Nem toda raça listada é selecionável na criação de personagem -- algumas são especiais/desbloqueáveis.</div>'
+    : '<div class="guide-empty">Nenhuma raça encontrada.</div>';
+}
+
+async function renderGuideClasses(filter) {
+  const data = await loadGuideData('classes');
+  const rows = data.filter((r) => !filter || r.name.toLowerCase().includes(filter));
+  guideEl('classes').innerHTML = rows.length ? renderAttribTable(rows) : '<div class="guide-empty">Nenhuma classe encontrada.</div>';
+}
+
+function renderGuideRarity(filter) {
+  const rows = RARITY_TIERS.filter((r) => !filter || r.desc.toLowerCase().includes(filter) || r.tag.toLowerCase().includes(filter));
+  guideEl('rarity').innerHTML = rows.length
+    ? rows.map((r) => `
+        <div class="guide-rarity-row">
+          <span class="guide-rarity-tag" style="color:${r.color};">${escapeHtml(r.tag)}</span>
+          <span class="guide-rarity-desc">${escapeHtml(r.desc)}</span>
+        </div>
+      `).join('')
+    : '<div class="guide-empty">Nada encontrado.</div>';
+}
+
+const GUIDE_RENDERERS = {
+  paths: renderGuidePaths,
+  meta: () => renderGuideMeta(),
+  commands: renderGuideCommands,
+  areas: renderGuideAreas,
+  races: renderGuideRaces,
+  classes: renderGuideClasses,
+  rarity: renderGuideRarity,
+};
+
+function refreshGuideTab() {
+  const filter = guideSearchEl.value.trim().toLowerCase();
+  const renderer = GUIDE_RENDERERS[guideActiveTab];
+  if (renderer) renderer(filter);
+}
+
+guideToggleEl.addEventListener('click', () => {
+  guideOverlayEl.classList.toggle('open');
+  if (guideOverlayEl.classList.contains('open')) refreshGuideTab();
+});
+
+guideCloseEl.addEventListener('click', () => {
+  guideOverlayEl.classList.remove('open');
+});
+
+guideTabsEl.addEventListener('click', (e) => {
+  const btn = e.target.closest('.guide-tab-btn');
+  if (!btn) return;
+  guideTabsEl.querySelectorAll('.guide-tab-btn').forEach((b) => b.classList.remove('active'));
+  btn.classList.add('active');
+  guideActiveTab = btn.dataset.tab;
+  document.querySelectorAll('.guide-panel').forEach((p) => p.classList.remove('active'));
+  guideEl(guideActiveTab).classList.add('active');
+  guideSearchEl.value = '';
+  refreshGuideTab();
+});
+
+guideSearchEl.addEventListener('input', () => {
+  refreshGuideTab();
 });
 
 // Clicking anywhere in the terminal panel (not just the tiny input box)

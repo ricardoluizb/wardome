@@ -1339,6 +1339,32 @@ char *make_prompt(struct descriptor_data *d)
     }
 
     {
+      char inv_tag_buf[2048];
+      char inv_body[1900];
+      struct obj_data *inv_obj;
+      int first = 1;
+      inv_body[0] = '\0';
+      for (inv_obj = d->character->carrying; inv_obj != NULL; inv_obj = inv_obj->next_content) {
+        char item_piece[48];
+        int tier = 0;
+        if (!strncmp(inv_obj->short_description, "&B[I]", 5))
+          tier = 1;
+        else if (!strncmp(inv_obj->short_description, "&Y[R]", 5))
+          tier = 2;
+        else if (!strncmp(inv_obj->short_description, "&R[L]", 5))
+          tier = 3;
+        snprintf(item_piece, sizeof(item_piece), "%s%d:%d:%d", (first ? "" : "|"),
+          GET_OBJ_VNUM(inv_obj), tier, GET_OBJ_TYPE(inv_obj));
+        if (strlen(inv_body) + strlen(item_piece) + 1 >= sizeof(inv_body))
+          break;
+        strncat(inv_body, item_piece, sizeof(inv_body) - strlen(inv_body) - 1);
+        first = 0;
+      }
+      snprintf(inv_tag_buf, sizeof(inv_tag_buf), "$$INV:%s$$\r\n", inv_body);
+      write_to_descriptor(d->descriptor, inv_tag_buf);
+    }
+
+    {
       char affects_tag_buf[1024];
       char affects_body[900];
       char piece[64];

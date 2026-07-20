@@ -14,8 +14,6 @@
     <div id="side-panel" class="ornate-frame">
       <div id="level-up-flash">LEVEL UP!</div>
       <h1 id="game-title">WARDOME II - REBORN</h1>
-      <button id="equipment-toggle" type="button">Equipment</button>
-      <button id="automation-toggle" type="button">Automation</button>
       <img id="room-art" src="assets/rooms/placeholder.jpg" alt="Room illustration">
       <h2>Room</h2>
       <div id="room-id">—</div>
@@ -97,6 +95,11 @@
         <div class="equip-slot" data-label="Float" style="grid-area: float;"><div class="equip-icon-box"><img id="equip-icon-float" class="equip-icon"></div></div>
       </div>
     </div>
+    <div id="inventory-overlay" class="ornate-frame">
+      <button id="inventory-close" type="button">&times;</button>
+      <h2 id="inventory-title">Inventory</h2>
+      <div id="inventory-list"></div>
+    </div>
     <div id="automation-overlay" class="ornate-frame">
       <button id="automation-close" type="button">&times;</button>
       <h2 id="automation-title">Automation</h2>
@@ -107,12 +110,45 @@
       <div id="automation-list"></div>
       <div id="automation-hint">Define with: <code>#alias</code>, <code>#trigger name "pat" cmd</code>, <code>#timer name 30 cmd</code>, <code>#delay 30 cmd</code>. Manage with <code>#list</code>, <code>#del name</code>, <code>#on</code>/<code>#off name</code>.</div>
     </div>
+    <div id="guide-overlay" class="ornate-frame">
+      <button id="guide-close" type="button">&times;</button>
+      <h2 id="guide-title">Guide</h2>
+      <div id="guide-tabs">
+        <button class="guide-tab-btn active" data-tab="paths" type="button">Paths</button>
+        <button class="guide-tab-btn" data-tab="meta" type="button">Meta</button>
+        <button class="guide-tab-btn" data-tab="commands" type="button">Comandos</button>
+        <button class="guide-tab-btn" data-tab="areas" type="button">Áreas</button>
+        <button class="guide-tab-btn" data-tab="races" type="button">Raças</button>
+        <button class="guide-tab-btn" data-tab="classes" type="button">Classes</button>
+        <button class="guide-tab-btn" data-tab="rarity" type="button">Raridade</button>
+      </div>
+      <input id="guide-search" type="text" placeholder="buscar...">
+      <div id="guide-body">
+        <div id="guide-panel-paths" class="guide-panel active"></div>
+        <div id="guide-panel-meta" class="guide-panel"></div>
+        <div id="guide-panel-commands" class="guide-panel"></div>
+        <div id="guide-panel-areas" class="guide-panel"></div>
+        <div id="guide-panel-races" class="guide-panel"></div>
+        <div id="guide-panel-classes" class="guide-panel"></div>
+        <div id="guide-panel-rarity" class="guide-panel"></div>
+      </div>
+    </div>
     <div id="item-tooltip"></div>
     <div id="terminal-panel" class="ornate-frame">
       <pre id="output"></pre>
       <form id="input-form">
         <input id="command-input" type="text" autocomplete="off" autofocus placeholder="type a command...">
       </form>
+    </div>
+    <div id="channels-panel" class="ornate-frame">
+      <button id="equipment-toggle" type="button">Equipment</button>
+      <button id="inventory-toggle" type="button">Inventory</button>
+      <button id="automation-toggle" type="button">Automation</button>
+      <button id="guide-toggle" type="button">Guide</button>
+      <div id="chat-log-section" class="channel-section">
+        <h3 class="channel-heading">Chat</h3>
+        <pre id="chat-log"></pre>
+      </div>
     </div>
   </div>
   <script src="client.js"></script>

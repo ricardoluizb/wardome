@@ -1,0 +1,506 @@
+{
+  "1": {
+    "name": "The Realm of Lord Ankou",
+    "room": 195,
+    "steps": 32,
+    "path": "9w1s4w1n1w1n2w1s4w2n3e1u1e1u"
+  },
+  "2": {
+    "name": "The Lizard Lair Safari",
+    "room": 200,
+    "steps": 37,
+    "path": "1n2e1u1e1d2s6w2n1w2n16w1s1d"
+  },
+  "3": {
+    "name": "The Plains of the North",
+    "room": 300,
+    "steps": 9,
+    "path": "9n"
+  },
+  "5": {
+    "name": "The WarDome City",
+    "room": 527,
+    "steps": 21,
+    "path": "1n2e1u1e1d2s6w2n1w2n2w"
+  },
+  "7": {
+    "name": "Kerofk",
+    "room": 777,
+    "steps": 24,
+    "path": "1n2e1u1e1d2s6w2n1w2n3e1n1e"
+  },
+  "9": {
+    "name": "River Island Of Minos",
+    "room": 900,
+    "steps": 30,
+    "path": "1n2e1u1e1d2s6w2n1w2n4w2s1d4w"
+  },
+  "10": {
+    "name": "The Abandoned Cathedral",
+    "room": 1055,
+    "steps": 33,
+    "path": "1n2e1u1e1d2s6w2n1w2n13w1n"
+  },
+  "11": {
+    "name": "The Shire",
+    "room": 1130,
+    "steps": 23,
+    "path": "1n2e1u1e1d2s6w2n1w2n4e"
+  },
+  "15": {
+    "name": "The Straight Path",
+    "room": 1500,
+    "steps": 26,
+    "path": "5s1d13w7n"
+  },
+  "16": {
+    "name": "Wyvern's Tower",
+    "room": 1601,
+    "steps": 44,
+    "path": "1n2e1u1e1d2s6w2n1w2n4w2s1d5w3n2w1s3w3s1e"
+  },
+  "18": {
+    "name": "The Little Haven",
+    "room": 1801,
+    "steps": 38,
+    "path": "1n2e1u1e1d2s6w2n1w2n4w2s1d6w1s1w1s2w1s"
+  },
+  "20": {
+    "name": "Castle of Desire",
+    "room": 2001,
+    "steps": 32,
+    "path": "1n2e1u1e1d2s6w2n1w2n12w1d"
+  },
+  "21": {
+    "name": "The Graye Area",
+    "room": 2100,
+    "steps": 26,
+    "path": "9s2w1e10w4n"
+  },
+  "23": {
+    "name": "The Keep of Mahn-Tor",
+    "room": 2300,
+    "steps": 21,
+    "path": "1n2e1u1e1d2s6w2n1w2n1e1s"
+  },
+  "25": {
+    "name": "The High Tower Of Magic",
+    "room": 2501,
+    "steps": 31,
+    "path": "9w1s4w1n1w1n2w1s4w5n1w1n"
+  },
+  "29": {
+    "name": "Nirrad Land of the Fire Newts",
+    "room": 2900,
+    "steps": 30,
+    "path": "1n2e1u1e1d2s6w2n1w2n10w1s"
+  },
+  "30": {
+    "name": "Undead Midgaard",
+    "room": 3001,
+    "steps": 6,
+    "path": "1n2e1u1e1d"
+  },
+  "31": {
+    "name": "Southern part of Midgaard",
+    "room": 3100,
+    "steps": 15,
+    "path": "1n2e1u1e1d3s3w3s"
+  },
+  "32": {
+    "name": "Temple of the Bull",
+    "room": 3200,
+    "steps": 34,
+    "path": "1n2e1u1e1d2s6w2n1w2n8w2s1w1s2w1n"
+  },
+  "33": {
+    "name": "The Three Of Swords",
+    "room": 3300,
+    "steps": 23,
+    "path": "1n2e1u1e1d2s6w2n1w2n1w2n1e"
+  },
+  "34": {
+    "name": "The Chapel Catacombs",
+    "room": 3405,
+    "steps": 37,
+    "path": "1n2e1u1e1d2s6w2n1w2n1w1d3n2w2n1w2n3e2s1d"
+  },
+  "35": {
+    "name": "Miden'Nir",
+    "room": 3502,
+    "steps": 20,
+    "path": "1n2e1u1e1d2s6w2n1w2n1w"
+  },
+  "36": {
+    "name": "The Chessboard of Wardome",
+    "room": 3600,
+    "steps": 24,
+    "path": "1n2e1u1e1d2s6w2n1w2n3e1n1d"
+  },
+  "37": {
+    "name": "The Alfa Graveyard",
+    "room": 3700,
+    "steps": 25,
+    "path": "1n2e1u1e1d3s3w4s2e6s1d"
+  },
+  "38": {
+    "name": "Hatchet The Rats Lair",
+    "room": 3801,
+    "steps": 30,
+    "path": "1n2e1u1e1d2s6w2n1w2n4w1s3e2s1d"
+  },
+  "40": {
+    "name": "Moria, Levels 1-2",
+    "room": 4049,
+    "steps": 20,
+    "path": "9w1s4w1n1w1n2w1s"
+  },
+  "41": {
+    "name": "Moria, Level 3",
+    "room": 4115,
+    "steps": 35,
+    "path": "1n2e1u1e1d2s6w2n1w2n1w8n2w1n3w1d"
+  },
+  "47": {
+    "name": "The Kingdom of Juargan",
+    "room": 4785,
+    "steps": 24,
+    "path": "1n2e1u1e1d2s6w2n1w2n1w3n1e"
+  },
+  "50": {
+    "name": "The Great Eastern Desert",
+    "room": 5039,
+    "steps": 8,
+    "path": "8s"
+  },
+  "51": {
+    "name": "Drow City",
+    "room": 5100,
+    "steps": 23,
+    "path": "10s1n1d4w1s2w1u1n2d"
+  },
+  "52": {
+    "name": "The City Of Thalos",
+    "room": 5200,
+    "steps": 14,
+    "path": "11s1w1s1w"
+  },
+  "53": {
+    "name": "The Great Pyramid",
+    "room": 5300,
+    "steps": 12,
+    "path": "9s1w1n1w"
+  },
+  "54": {
+    "name": "New Thalos",
+    "room": 5406,
+    "steps": 0,
+    "path": ""
+  },
+  "60": {
+    "name": "Haon-Dor, Light Forest",
+    "room": 6092,
+    "steps": 26,
+    "path": "1n2e1u1e1d2s6w2n1w2n7w"
+  },
+  "61": {
+    "name": "Haon-Dor, Dark Forest",
+    "room": 6120,
+    "steps": 32,
+    "path": "1n2e1u1e1d2s6w2n1w2n4w2s1d5w1n"
+  },
+  "62": {
+    "name": "The Orc Enclave",
+    "room": 6203,
+    "steps": 50,
+    "path": "1n2e1u1e1d2s6w2n1w2n4w2s1d5w3n2w1s1w1n2w1s3w1n1w3n"
+  },
+  "63": {
+    "name": "Arachnos",
+    "room": 6301,
+    "steps": 43,
+    "path": "1n2e1u1e1d2s6w2n1w2n4w2s1d5w3n1w1n1w1n3w1u1n"
+  },
+  "64": {
+    "name": "Rand's Tower",
+    "room": 6400,
+    "steps": 33,
+    "path": "9w1s4w1n1w1n2w1s4w2n3e1u1e1d1e"
+  },
+  "65": {
+    "name": "The Dwarven Kingdom",
+    "room": 6500,
+    "steps": 21,
+    "path": "1n2e1u1e1d2s6w2n1w2n1w1d"
+  },
+  "66": {
+    "name": "The Dark Mansion",
+    "room": 6601,
+    "steps": 32,
+    "path": "9w1s4w1n1w1n2w1s4w2n3e1u1e1n"
+  },
+  "67": {
+    "name": "Sundhaven",
+    "room": 6700,
+    "steps": 34,
+    "path": "1n2e1u1e1d2s6w2n1w2n8w5s1w1u"
+  },
+  "69": {
+    "name": "Haunted House",
+    "room": 6900,
+    "steps": 33,
+    "path": "9w1s4w1n1w1n2w1s4w2n3e1u1e1n1u"
+  },
+  "70": {
+    "name": "The Sewer, First Level",
+    "room": 7048,
+    "steps": 27,
+    "path": "1n2e1u1e1d2s6w2n1w2n4w1s1e1n1d"
+  },
+  "71": {
+    "name": "The Second Sewer",
+    "room": 7102,
+    "steps": 30,
+    "path": "1n2e1u1e1d2s6w2n1w2n4w1s1w1n1d2w1d"
+  },
+  "72": {
+    "name": "The Sewer Maze",
+    "room": 7279,
+    "steps": 32,
+    "path": "1n2e1u1e1d2s6w2n1w2n4w1s2w1n1d1w1d1n1d"
+  },
+  "77": {
+    "name": "The Astral Universe",
+    "room": 7785,
+    "steps": 45,
+    "path": "1n2e1u1e1d2s6w2n1w2n4w2s1d5w3n2w1s2w1s1e2n1u1s"
+  },
+  "78": {
+    "name": "The Valley of the Elves",
+    "room": 7800,
+    "steps": 15,
+    "path": "13n1w1n"
+  },
+  "79": {
+    "name": "Redferne's Residence",
+    "room": 7914,
+    "steps": 35,
+    "path": "1n2e1u1e1d2s6w2n1w2n12w2s1e1u"
+  },
+  "82": {
+    "name": "Notre Dame",
+    "room": 8200,
+    "steps": 37,
+    "path": "1n2e1u1e1d2s6w2n1w2n11w2n1w1n1e1n1e"
+  },
+  "90": {
+    "name": "Wasteland",
+    "room": 9001,
+    "steps": 43,
+    "path": "1n2e1u1e1d2s6w2n1w2n4w2s1d5w3n1w1n1w1n3w2u"
+  },
+  "91": {
+    "name": "The Dylan's Area",
+    "room": 9101,
+    "steps": 40,
+    "path": "1n2e1u1e1d2s6w2n1w2n12w2s1e5u1s"
+  },
+  "92": {
+    "name": "The Elemental Canyon",
+    "room": 9201,
+    "steps": 27,
+    "path": "1n2e1u1e1d2s6w2n1w2n1w6n1u"
+  },
+  "95": {
+    "name": "Maze of DTs",
+    "room": 9500,
+    "steps": 26,
+    "path": "9s2w1e9w1s1e1n1s1e"
+  },
+  "96": {
+    "name": "Mysterious Cave",
+    "room": 9601,
+    "steps": 43,
+    "path": "1n2e1u1e1d2s6w2n1w2n3e1n2e4n2w5n2u1w1s1u1e1n"
+  },
+  "97": {
+    "name": "The Olympus",
+    "room": 9700,
+    "steps": 37,
+    "path": "1n2e1u1e1d2s6w2n1w2n11w2n1w1n1e1n1u"
+  },
+  "98": {
+    "name": "Shalyzaar Temple",
+    "room": 9801,
+    "steps": 32,
+    "path": "1n2e1u1e1d2s6w2n1w2n3e1n2e4n2w1n"
+  },
+  "99": {
+    "name": "Ghenna",
+    "room": 9900,
+    "steps": 44,
+    "path": "1n2e1u1e1d2s6w2n1w2n12w2s1e1s1e2s1w2n1e2n"
+  },
+  "100": {
+    "name": "Castle of the Vampire",
+    "room": 10032,
+    "steps": 32,
+    "path": "9w1s4w1n1w1n2w1s4w2n3e1u2e"
+  },
+  "112": {
+    "name": "Village of Hochenyana",
+    "room": 11201,
+    "steps": 23,
+    "path": "1n2e1u1e1d2s6w2n1w2n3e1s"
+  },
+  "115": {
+    "name": "The city of New Sparta",
+    "room": 11501,
+    "steps": 40,
+    "path": "1n2e1u1e1d2s6w2n1w2n4w2s1d6w1s1w1s2w1s1e1u"
+  },
+  "120": {
+    "name": "Rome",
+    "room": 12068,
+    "steps": 14,
+    "path": "9s2w1e2w"
+  },
+  "122": {
+    "name": "Rolindar Asgard",
+    "room": 12200,
+    "steps": 33,
+    "path": "9s2w1e9w1s1e1n1s8u"
+  },
+  "130": {
+    "name": "Thieve's Lair",
+    "room": 13000,
+    "steps": 40,
+    "path": "1n2e1u1e1d2s6w2n1w2n18w2n1u"
+  },
+  "131": {
+    "name": "Samurai Temple",
+    "room": 13100,
+    "steps": 30,
+    "path": "9s2w1e9w1s1e1n1s5u"
+  },
+  "135": {
+    "name": "Ancalador/Necromancers' Guild",
+    "room": 13500,
+    "steps": 26,
+    "path": "1n2e1u1e1d3s3w4s2e6s2d"
+  },
+  "141": {
+    "name": "Ultima",
+    "room": 14100,
+    "steps": 37,
+    "path": "1n2e1u1e1d2s6w2n1w2n15w2n1w"
+  },
+  "150": {
+    "name": "King Welmar's Castle",
+    "room": 15069,
+    "steps": 13,
+    "path": "1n2e1u1e1d2s5w"
+  },
+  "151": {
+    "name": "Mordecai's Village",
+    "room": 15100,
+    "steps": 22,
+    "path": "1n2e1u1e1d2s6w2n1w2n2e1n"
+  },
+  "173": {
+    "name": "Camelot",
+    "room": 17301,
+    "steps": 63,
+    "path": "1n2e1u1e1d2s6w2n1w2n4w2s1d5w3n2w1s1w1n2w1s3w1n1w3n2e3n3w2n3w"
+  },
+  "176": {
+    "name": "The New Ofcol",
+    "room": 17601,
+    "steps": 20,
+    "path": "11n1e2n2e1n1e1n1e"
+  },
+  "178": {
+    "name": "Gnome Village",
+    "room": 17800,
+    "steps": 18,
+    "path": "1n2e1u1e1d2s6w2n1w1s"
+  },
+  "186": {
+    "name": "Newbie Zone",
+    "room": 18600,
+    "steps": 21,
+    "path": "1n2e1u1e1d2s6w2n1w2n1w1s"
+  },
+  "190": {
+    "name": "The Elven woods",
+    "room": 19001,
+    "steps": 43,
+    "path": "1n2e1u1e1d2s6w2n1w2n4w2s1d5w3n1w1n1w1n3w1u1e"
+  },
+  "200": {
+    "name": "Werith's Wayhouse",
+    "room": 20000,
+    "steps": 34,
+    "path": "9s2w1e9w1s1e1n1s9u"
+  },
+  "201": {
+    "name": "Shaolin Temple",
+    "room": 20101,
+    "steps": 39,
+    "path": "1n2e1u1e1d2s6w2n1w2n4w2s1d6w1s1w1s2w1n1u"
+  },
+  "204": {
+    "name": "Wardome - Anthill",
+    "room": 20400,
+    "steps": 44,
+    "path": "1n2e1u1e1d2s6w2n1w2n4w2s1d5w3n1w1n1w1n4w1u1n"
+  },
+  "205": {
+    "name": "Wardome - The Termite Hill",
+    "room": 20501,
+    "steps": 44,
+    "path": "1n2e1u1e1d2s6w2n1w2n4w2s1d5w3n1w1n1w1n4w1u1s"
+  },
+  "215": {
+    "name": "Wardome - Abyssal's Pit",
+    "room": 21500,
+    "steps": 38,
+    "path": "1n2e1u1e1d2s6w2n1w2n11w2n1w1n1e1n1d1s"
+  },
+  "220": {
+    "name": "The Infernal Pit of Kerjim",
+    "room": 22000,
+    "steps": 37,
+    "path": "1n2e1u1e1d2s6w2n1w2n11w2n1w1n1e1n1d"
+  },
+  "245": {
+    "name": "Armageddon",
+    "room": 24500,
+    "steps": 33,
+    "path": "9w1s4w1n1w1n2w1s4w2n3e1u1e1u1e"
+  },
+  "251": {
+    "name": "Wardome - Old Camelot",
+    "room": 25101,
+    "steps": 41,
+    "path": "1n2e1u1e1d2s6w2n1w2n18w2n1e1n"
+  },
+  "284": {
+    "name": "Abysmal Sea",
+    "room": 28400,
+    "steps": 40,
+    "path": "1n2e1u1e1d2s6w2n1w2n4w2s1d6w1s1w1s2w1s1w1d"
+  },
+  "285": {
+    "name": "City of Atlantis",
+    "room": 28502,
+    "steps": 61,
+    "path": "1n2e1u1e1d2s6w2n1w2n4w2s1d6w1s1w1s2w1s1w3d2s1e1n1d1s1e1d1e1n1w1d1s1e1n1d1w2s"
+  },
+  "295": {
+    "name": "The Ilium",
+    "room": 29500,
+    "steps": 39,
+    "path": "1n2e1u1e1d2s6w2n1w2n4w2s1d6w1s1w1s2w1s1e"
+  }
+}

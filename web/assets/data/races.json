@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Human",
+    "str": 9,
+    "dex": 9,
+    "con": 9,
+    "int": 9,
+    "wis": 9,
+    "cha": 10
+  },
+  {
+    "name": "Drow",
+    "str": 8,
+    "dex": 13,
+    "con": 8,
+    "int": 10,
+    "wis": 13,
+    "cha": 8
+  },
+  {
+    "name": "Dwarf",
+    "str": 9,
+    "dex": 7,
+    "con": 11,
+    "int": 9,
+    "wis": 9,
+    "cha": 10
+  },
+  {
+    "name": "Elf",
+    "str": 9,
+    "dex": 13,
+    "con": 8,
+    "int": 10,
+    "wis": 10,
+    "cha": 12
+  },
+  {
+    "name": "Ogre",
+    "str": 12,
+    "dex": 9,
+    "con": 9,
+    "int": 6,
+    "wis": 9,
+    "cha": 10
+  },
+  {
+    "name": "Orc",
+    "str": 13,
+    "dex": 11,
+    "con": 13,
+    "int": 6,
+    "wis": 9,
+    "cha": 8
+  },
+  {
+    "name": "Troll",
+    "str": 11,
+    "dex": 11,
+    "con": 13,
+    "int": 7,
+    "wis": 7,
+    "cha": 8
+  },
+  {
+    "name": "Gith",
+    "str": 9,
+    "dex": 9,
+    "con": 7,
+    "int": 12,
+    "wis": 9,
+    "cha": 8
+  },
+  {
+    "name": "Gnome",
+    "str": 9,
+    "dex": 9,
+    "con": 9,
+    "int": 12,
+    "wis": 9,
+    "cha": 10
+  },
+  {
+    "name": "Lizardman",
+    "str": 12,
+    "dex": 12,
+    "con": 10,
+    "int": 7,
+    "wis": 8,
+    "cha": 8
+  },
+  {
+    "name": "Sea Elf",
+    "str": 9,
+    "dex": 9,
+    "con": 8,
+    "int": 11,
+    "wis": 12,
+    "cha": 14
+  },
+  {
+    "name": "Gorak",
+    "str": 13,
+    "dex": 9,
+    "con": 9,
+    "int": 8,
+    "wis": 8,
+    "cha": 10
+  },
+  {
+    "name": "Dunedain",
+    "str": 11,
+    "dex": 9,
+    "con": 9,
+    "int": 9,
+    "wis": 11,
+    "cha": 10
+  },
+  {
+    "name": "Ancient Drow",
+    "str": 8,
+    "dex": 15,
+    "con": 8,
+    "int": 10,
+    "wis": 15,
+    "cha": 8
+  },
+  {
+    "name": "Naugrim",
+    "str": 11,
+    "dex": 7,
+    "con": 13,
+    "int": 9,
+    "wis": 9,
+    "cha": 10
+  },
+  {
+    "name": "High Elf",
+    "str": 9,
+    "dex": 14,
+    "con": 8,
+    "int": 10,
+    "wis": 12,
+    "cha": 14
+  },
+  {
+    "name": "Hill Ogre",
+    "str": 14,
+    "dex": 10,
+    "con": 10,
+    "int": 6,
+    "wis": 9,
+    "cha": 10
+  },
+  {
+    "name": "BugBear",
+    "str": 14,
+    "dex": 13,
+    "con": 14,
+    "int": 6,
+    "wis": 9,
+    "cha": 8
+  },
+  {
+    "name": "Cave Troll",
+    "str": 12,
+    "dex": 12,
+    "con": 15,
+    "int": 7,
+    "wis": 7,
+    "cha": 8
+  },
+  {
+    "name": "Lich",
+    "str": 9,
+    "dex": 9,
+    "con": 9,
+    "int": 14,
+    "wis": 9,
+    "cha": 8
+  },
+  {
+    "name": "Tinker",
+    "str": 9,
+    "dex": 9,
+    "con": 11,
+    "int": 12,
+    "wis": 11,
+    "cha": 10
+  },
+  {
+    "name": "Draconian",
+    "str": 14,
+    "dex": 12,
+    "con": 10,
+    "int": 7,
+    "wis": 8,
+    "cha": 12
+  },
+  {
+    "name": "High Sea Elf",
+    "str": 11,
+    "dex": 9,
+    "con": 8,
+    "int": 13,
+    "wis": 12,
+    "cha": 14
+  },
+  {
+    "name": "Archons",
+    "str": 13,
+    "dex": 11,
+    "con": 9,
+    "int": 10,
+    "wis": 8,
+    "cha": 10
+  }
+]

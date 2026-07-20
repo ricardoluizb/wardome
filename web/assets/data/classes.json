@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Sorcerer",
+    "str": -1,
+    "dex": 0,
+    "con": 0,
+    "int": 2,
+    "wis": 0,
+    "cha": 2
+  },
+  {
+    "name": "Cleric",
+    "str": 0,
+    "dex": -1,
+    "con": 1,
+    "int": 0,
+    "wis": 1,
+    "cha": 2
+  },
+  {
+    "name": "Thief",
+    "str": 0,
+    "dex": 2,
+    "con": 0,
+    "int": 0,
+    "wis": -1,
+    "cha": 2
+  },
+  {
+    "name": "Warrior",
+    "str": 1,
+    "dex": 1,
+    "con": 1,
+    "int": -1,
+    "wis": 0,
+    "cha": 0
+  },
+  {
+    "name": "Necromancer",
+    "str": 0,
+    "dex": 0,
+    "con": 0,
+    "int": 2,
+    "wis": 1,
+    "cha": -2
+  },
+  {
+    "name": "Paladin",
+    "str": 1,
+    "dex": 0,
+    "con": 1,
+    "int": -1,
+    "wis": 0,
+    "cha": 2
+  },
+  {
+    "name": "Ninja",
+    "str": 1,
+    "dex": 2,
+    "con": 0,
+    "int": -1,
+    "wis": 0,
+    "cha": 0
+  },
+  {
+    "name": "Ranger",
+    "str": 1,
+    "dex": 1,
+    "con": 0,
+    "int": -1,
+    "wis": 1,
+    "cha": 0
+  },
+  {
+    "name": "Psionicist",
+    "str": 0,
+    "dex": 0,
+    "con": -1,
+    "int": 3,
+    "wis": 0,
+    "cha": 0
+  },
+  {
+    "name": "Warlock",
+    "str": 0,
+    "dex": 0,
+    "con": 1,
+    "int": 1,
+    "wis": 1,
+    "cha": -2
+  },
+  {
+    "name": "Barbarian",
+    "str": 1,
+    "dex": 0,
+    "con": 2,
+    "int": -1,
+    "wis": 0,
+    "cha": 0
+  },
+  {
+    "name": "Shaman",
+    "str": 0,
+    "dex": -1,
+    "con": 0,
+    "int": 1,
+    "wis": 2,
+    "cha": 0
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "gym": {
+    "label": "Gym (físico)",
+    "command": "meta <campo>",
+    "fields": [
+      {"field": "health / hp", "cost": "3 pts + 1000 gold", "gain": "+15 + bônus de CON", "note": "grátis de gold se level+200×remort < 50"},
+      {"field": "move / mv", "cost": "2 pts + 500 gold", "gain": "+15 + bônus de DEX", "note": "grátis de gold se level+200×remort < 50"},
+      {"field": "strength / str", "cost": "50-200 pts (varia c/ STR atual) + 2500 gold", "gain": "+1", "note": "50 se STR<18, 200 se STR>50"},
+      {"field": "dexterity / dex", "cost": "50-200 pts (varia c/ DEX atual) + 2500 gold", "gain": "+1", "note": "50 se DEX<18, 200 se DEX>50"},
+      {"field": "constitution / con", "cost": "50-200 pts (varia c/ CON atual) + 1000 gold", "gain": "+1", "note": "50 se CON<18, 200 se CON>50"}
+    ]
+  },
+  "temple": {
+    "label": "Temple / Cryogenic Center (mental)",
+    "command": "meta <campo>",
+    "fields": [
+      {"field": "mana / mn", "cost": "2 pts + 1200 gold", "gain": "+15 + bônus médio de (INT+WIS)/2", "note": "grátis de gold se level+200×remort < 50"},
+      {"field": "inteligence / int", "cost": "50-200 pts (varia c/ INT atual) + 2500 gold", "gain": "+1", "note": "50 se INT<18, 200 se INT>50"},
+      {"field": "wisdom / wis", "cost": "50-200 pts (varia c/ WIS atual) + 2500 gold", "gain": "+1", "note": "50 se WIS<18, 200 se WIS>50"},
+      {"field": "charisma / cha", "cost": "50-200 pts (varia c/ CHA atual) + 1000 gold", "gain": "+1", "note": "50 se CHA<18, 200 se CHA>50"}
+    ]
+  },
+  "notes": [
+    "Atributos (STR/DEX/CON/INT/WIS/CHA) têm limite máximo de 100.",
+    "'meta check' (Gym) ou 'meta' sem argumento (Temple) só mostra os custos, não gasta nada.",
+    "Os pontos gastos ('Holy Points') vêm de GET_POINTS -- normalmente ganhos jogando/subindo de level."
+  ]
+}

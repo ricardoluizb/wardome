@@ -277,7 +277,13 @@ def gen_room_desc(name):
 
 
 def clean_keywords(name):
-    words = re.sub(r'&[A-Za-z]', ' ', name)
+    # Some zone-authored names color individual letters/syllables within a
+    # single word (e.g. "&WG&wrey" for "Grey"), with no real whitespace
+    # between the fragments. Stripping the &-code to a SPACE would shatter
+    # "Grey" into "G"+"rey", and "G" alone then gets dropped by the len>2
+    # filter below -- delete the code with no separator instead, so
+    # letters only split by a color code get rejoined into their word.
+    words = re.sub(r'&[A-Za-z]', '', name)
     words = re.sub(r'[^A-Za-z0-9\' ]', ' ', words)
     tokens = [w.lower() for w in words.split() if len(w) > 2]
     tokens = [t for t in tokens if t not in ('the', 'and', 'named', 'lord', 'huge', 'pair', 'some')]

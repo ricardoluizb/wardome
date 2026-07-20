@@ -16,6 +16,7 @@ const ROOM_TAG_RE = /\$\$ROOM:(\d+)\|(.+?)\$\$\r?\n?/g;
 const STATS_TAG_RE = /\$\$STATS:(-?\d+)\/(\d+)\/(-?\d+)\/(\d+)\/(-?\d+)\/(\d+)\/(-?\d+)\/(-?\d+)\/(\d+)\/(\d+)\$\$\r?\n?/g;
 const MOB_TAG_RE = /\$\$MOB:(-?\d+)\$\$\r?\n?/g;
 const EQUIP_TAG_RE = /\$\$EQUIP:([^$]+)\$\$\r?\n?/g;
+const INV_TAG_RE = /\$\$INV:([^$]*)\$\$\r?\n?/g;
 const AFFECTS_TAG_RE = /\$\$AFFECTS:([^$]*)\$\$\r?\n?/g;
 const USER_TAG_RE = /\$\$USER:([^$]+)\$\$\r?\n?/g;
 const FIGHT_TAG_RE = /\$\$FIGHT:([^$]+)\$\$\r?\n?/g;
@@ -124,6 +125,16 @@ wss.on('connection', (ws) => {
           return { vnum, tier, itemType, val0, val1, val2, affects };
         });
         ws.send(JSON.stringify({ type: 'equip', slots }));
+      }
+    });
+
+    cleaned = extractTag(cleaned, INV_TAG_RE, (match) => {
+      if (ws.readyState === WebSocket.OPEN) {
+        const items = match[1].length === 0 ? [] : match[1].split('|').map((piece) => {
+          const [vnumStr, tierStr, typeStr] = piece.split(':');
+          return { vnum: parseInt(vnumStr, 10), tier: parseInt(tierStr, 10), itemType: parseInt(typeStr, 10) };
+        });
+        ws.send(JSON.stringify({ type: 'inventory', items }));
       }
     });
 
