@@ -1550,6 +1550,7 @@ ACMD(do_gas)
 		  obj_from_char(bomb);
 		  extract_obj(bomb);
 		  has_bomb = TRUE;
+		  break;
 	  }
   }
 

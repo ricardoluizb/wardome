@@ -883,7 +883,7 @@ void Crash_idlesave(struct char_data * ch)
   }
   for (j = 0; j < NUM_WEARS; j++) {
     if (GET_EQ(ch, j)) {
-      if (!Crash_save(ch->carrying, fp, j + 1)) {
+      if (!Crash_save(GET_EQ(ch, j), fp, j + 1)) {
         fclose(fp);
         return;
       }
@@ -1025,7 +1025,7 @@ int Crash_report_unrentables(struct char_data * ch, struct char_data * recep,
   if (obj) {
     if (Crash_is_unrentable(obj)) {
       has_norents = 1;
-      sprintf(buf, "$n tells you, 'You cannot store %s.'", OBJS(obj, ch));
+      snprintf(buf, sizeof(buf), "$n tells you, 'You cannot store %s.'", OBJS(obj, ch));
       act(buf, FALSE, recep, 0, ch, TO_VICT);
     }
     has_norents += Crash_report_unrentables(ch, recep, obj->contains);
@@ -1046,7 +1046,7 @@ void Crash_report_rent(struct char_data * ch, struct char_data * recep,
       (*nitems)++;
       *cost += MAX(0, (GET_OBJ_RENT(obj) * factor));
       if (display) {
-	sprintf(buf, "$n tells you, '%5d coins for %s..'",
+	snprintf(buf, sizeof(buf), "$n tells you, '%5d coins for %s..'",
 		(GET_OBJ_RENT(obj) * factor), OBJS(obj, ch));
 	act(buf, FALSE, recep, 0, ch, TO_VICT);
       }

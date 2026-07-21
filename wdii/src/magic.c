@@ -1058,7 +1058,7 @@ victim, int spellnum, int savetype)
 
     af[1].location = APPLY_DAMROLL;
     if(GET_RACE(ch) == RACE_HIGH_ELF || (GET_RACE(ch) == RACE_DRACONIAN &&number(1,12) == 3))
-    	af[0].duration = 2 + (GET_LEVEL(ch) / 6);
+    	af[1].duration = 2 + (GET_LEVEL(ch) / 6);
     else
     	af[1].duration = 1 + (GET_LEVEL(ch) / 6);
     af[1].modifier = -1;
@@ -1310,20 +1310,20 @@ victim, int spellnum, int savetype)
     	af[3].duration = 2;
     accum_duration = FALSE;
     
-    af[3].location = APPLY_STR;
-    af[3].modifier = +3 + GET_REMORT(ch)/3;
+    af[4].location = APPLY_STR;
+    af[4].modifier = +3 + GET_REMORT(ch)/3;
     if(GET_RACE(ch) == RACE_HIGH_ELF || (GET_RACE(ch) == RACE_DRACONIAN &&number(1,12) == 3))
-    	af[3].duration = 4;
+    	af[4].duration = 4;
     else
-    	af[3].duration = 2;
+    	af[4].duration = 2;
     accum_duration = FALSE;
-    
-    af[3].location = APPLY_CHA;
-    af[3].modifier = +3 + GET_REMORT(ch)/3;
+
+    af[5].location = APPLY_CHA;
+    af[5].modifier = +3 + GET_REMORT(ch)/3;
     if(GET_RACE(ch) == RACE_HIGH_ELF || (GET_RACE(ch) == RACE_DRACONIAN &&number(1,12) == 3))
-    	af[3].duration = 4;
+    	af[5].duration = 4;
     else
-    	af[3].duration = 2;
+    	af[5].duration = 2;
     accum_duration = FALSE;
 
     to_vict = "You feel a great globe rising around your body.";

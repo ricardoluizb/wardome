@@ -2457,8 +2457,8 @@ SPECIAL(priest)
           hitme = NULL;
           for (vict = world[ch->in_room].people; vict; vict = vict->next_in_room)
           {
-           if ((GET_LEVEL(vict) < LVL_IMMORT) && (!IS_NPC(vict))){
-             temp1 = GET_HIT(vict) / GET_MAX_HIT(vict);
+           if ((GET_LEVEL(vict) < LVL_IMMORT) && (!IS_NPC(vict)) && GET_MAX_HIT(vict) > 0){
+             temp1 = (float)GET_HIT(vict) / GET_MAX_HIT(vict);
              if (temp1 < temp2) {
               temp2 = temp1;
               hitme = vict;
@@ -2522,32 +2522,30 @@ if (time_info.hours != this_hour) {
 
   for (vict = world[ch->in_room].people; vict; vict = vict->next_in_room)
     {
-       temp1 = GET_HIT(vict) / GET_MAX_HIT(vict);
-       if (temp1 < temp2) {
-             temp2 = temp1;
-             hitme = vict;
-            }
+       if ((GET_LEVEL(vict) < LVL_IMMORT) && (!IS_NPC(vict)) && GET_MAX_HIT(vict) > 0){
+         temp1 = (float)GET_HIT(vict) / GET_MAX_HIT(vict);
+         if (temp1 < temp2) {
+               temp2 = temp1;
+               hitme = vict;
+              }
+       }
     }
 
-    vict = world[ch->in_room].people;
+    vict = hitme;
 
-    if(!IS_NPC(vict) && GET_LEVEL(vict) <= 50){
-       if (hitme != NULL) {
+    if (hitme != NULL) {
+      if(GET_LEVEL(vict) <= 50){
              cast_spell(ch, hitme, NULL, SPELL_CURE_LIGHT);
              return 1;
-            }
-    }
-    if(!IS_NPC(vict) && GET_LEVEL(vict) <= 75){
-       if (hitme != NULL) {
+      }
+      if(GET_LEVEL(vict) <= 75){
              cast_spell(ch, hitme, NULL, SPELL_CURE_CRITIC);
              return 1;
-            }
-    }
-    if(!IS_NPC(vict) && GET_LEVEL(vict) <= 200){
-       if (hitme != NULL) {
+      }
+      if(GET_LEVEL(vict) <= 200){
              cast_spell(ch, hitme, NULL, SPELL_HEAL);
              return 1;
-            }
+      }
     }
 
   }

@@ -1019,7 +1019,7 @@ int do_run(struct char_data *ch, char argument[MAX_PATH_LENGTH])
   int times = 0, i, j, pos = 0, total = 0, step = 0, map = 0;
   char path[MAX_PATH_LENGTH+1];
   char comando[20];
-  char paths[MAX_PATHS];
+  char paths[MAX_PATHS] = "";
   char rome[]= "2sd10e2s10w" ;
   char newbie[]= "3es" ;
   char chess[]= "7end" ;
@@ -1356,9 +1356,11 @@ int do_run(struct char_data *ch, char argument[MAX_PATH_LENGTH])
 		strcpy(paths, ratos);
 		}
 		  
-sprintf(buf, "\r\n&YYou found the path to &y%s: &C%s&n\r\n", zone_table[j].name, paths); 
+if (paths[0] != '\0') {
+sprintf(buf, "\r\n&YYou found the path to &y%s: &C%s&n\r\n", zone_table[j].name, paths);
 	send_to_char(buf, ch);
 send_to_char("&YFrom the new market square.&n\r\n\n", ch);
+}
 
 }
 }

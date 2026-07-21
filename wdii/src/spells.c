@@ -460,6 +460,16 @@ ASPELL(spell_rigid_thinking)
 }
 
 
+/* GET_OBJ_VAL()-derived spell-slot values come straight from the .obj
+   world file (or a corrupted item), with no guarantee they're a valid
+   index into spells[]; look them up safely instead of indexing directly. */
+const char *safe_spell_name(int spellnum)
+{
+  if (spellnum < 1 || spellnum > TOP_SPELL_DEFINE)
+    return "nothing";
+  return spells[spellnum];
+}
+
 void print_obj_identify(struct char_data *ch, struct obj_data *obj)
 {
   char buf[MAX_STRING_LENGTH], buf2[MAX_STRING_LENGTH];
@@ -509,18 +519,18 @@ void print_obj_identify(struct char_data *ch, struct obj_data *obj)
       sprintf(buf, "This %s casts: ", item_types[(int) GET_OBJ_TYPE(obj)]);
 
       if (GET_OBJ_VAL(obj, 1) >= 1)
-        sprintf(buf + strlen(buf), " %s", spells[GET_OBJ_VAL(obj, 1)]);
+        sprintf(buf + strlen(buf), " %s", safe_spell_name(GET_OBJ_VAL(obj, 1)));
       if (GET_OBJ_VAL(obj, 2) >= 1)
-        sprintf(buf + strlen(buf), " %s", spells[GET_OBJ_VAL(obj, 2)]);
+        sprintf(buf + strlen(buf), " %s", safe_spell_name(GET_OBJ_VAL(obj, 2)));
       if (GET_OBJ_VAL(obj, 3) >= 1)
-        sprintf(buf + strlen(buf), " %s", spells[GET_OBJ_VAL(obj, 3)]);
+        sprintf(buf + strlen(buf), " %s", safe_spell_name(GET_OBJ_VAL(obj, 3)));
       strcat(buf, "\r\n");
       send_to_char(buf, ch);
       break;
     case ITEM_WAND:
     case ITEM_STAFF:
       sprintf(buf, "This %s casts: ", item_types[(int) GET_OBJ_TYPE(obj)]);
-      sprintf(buf + strlen(buf), " %s\r\n", spells[GET_OBJ_VAL(obj, 3)]);
+      sprintf(buf + strlen(buf), " %s\r\n", safe_spell_name(GET_OBJ_VAL(obj, 3)));
       sprintf(buf + strlen(buf), "It has %d maximum charge%s and %d remaining.\r\n",
               GET_OBJ_VAL(obj, 1), GET_OBJ_VAL(obj, 1) == 1 ? "" : "s",
               GET_OBJ_VAL(obj, 2));
@@ -634,18 +644,18 @@ ASPELL(spell_oghma)
       sprintf(buf, "This %s casts: ", item_types[(int) GET_OBJ_TYPE(obj)]);
 
       if (GET_OBJ_VAL(obj, 1) >= 1)
-        sprintf(buf + strlen(buf), " %s", spells[GET_OBJ_VAL(obj, 1)]);
+        sprintf(buf + strlen(buf), " %s", safe_spell_name(GET_OBJ_VAL(obj, 1)));
       if (GET_OBJ_VAL(obj, 2) >= 1)
-        sprintf(buf + strlen(buf), " %s", spells[GET_OBJ_VAL(obj, 2)]);
+        sprintf(buf + strlen(buf), " %s", safe_spell_name(GET_OBJ_VAL(obj, 2)));
       if (GET_OBJ_VAL(obj, 3) >= 1)
-        sprintf(buf + strlen(buf), " %s", spells[GET_OBJ_VAL(obj, 3)]);
+        sprintf(buf + strlen(buf), " %s", safe_spell_name(GET_OBJ_VAL(obj, 3)));
       strcat(buf, "\r\n");
       send_to_char(buf, ch);
       break;
     case ITEM_WAND:
     case ITEM_STAFF:
       sprintf(buf, "This %s casts: ", item_types[(int) GET_OBJ_TYPE(obj)]);
-      sprintf(buf + strlen(buf), " %s\r\n", spells[GET_OBJ_VAL(obj, 3)]);
+      sprintf(buf + strlen(buf), " %s\r\n", safe_spell_name(GET_OBJ_VAL(obj, 3)));
       sprintf(buf + strlen(buf), "It has %d maximum charge%s and %d remaining.\r\n",
               GET_OBJ_VAL(obj, 1), GET_OBJ_VAL(obj, 1) == 1 ? "" : "s",
               GET_OBJ_VAL(obj, 2));
@@ -1199,10 +1209,10 @@ ASPELL(spell_fear)
        return;
 
 if (GET_INT(ch) < GET_DEX(target))
-	return;
-	
+	continue;
+
 	if (GET_LEVEL(ch) < GET_LEVEL(target))
-	return;
+	continue;
 
 if (target == ch)
 

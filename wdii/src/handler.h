@@ -18,6 +18,11 @@ bool    affected_by_spell(struct char_data *ch, int type);
 void    affect_join(struct char_data *ch, struct affected_type *af,
 bool add_dur, bool avg_dur, bool add_mod, bool avg_mod);
 
+/* combat safety: verify a char_data pointer is still a live character
+   before dereferencing it again after a call (hit(), damage()) that may
+   have killed and extract_char()'d it out from under the caller. */
+bool    char_still_exists(struct char_data *ch);
+
 
 /* utility */
 char *money_desc(int amount);

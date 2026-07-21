@@ -472,10 +472,29 @@ void affect_join(struct char_data * ch, struct affected_type * af,
       affect_remove(ch, hjp);
       affect_to_char(ch, af);
       found = TRUE;
+      break;
     }
   }
   if (!found)
     affect_to_char(ch, af);
+}
+
+
+/* Combat helper: after hit()/damage() runs, an NPC combatant may have died
+   and been extract_char()'d (freed) as a side effect (e.g. reflected
+   damage from AFF_FIRESHIELD/AFF2_BANSHEE, or simply being the target of
+   a lethal hit). This checks pointer identity against the live character
+   list -- it does not dereference ch -- so it's safe to call on a
+   possibly-dangling pointer. */
+bool char_still_exists(struct char_data * ch)
+{
+  struct char_data *i;
+
+  for (i = character_list; i; i = i->next)
+    if (i == ch)
+      return TRUE;
+
+  return FALSE;
 }
 
 

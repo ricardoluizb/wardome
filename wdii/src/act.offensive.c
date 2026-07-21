@@ -272,8 +272,6 @@ ACMD(do_order)
   
   else if (!str_cmp(name, "foll") || (!str_cmp(name, "fol")) || (!str_cmp(name, "follo")) || (!str_cmp(name, "follow")) || (!str_cmp(name, "fo")) || (!str_cmp(name, "f")))
   send_to_char("That person isn't here.\r\n", ch);
-  else if (ch == vict)
-  send_to_char("That person isn't here.\r\n", ch);
   else if (!(vict = get_char_room_vis(ch, name)))
     send_to_char("That person isn't here.\r\n", ch);
   else if (ch == vict)
@@ -610,7 +608,7 @@ ACMD(do_howl)
 	if ((GET_REMORT(vict)) && (GET_REMORT(ch) < (GET_REMORT(vict)+1)))
 		continue;
 	
-	// Excluir pets do player e de vítimas fora do pk range -Ips
+	// Excluir pets do player e de vï¿½timas fora do pk range -Ips
 	if ((AFF_FLAGGED(vict, AFF_CHARM)) && (((vict->master) && (vict->master == ch)) || ((vict->master) && (!IS_NPC(vict->master)) && (!can_pk(ch, vict->master)))))
 		continue;
 
@@ -689,16 +687,19 @@ ACMD(do_sabre)
 	  if (percent <= prob) {
 		  improve_skill(ch, SKILL_SABRE);
 
-		  if (GET_POS(vict) > POS_DEAD)
+		  if (GET_POS(vict) > POS_DEAD) {
 			  hit(ch, vict, SKILL_SABRE);
-      
+			  if (!char_still_exists(vict))
+				  break;
+		  }
+
 		  j++;
 	  }
   }
 
   if (j == 0)
 	  send_to_char("You need to practice your sabre.\r\n", ch);
-  if (GET_POS(vict) > POS_DEAD)
+  if (char_still_exists(vict) && GET_POS(vict) > POS_DEAD)
 	  WAIT_STATE(ch, PULSE_VIOLENCE * 3);
   improve_skill(ch, SKILL_SLASH);
 }
@@ -740,15 +741,18 @@ ACMD(do_combo)
     percent = number(1, 101);
     if (percent <= prob) {
       improve_skill(ch, SKILL_COMBO);
-      if (GET_POS(vict) > POS_DEAD)
+      if (GET_POS(vict) > POS_DEAD) {
         hit(ch, vict, SKILL_COMBO);
+        if (!char_still_exists(vict))
+          break;
+      }
       j++;
     }
   }
   if (j == 0)
    send_to_char("You need to practice your combo!\r\n", ch);
 
-  if (GET_POS(vict) > POS_DEAD)
+  if (char_still_exists(vict) && GET_POS(vict) > POS_DEAD)
     WAIT_STATE(ch, PULSE_VIOLENCE * 4);
 }
 
@@ -1308,12 +1312,14 @@ ACMD(do_throw)
         act("You throw $p at $n and it goes right down $m throat!", FALSE, vict, obj, ch, TO_VICT);
         /* everyone else */
         act("$N throws $p at $n and it goes right down $m throat!", FALSE, vict, obj, ch, TO_NOTVICT);
-	extract_obj(obj);
 
 //      if (prob > number(1, 100)) {  -> dando crash, -ips
 
 	if (prob == -100) {
 
+           /* mag_objectmagic() extracts obj itself once it's done with it
+              (see spell_parser.c ITEM_POTION case); extracting it here too
+              would be a use-after-free followed by a double-free. */
            mag_objectmagic(vict, obj, buf);
 
 	} else {
@@ -1324,7 +1330,7 @@ ACMD(do_throw)
         act("$n gags and spits out $p.", FALSE, vict, obj, ch, TO_VICT);
         /* everyone else */
         act("$n gags and spits out $p.", FALSE, vict, obj, ch, TO_NOTVICT);
-	
+	extract_obj(obj);
 	}
       }
 
@@ -1402,7 +1408,10 @@ ACMD(do_gut)
    {
      send_to_char("They are not hurt enough for you to attempt that.\r\n", ch);
      hit(vict, ch, TYPE_UNDEFINED);
-     WAIT_STATE(ch, PULSE_VIOLENCE * 2);
+     /* hit() may have killed and extract_char()'d ch (e.g. via a
+        damage-reflect effect on vict); only touch it again if it survived. */
+     if (char_still_exists(ch))
+       WAIT_STATE(ch, PULSE_VIOLENCE * 2);
      return;
    }
 
@@ -1417,6 +1426,10 @@ ACMD(do_gut)
 
     /* EWWWW */
     GET_HIT(vict) = -10;
+    /* Update vict's position from the gut wound before it gets a chance
+       to counter-attack below -- otherwise it swings back at full
+       strength despite being mortally wounded. */
+    update_pos(vict);
 
     act("You gut $N!", FALSE, ch, 0, vict, TO_CHAR);
     act("$N guts you!", FALSE, vict, 0, ch, TO_CHAR);
@@ -1425,7 +1438,8 @@ ACMD(do_gut)
     act("$N looks down in horror as their intestines spill out!", FALSE, ch, 0, vict, TO_ROOM);
     act("$N looks down in horror as their intestines spill out!", FALSE, ch, 0, vict, TO_CHAR);
     act("$N looks down in horror as their intestines spill out!", FALSE, vict, 0, ch, TO_CHAR);
-    hit(vict, ch, TYPE_UNDEFINED);
+    if (GET_POS(vict) > POS_DEAD)
+      hit(vict, ch, TYPE_UNDEFINED);
 
     piece = create_obj();
 
@@ -1445,10 +1459,14 @@ ACMD(do_gut)
     GET_OBJ_RENT(piece) = 100000;
     obj_to_room(piece, ch->in_room);
 
-    WAIT_STATE(vict, PULSE_VIOLENCE * 2);
+    /* hit() above may have killed and extract_char()'d vict (e.g. via a
+       damage-reflect effect on ch); only touch it again if it survived. */
+    if (char_still_exists(vict)) {
+      WAIT_STATE(vict, PULSE_VIOLENCE * 2);
+      update_pos(vict);
+    }
     improve_skill(ch, SKILL_GUT);
     improve_skill(ch, SKILL_SLASH);
-    update_pos(vict);
   }
 
 }
@@ -1612,14 +1630,21 @@ ACMD(do_kickflip)
   if (percent > prob) {
     GET_POS(ch) = POS_SITTING;
     damage(vict, ch, GET_LEVEL(vict)*2, SKILL_KICKFLIP);
-    WAIT_STATE(ch, PULSE_VIOLENCE * 2);
+    /* damage() may have killed and extract_char()'d ch (if ch is an NPC
+       being run through this ACMD); only touch it again if it survived. */
+    if (char_still_exists(ch))
+      WAIT_STATE(ch, PULSE_VIOLENCE * 2);
   } else {
       WAIT_STATE(ch, PULSE_VIOLENCE * 2);
       if (IN_ROOM(ch) == IN_ROOM(vict)) {
         GET_POS(vict) = POS_SITTING;
         damage(ch, vict, GET_LEVEL(ch), SKILL_KICKFLIP);
-        WAIT_STATE(vict, PULSE_VIOLENCE * 2);
-	BASHTIME(vict) = 3;
+        /* damage() may have killed and extract_char()'d vict (if NPC);
+           only touch it again if it survived. */
+        if (char_still_exists(vict)) {
+          WAIT_STATE(vict, PULSE_VIOLENCE * 2);
+          BASHTIME(vict) = 3;
+        }
         improve_skill(ch, SKILL_KICKFLIP);
       }
   }
