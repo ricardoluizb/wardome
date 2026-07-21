@@ -36,7 +36,7 @@ OBJFILES = act.comm.o act.informative.o act.movement.o act.item.o \
 	aedit.o breath.o arena.o dg_comm.o dg_db_scripts.o dg_event.o \
 	dg_handler.o dg_mobcmd.o dg_objcmd.o dg_scripts.o dg_triggers.o \
 	dg_wldcmd.o dg_olc.o qedit.o quest.o teleport.o condition.o winddragon.o \
-	buffer.o masters.o diskio.o prgrun.o
+	buffer.o masters.o diskio.o prgrun.o bleed.o
 
 CXREF_FILES = act.comm.c act.informative.c act.item.c act.movement.c \
 	act.offensive.c act.other.c act.social.c act.wizard.c ban.c boards.c \
@@ -48,7 +48,7 @@ CXREF_FILES = act.comm.c act.informative.c act.item.c act.movement.c \
 	aedit.c breath.c arena.c dg_comm.c dg_db_scripts.c dg_event.c \
 	dg_handler.c dg_mobcmd.c dg_objcmd.c dg_scripts.c dg_triggers.c \
 	dg_wldcmd.c dg_olc.c qedit.c quest.o teleport.c condition.c winddragon.c \
-	buffer.c masters.c diskio.c prgrun.c
+	buffer.c masters.c diskio.c prgrun.c bleed.c
 
 default: all
 

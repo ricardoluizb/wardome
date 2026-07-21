@@ -61,6 +61,7 @@
 #include "dg_scripts.h"
 #include "teleport.h"
 #include "clan.h"
+#include "bleed.h"
 
 extern struct index_data *mob_index;
 
@@ -1023,6 +1024,9 @@ void heartbeat(int pulse)
   if (!(pulse % PULSE_ZONE))
     zone_update();
 
+  if (!(pulse % (30 * PASSES_PER_SEC)))
+    bleed_heartbeat();
+
   if (!(pulse % (15 * PASSES_PER_SEC)))         /* 15 seconds */
     check_idle_passwords();
 
@@ -1315,12 +1319,14 @@ char *make_prompt(struct descriptor_data *d)
           v0 = GET_OBJ_VAL(eq_obj, 0);
           v1 = GET_OBJ_VAL(eq_obj, 1);
           v2 = GET_OBJ_VAL(eq_obj, 2);
-          if (!strncmp(eq_obj->short_description, "&B[I]", 5))
-            tier = 1;
-          else if (!strncmp(eq_obj->short_description, "&Y[R]", 5))
-            tier = 2;
-          else if (!strncmp(eq_obj->short_description, "&R[L]", 5))
-            tier = 3;
+          if (eq_obj->short_description != NULL) {
+            if (!strncmp(eq_obj->short_description, "&B[I]", 5))
+              tier = 1;
+            else if (!strncmp(eq_obj->short_description, "&Y[R]", 5))
+              tier = 2;
+            else if (!strncmp(eq_obj->short_description, "&R[L]", 5))
+              tier = 3;
+          }
           for (a = 0; a < MAX_OBJ_AFFECT; a++) {
             if (eq_obj->affected[a].location != APPLY_NONE && eq_obj->affected[a].modifier != 0) {
               char one_aff[24];
@@ -1347,12 +1353,14 @@ char *make_prompt(struct descriptor_data *d)
       for (inv_obj = d->character->carrying; inv_obj != NULL; inv_obj = inv_obj->next_content) {
         char item_piece[48];
         int tier = 0;
-        if (!strncmp(inv_obj->short_description, "&B[I]", 5))
-          tier = 1;
-        else if (!strncmp(inv_obj->short_description, "&Y[R]", 5))
-          tier = 2;
-        else if (!strncmp(inv_obj->short_description, "&R[L]", 5))
-          tier = 3;
+        if (inv_obj->short_description != NULL) {
+          if (!strncmp(inv_obj->short_description, "&B[I]", 5))
+            tier = 1;
+          else if (!strncmp(inv_obj->short_description, "&Y[R]", 5))
+            tier = 2;
+          else if (!strncmp(inv_obj->short_description, "&R[L]", 5))
+            tier = 3;
+        }
         snprintf(item_piece, sizeof(item_piece), "%s%d:%d:%d", (first ? "" : "|"),
           GET_OBJ_VNUM(inv_obj), tier, GET_OBJ_TYPE(inv_obj));
         if (strlen(inv_body) + strlen(item_piece) + 1 >= sizeof(inv_body))
@@ -2640,9 +2648,10 @@ void close_socket(struct descriptor_data *d)
       mudlog(buf, CMP, LVL_IMMORT, TRUE);
       free_char(d->character);
     }
-  } else
+  } else {
     sprintf(buf, "Trying to entering on the mud failure: [%s]", d->host);
     mudlog(buf, CMP, LVL_IMMORT, TRUE);
+  }
 
   /* JE 2/22/95 -- part of my unending quest to make switch stable */
   if (d->original && d->original->desc)

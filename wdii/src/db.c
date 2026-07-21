@@ -29,6 +29,7 @@
 #include "quest.h"
 #include "diskio.h"
 #include "pfdefaults.h"
+#include "bleed.h"
 
 #include "stdlib.h"
 
@@ -357,6 +358,9 @@ void boot_db(void)
   file_to_string_alloc(BACKGROUND_FILE, &background);
 
   boot_world();
+
+  log("Initializing Zone Bleed event system.");
+  bleed_init();
 
   log("Loading help entries.");
   index_boot(DB_BOOT_HLP);
@@ -1544,6 +1548,15 @@ char *parse_object(FILE * obj_f, int nr)
    obj_proto[i].obj_flags.cond = t[4];
   else
    obj_proto[i].obj_flags.cond = 100;
+
+  if ((obj_proto[i].obj_flags.type_flag == ITEM_DRINKCON ||
+       obj_proto[i].obj_flags.type_flag == ITEM_FOUNTAIN) &&
+      (obj_proto[i].obj_flags.value[2] < LIQ_WATER ||
+       obj_proto[i].obj_flags.value[2] > LIQ_CLEARWATER)) {
+    log("SYSERR: Invalid liquid type %d on %s, clamped to water.",
+        obj_proto[i].obj_flags.value[2], buf2);
+    obj_proto[i].obj_flags.value[2] = LIQ_WATER;
+  }
 
   if (!get_line(obj_f, line)) {
     log("SYSERR: Expecting third numeric line of %s, but file ended!", buf2);

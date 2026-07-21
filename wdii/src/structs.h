@@ -93,6 +93,7 @@
 #define ROOM_NO_REGEN_HIT       (1 << 22)  /* !Regen Hit Room */
 #define ROOM_DONATION   	(1 << 23)
 #define ROOM_PATH 		(1 << 24) //mostra path
+#define ROOM_BLEED		(1 << 25)  /* Zone Bleed event active in room */
 
 /* Zone info: Used in zone_data.zone_flags */
 #define ZONE_OPEN              (1 << 0)

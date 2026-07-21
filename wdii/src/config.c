@@ -369,7 +369,7 @@ const char *GREETINGS =
 "                                  _| |____| |_\r\n"               
 "                                 |_____MUD____|\r\n"                               
 "\r\n" 
-"                                             		Beta Version 2.0\r\n" 
+"                                             		REBORN\r\n"
 "\r\n"
 "\r\n"
 "              Based on CircleMUD 3.0, created by Jeremy Elson.\r\n"

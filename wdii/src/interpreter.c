@@ -28,6 +28,7 @@
 #include "winddragon.h"
 #include "clan.h"
 #include "masters.h"
+#include "bleed.h"
 
 extern sh_int r_mortal_start_room; 
 extern sh_int r_immort_start_room; 
@@ -410,6 +411,8 @@ cpp_extern const struct command_info cmd_info[] = {
    { "berzerk"  , "ber"		, POS_FIGHTING, do_berzerk  , 0, 0 },
    { "bid"      , "bid"		, POS_SLEEPING, do_bid	    , 0, 0 },
    { "bet"      , "bet"         , POS_RESTING , do_bet      , 0, 0 },
+   { "bleedtrigger", "bleedtrigger", POS_DEAD , do_bleedtrigger, LVL_IMMORT, 0 },
+   { "bleedstatus" , "bleedstatus" , POS_DEAD , do_bleedstatus , LVL_IMMORT, 0 },
    { "boot"     , "boot"        , POS_DEAD    , do_copyover , LVL_GRGOD, 0 },
    { "brief"    , "brief"	, POS_DEAD    , do_gen_tog  , 0, SCMD_BRIEF },
    { "buy"      , "bu"		, POS_STANDING, do_not_here , 0, 0 },

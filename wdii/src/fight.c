@@ -23,6 +23,7 @@
 #include "dg_scripts.h"
 #include "quest.h"
 #include "clan.h"
+#include "bleed.h"
 
 /* Structures */
 struct char_data *combat_list = NULL;   /* head of l-list of fighting chars */
@@ -38,6 +39,7 @@ extern struct dex_app_type dex_app[];
 extern struct room_data *world;
 extern struct message_list fight_messages[MAX_MESSAGES];
 extern struct obj_data *object_list;
+extern struct char_data *character_list;
 extern struct aq_data *aquest_table;
 extern int pk_allowed;          /* see config.c */
 extern int auto_save;           /* see config.c -- not used in this file */
@@ -701,6 +703,7 @@ void raw_kill(struct char_data * ch, struct char_data * killer)
 	} else {
 	  		if (free_rent)
 	     		Crash_rentsave(ch, 0);
+	   		bleed_check_anchor_kill(ch);
 	   		extract_char(ch);           /* Char is saved in extract char */
 	}
   } else {
@@ -725,6 +728,7 @@ void raw_kill(struct char_data * ch, struct char_data * killer)
 	   } else {
 	     act("$n's body glows brightly and then slowly fades away.\r\n"
         	, FALSE, ch, 0, 0, TO_ROOM);
+	        bleed_check_anchor_kill(ch);
 	        extract_char(ch);
            }
   }
@@ -1388,11 +1392,11 @@ int damage(struct char_data * ch, struct char_data * victim, int dam, int attack
   if(AFF2_FLAGGED(victim, AFF2_BANSHEE) && !AFF2_FLAGGED(ch, AFF2_BANSHEE)){
    if( dam/2 > 0 && number(0,1))
    {
-    damage(victim,ch, dam/5, SPELL_BANSHEE_AURA);
-    if(ch == NULL)
+    /* damage() returns -1 when it kills its victim (here, ch); ch may
+       already be freed via extract_char() in that case, so detect death
+       from the return value instead of dereferencing ch afterward. */
+    if (damage(victim,ch, dam/5, SPELL_BANSHEE_AURA) == -1)
      return 0 ;
-    if (GET_POS(ch) <= POS_DEAD)
-     return 0;
    }
   }
 
@@ -1464,12 +1468,14 @@ int damage(struct char_data * ch, struct char_data * victim, int dam, int attack
      (number(1, 200) < GET_LEVEL(victim)) )   {
       if (IS_AFFECTED(victim, AFF_FIRESHIELD) &&
          !IS_AFFECTED(ch, AFF_FIRESHIELD))      {
-	if (damage(victim, ch, MAX(1,MIN((dam/(number(1,4))), 100)),
-           TYPE_UNDEFINED) ){
-          if(ch == NULL)
-           return 0 ;
-          if (GET_POS(ch) <= POS_DEAD)
-           return 0;
+	/* damage() returns -1 when it kills its victim (here, ch); ch may
+	   already be freed via extract_char() in that case, so detect death
+	   from the return value instead of dereferencing ch afterward. */
+	int fireshield_reflect = damage(victim, ch, MAX(1,MIN((dam/(number(1,4))), 100)),
+           TYPE_UNDEFINED);
+	if (fireshield_reflect == -1)
+	  return 0;
+	if (fireshield_reflect){
           act("You burned in the $N's fire shield.", FALSE, ch, 0, victim, TO_CHAR);
           act("$U$n burns in your fire shield.", FALSE, ch, 0, victim, TO_VICT);
 	}
@@ -1580,6 +1586,7 @@ int damage(struct char_data * ch, struct char_data * victim, int dam, int attack
       else
         solo_gain(ch, victim);
     }
+    bleed_register_kill(ch, victim);
    // Clan War System. Taerom. 07/2003
     if (!IS_NPC(victim))
     {
@@ -2281,6 +2288,24 @@ void perform_violence(void)
 
     /*mob_ia(ch);*/
     hit(ch, FIGHTING(ch), TYPE_UNDEFINED);
+
+    /* hit() can kill and extract_char() its own attacker (ch) via a
+       victim's damage-reflect effect (AFF_FIRESHIELD/AFF2_BANSHEE).
+       Confirm ch is still a live character before touching it further,
+       instead of dereferencing a possibly-freed pointer for the rest
+       of this round. */
+    {
+      struct char_data *survivor_check;
+      bool ch_survived = FALSE;
+      for (survivor_check = character_list; survivor_check; survivor_check = survivor_check->next) {
+        if (survivor_check == ch) {
+          ch_survived = TRUE;
+          break;
+        }
+      }
+      if (!ch_survived)
+        continue;
+    }
 
     for (k = ch->followers; k; k=k->next) {
       if (!IS_NPC(k->follower) && PRF_FLAGGED(k->follower, PRF_AUTOASSIST) &&

@@ -24,6 +24,7 @@
 #include "olc.h"
 #include "dg_scripts.h"
 #include "clan.h"
+#include "bleed.h"
 
 /* extern variables */
 extern int top_of_helpt;
@@ -1334,6 +1335,14 @@ void look_at_room(struct char_data * ch, int ignore_brief)
   if ((!IS_NPC(ch) && !PRF_FLAGGED(ch, PRF_BRIEF)) || ignore_brief ||
       ROOM_FLAGGED(ch->in_room, ROOM_DEATH))
     send_to_char(world[ch->in_room].description, ch);
+
+  if (ROOM_FLAGGED(ch->in_room, ROOM_BLEED)) {
+    const char *bleed_text = bleed_room_flavor(ch->in_room);
+    if (bleed_text) {
+      send_to_char(bleed_text, ch);
+      send_to_char("\r\n", ch);
+    }
+  }
 
   if (ROOM_AFFECTED(ch->in_room, RAFF_FIREWALL))
     send_to_char("&RYou see a large &Yfirewall&R here.&n\r\n", ch);
